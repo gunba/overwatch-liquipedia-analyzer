@@ -1,0 +1,617 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2|liquipediatiertype=Qualifier",
+            "name": "Overwatch APEX Season 3: Online Qualifier",
+            "series": "Overwatch APEX",
+            "abbreviation": "APEX Challengers",
+            "image": "APEX_Challengers_logo.png",
+            "organizer": "OnGameNet",
+            "organizer-link": "http://ch.interest.me/ongamenet",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Korea",
+            "format": "",
+            "prizepoolusd": "",
+            "prizepool": "",
+            "localcurrency": "krw",
+            "sdate": "2017-05-06",
+            "edate": "2017-05-07",
+            "bracket": "http://ow.uniqxp.com/bracket/S3/1",
+            "web": "http://ow.uniqxp.com/online/S3",
+            "twitch": "",
+            "team_number": "82"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "TwoLetter",
+            "image": "twoletterlogo.png",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "UnLimited",
+            "image": "unlimitedlogo.png",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "EHOME Shield",
+            "image": "EHOME.png",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "EHOME Spear",
+            "image": "EHOME.png",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "Good Dive Gaming Blue",
+            "image": "Gooddivegamingbluelogo.png",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "Ocean Drop",
+            "image": "Oceandroplogo.png",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "Nc Foxes",
+            "image": "",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "COUGAR Gaming",
+            "image": "Cougar Gaminglogo.png",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "ARMED Omega",
+            "image": "",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "NaNoBlossom",
+            "image": "",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "Team BRO",
+            "image": "",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "SA6 GAMING",
+            "image": "",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "STEEL",
+            "image": "",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        },
+        {
+            "team": "\uc6b0\ub9ac\uc9d1\uac15\uc544\uc9c0\ubcf5\uc21c\uc774\ub294\uae14\uc5ec\uc6cc",
+            "image": "",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "|cflag=kr"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "good dive gaming blue",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "neptune",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "good dive gaming blue",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "neptune",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "\ub8e8\ud0a4\uc2a4",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "guisin",
+            "score2": "",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "armed omega",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "\uc2dc\ud2f0\uc720 \ud30c\ud1a0\uc2a4",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "team tap",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "master felix",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "legend watch",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "\uc6b0\ub9ac\uc9d1\uac15\uc544\uc9c0\ubcf5\uc21c\uc774\ub294\uae14\uc5ec\uc6cc",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "victory",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "\uc6b0\ub9ac\uc9d1\uac15\uc544\uc9c0\ubcf5\uc21c\uc774\ub294\uae14\uc5ec\uc6cc",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ardeont",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "check\u3161mate",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "check\u3161mate",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "cougar gaming",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "hosugranze",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "cougar gaming",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "hosugranze",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "nc wolves",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "bye",
+            "score1": "-",
+            "win1": ""
+        },
+        {
+            "team2": "nc wolves",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "team first heroic",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "twoletter",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "bye",
+            "score1": "-",
+            "win1": ""
+        },
+        {
+            "team2": "twoletter",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "just enjoy",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "g9in",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "\uac90\ud2b8\uc704\ud55c",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "ar",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "we need sponsors",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "\uac08\ubafc\ud338",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ehome shield",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "drugwatch klasico",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "ehome shield",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "noname first",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "wing7 blue",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "kungs tigers",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "creed",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "genocide",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "nc foxes",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "\uc2dc\uacf5\uc88b\uc544",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "effort succes",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "high school",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "effort succes",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "lowell knights",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "nanoblossom",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "lowell knights",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "nanoblossom",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "\uc5f0\ud76c\uc804\ubb38\ub300\ud559",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "wayo",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "\uc5f0\ud76c\uc804\ubb38\ub300\ud559",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "armed alpha",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "day break",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "armed alpah",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "ocean drop",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "new face",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "ocean drop",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "new face",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "unlimited",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "bye",
+            "score1": "-",
+            "win1": ""
+        },
+        {
+            "team2": "unlimited",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "team g3",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "klaster night gaming",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "steel",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "steel",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "underdog",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "ares fighter",
+            "score2": "",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "sa6 gaming",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "gx",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "sga blue",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "team gov",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "school launch",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ehome spear",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team royal road",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "ehome spear",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "adios",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "team bro",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "antenna",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "team bro",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ssl",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "first ultimate team",
+            "score2": "",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "team unis",
+            "score1": "W",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

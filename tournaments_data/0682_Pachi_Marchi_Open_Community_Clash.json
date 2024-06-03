@@ -1,0 +1,830 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "name": "Pachi-Marchi Open Community Clash",
+            "shortname": "Pachi-Marchi Open Community Clash",
+            "series": "",
+            "abbreviation": "",
+            "tickername": "Pachi-Marchi Open Community Clash",
+            "image": "Pachi-Marchi lightmode.png",
+            "imagedark": "Pachi-Marchi darkmode.png",
+            "icon": "Pachi-Marchi lightmode.png",
+            "icondark": "Pachi-Marchi darkmode.png",
+            "organizer": "Blizzard Entertainment",
+            "type": "Online",
+            "game": "overwatch2",
+            "country": "North America",
+            "format": "Single Elimination",
+            "prizepoolusd": "20000",
+            "sdate": "2023-03-21",
+            "edate": "2023-03-22",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/open-community-clash/bracket",
+            "twitter": "PlayOverwatch",
+            "discord": "yn9er32Rg9",
+            "twitch": "PlayOverwatch",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/open-community-clash/rules",
+            "team_number": "128"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "idk man",
+            "p1": "phi",
+            "pos1": "dps",
+            "p2": "TAP",
+            "pos2": "dps",
+            "p3": "kraandop",
+            "pos3": "tank",
+            "p4": "dridro",
+            "pos4": "sup",
+            "p5": "Exorath",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "junseo",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "J.A.Y.N.E.",
+            "p1": "Tchamp",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "ky",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Ronin",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p3link": "Ronin (American Player)",
+            "p4": "Flux",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Trumpetfire",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "pip",
+            "p6flag": "us",
+            "pos6": "sup"
+        },
+        {
+            "team": "Shikigami",
+            "p1": "Anhoo",
+            "pos1": "dps",
+            "p2": "Playto",
+            "pos2": "dps",
+            "p3": "Faded",
+            "pos3": "tank",
+            "p4": "Bagel",
+            "pos4": "sup",
+            "p5": "Hing3d",
+            "pos5": "sup",
+            "p6": "Goose",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Cuffy",
+            "t2c1flag": "uk",
+            "t2c1pos": "coach",
+            "t2c2": "Aeroplayne",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "SrPeakCheck",
+            "p1": "Dannedd",
+            "pos1": "dps",
+            "p2": "Snipu",
+            "pos2": "dps",
+            "p3": "LhCloudy",
+            "pos3": "tank",
+            "p4": "Dolla",
+            "pos4": "sup",
+            "p5": "ghost91",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Skeng1",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Fisher Men",
+            "p1": "Forgotten",
+            "pos1": "dps",
+            "p2": "Kabe",
+            "pos2": "dps",
+            "p3": "chimera",
+            "pos3": "dps",
+            "p4": "Avani",
+            "pos4": "tank",
+            "p5": "Neb",
+            "pos5": "sup",
+            "p6": "Abbs",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Ducklover",
+            "t2c1pos": "manager",
+            "t2c2": "Junseo",
+            "t2c2pos": "manager",
+            "t2c3": "p0int",
+            "t2c3pos": "manager"
+        },
+        {
+            "team": "Troll Patrol",
+            "p1": "AWAKEN",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Absolute",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Bready",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "ceeful",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Graveyard",
+            "p5flag": "ca",
+            "pos5": "sup",
+            "p6": "Bandit",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Chance",
+            "pos7": "sup",
+            "p7link": "Chance (American Player)",
+            "t2title": "Staff",
+            "t2c1": "Codex481",
+            "t2c1flag": "us",
+            "t2c1pos": "manager",
+            "t2c2": "Bonk",
+            "t2c2flag": "ca",
+            "t2c2pos": "coach"
+        },
+        {
+            "team": "Gambit",
+            "p1": "Putter",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Ame",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Kronik",
+            "pos3": "dps",
+            "p4": "Pelacon",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "WorthShatter",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "Avertings",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Sketch",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Lulu",
+            "t2c1flag": "us",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "DarkMode NA",
+            "p1": "Doomed",
+            "pos1": "dps",
+            "p2": "P3t9L",
+            "pos2": "dps",
+            "p3": "abdala",
+            "pos3": "tank",
+            "p4": "MattMerc",
+            "pos4": "tank",
+            "p5": "Otters",
+            "pos5": "sup",
+            "p6": "Joobi",
+            "pos6": "sup"
+        },
+        {
+            "team": "Cheers",
+            "p1": "Samito",
+            "pos1": "dps",
+            "p2": "Vision",
+            "pos2": "dps",
+            "p3": "Kephrii",
+            "pos3": "dps",
+            "p4": "Cloneman16",
+            "pos4": "tank",
+            "p5": "Karrotz",
+            "pos5": "sup",
+            "p6": "Renko",
+            "pos6": "sup",
+            "p7": "Momentum",
+            "pos7": "sup",
+            "p8": "p0int",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "junseo",
+            "t2c1pos": "manager",
+            "t2c2": "Cointree",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "Shapeless Void",
+            "p1": "UcantCghost",
+            "pos1": "dps",
+            "p2": "Merge",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "DoubleA",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "Astonish",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Jacoby",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Spencer",
+            "pos6": "sup",
+            "p7": "Otta",
+            "p7flag": "ca",
+            "pos7": "sup"
+        },
+        {
+            "team": "Krazy 88s",
+            "p1": "JUTSU",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Xyphen",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Jags",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Zmurfiex",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Reinguy",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Thunder",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p6link": "Thunder (American Player)",
+            "p7": "Coach",
+            "p7flag": "us",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Fauwkz",
+            "t2c1flag": "ca",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "3..2..1.. n4no",
+            "p1": "Warn",
+            "p1flag": "ca",
+            "pos1": "dps",
+            "p2": "YZNSA",
+            "pos2": "dps",
+            "p3": "Yeatle",
+            "pos3": "tank",
+            "p4": "Aspen",
+            "pos4": "sup",
+            "p5": "mL7",
+            "p5flag": "ro",
+            "pos5": "sup"
+        },
+        {
+            "team": "Chemical Reaction",
+            "p1": "PunkZ",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Radddio",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "zzking",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "PurpleSalmon",
+            "p4flag": "",
+            "pos4": "sup",
+            "p5": "Braisel",
+            "p5flag": "us",
+            "pos5": "sup"
+        },
+        {
+            "team": "Flashes of Brilliance",
+            "p1": "Salty",
+            "pos1": "dps",
+            "p1link": "Salty (American Player)",
+            "p2": "Bizz",
+            "pos2": "dps",
+            "p3": "Cyber",
+            "pos3": "tank",
+            "p4": "reverse",
+            "pos4": "sup",
+            "p4link": "reverse (American Player)",
+            "p5": "Meadxr",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "ThatAFKNoob",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Sleepover Party",
+            "p1": "Glacial",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Jazza",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "jishua",
+            "pos3": "tank",
+            "p4": "G\u00fcnther",
+            "pos4": "sup",
+            "p5": "Shaq",
+            "pos5": "sup",
+            "t2title": "Substitutes",
+            "t2p1": "HaMmEr",
+            "t2pos1": "dps",
+            "t2p2": "Garchomp",
+            "t2pos2": "tank"
+        },
+        {
+            "team": "winton.",
+            "p1": "ZachaREEE",
+            "pos1": "dps",
+            "p2": "silent",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "JkAru19",
+            "pos3": "tank",
+            "p4": "cowman711",
+            "pos4": "tank",
+            "p5": "Anghell1c",
+            "pos5": "sup",
+            "p6": "Muma",
+            "pos6": "sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "March 21, 2023 - 19:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "idk man|score=W",
+            "opponent2": "J.A.Y.N.E.|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "March 21, 2023 - 19:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "shikigami|score=W",
+            "opponent2": "srpeakcheck|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "March 21, 2023 - 19:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher men|score=W",
+            "opponent2": "troll patrol|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "March 21, 2023 - 19:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "gambit|score=L",
+            "opponent2": "darkmode na|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "March 21, 2023 - 19:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "cheers|score=W",
+            "opponent2": "shapeless void|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "March 21, 2023 - 19:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "krazy 88s|score=",
+            "opponent2": "3..2..1.. n4no|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "March 21, 2023 - 19:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "chemical reaction|score=L",
+            "opponent2": "flashes of brilliance|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "March 21, 2023 - 19:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "sleepover party|score=W",
+            "opponent2": "winton.|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "date": "March 22, 2023 - 17:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "idk man",
+            "opponent1_score": 0,
+            "opponent2": "shikigami",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "March 22, 2023 - 17:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher men",
+            "opponent1_score": 1,
+            "opponent2": "darkmode na",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "March 22, 2023 - 17:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "playoverwatch",
+            "opponent1": "cheers|score=",
+            "opponent2": "3..2..1.. n4no|score=",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "March 22, 2023 - 17:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "flashes of brilliance",
+            "opponent1_score": 2,
+            "opponent2": "sleepover party",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "March 22, 2023 - 18:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "playoverwatch",
+            "opponent1": "shikigami|score=",
+            "opponent2": "darkmode na|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "March 22, 2023 - 19:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "playoverwatch",
+            "opponent1": "3..2..1.. n4no|score=",
+            "opponent2": "flashes of brilliance|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "5",
+            "date": "March 22, 2023 - 20:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "playoverwatch",
+            "opponent1": "darkmode na|score=",
+            "opponent2": "3..2..1.. n4no|score=",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "68.24m",
+                "score2": "68.40m",
+                "winner": "2"
+            },
+            "optional": "R4M1="
+        }
+    ]
+}

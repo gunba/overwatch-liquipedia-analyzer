@@ -1,0 +1,334 @@
+{
+    "tournament_info": [
+        {
+            "name": "Academy Gaming Overwatch Weekly #71",
+            "shortname": "71",
+            "image": "AGFull.png",
+            "series": "Academy Gaming",
+            "organizer": "Academy Gaming",
+            "organizer-link": "http://www.battlefy.com/academy-gaming/",
+            "sponsor": "[http://www.matcherino.com/ Matcherino], [http://haste.net/ Haste]",
+            "type": "Online",
+            "country": "USA",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "date": "2017-10-02",
+            "prizepoolusd": "162",
+            "web": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-71/59c9e87ea592ea034a9b295f/info?infoTab=details",
+            "twitch": "gamewithstorm",
+            "bracket": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-71/59c9e87ea592ea034a9b295f/stage/59d2bd0a453ab50344b3b1e5/bracket/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "24"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Rockets Esports",
+            "image": "Rockets Esportslogo.png",
+            "p1": "Toiletman|p1flag=us|pos1=dps",
+            "p2": "redstart|p2flag=us|pos2=dps",
+            "p3": "yeHHH|p3flag=us|pos3=flex",
+            "p4": "ProGi|p4flag=de|pos4=tank",
+            "p5": "Tehpwnzorr|p5flag=us|pos5=sup",
+            "p6": "Zergling|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "Shu|t2pos1=manager|t2p1link=Shu (Canadian player)"
+        },
+        {
+            "team": "where's baldo?",
+            "image": "",
+            "p1": "Dalton|p1flag=us|pos1=dps",
+            "p2": "nero|p2flag=us|pos2=dps",
+            "p3": "crakinlakin|p3flag=us|pos3=flex",
+            "p4": "panker|p4flag=|pos4=tank",
+            "p5": "Insomniaq|p5flag=us|pos5=sup",
+            "p6": "HaKuMei|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Bedtime Fugitives",
+            "image": "Bedtime Fugitives logo.png",
+            "p1": "Hang|p1flag=",
+            "p2": "Techei|p2flag=",
+            "p3": "Catakryst|p3flag=",
+            "p4": "Sinker|p4flag=",
+            "p5": "Rolo|p5flag=",
+            "p6": "BADGER\u01f6|p6flag=",
+            "p7": "Supersoker|p7flag=",
+            "p8": "Eve|p8flag="
+        },
+        {
+            "team": "Rivals Gaming",
+            "image": "",
+            "p1": "niiko|p1flag=ca",
+            "p2": "jaxB|p2flag=ca",
+            "p3": "alien42|p3flag=ca",
+            "p4": "Fearless|p4flag=ca|p4link=Fearless (Canadian player)",
+            "p5": "DunKZ|p5flag=ca",
+            "p6": "AntoL|p6flag=ca"
+        },
+        {
+            "team": "Avail Nation",
+            "image": "",
+            "p1": "Gapehorn|p1flag=",
+            "p2": "TinCrow|p2flag=",
+            "p3": "Tater|p3flag=",
+            "p4": "IzzyData|p4flag=",
+            "p5": "Claudre|p5flag=",
+            "p6": "chaoself|p6flag=",
+            "p7": "newphone|p7flag=",
+            "p8": "hachik0|p8flag="
+        },
+        {
+            "team": "Sizzle Gaming",
+            "image": "Sizzle Gaming logo.png",
+            "p1": "Lycan|p1flag=us|p1link=Lycan (American player)",
+            "p2": "SweatY|p2flag=",
+            "p3": "G\u00fcnther|p3flag=",
+            "p4": "SCOPE|p4flag=us",
+            "p5": "jose88p|p5flag=",
+            "p6": "Zen|p6flag=us|p6link=Zen (American player)",
+            "p7": "NoPulse|p7flag="
+        },
+        {
+            "team": "reformed btw",
+            "image": "",
+            "p1": "TEKA|p1flag=",
+            "p2": "Pinktauren|p2flag=",
+            "p3": "clawofdeath|p3flag=",
+            "p4": "Pizzademon|p4flag=",
+            "p5": "D4RKST4R|p5flag=",
+            "p6": "Hypnott|p6flag="
+        },
+        {
+            "team": "NO ANIME ALLOWED",
+            "image": "",
+            "p1": "SugarFree|p1flag=",
+            "p2": "lolztehtroll|p2flag=us",
+            "p3": "Dabs|p3flag=",
+            "p4": "Cava|p4flag=",
+            "p5": "Haunt|p5flag=",
+            "p6": "Forwards|p6flag="
+        },
+        {
+            "team": "Hoon and Frans",
+            "image": "",
+            "p1": "Hex|p1flag=us|p1link=Hex (American Player)",
+            "p2": "FRAN|p2flag=us",
+            "p3": "Hoonmaru|p3flag=kr",
+            "p4": "Barcode|p4flag=us",
+            "p5": "Apache|p5flag=us|p5link=Apache (American Player)",
+            "p6": "Redshell|p6flag=mx"
+        },
+        {
+            "team": "The Savages",
+            "image": "The savages logo.png",
+            "p1": "Owl|p1flag=us|p1link=Owl (American player)",
+            "p2": "Kapo|p2flag=",
+            "p3": "Dino|p3flag=",
+            "p4": "AceOFSpades|p4flag=",
+            "p5": "Player1|p5flag=",
+            "p6": "Derrek|p6flag=us",
+            "c": "EMRusto"
+        },
+        {
+            "team": "WBC Sky",
+            "image": "",
+            "p1": "Jinglebuns|p1flag=",
+            "p2": "Frebreez3|p2flag=",
+            "p3": "Frodo|p3flag=",
+            "p4": "Kallliii|p4flag=",
+            "p5": "straY|p5flag=",
+            "p6": "\u01f6smeagol|p6flag="
+        },
+        {
+            "team": "Bunny Blasters",
+            "image": "Bunny Blasters logo.png",
+            "p1": "HippieByDay|p1flag=us",
+            "p2": "iamRoot|p2flag=",
+            "p3": "Fitz|p3flag=us",
+            "p4": "sohnOfGod|p4flag=kr",
+            "p5": "Georgelion66|p5flag=uk",
+            "p6": "sash|p6flag=us",
+            "p7": "benji|p7flag="
+        },
+        {
+            "team": "I don't have a team name",
+            "image": "",
+            "p1": "Shereshoy|p1flag=",
+            "p2": "Meibae|p2flag=",
+            "p3": "Deckland|p3flag=",
+            "p4": "ChrizTahFah|p4flag=us",
+            "p5": "NICK|p5flag=",
+            "p6": "Joyless|p6flag=",
+            "p7": "LittleMenace|p7flag=us"
+        },
+        {
+            "team": "Fight To Win",
+            "image": "",
+            "p1": "UltraViolet|p1flag=",
+            "p2": "Starfall|p2flag=",
+            "p3": "Jta|p3flag=us",
+            "p4": "tapX|p4flag=",
+            "p5": "Crave|p5flag=",
+            "p6": "RandAlThor|p6flag=",
+            "p7": "MetaMan|p7flag="
+        },
+        {
+            "team": "Lemonz",
+            "image": "",
+            "p1": "Dangath|p1flag=",
+            "p2": "taiy\u014d|p2flag=",
+            "p3": "Glitchstream|p3flag=",
+            "p4": "Spoo|p4flag=",
+            "p5": "Kappa|p5flag=",
+            "p6": "decimated|p6flag="
+        },
+        {
+            "team": "Is Pepsi ok?",
+            "image": "",
+            "p1": "Rube|p1flag=us",
+            "p2": "Lionheart|p2flag=us",
+            "p3": "MuffinzRage|p3flag=us",
+            "p4": "Purple|p4flag=us",
+            "p5": "k1ng|p5flag=",
+            "p6": "f3ltup|p6flag=us"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "is pepsi ok?",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "where's baldo?",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "fight to win",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "avail nation",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "lemonz",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "bedtime fugitives",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "sizzle gaming",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "i don't have a team name",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "reformed btw",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D9",
+            "team1": "bunny blasters",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "rivals gaming",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D11",
+            "team1": "wbc sky",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "the savages",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "rockets esports",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "no anime allowed",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "hoon and frans",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "avail nation",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "where's baldo?",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "sizzle gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "bedtime fugitives",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "rivals gaming",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W5",
+            "team1": "reformed btw",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "no anime allowed",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "rockets esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bedtime fugitives",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "where's baldo?",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "rockets esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W3",
+            "team1": "rivals gaming",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "rockets esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "where's baldo?",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

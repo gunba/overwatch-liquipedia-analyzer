@@ -1,0 +1,129 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #23",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "23",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2016-11-06",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-23/rankings/",
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "team_number": "55",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "The Chavs",
+            "image": "",
+            "p1": "ChrisTFer ",
+            "p1flag": "uk",
+            "p2": "Sev_ ",
+            "p2flag": "uk",
+            "p3": "Shazardous ",
+            "p3flag": "fi",
+            "p4": "Snizzlenose ",
+            "p4flag": "se",
+            "p5": "fischer ",
+            "p5flag": "dk",
+            "p6": "tomzeY ",
+            "p6flag": "hu",
+            "c": "cals ",
+            "cflag": "uk"
+        },
+        {
+            "team": "Fragsters",
+            "image": "",
+            "p1": "Adonis Zaxor ",
+            "p1flag": "dk",
+            "p2": "Danii ",
+            "p2flag": "dk",
+            "p3": "K1nn3x ",
+            "p3flag": "dk",
+            "p4": "Lind ",
+            "p4flag": "dk",
+            "p5": "Nerfddie ",
+            "p5flag": "dk",
+            "p6": "kellersn ",
+            "p6flag": "dk"
+        },
+        {
+            "team": "OW.QQ",
+            "image": "",
+            "p1": "bartu\u015b ",
+            "p1flag": "pl",
+            "p2": "tank",
+            "link": "tank_(Polish player) ",
+            "p2flag": "pl",
+            "p3": "ghost ",
+            "p3link": "ghost (Polish player) ",
+            "p3flag": "pl",
+            "p4": "\u015blepajstos ",
+            "p4flag": "pl",
+            "p5": "matth ",
+            "p5flag": "pl",
+            "p6": "no1special ",
+            "p6flag": "pl"
+        },
+        {
+            "team": "Team Vitality",
+            "image": "",
+            "p1": "Asox ",
+            "p1flag": "fr",
+            "p2": "Chubz ",
+            "p2flag": "fr",
+            "p3": "Flash0or ",
+            "p3flag": "bl",
+            "p4": "Hexis ",
+            "p4flag": "bl",
+            "p5": "Lilbow ",
+            "p5flag": "fr",
+            "p6": "Riskin ",
+            "p6flag": "fr"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "fragsters",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "team vitality",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "fragsters",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "the chavs",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "ow.qq",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "team vitality",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

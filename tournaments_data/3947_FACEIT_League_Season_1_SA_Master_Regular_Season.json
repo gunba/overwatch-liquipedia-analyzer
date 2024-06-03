@@ -1,0 +1,846 @@
+{
+    "tournament_info": [],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "May 4, 2024 - 15:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Caramujos",
+            "opponent2": "Gatitos",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "faceit": "1-745ff970-ed7c-4936-82a2-b7b74b6f5b5e",
+            "optional": "M1="
+        },
+        {
+            "date": "May 5, 2024 - 14:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "War Pigs",
+            "opponent2": "Loaded",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-674de9b9-70ba-4e45-8e7a-b1d46caf424b",
+            "optional": "M2="
+        },
+        {
+            "date": "April 30, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dignity",
+            "opponent2": "And They Say",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-3a9f79c9-fbc6-4cd9-abeb-b0baf56daab8",
+            "optional": "M3="
+        },
+        {
+            "date": "May 2, 2024 - 20:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Los Hermanos|score=W",
+            "opponent2": "necromantes|score=FF",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-d39d63bc-30f5-4059-8cdd-b80847b3aa4c",
+            "optional": "M4="
+        },
+        {
+            "bestof": "3",
+            "date": "May 7, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Loaded",
+            "opponent2": "Caramujos",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-f1ca1fce-aeff-499a-a1bf-e6611d24d65b",
+            "optional": "M1="
+        },
+        {
+            "date": "May 10, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "And They Say",
+            "opponent2": "War Pigs",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-76e136c9-7302-4728-a544-c28b51b51481",
+            "optional": "M2="
+        },
+        {
+            "date": "May 7, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "necromantes|score=FF",
+            "opponent2": "Dignity|score=W",
+            "faceit": "1-11184520-5b49-4cea-9e98-f24747a9f89e",
+            "optional": "M3="
+        },
+        {
+            "date": "May 9, 2024 - 21:55",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Los Hermanos",
+            "opponent2": "Gatitos",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-8f4ab119-bed8-46e3-8e43-cab697acc75f",
+            "optional": "M4="
+        },
+        {
+            "bestof": "3",
+            "date": "May 14, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Caramujos",
+            "opponent2": "And They Say",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-a456726c-dca0-41c3-aa99-d879e1d7938b",
+            "optional": "M1="
+        },
+        {
+            "date": "May 18, 2024 - 17:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "War Pigs",
+            "opponent2": "Dignity",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "faceit": "1-b30f494e-259f-44ca-ace9-c4906288edc7",
+            "optional": "M2="
+        },
+        {
+            "date": "May 14, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Loaded",
+            "opponent2": "Los Hermanos",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-995e5f6e-2dd8-4623-95fb-516c9458b628",
+            "optional": "M3="
+        },
+        {
+            "date": "May 14, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Gatitos|score=W",
+            "opponent2": "necromantes|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "faceit": "1-eb8b93c0-5abf-4e05-89a2-1126d3bc4ff2",
+            "optional": "M4="
+        },
+        {
+            "bestof": "3",
+            "date": "May 19, 2024 - 14:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dignity",
+            "opponent2": "Caramujos",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "winner": "skip"
+            },
+            "faceit": "1-05fd6485-dff7-46bf-a4a0-aa7dc2d64eff",
+            "optional": "M1="
+        },
+        {
+            "date": "May 16, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "necromantes|score=FF",
+            "opponent2": "War Pigs|score=W",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "winner": "skip"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "winner": "skip"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "winner": "skip"
+            },
+            "faceit": "1-2314759d-a59c-4848-8ad8-d364e3cf0119",
+            "optional": "M2="
+        },
+        {
+            "date": "May 16, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Los Hermanos",
+            "opponent2": "And They Say",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "winner": "skip"
+            },
+            "faceit": "1-fbf9736a-f318-4c70-a937-5b6239be6b66",
+            "optional": "M3="
+        },
+        {
+            "date": "May 19, 2024 - 15:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Gatitos",
+            "opponent2": "Loaded",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "winner": "skip"
+            },
+            "faceit": "1-78ad172a-df7a-4be3-ba95-a763ee88d5e0",
+            "optional": "M4="
+        },
+        {
+            "bestof": "3",
+            "date": "May 26, 2024 - 17:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Caramujos",
+            "opponent1_score": 0,
+            "opponent2": "War Pigs",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "faceit": "1-20ee90df-97a6-4ee6-b158-13e02812c03f",
+            "optional": "M1="
+        },
+        {
+            "date": "May 25, 2024 - 17:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dignity",
+            "opponent2": "Los Hermanos",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "faceit": "1-8817a8f2-f3db-400b-a6c3-83893f2de0b8",
+            "optional": "M2="
+        },
+        {
+            "date": "May 21, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "And They Say",
+            "opponent2": "Gatitos",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-c2f22213-f8fb-43c1-9a91-df93226e6e0f",
+            "optional": "M3="
+        },
+        {
+            "date": "May 21, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Loaded",
+            "opponent2": "necromantes",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-88630ecb-967b-43e1-a48b-7acb3867d4fa",
+            "optional": "M4="
+        },
+        {
+            "bestof": "3",
+            "date": "May 28, 2024 - 20:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "necromantes",
+            "opponent2": "Caramujos",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "winner": "skip"
+            },
+            "faceit": "1-e66d8b8d-4cf7-4ae5-aa17-326d335337a5",
+            "optional": "M1="
+        },
+        {
+            "date": "May 30, 2024 - 19:10",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Los Hermanos",
+            "opponent2": "War Pigs",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "faceit": "1-024c35ce-d727-423d-a7dd-a297e5bffb65",
+            "optional": "M2="
+        },
+        {
+            "date": "June 1, 2024 - 17:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Gatitos",
+            "opponent2": "Dignity",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Paraiso",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "winner": "skip"
+            },
+            "faceit": "1-8e88c83d-83c2-4f22-b79d-a79cb8e3f2aa",
+            "optional": "M3="
+        },
+        {
+            "date": "May 28, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Loaded",
+            "opponent2": "And They Say",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Paraiso",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "faceit": "1-d7ff849f-1bec-4601-b247-944c451176f1",
+            "optional": "M4="
+        },
+        {
+            "bestof": "3",
+            "date": "June 4, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Caramujos",
+            "opponent2": "Los Hermanos",
+            "map1": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "faceit": "1-11d321c4-08af-4167-a7cb-1bc7b7b5366a",
+            "optional": "M1="
+        },
+        {
+            "date": "June 4, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "War Pigs",
+            "opponent2": "Gatitos",
+            "map1": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "faceit": "1-4f41e320-2290-4a5f-a747-9d820d58c916",
+            "optional": "M2="
+        },
+        {
+            "date": "June 4, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dignity",
+            "opponent2": "Loaded",
+            "map1": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "faceit": "1-305e0f5e-af78-4831-8d3d-0e90d872bdfc",
+            "optional": "M3="
+        },
+        {
+            "date": "June 4, 2024 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "And They Say",
+            "opponent2": "necromantes",
+            "map1": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "faceit": "1-d43bc792-5706-4083-9f43-6a91228b22ae",
+            "optional": "M4="
+        }
+    ]
+}

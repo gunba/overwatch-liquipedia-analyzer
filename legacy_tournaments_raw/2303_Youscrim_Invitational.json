@@ -1,0 +1,97 @@
+{
+    "tournament_info": [
+        {
+            "name": "Youscrim Invitational Tournament",
+            "image": "Youscrimlogo.jpg",
+            "icon": "",
+            "tickername": "Youscrim Invitational",
+            "organizer": "Youscrim",
+            "organizer-link": "https://twitter.com/Youscrim",
+            "organizer2": "Speedy",
+            "organizer2-link": "https://twitter.com/janemsenhuber",
+            "organizer3": "Tomi",
+            "organizer3-link": "https://twitter.com/Tomi_SHeeSH",
+            "series": "Youscrim",
+            "country": "Germany",
+            "type": "Online",
+            "format": "Single Elimination",
+            "prizepool": "100",
+            "localcurrency": "eur",
+            "date": "2022-03-12",
+            "liquipediatier": "5",
+            "web": "https://youscrim.com/",
+            "twitter": "youscrim",
+            "rulebook": "https://onedrive.live.com/?authkey=%21ANpcYOARHJKn1V8&cid=ED5DFD64D19537E1&id=ED5DFD64D19537E1%219572&parId=ED5DFD64D19537E1%219050&o=OneUp",
+            "team_number": "4",
+            "game": "overwatch"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Zongtong Ben",
+            "p1": "Demigod|p1flag=de|pos1=dps",
+            "p2": "Preason|p2flag=de|pos2=dps",
+            "p3": "crowned|p3flag=de|pos3=tank",
+            "p4": "21Savage|p4flag=de|pos4=tank",
+            "p5": "Vopex|p5flag=de|pos5=support",
+            "p6": "\u0115sc|p6flag=de|pos6=support",
+            "t2title": "Staff",
+            "t2c1": "LilFarmer|t2c1flag=de|t2c1pos=Manager"
+        },
+        {
+            "team": "Seahawks eSports",
+            "p1": "Pagu|p1flag=de|pos1=DPS",
+            "p2": "Neinyth|p2flag=de|pos2=DPS",
+            "p3": "NicoRush|p3flag=de|pos3=DPS",
+            "p4": "Nurretin|p4flag=de|pos4=Tank",
+            "p5": "Habit|p5flag=de|pos5=Tank",
+            "p6": "Juuz|p6flag=de|pos6=Support",
+            "p7": "Iroh|p7flag=de|pos7=Support",
+            "t2title": "Staff",
+            "t2c1": "TrqstMe|t2c1flag=de|t2c1pos=Manager"
+        },
+        {
+            "team": "Simp4Site",
+            "p1": "Bulien |p1flag=de |pos1=dps",
+            "p2": "Sleyx |p2flag=de |pos2=dps",
+            "p3": "Kaffeekranz |p3flag=de |pos3=tank",
+            "p4": "Skyprime |p4flag=de |pos4=tank",
+            "p5": "Kevinfiziert |p5flag=de |pos5=support",
+            "p6": "Jona |p6flag=de |pos6=support"
+        },
+        {
+            "team": "Munich eSports Nemesis",
+            "p1": "Zydra|p1flag=at|pos1=DPS",
+            "p2": "poussinrouge|p2flag=fr|pos2=DPS",
+            "p3": "BattleBorne|p3flag=uk|pos3=Tank",
+            "p4": "EvilArts|p4flag=de|pos4=Tank",
+            "p5": "qualle|p5flag=de|pos5=Support",
+            "p6": "Dizzel|p6flag=PT|pos6=Support",
+            "p7": "Benakyn|p7flag=JP|pos7=Support",
+            "t2title": "Staff",
+            "t2c1": "JonnyNew|t2c1flag=|t2c1pos=Manager",
+            "t2c2": "Regiegab|t2c2flag=de"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Munich eSports Nemesis",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "Zongtong Ben",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "Seahawks eSports",
+            "score2": "2",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "Zongtong Ben",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

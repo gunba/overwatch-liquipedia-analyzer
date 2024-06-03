@@ -1,0 +1,1159 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch Rumble - April Open Qualifier",
+            "series": "Overwatch Rumble",
+            "shortname": "April Qualifier",
+            "image": "Overwatch Rumblelogo.png",
+            "abbreviation": "OW Rumble Qualifier",
+            "tickername": "OW Rumble Qualifier",
+            "organizer": "Rivalcade",
+            "sponsor": "[http://rivalcades.com/ Rivalcade] <br> [https://xsolla.academy/ Xsolla Academy] <br> [https://www.dxracer.com DXRacer] <br> [https://www.razerzone.com Razer] <br> [http://us.blizzard.com Blizzard Entertainment]",
+            "type": "Online",
+            "country": "North America",
+            "city": "",
+            "format": "Qualifiers <br> Group Stage <br> Playoffs",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "500",
+            "date": "2017-04-18",
+            "liquipediatier": "2|liquipediatiertype=Qualifier",
+            "web": "http://rivalcades.com/owrumble.php",
+            "twitter": "livethebattle",
+            "bracket": "https://arena.razerzone.com/tournaments/details/4868/overwatch-rumble-qualifier/",
+            "twitch": "livethebattle",
+            "team_number": "50"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Liquid",
+            "image": "",
+            "p1": "DaHanG",
+            "p2": "MESR",
+            "p3": "AZK",
+            "p4": "Rapha",
+            "p5": "shadder2k",
+            "p6": "id",
+            "c": "Aurace|cflag=us"
+        },
+        {
+            "team": "NRG Esports",
+            "image": "",
+            "p1": "Ajax",
+            "p2": "Harbleu",
+            "p3": "numlocked",
+            "p4": "iddqd",
+            "p5": "Mendokusaii",
+            "p6": "dummy",
+            "c": "|cflag="
+        },
+        {
+            "team": "Counter Logic Gaming",
+            "image": "",
+            "p1": "Mikado",
+            "p2": "The",
+            "p3": "Waffletastic",
+            "p4": "Hydration",
+            "p5": "Miso",
+            "p6": "iShiny",
+            "c": "Cuddles|cflag=uk"
+        },
+        {
+            "team": "Brasil Gaming House",
+            "image": "",
+            "p1": "dudu",
+            "p2": "Murizzz",
+            "p3": "neil",
+            "p4": "liko",
+            "p5": "kolero",
+            "p6": "Alemao",
+            "c": "baba1u|cflag=br"
+        },
+        {
+            "team": "EnVision eSports",
+            "image": "",
+            "p1": "Tseini",
+            "p2": "Fire|p2flag=us",
+            "p3": "Fahzix|p3flag=us",
+            "p4": "McGravy|p4flag=us",
+            "p5": "Kophee|p5flag=us",
+            "p6": "Darksma|p6flag=us",
+            "c": "Packing10|cflag=us"
+        },
+        {
+            "team": "Toronto Esports",
+            "image": "",
+            "p1": "Cynic|p1flag=uk",
+            "p2": "Mac|p2flag=us",
+            "p3": "Jaru|p3flag=us",
+            "p4": "Snow|p4flag=us|p4link=Snow (American player)",
+            "p5": "NotE|p5flag=ca",
+            "p6": "Onigod|p6flag=no",
+            "c": "|cflag="
+        },
+        {
+            "team": "You guys get paid?",
+            "image": "",
+            "p1": "KSF|p1flag=us",
+            "p2": "PsychoWaffle|p2flag=",
+            "p3": "Moffitt|p3flag=",
+            "p4": "MrSquishee|p4flag=ca",
+            "p5": "Beasthalo|p5flag=us",
+            "p6": "SPACE|p6flag=us",
+            "c": "|cflag="
+        },
+        {
+            "team": "Rockets Esports",
+            "image": "Rockets_Esportslogo.png",
+            "p1": "Cloneman16|p1flag=us",
+            "p2": "Far|p2flag=us",
+            "p3": "Deadly|p3flag=us",
+            "p4": "Majesty|p4flag=ca",
+            "p5": "moth|p5flag=us",
+            "p6": "ultimawep",
+            "t2title": "Staff",
+            "t2p1": "BestStudent|t2pos1=coach|t2p1flag=us",
+            "t2p2": "Bloxi|t2pos2=analyst"
+        },
+        {
+            "team": "Tempo Storm NA",
+            "image": "",
+            "p1": "Hooey",
+            "p2": "TiG",
+            "p3": "Mini",
+            "p4": "Cosi",
+            "p5": "jkw",
+            "p6": "DreamKazper",
+            "c": "Novx|cflag=us"
+        },
+        {
+            "team": "Wizards Club",
+            "image": "",
+            "p1": "Vinanrra",
+            "p2": "Saura",
+            "p3": "KRYP",
+            "p4": "Shevatas",
+            "p5": "Woolridge|p5flag=es",
+            "p6": "Nightyz",
+            "c": "Allf|cflag=es"
+        },
+        {
+            "team": "Rise Nation",
+            "image": "",
+            "p1": "Desro",
+            "p2": "Midnight",
+            "p3": "Phaz",
+            "p4": "Spirit",
+            "p5": "xRetzi",
+            "p6": "Locke",
+            "c": "Winlogon|cflag=ca"
+        },
+        {
+            "team": "Gale Force eSports",
+            "image": "",
+            "p1": "Muma|p1flag=us",
+            "p2": "Bani|p2flag=ca",
+            "p3": "Shrugger",
+            "p4": "CLOCKWORK",
+            "p5": "Boink|p5flag=us",
+            "p6": "exi",
+            "c": "wgb"
+        },
+        {
+            "team": "Eanix",
+            "image": "",
+            "p1": "PlasmaSnake|p1flag=us",
+            "p2": "Octile|p2flag=us",
+            "p3": "Grandeur|p3flag=us",
+            "p4": "prismah|p4flag=us",
+            "p5": "Noukky|p5flag=de",
+            "p6": "Jake|p6flag=us",
+            "c": "|cflag="
+        },
+        {
+            "team": "White Panthers",
+            "image": "",
+            "p1": "flesh|p1flag=ar",
+            "p2": "Jhein",
+            "p3": "Fawin|p3flag=ar",
+            "p4": "ra\u00fal|p4flag=cl",
+            "p5": "YapaTeh|p5flag=cl",
+            "p6": "Evan|p6flag=cl",
+            "c": "KTN|cflag=cl"
+        },
+        {
+            "team": "6Sense",
+            "image": "6Sense.png",
+            "p1": "UnReal|p1flag=mx",
+            "p2": "Mictla|p2flag=mx",
+            "p3": "SH0CKWAVE|p3flag=mx",
+            "p4": "Mysteryon|p4flag=mx",
+            "p5": "ion|p5flag=mx|p5link=ion (Mexican player)",
+            "p6": "TikoRandom|p6flag=mx",
+            "c": "|cflag="
+        },
+        {
+            "team": "Freedom Fighters",
+            "image": "Freedom_Fighterslogo.png",
+            "p1": "zanderz|p1flag=us",
+            "p2": "Dal10|p2flag=us",
+            "p3": "drnk3n|p3flag=de",
+            "p4": "NapTime|p4flag=us",
+            "p5": "bowswer|p5flag=us",
+            "p6": "Hayko|p6flag=fr",
+            "c": "|cflag="
+        },
+        {
+            "team": "Atheris",
+            "image": "Atheris.png",
+            "p1": "Vicster|p1flag=mx",
+            "p2": "thunder|p2flag=mx|p2link=thunder (Mexican player)",
+            "p3": "Bombol|p3flag=mx",
+            "p4": "Attanius|p4flag=us",
+            "p5": "Sapphire|p5flag=mx",
+            "p6": "Carrasc|p6flag=mx",
+            "c": "|cflag="
+        },
+        {
+            "team": "Keep Gaming",
+            "p1": "Snow |p1flag=|p1link=Snow (Brazilian player)",
+            "p2": "TYGER |p2flag=",
+            "p3": "ole |p3flag=",
+            "p4": "prod |p4flag=",
+            "p5": "Fastie |p5flag=",
+            "p6": "wings |p6flag= |p6link=wings (Brazilian player)",
+            "c": "|cflag="
+        },
+        {
+            "team": "MATTER",
+            "image": "MATTER logo.png",
+            "p1": "Tokki|p1flag=us",
+            "p2": "Qruxy|p2flag=us",
+            "p3": "Gurululz|p3flag=us",
+            "p4": "HiYDDAD|p4flag=us",
+            "p5": "DPSDUDE420|p5flag=us",
+            "p6": "riporter|p6flag=us",
+            "c": "|cflag="
+        },
+        {
+            "team": "DEATHS UNION",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "XceleSports",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Free Agents Boyz",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "UNC-Charlotte",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Ordo Equitum",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Team NaCl",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Prototype Prodigys",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "A Solution",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Oblivion",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "ThrowDownParty",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Blacklisted",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "underline",
+            "image": "",
+            "p1": "Vilevirtues|p1flag=us",
+            "p2": "dejew|p2flag=us",
+            "p3": "OtterInWater|p3flag=us",
+            "p4": "Chanse|p4flag=us",
+            "p5": "Tehpwnzorrr|p5flag=us",
+            "p6": "Hiro|p6flag=us|p6link=Hiro (American player)",
+            "c": "|cflag="
+        },
+        {
+            "team": "RIP Harambe",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Team Mentallic",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "6Sense 404",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Virtue",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Absolute Territory",
+            "image": "",
+            "p1": "Protocall|p1flag=ca",
+            "p2": "Variant|p2flag=ca",
+            "p3": "Thynoob|p3flag=us",
+            "p4": "Ikari|p4flag=ca",
+            "p5": "Sespion|p5flag=ca",
+            "p6": "Snik|p6flag=ca",
+            "c": "|cflag="
+        },
+        {
+            "team": "Phoenix9",
+            "image": "",
+            "p1": "Myrodin|p1flag=us",
+            "p2": "Mercy|p2flag=us |p2link=Mercy (American Player)",
+            "p3": "darkcoolyo|p3flag=us",
+            "p4": "kingboppa|p4flag=us",
+            "p5": "Cheesedex|p5flag=us",
+            "p6": "Rinn|p6flag=us",
+            "c": "|cflag="
+        },
+        {
+            "team": "KEYS",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Ego Check",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Flatline",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "ThatOneOWRoster",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Out of Order",
+            "image": "",
+            "p1": "izuma|p1flag=ca",
+            "p2": "Ulfsark|p2flag=us",
+            "p3": "Gandhi|p3flag=us",
+            "p4": "Whim|p4flag=us",
+            "p5": "SaltyWorkBoy|p5flag=us",
+            "p6": "Nock|p6flag=us",
+            "c": "|cflag="
+        },
+        {
+            "team": "Team Never Tell",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Alex's Nest",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Sub-Zero",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "never lucky",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Team Clan Squad",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Suck Brick Kids",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "FairWeather Foggy",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Don'tTakeMyElo",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "team liquid",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "team clan squad",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "suck brick kids",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "deaths union",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "6sense",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "6sense 404",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "matter",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "toronto esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "xcelesports",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "freedom fighters",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "gale force esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "unc-charlotte",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D15",
+            "team1": "free agents boyz",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D17",
+            "team1": "rise nation",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "team nacl",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D19",
+            "team1": "ordo equitum",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D21",
+            "team1": "prototype prodigys",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "a solution",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D23",
+            "team1": "atheris",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D25",
+            "team1": "you guys get paid?",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "throwdownparty",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D27",
+            "team1": "oblivion",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D29",
+            "team1": "rockets esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "underline",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D31",
+            "team1": "blacklisted",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D33",
+            "team1": "clg",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "team mentallic",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D35",
+            "team1": "rip harambe",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "virtue",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D37",
+            "team1": "keep gaming",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "phoenix9",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D39",
+            "team1": "absolute territory",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D41",
+            "team1": "envision esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "wizards club",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D43",
+            "team1": "keys",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D45",
+            "team1": "ego check",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "thatoneowroster",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D47",
+            "team1": "flatline",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D49",
+            "team1": "nrg",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "team never tell",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D51",
+            "team1": "out of order",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D53",
+            "team1": "brasil gaming house",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "sub-zero",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D55",
+            "team1": "alex's nest",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D57",
+            "team1": "tempo storm na",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "white panthers",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D59",
+            "team1": "never lucky",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D61",
+            "team1": "eanix",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "don'ttakemyelo",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D63",
+            "team1": "fairweather foggy",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "team clan squad",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "team liquid",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "matter",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "6sense",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "freedom fighters",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W5",
+            "team1": "toronto esports",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "free agents boyz",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "gale force esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ordo equitum",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W9",
+            "team1": "rise nation",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "atheris",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W11",
+            "team1": "prototype prodigys",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "throwdownparty",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W13",
+            "team1": "you guys get paid?",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "underline",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W15",
+            "team1": "rockets esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "rip harambe",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W17",
+            "team1": "clg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "absolute territory",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W19",
+            "team1": "virtue",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "keys",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W21",
+            "team1": "envision esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "flatline",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W23",
+            "team1": "ego check",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "out of order",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W25",
+            "team1": "nrg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "sub-zero",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W27",
+            "team1": "brasil gaming house",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "never lucky",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W29",
+            "team1": "tempo storm na",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "don'ttakemyelo",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W31",
+            "team1": "eanix",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "matter",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "team liquid",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "gale force esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W3",
+            "team1": "freedom fighters",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "atheris",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W5",
+            "team1": "rise nation",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "rockets esports",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W7",
+            "team1": "you guys get paid?",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "virtue",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W9",
+            "team1": "clg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ego check",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W11",
+            "team1": "envision esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "brasil gaming house",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W13",
+            "team1": "nrg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "eanix",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W15",
+            "team1": "tempo storm na",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "gale force esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "team liquid",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "you guys get paid?",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W3",
+            "team1": "rise nation",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "envision esports",
+            "score2": "1",
+            "win2": "",
+            "key": "R4W5",
+            "team1": "clg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "tempo storm na",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W7",
+            "team1": "nrg",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "rise nation",
+            "score2": "2",
+            "win2": "1",
+            "key": "R5W1",
+            "team1": "gale force esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "tempo storm na",
+            "score2": "1",
+            "win2": "",
+            "key": "R5W3",
+            "team1": "clg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "clg",
+            "score2": "2",
+            "win2": "1",
+            "key": "R6W1",
+            "team1": "rise nation",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "tempo storm na",
+            "score2": "0",
+            "win2": "",
+            "key": "R6D1",
+            "team1": "gale force esports",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,169 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/5}}",
+            "series": "neueaka",
+            "shortname": "Neueaka's Overwatch Christmas",
+            "name": "Neueaka's Overwatch SEA Invitational Christmas Cup 2017",
+            "abbreviation": "Neueaka's Overwatch",
+            "image": "Neueaka_Christmas.jpg",
+            "icon": "",
+            "organizer": "Neueaka|organizer-link=https://www.facebook.com/neueaka/",
+            "sponsor": "",
+            "game": "Overwatch",
+            "type": "Online",
+            "country": "SEA",
+            "city": "",
+            "venue": "",
+            "format": "Single Elimination",
+            "twitch": "daksph",
+            "twitch2": "daus_says",
+            "youtube": "",
+            "prizepool": "120",
+            "localcurrency": "SGD",
+            "prizepoolusd": "89",
+            "date": "2017-12-23",
+            "web": "",
+            "bracket": "https://neueaka.challonge.com/NCC2017",
+            "rulebook": "",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Elvellon",
+            "image": "",
+            "p1": "Script1 |p1flag=kr |pos1=dps",
+            "p2": "JUNGEUNJI |p2flag=sg |pos2=dps",
+            "p3": "Zest |p3flag=sg |pos3=tank",
+            "p4": "Distrain |p4flag=sg |pos4=tank",
+            "p5": "Legend |p5flag=sg |pos5=sup",
+            "p6": "Saviour |p6flag=sg |pos6=sup"
+        },
+        {
+            "team": "Xavier.Young",
+            "p1": "Ana |p1flag=th |pos1=dps |p1link=Ana (Thai player)",
+            "p2": "thk |p2flag=th |pos2=dps",
+            "p3": "Lycolis |p3flag=th |pos3=tank",
+            "p4": "QueEn |p4flag=th |pos4=tank",
+            "p5": "Olivier |p5flag=th |pos5=tank",
+            "p6": "SaiyajinGOD |p6flag=th |pos6=tank",
+            "p7": "Tae |p7flag=th |pos7=sup",
+            "p8": "THITIKORN |p8flag=th |pos8=sup"
+        },
+        {
+            "team": "The Great Koala",
+            "p1": "Meister |p1flag=ph |pos1=dps",
+            "p2": "Dellons |p2flag= |pos2=dps",
+            "p3": "LIONCRAFT |p3flag=kr |pos3=tank",
+            "p4": "Blessing |p4flag=th |pos4=tank",
+            "p5": "XIIXV |p5flag=th |pos5=sup",
+            "p6": "Lomentic |p6flag= |pos6=sup"
+        },
+        {
+            "team": "Bazaar",
+            "p1": "SADISTIC |p1flag=th |pos1=dps",
+            "p2": "NutsuruSama |p2flag=th |pos2=dps",
+            "p3": "BOOMBURAPA |p3flag=th |pos3=tank",
+            "p4": "pichu |p4flag=th |pos4=tank",
+            "p5": "Headhawk |p5flag=th |pos5=tank",
+            "p6": "zObi |p6flag=th |pos6=sup",
+            "p7": "Pannys |p7flag=th |pos7=sup",
+            "p8": "pAnDeV |p8flag=th |pos8=sup",
+            "c": "Masterjedi |cflag=th"
+        },
+        {
+            "team": "Tilt Valhalla",
+            "p1": "Jessie |p1flag=id |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6="
+        },
+        {
+            "team": "Team Synergy",
+            "link": "Team Synergy (Malaysian team)",
+            "p1": "|p1flag= |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6="
+        },
+        {
+            "team": "Aeonian",
+            "p1": "Lulu |p1flag= |pos1=dps|p1link=Lulu (player)",
+            "p2": "RagingBullet |p2flag= |pos2=dps",
+            "p3": "Solitude |p3flag= |pos3=tank",
+            "p4": "MercyFalls |p4flag=my |pos4=tank",
+            "p5": "Stone |p5flag= |pos5=sup",
+            "p6": "TheNameSiRR |p6flag=my |pos6=sup"
+        },
+        {
+            "team": "Miraculum e-Sports",
+            "p1": "Alaya |p1flag=ph |pos1=dps",
+            "p2": "Xenos |p2flag=ph |pos2=dps",
+            "p3": "Grandeesauto |p3flag=ph |pos3=tank",
+            "p4": "Fascinate |p4flag=ph |pos4=tank",
+            "p5": "Zyrille |p5flag=ph |pos5=sup",
+            "p6": "Daily420 |p6flag=ph |pos6=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "December 23, 2017",
+            "opponent1": "{{TeamOpponent|aeonian}}",
+            "opponent2": "{{TeamOpponent|the great koala}}",
+            "map1": "{{Map|map=Temple of Anubis|mode=Assault|score1=1|score2=2|winner=2|vod=https://www.twitch.tv/videos/353811510}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=0|score2=1|winner=2|vod=https://www.twitch.tv/videos/353811515}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 23, 2017",
+            "opponent1": "{{TeamOpponent|elvellon|score=2}}",
+            "opponent2": "{{TeamOpponent|tilt valhalla|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 23, 2017",
+            "opponent1": "{{TeamOpponent|xavier.young|score=2}}",
+            "opponent2": "{{TeamOpponent|team synergy my|score=1}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "December 23, 2017",
+            "opponent1": "{{TeamOpponent|miraculum e-sports|score=0}}",
+            "opponent2": "{{TeamOpponent|bazaar|score=2}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "December 23, 2017",
+            "opponent1": "{{TeamOpponent|the great koala|score=0}}",
+            "opponent2": "{{TeamOpponent|elvellon|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "December 23, 2017",
+            "opponent1": "{{TeamOpponent|xavier.young}}",
+            "opponent2": "{{TeamOpponent|bazaar}}",
+            "map1": "{{Map|map=Hanamura|mode=Assault|score1=3|score2=3|winner=draw|vod=https://www.twitch.tv/videos/353811511}}",
+            "map2": "{{Map|map=Oasis|mode=Control|score1=0|score2=1|winner=2|vod=https://www.twitch.tv/videos/353811512}}",
+            "map3": "{{Map|map=King's Row|mode=Hybrid|score1=1|score2=0|winner=1|vod=https://www.twitch.tv/videos/353811516}}",
+            "map4": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1|vod=https://www.twitch.tv/videos/353811514}}",
+            "comment": "Best of 1 on Oasis to decide Hanamura draw.",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "December 23, 2017",
+            "opponent1": "{{TeamOpponent|elvellon}}",
+            "opponent2": "{{TeamOpponent|xavier.young}}",
+            "map1": "{{Map|map=Ilios|mode=Control|score1=2|score2=1|winner=1|vod=https://www.twitch.tv/videos/353811517}}",
+            "map2": "{{Map|map=Dorado|mode=Escort|score1=2|score2=0|winner=1|vod=https://www.twitch.tv/videos/353811518}}",
+            "map3": "{{Map|map=Hollywood|mode=Hybrid|score1=4|score2=3|winner=1|vod=https://www.twitch.tv/videos/353811513}}",
+            "optional": "R3M1="
+        }
+    ]
+}

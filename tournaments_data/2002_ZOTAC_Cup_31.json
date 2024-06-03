@@ -1,0 +1,355 @@
+{
+    "tournament_info": [],
+    "team_cards": [
+        {
+            "team": "Ex Oblivione",
+            "p1": "Phi",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Doge",
+            "p2flag": "",
+            "pos2": "tank",
+            "p3": "Rene",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "SFX",
+            "p4flag": "de",
+            "pos4": "sup",
+            "p5": "RK",
+            "p5flag": "de",
+            "pos5": "sup",
+            "p6": "Civeron",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Seren",
+            "p7flag": "",
+            "pos7": "",
+            "t2title": "Staff",
+            "t2p1": "Kevh",
+            "t2pos1": "manager"
+        },
+        {
+            "team": "Redacted",
+            "t2title": "Staff",
+            "t2p1": "Wicca",
+            "t2pos1": "coach"
+        },
+        {
+            "team": "Vigilant Esports"
+        },
+        {
+            "team": "Team Sailor Scouts V2"
+        },
+        {
+            "team": "Break Away"
+        },
+        {
+            "team": "Lost in the Sauce"
+        },
+        {
+            "team": "Deathstar"
+        },
+        {
+            "team": "KKona Brothers"
+        },
+        {
+            "team": "Kryix Esports"
+        },
+        {
+            "team": "A"
+        },
+        {
+            "team": "Idyl"
+        },
+        {
+            "team": "Buck Fobe"
+        },
+        {
+            "team": "MEtaMorphic"
+        },
+        {
+            "team": "PizzaHutBoys"
+        },
+        {
+            "team": "CHICKENS ONLY"
+        },
+        {
+            "team": "$30"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Vigilant Esports",
+            "opponent1_score": 1,
+            "opponent2": "Team Sailor Scouts V2",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ex Oblivione",
+            "opponent1_score": 1,
+            "opponent2": "Break Away",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Lost in the Sauce",
+            "opponent1_score": 1,
+            "opponent2": "Deathstar",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "KKOna Brothers",
+            "opponent1_score": 0,
+            "opponent2": "Kryix Esports",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "A",
+            "opponent1_score": 0,
+            "opponent2": "Idyl",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Buck Fobe",
+            "opponent1_score": 1,
+            "opponent2": "MetaMorphic",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "PizzaHutBoys",
+            "opponent1_score": 1,
+            "opponent2": "CHICKENS ONLY",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "$30",
+            "opponent1_score": 0,
+            "opponent2": "Redacted",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Vigilant Esports",
+            "opponent1_score": 0,
+            "opponent2": "Ex Oblivione",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Lost in the Sauce",
+            "opponent1_score": 1,
+            "opponent2": "Kryix Esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Idyl",
+            "opponent1_score": 0,
+            "opponent2": "Buck Fobe",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "PizzaHutBoys",
+            "opponent1_score": 0,
+            "opponent2": "Redacted",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ex Oblivione",
+            "opponent1_score": 0,
+            "opponent2": "Lost in the Sauce",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Buck Fobe",
+            "opponent1_score": 0,
+            "opponent2": "Redacted",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Lost in the Sauce",
+            "opponent1_score": 2,
+            "opponent2": "Redacted",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "2019-06-16",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ex Oblivione",
+            "opponent1_score": 1,
+            "opponent2": "Buck Fobe",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "RxMTP="
+        }
+    ]
+}

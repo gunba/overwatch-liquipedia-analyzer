@@ -1,0 +1,132 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Iberian Cup #19",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch IB",
+            "shortname": "19",
+            "ticketname": "Go4OW Iberian #19",
+            "organizer": "ESL Spain",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "game": "overwatch",
+            "type": "Online",
+            "date": "2017-08-07",
+            "prizepool": "120",
+            "localcurrency": "eur",
+            "prizepoolusd": "128",
+            "web": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-spain/",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-iberica/cup-19/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "FeelsBenchMan",
+            "p1": "Edu|p1flag=pt",
+            "p2": "IXL3000|p2flag=uk",
+            "p3": "kiler4fun|p3flag=pt",
+            "p4": "nightyz|p4flag=pt",
+            "p5": "didex|p5flag=pt",
+            "p6": "yot|p6flag=pt"
+        },
+        {
+            "team": "For The Win eSports",
+            "p1": "AtomicBurn|p1flag=pt",
+            "p2": "\u01f6datninja|p2flag=pt",
+            "p3": "MethodMan|p3flag=pt",
+            "p4": "MiR|p4flag=pt",
+            "p5": "Sting|p5flag=pt",
+            "p6": "yngwie|p6flag=pt"
+        },
+        {
+            "team": "Gremlins",
+            "p1": "H1zzy|p1flag=pt",
+            "p2": "Hydrixx|p2flag=pt",
+            "p3": "Khalizz|p3flag=pt",
+            "p4": "NoPants|p4flag=pt",
+            "p5": "dYpPer|p5flag=pt",
+            "p6": "kajo15|p6flag=pt",
+            "c": "GizmomcS|cflag=pt"
+        },
+        {
+            "team": "ING DIREKT",
+            "p1": "ImPact|p1flag=es",
+            "p2": "Networkz|p2flag=es",
+            "p3": "SolmyR|p3flag=es",
+            "p4": "Ky\u016b\u016bbi|p4flag=gr",
+            "p5": "minicunga|p5flag=es",
+            "p6": "\u01f6okami\u01c3|p6flag=pt"
+        },
+        {
+            "team": "Limede's Salamanders",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Miracle Gaming",
+            "p1": "Ankore|p1flag=es",
+            "p2": "Botvinnik|p2flag=es",
+            "p3": "Pescaete|p3flag=es",
+            "p4": "Playdvg|p4flag=es",
+            "p5": "Pronebi |p5flag=es",
+            "p6": "SWAGLOPE|p6flag=es"
+        },
+        {
+            "team": "Murlocs Army",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "limede's salamanders",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ing direkt",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "feelsbenchman",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "ing direkt",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "feelsbenchman",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "ing direkt",
+            "score1": "2",
+            "win1": ""
+        },
+        {
+            "team2": "gremlins",
+            "score2": "0",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "miracle gaming",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

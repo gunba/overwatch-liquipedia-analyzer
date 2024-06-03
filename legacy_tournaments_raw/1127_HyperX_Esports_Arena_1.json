@@ -1,0 +1,69 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Monthly",
+            "name": "HyperX Esports Arena #1",
+            "shortname": "HyperX Esports Arena #1",
+            "tickername": "HyperX Esports Arena #1",
+            "icon": "HyperX Esports Arena lightmode.png",
+            "image": "HyperX Esports Arena lightmode.png",
+            "imagedark": "HyperX Esports Arena darkmode.png",
+            "organizer": "Allied Esports",
+            "organizer-link": "https://www.alliedesports.gg/",
+            "series": "HyperX Esports Arena",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Las Vegas",
+            "venue": "[https://www.hyperxesportsarenalasvegas.com/ HyperX Esports Arena Las Vegas]",
+            "format": "",
+            "prizepoolusd": "300",
+            "date": "2022-01-02",
+            "twitter": "",
+            "web": "https://www.alliedesports.gg/",
+            "twitch": "",
+            "twitch2": "",
+            "discord": "",
+            "youtube": "",
+            "rulebook": "https://smash.gg/tournament/hyperx-esports-arena-overwatch-1-1/event/overwatch/overview/rules",
+            "bracket": "https://smash.gg/tournament/hyperx-esports-arena-overwatch-1-1/event/overwatch/brackets/1043885/1639387/",
+            "team_number": "2",
+            "previous": "",
+            "next": "Arena #2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Rebel Gaming",
+            "image": "",
+            "p1": "Slamtaro|p1flag=us|pos1=",
+            "p2": "wildwingBat|p2flag=us|pos2=",
+            "p3": "Ross|p3flag=|pos3=",
+            "p4": "Rosay|p4flag=|pos4=",
+            "p5": "Karma|p5flag=us|pos5=|p5link=Karma (American player)",
+            "p6": "QwertyTumor|p6flag=us|pos6="
+        },
+        {
+            "team": "Secret Agents",
+            "image": "",
+            "p1": "AdmFacePunch|p1flag=|pos1=",
+            "p2": "Firehorse64|p2flag=|pos2=",
+            "p3": "R1l3y_Wh1t3|p3flag=|pos3=",
+            "p4": "M1kan|p4flag=|pos4=",
+            "p5": "ThatAFKNoob|p5flag=|pos5=",
+            "p6": "mmaxmora|p6flag=|pos6="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Secret Agents",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "Rebel Gaming",
+            "score1": "1",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

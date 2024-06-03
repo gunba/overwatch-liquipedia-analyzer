@@ -1,0 +1,104 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Weekly",
+            "name": "GameBattles Overwatch 2 Online Tournament North America #17",
+            "shortname": "5v5 North America #17",
+            "tickername": "GameBattles North America #17",
+            "icon": "GameBattles icon lightmode.png",
+            "icondark": "GameBattles icon darkmode.png",
+            "image": "GameBattles lightmode.png",
+            "imagedark": "GameBattles darkmode.png",
+            "organizer": "GameBattles",
+            "series": "GameBattles",
+            "abbreviation": "GB",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "500",
+            "date": "2023-02-04",
+            "twitter": "gamebattles",
+            "discord": "gamebattles",
+            "facebook": "gamebattles",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500----free-entry--24/rules",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500----free-entry--24/bracket",
+            "team_number": "10",
+            "previous": "GameBattles_Overwatch_2_Online_Tournament/NA/16{{!}}#16",
+            "next": "GameBattles_Overwatch_2_Online_Tournament/NA/18{{!}}#18"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "",
+            "date": "2023-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Odyssey|score=W}}",
+            "opponent2": "{{TeamOpponent|the hardstucks|score=L}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|The Likeable Orbs|score=L}}",
+            "opponent2": "{{TeamOpponent|Alternate Blossom|score=W}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Cougar Loverz|score=L}}",
+            "opponent2": "{{TeamOpponent|Parking Enforcement|score=W}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|cheeeeeeeeeeesebuuuuurrrrrger|score=L}}",
+            "opponent2": "{{TeamOpponent|Odyssey|score=W}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bulldog Esports|score=L}}",
+            "opponent2": "{{TeamOpponent|Crimson Cougs|score=W}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sleeper Build Twinks|score=W}}",
+            "opponent2": "{{TeamOpponent|Alternate Blossom|score=L}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2023-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Parking Enforcement|score=L}}",
+            "opponent2": "{{TeamOpponent|women love us|score=W}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2023-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Odyssey|score=W}}",
+            "opponent2": "{{TeamOpponent|Crimson Cougs|score=L}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2023-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sleeper Build Twinks|score=L}}",
+            "opponent2": "{{TeamOpponent|women love us|score=W}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "2023-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Odyssey|score=W}}",
+            "opponent2": "{{TeamOpponent|women love us|score=L}}",
+            "optional": "R4M1="
+        }
+    ]
+}

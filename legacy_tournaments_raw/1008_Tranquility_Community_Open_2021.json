@@ -1,0 +1,252 @@
+{
+    "tournament_info": [
+        {
+            "name": "Tranquility Community Open II",
+            "image": "tranqOpenLogo.png",
+            "series": "Tranquility Community Open",
+            "shortname": "TCO 2",
+            "abbreviation": "TCO",
+            "organizer": "Overwatch Tranquility Community",
+            "organizer-link": "http://www.owtranquility.org/",
+            "country": "North America",
+            "type": "Online",
+            "platform": "PC",
+            "format": "Single Elimination",
+            "prizepoolusd": "1,000",
+            "date": "2021-06-26",
+            "liquipediatier": "{{TierText/4}}",
+            "facebook": "https://www.facebook.com/owtranquility/live",
+            "youtube": "owtranquility",
+            "rulebook": "http://www.owtranquility.com/rulesetTOII.pdf",
+            "bracket": "",
+            "team_number": "16",
+            "previous": "Tranquility_Community_Open/2020 {{!}} TCO I"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Drifters",
+            "image": "Drifters_lightmode.png",
+            "p1": "Rokit|p1flag=us|pos1=dps",
+            "p2": "Boat|p2flag=us|pos2=dps",
+            "p3": "Maxwell|p3flag=|pos3=dps",
+            "p4": "Crimson|p4flag=us|pos4=tank",
+            "p5": "Schipp|p5flag=us|pos5=tank",
+            "p6": "Infekted|p6flag=us|pos6=tank",
+            "p7": "Neptune|p7flag=us|pos7=sup|p7link=Neptune (American Player)",
+            "p8": "Skyward|p8flag=us|pos8=sup",
+            "p9": "Yimitra|p9flag=us|pos9=sup",
+            "t2title": "Staff",
+            "t2p1": "OpeN|t2pos1=manager",
+            "t2p2": "GreenHavak|t2pos2=coach",
+            "t2p3": "Swordwalker|t2pos3=coach",
+            "t2p4": "Poketude|t2pos4=coach|t2p4flag=us",
+            "t2p5": "janggwa|t2pos5=manager"
+        },
+        {
+            "team": "Regen",
+            "image": "New Regen logo.png",
+            "p1": "PureOxin|p1flag=us|pos1=dps",
+            "p2": "Skeecoops|p2flag=us|pos2=dps",
+            "p3": "draco|p3flag=us|pos3=tank",
+            "p4": "Gre7n|p4flag=us|pos4=tank",
+            "p5": "Eski|p5flag=us|pos5=sup",
+            "p6": "Pink|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Lofi Aim",
+            "image": "LofiLogo.jpg",
+            "p1": "Pummy|p1flag=us|pos1=dps",
+            "p2": "Bizz|p2flag=us|pos2=dps",
+            "p3": "Bolbi|p3flag=us|pos3=tank",
+            "p4": "Cash|p4flag=us|pos4=tank",
+            "p5": "Noctis|p5flag=us|pos5=sup",
+            "p6": "Geo|p6flag=us|pos6=sup|p6link=Geo (American Player)",
+            "c": "Denzel"
+        },
+        {
+            "team": "Sussy Gaming",
+            "image": "",
+            "p1": "bedtimestory|p1flag=us|pos1=dps",
+            "p2": "Dyslexia|p2flag=ca|pos2=dps",
+            "p3": "OhJason|p3flag=us|pos3=tank",
+            "p4": "Fuguh|p4flag=fr|pos4=tank",
+            "p5": "NolanCoronaV|p5flag=ca|pos5=sup",
+            "p6": "Otters|p6flag=gr|pos6=sup"
+        },
+        {
+            "team": "Purple Haze",
+            "image": "",
+            "p1": "AJMR|p1flag=us|pos1=dps",
+            "p2": "THTWeeaboo|p2flag=us|pos2=dps|p2link=peace",
+            "p3": "Divinity|p3flag=us|pos3=dps",
+            "p4": "Dovokiin|p4flag=us|pos4=tank",
+            "p5": "Fidxl|p5flag=us|pos5=tank",
+            "p6": "Meadxr|p6flag=us|pos6=tank",
+            "p7": "reverse|p7flag=us|pos7=sup|p7link=reverse (American Player)",
+            "p8": "ChoseN|p8flag=us|pos8=sup",
+            "t2title": "Staff",
+            "t2p1": "Doc|t2pos1=manager"
+        },
+        {
+            "team": "Solstice",
+            "image": "Solstice logo.png",
+            "p1": "AsPeCT|p1flag=us|pos1=dps",
+            "p2": "Lambent|p2flag=us|pos2=dps",
+            "p3": "Brassy|p3flag=us|pos3=dps",
+            "p4": "Khosrow|p4flag=us|pos4=tank",
+            "p5": "Fofey|p5flag=ca|pos5=tank",
+            "p6": "Joey|p6link=Joey (American Player)|p6flag=us|pos6=sup",
+            "p7": "freNoc|p7flag=us|pos7=sup",
+            "p8": "Legolaa|p8flag=mx|pos8=sup",
+            "t2title": "Staff",
+            "t2p1": "Raven|t2pos1=manager",
+            "t2p2": "Careless|t2pos2=coach",
+            "t2p3": "Chanyoung67|t2pos3=analyst"
+        },
+        {
+            "team": "(Disbanded)",
+            "image": "",
+            "p1": "Dantu|p1flag=us|pos1=dps",
+            "p2": "Stone|p2flag=us|pos2=dps",
+            "p3": "Key|p3flag=us|pos3=tank|p3link=Key (American player)",
+            "p4": "CLAY|p4flag=us|pos4=tank",
+            "p5": "Alw122001|p5flag=us|pos5=tank",
+            "p6": "Hing3d|p6flag=us|pos6=sup",
+            "p7": "Mimiq|p7flag=us|pos7=sup",
+            "c": "KapGod|cflag=us"
+        },
+        {
+            "team": "UT Dallas Comets",
+            "image": "UT Dallas Comets.png",
+            "p1": "P3t9L|p1flag=us|pos1=dps",
+            "p2": "Kashir|p2flag=us|pos2=dps",
+            "p3": "Lueyyy|p3flag=us|pos3=tank",
+            "p4": "Jukebox|p4flag=us|pos4=tank",
+            "p5": "Tinspire|p5flag=us|pos5=tank",
+            "p6": "NoneType|p6flag=us|pos6=sup",
+            "p7": "ArtsyFartsy|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "MinniePwn|t2c1flag=bd|t2c1pos=manager"
+        },
+        {
+            "team": "Banana Burgers",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Juice",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "UF Orange",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Decapitaters",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Andrew and the Other Guys",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Amnesia",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Valence",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Panda Playhouse",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Lofi Aim",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "Drifters",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Lofi Aim",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "Drifters",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Lofi Aim",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "Drifters",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "Lofi Aim",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "Drifters",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

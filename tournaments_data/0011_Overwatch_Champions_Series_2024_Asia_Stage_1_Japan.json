@@ -1,0 +1,930 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2",
+            "blizzardtier": "owcs",
+            "series": "Overwatch Champions Series",
+            "abbreviation": "OWCS",
+            "name": "Overwatch Champions Series 2024 - Stage 1 Japan",
+            "tickername": "OWCS Stage 1 Japan",
+            "image": "OWCS Japan lightmode.png",
+            "imagedark": "OWCS Japan darkmode.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "WDG",
+            "sponsor": "[https://www.samsung.com/us/computing/monitors/odyssey-gaming-monitors/ Samsung Odyssey]",
+            "type": "Online",
+            "country": "Japan",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "27500",
+            "sdate": "2024-02-26",
+            "edate": "2024-04-03",
+            "web": "https://owcs.wara.gg/JP",
+            "twitter": "OW_Esports_Asia",
+            "twitter2": "WDGJAPAN",
+            "twitch": "wdgjapan_ow",
+            "twitch2": "playoverwatchjp",
+            "youtube": "@ow_esports_asia",
+            "discord": "wdgtournament",
+            "rulebook": "",
+            "bracket": "",
+            "team_number": "9"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "SixBlow",
+            "p1": "Doux",
+            "pos1": "dps",
+            "p2": "Rrmy",
+            "pos2": "dps",
+            "p3": "TQQ",
+            "pos3": "dps",
+            "p4": "Max",
+            "pos4": "tank",
+            "p4link": "Max (Japanese player)",
+            "p5": "pressure",
+            "pos5": "tank",
+            "p6": "APL01",
+            "pos6": "sup",
+            "p7": "MyNa",
+            "pos7": "sup",
+            "p8": "Sakume",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "MyNa",
+            "t2c1pos": "manager",
+            "qualifier": "Tournament Stage Group 1",
+            "placement": "1"
+        },
+        {
+            "team": "Arise Project",
+            "p1": "Hry",
+            "p1flag": "jp",
+            "pos1": "dps",
+            "p2": "XDnoo6",
+            "pos2": "dps",
+            "p3": "Dan1",
+            "pos3": "tank",
+            "p4": "LtNest",
+            "p4flag": "jp",
+            "pos4": "sup",
+            "p5": "Astar",
+            "p5flag": "jp",
+            "pos5": "sup",
+            "p6": "Xeraphy",
+            "pos6": "sup",
+            "p7": "Y.",
+            "p7flag": "jp",
+            "pos7": "flex",
+            "t2title": "Staff",
+            "t2c1": "FodCarry",
+            "t2c1pos": "coach",
+            "t2c2": "TARO",
+            "t2c2pos": "coach",
+            "t2c3": "Elylished",
+            "t2c3flag": "kr",
+            "t2c3pos": "coach",
+            "t3title": "Substitute",
+            "t3p1": "Kutoto",
+            "t3p1flag": "jp",
+            "t3p1pos": "dps",
+            "qualifier": "Tournament Stage Group 2",
+            "placement": "1"
+        },
+        {
+            "team": "Namekuji Brothers",
+            "p1": "CC2",
+            "pos1": "dps",
+            "p2": "Bambie",
+            "pos2": "dps",
+            "p3": "Nozl",
+            "pos3": "tank",
+            "p4": "Jisoo",
+            "pos4": "sup",
+            "p5": "Basabasa",
+            "pos5": "sup",
+            "p6": "Menhera",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Chen",
+            "t2c1pos": "coach",
+            "qualifier": "Tournament Stage Group 3",
+            "placement": "1",
+            "inotes": "{{NoteBig|n1=March 3 - ''Coach'' {{player|Chen}} joins the team <ref name=\"chen joins\">{{cite web |url=https://twitter.com/jisoo_ow/status/1764220561906139599|title=\u3010\u91cd\u5927\u767a\u8868\u3011|trans_title=[Important announcement]|date=2024-03-03 |author=[[Jisoo]]|language={{flag/jp}} Japanese}}</ref>}}"
+        },
+        {
+            "team": "VARREL",
+            "p1": "Nico",
+            "pos1": "dps",
+            "p2": "Qki",
+            "pos2": "dps",
+            "p3": "KSG",
+            "pos3": "tank",
+            "p4": "plankton",
+            "pos4": "tank",
+            "p5": "mint",
+            "pos5": "sup",
+            "p5link": "mint_(Japanese_player)",
+            "p6": "Qloud",
+            "pos6": "sup",
+            "p7": "Mihawk",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "\uff30\uff21\uff29\uff2e",
+            "t2c1pos": "head coach",
+            "t2c2": "Taiga",
+            "t2c2pos": "manager",
+            "qualifier": "Tournament Stage Group 4",
+            "placement": "1"
+        },
+        {
+            "team": "Pandia",
+            "p1": "ZeSin",
+            "pos1": "dps",
+            "p2": "sanyo",
+            "pos2": "dps",
+            "p3": "chang",
+            "pos3": "tank",
+            "p4": "DOX",
+            "pos4": "tank",
+            "p4link": "DOX (Kim_Jun-seo)",
+            "p5": "Neivis",
+            "pos5": "sup",
+            "p6": "Mimoza",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "YUL",
+            "t2c1pos": "coach",
+            "qualifier": "Tournament Stage Group 5",
+            "placement": "1"
+        },
+        {
+            "team": "REVATI",
+            "p1": "harutoon",
+            "pos1": "dps",
+            "p2": "Hofac",
+            "pos2": "dps",
+            "p3": "Drowsy",
+            "p3flag": "jp",
+            "pos3": "dps",
+            "p3link": "Drowsy (Japanese player)",
+            "p4": "JeonMinHyouk",
+            "pos4": "tank",
+            "p5": "Kotaro",
+            "pos5": "tank",
+            "p6": "Hesty",
+            "pos6": "sup",
+            "p7": "epic",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Fickle",
+            "t2c1pos": "head coach",
+            "t2c2": "STRIKE",
+            "t2c2pos": "assistant coach",
+            "t2c3": "Byeolha",
+            "t2c3flag": "kr",
+            "t2c3pos": "assistant coach",
+            "t2c4": "Millfy",
+            "t2c4flag": "jp",
+            "t2c4pos": "manager",
+            "t2c5": "ImSleepy",
+            "t2c5pos": "manager",
+            "qualifier": "Last Chance Qualifier",
+            "placement": "1-4"
+        },
+        {
+            "team": "Insomnia",
+            "link": "Insomnia (Japanese team)",
+            "p1": "Daisy",
+            "pos1": "dps",
+            "p2": "Undersea",
+            "pos2": "dps",
+            "p3": "Leonopteryx",
+            "pos3": "tank",
+            "p4": "MasDog",
+            "pos4": "tank",
+            "p5": "BL1NK",
+            "pos5": "sup",
+            "p6": "CARU",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Ares",
+            "t2c1pos": "head coach",
+            "t2c1link": "Ares (Korean coach)",
+            "qualifier": "Last Chance Qualifier",
+            "placement": "1-4"
+        },
+        {
+            "team": "Hayabusa Gaming",
+            "p1": "Villea",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "Fregre",
+            "p2flag": "jp",
+            "pos2": "dps",
+            "p3": "Langley",
+            "p3flag": "jp",
+            "pos3": "dps",
+            "p4": "bellaboo",
+            "pos4": "tank",
+            "p4link": "UYOU",
+            "p5": "Action",
+            "p5flag": "jp",
+            "pos5": "tank",
+            "p6": "JINN",
+            "p6flag": "jp",
+            "pos6": "sup",
+            "p6link": "JINN (Japanese player)",
+            "p7": "Alexander",
+            "p7flag": "jp",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "lucy",
+            "t2c1flag": "jp",
+            "t2c1pos": "manager",
+            "qualifier": "Last Chance Qualifier",
+            "placement": "1-4"
+        },
+        {
+            "team": "Nyam Gaming",
+            "p1": "AOKIGAHARA",
+            "p1flag": "jp",
+            "pos1": "dps",
+            "p2": "Axion",
+            "p2flag": "jp",
+            "pos2": "dps",
+            "p3": "scenery",
+            "pos3": "tank",
+            "p4": "Masquerade",
+            "pos4": "sup",
+            "p4link": "Liz (Japanese player)",
+            "p5": "Raven",
+            "pos5": "sup",
+            "p5link": "NHZ",
+            "qualifier": "Last Chance Qualifier",
+            "placement": "1-4"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "March 25, 2024 - 19:30",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "REVATI",
+            "opponent2": "VARREL",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "mvp": "KSG",
+            "comment": "Casters: {{player|Gclef|flag=us}} & {{player|Wolf|link=Wolf (American caster)|flag=us}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 25, 2024 - 21:00",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "INSOMNIA (Japanese team)",
+            "opponent2": "SixBlow",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "100.31m",
+                "score2": "47.84m",
+                "winner": "1"
+            },
+            "mvp": "Undersea",
+            "comment": "Casters: {{player|Gclef|flag=us}} & {{player|Wolf|link=Wolf (American caster)|flag=us}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 26, 2024 - 20:05",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "VARREL",
+            "opponent2": "SixBlow",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "mvp": "KSG",
+            "comment": "Casters: {{player|Gclef|flag=us}} & {{player|Wolf|link=Wolf (American caster)|flag=us}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 26, 2024 - 21:25",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "Insomnia (Japanese team)",
+            "opponent2": "REVATI",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "142.41m",
+                "score2": "24.99m",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "mvp": "CARU",
+            "comment": "Casters: {{player|Gclef|flag=us}} & {{player|Wolf|link=Wolf (American caster)|flag=us}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 27, 2024 - 19:30",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "SixBlow",
+            "opponent2": "REVATI",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "132.79m",
+                "score2": "45.76m",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "mvp": "TQQ",
+            "comment": "Casters: {{player|Achilios|flag=us}} & {{player|NineK|flag=kr}}",
+            "optional": "M5="
+        },
+        {
+            "date": "March 27, 2024 - 21:00",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "Insomnia (Japanese team)",
+            "opponent2": "VARREL",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "0.00m",
+                "score2": "142.41m",
+                "winner": "2"
+            },
+            "mvp": "qki",
+            "comment": "Casters: {{player|Achilios|flag=us}} & {{player|NineK|flag=kr}}",
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "March 24, 2024 - 18:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Pandia",
+            "opponent2": "Hayabusa Gaming",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "March 24, 2024 - 18:30",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Arise Project",
+            "opponent2": "Namekuji Brothers",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "March 25, 2024 - 18:00",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "Pandia",
+            "opponent2": "Arise Project",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "109.2m",
+                "score2": "46.17m",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "mvp": "ZeSin",
+            "comment": "Casters: {{player|Gclef|flag=us}} & {{player|Wolf|link=Wolf (American caster)|flag=us}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "March 24, 2024 - 20:20",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Hayabusa Gaming",
+            "opponent2": "Namekuji Brothers",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "124.89m",
+                "score2": "44.42m",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "March 26, 2024 - 18:00",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "Arise Project",
+            "opponent2": "Namekuji Brothers",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "85.20m",
+                "score2": "85.21m",
+                "winner": "2"
+            },
+            "mvp": "Nozl",
+            "comment": "Casters: {{player|Gclef|flag=us}} & {{player|Wolf|link=Wolf (American caster)|flag=us}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "March 27, 2024 - 18:00",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "Pandia",
+            "opponent2": "Namekuji Brothers",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "mvp": "Mimoza",
+            "comment": "Casters: {{player|Achilios|flag=us}} & {{player|NineK|flag=kr}}",
+            "optional": "R3M1="
+        },
+        {
+            "bestof": "5",
+            "date": "April 1, 2024 - 18:00",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "SixBlow",
+            "opponent2": "Namekuji Brothers",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "139.48m",
+                "score2": "0.00m",
+                "winner": "1"
+            },
+            "mvp": "Pressure",
+            "comment": "Casters: {{player|Gclef|flag=us}} & {{player|NineK|flag=kr}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 1, 2024 - 19:30",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "REVATI",
+            "opponent2": "Pandia",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "139.96m",
+                "score2": "78.26m",
+                "winner": "1"
+            },
+            "mvp": "JeonMinHyouk",
+            "comment": "Casters: {{player|Gclef|flag=us}} & {{player|NineK|flag=kr}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 2, 2024 - 18:00",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "VARREL",
+            "opponent2": "SixBlow",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "mvp": "Nico",
+            "comment": "Casters: {{player|Gclef|flag=us}} & {{player|NineK|flag=kr}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 2, 2024 - 19:30",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "Insomnia (Japanese team)",
+            "opponent2": "REVATI",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "0.00m",
+                "score2": "142.41m",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "mvp": "Undersea",
+            "comment": "Casters: {{player|Gclef|flag=us}} & {{player|NineK|flag=kr}}",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "7",
+            "date": "April 3, 2024 - 19:30",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "VARREL",
+            "opponent2": "Insomnia (Japanese team)",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "142.41m",
+                "score2": "3.59m",
+                "winner": "1"
+            },
+            "mvp": "Qki",
+            "comment": "Casters: {{player|Unknown|flag=kr}} & {{player|NineK|flag=kr}}",
+            "optional": "R3M1="
+        },
+        {
+            "bestof": "5",
+            "date": "April 3, 2024 - 18:00",
+            "date_timezone": "KST",
+            "youtube": "OWEsports",
+            "twitch": "Overwatch Esports",
+            "opponent1": "SixBlow",
+            "opponent2": "REVATI",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "mvp": "Doux",
+            "comment": "Casters: {{player|Unknown|flag=kr}} & {{player|NineK|flag=kr}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "name": "JCG Master 2016 Summer Finals",
+            "shortname": "2016 Summer Finals",
+            "image": "",
+            "series": "JCG Master",
+            "abbreviation": "JCG Master",
+            "organizer": "Japan Competitive Gaming",
+            "organizer-link": "http://www.j-cg.com/",
+            "sponsor": "[http://www.benq.com/ BenQ]<br/>[http://www.dospara.co.jp/5gamepc/ GALLERIA]<br/>[http://www.hyperxgaming.com HyperX]<br/>[http://www.anime.ac.jp/en/ Tokyo School of Anime]",
+            "type": "Online",
+            "country": "Japan",
+            "format": "Double Elimination Bracket",
+            "prizepoolusd": "4,020",
+            "sdate": "2016-08-07",
+            "edate": "2016-08-21",
+            "bracket": "http://ow.j-cg.com/compe/view/tour/11",
+            "twitch": "japanesports",
+            "teamfirst": "DeToNator",
+            "teamsecond": "CrestGaming Blitz",
+            "teamthird": "Rascal Jester MaVeNick",
+            "teamfourth": "Green Leaves",
+            "team_number": "13"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "DeToNator",
+            "image": "",
+            "p1": "delave |p1flag=jp",
+            "p2": "siorin |p2flag=jp",
+            "p3": "XQQ |p3flag=jp",
+            "p4": "SPYGEA |p4flag=jp",
+            "p5": "StylishNoob |p5flag=jp",
+            "p6": "yamatoN |p6flag=jp"
+        },
+        {
+            "team": "Crestgaming.Blitz",
+            "image": "",
+            "p1": "ANgelDu5t |p1flag=jp",
+            "p2": "Mystique |p2flag=jp",
+            "p3": "MatoChan |p3flag=jp",
+            "p4": "BaLDeL |p4flag=jp",
+            "p5": "Mukai |p5flag=jp",
+            "p6": "GeAr |p6flag=jp"
+        },
+        {
+            "team": "Rascal Jester MaVeNick",
+            "image": "",
+            "p1": "Holon |p1flag=jp",
+            "p2": "koga |p2flag=jp",
+            "p3": "SaltyKiss |p3flag=jp",
+            "p4": "Skeeyy |p4flag=jp",
+            "p5": "tinorin |p5flag=jp",
+            "p6": "zelunyan |p6flag=jp"
+        },
+        {
+            "team": "Green Leaves",
+            "image": "",
+            "p1": "Nypro |p1flag=jp",
+            "p2": "gappo3 |p2flag=jp",
+            "p3": "Nonke |p3flag=jp",
+            "p4": "hoshimi |p4flag=jp",
+            "p5": "hantsuki |p5flag=jp",
+            "p6": "Noanoa |p6flag=jp"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "crestgaming.blitz",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "detonator",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

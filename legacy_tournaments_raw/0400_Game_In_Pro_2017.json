@@ -1,0 +1,97 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "series": "",
+            "name": "Game In Pro 2017",
+            "image": "Game In Pro allmode.png",
+            "icon": "Game In Pro allmode.png",
+            "organizer": "",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "Israel",
+            "city": "",
+            "format": "",
+            "prizepoolusd": "4,000",
+            "date": "2017-04-06",
+            "web": "https://www.gameinpro.co.il/",
+            "bracket": "",
+            "team_number": "4",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "map4": "",
+            "map5": "",
+            "map6": "",
+            "map7": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "x4ckers",
+            "p1": "ShonP|p1flag=il",
+            "p2": "KAFEEEEE|p2flag=il",
+            "p3": "DeadlyMich|p3flag=il",
+            "p4": "fragon|p4flag=il",
+            "p5": "inferi|p5flag=il",
+            "p6": "h1day|p6flag=il"
+        },
+        {
+            "team": "neverbyte",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Team Tilt",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "7FPS",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "7fps",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "x4ckers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team tilt",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "x4ckers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,552 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "abbreviation": "Venexis Cup",
+            "name": "The Venexis Cup - Bronze to Diamond",
+            "shortname": "Venexis Cup",
+            "tickername": "Venexis Cup",
+            "icon": "",
+            "image": "",
+            "series": "Venexis Cup",
+            "organizer": "Venexis eSports",
+            "game": "overwatch",
+            "prizepool": "",
+            "localcurrency": "",
+            "type": "Online",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "prizepoolusd": "90",
+            "sdate": "2020-05-10",
+            "edate": "2020-05-10",
+            "twitter": "Venexis_eSports",
+            "web": "",
+            "twitch": "",
+            "discord": "rbypKQN",
+            "youtube": "@venexisesports4472",
+            "vk": "",
+            "rulebook": "https://battlefy.com/venexis-esports/the-venexis-cup-bronze-to-diamond/5ea8d710bee39d4eaee7e057/info?infoTab=rules",
+            "bracket": "https://battlefy.com/venexis-esports/the-venexis-cup-bronze-to-diamond/5ea8d710bee39d4eaee7e057/stage/5eb735a16809a812033cee51/bracket/",
+            "teamfirst": "",
+            "team_number": "32"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Fight club",
+            "p1": "XxAnamainxX |p1flag= |pos1=",
+            "p2": "EzPzy |p2flag= |pos2=",
+            "p3": "brightdragon |p3flag= |pos3=",
+            "p4": "Durd3n |p4flag= |pos4=",
+            "p5": "Kusanagi |p5flag= |pos5=",
+            "p6": "happybambi |p6flag= |pos6=",
+            "p7": "Bord3n |p7flag= |pos7="
+        },
+        {
+            "team": "The Grease Machine",
+            "p1": "Samuel |p1flag= |pos1=",
+            "p2": "CheesyCrisps |p2flag= |pos2=",
+            "p3": "soolerham |p3flag= |pos3=",
+            "p4": "KAKASHI |p4flag= |pos4=",
+            "p5": "\u00f2w\u00f3 |p5flag= |pos5=",
+            "p6": "M1ck |p6flag= |pos6="
+        },
+        {
+            "team": "Medina Rivals",
+            "p1": "FeShX |p1flag= |pos1=",
+            "p2": "Nyx |p2flag= |pos2=",
+            "p3": "\u04b2\u048e\u04b2 |p3flag= |pos3=",
+            "p4": "fhm |p4flag= |pos4=",
+            "p5": "Feitan |p5flag= |pos5=",
+            "p6": "GoodGuyNyx |p6flag= |pos6=",
+            "p7": "AYAYAYA |p7flag= |pos7="
+        },
+        {
+            "team": "Venexis Aurora",
+            "p1": "Nova |p1flag= |pos1=",
+            "p2": "ShieldGirl |p2flag= |pos2=",
+            "p3": "SonOfTurbo |p3flag= |pos3=",
+            "p4": "Fortnite69 |p4flag= |pos4=",
+            "p5": "bilbotibagin |p5flag= |pos5=",
+            "p6": "kotsiosfire6 |p6flag= |pos6=",
+            "p7": "ZerK |p7flag= |pos7=",
+            "p8": "Prototype |p8flag= |pos8="
+        },
+        {
+            "team": "Ice Force eSports",
+            "p1": "YukiKinimoto |p1flag= |pos1=",
+            "p2": "VorteX |p2flag=at |pos2= |p2link=VorteXUncS",
+            "p3": "iLLThoughT |p3flag=uk |pos3=",
+            "p4": "Sapphoenix |p4flag= |pos4=",
+            "p5": "Azrael |p5flag= |pos5=",
+            "p6": "Crabby |p6flag=es |pos6="
+        },
+        {
+            "team": "Fighting Lion",
+            "p1": "MightyMeg |p1flag= |pos1=",
+            "p2": "GitGut |p2flag= |pos2=",
+            "p3": "ice |p3flag= |pos3= |p3link=ice (Fighting Lion)",
+            "p4": "NyX |p4flag= |pos4=",
+            "p5": "Nightwatch |p5flag= |pos5=",
+            "p6": "Syl |p6flag= |pos6=",
+            "p7": "Karozer |p7flag= |pos7="
+        },
+        {
+            "team": "Faster Than Miau",
+            "p1": "SenKH |p1flag= |pos1=",
+            "p2": "Javihara |p2flag= |pos2=",
+            "p3": "xHula2016 |p3flag= |pos3=",
+            "p4": "MeDjeD |p4flag= |pos4=",
+            "p5": "tornado23 |p5flag= |pos5=",
+            "p6": "rezmedaddy |p6flag= |pos6=",
+            "p7": "Tharyelot |p7flag= |pos7="
+        },
+        {
+            "team": "Eternity Esports - Centauri",
+            "p1": "EatWeird |p1flag= |pos1=",
+            "p2": "Zhre |p2flag= |pos2=",
+            "p3": "alexSayuri |p3flag= |pos3=",
+            "p4": "x\u015c\u0198\u0176\u0166\u0194 |p4flag= |pos4=",
+            "p5": "Dyin4Life |p5flag= |pos5=",
+            "p6": "Niconius |p6flag= |pos6=",
+            "p7": "ziHa |p7flag= |pos7=",
+            "p8": "Shibii |p8flag= |pos8="
+        },
+        {
+            "team": "Absideon",
+            "p1": "Lendyr |p1flag= |pos1=",
+            "p2": "Roy |p2flag= |pos2= |p2link=Roy (Absideon)",
+            "p3": "ItsMibs |p3flag= |pos3=",
+            "p4": "Zuu |p4flag= |pos4=",
+            "p5": "TheOne |p5flag= |pos5=",
+            "p6": "HyperNova |p6flag= |pos6="
+        },
+        {
+            "team": "Ac!d Trip",
+            "p1": "AceCyrex |p1flag= |pos1=",
+            "p2": "Kuraki |p2flag= |pos2=",
+            "p3": "Maou |p3flag= |pos3=",
+            "p4": "Typical |p4flag= |pos4=",
+            "p5": "Roido |p5flag= |pos5=",
+            "p6": "Rivahri |p6flag= |pos6=",
+            "p7": "OGplayer |p7flag= |pos7=",
+            "p8": "SleepyBear |p8flag= |pos8= |p8link=SleepyBear (Ac!d Trip)"
+        },
+        {
+            "team": "Mosstroopers",
+            "p1": "nnutt |p1flag= |pos1=",
+            "p2": "Tjader |p2flag= |pos2=",
+            "p3": "OrangeL\u00f3pez |p3flag= |pos3=",
+            "p4": "z\u016csAaaaaa |p4flag= |pos4=",
+            "p5": "Hanako |p5flag= |pos5=",
+            "p6": "Applez |p6flag= |pos6="
+        },
+        {
+            "team": "Boosted Bronze Players",
+            "p1": "SlitherinSam |p1flag= |pos1=",
+            "p2": "GENJIPLAYER |p2flag= |pos2=",
+            "p3": "Elma7e |p3flag= |pos3=",
+            "p4": "jordon |p4flag= |pos4=",
+            "p5": "d0bb1n |p5flag= |pos5=",
+            "p6": "OpsyB |p6flag= |pos6=",
+            "p7": "xepher |p7flag= |pos7="
+        },
+        {
+            "team": "Eternity Esports - Sapphire",
+            "p1": "Smaloney |p1flag= |pos1=",
+            "p2": "PaguOW |p2flag=de |pos2=",
+            "p3": "simplymyname |p3flag= |pos3=",
+            "p4": "\u01f6IHaveNoJob |p4flag= |pos4=",
+            "p5": "LARSVFB9 |p5flag= |pos5=",
+            "p6": "Sigy99 |p6flag= |pos6="
+        },
+        {
+            "team": "Giraffes With Short Necks",
+            "p1": "Taeshinobu |p1flag= |pos1=",
+            "p2": "Gino |p2flag= |pos2=",
+            "p3": "YaGarbage |p3flag= |pos3=",
+            "p4": "ApeSnake |p4flag= |pos4=",
+            "p5": "pajamaman25 |p5flag= |pos5=",
+            "p6": "McCree |p6flag= |pos6= |p6link=McCree (Giraffes With Short Necks)",
+            "p7": "Taeshipoopoo |p7flag= |pos7="
+        },
+        {
+            "team": "Astrophysical",
+            "p1": "Golden |p1flag= |pos1=",
+            "p2": "Bionics |p2flag= |pos2=",
+            "p3": "zebracookie |p3flag= |pos3=",
+            "p4": "MegaLass |p4flag= |pos4=",
+            "p5": "Prism |p5flag= |pos5=",
+            "p6": "LazyTurtle |p6flag= |pos6="
+        },
+        {
+            "team": "Avengers",
+            "link": "Avengers (Venexis)",
+            "p1": "wu7ed |p1flag= |pos1=",
+            "p2": "XD5 |p2flag= |pos2=",
+            "p3": "TRDKT |p3flag= |pos3=",
+            "p4": "toggo6 |p4flag= |pos4=",
+            "p5": "KD5 |p5flag= |pos5=",
+            "p6": "PNR |p6flag= |pos6="
+        },
+        {
+            "team": "MRG Agate",
+            "p1": "Lude |p1flag= |pos1=",
+            "p2": "S0REN |p2flag= |pos2=",
+            "p3": "muffindynamo |p3flag= |pos3=",
+            "p4": "Traeny |p4flag= |pos4=",
+            "p5": "Jay |p5flag= |pos5=",
+            "p6": "VV1984 |p6flag= |pos6=",
+            "p7": "BloodyHeroes |p7flag= |pos7=",
+            "p8": "RiskyBiscuit |p8flag= |pos8="
+        },
+        {
+            "team": "DynamiK Primus",
+            "p1": "PaaxO |p1flag= |pos1=",
+            "p2": "warik |p2flag= |pos2=",
+            "p3": "krysto |p3flag= |pos3=",
+            "p4": "AntyPseudo |p4flag= |pos4=",
+            "p5": "major |p5flag= |pos5=",
+            "p6": "DELETEBRIG |p6flag= |pos6=",
+            "p7": "ANARhhh |p7flag= |pos7=",
+            "p8": "BabyK |p8flag= |pos8="
+        },
+        {
+            "team": "Potato Gang",
+            "p1": "Serono |p1flag= |pos1=",
+            "p2": "Kazu |p2flag= |pos2=",
+            "p3": "ZERO |p3flag= |pos3= |p3link=ZERO (Potato Gang)",
+            "p4": "AliceYume |p4flag= |pos4=",
+            "p5": "Harazu |p5flag= |pos5=",
+            "p6": "Bauss |p6flag= |pos6=",
+            "p7": "Horizon |p7flag= |pos7= |p7link=Horizon (Potato Gang)",
+            "p8": "Alrunae |p8flag= |pos8="
+        },
+        {
+            "team": "Face The Fact",
+            "p1": "Waifu |p1flag= |pos1= |p1link=Waifu (Face The Fact)",
+            "p2": "HotPants |p2flag= |pos2=",
+            "p3": "TMGB |p3flag= |pos3=",
+            "p4": "Raffaa |p4flag= |pos4=",
+            "p5": "Sebler |p5flag= |pos5=",
+            "p6": "Fleischwurst |p6flag= |pos6=",
+            "p7": "ShadowStorm |p7flag= |pos7=",
+            "p8": "Nentox |p8flag= |pos8="
+        },
+        {
+            "team": "Anteiku",
+            "link": "Anteiky (Venexis Cup)",
+            "p1": "GehMalFeiern |p1flag= |pos1=",
+            "p2": "Ken |p2flag= |pos2= |p2link=Ken (Anteiku player)",
+            "p3": "sasuke567 |p3flag= |pos3=",
+            "p4": "Roomutzu |p4flag= |pos4=",
+            "p5": "TORBSCHLONG |p5flag= |pos5=",
+            "p6": "MonkeyDLuffy |p6flag= |pos6="
+        },
+        {
+            "team": "Tale Quale",
+            "p1": "baboska |p1flag=ru |pos1=tank",
+            "p2": "Alix |p2flag=ru |pos2=tank",
+            "p3": "Sayh |p3flag=ru |pos3=tank",
+            "p4": "Nova |p4flag=kz |pos4=dps",
+            "p5": "\u0410\u043d\u0434\u0440\u0435\u0439\u041a\u043e\u043b\u0434\u0443\u043d |p5flag=ru |pos5=dps",
+            "p6": "Indris |p6flag=ru |pos6=flex",
+            "p7": "MyRKa |p7flag=ru |pos7=sup",
+            "p8": "DarthMurloc |p8flag=ru |pos8=flex"
+        },
+        {
+            "team": "ST Dominators",
+            "p1": "Ahdu |p1flag= |pos1=",
+            "p2": "danon |p2flag= |pos2=",
+            "p3": "WhiskyPower |p3flag= |pos3=",
+            "p4": "Razboynix |p4flag= |pos4=",
+            "p5": "Katya165 |p5flag= |pos5=",
+            "p6": "Boryuzovich |p6flag= |pos6=",
+            "p7": "AEZAKMI |p7flag= |pos7=",
+            "p8": "JoeMama |p8flag= |pos8="
+        },
+        {
+            "team": "Mercury",
+            "link": "Mercury (Venexis Cup)",
+            "p1": "magpie |p1flag= |pos1=",
+            "p2": "Bliss |p2flag= |pos2= |p2link=Bliss (Mercury)",
+            "p3": "DerLK |p3flag= |pos3=",
+            "p4": "Atomic |p4flag= |pos4=",
+            "p5": "crane |p5flag= |pos5=",
+            "p6": "aver |p6flag= |pos6="
+        },
+        {
+            "team": "Red Crow",
+            "p1": "HeyItsNick |p1flag= |pos1=",
+            "p2": "Rhys |p2flag= |pos2=",
+            "p3": "blue |p3flag= |pos3=",
+            "p4": "NightHawk |p4flag= |pos4=",
+            "p5": "ItzZako |p5flag= |pos5=",
+            "p6": "Tubbit |p6flag= |pos6=",
+            "p7": "Foresethix |p7flag= |pos7="
+        },
+        {
+            "team": "Helios",
+            "p1": "SachetAaron |p1flag= |pos1=",
+            "p2": "Breazer |p2flag= |pos2=",
+            "p3": "ForeverNoob |p3flag= |pos3=",
+            "p4": "Darkerdisc |p4flag= |pos4=",
+            "p5": "BonBon1337 |p5flag= |pos5=",
+            "p6": "Falke |p6flag= |pos6="
+        },
+        {
+            "team": "Meat Scrim v2",
+            "p1": "Rezzii |p1flag= |pos1=",
+            "p2": "zenq |p2flag= |pos2=",
+            "p3": "Forza |p3flag= |pos3=",
+            "p4": "Basick |p4flag= |pos4=",
+            "p5": "Haksal |p5flag= |pos5= |p5link=Haksal (Meat Scrim v2)",
+            "p6": "Chaos |p6flag= |pos6=",
+            "p7": "ExourisRai |p7flag= |pos7="
+        },
+        {
+            "team": "Arcane Radon",
+            "p1": "LordZelron |p1flag= |pos1=",
+            "p2": "SilentSword |p2flag= |pos2=",
+            "p3": "Proxy |p3flag= |pos3=",
+            "p4": "TOXIN |p4flag= |pos4=",
+            "p5": "bluedog |p5flag= |pos5=",
+            "p6": "leelow257 |p6flag= |pos6=",
+            "p7": "tGc |p7flag= |pos7=",
+            "p8": "TweeApollo |p8flag=no |pos8="
+        },
+        {
+            "team": "Damage Inc Emerald",
+            "p1": "MuddyPuddle |p1flag= |pos1=",
+            "p2": "Duende |p2flag= |pos2=",
+            "p3": "DrunkMurloc |p3flag= |pos3=",
+            "p4": "DirePants |p4flag= |pos4=",
+            "p5": "BaconChicken |p5flag= |pos5=",
+            "p6": "gybau |p6flag= |pos6=",
+            "p7": "Skyfall |p7flag= |pos7=",
+            "p8": "DeadlyKitten |p8flag= |pos8="
+        },
+        {
+            "team": "Team Auros",
+            "p1": "RexPhantom |p1flag= |pos1=",
+            "p2": "BabaYaga |p2flag= |pos2=",
+            "p3": "LittleEvil69 |p3flag= |pos3=",
+            "p4": "levitleno |p4flag= |pos4=",
+            "p5": "GenesisZero |p5flag= |pos5=",
+            "p6": "Shewolf |p6flag= |pos6=",
+            "p7": "AbsoluteZero |p7flag= |pos7="
+        },
+        {
+            "team": "Roman Eagles",
+            "p1": "AlexeBasta99 |p1flag= |pos1=",
+            "p2": "\u0145\u00cbM\u00cb\u015a\u00cf\u015a |p2flag= |pos2=",
+            "p3": "Xinker |p3flag= |pos3=",
+            "p4": "BattyCZE |p4flag= |pos4=",
+            "p5": "Meihas |p5flag= |pos5=",
+            "p6": "DundaZupa |p6flag= |pos6="
+        },
+        {
+            "team": "Romers",
+            "p1": "Krakenox |p1flag= |pos1=",
+            "p2": "KiLlUa7249 |p2flag= |pos2=",
+            "p3": "RED |p3flag= |pos3=",
+            "p4": "Black |p4flag= |pos4=",
+            "p5": "Sanemi |p5flag= |pos5=",
+            "p6": "Rose |p6flag= |pos6=",
+            "p7": "Ali |p7flag= |pos7= |p7link=Ali (Romers)",
+            "p8": "\u0210\u012c\u014a\u010e\u01fe\u01d9 |p8flag= |pos8="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "opponent1": "{{TeamOpponent|Venexis Aurora|score=1}}",
+            "opponent2": "{{TeamOpponent|Helios|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Absideon|score=1}}",
+            "opponent2": "{{TeamOpponent|Avengers (Venexis)|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Eternity Esports - Centauri|score=1}}",
+            "opponent2": "{{TeamOpponent|Red Crow|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Ac!d Trip|score=0}}",
+            "opponent2": "{{TeamOpponent|Mercury (Venexis)|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Medina Rivals|score=1}}",
+            "opponent2": "{{TeamOpponent|Team Auros|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Giraffes With Short Necks|score=0}}",
+            "opponent2": "{{TeamOpponent|Face The Fact|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Ice Force Esports|score=1}}",
+            "opponent2": "{{TeamOpponent|Damage Inc Emerald|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Eternity Esports - Sapphire|score=1}}",
+            "opponent2": "{{TeamOpponent|Anteiku (Venexis)|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Fight club|score=0}}",
+            "opponent2": "{{TeamOpponent|Romers|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M9="
+        },
+        {
+            "opponent1": "{{TeamOpponent|MRG Agate|score=0}}",
+            "opponent2": "{{TeamOpponent|DynamiK Primus|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M10="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Faster Than Miau|score=1}}",
+            "opponent2": "{{TeamOpponent|Meat Scrim v2|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M11="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Mosstroopers|score=1}}",
+            "opponent2": "{{TeamOpponent|ST Dominators|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M12="
+        },
+        {
+            "opponent1": "{{TeamOpponent|The Grease Machine|score=1}}",
+            "opponent2": "{{TeamOpponent|Roman Eagles|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M13="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Astrophysical|score=0}}",
+            "opponent2": "{{TeamOpponent|Potato Gang|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M14="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Fighting Lion|score=0}}",
+            "opponent2": "{{TeamOpponent|Arcane Radon|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M15="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Boosted Bronze Players|score=0}}",
+            "opponent2": "{{TeamOpponent|Tale Quale|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M16="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Venexis Aurora|score=1}}",
+            "opponent2": "{{TeamOpponent|Absideon|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Eternity Esports - Centauri|score=0}}",
+            "opponent2": "{{TeamOpponent|Mercury (Venexis)|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Medina Rivals|score=0}}",
+            "opponent2": "{{TeamOpponent|Face The Fact|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Ice Force eSports|score=1}}",
+            "opponent2": "{{TeamOpponent|Eternity Esports - Sapphire|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Romers|score=1}}",
+            "opponent2": "{{TeamOpponent|DynamiK Primus|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Faster Than Miau|score=1}}",
+            "opponent2": "{{TeamOpponent|Mosstroopers|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent|The Grease Machine|score=1}}",
+            "opponent2": "{{TeamOpponent|Potato Gang|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M7="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Arcane Radon|score=0}}",
+            "opponent2": "{{TeamOpponent|Tale Quale|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M8="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Venexis Aurora|score=1}}",
+            "opponent2": "{{TeamOpponent|Mercury (Venexis)|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Face The Fact|score=1}}",
+            "opponent2": "{{TeamOpponent|Ice Force Esports|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Romers|score=1}}",
+            "opponent2": "{{TeamOpponent|Faster Than Miau|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|The Grease Machine|score=0}}",
+            "opponent2": "{{TeamOpponent|Tale Quale|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M4="
+        },
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|Venexis Aurora|score=0}}",
+            "opponent2": "{{TeamOpponent|Face the Fact|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|Romers|score=0}}",
+            "opponent2": "{{TeamOpponent|Tale Quale|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "opponent1": "{{TeamOpponent|Face the Fact|score=0}}",
+            "opponent2": "{{TeamOpponent|Tale Quale|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        }
+    ]
+}

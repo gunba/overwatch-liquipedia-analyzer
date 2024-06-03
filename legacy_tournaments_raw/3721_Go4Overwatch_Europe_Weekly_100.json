@@ -1,0 +1,381 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #100",
+            "image": "ESL Overwatch Community Cup.png",
+            "icon": "ESL-icon.png\u200e",
+            "series": "Go4Overwatch EU",
+            "shortname": "100",
+            "organizer": "ESL",
+            "format": "Single Elimination",
+            "type": "Online",
+            "country": "Europe",
+            "date": "2018-04-29",
+            "prizepoolusd": "120",
+            "localcurrency": "eur",
+            "prizepool": "100",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-100/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "32",
+            "previous": "Go4Overwatch/Europe/Weekly/99{{!}}Go4 Europe Cup #99",
+            "next": "Go4Overwatch/Europe/Weekly/101{{!}}Go4 Europe Cup #101"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "AugmentedAuthority",
+            "image": "Augmented Authority Logo.png",
+            "p1": "Dannedd|p1flag=se",
+            "p2": "Jofi|p2flag=fi",
+            "p3": "KaasIsBaas|p3flag=nl",
+            "p4": "Midna|p4flag=it",
+            "p5": "TwolzZ|p5flag=nl",
+            "p6": "Wayfast|p6flag=il",
+            "p7": "KvN|p7flag=de"
+        },
+        {
+            "team": "Bayonets and Kernels",
+            "p1": "konnik|p1flag=ru",
+            "p2": "Lencen|p2flag=nl",
+            "p3": "Noname|p3flag=ru",
+            "p4": "ReYaN|p4flag=ru",
+            "p5": "Sora|p5flag=ru",
+            "p6": "bluyed|p6flag=ru"
+        },
+        {
+            "team": "C8H11NO2",
+            "p1": "Badoli|p1flag=dk",
+            "p2": "IDK|p2flag=pl |p2link=IDK (Polish player)",
+            "p3": "Karra|p3flag=nl",
+            "p4": "LhCloudy|p4flag=fi",
+            "p5": "Philion|p5flag=pl",
+            "p6": "Setlet|p6flag=fi",
+            "c": "Cellen |cflag=fr"
+        },
+        {
+            "team": "K\u00f6nige",
+            "p1": "Adnar|p1flag=it",
+            "p2": "Jalf|p2flag=dk",
+            "p3": "Nacht|p3flag=de",
+            "p4": "TJRay|p4flag=uk",
+            "p5": "questn|p5flag=il",
+            "p6": "yuns|p6flag=fr"
+        },
+        {
+            "team": "Lovely Dwarves",
+            "image": "",
+            "p1": "Baconthief|p1flag=no",
+            "p2": "Eleanthas|p2flag=fi",
+            "p3": "IgniteTheSky|p3flag=de",
+            "p4": "Iko|p4flag=no",
+            "p5": "Ingemar|p5flag=se",
+            "p6": "Kijutsu|p6flag=at"
+        },
+        {
+            "team": "Mantic0re",
+            "p1": "Zensu|p1flag=fr |pos1=sup",
+            "p2": "Adurnam|p2flag=fr |pos2=sup",
+            "p3": "TonyTruand|p3flag=fr |pos3=dps",
+            "p4": "\u0191oxygene|p4flag=fr |pos4=flex",
+            "p5": "Teemo|p5flag=fr |pos5=tank",
+            "p6": "Thorkey|p6flag=fr |pos6=tank"
+        },
+        {
+            "team": "never won esl",
+            "image": "",
+            "p1": "EVER|p1flag=lt",
+            "p2": "Knasen|p2flag=se",
+            "p3": "TheWrongName|p3flag=nl",
+            "p4": "Zeal|p4flag=uk",
+            "p5": "milkyman|p5flag=fi",
+            "p6": "sucraX|p6flag=de"
+        },
+        {
+            "team": "Northern Lights",
+            "image": "Northern Lights logo.png",
+            "p1": "Henzu|p1flag=se",
+            "p2": "Leodeddz|p2flag=se",
+            "p3": "MrBeck|p3flag=dk",
+            "p4": "Zekor|p4flag=se",
+            "p5": "caspere|p5flag=se",
+            "p6": "lateks|p6flag=se"
+        },
+        {
+            "team": "oompaloompas",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Peak Esports",
+            "image": "",
+            "p1": "Bubba|p1flag=no",
+            "p2": "Cuddlesworth|p2flag=nl",
+            "p3": "P\u01fa\u014aD\u01fa|p3flag=uk",
+            "p4": "Scoot|p4flag=uk",
+            "p5": "Ture|p5flag=se",
+            "p6": "quester|p6flag=es"
+        },
+        {
+            "team": "Primate",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Quick Thrill Pink",
+            "image": "",
+            "p1": "Core|p1flag=be",
+            "p2": "MaLeR|p2flag=es",
+            "p3": "Matras|p3flag=be",
+            "p4": "Wumbo|p4flag=nl",
+            "p5": "AcariGrey|p5flag=fr",
+            "p6": "lucer|p6flag=nl"
+        },
+        {
+            "team": "Save Our e-Thugs",
+            "image": "",
+            "p1": "Lewis|p1flag=uk",
+            "p2": "MinZ|p2flag=se",
+            "p3": "Nostalgia|p3flag=uk",
+            "p4": "OrangeW|p4flag=uk",
+            "p5": "Y4nba|p5flag=uksc",
+            "p6": "Shovox|p6flag=uk"
+        },
+        {
+            "team": "Team Whisper",
+            "image": "",
+            "p1": "Logan|p1flag=uk",
+            "p2": "Mark|p2flag=fi",
+            "p3": "N00bi|p3flag=ch",
+            "p4": "ZALTOR|p4flag=tr",
+            "p5": "R4ph|p5flag=uk",
+            "p6": "Scar|p6flag=be|p6link=Scar (Belgium player)"
+        },
+        {
+            "team": "The Cloud Gaming",
+            "image": "The Cloud Gaming.png",
+            "p1": "Advocate|p1flag=pt",
+            "p2": "Astikko|p2flag=fr",
+            "p3": "FinnyTraps|p3flag=uk",
+            "p4": "Itzeru|p4flag=at",
+            "p5": "heaveNN|p5flag=es",
+            "p6": "spaceR|p6flag=se",
+            "c": "Fluzom|cflag=es"
+        },
+        {
+            "team": "WeGoFace",
+            "image": "",
+            "p1": "Alexander|p1flag=ua",
+            "p2": "Exicross|p2flag=by",
+            "p3": "Sabrie|p3flag=ru",
+            "p4": "Stanyyy|p4flag=ru",
+            "p5": "VortexG|p5flag=ru",
+            "p6": "Krispolic|p6flag=ru"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "quick thrill pink",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "team whisper",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "never won esl",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "save our e-thugs",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bayonets and kernels",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "northern lights",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "c8h11no2",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "wegoface",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "k\u00f6nige",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "augmentedauthority",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "mantic0re",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D11",
+            "team1": "the cloud gaming",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "lovely dwarves",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D13",
+            "team1": "primate",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "oompaloompas",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "peak esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "never won esl",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "quick thrill pink",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "c8h11no2",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "northern lights",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "mantic0re",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "augmentedauthority",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "oompaloompas",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W7",
+            "team1": "lovely dwarves",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "",
+            "finished": "true",
+            "overgg": "",
+            "pf": "",
+            "wl": "",
+            "map1": "",
+            "map1score": "",
+            "map1win": "",
+            "map2": "Numbani",
+            "map2score": "4-3",
+            "map2win": "1",
+            "map3": "Temple of Anubis",
+            "map3score": "4-3",
+            "map3win": "1",
+            "team2": "northern lights",
+            "score2": "1",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R3W1",
+            "team1": "never won esl",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "",
+            "finished": "true",
+            "overgg": "",
+            "pf": "",
+            "wl": "",
+            "map1": "Nepal",
+            "map1score": "2-0",
+            "map1win": "1",
+            "map2": "King's Row",
+            "map2score": "3-2",
+            "map2win": "1",
+            "map3": "",
+            "map3score": "",
+            "map3win": "",
+            "team2": "oompaloompas",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R3W3",
+            "team1": "augmentedauthority",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "",
+            "finished": "true",
+            "overgg": "",
+            "pf": "",
+            "wl": "",
+            "map1": "Numbani",
+            "map1score": "4-6",
+            "map1win": "2",
+            "map2": "Nepal",
+            "map2score": "1-2",
+            "map2win": "2",
+            "map3": "Oasis",
+            "map3score": "0-2",
+            "map3win": "2",
+            "team2": "augmentedauthority",
+            "score2": "3",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R4W1",
+            "team1": "never won esl",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "oompaloompas",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "northern lights",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

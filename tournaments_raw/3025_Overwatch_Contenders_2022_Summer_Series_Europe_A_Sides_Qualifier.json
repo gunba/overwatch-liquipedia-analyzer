@@ -1,0 +1,602 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2|liquipediatiertype=Qualifier",
+            "series": "Overwatch Contenders",
+            "abbreviation": "OWC",
+            "shortname": "OWC 2022 SS: EU A-Sides Qualifier",
+            "name": "Overwatch Contenders 2022 Summer Series: Europe A-Sides - Qualifier",
+            "tickername": "OWC 2022 SS: EU A-Sides Qualifier",
+            "image": "Overwatch Contenders Summer Series A-Sides allmode.png",
+            "organizer": "Blizzard",
+            "organizer-link": "http://www.blizzard.com",
+            "sponsor": "",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "prizepoolusd": "",
+            "sdate": "2022-07-13",
+            "edate": "2022-07-15",
+            "web": "https://overwatchleague.com/en-us/contenders/",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/EU-Summer-A/bracket",
+            "youtube": "overwatchcontenders",
+            "twitter": "owpathtopro",
+            "team_number": "64"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "bestof": "5",
+            "winner": "The Ultimates",
+            "opponent1": "{{TeamOpponent|The Ultimates|score=3}}",
+            "opponent2": "{{TeamOpponent|Lucky Sparkles Diamond|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "Orion",
+            "opponent1": "{{TeamOpponent|Orion|score=3}}",
+            "opponent2": "{{TeamOpponent|Prestige - Namaste|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Mind Goblin|score=W}}",
+            "opponent2": "{{TeamOpponent|Brahman|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "Silly n Strong",
+            "opponent1": "{{TeamOpponent|Nemurenal|score=0}}",
+            "opponent2": "{{TeamOpponent|Silly n Strong|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "Team PEPS",
+            "opponent1": "{{TeamOpponent|Team PEPS|score=3}}",
+            "opponent2": "{{TeamOpponent|Mauz Sexy Money Crew|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Regen EU Academy|score=0}}",
+            "opponent2": "{{TeamOpponent|Beau Monde Cohort|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "DontHaveHow",
+            "opponent1": "{{TeamOpponent|DontHaveHow|score=3}}",
+            "opponent2": "{{TeamOpponent|Unwanted|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "4th Dimension",
+            "opponent1": "{{TeamOpponent|Team Divergent|score=0}}",
+            "opponent2": "{{TeamOpponent|4th Dimension|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|01 Esports|score=3}}",
+            "opponent2": "{{TeamOpponent|Astral Thunder|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M9="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|2ez Critfarmers|score=3}}",
+            "opponent2": "{{TeamOpponent|Dababy 2.0|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M10="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|warriors (eu)|score=0}}",
+            "opponent2": "{{TeamOpponent|Altiora Sequoia|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M11="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "Frost Tails eSport",
+            "opponent1": "{{TeamOpponent|Projet Avengers|score=0}}",
+            "opponent2": "{{TeamOpponent|Frost Tails eSport|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "optional": "R1M12="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "GOATS (EU Team)",
+            "opponent1": "{{TeamOpponent|GOATS (EU Team)|score=3}}",
+            "opponent2": "{{TeamOpponent|\uc591\ud559\ud558\ub7ec \uc654\uc2b5\ub2c8\ub2e4|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "optional": "R1M13="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "Frog.",
+            "opponent1": "{{TeamOpponent|Allergic To Objective|score=0}}",
+            "opponent2": "{{TeamOpponent|Frog.|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "optional": "R1M14="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Munich eSports Nemesis|score=0}}",
+            "opponent2": "{{TeamOpponent|Igni|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M15="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "Sheer Cold",
+            "opponent1": "{{TeamOpponent|Flying Frenchmen|score=0}}",
+            "opponent2": "{{TeamOpponent|Sheer Cold|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "optional": "R1M16="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Ex Oblivione|score=3}}",
+            "opponent2": "{{TeamOpponent|PipiBox|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "optional": "R1M17="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "assa wow",
+            "opponent1": "{{TeamOpponent|assa wow|score=3}}",
+            "opponent2": "{{TeamOpponent|2ez Neo|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "optional": "R1M18="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Regen EU|score=3}}",
+            "opponent2": "{{TeamOpponent|Amsterdamse Pissebedden|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "optional": "R1M19="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|2ez Bag\u00e4r|score=L}}",
+            "opponent2": "{{TeamOpponent|Bro Love|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M20="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "Henning's son",
+            "opponent1": "{{TeamOpponent|Henning's son|score=3}}",
+            "opponent2": "{{TeamOpponent|Boreal Consored|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=1}}",
+            "optional": "R1M21="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "AOT team",
+            "opponent1": "{{TeamOpponent|condented|score=0}}",
+            "opponent2": "{{TeamOpponent|AOT team|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "optional": "R1M22="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Team Reality|score=3}}",
+            "opponent2": "{{TeamOpponent|YS Kombi|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M23="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "AWW YEAH",
+            "opponent1": "{{TeamOpponent|OTPhlex|score=0}}",
+            "opponent2": "{{TeamOpponent|AWW YEAH|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "optional": "R1M24="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Raspberry Racers|score=W}}",
+            "opponent2": "{{TeamOpponent|Goon Squad|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M25="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "Ethereal Untitled",
+            "opponent1": "{{TeamOpponent|Luneros|score=0}}",
+            "opponent2": "{{TeamOpponent|Ethereal Untitled|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=2}}",
+            "optional": "R1M26="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Space .|score=W}}",
+            "opponent2": "{{TeamOpponent|Black Hole|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M27="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|cat drinking soda|score=0}}",
+            "opponent2": "{{TeamOpponent|Munich eSports|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M28="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Anghells|score=3}}",
+            "opponent2": "{{TeamOpponent|Killer estorts|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M29="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Altiora Eminence|score=0}}",
+            "opponent2": "{{TeamOpponent|Backbone2704|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M30="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Quandale Dingle|score=3}}",
+            "opponent2": "{{TeamOpponent|2ez Jazz|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M31="
+        },
+        {
+            "date": "July 13, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Winston commit tax fraud|score=0}}",
+            "opponent2": "{{TeamOpponent|Altera Esports|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M32="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|The Ultimates|score=3}}",
+            "opponent2": "{{TeamOpponent|Orion|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Mind Goblin|score=3}}",
+            "opponent2": "{{TeamOpponent|Silly n Strong|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "Team Peps",
+            "opponent1": "{{TeamOpponent|Team Peps|score=3}}",
+            "opponent2": "{{TeamOpponent|Beau Monde Cohort|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|DontHaveHow|score=0}}",
+            "opponent2": "{{TeamOpponent|4th Dimension|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|01 Esports|score=3}}",
+            "opponent2": "{{TeamOpponent|2ez CritFarmers|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Altiora Sequoia|score=0}}",
+            "opponent2": "{{TeamOpponent|Frost Tails eSport|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|GOATS (EU Team)|score=3}}",
+            "opponent2": "{{TeamOpponent|frog.|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Igni|score=0}}",
+            "opponent2": "{{TeamOpponent|Sheer Cold|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Ex Oblivione|score=3}}",
+            "opponent2": "{{TeamOpponent|assa wow|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M9="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Regen EU|score=1}}",
+            "opponent2": "{{TeamOpponent|Bro Love|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M10="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Henning's son|score=3}}",
+            "opponent2": "{{TeamOpponent|AOT team|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M11="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Team Reality|score=0}}",
+            "opponent2": "{{TeamOpponent|AWW YEAH|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M12="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Raspberry Racers|score=W}}",
+            "opponent2": "{{TeamOpponent|Ethereal Untitled|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M13="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Space .|score=0}}",
+            "opponent2": "{{TeamOpponent|Munich eSports|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M14="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Anghells|score=3}}",
+            "opponent2": "{{TeamOpponent|Backbone2704|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M15="
+        },
+        {
+            "date": "July 14, 2022 - 20:00 {{Abbr/CEST}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Quandale Dingle|score=0}}",
+            "opponent2": "{{TeamOpponent|Altera Esports|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M16="
+        },
+        {
+            "date": "July 15, 2022 - 19:00 {{Abbr/CEST}}",
+            "youtube": "",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|The Ultimates|score=W}}",
+            "opponent2": "{{TeamOpponent|Mind Goblin|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "July 15, 2022 - 20:30 {{Abbr/CEST}}",
+            "youtube": "overwatchcontenders",
+            "winner": "1",
+            "opponent1": "{{TeamOpponent|Team Peps|score=3}}",
+            "opponent2": "{{TeamOpponent|4th Dimension|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "July 15, 2022 - 19:00 {{Abbr/CEST}}",
+            "youtube": "",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|01 esports|score=3}}",
+            "opponent2": "{{TeamOpponent|Frost Tails eSport|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M3="
+        },
+        {
+            "date": "July 15, 2022 - 19:00 {{Abbr/CEST}}",
+            "youtube": "",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|GOATS (EU Team)|score=3}}",
+            "opponent2": "{{TeamOpponent|Sheer Cold|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M4="
+        },
+        {
+            "date": "July 15, 2022 - 19:00 {{Abbr/CEST}}",
+            "youtube": "",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Ex Oblivione|score=W}}",
+            "opponent2": "{{TeamOpponent|Bro Love|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M5="
+        },
+        {
+            "date": "July 15, 2022 - 22:00 {{Abbr/CEST}}",
+            "youtube": "overwatchcontenders",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Henning's son|score=2}}",
+            "opponent2": "{{TeamOpponent|AWW YEAH|score=3}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=4|score2=5|winner=2}}",
+            "map3": "{{Map|map=Junkertown|mode=Escort|score1=3|score2=4|winner=2}}",
+            "map4": "{{Map|map=New Queen Street|mode=Push|score1=95.50m|score2=95.49m|winner=1}}",
+            "map5": "{{Map|map=Nepal|mode=Control|score1=1|score2=2|winner=2}}",
+            "optional": "R3M6="
+        },
+        {
+            "date": "July 15, 2022 - 19:00 {{Abbr/CEST}}",
+            "youtube": "overwatchcontenders",
+            "winner": "2",
+            "opponent1": "{{TeamOpponent|Raspberry Racers|score=0}}",
+            "opponent2": "{{TeamOpponent|Munich eSports|score=3}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}",
+            "map2": "{{Map|map=Midtown|mode=Hybrid|score1=1|score2=3|winner=2}}",
+            "map3": "{{Map|map=Dorado|mode=Escort|score1=2|score2=3|winner=2}}",
+            "optional": "R3M7="
+        },
+        {
+            "date": "July 15, 2022 - 19:00 {{Abbr/CEST}}",
+            "youtube": "",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Anghells|score=3}}",
+            "opponent2": "{{TeamOpponent|Altera Esports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M8="
+        }
+    ]
+}

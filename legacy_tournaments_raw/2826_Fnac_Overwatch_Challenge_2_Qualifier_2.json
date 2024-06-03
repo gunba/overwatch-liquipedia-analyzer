@@ -1,0 +1,146 @@
+{
+    "tournament_info": [
+        {
+            "name": "Fnac - Overwatch Challenge 2: Qualifier 2",
+            "shortname": "Overwatch Challenge 2: Qualifier 2",
+            "image": "",
+            "series": "",
+            "abbreviation": "",
+            "tickername": "Overwatch Challenge 2: Qualifier 2",
+            "organizer": "GamersMedia",
+            "organizer-link": "http://www.gamersmedia.pt/",
+            "organizer2": "ESL",
+            "organizer2-link": "https://play.eslgaming.com/portugal/",
+            "sponsor": "[http://www.fnac.pt/ FNAC] <br> [http://www8.hp.com/pt/pt/campaigns/gaming/ Omen by HP] <br> [http://www.intel.com Intel]",
+            "type": "Online",
+            "country": "Portugal",
+            "city": "",
+            "format": "",
+            "prizepool": "",
+            "localcurrency": "eur",
+            "prizepoolusd": "",
+            "sdate": "2017-03-10",
+            "edate": "2017-03-11",
+            "liquipediatier": "4|liquipediatiertype=Qualifier",
+            "web": "https://play.eslgaming.com/overwatch/europe/overwatch/open/6on6-omen-fnac-s2-qr-2-portugal/",
+            "twitter": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/open/6on6-omen-fnac-s2-qr-2-portugal/rankings/",
+            "twitch": "gamersmedia",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "k1ck eSports Club",
+            "p1": "riis3d|p1flag=pt",
+            "p2": "LUNrgn|p2flag=pt",
+            "p3": "Addicted|p3flag=pt",
+            "p4": "Horthic|p4flag=pt",
+            "p5": "Okami|p5flag=pt",
+            "p6": "Phatt|p6flag=pt",
+            "qualifier": ""
+        },
+        {
+            "team": "Vortex",
+            "p1": "Krellian|p1flag=br",
+            "p2": "san alex|p2flag=pt",
+            "p3": "MindNerd|p3flag=pt",
+            "p4": "Traffy|p4flag=pt",
+            "p5": "zer0wo|p5flag=pt",
+            "p6": "Shkizi|p6flag=pt",
+            "qualifier": ""
+        },
+        {
+            "team": "Karma Clan of Games",
+            "p1": "stuntz|p1flag=pt",
+            "p2": "Alphazen|p2flag=pt",
+            "p3": "Reapy|p3flag=pt",
+            "p4": "Flager|p4flag=pt",
+            "p5": "Froz3n|p5flag=pt",
+            "p6": "Kenshizi|p6flag=pt",
+            "qualifier": ""
+        },
+        {
+            "team": "Estoril Praia eSports",
+            "image": "Estorillogo.png",
+            "p1": "Etherann|p1flag=pt",
+            "p2": "Tomoh|p2flag=pt",
+            "p3": "scofield|p3flag=pt",
+            "p4": "Viriato|p4flag=pt",
+            "p5": "WEST|p5flag=pt",
+            "p6": "RatskilleR|p6flag=pt",
+            "p7": "GabiKnight|p7flag=pt",
+            "qualifier": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "karma clan of games",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ftw.aca buunuki",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "k1ck",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "vortex",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "k1ck",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "vortex",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "furenses isportos",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "estoril praia esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "karma clan of games",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "nome da equipa",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "karma clan of games",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "estoril praia esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "estoril praia esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "vortex",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

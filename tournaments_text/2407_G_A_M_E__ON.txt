@@ -1,0 +1,667 @@
+{{Infobox league
+|liquipediatier=5
+|liquipediatiertype=<!--Qualifier, Monthly, Weekly, etc.-->
+|name=G.A.M.E. ON
+|shortname=G.A.M.E. ON
+|tickername=G.A.M.E. ON
+|icon=Arena 51 allmode.png
+|image=Arena 51 allmode.png
+|series=
+|abbreviation=
+|organizer=GG Esports
+|organizer2=Arena 51 Gaming
+|organizer3=Mythical Esports
+|organizer-link=
+|sponsor=Community Gaming
+|type=Online
+|country=Europe
+|city=<!--For offline tournaments only-->
+|venue=<!--For offline tournaments only-->
+|game=overwatch2
+|format=Double Elimination
+|prizepoolusd=150
+|localcurrency=<!--ISO 4217 code of prize currency-->
+|prizepool=<!--Prize in local currency, do not use if prize is in USD-->
+|sdate=2023-03-18
+|edate=2023-03-19
+|date=<!--For one-day tournaments-->
+|twitter=
+|web=https://gameon.slmn.gg/
+|twitch=arena_51_gaming
+|discord=ggesports
+|youtube=
+|rulebook=https://drive.google.com/file/d/1i8KOvIAIZgbHNKDyvLXB_wFT3UhgPEDC/view
+|bracket=https://www.communitygaming.io/tournament/game-on
+|team_number=21
+}}
+
+==Information==
+===Format===
+*Double Elimination
+*All opening matches are {{Abbr/Ft2}}
+*Final three matches are {{Abbr/Ft3}}
+
+===Broadcast Talent===
+{{box|start|padding=1em}}
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=Nerdfighter
+|b2=Spectrion
+|b3=FunkyMonk|b3flag=gb
+|b4=spaggettiohs|b4flag=gb
+|b5=Nightmare|b5link=Nightmare (caster)
+|b6=Heller|b6flag=gb
+|b7=Gio|b7flag=gb
+}}
+{{box|break}}
+{{BroadcasterCard|lang=English
+|position=Producer
+|b1=Zusor|b1flag=de
+}}
+{{box|break}}
+{{BroadcasterCard|lang=English
+|position=Observer
+|b1=Marc|b1flag=de
+|b2=SealCEO|b2flag=us
+|b3=knockonwood|b3flag=us
+}}
+{{box|end}}
+
+==Prize Pool==
+{{TeamPrizePool
+|{{Slot|usdprize=70}}
+|{{Slot|usdprize=50}}
+|{{Slot|usdprize=30}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Dinoco
+|p1=Clouds|p1flag=es|pos1=dps
+|p2=Nebu|p2flag=es|pos2=dps
+|p3=Dalexiis|p3flag=es|pos3=tank
+|p4=Vinu|p4flag=es|pos4=tank
+|p5=Gokhqueen|p5flag=es|pos5=sup
+|p6=ChocoBeibi|p6flag=es|pos6=sup
+|t2title=Staff
+|t2c1=Artemis|t2c1flag=es|t2c1pos=Manager|t2c1link=Artemis (Spanish player) 
+|t2c2=Ivhod|t2c2flag=es|t2c2pos=Coach
+}}
+{{TeamCard
+|team=Asura Affinity
+|p1=spraypaint|p1flag=se|pos1=dps
+|p2=wys|p2flag=uk|pos2=dps
+|p3=UnLocked|p3flag=nl|pos3=tank
+|p4=faab|p4flag=fr|pos4=sup
+|p5=ushizi|p5flag=de|pos5=sup
+}}
+{{TeamCard
+|team=Destined Dynasty
+|p1=HungryWidow|p1flag=uk|pos1=
+|p2=Speedy|p2flag=uk|pos2=
+|p3=Parecool|p3flag=fr|pos3=
+|p4=okigivup|p4flag=uk|pos4=
+|p5=xFrey|p5flag=de|pos5=
+}}
+{{TeamCard
+|team=Atletic
+|p1=KaitoxRaven|p1flag=de|pos1=
+|p2=henri|p2flag=de|pos2=
+|p3=jonohneh|p3flag=de|pos3=
+|p4=Nightknight1|p4flag=de|pos4=
+|p5=Cutiepie|p5flag=de|pos5=
+}}
+{{TeamCard
+|team=Crimson Cats
+|p1=Boostio|p1flag=nl|pos1=|p1link=Boostio (Dutch Player)
+|p2=luuk88|p2flag=nl|pos2=
+|p3=ThickNot|p3flag=se|pos3=
+|p4=Yrreb|p4flag=de|pos4=
+|p5=Mully122|p5flag=uk|pos5=
+}}
+{{TeamCard
+|team=Destined Chaos
+|p1=sasaa|p1flag=is|pos1=
+|p2=Rzzzz|p2flag=uk|pos2=
+|p3=AngyIsWinning|p3flag=de|pos3=
+|p4=Puitnar|p4flag=fi|pos4=
+|p5=Powlo|p5flag=es|pos5=
+}}
+{{TeamCard
+|team=Lunary
+|p1=xxAncymonekPlMountainxx2137|p1flag=pl|pos1=
+|p2=Misiek|p2flag=pl|pos2=
+|p3=POETANCZYK|p3flag=pl|pos3=
+|p4=Wulfiz|p4flag=no|pos4=
+|p5=JustIce0|p5flag=fi|pos5=
+}}
+{{TeamCard
+|team=Alpine
+|p1=Bluesky128|p1flag=de|pos1=
+|p2=tiagolini|p2flag=pt|pos2=
+|p3=Verit|p3flag=fi|pos3=
+|p4=Homielover33|p4flag=de|pos4=
+|p5=YoungZath|p5flag=nl|pos5=
+}}
+{{TeamCard
+|team=Imperium Samurai
+|p1=Zerotwo|p1flag=uk|pos1=dps
+|p2=elementofwind|p2flag=uk|pos2=dps
+|p3=Qkel|p3flag=ee|pos3=tank
+|p4=GoldenNinja|p4flag=uk|pos4=sup
+|p5=HappySausage|p5flag=de|pos5=sup
+|t2title=Staff
+|t2c1=ArchAngel|t2c1flag=uk|t2c1pos=coach
+|t2c2=Pear|t2c2flag=uk|t2c2pos=coach
+|t2c3=Adeft|t2c3flag=uk|t2c3pos=coach
+|t2c4=florox|t2c4flag=de|t2c4pos=manager
+|t2c5=DarthMurloc|t2c5flag=ru|t2c5pos=manager
+}}
+{{TeamCard
+|team=Pixies
+|p1=Anata|p1flag=uk|pos1=dps
+|p2=FilthyDunder|p2flag=se|pos2=dps
+|p3=Tobito|p3flag=dk|pos3=dps
+|p4=PandaBoy|p4flag=fi|pos4=tank
+|p5=COBBA|p5flag=uk|pos5=sup
+|p6=Kermi|p6flag=fi|pos6=sup
+|p7=Lawrence|p7flag=ro|pos7=sup
+|p8=Libi|p8flag=fi|pos8=sup
+|t2title=Staff
+|t2c1=Kermi|t2c1flag=fi|t2c1pos=coach
+|t2c2=Kermi|t2c2flag=fi|t2c2pos=manager
+}}
+{{TeamCard
+|team=Lunar Horizon
+|p1=snow|p1flag=de|pos1=|p1link=snow (German Player)
+|p2=RodianRebel|p2flag=uk|pos2=
+|p3=Trace|p3flag=uk|pos3=
+|p4=cederpind|p4flag=de|pos4=
+|p5=Penguins|p5flag=uk|pos5=
+}}
+{{TeamCard
+|team=Kwangya Quasar
+|p1=stainless|p1flag=uk|pos1=
+|p2=DerPoto|p2flag=ch|pos2=
+|p3=GalnaBananen|p3flag=se|pos3=
+|p4=JesperSwag|p4flag=no|pos4=
+|p5=VGV12|p5flag=no|pos5=
+}}
+{{TeamCard
+|team=OG Cerberus
+|p1=viru5|p1flag=uk|pos1=
+|p2=laser5|p2flag=uk|pos2=
+|p3=reisu|p3flag=uk|pos3=
+|p4=Harii|p4flag=ch|pos4=
+|p5=Banina|p5flag=dk|pos5=
+}}
+{{TeamCard
+|team=GG We Take Those
+|p1=PurpleSans|p1flag=at|pos1=
+|p2=AlexTeaFM|p2flag=gr|pos2=
+|p3=cakeydaddy|p3flag=dk|pos3=
+|p4=Goldemm|p4flag=de|pos4=
+|p5=Crumpy|p5flag=uk|pos5=
+}}
+{{TeamCard
+|team=Gass T3 is not a job
+|p1=Booga|p1flag=uk|pos1=dps
+|p2=sivaartt|p2flag=uk|pos2=dps
+|p3=Yuki|p3flag=uk|pos3=dps|p3link=Yuki (British player)
+|p4=Aisaka|pos4=tank
+|p5=Gass|p5flag=fi|pos5=tank
+|p6=lynrax|p6flag=se|pos6=sup
+|p7=Horrocks|p7flag=uk|pos7=sup
+|t2title=Staff
+|t2c1=Animated|t2c1flag=gb|t2c1pos=coach
+|t2c2=Mince|t2c2flag=nz|t2c2pos=manager
+}}
+{{TeamCard
+|team=Mira
+|p1=BlutBaden|p1flag=no|pos1=dps
+|p2=Diplo|p2flag=il|pos2=dps
+|p3=Knildropi|p3flag=de|pos3=tank
+|p4=Cr1spy13ac0n|p4flag=uk|pos4=sup
+|p5=PaulDotJava|p5flag=de|pos5=sup
+|t2title=Staff
+|t2c1=Noirox|t2c1flag=de|t2c1pos=coach
+|t2c2=ImNotSleepy|t2c2flag=uk|t2c2pos=manager
+}}
+{{TeamCard
+|team=Power Corgis
+|p1=Typical|p1flag=uk|pos1=
+|p2=Fyreman|p2flag=de|pos2=
+|p3=Leksa|p3flag=at|pos3=
+|p4=Regulus|p4flag=uk|pos4=
+|p5=Dumda|p5flag=no|pos5=
+}}
+{{TeamCard
+|team=Omnis Nemuru
+|p1=Machu|p1flag=fi|pos1=
+|p2=Joka0205|p2flag=de|pos2=
+|p3=phyhui|p3flag=ch|pos3=
+|p4=KyloVISA|p4flag=pl|pos4=
+|p5=mathiassou9|p5flag=fr|pos5=
+}}
+{{TeamCard
+|team=Nymphicus
+|p1=Keezo|p1flag=uk|pos1=
+|p2=Denbo|p2flag=uk|pos2=
+|p3=iQuackLikeADuck|p3flag=no|pos3=
+|p4=Tryze|p4flag=no|pos4=
+|p5=mattadoor|p5flag=uk|pos5=
+}}
+{{TeamCard
+|team=Couch Potatoes
+|p1=Aimbotkevin|p1flag=de|pos1=dps
+|p2=Tempo|p2flag=fi|pos2=dps
+|p3=luau|p3flag=uk|pos3=tank
+|p4=Crumble|p4flag=uk|pos4=sup
+|p5=Gio|p5flag=uksc|pos5=sup
+}}
+{{TeamCard
+|team=GG Abyss
+|p1=Juniper|p1flag=uk|pos1=dps
+|p2=Frangipane|p2flag=nl|pos2=dps
+|p3=GolvMoppen|p3flag=se|pos3=dps
+|p4=Omega|p4flag=de|pos4=tank
+|p5=Jaeco|p5flag=se|pos5=sup
+|p6=Go1db1ooded|p6flag=de|pos6=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/8L4DSSH2L1DH2LH4LLU8L2DSL1DH2L2DH2L1DLL1DLL1D|id=Dcfrvr4sTj
+
+<!-- Upper Bracket Round 1 -->
+|R1M1={{Match
+    |bestof=3
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Destined Chaos|score=2}}
+    |opponent2={{TeamOpponent|Power Corgis|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Mira|score=0}}
+    |opponent2={{TeamOpponent|Asura Affinity|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M3={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Lunary|score=0}}
+    |opponent2={{TeamOpponent|Dinoco|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M4={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|OG Cerberus|score=2}}
+    |opponent2={{TeamOpponent|Destined Dynasty|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M5={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Lunar Horizon|score=0}}
+    |opponent2={{TeamOpponent|Gass T3 is not a job|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Round 2 -->
+|R2M1={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Imperium Samurai|score=0}}
+    |opponent2={{TeamOpponent|Destined Chaos|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|GG We Take Those|score=1}}
+    |opponent2={{TeamOpponent|Asura Affinity|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M3={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|GG Abyss|score=1}}
+    |opponent2={{TeamOpponent|Dinoco|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M4={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Couch Potatoes|score=2}}
+    |opponent2={{TeamOpponent|OG Cerberus|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M5={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Alpine|score=0}}
+    |opponent2={{TeamOpponent|Gass T3 is not a job|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M6={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Pixies|score=2}}
+    |opponent2={{TeamOpponent|Nymphicus|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M7={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Omnis Nemuru|score=2}}
+    |opponent2={{TeamOpponent|Crimson Cats|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M8={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Kwangya Quasar|score=2}}
+    |opponent2={{TeamOpponent|Atletic|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Quarterfinals -->
+|R4M1={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Destined Chaos|score=2}}
+    |opponent2={{TeamOpponent|Asura Affinity|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R4M2={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Dinoco|score=1}}
+    |opponent2={{TeamOpponent|Couch Potatoes|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R4M3={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Gass T3 is not a job|score=2}}
+    |opponent2={{TeamOpponent|Pixies|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R4M4={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Omnis Nemuru|score=2}}
+    |opponent2={{TeamOpponent|Kwangya Quasar|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R6M1={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Destined Chaos|score=2}}
+    |opponent2={{TeamOpponent|Couch Potatoes|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R6M2={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Gass T3 is not a job|score=2}}
+    |opponent2={{TeamOpponent|Omnis Nemuru|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Final -->
+|R8M1={{Match
+	|bestof=5
+    |date=2023-03-19
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Destined Chaos|score=0}}
+    |opponent2={{TeamOpponent|Gass T3 is not a job|score=3}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 1 -->
+|R2M9={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Power Corgis|score=2}}
+    |opponent2={{TeamOpponent|Atletic|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M10={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Mira|score=2}}
+    |opponent2={{TeamOpponent|Crimson Cats|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M11={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Lunary|score=0}}
+    |opponent2={{TeamOpponent|Nymphicus|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M12={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Destined Dynasty|score=0}}
+    |opponent2={{TeamOpponent|Alpine|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M13={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Lunar Horizon|score=0}}
+    |opponent2={{TeamOpponent|OG Cerberus|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 2 -->
+|R3M1={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Power Corgis|score=0}}
+    |opponent2={{TeamOpponent|Mira|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R3M2={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Nymphicus|score=0}}
+    |opponent2={{TeamOpponent|Alpine|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R3M3={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|OG Cerberus|score=2}}
+    |opponent2={{TeamOpponent|GG Abyss|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R3M4={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|GG We Take Those|score=0}}
+    |opponent2={{TeamOpponent|Imperium Samurai|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 3 -->
+|R4M5={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Asura Affinity|score=2}}
+    |opponent2={{TeamOpponent|Mira|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R4M6={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Dinoco|score=2}}
+    |opponent2={{TeamOpponent|Alpine|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R4M7={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Pixies|score=2}}
+    |opponent2={{TeamOpponent|OG Cerberus|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R4M8={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Kwangya Quasar|score=2}}
+    |opponent2={{TeamOpponent|Imperium Samurai|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 4 -->
+|R5M1={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Asura Affinity|score=1}}
+    |opponent2={{TeamOpponent|Dinoco|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R5M2={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Pixies|score=2}}
+    |opponent2={{TeamOpponent|Kwangya Quasar|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R6M3={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Omnis Nemuru|score=1}}
+    |opponent2={{TeamOpponent|Dinoco|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R6M4={{Match
+    |date=2023-03-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Couch Potatoes|score=0}}
+    |opponent2={{TeamOpponent|Pixies|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R7M1={{Match
+    |date=2023-03-19
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Dinoco|score=0}}
+    |opponent2={{TeamOpponent|Pixies|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Final -->
+|R8M2={{Match
+	|bestof=5
+    |date=2023-03-19
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Destined Chaos|score=0}}
+    |opponent2={{TeamOpponent|Pixies|score=3}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R9M1={{Match
+	|bestof=5
+    |date=2023-03-19
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Gass T3 is not a job|score=3}}
+    |opponent2={{TeamOpponent|Pixies|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

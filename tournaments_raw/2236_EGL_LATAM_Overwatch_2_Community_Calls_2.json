@@ -1,0 +1,146 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "name": "EGL LATAM Overwatch 2 Community Calls #2",
+            "shortname": "LATAM Community Calls 2",
+            "tickername": "EGL LATAM Community Calls #2",
+            "icon": "EGL allmode.png",
+            "image": "Overwatch 2 Community Calls lightmode.png",
+            "imagedark": "Overwatch 2 Community Calls darkmode.png",
+            "organizer": "EGL",
+            "series": "Esports Gaming League",
+            "abbreviation": "EGL",
+            "type": "Online",
+            "country": "South America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "50",
+            "date": "2022-11-26",
+            "twitter": "EGL",
+            "web": "https://egl.tv",
+            "facebook": "EGLgg",
+            "instagram": "EGLtv",
+            "discord": "eglgg",
+            "youtube": "eglpro",
+            "twitch": "egl",
+            "rulebook": "https://egl.tv/tournament/7415",
+            "bracket": "https://egl.tv/tournament/7415/matches",
+            "team_number": "8",
+            "next": "EGL_LATAM_Overwatch_2_Community_Calls/3{{!}}#3"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "geladeira quatro portas",
+            "p1": "Edigas|p1flag=|pos1=dps",
+            "p2": "Shin|p2flag=br|pos2=dps",
+            "p3": "Yax|p3flag=|pos3=tank",
+            "p4": "Lokjiiu|p4flag=|pos4=sup",
+            "p5": "Poke|p5flag=|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "GME|t2c1flag=br|t2c1pos=coach"
+        },
+        {
+            "team": "Crocs do Dalca",
+            "p1": "Ludwig|p1flag=|pos1=dps",
+            "p2": "ShawnOFF|p2flag=|pos2=dps",
+            "p3": "fanp|p3flag=|pos3=dps",
+            "p4": "Dalca|p4flag=|pos4=tank",
+            "p5": "Nyohl|p5flag=|pos5=sup",
+            "p6": "Pardal|p6flag=|pos6=sup"
+        },
+        {
+            "team": "SINS MX",
+            "p1": "Pyrus|p1flag=mx|pos1=",
+            "p2": "Karma|p2flag=mx|pos2=|p2link=Karma (Mexican player)",
+            "p3": "iGio|p3flag=mx|pos3=",
+            "p4": "Maurigove626|p4flag=mx|pos4=",
+            "p5": "BomerBTW|p5flag=mx|pos5="
+        },
+        {
+            "team": "hypercalopsita9000",
+            "p1": "Romulo|p1flag=br|pos1=",
+            "p2": "bronquite|p2flag=br|pos2=",
+            "p3": "Azidy|p3flag=br|pos3=",
+            "p4": "Mipps|p4flag=br|pos4=",
+            "p5": "Mene|p5flag=br|pos5=",
+            "p6": "Abysswalker|p6flag=br|pos6=",
+            "p7": "wpvmal|p7flag=br|pos7=",
+            "p8": "Kheldor|p8flag=br|pos8="
+        },
+        {
+            "team": "ACENDE O BANZA PRA FORNECER",
+            "p1": "zigoss|p1flag=br|pos1=",
+            "p2": "Peccinato|p2flag=br|pos2=",
+            "p3": "starchild|p3flag=br|pos3=",
+            "p4": "Grilo|p4flag=br|pos4=",
+            "p5": "wpvmal|p5flag=br|pos5=",
+            "p6": "jonas|p6flag=br|pos6="
+        },
+        {
+            "team": "Meerkat Esports",
+            "p1": "MisterDius|p1flag=pe|pos1=",
+            "p2": "Amadeus|p2flag=pe|pos2=",
+            "p3": "Dejavu|p3flag=ar|pos3=",
+            "p4": "isaawolf|p4flag=pa|pos4=",
+            "p5": "Mutoryu|p5flag=pe|pos5="
+        },
+        {
+            "team": "Cabeca de Balao",
+            "p1": "Nitro|p1flag=|pos1=dps",
+            "p2": "Shinigami|p2flag=|pos2=dps",
+            "p3": "Lucas42g|p3flag=|pos3=dps",
+            "p4": "neil|p4flag=|pos4=tank",
+            "p5": "Froakie|p5flag=|pos5=sup",
+            "p6": "Mocha|p6flag=|pos6=sup"
+        },
+        {
+            "team": "Whitemode",
+            "p1": "bazzanella|p1flag=br|pos1=",
+            "p2": "Cabelada|p2flag=br|pos2=",
+            "p3": "ShapeFalando|p3flag=br|pos3=",
+            "p4": "naisushotto|p4flag=br|pos4=",
+            "p5": "Jack|p5flag=br|pos5=",
+            "p6": "Luppo|p6flag=br|pos6=|p6link=MeiasLuppo"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "",
+            "opponent1": "{{TeamOpponent|geladeira quatro portas|score=0}}",
+            "opponent2": "{{TeamOpponent|crocs do dalca|score=2}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|sins mx|score=0}}",
+            "opponent2": "{{TeamOpponent|hypercalopsita9000|score=2}}",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|acende o banza pra fornecer|score=2}}",
+            "opponent2": "{{TeamOpponent|meerkat esports|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|cabeca de balao|score=1}}",
+            "opponent2": "{{TeamOpponent|whitemode|score=2}}",
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|crocs do dalca|score=2}}",
+            "opponent2": "{{TeamOpponent|hypercalopsita9000|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|acende o banza pra fornecer|score=0}}",
+            "opponent2": "{{TeamOpponent|whitemode|score=2}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|crocs do dalca|score=2}}",
+            "opponent2": "{{TeamOpponent|whitemode|score=0}}",
+            "optional": "R3M1="
+        }
+    ]
+}

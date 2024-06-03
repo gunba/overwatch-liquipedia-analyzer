@@ -1,0 +1,673 @@
+{{DISPLAYTITLE:DreamHack Winter 2016}}
+{{Liquipedia links|counterstrike=DreamHack/2016/Winter|smash=DreamHack Winter 2016|dota2=DreamLeague/Season 6|hearthstone=DreamHack_2016/Winter|rainbowsix=Nordic_Invitational/2016}}
+{{DreamHack Navbox}}<br>
+
+{{Tabs static
+|name1=Main Event |link1=DreamHack/2016/Winter
+|name2=North American Qualifier |link2=DreamHack/2016/Winter/North American Qualifier
+|name3=European Qualifier |link3=DreamHack/2016/Winter/European Qualifier
+|name4=BYOC Qualifier |link4=DreamHack/2016/Winter/BYOC Qualifier
+|This=1}}<br/>
+
+{{Infobox league
+|liquipediatier={{TierText/2}}
+|series=DreamHack
+|shortname=Winter
+|name=DreamHack Winter 2016
+|image=Overwatch_Championship_Logo.png
+|organizer=DreamHack
+|sponsor=
+|type=Offline
+|country=Sweden
+|city=Jönköping
+|venue=[http://www.elmia.se Elmia]
+|twitch=DreamHackOverwatch
+|format=Group Stage ({{Abbr/Bo1}} + {{Abbr/Bo3}})<br /> Single-Elimination Bracket ({{Abbr/Bo3}})
+|prizepoolusd=50,000
+|sdate=2016-11-25
+|edate=2016-11-26
+|web=http://dreamhack.se/dhw16/2016/09/29/50000-overwatch-championship-at-dreamhack-winter-2016-announced/
+|teamfirst=misfits
+|teamsecond=fnatic
+|teamthird=nip
+|teamthird2=col
+|team_number=8
+}}
+
+==About==
+===Format===
+* Group stage
+** Two groups with four teams in each
+** Double elimination group format (GSL) {{Abbr/Bo1}} and {{Abbr/Bo3}}
+** Top two from each group move on to the playoffs
+
+* Playoffs
+** Single-Elimination Bracket
+** {{Abbr/Bo5}} matches
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Panel Host|lang=English
+|b1=Soembie
+}}
+{{BroadcasterCard
+|position=Commentator
+|b1=Jason Kaplan
+|b2=Uber
+|b3=Mr X|b3name=Matt Morello|b3flag=us
+|b4=ZP
+|b6=hexagrams
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard
+|position=Commentator|lang=Italian
+|b1=Herc 
+|b2=Grrimmjow |b2name=Fabiano Ferrara |b2flag=it
+}}
+{{BroadcasterCard
+|position=Analyst
+|b1=Ed0z|b1name=Edoardo Pahle|b1flag=it
+}}
+{{box|end|padding=2em}}
+
+==Prize Pool==
+$50,000 ({{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start }}
+{{prize pool slot|place=1 |usdprize=30,000 |misfits |lastvs1=fnatic |lastscore1=3 |lastvsscore1=2 }}
+{{prize pool slot|place=2 |usdprize=10,000 |fnatic |lastvs1=misfits |lastscore1=2 |lastvsscore1=3 }}
+{{prize pool slot|place=3-4 |usdprize=5,000
+|nip |lastvs1=fnatic |lastscore1=2 |lastvsscore1=3 |date1=2016-11-26
+|col |lastvs2=misfits |lastscore2=1 |lastvsscore2=3 |date2=2016-11-26
+}}
+{{prize pool slot|place=5-6 |usdprize=0
+|penta |lastvs1=col |lastscore1=1 |lastvsscore1=2 |date1=2016-11-26
+|ldlc |lastvs2=fnatic |lastscore2=0 |lastvsscore2=2 |date2=2016-11-26
+}}
+{{prize pool slot|place=7-8 |usdprize=0
+|unwanted |lastvs1=penta |lastscore1=1 |lastvsscore1=2 |date1=2016-11-25
+|mouz |lastvs2=ldlc |lastscore2=0 |lastvsscore2=2 |date2=2016-11-26
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Ninjas in Pyjamas
+|image=
+|p1=fragi |p1flag=
+|p2=zuppehw |p2flag=fi
+|p3=hymzi |p3flag=
+|p4=zappis |p4flag=
+|p5=mafu |p5flag=
+|p6=kyynel |p6flag=
+|c=Seita
+|qualifier=[[DreamHack/2016/Winter/European Qualifier|European Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Misfits
+|image=
+|p1=COOLLER |p1flag=
+|p2=SoOn |p2flag=
+|p3=Hidan |p3flag=
+|p4=skipjack |p4flag=
+|p5=Zebbosai |p5flag=
+|p6=Nevix |p6flag=
+|c=WindZ |cflag=fr
+|qualifier=[[DreamHack/2016/Winter/European Qualifier|European Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Fnatic
+|image=
+|p1=buds |p1flag=us
+|p2=coolmatt69 |p2flag=us
+|p3=stoop |p3flag=us
+|p4=custa |p4flag=au
+|p5=Vonethil |p5flag=se
+|p6=Hafficool |p6flag=
+|c=roflgator |cflag=us
+|qualifier=[[DreamHack/2016/Winter/North American Qualifier|North American Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=compLexity Gaming
+|image=
+|p1=torkTJO |p1flag=us
+|p2=NicolasTJO |p2flag=ca
+|p3=harbleu |p3flag=us
+|p4=jkw |p4flag=us
+|p5=Shake |p5flag=us
+|p6=Joemeister |p6flag=ca
+|c=RaptorZ |cflag=us
+|qualifier=[[DreamHack/2016/Winter/North American Qualifier|North American Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=mousesports
+|image=
+|p1=CWoosH|p1flag=
+|p2=Divinius|p2flag=de
+|p3=BUR1X|p3flag=
+|p4=Aseal|p4flag=
+|p5=Finnsi|p5flag=
+|p6=Logix|p6flag=
+|qualifier=[[DreamHack/2016/Winter/BYOC Qualifier|BYOC Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team LDLC.com
+|image=
+|p1=KabaL|p1flag=
+|p2=Klanton|p2flag=
+|p3=Mezamorphis|p3flag=
+|p4=Clown|p4flag=lv
+|p5=Mete|p5flag=
+|p6=Ube|p6flag=
+|qualifier=[[DreamHack/2016/Winter/BYOC Qualifier|BYOC Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=UnWanted
+|p1=N1KOLA|p1flag=se
+|p2=Zekor|p2flag=se
+|p3=lateks|p3flag=se
+|p4=limmet|p4flag=se
+|p5=eMIL|p5flag=se
+|p6=Smarky|p6flag=se
+|c=Nachobro |cflag=se
+|qualifier=[[DreamHack/2016/Winter/BYOC Qualifier|BYOC Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=PENTA Sports
+|p1=Dennia|p1flag=
+|p2=Flippy|p2flag=
+|p3=Akke|p3flag=
+|p4=Epzz|p4flag=
+|p5=Lalli|p5flag=
+|p6=BALLOC |p6flag=dk
+|c=Cuddles |cflag=uk
+|qualifier=[[DreamHack/2016/Winter/BYOC Qualifier|BYOC Qualifier]]
+}}
+{{box|end}}
+
+==Results==
+===Group Stage===
+{{box|start|padding=2em}}
+===={{HiddenSort|Group A}}====
+{{GroupTableStart| Group A |date=November 25, 2016 - 12:00 {{Abbr/CET}} |show_p=false|width=415px}}
+{{GroupTableSlot|{{Team|nip}} |place=1|win_m=2|lose_m=0|win_r=4|lose_r=0|diff=+4|bg=up }}
+{{GroupTableSlot|{{Team|col}} |place=2|win_m=2|lose_m=1|win_r=4|lose_r=3|diff=+1|bg=up }}
+{{GroupTableSlot|{{Team|penta}} |place=3|win_m=1|lose_m=2|win_r=3|lose_r=5|diff=-2|bg=down }}
+{{GroupTableSlot|{{Team|unwanted}} |place=4|win_m=0|lose_m=2|win_r=1|lose_r=4|diff=-3|bg=down }}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=aTeZz6F8ca |title=Group A Matches |width=415px
+|match1={{MatchMaps
+|team1=nip|team2=unwanted|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=November 25, 2016 - 12:00 {{Abbr/CET}} |finished=true
+|stream=
+|hltv=
+|vod=
+|match1={{Match/old
+|map=Eichenwalde
+|team1side=A  |team2side=D  |team1checkpoints=3/3 |team1time=0:00
+|team1side2=D |team2side2=A |team2checkpoints=0/3 |team2time=
+|win=1
+}}
+|match2={{Match/old
+|map=Lijiang Tower
+|controlwin1=1
+|controlwin2=1
+|controlwin3=1
+|controlwin4=skip
+|controlwin5=skip
+|win=1
+}}
+|match3={{Match/old
+|map=Dorado
+|win=skip
+}}
+|overgg=2218
+|pf=16776
+|wl=179
+}}
+}}
+|match2={{MatchMaps
+|team1=penta sports|team2=col|winner=2
+|games1=0|games2=2
+|details={{BracketMatchSummary
+|date=November 25, 2016 - 13:30 {{Abbr/CET}} |finished=true
+|stream=
+|hltv=
+|vod=
+|match1={{Match/old
+|map=Route 66
+|team1side=D  |team2side=A  |team2checkpoints=3/3 |team2time=0:00
+|team1side2=A |team2side2=D |team1checkpoints=2/3 |team1time=62.46m
+|win=2
+}}
+|match2={{Match/old
+|map=Hollywood
+|team1side=D  |team2side=A  |team2checkpoints=3/3 |team2time=4:04
+|team1side2=A |team2side2=D |team1checkpoints=0/3 |team1time=
+|win=2
+}}
+|match3={{Match/old
+|map=Dorado
+|win=skip
+}}
+|overgg=2219
+|pf=16777
+|wl=180
+}}
+}}
+|match3={{MatchMaps
+|team1=unwanted|team2=penta sports|winner=2
+|games1=1|games2=2
+|details={{BracketMatchSummary
+|date=November 25, 2016 - 15:00 {{Abbr/CET}} |finished=true
+|stream=
+|hltv=
+|vod=
+|match1={{Match/old
+|map=King's Row
+|team1side=A  |team2side=D |team1checkpoints=2/3 |team1time=56.46m
+|team1side2=D |team2side2=A |team2checkpoints=2/3 |team2time=2:09
+|win=2
+}}
+|match2={{Match/old
+|map=Nepal
+|controlwin1=1
+|controlwin2=1
+|controlwin3=1
+|controlwin4=skip
+|controlwin5=skip
+|win=1
+}}
+|match3={{Match/old
+|map=Lijiang Tower
+|controlwin1=2
+|controlwin2=1
+|controlwin3=2
+|controlwin4=2
+|controlwin5=skip
+|win=2
+}}
+|overgg=2222
+|pf=16778
+|wl=181
+}}
+}}
+|match4={{MatchMaps
+|team1=nip|team2=col|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=November 25, 2016 - 16:30 {{Abbr/CET}} |finished=true
+|stream=DreamHackOverwatch
+|hltv=
+|vod=
+|match1={{Match/old
+|map=Eichenwalde
+|team1side=A  |team2side=D |team1checkpoints=3/3 |team1time=2:25
+|team1side2=D |team2side2=A |team2checkpoints=2/3 |team2time=62.42m
+|win=1
+}}
+|match2={{Match/old
+|map=Hollywood
+|team1side=A  |team2side=D |team1checkpoints= |team1time=
+|team1side2=D |team2side2=A |team2checkpoints= |team2time=
+|win=1
+}}
+|match3={{Match/old
+|map=
+|win=skip
+}}
+|overgg=2223
+|pf=16779
+|wl=182
+}}
+}}
+|match5={{MatchMaps
+|team1=penta sports|team2=col|winner=2
+|games1=1|games2=2
+|details={{BracketMatchSummary
+|date=November 26, 2016 - 13:30 {{Abbr/CET}} |finished=true
+|stream=
+|hltv=
+|vod=
+|match1={{Match/old
+|map=King's Row
+|team1side=D  |team2side=A  |team2checkpoints=3/3 |team2time=3:50
+|team1side2=A |team2side2=D |team1checkpoints=3/3 |team1time=3:33
+|team1side3=A |team2side3=D |team1checkpoints2=3/3 |team1time2=0:00
+|team1side4=D  |team2side4=A  |team2checkpoints2=2/3 |team2time2=67.98m
+|win=1
+}}
+|match2={{Match/old
+|map=Eichenwalde
+|team1side=A  |team2side=D |team1checkpoints=1/3 |team1time=120.71m
+|team1side2=D |team2side2=A |team2checkpoints=2/3 |team2time=2:57
+|win=2
+}}
+|match3={{Match/old
+|map=Numbani
+|team1side=D  |team2side=A |team2checkpoints=3/3 |team2time=4:30
+|team1side2=A |team2side2=D |team1checkpoints=1/3 |team1time=93.66m
+|win=2
+}}
+|overgg=2226
+|pf=16784
+|wl=187
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Group B}}====
+{{GroupTableStart| Group B |date=November 26, 2016 - 11:00 {{Abbr/CET}} |show_p=false |width=415px |finished=true}}
+{{GroupTableSlot|{{Team|misfits}} |place=1|win_m=2|lose_m=0|win_r=4|lose_r=1|diff=+3|bg=up }}
+{{GroupTableSlot|{{Team|fnatic}} |place=2|win_m=2|lose_m=1|win_r=5|lose_r=3|diff=+2|bg=up }}
+{{GroupTableSlot|{{Team|team ldlc.com}} |place=3|win_m=1|lose_m=2|win_r=2|lose_r=4|diff=-2|bg=down }}
+{{GroupTableSlot|{{Team|mouz}} |place=4|win_m=0|lose_m=2|win_r=1|lose_r=4|diff=-3|bg=down }}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=EU0TIHbvFM |title=Group B Matches |width=415px
+|match1={{MatchMaps
+|team1=fnatic|team2=mouz|winner=1
+|games1=2|games2=1
+|details={{BracketMatchSummary
+|date=November 25, 2016 - 19:45 {{Abbr/CET}} |finished=true
+|stream=
+|map1t1firstside=|map1t1t=|map1t1ct=|map1t2t=|map1t2ct=
+|map1=|map1win=|stats1=
+|hltv=
+|vod=
+|overgg=2220
+|pf=16780
+|wl=183
+}}
+}}
+|match2={{MatchMaps
+|team1=misfits|team2=team ldlc.com|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=November 25, 2016 - 19:45 {{Abbr/CET}} |finished=true
+|stream=
+|map1t1firstside=|map1t1t=|map1t1ct=|map1t2t=|map1t2ct=
+|map1=|map1win=|stats1=
+|hltv=
+|vod=
+|overgg=2221
+|pf=16781
+|wl=184
+}}
+}}
+|match3={{MatchMaps
+|team1=team ldlc.com|team2=mouz|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=November 26, 2016 - 10:00 {{Abbr/CET}} |finished=true
+|stream=
+|map1t1firstside=|map1t1t=|map1t1ct=|map1t2t=|map1t2ct=
+|map1=|map1win=|stats1=
+|hltv=
+|vod=
+|overgg=2224
+|pf=16782
+|wl=185
+}}
+}}
+|match4={{MatchMaps
+|team1=misfits|team2=fnatic|winner=1
+|games1=2|games2=1
+|details={{BracketMatchSummary
+|date=November 26, 2016 - 11:30 {{Abbr/CET}} |finished=true
+|stream=
+|map1t1firstside=|map1t1t=|map1t1ct=|map1t2t=|map1t2ct=
+|map1=|map1win=|stats1=
+|map2t1firstside=|map2t1t=|map2t1ct=|map2t2t=|map2t2ct=
+|map2=|map2win=|stats2=
+|map3t1firstside=|map3t1t=|map3t1ct=|map3t2t=|map3t2ct=
+|map3=|map3win=|stats3=
+|hltv=
+|vod=
+|overgg=2225
+|pf=16783
+|wl=186
+}}
+}}
+|match5={{MatchMaps
+|team1=ldlc|team2=fnatic|winner=2
+|games1=0|games2=2
+|details={{BracketMatchSummary
+|date=November 26, 2016 - 13:00 {{Abbr/CET}} |finished=true
+|stream=
+|map1t1firstside=|map1t1t=|map1t1ct=|map1t2t=|map1t2ct=
+|map1=|map1win=|stats1=
+|map2t1firstside=|map2t1t=|map2t1ct=|map2t2t=|map2t2ct=
+|map2=|map2win=|stats2=
+|map3t1firstside=|map3t1t=|map3t1ct=|map3t2t=|map3t2ct=
+|map3=|map3win=|stats3=
+|hltv=
+|vod=
+|overgg=2227
+|pf=16785
+|wl=188
+}}
+}}
+}}
+
+{{box|end|padding=2em}}
+
+===Playoffs===
+
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=ty2pyDLJsJ
+|column-width=200
+<!-- SEMIFINALS -->
+|R1D1team=nip |R1D1score=2 |R1D1win=
+|R1D2team=fnatic |R1D2score=3 |R1D2win=1
+|R1G1details={{BracketMatchSummary
+|date=November 26, 2016 - 18:45 {{Abbr/CET}}
+|finished=true
+|stream=
+|overgg=2228
+|pf=16601
+|wl=190
+|vod=https://youtu.be/PxL8st537jw
+|match1={{Match/old
+|map=Temple of Anubis
+|team1side=A  |team2side=D  |team1checkpoints=0/2 |team1time=
+|team1side2=D |team2side2=A |team2checkpoints=1/2 |team2time=
+|win=2
+}}
+|match2={{Match/old
+|map=Dorado
+|team1side=D  |team2side=A  |team2checkpoints=0/3 |team2time=80.89m
+|team1side2=A |team2side2=D |team1checkpoints=1/3 |team1time=
+|win=1
+}}
+|match3={{Match/old
+|map=Numbani
+|team1side=A |team2side=D  |team1checkpoints=0/3 |team1time=
+|team1side2=D |team2side2=A |team2checkpoints=1/3 |team2time=
+|win=2
+}}
+|match4={{Match/old
+|map=Hollywood
+|team1side=D |team2side=A  |team2checkpoints=1/3 |team2time=99.27m
+|team1side2=A |team2side2=D |team1checkpoints=2/3 |team1time=
+|win=1
+}}
+|match5={{Match/old
+|map=Volskaya
+|team1side=D |team2side=A  |team2checkpoints=1/2 |team2time=
+|team1side2=A |team2side2=D |team1checkpoints=0/2 |team1time=
+|win=2
+}}
+}}
+|R1D3team=misfits |R1D3score=3 |R1D3win=1
+|R1D4team=col |R1D4score=1 |R1D4win=
+|R1G2details={{BracketMatchSummary
+|date=November 26, 2016 - 16:30 {{Abbr/CET}}
+|finished=true
+|stream=
+|overgg=2229
+|pf=16602
+|wl=189
+|vod=https://youtu.be/ESr97RhHDT0
+|match1={{Match/old
+|map=Temple of Anubis
+|team1side=A  |team2side=D  |team1checkpoints=2/2 |team1time=4:44
+|team1side2=D |team2side2=A |team2checkpoints=1/2 |team2time=
+|win=1
+}}
+|match2={{Match/old
+|map=Hollywood
+|team1side=A  |team2side=D  |team1checkpoints=3/3 |team1time=1:19
+|team1side2=D |team2side2=A |team2checkpoints=3/3 |team2time=1:00
+|team1side3=D  |team2side3=A  |team2checkpoints2=1/3 |team2time2=34.02m
+|team1side4=A |team2side4=D |team1checkpoints2=0/3 |team1time2=
+|win=2
+}}
+|match3={{Match/old
+|map=Nepal
+|controlwin1=2
+|controlwin2=1
+|controlwin3=1
+|controlwin4=1
+|win=1
+}}
+|match4={{Match/old
+|map=Watchpoint: Gibraltar
+|team1side=A  |team2side=D  |team1checkpoints=3/3 |team1time=3:22
+|team1side2=D |team2side2=A |team2checkpoints=3/3 |team2time=1:49
+|team1side3=D  |team2side3=A  |team2checkpoints2=1/3 |team2time2=48.13m
+|team1side4=A |team2side4=D |team1checkpoints2=2/3 |team1time2=
+|win=1
+}}
+}}
+
+<!-- FINALS -->
+|R2W1team=fnatic |R2W1score=2 |R2W1win=
+|R2W2team=misfits |R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary
+|date=November 26, 2016 - 20:30 {{Abbr/CET}}
+|finished=true
+|stream=
+|overgg=2230
+|pf=16603
+|wl=191
+|vod=https://youtu.be/QsZx_yIlivM
+|match1={{Match/old
+|map=Temple of Anubis
+|team1side=D  |team2side=A  |team2checkpoints=2/2 |team2time=2:48
+|team1side2=A |team2side2=D |team1checkpoints=2/2 |team1time=1:00
+|team1side3=A  |team2side3=D |team1checkpoints2=1/2 |team1time2=0:00
+|team1side4=D |team2side4=A |team2checkpoints2=0/2 |team2time2=
+|win=1
+}}
+|match2={{Match/old
+|map=Nepal
+|controlwin1=1
+|controlwin2=2
+|controlwin3=2
+|controlwin4=2
+|controlwin5=skip
+|win=2
+}}
+|match3={{Match/old
+|map=Watchpoint: Gibraltar
+|team1side=D  |team2side=A  |team2checkpoints=3/3 |team2time=0:48
+|team1side2=A |team2side2=D |team1checkpoints=0/3 |team1time=
+|win=2
+}}
+|match4={{Match/old
+|map=Hollywood
+|team1side=D  |team2side=A  |team2checkpoints=1/3 |team2time=117.58m
+|team1side2=A |team2side2=D |team1checkpoints=2/3 |team1time=
+|win=1
+}}
+|match5={{Match/old
+|map=Dorado
+|team1side=A |team2side=D  |team1checkpoints=1/3 |team1time=92.29m
+|team1side2=D |team2side2=A |team2checkpoints=2/3 |team2time=
+|win=2
+}}
+}}
+<!-- 3RD PLACE (optional) -->
+|R2D1team= |R2D1score= |R2D1win=
+|R2D2team= |R2D2score= |R2D2win=
+|R2G2details={{BracketMatchSummary
+|date=
+|finished=
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+}}
+}}
+
+==Additional content==
+===Interviews===
+* {{TeamIcon|ldlc}} {{ExternalMediaLink
+|date=2016-11-25
+|link=http://www.over.gg/2232/ldlc-klanton-i-feel-like-this-meta-is-better-for-us
+|title=LDLC klanton: "I feel like this meta is better for us"
+|by=Sideshow
+|of=over.gg
+}}
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2016-11-25
+|link=http://www.over.gg/2234/mouz-cwoosh-on-causing-an-upset-we-have-quite-a-good-chance-against-misfits
+|title=mouz CWoosH on causing an upset: "we have quite a good chance against Misfits"
+|by=Sideshow
+|of=over.gg
+}}
+* {{TeamIcon|misfits}} {{ExternalMediaLink
+|date=2016-11-25
+|link=http://www.over.gg/2235/misfits-zebbosai-on-dreamhack-eu-it-feels-like-youre-kinda-forced-to-move-to-na-now
+|title= Misfits Zebbosai on DreamHack & EU: "it feels like you're kinda forced to move to NA now"
+|by=Sideshow
+|of=over.gg
+}}
+* {{TeamIcon|col}} {{ExternalMediaLink
+|date=2016-11-28
+|link=http://www.over.gg/2250/col-raptorz-on-showing-sombra-we-honestly-felt-like-taking-nip-in-the-group-stages
+|title=coL RaptorZ on showing Sombra: "we honestly felt like taking NiP in the group stages"
+|by=Sideshow
+|of=over.gg
+}}
+* {{TeamIcon|fnatic}} {{ExternalMediaLink
+|date=2016-11-28
+|link=http://www.over.gg/2251/fnatic-coolmatt69-on-ana-vs-zen-its-one-of-our-biggest-topics-of-discussion-when-were-stratting
+|title=Fnatic coolmatt69 on Ana vs Zen: "It's one of our biggest topics of discussion when we're stratting"
+|by=Sideshow
+|of=over.gg
+}}
+* {{TeamIcon|penta}} {{ExternalMediaLink
+|date=2016-11-28
+|link=http://www.over.gg/2254/penta-flippy-we-have-the-level-we-have-the-potential
+|title=PENTA Flippy: "we have the level, we have the potential"
+|by=Sideshow
+|of=over.gg
+}}
+
+===Streams===
+====Official====
+* {{flag/usuk}} [http://www.dreamhack.tv/overwatch DreamHack]
+* {{flag/ru}} [http://www.hitbox.tv/overwatchruhub RuHub]
+* {{flag/china}} [http://www.huomaotv.com HuomaoTv]
+* {{flag/de}} [https://www.twitch.tv/taketv_overwatch TakeTv]
+* {{flag/kr}} [https://www.twitch.tv/namedhwi NamedHwi]
+* {{flag/fr}} [https://www.twitch.tv/ogamingoverwatch OGaming]
+* {{flag/fr}} [https://www.twitch.tv/esl_alphacast AlphaCast]
+* {{flag/pl}} [https://www.twitch.tv/esl_overwatch_pl ESL PL]
+* {{flag/it}} [https://www.twitch.tv/spaziogames Spaziogames]
+
+==References==
+{{Reflist}}

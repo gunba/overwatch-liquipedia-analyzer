@@ -1,0 +1,351 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Monthly",
+            "name": "Mistletoe Madness",
+            "shortname": "Mistletoe Madness",
+            "tickername": "Mistletoe Madness",
+            "image": "BlitzTourney allmode.png",
+            "icon": "BlitzTourney allmode.png",
+            "organizer": "Blitz (American manager)",
+            "organizer-name": "Blitz",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "900",
+            "sdate": "2023-12-09",
+            "edate": "2023-12-10",
+            "twitter": "BlitzTourney",
+            "twitch": "blitztourneys",
+            "discord": "stUkmzatCz",
+            "youtube": "channel/UCSwNeOEYG_BXCqHmdVOcidw",
+            "rulebook": "https://battlefy.com/blitz-esports-tournaments/mistletoe-madness/6543d8eed57cd9f28d82c7ee/info?infoTab=rules",
+            "bracket": "https://battlefy.com/blitz-esports-tournaments/mistletoe-madness/6543d8eed57cd9f28d82c7ee/info?infoTab=details",
+            "team_number": "32",
+            "previous": "BlitzTourney/2023/Halloween Havoc{{!}}Halloween Havoc",
+            "next": "BlitzTourney/2024/May Madness{{!}}May Madness"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "DomlyyNation",
+            "p1": "lolztehtroll|p1flag=us|pos1=dps",
+            "p2": "Ryan|pos2=dps|p2link=Ryan (American player)",
+            "p3": "Baz|p3flag=us|pos3=tank",
+            "p4": "Aspect|pos4=tank",
+            "p5": "reverse|pos5=sup|p5link=reverse (American Player)",
+            "p6": "BallerSteve|p6flag=us|pos6=sup",
+            "p7": "Log|p7flag=ca|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Rohin|t2c1flag=in|t2c1pos=coach",
+            "t2c2": "Sama|t2c2pos=coach",
+            "t2c3": "Domlyy|t2c3flag=us|t2c3pos=coach",
+            "t2c4": "Niann03|t2c4pos=general manager",
+            "t2c5": "Aeroplayne|t2c5pos=team manager"
+        },
+        {
+            "team": "Nightmare Rotation",
+            "p1": "Fl4k|p1flag=us|pos1=dps",
+            "p2": "Kelpdog|p2flag=us|pos2=dps",
+            "p3": "Heavenly|p3flag=us|pos3=dps",
+            "p4": "Metalysis|p4flag=us|pos4=tank",
+            "p5": "Dirt|p5flag=tr|pos5=tank",
+            "p6": "K0RTAL|p6flag=us|pos6=sup",
+            "p7": "Schwartzy|p7flag=us|pos7=sup",
+            "p8": "pwincess|p8flag=us|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Hadi|t2c1pos=coach",
+            "t2c2": "YaaLikeJas|t2c2flag=us|t2c2pos=manager"
+        },
+        {
+            "team": "Krazy 88s",
+            "p1": "Awaken|p1flag=us|pos1=dps",
+            "p2": "Melophobia|pos2=dps",
+            "p3": "Zmurfiex|pos3=tank",
+            "p4": "Jags|p4flag=us|pos4=tank",
+            "p5": "dust|p5flag=ca|pos5=tank",
+            "p6": "Reinguy|p6flag=us|pos6=sup",
+            "p7": "BoltingCake|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Fauwkz|t2c1flag=us|t2c1pos=coach",
+            "t2c2": "Raine|t2c2pos=manager"
+        },
+        {
+            "team": "Strix",
+            "p1": "Manually|pos1=dps",
+            "p2": "peace|pos2=dps",
+            "p3": "Crimson|pos3=tank",
+            "p4": "m5ri|pos4=tank",
+            "p5": "Noctis|pos5=sup",
+            "p6": "Divinity|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Chimanzy|t2c1flag=us|t2c1pos=coach",
+            "t2c2": "Wicca|t2c2pos=manager"
+        },
+        {
+            "team": "Pirates in Pyjamas",
+            "p1": "Kronik|pos1=dps",
+            "p2": "stone|pos2=dps",
+            "p3": "Stryder|pos3=tank",
+            "p4": "Fix|pos4=sup",
+            "p5": "Neptune|pos5=sup|p5link=Neptune (American Player)",
+            "p6": "zman|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Mercury|t2c1pos=coach",
+            "t2c2": "Marf|t2c2pos=coach",
+            "t2c3": "pdk|t2c3pos=team manager",
+            "t2c4": "OpeN|t2c4pos=general manager"
+        },
+        {
+            "team": "Atlantic Esports",
+            "p1": "WaVy|p1flag=us|pos1=dps",
+            "p2": "Kirito|p2flag=us|pos2=dps",
+            "p3": "Mesmer|p3flag=us|pos3=tank",
+            "p4": "hex|p4flag=us|pos4=sup|p4link=hex (American player)",
+            "p5": "USSRobot|p5flag=us|pos5=sup",
+            "p6": "Mookie|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "O3 Splash",
+            "p1": "Haven|pos1=dps|p1link=Haven (American Player)",
+            "p2": "Danny|pos2=dps|p2link=Danny (American Player)",
+            "p3": "zeruhh|pos3=dps",
+            "p4": "Infekted|pos4=tank",
+            "p5": "Vega|pos5=sup",
+            "p6": "Cjay|pos6=sup",
+            "p7": "Hanbei|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "debit|t2c1pos=manager"
+        },
+        {
+            "team": "Hypnos NA",
+            "p1": "High|p1flag=ca|pos1=dps",
+            "p2": "Lampent|p2flag=us|pos2=dps",
+            "p3": "JUTSU|p3flag=us|pos3=dps",
+            "p4": "Lava|pos4=tank",
+            "p5": "NenWhy|p5flag=us|pos5=sup",
+            "p6": "Skier|p6flag=us|pos6=sup",
+            "p7": "Bandit|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Hogz|t2c1pos=coach",
+            "t2c2": "Patapouf|t2c2pos=manager"
+        },
+        {
+            "team": "Timeless Obsidian",
+            "p1": "Dove|pos1=dps",
+            "p2": "Hcpeful|pos2=dps",
+            "p3": "Dynasty|pos3=dps",
+            "p4": "luka|pos4=tank",
+            "p5": "Sonne|pos5=tank",
+            "p6": "Grapes|pos6=sup",
+            "p7": "Unread|pos7=sup|p7link=Unread (American Player)",
+            "p8": "Abbs|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "afnleaf|t2c1pos=head coach",
+            "t2c2": "Tokki|t2c2pos=assistant coach",
+            "t2c3": "Doc|t2c3pos=manager",
+            "t2c4": "Scrubbles|t2c4pos=manager"
+        },
+        {
+            "team": "Hivemind Kittens",
+            "p1": "melo|p1flag=us|pos1=dps|p1link=melo (American player)",
+            "p2": "Ravioli|p2flag=us|pos2=dps",
+            "p3": "Z3ST|p3flag=us|pos3=dps",
+            "p4": "b1h|p4flag=us|pos4=tank",
+            "p5": "Memes|p5flag=us|pos5=sup",
+            "p6": "Guillotine|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "katiebin|t2c1flag=us|t2c1pos=manager"
+        },
+        {
+            "team": "Shikigami",
+            "p1": "Walex|p1flag=us|pos1=dps",
+            "p2": "Talisman|p2flag=pr|pos2=dps|p2link=Talisman (Puerto Rican player)",
+            "p3": "Spero|p3flag=ca|pos3=dps",
+            "p4": "Solo|pos4=tank",
+            "p5": "Thunder|pos5=sup",
+            "p6": "lenn|p6flag=us|pos6=sup",
+            "p7": "Graveyard|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Roseus|t2c1flag=us|t2c1pos=coach",
+            "t2c2": "Cuffy|t2c2flag=uk|t2c2pos=coach",
+            "t2c3": "Aspen|t2c3pos=coach|t2c3link=Aspen (American Coach)",
+            "t2c4": "Aeroplayne|t2c4pos=general manager"
+        },
+        {
+            "team": "Inarizaki",
+            "p1": "Amadien|pos1=dps",
+            "p2": "ultimawep|pos2=dps",
+            "p3": "Evei|pos3=tank",
+            "p4": "Sainttx|p4flag=us|pos4=sup",
+            "p5": "Hutch|pos5=sup",
+            "p6": "TwoFish|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "weird|t2c1flag=us|t2c1pos=coach",
+            "t2c2": "Darxy|t2c2flag=us|t2c2pos=coach"
+        },
+        {
+            "team": "Bonzi Buddies",
+            "p1": "xomba|pos1=dps",
+            "p2": "TAP|pos2=dps",
+            "p3": "ZBRA|pos3=tank",
+            "p4": "K41|p4flag=us|pos4=sup",
+            "p5": "Otters|pos5=sup"
+        },
+        {
+            "team": "Worldwide",
+            "p1": "footloose|pos1=dps",
+            "p2": "Tristan|pos2=dps",
+            "p3": "Emmeryn|pos3=dps",
+            "p4": "Today|p4flag=us|pos4=tank",
+            "p5": "Floomfie|p5flag=us|pos5=sup",
+            "p6": "Karova|pos6=sup"
+        },
+        {
+            "team": "LeftRightGnight",
+            "p1": "Vision|pos1=dps",
+            "p2": "Lethal|pos2=dps",
+            "p3": "iCy|pos3=tank",
+            "p4": "Lep|pos4=sup",
+            "p5": "Lukemino|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "LnlD|t2c1pos=coach",
+            "t2c2": "Aeroplayne|t2c2pos=manager",
+            "t2c3": "Saadist|t2c3pos=manager"
+        },
+        {
+            "team": "Pristine Guardians",
+            "p1": "Mellow|p1flag=us|pos1=dps",
+            "p2": "Sledge|p2flag=us|pos2=dps",
+            "p3": "Kaori|p3flag=us|pos3=dps",
+            "p4": "Monkeyhappy|p4flag=us|pos4=tank",
+            "p5": "Ewytota|p5flag=ca|pos5=tank",
+            "p6": "Asoulius|p6flag=us|pos6=sup",
+            "p7": "Snottyfinga|p7flag=us|pos7=sup",
+            "p8": "Pika|p8flag=us|pos8=sup|p8link=Pika (American player)",
+            "t2title": "Staff",
+            "t2c1": "KaninchenEnt|t2c1flag=us|t2c1pos=coach",
+            "t2c2": "Snottyfinga|t2c2flag=us|t2c2pos=manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|domlyynation|score=2}}",
+            "opponent2": "{{TeamOpponent|nightmare rotation|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Krazy 88s|score=2}}",
+            "opponent2": "{{TeamOpponent|strix|score=1}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|pirates in pyjamas|score=2}}",
+            "opponent2": "{{TeamOpponent|atlantic esports|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|o3 splash|score=2}}",
+            "opponent2": "{{TeamOpponent|hypnos na|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|timeless obsidian|score=2}}",
+            "opponent2": "{{TeamOpponent|hivemind kittens|score=0}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|shikigami|score=2}}",
+            "opponent2": "{{TeamOpponent|inarizaki|score=1}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bonzi buddies|score=2}}",
+            "opponent2": "{{TeamOpponent|worldwide|score=0}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|leftrightgnight|score=2}}",
+            "opponent2": "{{TeamOpponent|pristine guardians|score=0}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|domlyynation|score=2}}",
+            "opponent2": "{{TeamOpponent|Krazy 88s|score=3}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|pirates in pyjamas|score=0}}",
+            "opponent2": "{{TeamOpponent|o3 splash|score=3}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|timeless obsidian|score=3}}",
+            "opponent2": "{{TeamOpponent|shikigami|score=1}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "December 9, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bonzi buddies|score=0}}",
+            "opponent2": "{{TeamOpponent|leftrightgnight|score=3}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "December 10, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|krazy 88s|score=0}}",
+            "opponent2": "{{TeamOpponent|o3 splash|score=3}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "December 10, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|timeless obsidian|score=1}}",
+            "opponent2": "{{TeamOpponent|leftrightgnight|score=3}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "December 10, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|o3 splash}}",
+            "opponent2": "{{TeamOpponent|leftrightgnight}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=4|score2=5|winner=2}}",
+            "map3": "{{Map|map=Suravasa|mode=Flashpoint|score1=2|score2=3|winner=2}}",
+            "map4": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=0|score2=1|winner=2}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "December 10, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|krazy 88s|score=0}}",
+            "opponent2": "{{TeamOpponent|timeless obsidian|score=3}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

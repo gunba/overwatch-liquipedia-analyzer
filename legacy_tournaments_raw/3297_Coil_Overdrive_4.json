@@ -1,0 +1,164 @@
+{
+    "tournament_info": [
+        {
+            "name": "Coil Overdrive #4",
+            "image": "Coil Gaming logo.png",
+            "series": "Coil Overdrive",
+            "shortname": "CO#4",
+            "organizer": "Coil Gaming",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2016-10-31",
+            "prizepoolusd": "63",
+            "localcurrency": "eur",
+            "prizepool": "60",
+            "web": "",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://battlefy.com/coil-gaming/coil-overdrive-4-%5B-60-%E2%80%8E%E2%82%AC-prize-%5D/580e7fed9016353103e572a3/stage/580e7fed9016353103e572a4/bracket/?hidecomplete=true",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "16",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Nice Hamsters",
+            "p1": "Dice",
+            "p2": "Fazz",
+            "p3": "Dante",
+            "p4": "Weaslele",
+            "p5": "Matwoj",
+            "p6": "Badger"
+        },
+        {
+            "team": "Team Eager",
+            "image": "Teameagerlogo_std.png",
+            "p1": "Grissi",
+            "p2": "Herakles",
+            "p3": "valk",
+            "p4": "Alcalde",
+            "p5": "kingyo",
+            "p6": "Dxc"
+        },
+        {
+            "team": "CREWBEST Blue",
+            "image": "Crewbestblue.jpg",
+            "imagesize": "",
+            "p1": "lecso19|p1flag=hu",
+            "p2": "DmgD3aller|p2flag=hu",
+            "p3": "Deuce|p3flag=hu",
+            "p4": "Layven|p4flag=hu",
+            "p5": "Vhagaras |p5flag=hu",
+            "p6": "Tykx|p6flag=hu"
+        },
+        {
+            "team": "Normandus",
+            "image": "",
+            "p1": "Vulture|p1flag=ru|pos1= |p1link=Vulture (Another player)",
+            "p2": "Dikker|p2flag=|pos2=",
+            "p3": "GunroX|p3flag=|pos3=",
+            "p4": "ETERNA|p4flag=|pos4=",
+            "p5": "NORGAC|p5flag=|pos5=",
+            "p6": "haze|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "Tribunal eSports",
+            "image": "TribunaleSportslogo_std.png",
+            "p1": "Petruskoff",
+            "p2": "Sepi",
+            "p3": "saschBAWZ",
+            "p4": "Keeyul",
+            "p5": "Ged",
+            "p6": "Feverish"
+        },
+        {
+            "team": "Fragsters",
+            "image": "",
+            "p1": "Kellex|p1flag=|pos1=",
+            "p2": "Lind|p2flag=|pos2=",
+            "p3": "Lelouch|p3flag=|pos3=",
+            "p4": "K1nnex|p4flag=|pos4=",
+            "p5": "Danii|p5flag=|pos5=",
+            "p6": "Nerfdd|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "GAC",
+            "p1": "Psycho13",
+            "p2": "imPULSE",
+            "p3": "msh",
+            "p4": "Gifted",
+            "p5": "ImDeadInside",
+            "p6": "denrussia"
+        },
+        {
+            "team": "Legend of the six",
+            "p1": "_ghoul",
+            "p2": "wonfire",
+            "p3": "Dano",
+            "p4": "jemax",
+            "p5": "qwirzo",
+            "p6": "Xygonis"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "gac",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "fragsters",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "gac",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "nice hamsters",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "team eager",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "nice hamsters",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "team eager",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

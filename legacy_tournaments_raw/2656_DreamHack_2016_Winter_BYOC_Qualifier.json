@@ -1,0 +1,208 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2|liquipediatiertype=Qualifier",
+            "series": "DreamHack",
+            "shortname": "Winter",
+            "name": "DreamHack Winter 2016: BYOC Qualifier",
+            "image": "Overwatch_Championship_Logo.png",
+            "organizer": "DreamHack",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "Sweden",
+            "city": "J\u00f6nk\u00f6ping",
+            "venue": "[http://www.elmia.se Elmia]",
+            "format": "Double-elimination ({{Abbr/Bo3}}) + Finals ({{Abbr/Bo5}})",
+            "prizepoolusd": "",
+            "date": "2016-11-24",
+            "web": "http://dreamhack.se/dhw16/2016/09/29/50000-overwatch-championship-at-dreamhack-winter-2016-announced/",
+            "bracket": "https://challonge.com/e0e5i72l",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team LDLC.com",
+            "image": "",
+            "p1": "KabaL|p1flag=",
+            "p2": "Klanton|p2flag=",
+            "p3": "Mezamorphis|p3flag=",
+            "p4": "Clown|p4flag=lv",
+            "p5": "Mete|p5flag=",
+            "p6": "Ube|p6flag="
+        },
+        {
+            "team": "mousesports",
+            "image": "",
+            "p1": "CWoosH|p1flag=",
+            "p2": "Divinius|p2flag=",
+            "p3": "BUR1X|p3flag=",
+            "p4": "Aseal|p4flag=",
+            "p5": "Finnsi|p5flag=",
+            "p6": "Logix|p6flag="
+        },
+        {
+            "team": "PENTA Sports",
+            "p1": "Dennia|p1flag=",
+            "p2": "Flippy|p2flag=",
+            "p3": "Akke|p3flag=",
+            "p4": "Epzz|p4flag=",
+            "p5": "Lalli|p5flag=",
+            "p6": "BALLOC |p6flag=dk",
+            "c": "Cuddles |cflag=uk"
+        },
+        {
+            "team": "UnWanted",
+            "p1": "N1KOLA|p1flag=se",
+            "p2": "Zekor|p2flag=se",
+            "p3": "lateks|p3flag=se",
+            "p4": "limmet|p4flag=se",
+            "p5": "eMIL|p5flag=se",
+            "p6": "Smarky|p6flag=se",
+            "c": "Nachobro |cflag=se"
+        },
+        {
+            "team": "Affe och b\u00e5\u00e5\u00e5ysen",
+            "image": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": ""
+        },
+        {
+            "team": "420 Get chickens",
+            "image": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "date": "",
+            "finished": "",
+            "team2": "penta",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "affe",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "",
+            "finished": "",
+            "team2": "unwanted",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D3",
+            "team1": "420 get chickens",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "",
+            "finished": "",
+            "team2": "penta",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2D1",
+            "team1": "mousesports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "",
+            "finished": "",
+            "team2": "unwanted",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2D2",
+            "team1": "ldlc",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "",
+            "finished": "",
+            "team2": "ldlc",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R3W1",
+            "team1": "mousesports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "",
+            "finished": "",
+            "team2": "affe",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D5",
+            "team1": "unwanted",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "",
+            "finished": "",
+            "team2": "420 get chickens",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D7",
+            "team1": "penta",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "",
+            "finished": "",
+            "team2": "penta",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2W3",
+            "team1": "unwanted",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "",
+            "finished": "",
+            "team2": "penta",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R3D1",
+            "team1": "mousesports",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "date": "",
+            "finished": "",
+            "team2": "penta",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R4W1",
+            "team1": "ldlc",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

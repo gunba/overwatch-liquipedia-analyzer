@@ -1,0 +1,140 @@
+{{DISPLAYTITLE:DreamHack Dallas 2023}}
+{{Liquipedia links|fortnite=DreamHack/Dallas/2023|rocketleague=DreamHack/2023/Dallas/Rocket_Clash}}
+{{DreamHack Navbox}}
+{{Infobox league
+|liquipediatier=4
+|name=DreamHack Dallas 2023
+|shortname=DreamHack Dallas 2023
+|tickername=DreamHack Dallas
+|image=DreamHack 2020 lightmode.png
+|imagedark=DreamHack 2020 darkmode.png
+|organizer=DreamHack
+|series=DreamHack
+|type=Offline
+|country=United States
+|city=Dallas
+|venue=Kay Bailey Hutchison Convention Center
+|venuelink=https://www.dallasconventioncenter.com/
+|game=overwatch2
+|format=Swiss<br>Single Elimination
+|prizepoolusd=5000
+|date=2023-06-04
+|twitter=DreamHack
+|facebook=DreamHack
+|instagram=DreamHack
+|discord=DreamHack
+|youtube=DreamHack
+|twitch=DreamHack
+|web=https://dreamhack.com/dallas/byoc-lan/
+|rulebook=https://docs.google.com/document/d/1BPuvGs5VN6OxjLqPFl_zZBi2xs_NxWD5v_eucwWKhfc/edit
+|bracket=https://battlefy.com/dreamhack-byoc-tournaments/june-4th-dhdal-byoc-overwatch/644a8525e0bb805c7e35b7cd/stage/644a854f0d33735c5ca9b54d/bracket/
+|team_number=6
+}}
+
+==Information==
+===Format===
+*Bracket Style: Swiss into Single Elimination
+*4 Rounds of Swiss
+*Top 4 move onto a Single Elimination {{Abbr/Bo3}} bracket.
+
+
+===Prize Pool===
+{{TeamPrizePool
+|{{Slot|usdprize=2500}}
+|{{Slot|usdprize=1500}}
+|{{Slot|usdprize=1000}}
+|{{Slot}}
+|{{Slot|place=5|{{Opponent|chosen ones|wdl=1/3}}}}
+|{{Slot|place=6|{{Opponent|check your pulse!|wdl=0/4}}}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=3}}
+{{TeamCard
+|team=Landoverse
+|p1=zeruhh|p1flag=|pos1=dps
+|p2=dongmin|p2flag=kr|pos2=dps
+|p3=CLEAR|p3flag=|pos3=tank
+|p4=Meadxr|p4flag=|pos4=sup
+|p5=asdfghjkl|p5flag=us|pos5=sup
+|t2title=Staff
+|t2c1=jVenom|t2c1pos=coach
+}}
+{{TeamCard
+|team=150k
+|p1=DAYDREAM|p1flag=us|pos1=dps
+|p2=pure|p2flag=us|pos2=dps
+|p3=Char1ie|p3flag=us|pos3=tank
+|p4=Fix|p4flag=|pos4=sup
+|p5=Hyung|p5flag=us|pos5=sup
+}}
+{{TeamCard
+|team=Parking Enforcement
+|p1=Vader|p1flag=us|pos1=dps|p1link=Vader (American Player)
+|p2=Swef|p2flag=us|pos2=dps
+|p3=Gnja2012|p3flag=us|pos3=tank
+|p4=pinkpiggy09|p4flag=us|pos4=sup
+|p5=Hutch|p5flag=us|pos5=sup
+|t2title=Staff
+|t2c1=CrazyHobo|t2c1pos=manager
+}}
+{{TeamCard
+|team=WEAREONE
+|p1=Mini|p1flag=us|pos1=dps|p1link=Mini (American Player)
+|p2=CHEERISS|p2flag=us|pos2=dps
+|p3=TopGRG|p3flag=us|pos3=tank
+|p4=Alottafranks|p4flag=us|pos4=sup
+|p5=Redreghan|p5flag=us|pos5=sup
+}}
+{{TeamCard
+|team=Chosen ones
+|p1=Viviana|p1flag=|pos1=
+|p2=techmonkey|p2flag=|pos2=
+|p3=MR80D|p3flag=|pos3=
+|p4=R3DM1ST|p4flag=|pos4=
+|p5=FOR3SKIN|p5flag=|pos5=
+}}
+{{TeamCard
+|team=CHECK YOUR PULSE!
+|p1=zodiac|p1flag=|pos1=
+|p2=Horrorhotel|p2flag=|pos2=
+|p3=Trego|p3flag=|pos3=
+|p4=Chief|p4flag=|pos4=
+|p5=Exgirlfrnd|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Playoffs Results==
+{{Bracket|Bracket/4|id=cjn8ldhuqP
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=June 4, 2023 - 14:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|landoverse|score=2}}
+    |opponent2={{TeamOpponent|weareone|score=0}}
+}}
+|R1M2={{Match
+    |date=June 4, 2023 - 14:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|150k|score=2}}
+    |opponent2={{TeamOpponent|parking enforcement|score=0}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |date=June 4, 2023 - 15:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|landoverse|score=2}}
+    |opponent2={{TeamOpponent|150k|score=0}}
+}}
+
+|RxMTP={{Match
+    |date=June 4, 2023 - 15:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|weareone|score=0}}
+    |opponent2={{TeamOpponent|parking enforcement|score=2}}
+}}
+}}

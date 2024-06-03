@@ -1,0 +1,1273 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch World Cup 2023 Poland Open Trials",
+            "image": "Overwatch World Cup 2023 allmode.png",
+            "series": "Overwatch World Cup",
+            "shortname": "World Cup 2023",
+            "tickername": "OWWC POL Open Trials",
+            "icon": "Overwatch World Cup logo.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "GameBattles",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Poland",
+            "country2": "",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "game": "overwatch2",
+            "prizepoolusd": "2000",
+            "sdate": "2023-02-17",
+            "edate": "2023-02-19",
+            "liquipediatier": "4",
+            "blizzardtier": "owwc",
+            "web": "https://overwatchworldcup.com",
+            "twitter": "playoverwatch",
+            "youtube": "playoverwatch",
+            "twitch": "playoverwatch",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/WC-Trials-PL/info",
+            "rulebook": "https://s3.amazonaws.com/mlg-gamebattles-production/assets/arenacp/files/1675265987/2023-OWWC-Trials-Rules-GB-Feb-1-EN.pdf",
+            "team_number": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Galaxy Toasters",
+            "p1": "B\u0142a\u017cej",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "",
+            "p2": "DscMod",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Policarp",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "Pscu\u0142ka",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "Roze\u015bmiana",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": "",
+            "p6": "Subol",
+            "p6flag": "pl",
+            "pos6": ""
+        },
+        {
+            "team": "TheRule",
+            "p1": "DirtyOlPablo",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "dps",
+            "p2": "Perpie",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "dps",
+            "p3": "xShoho",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "tank",
+            "p4": "JoachimLue",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "sup",
+            "p5": "SLASHLogin",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": "sup"
+        },
+        {
+            "team": "Hardstacki",
+            "p1": "Smoro",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "",
+            "p2": "EGirllSlayer",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Szynszyl",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "oceanicpit",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "vac3x",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": "",
+            "p6": "zkk",
+            "p6flag": "pl",
+            "p6team": "",
+            "pos6": ""
+        },
+        {
+            "team": "Zgred team",
+            "p1": "Goku",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "",
+            "p1link": "Goku (Polish Player)",
+            "p2": "ColeCassidy",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Konwal",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "Nydearii7",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "aveN22",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": ""
+        },
+        {
+            "team": "Fatherless Company",
+            "p1": "CURSE",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "",
+            "p2": "Amymeer",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Rezlusiowa",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "Ugoro",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "cygan2v",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": "",
+            "p6": "senju",
+            "p6flag": "pl",
+            "p6team": "",
+            "pos6": ""
+        },
+        {
+            "team": "C9ERS",
+            "p1": "Weza",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "",
+            "p2": "Alex2389",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Ayahanna",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "Grimmy",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "Laz",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": "",
+            "p6": "\u0176U\u0110ASH",
+            "p6flag": "pl",
+            "p6team": "",
+            "pos6": ""
+        },
+        {
+            "team": "Vaxta Gaming",
+            "p1": "StephCurry",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "sup",
+            "p2": "Mika26B",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "SZEREGOWIEC",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "UnforgiveN",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "UnUm",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": "",
+            "p6": "\u013f\u01fe\u013f\u0206\u01e8",
+            "p6flag": "pl",
+            "p6team": "",
+            "pos6": ""
+        },
+        {
+            "team": "GIGACHAD GAMERS",
+            "p1": "BEBE",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "",
+            "p2": "FYOIXS",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "FaMaG",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "INeedHealing",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "Predatoration",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": "",
+            "p6": "roarkbum",
+            "p6flag": "pl",
+            "p6team": "",
+            "pos6": ""
+        },
+        {
+            "team": "RKS HUWDU",
+            "p1": "KolegaLIchu",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "",
+            "p2": "Mik0\u01424j",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Mikele",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "Sosik",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "pchamtaczke",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": ""
+        },
+        {
+            "team": "Dziadyga Gaming",
+            "p1": "Kaju",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "dps",
+            "p2": "Kyloren",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "dps",
+            "p3": "China",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "dps",
+            "p3link": "China (Polish player)",
+            "p4": "FifolekXD",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "tank",
+            "p5": "Siboth",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": "sup",
+            "p6": "Quader",
+            "p6flag": "pl",
+            "p6team": "",
+            "pos6": "sup"
+        },
+        {
+            "team": "Skuty Gaming 2",
+            "p1": "marikkkk",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "",
+            "p2": "Cygi",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Panciovsky",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "TheSnake",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "V1rg0",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": ""
+        },
+        {
+            "team": "Gumka Myszka",
+            "p1": "YoroBajoro",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "",
+            "p2": "Drewnoo",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Felu",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "MPower",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "MoonMoonMan",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": "",
+            "p6": "vengeance",
+            "p6flag": "pl",
+            "p6team": "",
+            "pos6": ""
+        },
+        {
+            "team": "ZATONY",
+            "p1": "casualgaming",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "",
+            "p2": "Janczeski025",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Nikro",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "Tiger1224",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "ToranPOZ",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": "",
+            "p6": "Zaton",
+            "p6flag": "pl",
+            "p6team": "",
+            "pos6": ""
+        },
+        {
+            "team": "Fakejake's path to t2",
+            "p1": "Philion",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "dps",
+            "p2": "icav",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "dps",
+            "p3": "Abysmal",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "tank",
+            "p4": "Choose",
+            "p4flag": "",
+            "p4team": "",
+            "pos4": "tank",
+            "p5": "FakeJake",
+            "p5flag": "uk",
+            "p5team": "",
+            "pos5": "sup",
+            "p6": "teksol",
+            "p6flag": "pl",
+            "p6team": "",
+            "pos6": "sup"
+        },
+        {
+            "team": "MyPoBonus",
+            "p1": "Stuart",
+            "p1flag": "pl",
+            "p1team": "",
+            "pos1": "",
+            "p2": "AlastorMartinez",
+            "p2flag": "pl",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Lunella",
+            "p3flag": "pl",
+            "p3team": "",
+            "pos3": "",
+            "p4": "Potnar6",
+            "p4flag": "pl",
+            "p4team": "",
+            "pos4": "",
+            "p5": "SkorpioPLG",
+            "p5flag": "pl",
+            "p5team": "",
+            "pos5": "",
+            "p6": "raizzercore",
+            "p6flag": "pl",
+            "p6team": "",
+            "pos6": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "February 17, 2023 - 17:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "TheRule",
+            "opponent1_score": 0,
+            "opponent2": "Hardstacki",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "February 17, 2023 - 17:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Zgred team|score=L",
+            "opponent2": "Fatherless Company|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "February 17, 2023 - 17:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "C9ERS|score=L",
+            "opponent2": "Vaxta Gaming|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "February 17, 2023 - 17:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "GIGACHAD GAMERS|score=W",
+            "opponent2": "RKS HUWDU|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "February 17, 2023 - 17:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dziadyga Gaming|score=W",
+            "opponent2": "Skuty Gaming 2|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "February 17, 2023 - 17:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Gumka Myszka|score=W",
+            "opponent2": "ZATONY|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "February 17, 2023 - 17:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Fakejake's path to t2|score=W",
+            "opponent2": "MyPoBonus|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "February 17, 2023 - 18:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Galaxy Toasters|score=L",
+            "opponent2": "Hardstacki|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "February 17, 2023 - 18:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Fatherless Company|score=L",
+            "opponent2": "Vaxta Gaming|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "February 17, 2023 - 18:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "GIGACHAD GAMERS",
+            "opponent2": "Dziadyga Gaming",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "February 17, 2023 - 18:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Gumka Myszka",
+            "opponent2": "Fakejake's path to t2",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "February 18, 2023 - 13:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Hardstacki|score=W",
+            "opponent2": "Vaxta Gaming|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "February 18, 2023 - 13:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dziadyga Gaming|score=L",
+            "opponent2": "Fakejake's path to t2|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "February 18, 2023 - 15:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Hardstacki|score=L",
+            "opponent2": "Fakejake's path to t2|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M1="
+        },
+        {
+            "date": "February 17, 2023 - 18:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Zgred team|score=L",
+            "opponent2": "C9ERS|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "date": "February 17, 2023 - 18:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "RKS HUWDU|score=L",
+            "opponent2": "Skuty Gaming 2|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M9="
+        },
+        {
+            "date": "February 17, 2023 - 18:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ZATONY|score=W",
+            "opponent2": "MyPoBonus|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M10="
+        },
+        {
+            "date": "February 17, 2023 - 19:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Gumka Myszka|score=W",
+            "opponent2": "TheRule|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "February 17, 2023 - 19:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "GIGACHAD GAMERS|score=L",
+            "opponent2": "C9ERS|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M6="
+        },
+        {
+            "date": "February 17, 2023 - 19:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Fatherless Company|score=L",
+            "opponent2": "Skuty Gaming 2|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M7="
+        },
+        {
+            "date": "February 17, 2023 - 19:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Galaxy Toasters|score=W",
+            "opponent2": "ZATONY|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M8="
+        },
+        {
+            "date": "February 17, 2023 - 20:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Gumka Myszka|score=L",
+            "opponent2": "C9ERS|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "February 17, 2023 - 20:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Skuty Gaming 2|score=W",
+            "opponent2": "Galaxy Toasters|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "February 18, 2023 - 13:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Vaxta Gaming|score=W",
+            "opponent2": "C9ERS|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M3="
+        },
+        {
+            "date": "February 18, 2023 - 13:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dziadyga Gaming|score=W",
+            "opponent2": "Skuty Gaming 2|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M4="
+        },
+        {
+            "date": "February 18, 2023 - 14:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Vaxta Gaming|score=L",
+            "opponent2": "Dziadyga Gaming|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        },
+        {
+            "date": "February 18, 2023 - 16:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Hardstacki|score=L",
+            "opponent2": "Dziadyga Gaming|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M2="
+        },
+        {
+            "date": "February 19, 2023 - 14:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Fakejake's path to t2",
+            "opponent1_score": 3,
+            "opponent2": "Dziadyga Gaming",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "137.22m",
+                "score2": "26.55m",
+                "winner": "1"
+            },
+            "optional": "R7M1="
+        }
+    ]
+}

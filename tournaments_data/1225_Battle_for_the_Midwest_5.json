@@ -1,0 +1,680 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "Battle for the Midwest 5",
+            "shortname": "Battle for the Midwest 5",
+            "tickername": "Battle for the Midwest 5",
+            "icon": "",
+            "image": "",
+            "organizer": "kaiju corp",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Skokie",
+            "venue": "[https://www.ignitegaming.com/location/skokie Ignite Gaming Skokie]",
+            "format": "Double Elimination",
+            "game": "overwatch2",
+            "prizepoolusd": "800",
+            "date": "2023-02-26",
+            "twitter": "kaijucorpgg",
+            "web": "https://kaijucorp.org/bftm5",
+            "twitch": "",
+            "twitch2": "",
+            "discord": "dpTbBE9Cct",
+            "youtube": "",
+            "rulebook": "https://kaijucorp.org/Schedule-Rules-a66e301116074414b218c6ecf338a22f",
+            "bracket": "https://challonge.com/bftm5OW2",
+            "team_number": "8",
+            "previous": "Battle_for_the_Midwest/4 {{!}} Battle for the Midwest 4",
+            "next": "Battle_for_the_Midwest/6 {{!}} Battle for the Midwest 6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Illini Esports Blue",
+            "p1": "Kai",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p1link": "Kai (Collegiate player)",
+            "p2": "Exojay",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "IraqCanada",
+            "p3flag": "iq",
+            "pos3": "tank",
+            "p4": "Invalid",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Patchii",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Factual",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Erin",
+            "p7flag": "us",
+            "pos7": "sup",
+            "qualifier": "[[/Qualifier|Qualifier Group A]]",
+            "placement": "1"
+        },
+        {
+            "team": "Redbird Academy",
+            "p1": "Vintage",
+            "p1flag": "mx",
+            "pos1": "dps",
+            "p2": "Senchou",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Cor",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Alino",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Goose",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p5link": "Goose_(Matthew_Gisi)",
+            "p6": "Maymein",
+            "p6flag": "us",
+            "pos6": "sup",
+            "qualifier": "[[/Qualifier|Qualifier Group B]]",
+            "placement": "1"
+        },
+        {
+            "team": "Indiana Tech Warriors",
+            "p1": "G2GU",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "NosyPalidan",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Mask",
+            "p3flag": "",
+            "pos3": "",
+            "p3link": "Mask (American player)",
+            "p4": "AlphaJCO8",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Cheesyninja",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Myherogkm",
+            "p6flag": "",
+            "pos6": "",
+            "qualifier": "[[/Qualifier|Qualifier Group C]]",
+            "placement": "1"
+        },
+        {
+            "team": "Illini Esports Orange",
+            "p1": "Chopper",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Gabowski",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "danny",
+            "p3flag": "pl",
+            "pos3": "tank",
+            "p3link": "danny (Polish Player)",
+            "p4": "marble",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "Zhulander",
+            "p5flag": "us",
+            "pos5": "sup",
+            "qualifier": "[[/Qualifier|Qualifier Group D]]",
+            "placement": "1"
+        },
+        {
+            "team": "Oakland Esports",
+            "p1": "Aerospace",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Bedhead",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Stev",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "CreatorCore",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Tango",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "Jax",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "FrothyFilly7",
+            "p7flag": "",
+            "pos7": "sup",
+            "qualifier": "[[/Qualifier|Qualifier Group A]]",
+            "placement": "2"
+        },
+        {
+            "team": "Northwestern Wildcats",
+            "p1": "Soy",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Majestic",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Bizarre",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Mazemel",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "OneTrick",
+            "p5flag": "us",
+            "pos5": "sup",
+            "qualifier": "[[/Qualifier|Qualifier Group B]]",
+            "placement": "2"
+        },
+        {
+            "team": "SXU Esports",
+            "p1": "xecutor",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Glocktopus",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "IntenseTimbo",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "Monkey",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Soda",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "alphabet",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "citronboss27",
+            "p7flag": "",
+            "pos7": "sup",
+            "qualifier": "[[/Qualifier|Qualifier Group C]]",
+            "placement": "2"
+        },
+        {
+            "team": "DePaul Esports",
+            "p1": "Newb",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Datzentho",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Lunala",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Ubscure",
+            "p4flag": "",
+            "pos4": "sup",
+            "p5": "Creepz",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Safin",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "Zeyph",
+            "p7flag": "",
+            "pos7": "flex",
+            "qualifier": "[[/Qualifier|Qualifier Group D]]",
+            "placement": "2"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "February 26, 2023 - 10:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illini esports blue",
+            "opponent1_score": 2,
+            "opponent2": "depaul esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "February 26, 2023 - 10:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "indiana tech warriors",
+            "opponent1_score": 1,
+            "opponent2": "northwestern wildcats",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "February 26, 2023 - 10:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports academy",
+            "opponent1_score": 2,
+            "opponent2": "sxu esports",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "February 26, 2023 - 10:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illini esports orange",
+            "opponent1_score": 2,
+            "opponent2": "oakland esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "February 26, 2023 - 12:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illini esports blue",
+            "opponent1_score": 2,
+            "opponent2": "northwestern wildcats",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "February 26, 2023 - 12:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports academy",
+            "opponent1_score": 0,
+            "opponent2": "illini esports orange",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "February 26, 2023 - 13:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illini esports blue",
+            "opponent1_score": 0,
+            "opponent2": "illini esports orange",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "February 26, 2023 - 12:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "depaul esports",
+            "opponent1_score": 0,
+            "opponent2": "indiana tech warriors",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "February 26, 2023 - 12:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "sxu esports",
+            "opponent1_score": 0,
+            "opponent2": "oakland esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "February 26, 2023 - 13:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports academy",
+            "opponent1_score": 2,
+            "opponent2": "indiana tech warriors",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "February 26, 2023 - 13:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "northwestern wildcats",
+            "opponent1_score": 0,
+            "opponent2": "oakland esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "February 26, 2023 - 15:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports academy",
+            "opponent1_score": 1,
+            "opponent2": "oakland esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "February 26, 2023 - 16:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illini esports blue",
+            "opponent1_score": 2,
+            "opponent2": "oakland esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "February 26, 2023 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illini esports orange",
+            "opponent1_score": 3,
+            "opponent2": "illini esports blue",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

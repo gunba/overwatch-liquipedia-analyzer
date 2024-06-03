@@ -1,0 +1,150 @@
+{{DISPLAYTITLE:WESL AMAMENT #19}}
+{{WESL AMAMENT Navbox}}<br>
+{{Infobox league
+|name=WESL AMAMENT #19
+|shortname=WESL AMAMENT
+|image=WESL.png
+|series=WESL
+|abbreviation=WESL
+|icon=WESL icon.png
+|organizer=WESL
+|organizer-link=http://www.ozarena.com/wesl
+|organizer2=Optimum Zone
+|organizer2-link=http://www.ozarena.com/ozpccafe
+|organizer3=BATTLICA
+|organizer3-link=https://battlica.com/
+|sponsor=
+|type=Online
+|country=South Korea
+|format=single-elimination
+|prizepool=600,000
+|localcurrency=KRW
+|prizepoolusd=
+|sdate=2019-08-24
+|edate=2019-08-31
+|liquipediatier={{TierText/5}}
+|web=http://www.ozarena.com/wesl
+|twitch=oztv_kr
+|facebook=weslesports
+|discord=Hhw92VR
+|youtube=channel/UChFMCIlMODqN4XTcURWySsw
+|team_number=
+|previous=WESL AMAMENT/18{{!}}#18
+|next=WESL AMAMENT/20{{!}}#20
+}}
+{{TOClimit|3}}
+
+==About==
+This is the preseason of '''WESL AMAMENT''' organized by ''Optimum Zone''.
+===Broadcast Talent===
+{{BroadcasterCard|lang=Korean
+|position=Commentator
+|b1=Yu Cheol-hui|b1flag=kr |b1name=Yu Cheol-hui
+|b2=Lee Do-min|b2flag=kr|b2name=Lee Do-min
+}}
+
+===Prize Pool===
+{{prize pool start |cutafter=4 |localcurrency=krw}}
+{{prize pool slot|place=1|usdprize=302.6|localprize=360,000|lz|lastvs1=pnn oracle|lastscore1=3|lastvsscore1=0}}
+{{prize pool slot|place=2|usdprize=101|localprize=120,000|pnn oracle|lastvs1=lz|lastscore1=0|lastvsscore1=3}}
+{{prize pool slot|place=3|usdprize=50|localprize=60,000|ggtc|lastvs1=pnn oracle|lastscore1=1|lastvsscore1=2}}
+{{prize pool slot|place=4|usdprize=50|localprize=60,000|SnakE E-Sport|lastvs1=lz|lastscore1=1|lastvsscore1=2}}
+{{prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=PNN ORACLE
+|image=
+|p1=psychopomp03|p1flag=kr|pos1=dps |p1link=Viper
+|p2=Eileen|p2flag=kr|pos2=dps |p2link=Eileen (Korean Player)
+|p3=너구리|p3flag=kr|pos3=dps 
+|p4=AvLos|p4flag=kr|pos4=tank
+|p5=쌀규|p5flag=kr|pos5=tank
+|p6=Bumpercar|p6flag=kr|pos6=sup
+|p7=ILT|p7flag=kr|pos7=sup
+|c=|cflag=kr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=GGTC
+|image=GGTC logo.png
+|p1=Develop|p1flag=kr|pos1=dps
+|p2=Electric|p2flag=kr|pos2=dps
+|p3=Da1Da1Sm00th|p3flag=kr|pos3=tank
+|p4=Storm|p4flag=kr|pos4=tank
+|p5=YangJun|p5flag=kr|pos5=sup
+|p6=HeeOne|p6flag=kr|pos6=sup
+|c=YETI|cflag=kr|clink=YETI (Korean coach)
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=LZ
+|p1=ARCHE|p1flag=kr|pos1=dps
+|p2=SOJI|p2flag=kr|pos2=dps
+|p3=IQ20|p3flag=kr|pos3=tank
+|p4=나다조씨|p4flag=kr|pos4=tank
+|p5=이레|p5flag=kr|pos5=sup
+|p6=츄파춥스|p6flag=kr|pos6=sup
+|c=|cflag=kr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=SnakE E-Sport
+|image=
+|p1=CODENAME92|p1flag=kr|pos1=dps
+|p2=sushi|p2flag=kr|pos2=dps
+|p3=LEEJAEHOON|p3flag=kr|pos3=tank
+|p4=Roxy|p4flag=kr|pos4=tank
+|p5=Yuz|p5flag=kr|pos5=sup
+|p6=조봉구|p6flag=kr|pos6=sup
+|p7=본계는저주받았어 |p7flag=kr|pos7=sup
+|c=|cflag=kr
+}}
+{{box|end|padding=2em}}
+
+==Results==
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=UVRwU7S4Fb
+<!-- SEMIFINALS -->
+|R1D1team=pnn oracle|R1D1score=2 |R1D1win=1
+|R1D2team=ggtc|R1D2score=1 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=August 30, 2019
+|finished=true
+|map1=Oasis|map1score=1-2|map1win=2
+|map2=King's Row|map2score=4-3|map2win=1
+|map3=Junkertown|map3score=1-0|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=lz|R1D3score=2 |R1D3win=1
+|R1D4team=snake e-sport|R1D4score=1 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=August 30, 2019
+|finished=true
+|map1=Nepal|map1score=1-2|map1win=2
+|map2=Eichenwalde|map2score=3-0|map2win=1
+|map3=Dorado|map3score=1-0|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R2W1team=pnn oracle|R2W1score=0 |R2W1win=
+|R2W2team=lz|R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=August 30, 2019
+|finished=true
+|map1=Oasis|map1score=0-2|map1win=2
+|map2=King's Row|map2score=4-5|map2win=2
+|map3=Route 66|map3score=1-2|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+}}
+
+==References==
+{{Reflist}}

@@ -1,0 +1,87 @@
+{
+    "tournament_info": [
+        {
+            "name": "QPAD King of Nordic Overwatch Cup Week #4",
+            "image": "King of Nordic Overwatch Cup.jpg",
+            "series": "King of Nordic",
+            "shortname": "",
+            "number": "1.4",
+            "organizer": "QPAD",
+            "organizer-link": "http://qpad.com/",
+            "sponsor": "[http://www.bequiet.com/ be quiet!], [http://www.samsung.se/ Samsung], [http://www.webhallen.com/ Webhallen]",
+            "format": "Single Elimination {{Abbr/Bo1}}",
+            "game": "overwatch",
+            "type": "Online",
+            "country": "",
+            "date": "2016-09-28",
+            "prizepoolusd": "1,500",
+            "twitch": "kingofnordic",
+            "twitch2": "",
+            "twitch3": "",
+            "facebook": "Kingofnordic",
+            "gosugamers": "",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "3",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Flawless Laners|flag=dk",
+            "p1": "K1nnex|p1flag=dk",
+            "p2": "Kellex|p2flag=dk",
+            "p3": "Lelouch|p3flag=dk",
+            "p4": "Nerfdd|p4flag=dk",
+            "p5": "Danii|p5flag=dk",
+            "p6": "Lind|p6flag=dk"
+        },
+        {
+            "team": "Oslo Lions|flag=no",
+            "p1": "Aateigen|p1flag=no",
+            "p2": "Iko|p2flag=no",
+            "p3": "Decod|p3flag=no",
+            "p4": "Rezident|p4flag=no",
+            "p5": "Senseibjarne|p5flag=no",
+            "p6": "Stalker|p6flag=no",
+            "c": "Art|cflag=no",
+            "qualifier": ""
+        },
+        {
+            "team": "Ormar P\u00e5 Semester|flag=se",
+            "p1": "lateks|p1flag=se",
+            "p2": "Epzz|p2flag=se",
+            "p3": "Axel|p3link=Axel (Swedish Player)|p3flag=se",
+            "p4": "Perky|p4flag=se",
+            "p5": "Zekor|p5flag=se",
+            "p6": "Rat|p6flag=se",
+            "qualifier": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "oslo lions",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ormar p\u00e5 semester",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "flawless laners",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "ormar p\u00e5 semester",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,266 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "abbreviation": "KMA Summer",
+            "name": "KMA Esports Summer Fest",
+            "shortname": "KMA Summer",
+            "tickername": "KMA Esports Summer Fest",
+            "icon": "",
+            "image": "",
+            "series": "KMA Summer",
+            "organizer": "KMA",
+            "game": "overwatch2",
+            "prizepool": "16000",
+            "localcurrency": "rub",
+            "type": "Online",
+            "country": "Russia",
+            "format": "Double Elimination",
+            "prizepoolusd": "",
+            "sdate": "2023-07-01",
+            "edate": "2023-07-09",
+            "twitter": "",
+            "web": "",
+            "twitch": "ema_live2",
+            "discord": "RyRbZfZCMJ",
+            "youtube": "",
+            "vk": "esportsmedicine",
+            "rulebook": "https://docs.google.com/document/d/1mvORSFV6jdAuvSbmoHwq2vwOZOgnphX0oADalpNAijw/edit#heading=h.8v6ywwg0i9go",
+            "bracket": "https://play.toornament.com/en_GB/tournaments/6863811021817634816/",
+            "teamfirst": "",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "PopCorn Goated",
+            "image": "",
+            "p1": "\u0421\u041a\u041e\u0422\u041e\u0411\u041e\u0419\u041d\u042f|p1flag=|pos1=tank",
+            "p2": "Wavewalker|p2flag=|pos2=dps",
+            "p3": "Flame|p3flag=|pos3=dps|p3link=Flame (PopCorn player)",
+            "p4": "Phoenix|p4flag=|pos4=sup",
+            "p5": "Discordance|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Losing Sanity",
+            "image": "",
+            "p1": "Sanro|p1flag=ua|pos1=tank",
+            "p2": "kai41|p2flag=ru|pos2=dps",
+            "p3": "Saicore|p3flag=|pos3=dps",
+            "p4": "SilentAshley|p4flag=ru|pos4=sup",
+            "p5": "DDUDUDDUDU|p5flag=|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc|t2p1pos=Manager|t2p1flag=ru"
+        },
+        {
+            "team": "Takahashi",
+            "image": "",
+            "p1": "Monegon|p1flag=|pos1=tank",
+            "p2": "Cooper|p2flag=|pos2=dps",
+            "p3": "Firey|p3flag=|pos3=dps",
+            "p4": "Maven|p4flag=|pos4=sup",
+            "p5": "CHKVX|p5flag=|pos5=sup",
+            "p6": "NikolayGame|p6flag=|pos6=sup"
+        },
+        {
+            "team": "Mercy One Love",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Laziers Of Oz",
+            "image": "",
+            "p1": "Woodsfrank|p1flag=ru|pos1=tank",
+            "p2": "Bagel|p2flag=ru|pos2=dps|p2link=Bagel (Russian player)",
+            "p3": "Kisara|p3flag=ru|pos3=dps",
+            "p4": "Yato|p4flag=ru|pos4=sup",
+            "p5": "MikiXter|p5flag=ru|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc|t2p1pos=Coach|t2p1flag=ru"
+        },
+        {
+            "team": "Frozen Sun",
+            "image": "",
+            "p1": "DarthMurloc|p1flag=ru|pos1=tank",
+            "p2": "MementoMoira|p2flag=ru|pos2=dps",
+            "p3": "french|p3flag=ru|pos3=dps",
+            "p4": "HpSka|p4flag=ru|pos4=sup",
+            "p5": "MyRKa|p5flag=ru|pos5=sup",
+            "p6": "Barbarossa|p6flag=ru|pos6=flex",
+            "p7": "OverlorD|p7flag=ru|pos7=flex",
+            "t2title": "Staff",
+            "t2p1": "OverlorD|t2p1pos=Coach|t2p1flag=ru",
+            "t2p2": "Orthus|t2p2pos=Coach|t2p2flag=us"
+        },
+        {
+            "team": "Bauman LegkotnyA",
+            "image": "",
+            "p1": "Misteras3|p1flag=|pos1=tank",
+            "p2": "CaptainPanic|p2flag=ru|pos2=dps",
+            "p3": "Usami|p3flag=|pos3=dps",
+            "p4": "Lekko|p4flag=ru|pos4=sup",
+            "p5": "TimKa|p5flag=ru|pos5=sup",
+            "p6": "Lapo4ka|p6flag=ru|pos6=flex"
+        },
+        {
+            "team": "Ebatorium",
+            "image": "",
+            "p1": "Pusenkas|p1flag=ru|pos1=tank",
+            "p2": "Quellik|p2flag=ru|pos2=dps",
+            "p3": "Gidrex|p3flag=ru|pos3=dps",
+            "p4": "fr0l|p4flag=ru|pos4=dps",
+            "p5": "Konnik|p5flag=ru|pos5=sup",
+            "p6": "Svarron|p6flag=ru|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc|t2p1pos=Coach|t2p1flag=ru"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "July 4th, 2023 - 18:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|Laziers of Oz|score=2}}",
+            "opponent2": "{{TeamOpponent|Mercy One Love|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 4th, 2023 - 19:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|Losing Sanity|score=2}}",
+            "opponent2": "{{TeamOpponent|Ebatorium|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "July 4th, 2023 - 19:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|Bauman LegkotnyA|score=0}}",
+            "opponent2": "{{TeamOpponent|PopCorn Goated|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "July 4th, 2023 - 18:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|Takahashi|score=2}}",
+            "opponent2": "{{TeamOpponent|Frozen Sun|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "July 5th, 2023 - 17:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|Laziers of Oz|score=0}}",
+            "opponent2": "{{TeamOpponent|Losing Sanity|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "July 6th, 2023 - 19:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|PopCorn Goated|score=2}}",
+            "opponent2": "{{TeamOpponent|Takahashi|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "July 8th, 2023 - 15:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|Losing Sanity|score=W}}",
+            "opponent2": "{{TeamOpponent|PopCorn Goated|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "July 5th, 2023 - 18:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|Mercy One Love|score=0}}",
+            "opponent2": "{{TeamOpponent|Ebatorium|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "July 6th, 2023 - 18:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|Bauman LegkotnyA|score=1}}",
+            "opponent2": "{{TeamOpponent|Frozen Sun|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "July 6th, 2023 - 17:30 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|Takahashi|score=2}}",
+            "opponent2": "{{TeamOpponent|Ebatorium|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "July 7th, 2023 - 18:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|Laziers Of Oz|score=1}}",
+            "opponent2": "{{TeamOpponent|Frozen Sun|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "July 8th,2023 - 17:30 {{abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Takahashi|score=2}}",
+            "opponent2": "{{TeamOpponent|Frozen Sun|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "July 9th, 2023 - 13:00 {{abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|PopCorn Goated|score=1}}",
+            "opponent2": "{{TeamOpponent|Takahashi|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "July 9th, 2023 - 14:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_live2",
+            "opponent1": "{{TeamOpponent|Losing Sanity|score=L}}",
+            "opponent2": "{{TeamOpponent|Takahashi|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        }
+    ]
+}

@@ -1,0 +1,483 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "name": "Heroes Recall EMEA Tournament",
+            "shortname": "Heroes Recall EMEA Tournament",
+            "tickername": "Heroes Recall EMEA Tournament",
+            "image": "Heroes Recall lightmode.png",
+            "imagedark": "Heroes Recall darkmode.png",
+            "icon": "Heroes Recall lightmode.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "EGL",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "prizepool": "100000",
+            "localcurrency": "eur",
+            "sdate": "2022-10-20",
+            "edate": "2022-10-23",
+            "twitter": "OverwatchEU",
+            "twitch": "directory/game/Overwatch%202",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Nordics",
+            "p1": "ThomasPaste",
+            "p1flag": "no",
+            "pos1": "",
+            "p2": "Emilio",
+            "p2flag": "se",
+            "pos2": "",
+            "p2link": "counterstrike:Emilio",
+            "p3": "Arrge",
+            "p3flag": "fi",
+            "pos3": "",
+            "p4": "Mendokusaii",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Hakis",
+            "p5flag": "se",
+            "pos5": "",
+            "p5link": "apexlegends:Hakis"
+        },
+        {
+            "team": "Team France",
+            "p1": "BenBest",
+            "p1flag": "fr",
+            "pos1": "",
+            "p1team": "team peps",
+            "p2": "Potxeca",
+            "p2flag": "fr",
+            "pos2": "",
+            "p3": "F\u00e9f\u00e9",
+            "p3flag": "fr",
+            "pos3": "",
+            "p3team": "team peps",
+            "p4": "SoOn",
+            "p4flag": "fr",
+            "pos4": "",
+            "p5": "MoMaN",
+            "p5flag": "fr",
+            "pos5": ""
+        },
+        {
+            "team": "Team Benelux",
+            "p1": "Gamemeneer",
+            "p1flag": "nl",
+            "pos1": "",
+            "p2": "Kraandop",
+            "p2flag": "",
+            "pos2": "",
+            "p2team": "twisted minds",
+            "p3": "KingKontent",
+            "p3flag": "nl",
+            "pos3": "",
+            "p4": "sejecem",
+            "p4flag": "nl",
+            "pos4": "",
+            "p5": "Logix",
+            "p5flag": "be",
+            "pos5": "",
+            "p5team": "team peps"
+        },
+        {
+            "team": "Team Germany",
+            "p1": "Alex2704",
+            "p1flag": "de",
+            "pos1": "",
+            "p1team": "skeng2",
+            "p2": "art1er",
+            "p2flag": "de",
+            "pos2": "",
+            "p3": "Dhalucard",
+            "p3flag": "de",
+            "pos3": "",
+            "p4": "HIghscoreHeroes",
+            "p4flag": "de",
+            "pos4": "",
+            "p5": "Noserino",
+            "p5flag": "de",
+            "pos5": ""
+        },
+        {
+            "team": "Team United Kingdom",
+            "p1": "OnScreen",
+            "p1flag": "uk",
+            "pos1": "",
+            "p2": "Valkia",
+            "p2flag": "uk",
+            "pos2": "",
+            "p3": "Karagii",
+            "p3flag": "uk",
+            "pos3": "",
+            "p4": "Break",
+            "p4flag": "uk",
+            "pos4": "",
+            "p4link": "Break (British Player)",
+            "p5": "Smooya",
+            "p5flag": "uk",
+            "pos5": ""
+        },
+        {
+            "team": "Team Saudi Arabia",
+            "p1": "KssarPlayz",
+            "p1flag": "sa",
+            "pos1": "",
+            "p2": "Fuki",
+            "p2flag": "sa",
+            "pos2": "",
+            "p3": "Hessa",
+            "p3flag": "sa",
+            "pos3": "",
+            "p4": "Jude",
+            "p4flag": "sa",
+            "pos4": "",
+            "p5": "YZNSA",
+            "p5flag": "sa",
+            "pos5": "",
+            "p5team": "01 esports"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "October 20, 2022 - 18:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team saudi arabia",
+            "opponent2": "team germany",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "October 20, 2022 - 19:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team united kingdom",
+            "opponent2": "team saudi arabia",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "October 20, 2022 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team united kingdom",
+            "opponent2": "team germany",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "October 20, 2022 - 18:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team benelux",
+            "opponent2": "team nordics",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "October 20, 2022 - 19:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team france",
+            "opponent2": "team benelux",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "October 20, 2022 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team france",
+            "opponent2": "team nordics",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "October 22, 2022 - 18:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Germany",
+            "opponent2": "team nordics",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M1="
+        },
+        {
+            "bestof": "3",
+            "date": "October 22, 2022 - 20:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team benelux",
+            "opponent2": "team united kingdom",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "bestof": "3",
+            "date": "October 23, 2022 - 19:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team France",
+            "opponent2": "Team Germany",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "bestof": "3",
+            "date": "October 23, 2022 - 18:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Saudi Arabia",
+            "opponent2": "team benelux",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "3",
+            "date": "October 23, 2022 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team France",
+            "opponent2": "Team Saudi Arabia",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

@@ -1,0 +1,376 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "Calling All Heroes Rising Series - Raidiant Heroes Major 3",
+            "shortname": "Challengers Series Rising Series - Raidiant Heroes Major 3",
+            "series": "Calling All Heroes",
+            "abbreviation": "Calling All Heroes",
+            "tickername": "CAH Rising Major 3",
+            "image": "Raidiant Heroes Major 3 lightmode.png",
+            "imagedark": "Raidiant Heroes Major 3 darkmode.png",
+            "icon": "Raidiant icon allmode.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "Overwatch League",
+            "organizer3": "Raidiant",
+            "type": "Online",
+            "game": "overwatch2",
+            "country": "North America",
+            "format": "Round Robin<br>Double Elimination",
+            "sdate": "2023-12-02",
+            "edate": "2023-12-10",
+            "prizepoolusd": "1000",
+            "bracket": "https://www.start.gg/tournament/calling-all-heroes-raidiant-heroes-major-3/details",
+            "web": "https://callingallheroes.gg/",
+            "twitch": "playoverwatch",
+            "twitch2": "raidiantgg",
+            "twitch3": "overwatchcontenders",
+            "youtube": "playoverwatch",
+            "youtube2": "overwatchleague",
+            "youtube3": "overwatchcontenders",
+            "twitter": "owpathtopro",
+            "twitter2": "raidiantgg",
+            "discord": "wJFWdzsjHU",
+            "rulebook": "https://drive.google.com/file/d/1aBsMIxMnI_5N3LAFOgFHi-9XSELjS50V/view",
+            "team_number": "9"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Faeble Rising",
+            "p1": "Kchoneycrisp|p1flag=us|pos1=dps",
+            "p2": "Willowtron|p2flag=im|pos2=dps",
+            "p3": "QueenBee|p3flag=uk|pos3=flex",
+            "p4": "SleepyEels|p4flag=|pos4=tank",
+            "p5": "Echo20|p5flag=|pos5=sup",
+            "p6": "Monika|p6flag=us|pos6=sup",
+            "p7": "zoomey|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Hkeybroke|t2c1pos=coach",
+            "t2c2": "Wicca|t2c2pos=coach",
+            "t2c3": "Amanda Demizio|t2c3flag=us|t2c3pos=manager"
+        },
+        {
+            "team": "Redacted",
+            "link": "Redacted (CAH team)",
+            "p1": "Dooby|p1flag=nz|pos1=dps",
+            "p2": "LadyBastiuwu|p2flag=ca|pos2=dps",
+            "p3": "StarryNight|p3flag=us|pos3=flex",
+            "p4": "Minolaur|p4flag=us|pos4=tank",
+            "p5": "lunarstorm|p5flag=us|pos5=sup",
+            "p6": "Moonlite|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "MegaMulani|t2c1pos=coach",
+            "t2c2": "Masterryan0|t2c2flag=us|t2c2pos=manager"
+        },
+        {
+            "team": "LFS 4.5K",
+            "p1": "Kitcat|p1flag=|pos1=dps",
+            "p2": "Scrubbles|p2flag=ca|pos2=dps",
+            "p3": "Duck|p3flag=us|pos3=dps|p3link=Duck (American player)",
+            "p4": "SammichMakr|p4flag=|pos4=tank",
+            "p5": "Awnuh|p5flag=us|pos5=sup",
+            "p6": "Murff|p6flag=us|pos6=sup",
+            "p7": "simone|p7flag=|pos7=sup"
+        },
+        {
+            "team": "Fruit Salad",
+            "p1": "Mothfia|p1flag=us|pos1=",
+            "p2": "snickers|p2flag=us|pos2=",
+            "p3": "Phoenixx|p3flag=us|pos3=",
+            "p4": "Karina|p4flag=|pos4=",
+            "p5": "Giratina|p5flag=us|pos5=",
+            "p6": "FASTQ|p6flag=cn|pos6="
+        },
+        {
+            "team": "kaiju corp mx",
+            "p1": "sadfire|p1flag=mx|pos1=dps",
+            "p2": "sandboxgod|p2flag=us|pos2=dps",
+            "p3": "Hyuka|p3flag=us|pos3=flex",
+            "p4": "Cinnabar|p4flag=uk|pos4=flex",
+            "p5": "FelixFelicis|p5flag=us|pos5=tank",
+            "p6": "WeMeHi|p6flag=us|pos6=sup",
+            "p7": "HoloCantAim|p7flag=us|pos7=sup",
+            "p8": "Layla|p8flag=us|pos8=sup|p8link=Layla (American player)"
+        },
+        {
+            "team": "1df Dream Team",
+            "p1": "Imfamousx1x|p1flag=us|pos1=",
+            "p2": "jhanna|p2flag=us|pos2=",
+            "p3": "elfcoffee|p3flag=us|pos3=",
+            "p4": "LoveBubbles|p4flag=us|pos4=",
+            "p5": "KaylaJay2|p5flag=|pos5=",
+            "p6": "xhellokayla|p6flag=us|pos6="
+        },
+        {
+            "team": "Delaware Phoenix",
+            "p1": "kozeyyy|p1flag=us|pos1=",
+            "p2": "Fireflies|p2flag=us|pos2=",
+            "p3": "shyastra|p3flag=|pos3=",
+            "p4": "Soup|p4flag=us|pos4=",
+            "p5": "e11ayna|p5flag=us|pos5=",
+            "p6": "Froztbyte|p6flag=us|pos6=",
+            "t2title": "Staff",
+            "t2c1": "Aspen|t2c1flag=us|t2c1pos=coach|t2c1link=Aspen (American Coach)"
+        },
+        {
+            "team": "TOKKI Pilots",
+            "p1": "Nevermore|p1flag=de|pos1=",
+            "p2": "VulpixAura|p2flag=us|pos2=",
+            "p3": "Sothangel|p3flag=uk|pos3=",
+            "p4": "Arkenspire|p4flag=us|pos4=",
+            "p5": "duckisaurus|p5flag=|pos5=",
+            "p6": "Arani|p6flag=uk|pos6="
+        },
+        {
+            "team": "Eclipse-Ursa minor",
+            "p1": "Daisymae|p1flag=us|pos1=",
+            "p2": "Fizzyelf|p2flag=us|pos2=",
+            "p3": "Fantasy|p3flag=us|pos3=|p3link=Fantasy (American player)",
+            "p4": "NanashiNight|p4flag=us|pos4=",
+            "p5": "karasutengu|p5flag=us|pos5=",
+            "p6": "KyoAkuma|p6flag=|pos6=",
+            "p7": "pearlescenty|p7flag=us|pos7=",
+            "p8": "Zooey|p8flag=us|pos8="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "December 2, 2023 - 11:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Redacted (CAH team)|score=3}}",
+            "opponent2": "{{TeamOpponent|kaiju corp mx|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "December 2, 2023 - 11:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|lfs 4.5k|score=3}}",
+            "opponent2": "{{TeamOpponent|fruit salad|score=1}}",
+            "optional": "M2="
+        },
+        {
+            "date": "December 2, 2023 - 12:30 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|faeble rising|score=3}}",
+            "opponent2": "{{TeamOpponent|kaiju corp mx|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "December 2, 2023 - 12:30 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Redacted (CAH team)|score=2}}",
+            "opponent2": "{{TeamOpponent|lfs 4.5k|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "date": "December 3, 2023 - 11:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|faeble rising|score=3}}",
+            "opponent2": "{{TeamOpponent|fruit salad|score=0}}",
+            "optional": "M5="
+        },
+        {
+            "date": "December 3, 2023 - 11:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|kaiju corp mx|score=1}}",
+            "opponent2": "{{TeamOpponent|lfs 4.5k|score=3}}",
+            "optional": "M6="
+        },
+        {
+            "date": "December 3, 2023 - 12:30 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|faeble rising|score=3}}",
+            "opponent2": "{{TeamOpponent|lfs 4.5k|score=1}}",
+            "optional": "M7="
+        },
+        {
+            "date": "December 3, 2023 - 12:30 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fruit salad|score=0}}",
+            "opponent2": "{{TeamOpponent|Redacted (CAH team)|score=3}}",
+            "optional": "M8="
+        },
+        {
+            "date": "December 3, 2023 - 14:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|faeble rising|score=3}}",
+            "opponent2": "{{TeamOpponent|Redacted (CAH team)|score=1}}",
+            "optional": "M9="
+        },
+        {
+            "date": "December 3, 2023 - 14:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fruit salad|score=3}}",
+            "opponent2": "{{TeamOpponent|kaiju corp mx|score=2}}",
+            "optional": "M10="
+        },
+        {
+            "bestof": "5",
+            "date": "December 2, 2023 - 11:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|1df dream team|score=0}}",
+            "opponent2": "{{TeamOpponent|eclipse-ursa minor|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "December 2, 2023 - 11:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|delaware phoenix|score=3}}",
+            "opponent2": "{{TeamOpponent|tokki pilots|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "December 2, 2023 - 12:30 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|1df dream team|score=3}}",
+            "opponent2": "{{TeamOpponent|tokki pilots|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "December 2, 2023 - 12:30 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|eclipse-ursa minor|score=1}}",
+            "opponent2": "{{TeamOpponent|delaware phoenix|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "date": "December 3, 2023 - 11:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|1df dream team|score=0}}",
+            "opponent2": "{{TeamOpponent|delaware phoenix|score=3}}",
+            "optional": "M5="
+        },
+        {
+            "date": "December 3, 2023 - 11:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|tokki pilots|score=0}}",
+            "opponent2": "{{TeamOpponent|eclipse-ursa minor|score=3}}",
+            "optional": "M6="
+        },
+        {
+            "bestof": "3",
+            "date": "December 9, 2023 - 11:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Eclipse-Ursa minor|score=0}}",
+            "opponent2": "{{TeamOpponent|Redacted (CAH team)|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 9, 2023 - 11:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|LFS 4.5K|score=2}}",
+            "opponent2": "{{TeamOpponent|1df Dream Team|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "bestof": "5",
+            "date": "December 9, 2023 - 12:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Faeble Rising|score=3}}",
+            "opponent2": "{{TeamOpponent|Redacted (CAH team)|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "December 9, 2023 - 12:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|University of Delaware Phoenix|score=0}}",
+            "opponent2": "{{TeamOpponent|LFS 4.5K|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "December 9, 2023 - 15:30 {{Abbr/PST}}",
+            "youtube": "playoverwatch|twitch=playoverwatch",
+            "opponent1": "{{TeamOpponent|Faeble Rising|score=}}",
+            "opponent2": "{{TeamOpponent|LFS 4.5K|score=}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=4|score2=3|winner=1}}",
+            "map3": "{{Map|map=Suravasa|mode=Flashpoint|score1=3|score2=0|winner=1}}",
+            "vod": "https://www.youtube.com/live/BtEtGrecgRE?si=-FBjJJZH6-hvtkeW&t=19090",
+            "optional": "R4M1="
+        },
+        {
+            "date": "December 9, 2023 - 14:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|University of Delaware Phoenix|score=2}}",
+            "opponent2": "{{TeamOpponent|Eclipse-Ursa minor|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "December 9, 2023 - 14:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Redacted (CAH team)|score=3}}",
+            "opponent2": "{{TeamOpponent|1df Dream Team|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "5",
+            "date": "December 10, 2023 - 11:00 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Eclipse-Ursa minor|score=0}}",
+            "opponent2": "{{TeamOpponent|Redacted (CAH team)|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "December 10, 2023 - 12:30 {{Abbr/PST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|LFS 4.5K|score=0}}",
+            "opponent2": "{{TeamOpponent|Redacted (CAH team)|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "December 10, 2023 - 14:00 {{Abbr/PST}}",
+            "youtube": "playoverwatch|twitch=playoverwatch",
+            "opponent1": "{{TeamOpponent|Faeble Rising|score=}}",
+            "opponent2": "{{TeamOpponent|Redacted (CAH team)|score=}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Suravasa|mode=Flashpoint|score1=2|score2=3|winner=2}}",
+            "map4": "{{Map|map=New Queen Street|mode=Push|score1=91.59m|score2=72.03m|winner=1}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "vod": "https://www.youtube.com/live/EWWJOH-KcpQ?si=UMgNUQBRtW49FHGJ&t=11832",
+            "optional": "R5M1="
+        }
+    ]
+}

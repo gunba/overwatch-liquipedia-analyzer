@@ -1,0 +1,223 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "liquipediatiertype": "Weekly",
+            "name": "GameBattles Overwatch 2 Online Tournament North America #16",
+            "shortname": "5v5 North America #16",
+            "tickername": "GameBattles North America #16",
+            "icon": "GameBattles icon lightmode.png",
+            "icondark": "GameBattles icon darkmode.png",
+            "image": "GameBattles lightmode.png",
+            "imagedark": "GameBattles darkmode.png",
+            "organizer": "GameBattles",
+            "series": "GameBattles",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "500",
+            "date": "2023-01-28",
+            "twitter": "gamebattles",
+            "discord": "gamebattles",
+            "facebook": "gamebattles",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--north--entry--128/rules",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--north--entry--128/bracket",
+            "team_number": "8",
+            "previous": "GameBattles_Overwatch_2_Online_Tournament/NA/15{{!}}#15",
+            "next": "GameBattles_Overwatch_2_Online_Tournament/NA/17{{!}}#17"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-01-28",
+            "opponent1": "oslo gamers|score=W",
+            "opponent2": "brunch table|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-01-28",
+            "opponent1": "debit island|score=W",
+            "opponent2": "lux and his kittens|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-01-28",
+            "opponent1": "parking enforcement|score=W",
+            "opponent2": "jmise|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-01-28",
+            "opponent1": "average joes|score=L",
+            "opponent2": "girl love|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-01-28",
+            "opponent1": "oslo gamers|score=L",
+            "opponent2": "debit island|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-01-28",
+            "opponent1": "parking enforcement|score=L",
+            "opponent2": "girl love|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-01-28",
+            "opponent1": "debit island|score=W",
+            "opponent2": "girl love|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

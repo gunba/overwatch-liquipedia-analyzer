@@ -1,0 +1,180 @@
+{{DISPLAYTITLE:Overwatch World Cup 2016: American Qualifier}}
+{{World Cup Tabs|OWC2016=1}}
+{{Infobox league
+|name=Overwatch World Cup 2016: American Qualifier
+|shortname=American Qualfier
+|image=Overwatch_World_Cup_2016.png
+|series=Overwatch World Cup
+|icon=
+|organizer=Blizzard Entertainment
+|country=North America
+|type=Online
+|sdate=2016-09-14
+|edate=2016-09-15
+|liquipediatier=1|liquipediatiertype=Qualifier
+|web=
+|bracket=http://play.eslgaming.com/overwatch/europe/overwatch/world-cup/2016-overwatch-world-cup-qualifiers-latam/rankings/
+|team_number=6
+}}
+{{TOClimit|3}}
+
+==Information==
+*Round Robin
+**2 groups for 6 teams.
+**Winner of each group advances to a single-elimination bracket.
+**The winner of single-elimination bracket advances to [[Overwatch_World_Cup/2016|Main Event]] at BlizzCon 2016.
+
+==Prize Pool==
+{{TeamPrizePool|import=true|prizesummary=false|qualifies1=Overwatch World Cup/2016|qualifies1name=BlizzCon
+|{{Slot|qualified=true}}
+|{{Slot}}
+|{{Slot|place=3-4}}
+|{{Slot|place=5-6}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Argentina
+|image=Flag_of_Argentina.svg
+|p1=Crusher22 |p1flag=ar |p1team=
+|p2=Marvel |p2flag=ar |p2team=
+|p3=Battletoad |p3flag=ar |p3team=nocturns gaming
+|p4=Godman |p4flag=ar |p4team=nocturns gaming
+|p5=Halcyon |p5flag=ar |p5team=nocturns gaming
+|p6=Topoyo |p6flag=ar |p6team=nocturns gaming
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Chile
+|image=Flag_of_Chile.svg
+|p1=Holyfuuu |p1flag=cl |p1team=
+|p2=EddieSick |p2flag=cl |p2team=
+|p3=alfredon |p3flag=cl |p3team=
+|p4=Vardoc |p4flag=cl |p4team=
+|p5=Blanco |p5flag=cl |p5team=
+|p6=yibraN |p6flag=cl |p6team=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Colombia
+|image=Flag_of_Colombia.svg
+|p1=Gods |p1flag=co |p1team= |p1link=Gods (Colombian player)
+|p2=Theos |p2flag=co |p2team=
+|p3=Keldrim |p3flag=co |p3team=
+|p4=Odin |p4flag=co |p4team= |p4link=Odin (Colombian player)
+|p5=pierino |p5flag=co |p5team=
+|p6=PCMASTERDAVE |p6flag=co |p6team=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Costa Rica
+|image=Flag_of_Costa_Rica.svg
+|p1=Blind777 |p1flag=cr |p1team=
+|p2=Ant |p2flag=cr |p2team=
+|p3=Restrife |p3flag=cr |p3team=
+|p4=Heal |p4flag=cr |p4team=
+|p5=Monrrow |p5flag=cr |p5team=
+|p6=zeroanima |p6flag=cr |p6team=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Mexico
+|image=Flag_of_Mexico.svg
+|p1=MYMALKAPONE |p1flag=mx |p1team=
+|p2=LECPKIM |p2flag=mx |p2team=
+|p3=spaydeRRRR |p3flag=mx |p3team=
+|p4=Epsylon |p4flag=mx |p4team=
+|p5=nomy |p5flag=mx |p5team=immortals
+|p6=Sapphier |p6flag=mx |p6team=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Peru
+|image=Flag_of_Peru.svg
+|p1=dammi |p1flag=pe |p1team=
+|p2=Bambuchita |p2flag=pe |p2team=
+|p3=Ello |p3flag=pe |p3team=
+|p4=LucyWeird |p4flag=pe |p4team=
+|p5=Thecno |p5flag=pe |p5team=
+|p6=Blue |p6flag=pe |p6team=|p6link=Blue (Peruvian player)
+|qualifier=Invited
+}}
+{{box|end}}
+
+==Results==
+===Group Stage===
+{{box|start|padding=2em}}
+
+===={{HiddenSort|Group A}}====
+{{GroupTableLeague|title=Group A|width=450px|edate=September 17, 2016|pbg1=up|pbg2=down|pbg3=down
+|bg1=up|team1=chile
+|bg2=down|team2=argentina
+|bg3=down|team3=peru
+|tournament=Overwatch World Cup/2016/American Qualifier
+}}
+{{Matchlist|id=LbuwkqHLUx|width=450px|title=Group A Matches
+|M1={{Match
+    |bestof=3
+    |date=September 14, 2016 - 23:00  {{Abbr/BRT}}
+    |opponent1={{TeamOpponent|peru|score=0}}
+    |opponent2={{TeamOpponent|argentina|score=2}}
+}}
+|M2={{Match
+    |date=September 15, 2016 - 23:00  {{Abbr/BRT}}
+    |opponent1={{TeamOpponent|chile|score=2}}
+    |opponent2={{TeamOpponent|argentina|score=0}}
+}}
+|M3={{Match
+    |date=September 16, 2016 - 00:30  {{Abbr/BRT}}
+    |opponent1={{TeamOpponent|peru|score=0}}
+    |opponent2={{TeamOpponent|chile|score=2}}
+}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Group B}}====
+{{GroupTableLeague|title=Group B|width=450px|edate=September 17, 2016|pbg1=up|pbg2=down|pbg3=down
+|bg1=up|team1=colombia
+|bg2=down|team2=mexico
+|bg3=down|team3=costa rica
+|tournament=Overwatch World Cup/2016/American Qualifier
+}}
+{{Matchlist|id=PpR5tXe5Xe|width=450px|title=Group B Matches
+|M1={{Match
+    |bestof=3
+    |date=September 14, 2016 - 22:00  {{Abbr/BRT}}
+    |opponent1={{TeamOpponent|colombia|score=2}}
+    |opponent2={{TeamOpponent|costa rica|score=1}}
+}}
+|M2={{Match
+    |date=September 15, 2016 - 21:00  {{Abbr/BRT}}
+    |opponent1={{TeamOpponent|costa rica|score=0}}
+    |opponent2={{TeamOpponent|mexico|score=2}}
+}}
+|M3={{Match
+    |date=September 15, 2016 - 22:00  {{Abbr/BRT}}
+    |opponent1={{TeamOpponent|colombia|score=2}}
+    |opponent2={{TeamOpponent|mexico|score=1}}
+}}
+}}
+{{box|end|padding=2em}}
+
+===Playoffs===
+{{Bracket|Bracket/2|id=m0b9yMHcdz
+|R1M1={{Match
+    |bestof=5
+    |opponent1={{TeamOpponent|chile|score=3}}
+    |opponent2={{TeamOpponent|colombia|score=0}}
+}}
+}}
+
+==References==
+{{Reflist}}

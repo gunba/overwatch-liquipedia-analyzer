@@ -1,0 +1,188 @@
+{{DISPLAYTITLE:Overwatch Premier Circuit}}
+{{Tabs static
+|name1=Milan Games Week |link1=Milan_Games_Week/2017
+|name2=OPC - Qualifier|link2=Overwatch_Premier_Circuit
+|This=1}}
+{{Infobox league
+|name=Overwatch Premier Circuit
+|shortname=OPC
+|image=Overwatch_Premier_Circuit_logo_v2.png
+|icon=Overwatch_Premier_Circuit_logo_v2.png
+|series=
+|abbreviation=OPC
+|tickername=OPC
+|organizer=ASD NERDS
+|sponsor=
+|type=Offline
+|country=Italy
+|format=Single Elimination
+|prizepool=5,700
+|localcurrency=EUR
+|prizepoolusd=3,260
+|date=2017-09-30
+|liquipediatier={{TierText/3}}
+|web=https://www.overwatchitalia.net/tornei/overwatch-premier-circuit/
+|twitter=OverwatchITFans
+|bracket=https://pge.gg/tournaments/59/bracket
+|twitch=pg_esports
+|team_number=4
+}}
+
+==About==
+===Format===
+*Single Elimination Bracket
+**Game Mode
+***Semifinals: {{Abbr/Bo3}}
+***Finals: {{Abbr/Bo5}}
+**1 Hero Limit
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|-
+!width="460" colspan=4|Available Maps
+|-
+![[Assault]]
+![[Control]]
+![[Escort]]
+![[Hybrid]]
+|-
+|width="130" |[[Temple of Anubis]]<br><br>[[Horizon Lunar Colony]]
+|width="130" |[[Lijiang Tower]]<br><br>[[Oasis]]<br><br> [[Ilios]]
+|width="130" |[[Dorado]]<br><br>[[Watchpoint: Gibraltar]]
+|width="130" |[[Eichenwalde]]<br><br>[[Hollywood]]<br><br>[[King's Row]]
+|}
+
+==Prize Pool==
+€5,700{{Abbr/EUR}} (~$6,6783{{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=eur|cutafter=4|}}
+{{prize pool slot|place=1 |usdprize=2,499|localprize=2,100|epok team |lastvs1=samsung morning stars|lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot|place=2 |usdprize=1,785|localprize=1,700|samsung morning stars |lastvs1=epok team |lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot |place=3 |usdprize=1,428|localprize=1,200|nextgaming |lastvs1=samsung morning stars |lastscore1=0 |lastvsscore1=2}}
+{{prize pool slot |place=4|usdprize=1,071 |localprize=900|team forge |walkoverto1=nextgaming}}
+{{Prize pool end}}
+''Converted USD prizes are based on the currency exchange rate (taken from [http://xe.com xe.com]) on September 28th, 2017: 1 EUR = 1.19781 USD.''
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator|lang=Italian
+|b1=Herc 
+|b2=Grrimmjow |b2name=Fabiano Ferrara |b2flag=it
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=epok team
+|image=
+|p1=StreaMiii|p1flag=it
+|p2=quBy|p2flag=it
+|p3=rzd|p3flag=it
+|p4=carnifex|p4flag=
+|p5=Cerys|p5flag=
+|p6=fighteR|p6flag=
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NextGaming
+|image=NextGaming.png
+|p1=petwire|p1flag=it
+|p2=pirez|p2flag=it
+|p3=Skillyjoe|p3flag=
+|p4=Ruby|p4flag=
+|p5=ShrP|p5flag=
+|p6=MrGertex|p6flag=
+<!--|p7=ShRP0k|p7flag=-->
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Forge
+|image=
+|p1=SmiLe|p1flag=it
+|p2=Tia|p2flag=it
+|p3=sins |p3flag=pe
+|p4=Hinu|p4flag=
+|p5=Midna|p5flag=
+|p6=linepro|p6flag=
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Samsung Morning Stars
+|image=
+|p1=LUFT|p1flag=ch |pos1=tank
+|p2=aQualtis|p2flag=it |pos2=sup
+|p3=DragonEddy|p3flag=it |pos3=flex
+|p4=Najiny|p4flag=it |pos4=dps
+|p5=thebigone|p5flag=it |pos5=dps
+|p6=Adnar|p6flag=it |pos6=sup
+|c=|cflag=
+|qualifier=
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=PApPhxga0p
+<!-- SEMIFINALS -->
+|R1D1team=samsung morning stars |R1D1score=2 |R1D1win=1
+|R1D2team=team forge |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=September 30, 2017 - 15:30 {{Abbr/CEST}}
+|twitch=pg esports |finished=true
+|vod=
+|map1=Lijiang Tower|map1score=2-0|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=1-0|map2win=1
+|overgg=
+|pf=37017
+|wl=
+}}
+|R1D3team=epok team |R1D3score=2 |R1D3win=1
+|R1D4team=nextgaming |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=September 30, 2017 - 15:00 {{Abbr/CEST}}
+|twitch=pg_esports_2 |finished=true
+|vod=
+|map1=Lijiang Tower|map1score=2-0|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=|map2win=1
+|overgg=
+|pf=37018
+|wl=
+}}
+<!-- FINALS -->
+|R2W1team=samsung morning stars |R2W1score=0 |R2W1win=
+|R2W2team=epok team |R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=September 30, 2017 - 16:30 {{Abbr/CEST}}
+|twitch=pg esports |finished=true
+|vodgame1=https://youtu.be/TsUQAaF5X3M
+|vodgame2=https://youtu.be/ivdexu0vomI
+|vodgame3=https://youtu.be/5HEBT5TYZUI
+|map1=Lijiang Tower|map1score=0-2|map1win=2
+|map2=Watchpoint: Gibraltar|map2score=1-2|map2win=2
+|map3=Horizon Lunar Colony|map3score=2-3|map3win=2
+|overgg=
+|pf=37020
+|wl=
+}}
+<!-- 3RD PLACE (optional) -->
+|R2D1team=nextgaming |R2D1score=W |R2D1win=1
+|R2D2team=team forge |R2D2score=FF |R2D2win=
+|R2G2details={{BracketMatchSummary 
+|date=September 30, 2017 - 20:00 {{Abbr/CEST}}
+|twitch=pg esports |finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=37019
+|wl=
+}}
+}}
+
+==References==
+{{Reflist}}

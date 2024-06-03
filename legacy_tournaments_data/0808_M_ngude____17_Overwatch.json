@@ -1,0 +1,128 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/4}}",
+            "name": "M\u00e4ngude\u00d6\u00d6 '17 Overwatch",
+            "tickername": "",
+            "series": "",
+            "abbreviation": "",
+            "icon": "",
+            "image": "",
+            "organizer": "LEVEL1",
+            "organizer-link": "https://level1.ee/",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "Estonia",
+            "format": "",
+            "prizepoolusd": "1,080",
+            "prizepool": "1,000",
+            "localcurrency": "eur",
+            "sdate": "2017-04-08",
+            "edate": "2017-04-09",
+            "web": "https://www.toornament.com/tournaments/58e8160e140ba027108b459d/stages/1/",
+            "twitch": "level1ee",
+            "stream": "",
+            "youtube": "",
+            "team_number": "4"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Boom eSports",
+            "image": "BoomeSports.png",
+            "p1": "ZiCdaMASTA ",
+            "p1flag": "ee",
+            "p2": "Yoko",
+            "p2flag": "ee",
+            "p3": "Paandee",
+            "p3flag": "ee",
+            "p4": "midy ",
+            "p4flag": "ee",
+            "p5": "ThaPhoenix ",
+            "p5flag": "ee",
+            "p6": "Jannukaz ",
+            "p6flag": "ee",
+            "qualifier": "[[M\u00e4ngude\u00d6\u00d6 '17 Overwatch/Qualifiers|Qualifier]]"
+        },
+        {
+            "team": "PINK BOIZ",
+            "p1": "SoCute",
+            "p1flag": "ee",
+            "p2": "Krispolic",
+            "p2flag": "ee",
+            "p3": "Joker",
+            "p3flag": "ee",
+            "p3link": "Joker (Estonian player)",
+            "p4": "JareckNone",
+            "p4flag": "ee",
+            "p5": "P\u00e4ike",
+            "p5flag": "ee",
+            "p6": "DONDO",
+            "p6flag": "ee",
+            "qualifier": "[[M\u00e4ngude\u00d6\u00d6 '17 Overwatch/Qualifiers|Qualifier]]"
+        },
+        {
+            "team": "KappaPrideEE",
+            "p1": "Eldest ",
+            "p1flag": "ee",
+            "p2": "Sinche",
+            "p2flag": "ee",
+            "p3": "seep",
+            "p3flag": "ee",
+            "p4": "focus ",
+            "p4flag": "ee",
+            "p5": "tr0pical",
+            "p5flag": "ee",
+            "p6": "Chuffylol",
+            "p6flag": "ee",
+            "qualifier": "[[M\u00e4ngude\u00d6\u00d6 '17 Overwatch/Qualifiers|Qualifier]]"
+        },
+        {
+            "team": "Wortex Gaming",
+            "image": "Wortex Gaming Logo.png",
+            "p1": "Ramson",
+            "p1flag": "ee",
+            "p2": "ELFerinnO",
+            "p2flag": "ee",
+            "p3": "Eddy",
+            "p3flag": "ee",
+            "p4": "Virus",
+            "p4flag": "ee",
+            "p5": "Catman",
+            "p5flag": "ee",
+            "p6": "RuZy",
+            "p6flag": "ee",
+            "qualifier": "[[M\u00e4ngude\u00d6\u00d6 '17 Overwatch/Qualifiers|Qualifier]]"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "kappaprideee",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "boom esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "wortex gaming",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "boom esports",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "kappaprideee",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "pink boiz",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

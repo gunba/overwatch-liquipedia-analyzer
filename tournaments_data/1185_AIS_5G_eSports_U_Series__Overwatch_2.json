@@ -1,0 +1,791 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "AIS 5G eSports U Series: Overwatch 2",
+            "shortname": "AIS 5G eSports U Series",
+            "tickername": "AIS 5G eSports U Series",
+            "image": "",
+            "icon": "",
+            "organizer": "AIS Esports",
+            "organizer-link": "https://www.facebook.com/AiseSportsTournament",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Thailand",
+            "game": "overwatch2",
+            "prizepool": "32,000",
+            "localcurrency": "thb",
+            "sdate": "2023-05-19",
+            "edate": "2023-05-27",
+            "web": "https://aisesportsplatform.ais.co.th/tournament/detail/872",
+            "twitch": "AISeSports",
+            "youtube": "AISPLAYOfficial",
+            "facebook": "AiseSportsTournament",
+            "bracket": "https://aisesportsplatform.ais.co.th/tournament/detail/872",
+            "discord": "",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "CU 5s",
+            "p1": "Most",
+            "p1flag": "th",
+            "pos1": "",
+            "p2": "PN10",
+            "p2flag": "th",
+            "pos2": "",
+            "p3": "Celcea",
+            "p3flag": "th",
+            "pos3": "",
+            "p4": "DJKlaKung",
+            "p4flag": "th",
+            "pos4": "",
+            "p5": "Trier",
+            "p5flag": "th",
+            "pos5": "",
+            "p6": "SUPERTAP",
+            "p6flag": "th",
+            "pos6": "",
+            "p7": "Crazyoh",
+            "p7flag": "th",
+            "pos7": ""
+        },
+        {
+            "team": "DAF BU",
+            "p1": "Ace",
+            "p1flag": "th",
+            "pos1": "dps",
+            "p1link": "Ace (Thai player)",
+            "p2": "Kaopun",
+            "p2flag": "th",
+            "pos2": "dps",
+            "p3": "QueEn",
+            "p3flag": "th",
+            "pos3": "tank",
+            "p4": "Tartoruz",
+            "p4flag": "th",
+            "pos4": "tank",
+            "p5": "Fond",
+            "p5flag": "th",
+            "pos5": "sup",
+            "p6": "Q2Q",
+            "p6flag": "th",
+            "pos6": "sup"
+        },
+        {
+            "team": "TNH UTCC",
+            "p1": "satha",
+            "p1flag": "th",
+            "pos1": "",
+            "p2": "apoLiiZ",
+            "p2flag": "th",
+            "pos2": "",
+            "p3": "NATNATz",
+            "p3flag": "th",
+            "pos3": "",
+            "p4": "touLulouch",
+            "p4flag": "th",
+            "pos4": "",
+            "p5": "BBZX",
+            "p5flag": "th",
+            "pos5": ""
+        },
+        {
+            "team": "reduce reuse ecyce",
+            "p1": "Oxbello",
+            "p1flag": "th",
+            "pos1": "dps",
+            "p1link": "Bello",
+            "p2": "Metalicz",
+            "p2flag": "th",
+            "pos2": "dps",
+            "p3": "Kallbun",
+            "p3flag": "th",
+            "pos3": "tank",
+            "p4": "Galaewin",
+            "p4flag": "th",
+            "pos4": "sup",
+            "p5": "Pryme",
+            "p5flag": "th",
+            "pos5": "sup"
+        },
+        {
+            "team": "DSL_95cm.",
+            "p1": "Reverin",
+            "p1flag": "th",
+            "pos1": "",
+            "p2": "HaKaz",
+            "p2flag": "th",
+            "pos2": "",
+            "p3": "PromptTNP",
+            "p3flag": "th",
+            "pos3": "",
+            "p4": "Shiberger",
+            "p4flag": "th",
+            "pos4": "",
+            "p5": "NungBeam4K",
+            "p5flag": "th",
+            "pos5": "",
+            "p6": "\u0e04\u0e19\u0e2d\u0e35\u0e2a\u0e32\u0e19",
+            "p6flag": "th",
+            "pos6": "",
+            "p7": "Moji",
+            "p7flag": "th",
+            "pos7": ""
+        },
+        {
+            "team": "sandbag",
+            "p1": "MadLife",
+            "p1flag": "th",
+            "pos1": "",
+            "p2": "BuddyBEAR",
+            "p2flag": "th",
+            "pos2": "",
+            "p3": "PedMyinz",
+            "p3flag": "th",
+            "pos3": "",
+            "p4": "MHUWAAN",
+            "p4flag": "th",
+            "pos4": "",
+            "p5": "PinFall",
+            "p5flag": "th",
+            "pos5": "",
+            "p6": "Hohlheit",
+            "p6flag": "th",
+            "pos6": "",
+            "p7": "Sup00xxxy",
+            "p7flag": "th",
+            "pos7": ""
+        },
+        {
+            "team": "DEKMAHIDON",
+            "p1": "SAVEHOPE",
+            "p1flag": "th",
+            "pos1": "",
+            "p1link": "Hope (Thai player)",
+            "p2": "ppatpol",
+            "p2flag": "th",
+            "pos2": "",
+            "p3": "Joey5204",
+            "p3flag": "th",
+            "pos3": "",
+            "p4": "kiiiiii",
+            "p4flag": "th",
+            "pos4": "",
+            "p5": "Peterrrrrrrr",
+            "p5flag": "th",
+            "pos5": ""
+        },
+        {
+            "team": "TEAM KU",
+            "p1": "TheNoob",
+            "p1flag": "th",
+            "pos1": "",
+            "p2": "ColdOrginZ",
+            "p2flag": "th",
+            "pos2": "",
+            "p3": "Petrichor",
+            "p3flag": "th",
+            "pos3": "",
+            "p4": "Zyne",
+            "p4flag": "th",
+            "pos4": "",
+            "p5": "finn",
+            "p5flag": "th",
+            "pos5": "",
+            "p6": "Beliwe",
+            "p6flag": "th",
+            "pos6": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "opponent1": "daf bu",
+            "opponent1_score": 3,
+            "opponent2": "dekmahidon",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "DSL_95cm.",
+            "opponent1_score": 3,
+            "opponent2": "tnh utcc",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "reduce reuse ecyce",
+            "opponent1_score": 3,
+            "opponent2": "CU 5s",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "sandbag",
+            "opponent1_score": 0,
+            "opponent2": "team ku",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "daf bu",
+            "opponent1_score": 3,
+            "opponent2": "dsl_95cm.",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "reduce reuse ecyce",
+            "opponent1_score": 3,
+            "opponent2": "team ku",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "daf bu",
+            "opponent1_score": 0,
+            "opponent2": "reduce reuse ecyce",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "opponent1": "dekmahidon|score=W|walkover=1",
+            "opponent2": "TNH UTCC|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "opponent1": "CU 5s",
+            "opponent1_score": 3,
+            "opponent2": "sandbag",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "opponent1": "team ku",
+            "opponent1_score": 1,
+            "opponent2": "dekmahidon",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "dsl_95cm.",
+            "opponent1_score": 3,
+            "opponent2": "CU 5s",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "dekmahidon",
+            "opponent1_score": 3,
+            "opponent2": "dsl_95cm.",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "daf bu",
+            "opponent1_score": 3,
+            "opponent2": "dekmahidon",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "opponent1": "reduce reuse ecyce",
+            "opponent1_score": 4,
+            "opponent2": "daf bu",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

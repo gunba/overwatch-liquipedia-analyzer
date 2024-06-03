@@ -1,0 +1,131 @@
+{{DISPLAYTITLE:HyperX Esports Arena Overwatch 2 #4}}
+{{HyperX Esports Arena navbox}}
+{{Infobox league
+|liquipediatier=4|liquipediatiertype=Monthly
+|name=HyperX Esports Arena Overwatch 2 #4
+|shortname=Overwatch 2 4
+|tickername=HyperX Esports Arena Overwatch 2 #4
+|image=HyperX Esports Arena lightmode.png
+|imagedark=HyperX Esports Arena darkmode.png
+|organizer=Allied Esports
+|organizer-link=https://www.alliedesports.gg/
+|series=HyperX Esports Arena
+|abbreviation=HyperX
+|sponsor=
+|type=Offline
+|country=United States
+|city=Las Vegas
+|venue=[https://www.hyperxesportsarenalasvegas.com/ HyperX Esports Arena Las Vegas]
+|game=overwatch2
+|prizepoolusd=300
+|date=2023-01-22
+|twitter=
+|web=https://www.alliedesports.gg/
+|twitch=
+|twitch2=
+|discord=
+|youtube=
+|rulebook=https://www.start.gg/tournament/hyperx-arena-overwatch-2-4-1/event/overwatch-2/overview/rules
+|bracket=https://www.start.gg/tournament/hyperx-arena-overwatch-2-4-1/details
+|team_number=4
+|previous=HyperX Esports Arena/Overwatch 2/3{{!}}#3
+|next=HyperX Esports Arena/College Night: Recall/3{{!}}College Night #3
+}}
+
+==Information==
+===Format===
+*All matches are {{Abbr/Bo3}}
+
+==Prize Pool==
+{{TeamPrizePool
+|{{Slot|usdprize=200}}
+|{{Slot|usdprize=100}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=VT Sentinel Esports
+|p1=Spooky|p1flag=|pos1=
+|p2=Spirit|p2flag=us|pos2=|p2link=Spirit (American Player)
+|p3=NeonThief|p3flag=us|pos3=
+|p4=datRat|p4flag=us|pos4=
+|p5=Lockdown|p5flag=us|pos5=
+}}
+{{TeamCard
+|team=Play4Fun
+|p1=Sky5niper|p1flag=us|pos1=dps
+|p2=Syde|p2flag=us|pos2=dps
+|p3=TGISai|p3flag=us|pos3=tank
+|p4=Hutch|p4flag=us|pos4=sup
+|p5=xLATIAZx|p5flag=us|pos5=sup
+}}
+{{TeamCard
+|team=Random Encounter?
+|p1=Hue|p1flag=us|pos1=
+|p2=Archimedes|p2flag=us|pos2=
+|p3=Mankuku|p3flag=us|pos3=
+|p4=Theywantthenick|p4flag=us|pos4=
+|p5=riko|p5flag=us|pos5=
+}}
+{{TeamCard
+|team=Section Outcast
+|p1=JDN|p1flag=|pos1=
+|p2=BBDraco|p2flag=|pos2=
+|p3=Lime|p3flag=|pos3=|p3link=Lime (North American Player)
+|p4=Blackout|p4flag=|pos4=
+|p5=Severum|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/4U2L1D|id=iXSgw6MqXO
+
+<!-- Upper Bracket Semifinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=January 22, 2023 - 18:15 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|play4fun|score=2}}
+    |opponent2={{TeamOpponent|vt sentinel esports|score=0}}
+}}
+|R1M2={{Match
+    |date=January 22, 2023 - 18:15 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|random encounter?|score=2}}
+    |opponent2={{TeamOpponent|section outcast|score=0}}
+}}
+
+<!-- Upper Bracket Final -->
+|R2M1={{Match
+    |date=January 22, 2023 - 19:15 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|play4fun|score=2}}
+    |opponent2={{TeamOpponent|random encounter?|score=0}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R1M3={{Match
+    |date=January 22, 2023 - 19:15 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|vt sentinel esports|score=0}}
+    |opponent2={{TeamOpponent|section outcast|score=2}}
+}}
+
+<!-- Lower Bracket Final -->
+|R2M2={{Match
+    |date=January 22, 2023 - 20:15 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|random encounter?|score=2}}
+    |opponent2={{TeamOpponent|section outcast|score=0}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |date=January 22, 2023 - 21:15 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|play4fun|score=2}}
+    |opponent2={{TeamOpponent|random encounter?|score=0}}
+}}
+}}

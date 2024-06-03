@@ -1,0 +1,214 @@
+{
+    "tournament_info": [
+        {
+            "name": "CastersNest Minor Cup #1",
+            "shortname": "CastersNest Minor Cup #1",
+            "image": "CastersNest Community Cup logo.png",
+            "icon": "CastersNest Community Cup logo small.png",
+            "tickername": "CNMC #1",
+            "abbreviation": "CNMC",
+            "organizer": "CastersNest",
+            "organizer-link": "http://twitch.tv/castersnest",
+            "organizer2": "OverTown",
+            "organizer2-link": "https://discord.overtown.fr",
+            "sponsor": "[[HammerKick]]",
+            "series": "CastersNest Community Cup",
+            "type": "Online",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "prizepool": "240",
+            "localcurrency": "eur",
+            "date": "2019-09-28",
+            "liquipediatier": "5",
+            "twitch": "castersnest",
+            "twitch2": "wrightmediagroup",
+            "youtube": "castersnest",
+            "bracket": "https://www.toornament.com/fr/tournaments/2842633541257576448/information",
+            "rules": "https://docs.google.com/document/d/1tQ5gG6do08RxbEX9CYHjMPiDYH2i3dNyk-qrCx4DBrs/edit?usp=sharing",
+            "team_number": "19"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Ad Astra Per Aspera",
+            "p1": "Eli|pos1=dps",
+            "p2": "Linnou|pos2=dps",
+            "p3": "whitenoise|pos3=tank",
+            "p4": "Rayan|p4flag=fr|pos4=tank",
+            "p5": "ANJ|pos5=sup",
+            "p6": "l\u00fdna|p6flag=dk|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "illy|t2pos1=manager"
+        },
+        {
+            "team": "Celestial Dragons",
+            "p1": "SoaD|p1flag=|pos1=dps",
+            "p2": "Prime|p2flag=de|pos2=dps",
+            "p3": "Foenix|p3flag=fr|pos3=tank",
+            "p4": "Verbain|p4flag=fr|pos4=sup",
+            "p5": "Conventer|p5flag=pl|pos5=",
+            "p6": "S1ngle|p6flag=|pos6="
+        },
+        {
+            "team": "DEs NewGiants",
+            "p1": "Griff|p1flag=fr|pos1=tank",
+            "p2": "JazonTatane|p2flag=fr|pos2=tank",
+            "p3": "Nima\u00ebl|pos3=sup",
+            "p4": "Ora|p4flag=fr|pos4=sup",
+            "p5": "HydRosKY|p5flag=fr|pos5=",
+            "p6": "P\u00e9pito|p6flag=fr|pos6=",
+            "p7": "Mimo|p7flag=fr|pos7=",
+            "p8": "DJMugi|p8flag=fr|pos8=",
+            "p9": "Shadow_Fr|p9flag=fr|pos9="
+        },
+        {
+            "team": "GE AlterEgo",
+            "p1": "Yoriy|p1flag=fr|pos1=dps",
+            "p2": "Legend|p2flag=fr|pos2=dps",
+            "p3": "Arky|p3flag=fr|pos3=tank",
+            "p4": "Ayanador|p4flag=fr|pos4=tank",
+            "p5": "Krypton|p5flag=fr|pos5=sup",
+            "p6": "Thenox|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "GE Quantum",
+            "p1": "AiRox|p1flag=fr|pos1=dps",
+            "p2": "Ragnar|p2flag=fr|pos2=dps",
+            "p3": "Arzate|p3flag=fr|pos3=tank",
+            "p4": "Alexor|p4flag=fr|pos4=tank",
+            "p5": "NLK|p5flag=fr|pos5=sup",
+            "p6": "WinK|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "Grenouille Dindon \u00c9cureuil",
+            "p1": "Naga|pos1=dps",
+            "p2": "Yiqids|pos2=dps",
+            "p3": "kraandop|pos3=tank",
+            "p4": "KSAA|pos4=tank",
+            "p5": "Kaas|pos5=sup",
+            "p6": "MarieTh\u00e9r\u00e8se|p6flag=|pos6=sup"
+        },
+        {
+            "team": "Grow uP Esports",
+            "p1": "Pona|p1flag=pt|pos1=dps",
+            "p2": "Godarra|p2flag=pt|pos2=dps",
+            "p3": "Braven|p3flag=tr|pos3=dps",
+            "p4": "Lemonada|p4flag=pt|pos4=tank",
+            "p5": "GECKO|p5flag=nl|pos5=tank",
+            "p6": "Quiet|p6flag=pt|pos6=sup",
+            "p7": "Jaka|p7flag=br|pos7=sup"
+        },
+        {
+            "team": "Grow uP Esports Academy",
+            "p1": "Xenox3|p1flag=pt|pos1=dps",
+            "p2": "Werty|p2flag=pt|pos2=dps",
+            "p3": "Coelho|p3flag=ch|pos3=dps",
+            "p4": "Koala|p4flag=pt|pos4=tank",
+            "p5": "Boss|p5flag=pt|pos5=sup",
+            "p6": "Magical|p6flag=pt|pos6=sup",
+            "p7": "Ellie|p7flag=pt|pos7=sup",
+            "p8": "Mengas|p8flag=pt|pos8=sup"
+        },
+        {
+            "team": "Indignation",
+            "p1": "TAP|pos1=dps",
+            "p2": "Grathen|pos2=dps",
+            "p3": "Alex2704|pos3=tank",
+            "p4": "Shade|pos4=tank",
+            "p5": "Cenny|pos5=tank",
+            "p6": "Coomber|pos6=sup",
+            "p7": "Sucrax|pos7=sup"
+        },
+        {
+            "team": "Mind Your Manners",
+            "p1": "LittleFlame|pos1=dps",
+            "p2": "Foxygene|p2flag=fr|pos2=dps",
+            "p3": "Teemo|pos3=tank",
+            "p4": "MaZZeL|p4flag=nl|pos4=tank",
+            "p5": "ChesPops|p5flag=uk|pos5=sup",
+            "p6": "MVP|p6flag=es|pos6=sup|p6link=MVP (Spanish player)"
+        },
+        {
+            "team": "Nano Esports Academy",
+            "p1": "Frog|p1flag=|pos1=",
+            "p2": "Nano|p2flag=|pos2=|p2link=Nano (Unknown player)",
+            "p3": "Zest|p3flag=|pos3=|p3link=Zest (Unknown player)",
+            "p4": "MadaMada|p4flag=|pos4=",
+            "p5": "Driko|p5flag=|pos5=",
+            "p6": "Zen1th|p6flag=|pos6=",
+            "p7": "Danz|p7flag=|pos7="
+        },
+        {
+            "team": "New Moon",
+            "p1": "JPK|p1flag=fi|pos1=dps",
+            "p2": "Scyle|pos2=dps",
+            "p3": "Majjjster|p3flag=se|pos3=tank",
+            "p4": "Bcrowness|p4flag=ru|pos4=tank",
+            "p5": "Crow|p5flag=fr|pos5=sup|p5link=Crow (French player)",
+            "p6": "Futhark|p6flag=is|pos6=sup",
+            "p7": "Wutt |p7flag=|pos7=|p7link=Wutt (Unknown player)",
+            "p8": "Mike|p8flag=pt|pos8=|p8link=Mike (Portuguese player)"
+        },
+        {
+            "team": "Nocturnal Aspect",
+            "p1": "Backbone|pos1=dps",
+            "p2": "EDEN|p2flag=se|pos2=dps",
+            "p3": "Julo|pos3=tank",
+            "p4": "Brute|pos4=tank",
+            "p5": "Dolla|pos5=sup",
+            "p6": "Ruby|pos6=sup"
+        },
+        {
+            "team": "The Hustlers",
+            "p1": "Xoltan|p1flag=fr|pos1=dps",
+            "p2": "Pak|pos2=dps",
+            "p3": "OniBy|p3flag=fr|pos3=dps",
+            "p4": "Zeorm|p4flag=fr|pos4=tank",
+            "p5": "DUPLICAFLY|p5flag=fr|pos5=tank",
+            "p6": "Mizuki|p6flag=fr|pos6=sup|p6link=Mizuki (French player)",
+            "p7": "Appe|pos7=sup"
+        },
+        {
+            "team": "Triggered",
+            "p1": "Shazam|p1flag=|pos1=|p1link=Shazam (Unknown player)",
+            "p2": "Matylda|p2flag=|pos2=",
+            "p3": "Grabioul|p3flag=fr|pos3=tank",
+            "p4": "Xiaoh|p4flag=|pos4=",
+            "p5": "MisterPanda|p5flag=|pos5=",
+            "p6": "Twiqsz|p6flag=|pos6=",
+            "p7": "Corps2R\u00eave|p7flag=|pos7="
+        },
+        {
+            "team": "Vox Nihili",
+            "p1": "Lethal|pos1=dps",
+            "p2": "Zar0du|p2flag=ru|pos2=dps",
+            "p3": "MrAkiSlays2|p3flag=dk|pos3=tank",
+            "p4": "NKZ|pos4=tank",
+            "p5": "Nat|pos5=sup",
+            "p6": "Froakiedude|p6flag=uk|pos6=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "2019-09-28",
+            "opponent1": "{{TeamOpponent|Ad Astra Per Aspera|score=1}}",
+            "opponent2": "{{TeamOpponent|Grenouille Dindon \u00c9cureuil|score=3}}\n    }}",
+            "R1M2": "{{Match",
+            "R1M3": "{{Match",
+            "R1M4": "{{Match",
+            "R1M5": "{{Match",
+            "R1M6": "{{Match",
+            "R1M7": "{{Match",
+            "R1M8": "{{Match",
+            "R2M1": "{{Match",
+            "R2M2": "{{Match",
+            "R2M3": "{{Match",
+            "R2M4": "{{Match",
+            "R3M1": "{{Match",
+            "R3M2": "{{Match",
+            "R4M1": "{{Match",
+            "optional": "R1M1="
+        }
+    ]
+}

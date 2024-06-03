@@ -1,0 +1,660 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2",
+            "blizzardtier": "owc",
+            "series": "Overwatch Contenders",
+            "abbreviation": "OWC",
+            "shortname": "OWC 2022 SS: EU A-Sides",
+            "name": "Overwatch Contenders 2022 Summer Series: Europe A-Sides",
+            "tickername": "OWC 2022 SS: EU A-Sides",
+            "image": "Overwatch Contenders Summer Series A-Sides allmode.png",
+            "organizer": "Blizzard",
+            "organizer-link": "http://www.blizzard.com",
+            "sponsor": "",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Europe",
+            "format": "Double Elimination",
+            "prizepoolusd": "50,000",
+            "sdate": "2022-07-13",
+            "edate": "2022-07-29",
+            "web": "https://overwatchleague.com/en-us/contenders/",
+            "bracket": "",
+            "youtube": "overwatchcontenders",
+            "twitter": "owpathtopro",
+            "team_number": "8",
+            "previous": "Overwatch_Contenders/2021/Season 3/Europe {{!}} OWC 2021 Season 3",
+            "next": "Overwatch_Contenders/2022/Summer_Series/Europe/B-Sides {{!}} OWC 2022 SS B-Sides"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "July 25, 2022 - 17:00",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "opponent1": "The Ultimates",
+            "opponent2": "Team Peps",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "3",
+                "winner": "draw"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "91.46m",
+                "score2": "37.94m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "mvp": "Dolla",
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 25, 2022 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "opponent1": "01 Esports",
+            "opponent2": "GOATS (EU Team)",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "113.16m",
+                "score2": "76.56m",
+                "winner": "1"
+            },
+            "mvp": "Kraandop",
+            "optional": "R1M2="
+        },
+        {
+            "date": "July 25, 2022 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "opponent1": "Ex Oblivione",
+            "opponent2": "AWW YEAH",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "mvp": "Lethal",
+            "optional": "R1M3="
+        },
+        {
+            "date": "July 25, 2022 - 21:30",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "vod": "https://youtu.be/1RslHMVhxM0?t=278",
+            "opponent1": "Munich eSports",
+            "opponent2": "Anghells",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "105.81m",
+                "score2": "60.37m",
+                "winner": "1"
+            },
+            "mvp": "Lv1Crook",
+            "optional": "R1M4="
+        },
+        {
+            "date": "July 26, 2022 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "opponent1": "The Ultimates",
+            "opponent2": "01 Esports",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "mvp": "One",
+            "optional": "R2M1="
+        },
+        {
+            "date": "July 26, 2022 - 21:30",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "vod": "https://youtu.be/d-vQ-aRgKzA?t=267",
+            "opponent1": "Ex Oblivione",
+            "opponent2": "Munich eSports",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "121.34m",
+                "score2": "57.47m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "mvp": "TrqstMe",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "7",
+            "date": "July 29, 2022 - 16:30",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "opponent1": "01 Esports",
+            "opponent2": "Munich eSports",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "128.11m",
+                "score2": "2.89m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map6": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "July 26, 2022 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "opponent1": "Team Peps",
+            "opponent2": "GOATS (EU Team)",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "58.87m",
+                "score2": "102.27m",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "July 26, 2022 - 21:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "opponent1": "AWW YEAH",
+            "opponent1_score": 3,
+            "opponent2": "Anghells",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "July 27, 2022 - 21:30",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "opponent1": "Ex Oblivione",
+            "opponent2": "Team Peps",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "July 27, 2022 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "opponent1": "The Ultimates",
+            "opponent2": "AWW YEAH",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "July 28, 2022 - 18:00",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "opponent1": "Ex Oblivione",
+            "opponent2": "The Ultimates",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "bestof": "7",
+            "date": "July 29, 2022 - 17:00",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "opponent1": "01 esports|score=",
+            "opponent2": "Ex Oblivione|score=",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "73.49m",
+                "score2": "62.58m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "7",
+            "date": "July 29, 2022 - 19:00",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "vod": "https://youtu.be/5jY42ZuE9K8?t=873",
+            "opponent1": "Munich eSports",
+            "opponent2": "01 Esports",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "119.59m",
+                "score2": "57.18m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map6": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map7": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "102.97m",
+                "score2": "49.60m",
+                "winner": "1"
+            },
+            "optional": "R5M1="
+        },
+        {
+            "bestof": "7",
+            "date": "July 29, 2022 - 19:30",
+            "date_timezone": "CEST",
+            "youtube": "overwatchcontenders",
+            "opponent1": "",
+            "opponent2": "",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "RxMBR="
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "tournament_info": [],
+    "team_cards": [
+        {
+            "team": "Craggy Islanders",
+            "image": "Craggy_Islanders_Logo.png",
+            "p1": "FlexG  |p1flag=ie |p1link=FlexG |pos1=dps",
+            "p2": "Eoghann |p2flag=ie |pos2=dps",
+            "p3": "andy |p3flag=ie |pos3=tank|p3link=Andy Irish",
+            "p4": "Treelo |p4flag=ie |pos4=tank",
+            "p5": "Darwin |p5flag=ru |pos5=support",
+            "p6": "Nuda |p6flag=ie |pos6=support",
+            "qualifier": ""
+        },
+        {
+            "team": "Phelan Gaming",
+            "image": "Phelan_gaming_logo.png",
+            "p1": "FaithfulSoul|p1flag=ie |pos1=dps",
+            "p2": "CelticDemon|p2flag=ie |pos2=dps",
+            "p3": "Cookie |p3flag=ie |pos3=dps|p3link=Cookie (Irish player)",
+            "p4": "PureIrish |p4flag=ie |pos4=tank",
+            "p5": "Kielbasa |p5flag=ie |pos5=tank",
+            "p6": "SaikyouSensh |p6flag=ie |pos6=support",
+            "p7": "DarkSoulsPro |p7flag=ie |pos7=support",
+            "qualifier": ""
+        },
+        {
+            "team": "Flatearthers",
+            "image": "Flatearthers_logo.png",
+            "p1": "Twiz |p1flag=ie |pos1=dps",
+            "p2": "Gromidon |p2flag=nl |pos2=dps",
+            "p3": "Heli |p3flag=ie |pos3=support",
+            "p4": "Boxofrage|p4flag=uk |pos4=support",
+            "p5": "DPSMercy |p5flag=ie |pos5=tank",
+            "p6": "Vendetta |p6flag=ie |pos6=tank",
+            "p7": "Wackobako |p7flag=ie |pos7=tank",
+            "qualifier": ""
+        },
+        {
+            "team": "GOAT Hunters",
+            "image": "Goat_hunters_logo.png",
+            "p1": "SKIPAH |p1flag=fi |pos1=dps",
+            "p2": "NEXZ |p2flag=ie |pos2=dps",
+            "p3": "Infamous |p3flag=ie |pos3=tank|p3link=Infamous (Irish player)",
+            "p4": "Pain |p4flag=ie |pos4=tank",
+            "p5": "meapeze |p5flag=ie |pos5=support",
+            "p6": "Brokkie |p6flag=fi |pos6=support",
+            "qualifier": ""
+        },
+        {
+            "team": "The Dirty Scraps",
+            "image": "The_dirty_scraps_logo.jpg",
+            "p1": "Jayzzn |p1flag=ie |pos1=dps",
+            "p2": "Zerpherr |p2flag=ie |pos2=dps",
+            "p3": "RJOX |p3flag=ie |pos3=tank",
+            "p4": "Gbuz|p4flag=ie |pos4=tank",
+            "p5": "Gilesy |p5flag=ie |pos5=support",
+            "p6": "Myo |p6flag=ie |pos6=support",
+            "qualifier": ""
+        },
+        {
+            "team": "Dole Dynasty",
+            "image": "Dole_dynasty_logo.png",
+            "p1": "Nemasis |p1flag=ie |pos1=dps",
+            "p2": "MusicMBG |p2flag=ie |pos2=dps",
+            "p3": "Stuffy|p3flag=ie |pos3=tank",
+            "p4": "SilkySheeps|p4flag=ie |pos4=tank",
+            "p5": "Trekkie |p5flag=ie |pos5=support",
+            "p6": "Scally202|p6flag=ie |pos6=support",
+            "qualifier": ""
+        },
+        {
+            "team": "an cri\u00fa craice\u00e1ilte",
+            "image": "",
+            "p1": "TaZr |p1flag=ie |pos1=dps",
+            "p2": "\u043a\u043e\u043c\u043f\u043e\u0442 |p2flag=pl |pos2=dps",
+            "p3": "Unregistered |p3flag=ie |pos3=tank",
+            "p4": "Frostii|p4flag=ie |pos4=tank",
+            "p5": "Axis |p5flag=ie |pos5=support",
+            "p6": "Richy|p6flag=ie |pos6=support",
+            "qualifier": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "craggy islanders",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "an cri\u00fa craice\u00e1ilte",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "phelan gaming",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "the dirty scraps",
+            "score2": "",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "flatearthers",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "goat hunters",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "dole dynasty",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "phelan gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "craggy islanders",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "goat hunters",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "flatearthers",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "flatearthers",
+            "score2": "1",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "craggy islanders",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "an cri\u00fa craice\u00e1ilte",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "the dirty scraps",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D11",
+            "team1": "dole dynasty",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "an cri\u00fa craice\u00e1ilte",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "goat hunters",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "the dirty scraps",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D2",
+            "team1": "phelan gaming",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "phelan gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "goat hunters",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "craggy islanders",
+            "score2": "1",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "goat hunters",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "craggy islanders",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "flatearthers",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

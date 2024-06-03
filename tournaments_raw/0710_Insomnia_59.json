@@ -1,0 +1,255 @@
+{
+    "tournament_info": [
+        {
+            "name": "Insomnia59 Overwatch Open",
+            "shortname": "Insomnia59",
+            "image": "Insomnia 59.png",
+            "series": "Insomnia",
+            "abbreviation": "Insomnia",
+            "icon": "",
+            "organizer": "",
+            "organizer2": "",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "United Kingdom",
+            "city": "Birmingham",
+            "venue": "[https://en.wikipedia.org/wiki/National_Exhibition_Centre NEC Birmingham]",
+            "format": "PC",
+            "prizepool": "2,500",
+            "localcurrency": "gbp",
+            "prizepoolusd": "3,172",
+            "date": "",
+            "sdate": "2016-12-09",
+            "edate": "2016-12-11",
+            "liquipediatier": "4",
+            "web": "https://insomniagamingfestival.com/",
+            "stream": "",
+            "twitch": "",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "9",
+            "team1": "",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "map4": "",
+            "map5": "",
+            "map6": "",
+            "map7": "",
+            "map8": "",
+            "map9": "",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Elysium Gaming",
+            "p1": "Meadzzz |p1flag=uk",
+            "p2": "War_Spirit|p2flag=uk",
+            "p3": "Roon|p3flag=uk",
+            "p4": "Falkunn|p4flag=uk",
+            "p5": "Ginger|p5flag=uk",
+            "p6": "Lucifer|p6flag=uk",
+            "qualifier": ""
+        },
+        {
+            "team": "This Isn't League",
+            "p1": "Aphiren",
+            "p2": "avaeroh",
+            "p3": "Kriztya2288",
+            "p4": "Soju",
+            "p5": "deathjester",
+            "p6": "Zombie",
+            "qualifier": ""
+        },
+        {
+            "team": "TPO.eSports",
+            "p1": "hairy0tter",
+            "p2": "rektu",
+            "p3": "TerminatorUK",
+            "p4": "MCMjolnir",
+            "p5": "TheMutsNuts",
+            "p6": "TwoRounds",
+            "qualifier": ""
+        },
+        {
+            "team": "Get This Done",
+            "p1": "PostScript",
+            "p2": "Dox5",
+            "p3": "Pezzah",
+            "p4": "LiveNLetDie",
+            "p5": "Hazo",
+            "p6": "Xearo",
+            "qualifier": ""
+        },
+        {
+            "team": "SEACOWS",
+            "p1": "KingHoward",
+            "p2": "SirKnight",
+            "p3": "Angrywhiskrs",
+            "p4": "BigTuna",
+            "p5": "Tn6",
+            "p6": "Brammertron",
+            "qualifier": ""
+        },
+        {
+            "team": "Indecision",
+            "p1": "Goreface",
+            "p2": "ContactZero",
+            "p3": "OLLIEHD",
+            "p4": "Chin",
+            "p5": "GclWolf",
+            "p6": "JackDeKnight",
+            "qualifier": ""
+        },
+        {
+            "team": "FireFerrets",
+            "p1": "Stormie",
+            "p2": "Fitz",
+            "p3": "hoops",
+            "p4": "Vowe",
+            "p5": "Spud",
+            "p6": "Firestorm",
+            "qualifier": ""
+        },
+        {
+            "team": "Team Good",
+            "p1": "Ithin",
+            "p2": "Uzzle",
+            "p3": "KAKU",
+            "p4": "Hypercondor",
+            "p5": "Zetec",
+            "p6": "Kaladin",
+            "qualifier": ""
+        },
+        {
+            "team": "Free Agents",
+            "p1": "M0dernsaint",
+            "p2": "Zensationx",
+            "p3": "mitsunushi",
+            "p4": "AiEmpire",
+            "p5": "FL3XYY",
+            "p6": "Simolio",
+            "p7": "Skyshroud",
+            "p8": "Riott",
+            "qualifier": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|elysium gaming|score=W}}",
+            "opponent2": "{{TeamOpponent|}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R1M1="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|tpo.esports|score=o}}",
+            "opponent2": "{{TeamOpponent|fireferrets|score=2}}",
+            "winner": "2",
+            "stream": "",
+            "optional": "R1M2="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|get this done|score=2}}",
+            "opponent2": "{{TeamOpponent|team good|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R1M3="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|seacows|score=2}}",
+            "opponent2": "{{TeamOpponent|this isn't league|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R1M4="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|elysium gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|fireferrets|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R2M1="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|get this done|score=2}}",
+            "opponent2": "{{TeamOpponent|seacows|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R2M2="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|elysium gaming|score=3}}",
+            "opponent2": "{{TeamOpponent|get this done|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R4M1="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|tpo.esports|score=W}}",
+            "opponent2": "{{TeamOpponent|}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R1M5="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|this isn't league|score=2}}",
+            "opponent2": "{{TeamOpponent|team good|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R1M6="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|seacows|score=2}}",
+            "opponent2": "{{TeamOpponent|tpo.esports|score=1}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R2M3="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|fireferrets|score=2}}",
+            "opponent2": "{{TeamOpponent|this isn't league|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R2M4="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|seacows|score=0}}",
+            "opponent2": "{{TeamOpponent|fireferrets|score=2}}",
+            "winner": "2",
+            "stream": "",
+            "optional": "R3M1="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|get this done|score=3}}",
+            "opponent2": "{{TeamOpponent|fireferrets|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R4M2="
+        },
+        {
+            "date": "|finished=true",
+            "opponent1": "{{TeamOpponent|elysium gaming|score=3}}",
+            "opponent2": "{{TeamOpponent|get this done|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "optional": "R5M1="
+        }
+    ]
+}

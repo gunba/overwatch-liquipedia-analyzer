@@ -1,0 +1,278 @@
+{{DISPLAYTITLE:Tournoi des Pépites 5}}
+{{TdP Navbox}}
+{{Infobox league
+|liquipediatier=5
+|series=Tournoi des Pépites
+|shortname=TP #5
+|tickername=Tournoi des Pépites #5
+|name=Tournoi des Pépites 5
+|image=PepiteTournamentLogo.png
+|icon=PepiteTournamentIcone.png
+|organizer=Féfé
+|sponsor=
+|type=Online
+|country=France
+|twitch=fefegg
+|twitter=FelxGG
+|discord=RzAuzzc
+|prizepool=100
+|localcurrency=eur
+|prizepoolusd=123
+|date=2021-03-13
+|web=
+|rulebook=https://challonge.com/fr/pepitesV5
+|team_number=8
+|bracket=https://challonge.com/fr/pepitesV5
+|previous=Tournoi des Pépites/4 {{!}} #4
+|next=Tournoi des Pépites/6 {{!}} #6
+}}
+
+==About==
+
+The '''Tournoi des Pépites''' is a series of tournaments organized by [[Féfé]] . 
+
+===Broadcast Talent===
+====French Broadcast - on [https://www.twitch.tv/fefegg Féfé]====
+{{BroadcasterCard|lang=French
+|position=Commentator
+|b1=Féfé |b1flag=fr |b1name=Félix Munch
+|b2=Albless |b2flag=fr |b2name=Alban de la Grange
+}}
+
+==Prize Pool==
+{{prize pool start||localcurrency=eur|cutafter=4 }}
+{{prize pool slot|place=1 |usdprize=71|localprize=60|Les Seigneurs|lastvs1=|lastscore1=|lastvsscore1=}}
+{{prize pool slot|place=2 |usdprize=47|localprize=40|Team Couloir|lastvs1=|lastscore1=|lastvsscore1=}}
+{{prize pool slot|place=3 |usdprize=0|localprize=0|Délichoke|lastvs1=|lastscore1=|lastvsscore1=}}
+{{prize pool slot|place=4 |usdprize=0|localprize=0|académies des feuilles|lastvs1=|lastscore1=|lastvsscore1=}}
+{{prize pool slot|place=5-6 |usdprize=0|localprize=0
+|Prex Q Guys|lastvs1=|lastscore1=|lastvsscore1=
+|Pygargue Gaming|lastvs2=|lastscore2=|lastvsscore2=
+}}
+{{prize pool slot|place=7-8 |usdprize=0|localprize=0
+|Team Buvette|lastvs1=|lastscore1=|lastvsscore1=
+|Team Meringue|lastvs2=|lastscore2=|lastvsscore2=
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+
+{{TeamCard
+|team=Académie des Feuilles
+|image=
+|p1=Kittan |p1flag=fr|pos1=tank
+|p2=Zulck |p2flag=fr|pos2=tank
+|p3=Bluestorm |p3flag=fr|pos3=dps
+|p4=Xerion |p4flag=fr|pos4=dps
+|p5=Eudoxie |p5flag=fr|pos5=support
+|p6=Xzukay |p6flag=fr|pos6=support
+|c=|cflag=
+}}
+
+{{TeamCard
+|team=Team Buvette
+|image=
+|p1=V4L0U |p1flag=fr|pos1=tank
+|p2=saliGHO |p2flag=fr|pos2=tank 
+|p3=Pahda |p3flag=fr|pos3=dps
+|p4=Twinky |p4flag=kh|pos4=dps
+|p5=AnCaRioN |p5flag=fr|pos5=support
+|p6=Joce |p6flag=fr|pos6=support
+|c=|cflag=
+|c2=|c2flag=
+}}
+
+{{TeamCard
+|team=Team Meringue
+|image=
+|p1=Okita |p1flag=fr |pos1=tank
+|p2=Bravagor |p2flag=fr |pos2=tank
+|p3=ElectrO |p3flag=fr|pos3=tank
+|p4=Caftière |p4flag=fr|pos4=dps
+|p5=NicoOW |p5flag=fr|pos5=dps
+|p6=Cornicube |p6flag=fr|pos6=support
+|p7=Luneï |p7flag=fr|pos7=support
+|p8=Balthamos |p8flag=fr|pos8=support
+|c=|cflag=fr
+|c2=|c2flag=
+}}
+{{TeamCard
+|team=Pygargue Gaming
+|image=
+|p1=ReD |p1flag=fr |pos1=tank
+|p2=Storbold |p2flag=fr|pos2=tank
+|p3=Minerva |p3flag=fr|pos3=dps
+|p4=Fieldrain |p4flag=fr|pos4=dps
+|p5=Plapla |p5flag=fr|pos5=support
+|p6=Setsunai |p6flag=fr|pos6=support
+|c=|cflag=
+|c2=|c2flag=
+}}
+
+{{TeamCard
+|team=DéliChoke
+|image=
+|p1=Bastet |p1flag=fr |pos1=tank
+|p2=Muwa |p2flag=mn|pos2=tank
+|p3=SuuperLow |p3flag=fr|pos3=dps
+|p4=HammerKick |p4flag=fr|pos4=dps
+|p5=Azu |p5flag=fr|pos5=support
+|p6=RabZa |p6flag=dz|pos6=flex
+|p7=FTGUNGAN |p7flag=fr|pos7=flex
+|p8=Ninooo |p8flag=hu|pos8=flex
+|c=|cflag=
+|c2=|c2flag=
+}}
+{{TeamCard
+|team=Team Couloir
+|image=
+|p1=MBZ1 |p1flag=fr |pos1=tank
+|p2=SuperSaucise |p2flag=fr|pos2=tank
+|p3=Shadoxi |p3flag=fr|pos3=dps
+|p4=Hishibiki |p4flag=fr|pos4=dps
+|p5=Matriera |p5flag=fr|pos5=dps
+|p6=Lhine |p6flag=fr|pos6=support
+|p7=ShenZø |p7flag=md|pos7=flex
+|c=|cflag=
+|c2=|c2flag=
+}}
+
+{{TeamCard
+|team=Prex Q guys
+|image=
+|p1=Opaaxin |p1flag=fr |pos1=tank
+|p2=Nainjar |p2flag=fr|pos2=tank
+|p3=Kiwi |p3flag=fr|pos3=dps
+|p4=Lagoon |p4flag=fr|pos4=dps
+|p5=Naely |p5flag=fr|pos5=support
+|p6=Knaki |p6flag=fr|pos6=flex
+|c=|cflag=
+|c2=|c2flag=
+}}
+
+{{TeamCard
+|team=Les Seigneurs
+|image=
+|p1=TheSwordTime |p1flag=fr|pos1=tank
+|p2=Twinkle |p2flag=fr|pos2=tank
+|p3=Stellios |p3flag=fr|pos3=DPS
+|p4=Matster |p4flag=ch|pos4=DPS
+|p5=Gendow |p5flag=fr|pos5=Support
+|p6=WolfSilver |p6flag=fr|pos6=Support
+|c=|cflag=
+|c2=|c2flag=
+}}
+
+{{TeamCard columns end}}
+
+==Results==
+{{LegacyBracket|Bracket/8U4L2DSL1D|8DETeamBracket|type=team|id=0uwxeDIXtv
+<!-- QUARTERFINALS -->
+|R1D1team=académies des feuilles|R1D1score=0 |R1D1win=
+|R1D2team=délichoke|R1D2score=2 |R1D2win=1
+|R1G1details={{BracketMatchSummary
+|date=March 13, 2021 - 14:00 {{Abbr/CET}}
+|finished=true
+}}
+
+|R1D3team=les seigneurs|R1D3score=2 |R1D3win=1
+|R1D4team=team buvette|R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary
+|date=March 13, 2021 - 14:20 {{Abbr/CET}}
+|finished=true
+}}
+
+|R1D5team=prex q guys|R1D5score=0 |R1D5win=
+|R1D6team=team couloir|R1D6score=2 |R1D6win=1
+|R1G3details={{BracketMatchSummary
+|date=March 13, 2021 - 14:40 {{Abbr/CET}}
+|finished=true
+}}
+
+|R1D7team=team meringue|R1D7score=0 |R1D7win=
+|R1D8team=pygargue gaming|R1D8score=2 |R1D8win=1
+|R1G4details={{BracketMatchSummary
+|date=March 13, 2021 - 15:00 {{Abbr/CET}}
+|finished=true
+}}
+
+<!-- LOSER'S ROUND 1 -->
+|R1D9team=académies des feuilles |R1D9score=2 |R1D9win=1
+|R1D10team=team buvette |R1D10score=1 |R1D10win=
+|R1G5details={{BracketMatchSummary
+|date=March 13, 2021 - 15:20 {{Abbr/CET}}
+|finished=true
+}}
+
+|R1D11team=prex q guys |R1D11score=2 |R1D11win=1
+|R1D12team=team meringue |R1D12score=0 |R1D12win=
+|R1G6details={{BracketMatchSummary
+|date=March 13, 2021 - 15:40 {{Abbr/CET}}
+|finished=true
+}}
+
+<!-- SEMIFINALS -->
+|R2W1team=délichoke |R2W1score=2 |R2W1win=1
+|R2W2team=les seigneurs |R2W2score=0 |R2W2win=
+|R2G1details={{BracketMatchSummary
+|date=March 13, 2021 - 16:00 {{Abbr/CET}}
+|finished=true
+}}
+
+|R2W3team=team couloir |R2W3score=2 |R2W3win=1
+|R2W4team=pygargue gaming |R2W4score=0 |R2W4win=
+|R2G2details={{BracketMatchSummary
+|date=March 13, 2021 - 16:20 {{Abbr/CET}}
+|finished=true
+}}
+
+<!-- LOSER'S ROUND 2 -->
+|R2D1team=pygargue gaming |R2D1score=0 |R2D1win=
+|R2W5team=académies des feuilles |R2W5score=2 |R2W5win=1
+|R2G3details={{BracketMatchSummary
+|date=March 13, 2021 - 16:40 {{Abbr/CET}}
+|finished=true
+}}
+
+|R2D2team=les seigneurs |R2D2score=2 |R2D2win=1
+|R2W6team=prex q guys |R2W6score=0 |R2W6win=
+|R2G4details={{BracketMatchSummary
+|date=March 13, 2021 - 17:00 {{Abbr/CET}}
+|finished=true
+}}
+
+<!-- LOSER'S ROUND 3 -->
+|R3W1team=académies des feuilles |R3W1score=0 |R3W1win=
+|R3W2team=les seigneurs |R3W2score=2 |R3W2win=1
+|R3G1details={{BracketMatchSummary
+|date=March 13, 2021 - 17:20 {{Abbr/CET}}
+|finished=true
+}}
+
+<!-- WINNER'S FINALS -->
+|R4W1team=délichoke |R4W1score=1 |R4W1win=
+|R4W2team=team couloir |R4W2score=2 |R4W2win=1
+|R4G1details={{BracketMatchSummary
+|date=March 13, 2021 - 17:40 {{Abbr/CET}}
+|finished=true
+}}
+
+<!-- LOSER'S FINALS -->
+|R4D1team=délichoke |R4D1score=1 |R4D1win=
+|R4W3team=les seigneurs |R4W3score=2 |R4W3win=1
+|R4G2details={{BracketMatchSummary
+|date=March 13, 2021 - 18:00 {{Abbr/CET}}
+|finished=true
+}}
+
+<!-- GRAND FINALS -->
+|R5W1team=team couloir |R5W1score=1 |R5W1win=
+|R5W2team=les seigneurs |R5W2score=2 |R5W2win=1
+|R5G1details={{BracketMatchSummary
+|date=March 13, 2021 - 18:20 {{Abbr/CET}}
+|finished=true
+}}
+
+}}

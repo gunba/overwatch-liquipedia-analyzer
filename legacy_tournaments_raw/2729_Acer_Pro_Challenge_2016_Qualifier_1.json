@@ -1,0 +1,177 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "",
+            "name": "Acer Pro Challenge - Qualifier #1",
+            "image": "",
+            "icon": "",
+            "organizer": "Acer",
+            "organizer2": "aAa",
+            "sponsor": "",
+            "country": "Europe",
+            "type": "Online",
+            "format": "Single-Elimination Bracket",
+            "prizepool": "",
+            "prizepoolusd": "",
+            "date": "2016-06-20",
+            "challonge": "https://challonge.com/ACERPCOWQ1",
+            "web": "http://www.team-aaa.com/acerprochallenge-q1",
+            "twitch": "",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "14"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "EURONICS Gaming",
+            "p1": "sn0w |p1flag=",
+            "p2": "cYox |p2flag=de",
+            "p3": "Dashie |p3flag=fr",
+            "p4": "Zure |p4flag=de",
+            "p5": "Kreftiboy |p5flag=",
+            "p6": "cRRuSt |p6flag=ro"
+        },
+        {
+            "team": "BrOverwatch",
+            "p1": "AsuraxX |p1flag=fr",
+            "p2": "Jenkins |p2flag=fr",
+            "p3": "NarwaK |p3flag=fr",
+            "p4": "WhiTeFire |p4flag=fr",
+            "p5": "caRd |p5flag=fr",
+            "p6": "silo |p6flag=fr"
+        },
+        {
+            "team": "Team Grabuge",
+            "p1": "Monarck |p1flag=fr",
+            "p2": "moussa |p2flag=fr",
+            "p3": "Habadd0n |p3flag=fr",
+            "p4": "Inferna |p4flag=fr",
+            "p5": "LuCsY |p5flag=fr",
+            "p6": "baba0rhum |p6flag=fr"
+        },
+        {
+            "team": "Cr\u00eame fra\u00eeche",
+            "p1": "Donovan |p1flag=fr",
+            "p2": "Pukly |p2flag=fr",
+            "p3": "dreMzZ |p3flag=fr",
+            "p4": "Trylian |p4flag=fr",
+            "p5": "Likzy |p5flag=fr",
+            "p6": "Dryak |p6flag=fr"
+        },
+        {
+            "team": "Kabina ot Kamaza",
+            "p1": "unHuman |p1flag=ru",
+            "p2": "Arty |p2flag=ua",
+            "p3": "GunroX |p3flag=ua",
+            "p4": "Dikker |p4flag=ru",
+            "p5": "Godspeed |p5flag=ru",
+            "p6": "Neshh |p6flag=de"
+        },
+        {
+            "team": "JustChillin",
+            "p1": "Realzx |p1flag=fr",
+            "p2": "ePINDARY |p2flag=fr",
+            "p3": "pronic |p3flag=be",
+            "p4": "MVPbadger |p4flag=",
+            "p5": "WaterJoe |p5flag=",
+            "p6": "Balrogx |p6flag="
+        },
+        {
+            "team": "MACIVITY",
+            "p1": "Nipples |p1flag=fr",
+            "p2": "sabou |p2flag=fr",
+            "p3": "kenz |p3flag=fr",
+            "p4": "paaanz |p4flag=fr",
+            "p5": "Clubber |p5flag=se",
+            "p6": "TtehwOmbat |p6flag=fr"
+        },
+        {
+            "team": "faloufs",
+            "p1": "Cryogenian |p1flag=fr",
+            "p2": "Asox |p2flag=fr",
+            "p3": "jumbi |p3flag=fr",
+            "p4": "Chubzyo |p4flag=fr",
+            "p5": "WAAZ |p5flag=fr",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "team grabuge",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "broverwatch",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "faloufs",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "kabina ot kamaza",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "creme fraiche",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "euronics gaming orig",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "justchillin",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "macivity",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "kabina ot kamaza",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "broverwatch",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "justchillin",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "creme fraiche",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "creme fraiche",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "broverwatch",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

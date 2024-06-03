@@ -1,0 +1,170 @@
+{
+    "tournament_info": [
+        {
+            "name": "Grail Quest 2017",
+            "shortname": "Grail",
+            "image": "Grail_Quest_logo.png",
+            "icon": "Grail_Quest_logo.png",
+            "series": "",
+            "abbreviation": "",
+            "tickername": "",
+            "organizer": "Grail Quest",
+            "organizer-link": "https://www.grailquest.fi/",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "Finland",
+            "city": "Turku",
+            "format": "",
+            "game": "overwatch",
+            "prizepool": "",
+            "local": "1500",
+            "prizepoolusd": "1780",
+            "sdate": "2017-10-19",
+            "edate": "2017-10-20",
+            "liquipediatier": "{{TierText/3}}",
+            "web": "https://www.grailquest.fi/",
+            "twitter": "",
+            "bracket": "https://www.toornament.com/tournaments/834091769260761088/stages/837289126267355136/",
+            "teamfirst": "nyyrikki esports",
+            "teamsecond": "0-12",
+            "teamthird": "fcl menace",
+            "teamthird2": "",
+            "team_number": "8",
+            "next": "Grail_Quest/2018 {{!}} Grail Quest 2018"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "NYYRIKKI Esports",
+            "p1": "Astt |p1flag=fi|pos1=dps",
+            "p2": "OLBAA |p2flag=fi|pos2=dps",
+            "p3": "Zagaz |p3flag=fi|pos3=flex",
+            "p4": "twidi |p4flag=fi|pos4=tank",
+            "p5": "Masaa|p5flag=fi|pos5=sup",
+            "p6": "perry|p6flag=fi |pos6=sup"
+        },
+        {
+            "team": "FC Lahti Menace",
+            "p1": "Desperado|p1flag=fi|pos1=dps",
+            "p2": "Snoo|p2flag=fi |pos2=dps",
+            "p3": "Setlet|p3flag=fi |pos3=flex",
+            "p4": "xippeli |p4flag=fi|pos4=tank",
+            "p5": "FaRmaS |p5flag=fi|pos5=sup",
+            "p6": "dannyeL|p6flag=fi |pos6=sup",
+            "c": "Anatec|cflag=finland"
+        },
+        {
+            "team": "0-12",
+            "p1": "Kepa|p1flag=fi|pos1=dps",
+            "p2": "axu|p2flag=fi|pos2=flex",
+            "p3": "SKUIJKE|p3flag=fi|pos3=flex",
+            "p4": "LhCloudy|p4flag=fi|pos4=tank",
+            "p5": "Pave|p5flag=fi|pos5=sup",
+            "p6": "nNeco|p6flag=fi|pos6=sup"
+        },
+        {
+            "team": "MHD",
+            "p1": "Freni|p1flag=fi|pos1=dps",
+            "p2": "WEku|p2flag=fi|pos2=dps",
+            "p3": "xVestola|p3flag=fi|pos3=flex",
+            "p4": "Lepadef|p4flag=fi|pos4=tank",
+            "p5": "JoonasH|p5flag=fi|pos5=sup",
+            "p6": "J\u00f6nss\u00f6ni|p6flag=fi|pos6=sup"
+        },
+        {
+            "team": "Maansiirtofirma",
+            "p1": "Effix|p1flag=fi|pos1=dps",
+            "p2": "snade|p2flag=fi|pos2=dps",
+            "p3": "Dommels |p3flag=fi|pos3=flex",
+            "p4": "Ronba|p4flag=fi|pos4=tank",
+            "p5": "Snappe |p5flag=fi|pos5=sup",
+            "p6": "Eleanthas |p6flag=fi|pos6=sup"
+        },
+        {
+            "team": "Muovailuvahakerho",
+            "p1": "Fremy |p1flag=fi",
+            "p2": "Haxwaffels |p2flag=fi",
+            "p3": "Spugedius |p3flag=fi",
+            "p4": "Akke |p4flag=fi",
+            "p5": "Kexy |p5flag=fi",
+            "p6": "Multtari |p6flag=fi"
+        },
+        {
+            "team": "Turku Game Academy Polarity",
+            "link": "tga polarity",
+            "p1": "Mythic |p1flag=fi|",
+            "p2": "Frement |p2flag=fi|",
+            "p3": "Oksamies |p3flag=fi|",
+            "p4": "Cyanideankst |p4flag=fi|",
+            "p5": "Ulimamma|p5flag=fi|",
+            "p6": "Peacemaker |p6flag=fi|"
+        },
+        {
+            "team": "Turku Game Academy Exos",
+            "link": "tga exos",
+            "p1": "URL|p1flag=fi|",
+            "p2": "Welho|p2flag=fi|",
+            "p3": "Purppura |p3flag=fi|",
+            "p4": "DragonCore|p4flag=fi|",
+            "p5": "PopCorn |p5flag=fi|",
+            "p6": "RanHinen |p6flag=fi|"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "mhd",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "muovailuvahakerho",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "maansiirtofirma",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "0-12",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "mhd",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "nyyrikki esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "0-12",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D2",
+            "team1": "fc lahti menace",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "0-12",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "nyyrikki esports",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "mhd",
+            "score2": "0",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "fc lahti menace",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

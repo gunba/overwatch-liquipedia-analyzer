@@ -1,0 +1,476 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Semper Origin Tournament",
+            "shortname": "Semper Origin Tournament",
+            "tickername": "Semper Origin Tournament",
+            "icon": "",
+            "image": "Overwatch 2 Origin Tournament allmode.png",
+            "organizer": "Semper Community",
+            "series": "Semper Community",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Europe",
+            "format": "Double Elimination",
+            "game": "overwatch2",
+            "prizepool": "150",
+            "localcurrency": "eur",
+            "sdate": "2022-10-22",
+            "edate": "2022-10-23",
+            "twitter": "SemperCommunity",
+            "web": "https://semper-community.de/",
+            "twitch": "",
+            "twitch2": "",
+            "discord": "",
+            "youtube": "",
+            "rulebook": "https://docs.google.com/document/d/1xOCwW5gwFqzt91m919Gz9-TmnfjHlLW4cYDYra9zdp0/edit",
+            "bracket": "https://battlefy.com/semper-community/semper-origin-tournament/62e577cffcafd61f2863dad6/info?infoTab=schedule",
+            "team_number": "21"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Mind Goblin",
+            "p1": "Sardonyx",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "Juuzo",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "Condi",
+            "p3flag": "za",
+            "pos3": "dps",
+            "p4": "Theomatic",
+            "p4flag": "za",
+            "pos4": "tank",
+            "p5": "Tred",
+            "p5flag": "uk",
+            "pos5": "tank",
+            "p6": "Yoham",
+            "p6flag": "dk",
+            "pos6": "sup",
+            "p7": "Strebor",
+            "p7flag": "uk",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "S\u00f8eny",
+            "t2c1pos": "Manager",
+            "t2c2": "PnR",
+            "t2c2pos": "coach",
+            "t2c2flag": "sct",
+            "t2c3": "VisionPB",
+            "t2c3pos": "coach",
+            "t2c3flag": "uk"
+        },
+        {
+            "team": "Assa LoL",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Regen EU Academy",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "GermanQP",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Everfrost Ares",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Event Horizon",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "YS SMA",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "SOS Affenalarm",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "sos affenalarm",
+            "opponent1_score": 2,
+            "opponent2": "altera proxima",
+            "opponent2_score": 1,
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "the tokoloshis",
+            "opponent1_score": 0,
+            "opponent2": "wolfpack legion",
+            "opponent2_score": 2,
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "pulon esports",
+            "opponent1_score": 0,
+            "opponent2": "event horizon",
+            "opponent2_score": 2,
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "the sewers",
+            "opponent1_score": 0,
+            "opponent2": "gomonkeysombra",
+            "opponent2_score": 2,
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "overwatch goty valorant nothing",
+            "opponent1_score": 0,
+            "opponent2": "ys sma",
+            "opponent2_score": 2,
+            "optional": "R1M5="
+        },
+        {
+            "opponent1": "assa lol",
+            "opponent1_score": 2,
+            "opponent2": "sos affenalarm",
+            "opponent2_score": 0,
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "mind goblin",
+            "opponent1_score": 2,
+            "opponent2": "4 daddys und mottry",
+            "opponent2_score": 0,
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "skyward tempest",
+            "opponent1_score": 0,
+            "opponent2": "wolfpack legion",
+            "opponent2_score": 2,
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "habib's special forces",
+            "opponent1_score": 0,
+            "opponent2": "event horizon",
+            "opponent2_score": 2,
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "koratou",
+            "opponent1_score": 0,
+            "opponent2": "gomonkeysombra",
+            "opponent2_score": 2,
+            "optional": "R2M5="
+        },
+        {
+            "opponent1": "regen eu academy",
+            "opponent1_score": 2,
+            "opponent2": "centurions",
+            "opponent2_score": 0,
+            "optional": "R2M6="
+        },
+        {
+            "opponent1": "everfrost ares",
+            "opponent1_score": 2,
+            "opponent2": "ys sma",
+            "opponent2_score": 0,
+            "optional": "R2M7="
+        },
+        {
+            "opponent1": "maktz-land",
+            "opponent1_score": 0,
+            "opponent2": "germanqp",
+            "opponent2_score": 2,
+            "optional": "R2M8="
+        },
+        {
+            "opponent1": "assa lol",
+            "opponent1_score": 0,
+            "opponent2": "mind goblin",
+            "opponent2_score": 2,
+            "optional": "R4M1="
+        },
+        {
+            "opponent1": "wolfpack legion",
+            "opponent1_score": 0,
+            "opponent2": "event horizon",
+            "opponent2_score": 2,
+            "optional": "R4M2="
+        },
+        {
+            "opponent1": "gomonkeysombra",
+            "opponent1_score": 0,
+            "opponent2": "regen eu academy",
+            "opponent2_score": 2,
+            "optional": "R4M3="
+        },
+        {
+            "opponent1": "everfrost ares",
+            "opponent1_score": 2,
+            "opponent2": "germanqp",
+            "opponent2_score": 0,
+            "optional": "R4M4="
+        },
+        {
+            "opponent1": "mind goblin",
+            "opponent1_score": 2,
+            "opponent2": "event horizon",
+            "opponent2_score": 0,
+            "optional": "R6M1="
+        },
+        {
+            "opponent1": "regen eu academy",
+            "opponent1_score": 2,
+            "opponent2": "everfrost ares",
+            "opponent2_score": 0,
+            "optional": "R6M2="
+        },
+        {
+            "opponent1": "mind goblin",
+            "opponent1_score": 3,
+            "opponent2": "regen eu academy",
+            "opponent2_score": 0,
+            "optional": "R8M1="
+        },
+        {
+            "opponent1": "maktz-land",
+            "opponent1_score": 0,
+            "opponent2": "altera proxima",
+            "opponent2_score": 2,
+            "optional": "R2M9="
+        },
+        {
+            "opponent1": "centurions",
+            "opponent1_score": 2,
+            "opponent2": "the tokoloshis",
+            "opponent2_score": 0,
+            "optional": "R2M10="
+        },
+        {
+            "opponent1": "koratou",
+            "opponent1_score": 2,
+            "opponent2": "pulon esports",
+            "opponent2_score": 0,
+            "optional": "R2M11="
+        },
+        {
+            "opponent1": "habib's special forces",
+            "opponent1_score": 0,
+            "opponent2": "the sewers",
+            "opponent2_score": 2,
+            "optional": "R2M12="
+        },
+        {
+            "opponent1": "4 daddys und mottry",
+            "opponent1_score": 2,
+            "opponent2": "overwatch goty valorant nothing",
+            "opponent2_score": 0,
+            "optional": "R2M13="
+        },
+        {
+            "opponent1": "altera proxima",
+            "opponent1_score": 0,
+            "opponent2": "ys sma",
+            "opponent2_score": 2,
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "centurions",
+            "opponent1_score": 2,
+            "opponent2": "koratou",
+            "opponent2_score": 0,
+            "optional": "R3M2="
+        },
+        {
+            "opponent1": "the sewers",
+            "opponent1_score": 0,
+            "opponent2": "skyward tempest",
+            "opponent2_score": 2,
+            "optional": "R3M3="
+        },
+        {
+            "opponent1": "4 daddys und mottry",
+            "opponent1_score": 0,
+            "opponent2": "sos affenalarm",
+            "opponent2_score": 2,
+            "optional": "R3M4="
+        },
+        {
+            "opponent1": "wolfpack legion",
+            "opponent1_score": 0,
+            "opponent2": "ys sma",
+            "opponent2_score": 2,
+            "optional": "R4M5="
+        },
+        {
+            "opponent1": "assa lol",
+            "opponent1_score": 2,
+            "opponent2": "centurions",
+            "opponent2_score": 0,
+            "optional": "R4M6="
+        },
+        {
+            "opponent1": "germanqp",
+            "opponent1_score": 2,
+            "opponent2": "skyward tempest",
+            "opponent2_score": 0,
+            "optional": "R4M7="
+        },
+        {
+            "opponent1": "gomonkeysombra",
+            "opponent1_score": 0,
+            "opponent2": "sos affenalarm",
+            "opponent2_score": 2,
+            "optional": "R4M8="
+        },
+        {
+            "opponent1": "ys sma",
+            "opponent1_score": 0,
+            "opponent2": "assa lol",
+            "opponent2_score": 2,
+            "optional": "R5M1="
+        },
+        {
+            "opponent1": "germanqp",
+            "opponent1_score": 2,
+            "opponent2": "sos affenalarm",
+            "opponent2_score": 0,
+            "optional": "R5M2="
+        },
+        {
+            "opponent1": "everfrost ares",
+            "opponent1_score": 0,
+            "opponent2": "assa lol",
+            "opponent2_score": 2,
+            "optional": "R6M3="
+        },
+        {
+            "opponent1": "event horizon",
+            "opponent1_score": 0,
+            "opponent2": "germanqp",
+            "opponent2_score": 2,
+            "optional": "R6M4="
+        },
+        {
+            "opponent1": "assa lol",
+            "opponent1_score": 2,
+            "opponent2": "germanqp",
+            "opponent2_score": 1,
+            "optional": "R7M1="
+        },
+        {
+            "opponent1": "regen eu academy",
+            "opponent1_score": 2,
+            "opponent2": "assa lol",
+            "opponent2_score": 3,
+            "optional": "R8M2="
+        },
+        {
+            "opponent1": "mind goblin",
+            "opponent1_score": 3,
+            "opponent2": "assa lol",
+            "opponent2_score": 0,
+            "optional": "R9M1="
+        }
+    ]
+}

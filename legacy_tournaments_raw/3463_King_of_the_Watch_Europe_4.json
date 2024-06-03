@@ -1,0 +1,62 @@
+{
+    "tournament_info": [
+        {
+            "name": "King of the Watch Europe #4",
+            "image": "",
+            "series": "King of the Watch",
+            "organizer": "Creation eSports",
+            "country": "Europe",
+            "format": "Showmatch",
+            "type": "Online",
+            "date": "2016-03-11",
+            "prizepoolusd": "158",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "twitch": "creationesports",
+            "twitch2": "",
+            "bracket": "",
+            "teamfirst": "iddqd",
+            "teamsecond": "flatearth",
+            "team_number": "2",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "previous": "King_of_the_Watch/Europe/3{{!}}#3"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "IDDQD",
+            "image": "",
+            "size": "",
+            "p1": "cocco |p1flag=se",
+            "p2": "chipshajen |p2flag=se",
+            "p3": "TviQ |p3flag=se",
+            "p4": "Mendokusaii |p4flag=se",
+            "p5": "INTERNETHULK |p5flag=de",
+            "p6": "HarryHook |p6flag=es"
+        },
+        {
+            "team": "FlatEarth",
+            "image": "",
+            "size": "",
+            "p1": "art1er |p1flag=de",
+            "p2": "Vonethil |p2flag=se",
+            "p3": "BromaS |p3flag=es",
+            "p4": "Kryw |p4flag=fr",
+            "p5": "Draceus |p5flag=se",
+            "p6": "LiNkz |p6flag=fi"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "flatearth",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "iddqd",
+            "score1": "4",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

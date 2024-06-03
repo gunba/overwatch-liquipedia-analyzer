@@ -1,0 +1,299 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/5}}",
+            "abbreviation": "",
+            "series": "",
+            "name": "UCLA Esports Summer Invitational",
+            "shortname": "UCLA Esports Summer Invitational",
+            "tickername": "UCLA Esports Summer Invitational",
+            "icon": "UCLA Esports allmode.png",
+            "image": "UCLA Esports allmode.png",
+            "organizer": "UCLA Esports",
+            "sponsor": "[[Evil Geniuses]]<br>[https://www.razer.com/ Razer]",
+            "type": "Online",
+            "country": "United States",
+            "city": "",
+            "venue": "",
+            "format": "Double elimination",
+            "prizepoolusd": "250",
+            "sdate": "2020-08-22",
+            "edate": "2020-08-23",
+            "twitter": "uclaesports",
+            "web": "",
+            "twitch": "uclaesports",
+            "discord": "",
+            "youtube": "",
+            "rulebook": "",
+            "bracket": "https://challonge.com/uclae_summer_ow",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "UCI Esports",
+            "p1": "Fade |p1flag=|pos1=dps",
+            "p2": "Danichee |p2flag=|pos2=dps",
+            "p3": "AGO |p3flag=|pos3=tank",
+            "p4": "Stadium |p4flag=|pos4=tank",
+            "p5": "Saffrona |p5flag=|pos5=sup",
+            "p6": "Helljudge |p6flag=|pos6=sup",
+            "qualifier": "University of California, Irvine"
+        },
+        {
+            "team": "University of Hawaii",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "University of Hawai\u02bbi at M\u0101noa"
+        },
+        {
+            "team": "UCSC",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "University of California, Santa Cruz"
+        },
+        {
+            "team": "UCSD Varsity Overwatch",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "Hing3d |p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "University of California, San Diego"
+        },
+        {
+            "team": "Highlander Gaming",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "University of California, Riverside"
+        },
+        {
+            "team": "Cal Poly Pomona",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "California State Polytechnic University, Pomona"
+        },
+        {
+            "team": "UCLA Esports",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "University of California, Los Angeles"
+        },
+        {
+            "team": "Ohio Northern",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "Ohio Northern University"
+        },
+        {
+            "team": "Purdue Gold",
+            "p1": "Kfcfingrlick |p1flag=|pos1=dps",
+            "p2": "Metbo |p2flag=|pos2=dps",
+            "p3": "Nixxon |p3flag=|pos3=tank",
+            "p4": "Rown |p4flag=|pos4=tank",
+            "p5": "Brazeit |p5flag=|pos5=sup",
+            "p6": "Ethansky |p6flag=|pos6=sup",
+            "qualifier": "Purdue University"
+        },
+        {
+            "team": "CSUN Matadors",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "California State University, Northridge"
+        },
+        {
+            "team": "CSU Fullerton",
+            "p1": "Digiflex |p1flag=|pos1=dps",
+            "p2": "Carefulman |p2flag=|pos2=dps",
+            "p3": "Carrot |p3flag=|pos3=tank",
+            "p4": "Nemesis |p4flag=|pos4=tank",
+            "p5": "Nurdoz |p5flag=|pos5=sup",
+            "p6": "Skyxcharm |p6flag=|pos6=sup",
+            "qualifier": "California State University, Fullerton"
+        },
+        {
+            "team": "USC Esports",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "University of Southern California"
+        },
+        {
+            "team": "UT Dallas Comets",
+            "p1": "Freed0m |p1flag=us|pos1=dps",
+            "p2": "STAS1S |p2flag=us|pos2=dps",
+            "p3": "Jukebox |p3flag=us|pos3=flex",
+            "p4": "Lueyyy |p4flag=us|pos4=tank",
+            "p5": "Boostikaka |p5flag=us|pos5=sup",
+            "p6": "Kinetic |p6flag=us|pos6=sup",
+            "qualifier": "University of Texas at Dallas"
+        },
+        {
+            "team": "SDSU Esports",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "Hubert|p3flag=mx|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "San Diego State University"
+        },
+        {
+            "team": "Michigan Esports",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "University of Michigan"
+        },
+        {
+            "team": "CSU Esports",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "Colorado State University"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "csu esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "uci esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "csu esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "uci esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ut dallas comets",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "uci esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ut dallas comets",
+            "score2": "0",
+            "win2": "",
+            "key": "R6W1",
+            "team1": "uci esports",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "michigan esports",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D17",
+            "team1": "university of hawaii",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "sdsu esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "csu esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ucsc",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "university of hawaii",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "highlander gaming",
+            "score2": "1",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "ucla esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "purdue gold",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "ucla esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ucla esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R6D1",
+            "team1": "ut dallas comets",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "ut dallas comets",
+            "score2": "0",
+            "win2": "",
+            "key": "R7W1",
+            "team1": "uci esports",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

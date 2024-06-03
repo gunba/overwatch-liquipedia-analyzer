@@ -1,0 +1,248 @@
+{{DISPLAYTITLE:Overwatch DACH Series Season 2}}{{DACH Navbox}}
+{{tabs static
+|name1=Overview|link1=Overwatch DACH Series/Season 2
+|name2=Group Stage|link2=Overwatch DACH Series/Season 2/Group Stage
+|name3=Playoffs|link3=Overwatch DACH Series/Season 2/Playoffs
+|This=1
+}}
+{{Infobox league
+|name=Overwatch DACH Series Season 2
+|shortname=ODS S2
+|tickername=ODS S2
+|image=DACH_esports_stern.png
+|icon=DACH_esports_stern_small.png
+|organizer=DACH eSports
+|country=Germany
+|city=Düsseldorf
+|series=Overwatch DACH Series
+|abbreviation=ODS
+|type=Offline
+|format='''Group Stage''':<br>Round Robin<br>'''Playoffs''':<br>Single Elimination<br>
+|prizepoolusd=501
+|sdate=2020-03-07
+|edate=2020-05-24
+|liquipediatier={{TierText/5}}
+|web=https://dach-esports.de
+|twitch=dachesports
+|youtube=channel/UCepdqWBSD5JEM1uyqN7AgTQ
+|team_number=8
+|bracket=https://dach-esports.de/standings
+|rulebook=https://cdn.discordapp.com/attachments/487283165627678720/689159852647383048/Regelwerk_Dach_eSports_Series_Academy.pdf
+|teamfirst=hsr panthera
+|teamsecond=north-west narwhals
+|teamthird=bayern apex
+|previous=ODS S1
+|next=DoKomi 2020
+}}
+
+==About==
+
+The '''Overwatch DACH Series''' is the official league of DACH eSports. Eight Teams representing regions from Germany, Austria and Switzerland will compete against each other.
+
+Due to Covid-19 concerns the Playoffs, planned to be held at DoKomi 2020 in Düsseldorf, had to be moved online. As a result of the situation the prizepool had to be crowdfunded. As of May 10th, this accumulated to over 400€<ref>{{cite web|url=https://twitter.com/dachesports/status/1259513810446147585|title=Spendenstand Prizepool|date=2020-05-10|publisher=DACH eSports}}</ref>.
+
+==Format==
+
+*'''Group Stage''':
+**Each team will play every other team once in a '''Round Robin''' style league.
+**Every match will be '''first to 3'''. The first map will be decided by the organizers before the match, every following map is the choice of the previous map's loser.
+**Standings tiebreakers:
+***Number of match wins
+***Cumulative map differential
+***Number of map wins
+***Direct match result
+*'''Playoffs''':
+**The top four teams of the group stage will qualify for the '''finals'''.
+**Playoffs will consist of a '''Single-Elimination Bracket'''.
+**The Semifinals and the 3rd-place match will be '''first to 3''', the Grand Finale will be '''first to 4'''.
+
+==Broadcast Talent==
+{{box|start|padding=1em}}
+{{BroadcasterCard|lang=German
+|position=Host
+|b1=Ultimett|b1name=Lukas Niewald|b1flag=de
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard|lang=German
+|position=Commentator
+|b1=Darman|b1name=Daniel Kentsch|b1flag=de
+|b2=F1r3wall
+|b3=JLEPS|b3name=Jakob Schwinn|b3flag=de
+|b4=Mytex|b4name=Felix Doege|b4flag=de
+|b5=Quietscheduck|b5name=Jan Franke|b5flag=de
+|b6=TheGG2|b6name=Sascha Staib|b6flag=ch
+|b7=TheOlimancer|b7name=Olivier Putz|b7flag=de
+|b8=Zarin|b8name=Matthias Philippi|b8flag=de
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard|lang=German
+|position=Observer
+|b1=Adryanmonk|b1name=Adrian Mayer|b1flag=de
+|b2=Cinzya|b2name=Cynthia Ebert|b2flag=de
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard|lang=German
+|position=Project Manager
+|b1=Shadow|b1name=Patrick Nierling|b1flag=de
+}}
+{{box|end}}
+
+==Prize Pool==
+€450 {{Abbr/EUR}} (≈ $501 {{Abbr/USD}}) are spread among the teams as seen below: 
+{{prize pool start|localcurrency=eur|prizepool=450}}
+{{prize pool slot|place=1|usdprize=223|localprize=200|hsr panthera|lastvs1=north-west narwhals|lastscore1=4|lastvsscore1=0|date1=May 24, 2020}}
+{{prize pool slot|place=2|usdprize=133|localprize=120|north-west narwhals|lastvs1=hsr panthera|lastscore1=0|lastvsscore1=4|date1=May 24, 2020}}
+{{prize pool slot|place=3|usdprize=89|localprize=80|bayern apex|lastvs1=nrw invictus|lastscore1=3|lastvsscore1=2|date1=May 24, 2020}}
+{{prize pool slot|place=4|usdprize=55|localprize=50|nrw invictus|lastvs1=bayern apex|lastscore1=2|lastvsscore1=3|date1=May 24, 2020}}
+{{prize pool slot|place=5|usdprize=0|localprize=0|northern lights german|wdl1=3/-/4}}
+{{prize pool slot|place=6|usdprize=0|localprize=0|alps nemesis|wdl1=2/-/5}}
+{{prize pool slot|place=7|usdprize=0|localprize=0|eastern awakening|wdl1=1/-/6}}
+{{prize pool slot|place=8|usdprize=0|localprize=0|black forest crusaders|wdl1=1/-/6}}
+{{prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start}}
+{{TeamCard
+|team=Alps Nemesis
+|image=AlpsNemesisS2.png
+|p1=Binary|p1flag=at|pos1=tank
+|p2=Shark|p2flag=ch|pos2=tank
+|p3=Mistral|p3flag=ch|pos3=tank
+|p4=Fav|p4flag=at|pos4=dps
+|p5=Immanuel|p5flag=at|pos5=dps
+|p6=Sentix|p6flag=at|pos6=dps
+|p7=Levitate|p7flag=at|pos7=sup
+|p8=Saltmines|p8flag=at|pos8=sup
+|p9=Oca|p9flag=at|pos9=sup
+|p10=CrzY|p10flag=at|pos10=flex
+|p11=Crx|p11flag=at|pos11=flex
+|p12=Donell|p12flag=at|pos12=flex
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Bayern Apex
+|image=BayernApexS2.png
+|p1=EgZo|p1flag=de|pos1=tank
+|p2=Moose|pos2=tank
+|p3=rauanov|p3flag=de|pos3=tank
+|p4=Simi|p4flag=de|pos4=flex
+|p5=xappy|p5flag=de|pos5=flex
+|p6=SSK|p6flag=de|pos6=dps
+|p7=Darco|p7link=DarcoLeaks|p7flag=de|pos7=dps
+|p8=Riot|p8flag=de|pos8=dps
+|p9=Golden|p9flag=de|pos9=dps
+|p10=Awzey|p10flag=de|pos10=sup
+|p11=P0ndaa|p11flag=de|pos11=sup
+|p12=Fayman|p12flag=de|pos12=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Black Forest Crusaders
+|image=BlackForestCrusaders.png
+|p1=M_Faction|p1flag=de|pos1=tank
+|p2=Haikun|p2flag=de|pos2=tank
+|p3=Poyizon|p3flag=de|pos3=tank
+|p4=BeniSama|p4flag=de|pos4=tank
+|p5=Kozac|p5flag=de|pos5=dps
+|p6=airbone1337|p6flag=de|pos6=dps
+|p7=Fishy|p7flag=de|pos7=sup
+|p8=Raphael|p8flag=de|pos8=sup|p8link=Raphael (German Player)
+|p9=Hunter|p9flag=de|pos9=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Eastern Awakening
+|image=EasternAwakening.png
+|p1=Slan|p1flag=de|pos1=tank
+|p2=FJorzik|p2flag=de|pos2=tank
+|p3=Dacron|p3flag=de|pos3=tank
+|p4=Killrog|p4flag=de|pos4=dps
+|p5=Rad0n|p5flag=de|pos5=dps
+|p6=Scrux|p6flag=de|pos6=dps
+|p7=Predo|p7flag=de|pos7=sup
+|p8=Jutis|p8flag=de|pos8=sup
+|p9=Conrad|p9flag=de|pos9=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=HSR Panthera
+|image=HSRS2.png
+|p1=Cookie|p1flag=de|pos1=tank
+|p2=Hitori|p2flag=de|pos2=tank
+|p3=Tschosch|p3flag=de|pos3=tank
+|p4=LastJustice|p4flag=de|pos4=tank
+|p5=ediz|p5flag=de|pos5=dps
+|p6=LVN|p6flag=de|pos6=dps
+|p7=Kaid|p7flag=de|pos7=dps
+|p8=Jäger|p8flag=de|pos8=dps
+|p9=rephid|p9flag=de|pos9=sup
+|p10=Tehsu|p10flag=de|pos10=sup
+|p11=RK|p11flag=de|pos11=sup
+|p12=JohnBishop|p12flag=de|pos12=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=North-West Narwhals
+|image=NarwhalsS2.png
+|p1=Royal|p1flag=de|pos1=tank
+|p2=Nacht|p2flag=de|pos2=tank
+|p3=Achselhaar|p3flag=de|pos3=tank
+|p4=IgniteTheSky|p4flag=de|pos4=dps
+|p5=Cabz|p5flag=de|pos5=dps
+|p6=Neris|p6flag=de|pos6=dps
+|p7=mace|p7flag=de|pos7=dps
+|p8=BattleAxe|p8flag=de|pos8=sup
+|p9=Miaow|p9flag=de|pos9=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Northern Lights
+|image=Northern_Lights.png
+|p1=Damien|p1flag=de|pos1=tank
+|p2=Massith|p2flag=de|pos2=tank
+|p3=MightyMag|p3flag=de|pos3=tank
+|p4=Vinnie|p4flag=de|pos4=dps
+|p5=Ossiger|p5flag=de|pos5=dps
+|p6=Peike|p6flag=de|pos6=dps
+|p7=Spike|p7flag=de|pos7=dps
+|p8=fuji|p8flag=de|pos8=dps
+|p9=Lubudubudu|p9flag=de|pos9=dps
+|p10=Keksbla|p10flag=de|pos10=sup
+|p11=Niro|p11flag=de|pos11=sup
+|c=Naru|cflag=de
+|c2=Taint|c2flag=de
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NRW Invictus
+|image=NRWInvictus.png
+|p1=Noserino|p1flag=de|pos1=tank
+|p2=LosAfghanos|p2flag=de|pos2=tank
+|p3=ellominati|p3flag=de|pos3=tank
+|p4=McFawkes|p4flag=de|pos4=tank
+|p5=Keks|p5flag=de|pos5=dps
+|p6=Swalees|p6flag=de|pos6=dps
+|p7=Lutu|pos7=dps
+|p8=Neos|p8flag=de|pos8=dps
+|p9=LucaEnrico|p9flag=de|pos9=sup
+|p10=Gerry|p10flag=de|pos10=sup
+|p11=freexfly|p11flag=de|pos11=sup
+|p12=Thunder|p12flag=de|pos12=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+
+{{box|start|padding=2em}}
+<noinclude>===Standings===</noinclude>
+{{#lst:Overwatch DACH Series/Season 2/Group_Stage|Standings}}
+:''[[Overwatch DACH Series/Season 2/Group_Stage|See all Regular Season match results here]]''
+{{box|break|padding=2em}}
+
+<noinclude>===Match Overview===</noinclude>
+{{#lst:Overwatch DACH Series/Season 2/Group_Stage|Match Overview}}
+{{box|end|padding=2em}}
+
+===Playoffs===
+{{#lst:Overwatch DACH Series/Season 2/Playoffs|Playoffs}}

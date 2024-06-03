@@ -1,0 +1,113 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch Portugal Beta Cup",
+            "image": "Betac_(1).png",
+            "series": "",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "type": "Online",
+            "country": "Portugal",
+            "date": "2016-05-07",
+            "prizepool": "120",
+            "localcurrency": "eur",
+            "prizepoolusd": "137",
+            "game": "ow",
+            "beta": "true",
+            "twitch": "san_alexx",
+            "liquipediatier": "{{TierText/4}}",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Eyeoctane",
+            "image": "Eyeoctane logo.png",
+            "size": "",
+            "p1": "san alex |p1flag=pt",
+            "p2": "k3 |p2flag=pt",
+            "p3": "Lampreia |p3flag=pt",
+            "p4": "Gyken |p4flag=pt",
+            "p5": "xtl |p5flag=pt",
+            "p6": "GizmomcS |p6flag=pt"
+        },
+        {
+            "team": "Oikos eSports",
+            "image": "Oikos e-Sports logo.jpg",
+            "size": "",
+            "p1": "didex |p1flag=pt",
+            "p2": "kiler4fun |p2flag=pt",
+            "p3": "stuntz |p3flag=pt",
+            "p4": "skyeruo |p4flag=pt",
+            "p5": "enz0 |p5flag=pt",
+            "p6": "duffman |p6flag=pt"
+        },
+        {
+            "team": "Famous Star eSports",
+            "image": "Famous Star e-Sports logo.jpg",
+            "size": "",
+            "p1": "Gon\u00e7alo |p1flag=pt",
+            "p2": "Chazuka |p2flag=pt",
+            "p3": "AngryPlays |p3flag=pt",
+            "p4": "NightHunter |p4flag=pt",
+            "p5": "HeliotPT |p5flag=pt",
+            "p6": "LBGamer |p6flag=pt"
+        },
+        {
+            "team": "Flashback eSports",
+            "image": "Flashbackesportsicon.jpg",
+            "size": "",
+            "p1": "Masterbaker |p1flag=pt",
+            "p2": "D4rkBull3 |p2flag=pt",
+            "p3": "MasterHunter |p3flag=pt",
+            "p4": "MONST3RTRUCK |p4flag=pt",
+            "p5": "kondaweb |p5flag=pt",
+            "p6": "Mixtage |p6flag=pt"
+        },
+        {
+            "team": "Mugiwara uP",
+            "image": "UPGaming.png",
+            "size": "",
+            "p1": "Nydib |p1flag=pt",
+            "p2": "Elus |p2flag=pt",
+            "p3": "bmaf |p3flag=pt",
+            "p4": "KiritoExe |p4flag=pt",
+            "p5": "PedradaGamin |p5flag=pt",
+            "p6": "BestTuga |p6flag=pt"
+        },
+        {
+            "team": "Heartbreak Kids",
+            "image": "Heartbreak.jpg",
+            "size": "",
+            "p1": "qwark |p1flag=pt",
+            "p2": "santos |p2flag=pt",
+            "p3": "signs |p3flag=pt",
+            "p4": "cloud |p4flag=pt|p4link=Cloud (pt Player)",
+            "p5": "vitor |p5flag=pt",
+            "p6": "joao paulo |p6flag=pt",
+            "p7": "ratedslayer |p7flag=pt"
+        },
+        {
+            "team": "Torpas Max",
+            "image": "",
+            "size": "",
+            "p1": "DrewST |p1flag=pt",
+            "p2": "Pachalo |p2flag=pt",
+            "p3": "Serpensortya |p3flag=pt",
+            "p4": "IcyVolts |p4flag=pt",
+            "p5": "zoFy |p5flag=pt",
+            "p6": "OneQ |p6flag=pt"
+        },
+        {
+            "team": "Bkrew",
+            "image": "Bkrew.png",
+            "size": "",
+            "p1": "Lazystar |p1flag=pt",
+            "p2": "ClumsyKoala |p2flag=pt",
+            "p3": "steinwayy |p3flag=pt",
+            "p4": "Raideth |p4flag=pt",
+            "p5": "macacoss |p5flag=pt",
+            "p6": "foxmcloud |p6flag=pt"
+        }
+    ],
+    "match_cards": []
+}

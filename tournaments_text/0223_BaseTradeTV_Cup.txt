@@ -1,0 +1,203 @@
+{{DISPLAYTITLE:BaseTradeTV Cup }}
+
+{{Infobox league
+|liquipediatier={{TierText/3}}
+|series=
+|name=BaseTradeTV Cup
+|image=
+|icon=
+|organizer=BaseTradeTV
+|organizer-link=https://www.basetrade.tv
+|organizer2=
+|sponsor=[https://ting.com/?lpn=bttv Ting]
+|country=North America
+|type=Online
+|format='''Playoffs''':<br>Single Elimination
+|prizepool=
+|prizepoolusd=1,200
+|sdate=2016-12-03
+|edate=2016-12-03
+|bracket=http://www.gosugamers.net/overwatch/tournaments/12958-basetradetv-cup-playoffs/bracket
+|twitch=
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=6
+|map1=Hanamura
+|map2=Temple of Anubis
+|map3=Volskaya Industries
+|map4=Dorado
+|map5=Route 66
+|map6=Watchpoint: Gibraltar
+|map7=Ilios
+|map8=Lijiang Tower
+|map9=Nepal
+|map10=Eichenwalde
+|map11=Hollywood
+|map12=King's Row
+|map13=Numbani
+}}<br>
+
+==About==
+'''BaseTradeTV''' is an organization founded by Graham "[https://liquipedia.net/starcraft2/Rifkin Rifkin]" Rogers
+
+===Format===
+*'''Playoffs''': Single Elimination
+**All matches are Bo3 until Finals Bo5.
+
+===Prize Pool===
+
+1,200 {{Abbr/USD}} is spread among the teams as seen below:
+{{prize pool start  }}
+{{prize pool slot |place=1 |usdprize=900 |immortals |lastvs1=selfless  |lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot |place=2 |usdprize=300|selfless |lastvs1=immortals |lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot |place=3-4 |usdprize=0
+|denial|lastvs1= immortals|lastscore1= 0|lastvsscore1= 2
+|toronto esports|lastvs2=selfless  |lastscore2=0 |lastvsscore2=2 
+}}
+{{prize pool slot |place=5-6 |usdprize=0
+|method|lastvs1=denial |lastscore1= 0|lastvsscore1= 2
+|fym|lastvs2=selfless |lastscore2= 0|lastvsscore2= 2
+}}
+{{Prize pool end}}
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Rifkin|b1flag=ca|b1name=Graham Rogers
+|b2=ZombieGrub|b2flag=us|b2name=Jessica Chernega
+|b3=Unsteady|b3flag=us|b3name=
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Immortals
+|image=
+|p1=Agilities|p1flag= 
+|p2=Chance|p2flag= 
+|p3=GrimReality|p3flag= 
+|p4=Hyped|p4flag= 
+|p5=Aythen|p5flag= 
+|p6=nomy|p6flag= 
+|c=Kurjun|cflag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Method
+|image
+|p1=Tseini|p1flag=
+|p2=Linepro|p2flag=es
+|p3=Krawnnic|p3flag=us
+|p4=Zanderz|p4flag=us
+|p5=exi|p5flag=ca
+|p6=Valliate|p6flag=us
+|c=Seamoose |cflag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Denial eSports
+|image=
+|p1=endless |p1flag=us
+|p2=jolson |p2flag=ca
+|p3=zza |p3flag=us
+|p4=Gingerpop |p4flag=us
+|p5=Dahun |p5flag=us
+|p6=xQc |p6flag=ca
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Selfless Gaming
+|image=
+|p1=Kellar |p1flag=us
+|p2=dhaK |p2flag=us
+|p3=rob-wiz |p3flag=ca
+|p4=emongg |p4flag=us
+|p5=Michael3D |p5flag=us
+|p6=sinatraa |p6flag=us
+|c=Sephy|cflag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=FYM
+|p1=
+|p2=
+|p3=
+|p4=
+|p5=
+|p6=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Toronto Esports
+|image=
+|p1=Hexo |p1flag=ca
+|p2=Guilte |p2flag=us
+|p3=LoLBEASTMODE |p3flag=us
+|p4=Lazykore |p4flag=ca
+|p5=Frozenflappers |p5flag=ca
+|p6=NGvisator |p6flag=ca
+|c=iCy|cflag=ca
+}}
+{{box|end}}
+
+
+===Playoffs===
+<section begin=playoffs />
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=eqSiPEzTaR
+<!-- QUARTERFINALS -->
+|R1D1team=immortals |R1D1score=W |R1D1win=1
+|R1D2team=bye |R1D2score= |R1D2win=
+|R1G1details={{BracketMatchSummary 
+}}
+
+|R1D3team=denial |R1D3score=2 |R1D3win=1
+|R1D4team=method |R1D4score= 0|R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=December 03, 2016 - 18:00 {{Abbr/EST}}
+|finished=true
+}}
+
+|R1D5team=toronto esports |R1D5score=W |R1D5win=1
+|R1D6team=bye |R1D6score= |R1D6win=
+|R1G3details={{BracketMatchSummary 
+}}
+
+|R1D7team=selfless |R1D7score=2 |R1D7win=1
+|R1D8team=fym |R1D8score= 0|R1D8win=
+|R1G4details={{BracketMatchSummary 
+|date=December 03, 2016 - 19:00 {{Abbr/EST}}
+|finished=true
+}}
+
+<!-- SEMIFINALS -->
+|R2W1team=immortals |R2W1score=2 |R2W1win=1
+|R2W2team=denial |R2W2score=0 |R2W2win=
+|R2G1details={{BracketMatchSummary 
+|date=December 03, 2016 - 20:00 {{Abbr/EST}}
+|finished=true
+}}
+
+|R2W3team=toronto esports |R2W3score=0 |R2W3win=
+|R2W4team=selfless |R2W4score=2 |R2W4win=1
+|R2G2details={{BracketMatchSummary 
+|date=December 03, 2016 - 20:00 {{Abbr/EST}}
+|finished=true
+}}
+
+<!-- FINALS -->
+|R3W1team=immortals |R3W1score=3 |R3W1win=1
+|R3W2team=selfless |R3W2score=0 |R3W2win=
+|R3G1details={{BracketMatchSummary 
+|date=December 03, 2016 - 20:40 {{Abbr/EST}}
+|finished=true
+}}
+}}
+<section end=playoffs />
+
+==Additional content==
+===Streams===
+* {{flag/us}} [https://www.twitch.tv/basetradetv BaseTradeTV]

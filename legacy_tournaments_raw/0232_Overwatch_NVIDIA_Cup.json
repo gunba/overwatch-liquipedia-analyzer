@@ -1,0 +1,160 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch NVIDIA Cup",
+            "image": "",
+            "series": "",
+            "abbreviation": "",
+            "shortname": "",
+            "organizer": "NVIDIA Japan",
+            "organizer-link": "http://www.nvidia.co.jp/page/home.html",
+            "organizer2": "JCG",
+            "organizer2-link": "http://www.j-cg.com/",
+            "sponsor": "ZOTAC<br>Palit<br>BenQ ZOWIE<br>Razer",
+            "type": "Online",
+            "country": "Japan",
+            "format": "'''Group Stage''':<br>Single Elimination<br>'''Playoffs''':<br>Single Elimination",
+            "prizepool": "480,000",
+            "localcurrency": "JPY",
+            "prizepoolusd": "4,320",
+            "date": "",
+            "sdate": "2016-11-12",
+            "edate": "2016-11-20",
+            "liquipediatier": "{{TierText/3}}",
+            "web": "http://owgf.j-cg.com/",
+            "bracket": "http://owgf.j-cg.com/compe/2",
+            "stream": "http://ch.nicovideo.jp/jcgch/live",
+            "twitch": "nvidiajapan",
+            "teamfirst": "kingdom-ex6",
+            "teamsecond": "usg supreme",
+            "teamthird": "green leaves",
+            "teamfourth": "amplex",
+            "team_number": "6",
+            "team1": "",
+            "team2": "",
+            "team3": "",
+            "team4": "",
+            "team5": "",
+            "team6": "",
+            "team7": "",
+            "team8": "",
+            "map1": "Hanamura",
+            "map2": "Temple of Anubis",
+            "map3": "Volskaya Industries",
+            "map4": "Dorado",
+            "map5": "Route 66",
+            "map6": "Watchpoint: Gibraltar",
+            "map7": "Ilios",
+            "map8": "Lijiang Tower",
+            "map9": "Nepal",
+            "map10": "Eichenwalde",
+            "map11": "Hollywood",
+            "map12": "King's Row",
+            "map13": "Numbani",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "USG Supreme",
+            "link": "Unsold_Stuff_Gaming/Supreme",
+            "image": "",
+            "p1": "MaTtyo|p1flag=jp",
+            "p2": "Debuff|p2flag=jp",
+            "p3": "Pepper|p3flag=jp",
+            "p4": "Jasper|p4flag=jp",
+            "p5": "deartn|p5flag=jp",
+            "p6": "keisuke3|p6flag=jp"
+        },
+        {
+            "team": "KINGDOM-eX6",
+            "image": "",
+            "p1": "Yoz|p1flag=jp",
+            "p2": "Dexo|p2flag=jp",
+            "p3": "ShoGuN|p3flag=jp",
+            "p4": "Lasty|p4flag=jp",
+            "p5": "kinoko|p5flag=jp",
+            "p6": "\u308d\u304f\uff16\uff19\uff13\uff15|p6flag=jp"
+        },
+        {
+            "team": "\u30b3\u30f3\u30b0",
+            "image": "",
+            "p1": "hujimiya|p1flag=jp",
+            "p2": "DoomSayer|p2flag=jp",
+            "p3": "MuniEL|p3flag=jp",
+            "p4": "\u305d\u306a\u3044\u308d|p4flag=jp",
+            "p5": "How2|p5flag=jp",
+            "p6": "MoZart|p6flag=jp"
+        },
+        {
+            "team": "Green Leaves",
+            "image": "",
+            "p1": "gappo3|p1flag=jp",
+            "p2": "letswise|p2flag=jp",
+            "p3": "Nypro|p3flag=jp",
+            "p4": "hoshimi|p4flag=jp",
+            "p5": "Noanoa|p5flag=jp",
+            "p6": "XQQ|p6flag=jp"
+        },
+        {
+            "team": "Amplex",
+            "image": "",
+            "p1": "Hestia|p1flag=jp",
+            "p2": "Athrun|p2flag=jp",
+            "p3": "Esln|p3flag=jp",
+            "p4": "Lens|p4flag=jp",
+            "p5": "\u308f\u305f\u3042\u3081|p5flag=jp",
+            "p6": "speedleep|p6flag=jp"
+        },
+        {
+            "team": "SunSister Arancione",
+            "image": "",
+            "p1": "\u3074\u3074\u3074|p1flag=jp",
+            "p2": "N1ght0wl|p2flag=jp",
+            "p3": "Elu|p3flag=jp",
+            "p4": "ZZneopon|p4flag=jp",
+            "p5": "M\u00f6nsterboy|p5flag=jp",
+            "p6": "MAKA|p6flag=jp|p6link=MAKA (Japanese player)"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "kingdom-ex6",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "usg supreme",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "kingdom-ex6",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "usg supreme",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "kingdom-ex6",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "usg supreme",
+            "score1": "2",
+            "win1": ""
+        },
+        {
+            "team2": "green leaves",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3D1",
+            "team1": "amplex",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

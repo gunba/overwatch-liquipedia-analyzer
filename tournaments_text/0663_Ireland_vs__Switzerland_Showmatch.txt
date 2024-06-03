@@ -1,0 +1,97 @@
+{{Infobox league
+|name=Ireland vs. Switzerland Showmatch
+|shortname=Ireland vs. Switzerland Showmatch
+|tickername=Ireland vs. Switzerland Showmatch
+|image=
+|icon=
+|organizer=Team Ireland
+|type=Online
+|country=Ireland
+|country2=Switzerland
+|game=overwatch2
+|date=2023-05-15
+|liquipediatier=3|liquipediatiertype=Showmatch
+|twitter=TeamIrelandOW
+|twitter2=SwitzerlandOWWC
+|twitch=irishoverwatch
+|team_number=2
+}}
+
+==Information==
+* {{Abbr/Ft4}} showmatch with [[Overwatch World Cup/2023|Overwatch World Cup]] rosters
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Commentator
+|b1=ChefBilly
+|b2=Ulturism
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard
+|position=Producer
+|b1=SLMN
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard
+|position=Observer
+|b1=Marc
+|b2=Little Joe
+|b3=knockonwood0|b3flag=us
+|b4=JimmyBlanka|b4flag=de
+|b5=m4ra
+}}
+{{box|end}}
+
+===Prize Pool===
+{{TeamPrizePool|prizesummary=n
+|{{Slot|w=true}}
+|{{Slot|l=true}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=2|height=230}}
+{{TeamCard
+|team=Team Ireland
+|p1=Blizzardstar|p1flag=ie|pos1=dps
+|p2=Synex|p2flag=ie|pos2=dps
+|p3=Power|p3flag=ie|pos3=dps
+|p4=PureIrish|pos4=tank
+|p5=Dino|p5flag=ukni|pos5=tank|p5link=Dino (Northern Irish player)
+|p6=Nut|p6flag=ie|pos6=sup
+|p7=gcb|pos7=sup
+|t2title=Staff
+|t2c1=Ocean|t2c1pos=general manager
+|t2c2=Artemis|t2c2flag=uk|t2c2pos=assistant manager
+}}
+{{TeamCard
+|team=Team Switzerland
+|p1=Yhui|p1flag=ch|pos1=dps 
+|p2=Barcode|p2flag=ch|pos2=dps|p2link=Barcode (Swiss player)
+|p3=Djinn|p3flag=ch|pos3=dps
+|p4=Stadam|p4flag=ch|pos4=tank
+|p5=Swak0o|p5flag=ch|pos5=tank
+|p6=Črįs|p6flag=ch|pos6=sup
+|p7=R3M1X|p7flag=ch|pos7=sup
+|t2title=Staff
+|t2c1=SirGibson|t2c1pos=coach
+|t2c2=Slayz|t2c2flag=ch|t2c2pos=general manager
+}}
+{{TeamCard columns end}}
+
+==Result==
+{{SingleMatch|id=QmsPtY5sGD
+|{{Match
+    |bestof=5
+    |date=May 15, 2023 - 19:00 {{Abbr/BST}}
+    |youtube=|twitch=irishoverwatch
+    |opponent1={{TeamOpponent|irl}}
+    |opponent2={{TeamOpponent|che}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Numbani|mode=Escort|score1=1|score2=0|winner=1}}
+	|map4={{Map|map=Colosseo|mode=Push|score1=1|score2=0|winner=1}}
+	|vod=https://www.twitch.tv/videos/1820706287
+}}
+}}

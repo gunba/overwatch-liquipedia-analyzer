@@ -1,0 +1,124 @@
+{
+    "tournament_info": [
+        {
+            "name": "Fnac - Overwatch Challenge 1",
+            "shortname": "Overwatch Challenge 1",
+            "image": "",
+            "series": "",
+            "abbreviation": "",
+            "tickername": "Overwatch Challenge 1",
+            "organizer": "",
+            "sponsor": "Omen by HP",
+            "type": "Offline",
+            "country": "Portugal",
+            "city": "Cascais",
+            "format": "",
+            "prizepool": "2,750",
+            "localcurrency": "eur",
+            "prizepoolusd": "2,918",
+            "date": "2016-12-03",
+            "liquipediatier": "{{TierText/3}}",
+            "web": "",
+            "twitter": "",
+            "bracket": "",
+            "twitch": "",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "4"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "k1ck eSports Club",
+            "image": "",
+            "p1": "didex|p1flag=pt",
+            "p2": "Phatt|p2flag=pt",
+            "p3": "Nightyz|p3flag=pt",
+            "p4": "Addicted|p4flag=pt",
+            "p5": "riis3d|p5flag=pt",
+            "p6": "kiler4fun|p6flag=pt",
+            "c": "GizmomcS|cflag=pt"
+        },
+        {
+            "team": "For The Win eSports",
+            "image": "",
+            "p1": "Mowzassa|p1flag=pt",
+            "p2": "Lunrgn|p2flag=pt",
+            "p3": "Horthic|p3flag=pt",
+            "p4": "Edwho|p4flag=pt",
+            "p5": "Remrs|p5flag=pt",
+            "p6": "Spect|p6flag=pt"
+        },
+        {
+            "team": "Electronik Generation Pro",
+            "image": "egnlogo.png",
+            "p1": "Sprynger|p1flag=pt",
+            "p2": "OKAMI|p2flag=pt",
+            "p3": "Qink|p3flag=pt",
+            "p4": "MeiDay|p4flag=pt",
+            "p5": "faky|p5flag=pt",
+            "p6": "xelaut|p6flag=pt"
+        },
+        {
+            "team": "Eyeshield Gaming",
+            "image": "",
+            "note": "1",
+            "p1": "Rod|p1flag=pt",
+            "p2": "Rekiem|p2flag=pt",
+            "p3": "Zininho|p3flag=pt",
+            "p4": "Turtlestorm|p4flag=pt",
+            "p5": "Dypper|p5flag=pt",
+            "p6": "Mixtage|p6flag=pt"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "k1ck",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "for the win esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "k1ck",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "for the win esports",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "eyeshield gaming",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "egnpro",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "for the win esports",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "egnpro",
+            "score1": "FF",
+            "win1": ""
+        },
+        {
+            "team2": "for the win esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "k1ck",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,209 @@
+{{DISPLAYTITLE:CECC Southwest Qualifier}}
+{{Collegiate Esports Commissioners Cup navbox}}
+{{Tabs static
+|name1=Midwest Qualifier|link1=CECC/2022/Midwest
+|name2=Southeast Qualifier|link2=CECC/2022/Southeast
+|name3=Southwest Qualifier|link3=CECC/2022/Southwest
+|name4=Northeast Qualifier|link4=CECC/2022/Northeast
+|name5=West Qualifier|link5=CECC/2022/West
+|name6=Mid-Atlantic Qualifier|link6=CECC/2022/Mid-Atlantic
+|name7=Last Chance Qualifier|link7=CECC/2022/Last Chance
+|name8=Finals|link8=CECC/2022
+}}
+{{Infobox league
+|liquipediatier=3|liquipediatiertype=Qualifier
+|series=Collegiate Esports Commissioners Cup
+
+|abbreviation=CECC
+|name=CECC Southwest Qualifier
+|shortname=2022 Southwest Qualifier
+|tickername=CECC Southwest  Qualifier
+|icon=CECCLogo-2.png
+|image=CECCLogo-2.png
+|organizer=Collegiate Esports Management Group
+|type=Online
+|country=United States
+|format=Double Elimination
+|game=overwatch
+|sdate=2022-02-19
+|edate=2022-02-20
+|twitter=Ceccevents
+|web=https://collegiatesmg.com/
+|twitch=EsportsU
+|rulebook=https://drive.google.com/file/d/15KGZZs9GMMR0nuul8CxnIDBE92rdADDR/view?usp=sharing
+|team_number=6
+}}
+
+The '''CECC Southwest Qualifier''' is an online regional qualifier in the 2021-22 CECC season, with the winner qualifying for the national finals.
+
+==Information==
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Host
+|b1=Pauly Hype|b1name= Paul Santoro|b1flag=us
+}}
+{{BroadcasterCard|lang=
+|position=Commentator
+|b1= |b1flag= |b1name=
+|b2= |b2flag= |b2name=
+}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=7|'''Map Pool'''
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=6|Available Maps
+|-
+![[Control]]
+![[Hybrid]]
+![[Assault]]
+![[Escort]]
+|-
+!1st set
+|''[[Control]] map''
+|width="130" rowspan=5|
+*[[Busan]]
+*[[Ilios]]
+*[[Lijiang Tower]]
+|width="130" rowspan=5|
+*[[Blizzard World]]
+*[[Hollywood]]
+*[[King's Row]]
+|width="130" rowspan=5|
+*[[Hanamura]]
+*[[Volskaya Industries]]
+*[[Temple of Anubis]]
+|width="130" rowspan=5|
+*[[Havana]]
+*[[Rialto]]
+*[[Route 66]]
+|-
+!2nd set
+|''[[Escort]] map''
+|-
+!3rd set
+|''[[Hybrid]] map''
+|-
+!4th set
+|''[[Assault]] map''
+|}
+
+
+==Prize Pool==
+The winner qualifies for [[Collegiate Esports Commissioners Cup|CECC Finals]] as seen below:
+{{prize pool start|cutafter=3|points=qualified|noprize=true}}
+{{prize pool slot|place=1|points=q|Rebel Gaming|lastvs1=|lastscore1=3|lastvsscore1=0|date=}}
+{{prize pool slot|place=2|points=0|UNT Esports|lastvs1=|lastscore1=|lastvsscore1=|date=}}
+{{prize pool slot|place=3|points=0|UT Arlington|lastvs1=|lastscore1=|lastvsscore1=|date=}}
+{{prize pool slot|place=4|points=0|Kansas Wesleyan|lastvs1=|lastscore1=|lastvsscore1=|date=}}
+{{prize pool slot|place=5-6|points=0
+|TAMUSA Esports|lastvs1=|lastscore1=|lastvsscore1=|date1=
+|Lumberjack Esports|lastvs2=|lastscore2=|lastvsscore2=|date2=
+}}
+{{Prize pool end}}
+<section end="Prize Pool"/>
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=UT Arlington
+|p1=|p1flag=us|pos1=dps
+|p2=|p2flag=us|pos2=dps
+|p3=|p3flag=us|pos3=tank
+|p4=|p4flag=us|pos4=tank
+|p5=|p5flag=us|pos5=sup
+|p6=|p6flag=us|pos6=sup
+|qualifier=University of Texas at Arlington
+}}
+{{TeamCard
+|team=Kansas Wesleyan
+|p1=|p1flag=USA|pos1=DPS
+|p2=|p2flag=USA|pos2=DPS
+|p3=|p3flag=USA|pos3=Tank
+|p4=|p4flag=USA|pos4=Tank
+|p5=|p5flag=USA|pos5=sup
+|p6=|p6flag=USA|pos6=sup
+|qualifier=Kansas Wesleyan University
+}}
+{{TeamCard
+|team=Rebel Gaming
+|p1=Allure
+|p2=Ins1pid
+|p3=QuertyTumor|p3flag=us
+|p4=Slamtaro|p4flag=us
+|p5=Hertz|p5flag=us
+|p6=Karma|p6link=Karma (American player)|p6flag=us
+|p7=Sesvy|p7flag=us
+|p8=TheSaklar
+|p9=HaydoGo|p9flag=us
+|qualifier=University of Nevada, Las Vegas
+}}
+{{TeamCard
+|team=TAMUSA Esports
+|p1=|p1flag=|pos1=dps
+|p2=|p2flag=|pos2=dps
+|p3=|p3flag=|pos3=tank
+|p4=|p4flag=|pos4=tank
+|p5=|p5flag=|pos5=sup
+|p6=|p6flag=|pos6=sup
+|qualifier=Texas A&M University–San Antonio
+}}
+{{TeamCard
+|team=UNT Esports
+|p1=|p1flag=USA|pos1=dps
+|p2=|p2flag=USA|pos2=dps
+|p3=|p3flag=USA|pos3=tank
+|p4=|p4flag=USA|pos4=tank
+|p5=|p5flag=USA|pos5=sup
+|p6=|p6flag=USA|pos6=sup
+|qualifier=University of North Texas
+}}
+{{TeamCard
+|team=Lumberjack Esports
+|p1=|p1flag=USA|pos1=dps
+|p2=|p2flag=USA|pos2=dps
+|p3=|p3flag=USA|pos3=tank
+|p4=|p4flag=USA|pos4=tank
+|p5=|p5flag=USA|pos5=sup
+|p6=|p6flag=USA|pos6=sup
+|qualifier=Stephen F. Austin State University
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{LegacyBracket|Bracket/4L2DSU4L1D|6DETeamBracket|type=team|id=pENCk5YtOr
+<!-- WINNER'S BRACKET -->
+|R1D1team=TAMUSA Esports |R1D1score=L |R1D1win=
+|R1D2team=UNT Esports |R1D2score=W |R1D2win=1
+
+|R1D3team=Rebel Gaming |R1D3score=W |R1D3win=1
+|R1D4team=Lumberjack Esports |R1D4score=L |R1D4win=
+
+|R2D1team=UT Arlington |R2D1score=L |R2D1win=
+|R2W1team=UNT Esports |R2W1score=W |R2W1win=1
+
+|R2D2team=Kansas Wesleyan |R2D2score=L |R2D2win=
+|R2W2team=Rebel Gaming |R2W2score=W |R2W2win=1
+
+|R4W1team=UNT Esports |R4W1score=L |R4W1win=
+|R4W2team=Rebel Gaming |R4W2score=W |R4W2win=1
+
+<!-- LOSER'S BRACKET -->
+|R2D3team=Kansas Wesleyan |R2D3score=W |R2D3win=1
+|R2D4team=TAMUSA Esports |R2D4score=L |R2D4win=
+
+|R2D5team=UT Arlington |R2D5score=W |R2D5win=1
+|R2D6team=Lumberjack Esports |R2D6score=L |R2D6win=
+
+|R3W1team=Kansas Wesleyan |R3W1score=L |R3W1win=
+|R3W2team=UT Arlington |R3W2score=W |R3W2win=1
+
+|R4D1team=UNT Esports |R4D1score=W |R4D1win=1
+|R4W3team=UT Arlington |R4W3score=L |R4W3win=
+
+<!-- GRAND FINALS -->
+|R5W1team=Rebel Gaming |R5W1score=W |R5W1win=1
+|R5W2team=UNT Esports |R5W2score=L |R5W2win=
+}}

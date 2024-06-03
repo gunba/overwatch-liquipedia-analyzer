@@ -1,0 +1,123 @@
+{{DISPLAYTITLE:NorthSpawn 2019}}
+{{Infobox league
+|liquipediatier={{TierText/4}}
+|series=NorthSpawn
+|shortname=NorthSpawn 2019
+|name=NorthSpawn 2019
+|tickername=NorthSpawn 2019
+|image=Northspawn 2019 logo.jpg
+|organizer=NorthSpawn
+|organizer-link=https://www.northspawn.se/
+|sponsor=[https://www.elgiganten.se/ Elgiganten]
+|type=Offline
+|country=Sweden
+|city=Västerås
+|venue=
+|format=
+|twitch=
+|prizepool=20,000
+|localcurrency=SEK
+|prizepoolusd=2,064
+|date=2019-10-27
+|web=
+|bracket=https://challonge.com/NSOW
+|rulebook=
+|team_number=7
+}}
+
+==Information==
+===Prize Pool===
+20,000 kr {{Abbr/SEK}} (~$2,064 {{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=sek|cutafter=4}}
+{{prize pool slot |place=1 |usdprize=1,238|localprize=12,000|lbs norra|lastvs1=dunderspelar|lastscore1=3 |lastvsscore1=1 }}
+{{prize pool slot |place=2 |usdprize=516|localprize=5,000|dunderspelar|lastvs1=lbs norra|lastscore1=1 |lastvsscore1=3 }}
+{{prize pool slot|place=3|usdprize=310|localprize=3,000|leadon|lastvs1=team discontent |lastscore1=2 |lastvsscore1=0 }}
+{{prize pool slot|place=4|usdprize=0|localprize=0|team discontent|lastvs2=leadon |lastscore2=0 |lastvsscore2=2 }}
+{{prize pool slot|place=5|usdprize=0|localprize=0|puffins |wdl1=1/-/2  }}
+{{prize pool slot|place=6-7|usdprize=0|localprize=0
+|traconeth titans |wdl1=0/-/2
+|team meow |wdl2=0/-/3
+}}
+{{Prize pool end}}
+''Conversion values taken from [https://www.exchange-rates.org/Rate/USD/SEK/10-27-2019 exchange-rates.org] at 2019-10-27. 1 {{Abbr/USD}} ≈ 9.6884 {{Abbr/SEK}}''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=LBS Norra
+|image=
+|p1=EFF0RT |p1flag=se |pos1=dps
+|p2=PǮpper |p2flag= |pos2=dps
+|p3=Ludde |p3flag=se |pos3=tank
+|p4=Kakku |p4flag=se |pos4=tank
+|p5=Merc |p5flag=iq |pos5=sup
+|p6=Petris |p6flag= |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=DunderSpelar
+|image=
+|p1=Sica |p1flag= |pos1=dps
+|p2=Sblué |p2flag= |pos2=dps
+|p3=SwedenVictor |p3flag=se |pos3=tank
+|p4=Rasuorure |p4flag=se |pos4=tank
+|p5=Arveblad |p5flag=se |pos5=sup
+|p6=Lemon |p6flag= |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=LeadOn
+|image=Leadon logo.png
+|p1=Szanto |p1flag=se |pos1=dps
+|p2=Klunkarn |p2flag= |pos2=dps
+|p3=Ettan |p3flag=se |pos3=tank
+|p4=Naviii |p4flag=se |pos4=tank
+|p5=Liveja |p5flag=no |pos5=sup
+|p6=xaRies |p6flag=se |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Discontent
+|image=Team_Discontent_logo.png
+|p1=Nimiits |p1flag=se |pos1=dps
+|p2=TheWiCaT |p2flag=se |pos2=dps
+|p3=Stetsonbryl |p3flag=se |pos3=tank
+|p4=Kassians |p4flag=se |pos4=tank
+|p5=P1CKR |p5flag=se |pos5=sup
+|p6=Lurigealbin |p6flag=se |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Puffins
+|image=
+|p1=Liqfuore |p1flag= |pos1=dps
+|p2=isuckatgame |p2flag= |pos2=dps
+|p3=Aggee |p3flag= |pos3=tank
+|p4=Lollcon |p4flag= |pos4=tank
+|p5=MrMindDog |p5flag= |pos5=sup
+|p6=Icey |p6flag= |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Traconeth Titans
+|image=
+|p1=Traajix |p1flag= |pos1=dps
+|p2=Zerotwo |p2flag= |pos2=dps
+|p3=Tjaisnice |p3flag= |pos3=tank
+|p4=Growlrice |p4flag= |pos4=tank
+|p5=Shellex |p5flag= |pos5=sup
+|p6=Pjuske |p6flag= |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team MEOW
+|image=Team Meow logo.png
+|p1=BAJORK |p1flag=se |pos1=dps |p1link=BlueSeal
+|p2=MrWorldWide |p2flag= |pos2=dps
+|p3=TOFFLAN |p3flag=se |pos3=tank
+|p4=ruby |p4flag= |pos4=tank |p4link=Ruby (Another player)
+|p5=difikoll |p5flag=se |pos5=sup
+|p6=moistdad |p6flag=se |pos6=sup
+}}
+{{box|end}}

@@ -1,0 +1,127 @@
+{
+    "tournament_info": [
+        {
+            "name": "CyberGamer Weekly #11",
+            "shortname": "11",
+            "image": "",
+            "series": "CyberGamer",
+            "organizer": "CyberGamer",
+            "organizer-link": "http://au.cybergamer.com/",
+            "sponsor": "",
+            "platform": "PC",
+            "type": "Online",
+            "country": "Australia",
+            "city": "",
+            "format": "Single elimination <br>",
+            "prizepool": "120",
+            "localcurrency": "AUD",
+            "prizepoolusd": "90",
+            "date": "2016-11-15",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "web": "",
+            "twitch": "",
+            "youtube": "",
+            "bracket": "",
+            "team_number": "16",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "teamfourth": "",
+            "team1": "",
+            "team2": "",
+            "team3": "",
+            "team4": "",
+            "team5": "",
+            "team6": "",
+            "team7": "",
+            "team8": "",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "map4": "",
+            "map5": "",
+            "map6": "",
+            "map7": "",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Cuck smashers",
+            "image": "",
+            "imagesize": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": ""
+        },
+        {
+            "team": "Alter Ego",
+            "image": "",
+            "imagesize": "",
+            "p1": "Kura|p1flag=au",
+            "p2": "JoyBoy|p2flag=au",
+            "p3": "instazZ|p3flag=au",
+            "p4": "Nectar|p4flag=au",
+            "p5": "phntem|p5flag=au",
+            "p6": "Vitannia|p6flag=au"
+        },
+        {
+            "team": "Abyss eSports",
+            "image": "",
+            "imagesize": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": ""
+        },
+        {
+            "team": "Team Skyfire",
+            "image": "",
+            "imagesize": "",
+            "p1": "tak4n |p1flag=nz",
+            "p2": "cantus |p2flag=nz",
+            "p3": "hikari |p3flag=au",
+            "p4": "render |p4flag=au",
+            "p5": "ckm |p5flag=au",
+            "p6": "Soundwaves|p6flag=au",
+            "c": "AVRL |cflag=nz"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "team skyfire",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "cuck smashers",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "alter ego",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "cuck smashers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

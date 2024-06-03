@@ -1,0 +1,649 @@
+{{DISPLAYTITLE:OG Invitational}}
+{{Infobox league
+|liquipediatier=2
+|series=OG
+|name=OG Invitational
+|image=OG Invitational.png
+|icon=OG-icon.png
+|organizer=JoshOG
+|country=North America
+|type=Online
+|format='''Group Stage'''<br>GSL<br>'''Playoffs'''<br>Single Elimination
+|prizepoolusd=25,000
+|sdate=2016-06-25
+|edate=2016-06-26
+|web=https://www.oginvitational.com/
+|twitch=joshog
+|challonge=https://challonge.com/OGInvitational
+|team_number=8
+}}
+
+==Information==
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Kevin Knocke|b1flag=us|b1name=
+|b2=ZP|b2flag=us|b2name=Andrew Rush
+|b3=Huk|b3flag=ca|b3name=Chris Loranger
+|b4=JoshOG|b4flag=us
+}}
+
+===Prize Pool===
+$25,000 {{Abbr/USD}} are spread among the teams as seen below:
+{{prize pool start}}
+{{prize pool slot|place=1 |usdprize=15,000 |nv |lastvs1=lg |lastscore1=4 |lastvsscore1=0}}
+{{prize pool slot|place=2 |usdprize=7,000 |lg |lastvs1=nv |lastscore1=0 |lastvsscore1=4}}
+{{prize pool slot|place=3 |usdprize=3,000 |ngred |lastvs1=c9 |lastscore1=3 |lastvsscore1=2}}
+{{prize pool slot|place=4 |usdprize=0 |c9 |lastvs1=ngred |lastscore1=2 |lastvsscore1=3}}
+{{prize pool slot|place=5-6 |usdprize=0 |date=2016-06-25
+|team liquid |lastvs1=c9 |lastscore1=1 |lastvsscore1=2
+|gfe |lastvs2=northern gaming red |lastscore2=0 |lastvsscore2=2
+}}
+{{prize pool slot|place=7-8 |usdprize=0 |date=2016-06-25
+|splyce |lastvs1=team liquid |lastscore1=0 |lastvsscore1=2
+|faze |lastvs2=northern gaming red |lastscore2=0 |lastvsscore2=2
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Cloud9
+|p1=KyKy
+|p2=Grego 
+|p3=Surefour 
+|p4=Adam
+|p5=reaver 
+|p6=deBett
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Liquid
+|p1=DaHanG
+|p2=dummy
+|p3=AZK
+|p4=MESR
+|p5=Minstrel
+|p6=id_ 
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team EnVyUs
+|p1=INTERNETHULK
+|p2=cocco
+|p3=chipshajen
+|p4=HarryHook
+|p5=Taimou
+|p6=Talespin
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Luminosity Gaming
+|p1=Seagull
+|p2=Gods 
+|p3=milo
+|p4=Pookz
+|p5=Esper
+|p6=enigma
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Gale Force eSports
+|p1=Jkw 
+|p2=NicolasTJO 
+|p3=torkTJO
+|p4=Shake 
+|p5=Joemeister 
+|p6=harbleu
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Northern Gaming Red |link=Northern_Gaming/Northern_Gaming_Red
+|image=
+|size=
+|p1=Bird |p1flag=us
+|p2=BreadExpert 
+|p3=NapTime
+|p4=Wolf |p4link=Wolf_(American_player)
+|p5=Mangachu 
+|p6=Chance
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Splyce
+|p1=PYYYOUR
+|p2=clockwork
+|p3=steel
+|p4=flame
+|p5=PapaSmurf
+|p6=cozen
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=FaZe Clan
+|image=FaZe_Clan.png
+|imagesize=
+|p1=ClampOK|p1flag=au
+|p2=fRoD|p2flag=us
+|p3=Wonderfuls |p3flag=us
+|p4=Mendokusaii
+|p5=Veineless
+|p6=evokje
+|qualifier=Invited
+}}
+{{box|end}}
+
+==Results==
+===Group Stage===
+{{box|start|padding=2em}}
+===={{hiddenSort|Group A}}====
+{{GroupTableStart| Group A |width=400px
+|date=
+|stream=
+|lrthread=
+|finished=
+}}
+{{GroupTableSlot| {{Team|lg}}         |place=1|win_m=2|lose_m=0|win_r=4|lose_r=2|diff=|bg=up|show_p=true}}
+{{GroupTableSlot| {{Team|c9}}         |place=2|win_m=2|lose_m=1|win_r=5|lose_r=3|diff=|bg=up|show_p=true}}
+{{GroupTableSlot| {{Team|liquid}}      |place=3|win_m=1|lose_m=2|win_r=4|lose_r=4|diff=|bg=down|show_p=true}}
+{{GroupTableSlot| {{Team|splyce}}       |place=4|win_m=0|lose_m=2|win_r=0|lose_r=4|diff=|bg=down|show_p=true}}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=4ojgXiebFP|title=Group A matches |width=400px
+
+|match1={{MatchMaps
+|team1=c9 |team2=splyce |winner=1
+|games1=2 |games2=0
+|details={{BracketMatchSummary 
+|date=
+|finished=true
+|stream=gosugamers
+|match1={{Match/old
+|map=Hollywood
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+|match2={{Match/old
+|map=Lijiang Tower
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+}}
+}}
+
+|match2={{MatchMaps
+|team1=lg |team2=liquid |winner=1
+|games1=2 |games2=1
+|details={{BracketMatchSummary 
+|date=
+|finished=
+|stream=joshog
+|match1={{Match/old
+|map=Hollywood
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+|match2={{Match/old
+|map=Watchpoint: Gibraltar
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+|match3={{Match/old
+|map=King's Row
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+}}
+}}
+
+|match3={{MatchMaps
+|team1=c9 |team2=lg |winner=2
+|games1=1 |games2=2
+|details={{BracketMatchSummary 
+|date=
+|finished=
+|stream=
+|match1={{Match/old
+|map=Watchpoint: Gibraltar
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+|match2={{Match/old
+|map=Lijiang Tower
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+|match3={{Match/old
+|map=Hollywood
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+}}
+}}
+
+|match4={{MatchMaps
+|team1=splyce |team2=liquid |winner=2
+|games1=0 |games2=2
+|details={{BracketMatchSummary 
+|date=
+|finished=
+|stream=
+|match1={{Match/old
+|map=Hollywood
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+|match2={{Match/old
+|map=Numbani
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+}}
+}}
+
+|match5={{MatchMaps
+|team1=liquid |team2=c9 |winner=2
+|games1=1 |games2=2
+|details={{BracketMatchSummary 
+|date=
+|finished=
+|stream=
+|match1={{Match/old
+|map=Watchpoint: Gibraltar
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+|match2={{Match/old
+|map=Hollywood
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+|match3={{Match/old
+|map=Ilios
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+}}
+}}
+}}
+{{Box|break|padding=2em}}
+
+===={{hiddenSort|Group B}}====
+{{GroupTableStart| Group B |width=400px
+|date=
+|stream=
+|lrthread=
+|finished=
+}}
+{{GroupTableSlot| {{Team|nv}}       |place=1|win_m=2|lose_m=0|win_r=4|lose_r=0|diff=|bg=up|show_p=true}}
+{{GroupTableSlot| {{Team|ngred}}    |place=2|win_m=2|lose_m=1|win_r=4|lose_r=2|diff=|bg=up|show_p=true}}
+{{GroupTableSlot| {{Team|gfe}}      |place=3|win_m=1|lose_m=2|win_r=2|lose_r=4|diff=|bg=down|show_p=true}}
+{{GroupTableSlot| {{Team|faze}}     |place=4|win_m=0|lose_m=2|win_r=0|lose_r=4|diff=|bg=down|show_p=true}}
+
+{{GroupTableEnd}}
+{{LegacyMatchList|id=I8wGGmiaeL|title=Group B matches |width=400px
+
+|match1={{MatchMaps
+|team1=nv |team2=faze |winner=1
+|games1=2 |games2=0
+|details={{BracketMatchSummary 
+|date= 
+|finished=
+|stream=
+|match1={{Match/old
+|map=King's Row
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+|match2={{Match/old
+|map=Lijiang Tower
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+}}
+}}
+
+|match2={{MatchMaps
+|team1=ngred |team2=gfe |winner=2
+|games1=0 |games2=2
+|details={{BracketMatchSummary 
+|date=
+|finished=
+|stream=
+|match1={{Match/old
+|map=Hollywood
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+|match2={{Match/old
+|map=Dorado
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+}}
+}}
+
+|match3={{MatchMaps
+|team1=nv |team2=gfe |winner=1
+|games1=2 |games2=0
+|details={{BracketMatchSummary 
+|date=
+|finished=
+|stream=
+|match1={{Match/old
+|map=Numbani
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+|match2={{Match/old
+|map=Hollywood
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+}}
+}}
+
+|match4={{MatchMaps
+|team1=faze |team2=ngred |winner=2
+|games1=0 |games2=2
+|details={{BracketMatchSummary 
+|date=
+|finished=
+|stream=
+|match1={{Match/old
+|map=Dorado
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+|match2={{Match/old
+|map=King's Row
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+}}
+}}
+
+|match5={{MatchMaps
+|team1=ngred |team2=gfe |winner=1
+|games1=2 |games2=0
+|details={{BracketMatchSummary 
+|date=
+|finished=
+|stream=
+|match1={{Match/old
+|map=Dorado
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+|match2={{Match/old
+|map=King's Row
+|team1side= |team2side= |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+}}
+}}
+}}
+{{box|end}}
+
+
+===Playoffs===
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=gV7NwESdG5
+<!-- SEMIFINALS -->
+|R1D1team=lg |R1D1score=W |R1D1win=1
+|R1D2team=northern gaming red |R1D2score=- |R1D2win=
+|R1G2details={{BracketMatchSummary 
+|date=
+|finished=
+|preview=
+|lrthread=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|match1={{Match/old
+|map=Lijiang Tower
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+|match2={{Match/old
+|map=Nepal
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+|match3={{Match/old
+|map=Watchpoint: Gibraltar
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+}}
+
+|R1D3team=envy |R1D3score=3 |R1D3win=1
+|R1D4team=c9 |R1D4score=0 |R1D4win=
+
+<!-- FINALS -->
+|R2W1team=lg |R2W1score=0 |R2W1win=
+|R2W2team=nv |R2W2score=4 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=
+|finished=true
+|preview=
+|lrthread=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|match1={{Match/old
+|map=Lijiang Tower
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=2
+}}
+|match2={{Match/old
+|map=Nepal
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=2
+}}
+|match3={{Match/old
+|map=Dorado
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=2
+}}
+|match4={{Match/old
+|map=Hollywood
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=2
+}}
+|match5={{Match/old
+|map=King's Row
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=skip
+}}
+|match6={{Match/old
+|map=Ilios
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=skip
+}}
+|match7={{Match/old
+|map=Watchpoint: Gibraltar
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=skip
+}}
+}}
+
+<!-- 3RD PLACE (optional) -->
+|R2D1team=northern gaming red |R2D1score=3 |R2D1win=1
+|R2D2team=c9 |R2D2score=2 |R2D2win=
+|R2G2details={{BracketMatchSummary 
+|date=
+|finished=true
+|preview=
+|lrthread=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|match1={{Match/old
+|map=Nepal
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=2
+}}
+|match2={{Match/old
+|map=King's Row
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+|match3={{Match/old
+|map=Ilios
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=2
+}}
+|match4={{Match/old
+|map=Hollywood
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+|match5={{Match/old
+|map=Numbani
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+}}
+
+}}
+
+==VODs==
+* {{Flag/usuk}} [https://vods.co/overwatch?event=8283 VOD Playlist on vods.co]
+
+==References==
+{{Reflist}}

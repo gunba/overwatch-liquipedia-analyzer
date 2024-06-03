@@ -1,0 +1,190 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch Hyped Series - Qualifier",
+            "shortname": "OW Hyped Series",
+            "image": "Overwatch Hyped Serieslogo.png",
+            "series": "",
+            "abbreviation": "",
+            "tickername": "Overwatch Hyped Series - Qualifier",
+            "organizer": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Portugal",
+            "city": "",
+            "format": "League",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "",
+            "sdate": "2017-03-24",
+            "edate": "2017-03-25",
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "web": "",
+            "twitter": "",
+            "bracket": "https://battlefy.com/hypedgg/overwatch-hyped-series-qualifier/58cfcae3e9f13c470375dd1f/info?infoTab=details",
+            "twitch": "shootsgud",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "14"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Electronik Generation Pro",
+            "image": "egnlogo.png",
+            "p1": "Krellian|p1flag=br",
+            "p2": "traffy|p2flag=pt",
+            "p3": "MindNerd|p3flag=pt",
+            "p4": "Edu|p4flag=pt",
+            "p5": "zer0wo|p5flag=pt",
+            "p6": "spect|p6flag=pt",
+            "qualifier": ""
+        },
+        {
+            "team": "FTW.BlackDragons",
+            "image": "For The Win Esports allmode.png",
+            "p1": "KappaG|p1flag=pt",
+            "p2": "Kouhen|p2flag=pt",
+            "p3": "atf|p3flag=pt",
+            "p4": "FokuMF|p4flag=pt",
+            "p5": "PiggyManYolo|p5flag=pt",
+            "p6": "InigoMontoya|p6flag=pt",
+            "p7": "Zpecko|p7flag=pt",
+            "qualifier": ""
+        },
+        {
+            "team": "FTW.WhiteDragons",
+            "image": "For The Win Esports allmode.png",
+            "p1": "H1zzy|p1flag=pt",
+            "p2": "RFHydrix|p2flag=pt",
+            "p3": "GizmomcS|p3flag=pt",
+            "p4": "SGB|p4flag=pt",
+            "p5": "leeroylemos|p5flag=pt",
+            "p6": "kajo|p6flag=pt",
+            "qualifier": ""
+        },
+        {
+            "team": "Northen Vanguard",
+            "p1": "Mixtage|p1flag=pt",
+            "p2": "recluso|p2flag=pt",
+            "p3": "lps|p3flag=pt",
+            "p4": "Munsai|p4flag=pt",
+            "p5": "yngwie|p5flag=pt",
+            "p6": "Conti|p6flag=pt",
+            "qualifier": ""
+        },
+        {
+            "team": "Karma Clan of Games",
+            "p1": "Reapu|p1flag=pt",
+            "p2": "stuntz|p2flag=pt",
+            "p3": "Alphazen|p3flag=pt",
+            "p4": "Flager|p4flag=pt",
+            "p5": "Froz3n|p5flag=pt",
+            "p6": "Kenshizi|p6flag=pt",
+            "p7": "neophx|p7flag=pt",
+            "qualifier": ""
+        },
+        {
+            "team": "EGN.Step Pulse",
+            "image": "egnlogo.png",
+            "p1": "Konnichiwa|p1flag=pt",
+            "p2": "kawaii|p2flag=pt",
+            "p3": "MiR|p3flag=pt",
+            "p4": "hAx|p4flag=pt",
+            "p5": "Sting|p5flag=pt",
+            "p6": "Moove|p6flag=pt",
+            "qualifier": ""
+        },
+        {
+            "team": "Hexagone.ac",
+            "image": "Hexagone_logo.png",
+            "p1": "Saundo|p1flag=pt",
+            "p2": "k3nshin|p2flag=pt",
+            "p3": "EldaN|p3flag=pt",
+            "p4": "ZorackTheX|p4flag=pt",
+            "p5": "Kabralho|p5flag=pt",
+            "p6": "Meechy|p6flag=pt",
+            "p7": "gugZ|p7flag=pt",
+            "qualifier": ""
+        },
+        {
+            "team": "Clownfiesta",
+            "p1": "Dolan|p1flag=pt",
+            "p2": "Tensai|p2flag=pt",
+            "p3": "xperz|p3flag=pt",
+            "p4": "MCJorginho|p4flag=pt",
+            "p5": "RaziKeN|p5flag=pt",
+            "p6": "Fr3d|p6flag=pt",
+            "p7": "knock|p7flag=pt",
+            "qualifier": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "ftw.blackdragons",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "egnpro",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ftw.blackdragons",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "egnpro",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ftw.blackdragons",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "egnpro",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "clownfiesta",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D9",
+            "team1": "karma clan of games",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "clownfiesta",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "ftw.whitedragons",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "clownfiesta",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "karma clan of games",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "karma clan of games",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "ftw.blackdragons",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,193 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Semper Community Series #1 - Champion Division",
+            "shortname": "SCS1 - Champion",
+            "tickername": "Semper Community Series #1 - Champion Division",
+            "image": "Semper Community Series allmode.png",
+            "icon": "Semper Community Series allmode.png",
+            "series": "Semper Community Series",
+            "organizer": "Semper Community",
+            "sponsor": "Cangopowa",
+            "type": "Online",
+            "country": "Germany",
+            "game": "overwatch2",
+            "format": "Round Robin<br>Double Elimination",
+            "localcurrency": "eur",
+            "prizepool": "200",
+            "sdate": "2024-03-25",
+            "edate": "2024-04-28",
+            "twitter": "SemperCommunity",
+            "web": "https://semper-community.de/",
+            "twitch": "sempercommunity",
+            "discord": "smpr",
+            "rulebook": "https://r.smpr-com.de/SemperCommunitySeriesEN.pdf",
+            "bracket": "https://battlefy.com/semper-community/semper-community-series/65cb94bb29106474af981d65/info?infoTab=details",
+            "team_number": "5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Lootbox Legends",
+            "p1": "EFF0RT|pos1=dps",
+            "p2": "lillen|p2flag=se|pos2=dps",
+            "p3": "Meli\u00f8|pos3=dps",
+            "p4": "WeaQ|pos4=tank",
+            "p5": "AkkuFastLeer|p5flag=de|pos5=sup",
+            "p6": "Chaba|p6flag=be|pos6=sup",
+            "p7": "JayP7|p7flag=no|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Ale|t2c1flag=de|t2c1pos=manager",
+            "t2c2": "Turtleeeee|t2c2flag=no|t2c2pos=manager",
+            "inotes": "{{NoteBig",
+            "n1": "April 8th - [[Lootbox Legends]] drops out of the tournament.}}"
+        },
+        {
+            "team": "Semper Fusion",
+            "p1": "Dactys|p1flag=uk|pos1=dps",
+            "p2": "vez|p2flag=uk|pos2=dps",
+            "p3": "orc4|p3flag=uk|pos3=dps",
+            "p4": "K3V1N|p4flag=no|pos4=tank",
+            "p5": "Jazzy|p5flag=uk|pos5=sup",
+            "p6": "Santyx|p6flag=uk|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Marlooooon|t2c1flag=de|t2c1pos=manager",
+            "t2c2": "Ryuma|t2c2flag=de|t2c2pos=manager",
+            "inotes": "{{NoteBig",
+            "n1": "April 17th - [[Semper Fusion]] drops out of the tournament.}}"
+        },
+        {
+            "team": "Supershy",
+            "p1": "Zorrow|p1flag=se|pos1=dps",
+            "p2": "Pak|pos2=dps",
+            "p3": "gucci|pos3=dps",
+            "p4": "Hitori|p4flag=de|pos4=tank",
+            "p5": "Raajaro|pos5=tank|p5leave=true=true",
+            "p6": "Tekuno|pos6=sup",
+            "p7": "R3flect|pos7=sup",
+            "p8": "Sobek|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Cointree|t2c1pos=coach",
+            "t2c2": "Predo|t2c2flag=de|t2c2pos=coach",
+            "t2c3": "Yokai|t2c3flag=uk|t2c3pos=coach",
+            "t2c4": "Ale|t2c4flag=de|t2c4pos=manager",
+            "t2c5": "Pasta|t2c5flag=hr|t2c5pos=manager",
+            "t2c6": "Zaroide|t2c6pos=manager",
+            "inotes": "{{NoteBig",
+            "n1": "April 27th - {{Player|Raajaro}} leaves the team."
+        },
+        {
+            "team": "X-Rays",
+            "p1": "WesternSpy|p1flag=|pos1=dps",
+            "p2": "Milo|p2flag=de|pos2=dps|p2link=Milo (German player)",
+            "p3": "Preloa|p3flag=de|pos3=tank",
+            "p4": "Krissey|p4flag=de|pos4=sup",
+            "p5": "SLEEPWELL|p5flag=|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Sorton101|t2c1flag=nl|t2c1pos=coach"
+        },
+        {
+            "team": "\u12a0\u1293\u12ae\u1295\u12f3",
+            "p1": "HenkkA|p1flag=fi|pos1=dps",
+            "p2": "Idkf|p2flag=fi|pos2=dps",
+            "p3": "Ossi|p3flag=fi|pos3=tank",
+            "p4": "Baxter|p4flag=dk|pos4=sup",
+            "p5": "Bonkey|p5flag=nl|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "SpikeGaming|t2c1flag=de|t2c1pos=coach",
+            "t2c2": "Baxter|t2c2flag=dk|t2c2pos=Manager",
+            "inotes": "{{NoteBig",
+            "n1": "April 8th - [[\u12a0\u1293\u12ae\u1295\u12f3]] drops out of the tournament.}}"
+        },
+        {
+            "team": "Chemnitzer Dr\u00fcberschau Buben",
+            "p1": "Banamu|p1flag=|pos1=dps",
+            "p2": "Bulien|p2flag=|pos2=dps",
+            "p3": "Yoinked|p3flag=|pos3=tank",
+            "p4": "Megumin|p4flag=de|pos4=sup",
+            "p5": "Embri|p5flag=|pos5=sup",
+            "qualifier": "Challenger Division",
+            "placement": "1"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2024-03-25 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Semper Fusion}}",
+            "opponent2": "{{TeamOpponent|X-Rays}}",
+            "map1": "{{Map|map=Antarctic Peninsula|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Blizzard World|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "optional": "M1="
+        },
+        {
+            "date": "2024-03-27 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Supershy}}",
+            "opponent2": "{{TeamOpponent|\u12a0\u1293\u12ae\u1295\u12f3}}",
+            "map1": "{{Map|map=Antarctic Peninsula|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Midtown|mode=Hybrid|score1=3|score2=1|winner=1}}",
+            "optional": "M2="
+        },
+        {
+            "bestof": "3",
+            "date": "2024-04-03 - 20:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Lootbox Legends|score=0}}",
+            "opponent2": "{{TeamOpponent|Supershy|score=2}}",
+            "optional": "M1="
+        },
+        {
+            "date": "2024-04-03 - 20:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Semper Fusion|score=2}}",
+            "opponent2": "{{TeamOpponent|\u12a0\u1293\u12ae\u1295\u12f3|score=1}}",
+            "optional": "M2="
+        },
+        {
+            "date": "2024-04-11 - 20:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|X-Rays|score=0}}",
+            "opponent2": "{{TeamOpponent|Supershy|score=2}}",
+            "optional": "M1="
+        },
+        {
+            "bestof": "3",
+            "date": "2024-04-17 20:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Supershy|score=W}}",
+            "opponent2": "{{TeamOpponent|Semper Fusion|score=FF}}",
+            "optional": "M1="
+        },
+        {
+            "date": "2024-04-18 20:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|X-Rays|score=W}}",
+            "opponent2": "{{TeamOpponent|Lootbox Legends|score=FF}}",
+            "optional": "M2="
+        },
+        {
+            "bestof": "3",
+            "date": "2024-04-28 - 16:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|X-Rays}}",
+            "opponent2": "{{TeamOpponent|Chemnitzer Dr\u00fcberschau Buben}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=0|score2=3|winner=2}}",
+            "optional": "R1M1="
+        },
+        {
+            "bestof": "5",
+            "date": "2024-04-28 - 17:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Supershy}}",
+            "opponent2": "{{TeamOpponent|Chemnitzer Dr\u00fcberschau Buben}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Blizzard World|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "map3": "{{Map|map=Circuit Royal|mode=Escort|score1=1|score2=0|winner=1}}",
+            "optional": "R2M1="
+        }
+    ]
+}

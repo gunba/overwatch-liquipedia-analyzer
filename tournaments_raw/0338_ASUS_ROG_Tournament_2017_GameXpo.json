@@ -1,0 +1,118 @@
+{
+    "tournament_info": [
+        {
+            "name": "ASUS ROG Tournament 2017 - GameXpo",
+            "shortname": "GameXpo",
+            "image": "ASUS ROG tournament logo.png",
+            "icon": "ASUS_ROG_tournament_logo_small.png",
+            "series": "ASUS ROG Tournament",
+            "abbreviation": "ASUS ROG Tournament",
+            "tickername": "ASUS ROG - GameXpo 2017",
+            "organizer": "ASUS ROG",
+            "organizer-link": "https://rog.asus.com/",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "Finland",
+            "city": "Helsinki",
+            "format": "'''Round Robin'''<br>'''Playoffs'''",
+            "game": "overwatch",
+            "prizepool": "6,520",
+            "localcurrency": "eur",
+            "prizepoolusd": "7,715",
+            "sdate": "2017-09-19",
+            "edate": "2017-11-05",
+            "liquipediatier": "{{TierText/3}}",
+            "web": "http://asusrogtournament.com/gamexpo-2017",
+            "twitter": "ROGtournament",
+            "bracket": "http://peliliiga.fi/gamexpo17/tournaments/group-stage/groups/index",
+            "bracket2": "http://peliliiga.fi/gamexpo17/tournaments/playoffs/brackets/1",
+            "twitch": "rogtournament",
+            "team_number": "7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Gigantti",
+            "p1": "LiNkzr|p1flag= |pos1=dps",
+            "p2": "Davin|p2flag= |pos2=dps",
+            "p3": "zappis|p3flag= |pos3=flex",
+            "p4": "Fragi|p4flag= |pos4=tank",
+            "p5": "BigG00se|p5flag= |pos5=sup",
+            "p6": "Shaz|p6flag= |pos6=sup",
+            "c": "Seita|cflag=",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "ENCE eSports",
+            "p1": "BAITO|p1flag=fi |pos1=dps",
+            "p2": "rCk|p2flag=fi |pos2=dps",
+            "p3": "Cali|p3flag=fi |pos3=flex",
+            "p4": "lhcloudy |pos4=tank",
+            "p5": "Trickwide |pos5=sup",
+            "p6": "Ripa|p6flag=fi |pos6=sup",
+            "c": "elfi|cflag=fi",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Helsinki REDS",
+            "p1": "Exceed|p1flag= |pos1=dps",
+            "p2": "Lalli|p2flag= |pos2=dps",
+            "p3": "Woomera|p3flag= |pos3=flex",
+            "p4": "Akke|p4flag= |pos4=tank",
+            "p5": "Talisman|p5flag= |pos5=sup",
+            "p6": "Kryma|p6flag= |pos6=sup",
+            "c": "Nihvu|cflag=fi",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Nemesis",
+            "link": "Nemesis (Finnish team)",
+            "p1": "Kouhia|p1flag= fi|pos1=",
+            "p2": "Vahv|p2flag= fi|pos2=",
+            "p3": "Olu|p3flag= fi|pos3=",
+            "p4": "Hepa|p4flag= fi|pos4=",
+            "p5": "KarvaRausku|p5flag= fi|pos5=",
+            "p6": "Ice|p6flag= fi|pos6=",
+            "t2title": "Staff",
+            "t2c1": "Kuhnu|t2c1flag=fi|t2c1pos=manager",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "NYYRIKKI Esports",
+            "notes": "2",
+            "p1": "Astt |p1flag=fi|pos1=dps",
+            "p2": "baba |p2flag=fi|pos2=dps",
+            "p3": "tonder |p3flag=fi|pos3=flex",
+            "p4": "twidi |p4flag=fi|pos4=tank",
+            "p5": "tappomasa |p5flag=fi|pos5=sup",
+            "p6": "perry |p6flag=fi|pos6=sup",
+            "p7": "Zagaz|p7flag=fi|pos7=flex",
+            "c": "|cflag=",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Aces",
+            "p1": "Ronski |p1flag=fi|pos1=dps",
+            "p2": "Ashieli |p2flag=fi|pos2=flex",
+            "p3": "TheDesolator |p3flag=fi|pos3=tank",
+            "p4": "MrHamster |p4flag=fi|pos4=sup",
+            "p5": "Tipi|p5flag=fi|pos5=",
+            "p6": "Limux|p6flag=fi|pos6=",
+            "c": "|cflag=",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "FC Lahti Menace",
+            "notes": "1",
+            "p1": "Desperado|p1flag= fi|pos1=dps",
+            "p2": "Snoo|p2flag= fi|pos2=dps",
+            "p3": "Setlet |p3flag= fi|pos3=flex",
+            "p4": "Xippeli|p4flag= fi|pos4=tank",
+            "p5": "dannyel4f |p5flag= fi|pos5=sup",
+            "p6": "FaRmaS |p6flag= fi|pos6=sup",
+            "c": "Anatec|cflag=fi",
+            "qualifier": "Invited"
+        }
+    ],
+    "match_cards": []
+}

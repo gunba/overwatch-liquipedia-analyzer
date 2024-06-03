@@ -1,0 +1,1305 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "Console Gaming League",
+            "abbreviation": "CGL",
+            "shortname": "Season 12 NA Console",
+            "name": "CGL Season 12 - NA Console",
+            "tickername": "CGL Season 12 NA Console",
+            "image": "Console Gaming League lightmode.png",
+            "imagedark": "Console Gaming League darkmode.png",
+            "icon": "Console Gaming League lightmode.png",
+            "icondark": "Console Gaming League darkmode.png",
+            "organizer": "Console Gaming League",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "North America",
+            "format": "Single Elimination<br>Double Elimination",
+            "prizepoolusd": "2000",
+            "sdate": "2023-10-16",
+            "edate": "2023-11-21",
+            "web": "https://www.consolegamingleague.com/",
+            "twitch": "cgl1",
+            "discord": "bBsQg37",
+            "twitter": "consolegaminglg",
+            "instagram": "consolegamingleague",
+            "bracket": "https://manage.consolegamingleague.com/event/190/bracket/56/",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Big Dawg",
+            "p1": "Scattergengi",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "nuke",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Paradox",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Bonk",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Godspeed",
+            "p5flag": "",
+            "pos5": "",
+            "p5link": "Godspeed (American Player)",
+            "p6": "\u013fxife",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "zehn",
+            "p7flag": "",
+            "pos7": "",
+            "p8": "Easton",
+            "p8flag": "",
+            "pos8": "",
+            "p9": "PogCh1mp",
+            "p9flag": "",
+            "pos9": "",
+            "p10": "Vee",
+            "p10flag": "",
+            "pos10": "",
+            "p10link": "Vee (American Player)"
+        },
+        {
+            "team": "Red Team",
+            "link": "Red Team (CGL Team)",
+            "p1": "Hcpeful",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "HeyImZro",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Zoey",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "Worth",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Dinks",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "MINIDESTROYER01",
+            "p6flag": "us",
+            "pos6": "tank",
+            "p7": "Jacko",
+            "p7flag": "",
+            "pos7": "sup",
+            "p8": "Coach",
+            "p8flag": "us",
+            "pos8": "sup",
+            "p9": "Snake",
+            "p9link": "Snake (North American Player)",
+            "p9flag": "",
+            "pos9": "sup",
+            "t2title": "Staff",
+            "t2p1": "Evergreen",
+            "t2pos1": "Manager"
+        },
+        {
+            "team": "Strawberry",
+            "p1": "Pointless",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Crab",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Flyght",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "MYO",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Water",
+            "p5flag": "",
+            "pos5": "",
+            "p5link": "Water (NA Player)",
+            "p6": "Darw2n",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "scxrlet",
+            "p7flag": "",
+            "pos7": ""
+        },
+        {
+            "team": "Blue Team",
+            "p1": "Hxrvi",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "SJP",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Vinnie",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "delenaa",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Ukiyo",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "TopTierKid",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Mokar",
+            "p7flag": "",
+            "pos7": "",
+            "p8": "Smash",
+            "p8flag": "",
+            "pos8": ""
+        },
+        {
+            "team": "Lunaris",
+            "link": "Lunaris (CGL Team)",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Dark Sun",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Short Bus",
+            "p1": "akaza",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "NRG",
+            "p2link": "NRG (North American Player)",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Necrize",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Zmurfiex",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Reinguy",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Ricky",
+            "p6link": "Ricky (North American Player)",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "Vobendo",
+            "p7flag": "",
+            "pos7": "sup",
+            "p8": "Kurona",
+            "p8flag": "",
+            "pos8": "sup",
+            "p9": "Nukkster",
+            "p9flag": "",
+            "pos9": "sup",
+            "t2title": "Staff",
+            "t2c1": "Raine",
+            "t2c1flag": "us",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Archeon",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Legion",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Arctic Wintons",
+            "p1": "xXL3FTYJXx",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "wily",
+            "p2flag": "",
+            "pos2": "",
+            "p2link": "wily (American Player)",
+            "p3": "OnlyEchoes",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Drep",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Ripley",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Nsomniak",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "ABCASTAJ",
+            "p7flag": "",
+            "pos7": "",
+            "p8": "D0mmyM0mmy",
+            "p8flag": "",
+            "pos8": "",
+            "p9": "Angel",
+            "p9flag": "",
+            "pos9": "",
+            "p10": "TheCakeQueen",
+            "p10flag": "",
+            "pos10": "",
+            "p11": "MJH",
+            "p11flag": "",
+            "pos11": ""
+        },
+        {
+            "team": "BlackOnJohn",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Solaris",
+            "link": "Solaris (CGL Team)",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "StrikingDoom",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Guardia Astral",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Hydra",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Magnolia Ave",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "October 18, 2023 - 21:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "CGL1",
+            "opponent1": "Team Big Dawg",
+            "opponent2": "Arctic Wintons",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "October 19, 2023 - 20:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Archeon",
+            "opponent2": "Guardia Astral",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Blue Team",
+            "opponent2": "Legion",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Lunaris (CGL Team)|score=W",
+            "opponent2": "Solaris (CGL Team)|score=FF",
+            "optional": "R1M4="
+        },
+        {
+            "date": "October 18, 2023 - 20:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Red Team (CGL Team)",
+            "opponent2": "StrikingDoom",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Short Bus",
+            "opponent2": "Hydra",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Strawberry",
+            "opponent2": "BlackOnJohn",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "6",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dark Sun|score=W",
+            "opponent2": "Magnolia Ave|score=FF",
+            "optional": "R1M8="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Big Dawg",
+            "opponent2": "Guardia Astral",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Blue Team",
+            "opponent2": "Lunaris (CGL Team)",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Red Team (CGL Team)",
+            "opponent2": "Short Bus",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Strawberry",
+            "opponent2": "Dark Sun",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "November 4, 2023 - 01:30",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Big Dawg",
+            "opponent2": "Blue Team",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "November 5, 2023 - 00:00",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Red Team (CGL Team)",
+            "opponent2": "Strawberry",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Blue Team",
+            "opponent2": "Strawberry",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R6M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Arctic Wintons",
+            "opponent2": "Archeon",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M9="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Legion|score=W",
+            "opponent2": "Solaris (CGL Team)|score=FF",
+            "optional": "R1M10="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "StrikingDoom",
+            "opponent2": "Hydra",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M11="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "BlackOnJohn|score=W",
+            "opponent2": "Magnolia Ave|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "Flashpoint",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "Push",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M12="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dark Sun",
+            "opponent2": "Arctic Wintons",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Short Bus|score=W",
+            "opponent2": "Legion|score=FF",
+            "optional": "R2M6="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Lunaris (CGL Team)|score=W",
+            "opponent2": "StrikingDoom|score=FF",
+            "optional": "R2M7="
+        },
+        {
+            "date": "November 4, 2023 - 00:00",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Guardia Astral|score=FF",
+            "opponent2": "BlackOnJohn|score=W",
+            "map1": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "Flashpoint",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "Push",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M8="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dark Sun",
+            "opponent2": "Short Bus",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Lunaris (CGL Team)",
+            "opponent2": "BlackOnJohn",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Big Dawg",
+            "opponent2": "Short Bus",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R4M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Red Team (CGL Team)",
+            "opponent2": "BlackOnJohn",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R4M4="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Short Bus",
+            "opponent2": "Red Team (CGL Team)",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R5M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Strawberry",
+            "opponent2": "Short Bus",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R6M2="
+        },
+        {
+            "bestof": "7",
+            "date": "2023-11-21 - 23:00",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "cgl1",
+            "opponent1": "Blue Team",
+            "opponent2": "Short Bus",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Watchpoint Gibraltar",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map6": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R7M1="
+        }
+    ]
+}

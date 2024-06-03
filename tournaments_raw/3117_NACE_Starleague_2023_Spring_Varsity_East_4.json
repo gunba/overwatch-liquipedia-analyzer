@@ -1,0 +1,333 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "NACE Starleague",
+            "abbreviation": "NACE",
+            "name": "NACE Starleague Spring 2023 Varsity Premier - East 4",
+            "shortname": "NACE Starleague Spring 2023 Varsity Premier - East 4",
+            "tickername": "NACE Varsity East 4",
+            "image": "NACE Starleague lightmode.png",
+            "imagedark": "NACE Starleague darkmode.png",
+            "organizer": "National Association of Collegiate Esports",
+            "organizer-link": "https://nacesports.org/",
+            "organizer2": "Playfly Esports",
+            "organizer2-link": "https://playfly.com/esports/",
+            "sponsor": "[https://www.extra-life.org/ Extra Life]<br>[https://www.monsterenergy.com/us/en Monster Energy]",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "",
+            "sdate": "2023-01-31",
+            "edate": "2023-03-25",
+            "twitter": "nacestarleague",
+            "web": "https://nacesports.org",
+            "twitch": "nacestarleague",
+            "twitch2": "",
+            "discord": "",
+            "youtube": "",
+            "rulebook": "https://drive.google.com/file/d/1MnMZwglbsVAZwLnIS7liaAxoq4ghv40_/view",
+            "bracket": "https://nsl.leaguespot.gg/seasons/dabaf295-9209-408b-bcd5-2492214d5a28",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Glenville State University",
+            "p1": "Runty|p1flag=|pos1=dps",
+            "p2": "Paste|p2flag=|pos2=dps",
+            "p3": "Noodlebot|p3flag=|pos3=tank",
+            "p4": "RoxasGaming|p4flag=|pos4=sup",
+            "p5": "Allagi|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Maryville University",
+            "p1": "k1ng|p1flag=|pos1=dps",
+            "p2": "TR33|p2flag=|pos2=dps",
+            "p3": "False|p3flag=|pos3=tank",
+            "p4": "mikeyy|p4flag=|pos4=tank",
+            "p5": "Joobi|p5flag=|pos5=sup",
+            "p6": "syrus|p6flag=|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "iced|t2pos1=Manager"
+        },
+        {
+            "team": "Kennesaw State",
+            "link": "Kennesaw State University",
+            "p1": "Kezn|p1flag=us|pos1=dps",
+            "p2": "Clash|p2flag=us|pos2=dps",
+            "p3": "Kablooey|p3flag=us|pos3=dps",
+            "p4": "PrototypeR|p4flag=us|pos4=tank",
+            "p5": "Camsky|p5flag=us|pos5=sup",
+            "p6": "Doofault|p6flag=|pos6=sup"
+        },
+        {
+            "team": "Atlantic University College",
+            "p1": "Captain|p1flag=|pos1=dps",
+            "p2": "DerpyGeko|p2flag=|pos2=dps",
+            "p3": "TMBPlaysV2|p3flag=|pos3=tank",
+            "p4": "Polyato|p4flag=|pos4=sup",
+            "p5": "Leidhayo7|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Seton Hill University",
+            "p1": "Dazz|p1flag=uk|pos1=dps",
+            "p2": "Shoe|p2flag=in|pos2=dps",
+            "p3": "Stampede|p3flag=us|pos3=tank",
+            "p4": "JamesPeach|p4flag=us|pos4=tank",
+            "p5": "TTLVR|p5flag=us|pos5=sup",
+            "p6": "Stunseed|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Drexel University",
+            "p1": "OptimalShot|p1flag=|pos1=dps",
+            "p2": "PestControl|p2flag=|pos2=dps",
+            "p3": "JeffGoldblum|p3flag=|pos3=tank",
+            "p4": "BeefStirFry|p4flag=|pos4=sup",
+            "p5": "Peanut|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Lourdes University",
+            "p1": "Shinsei|p1flag=us|pos1=dps",
+            "p2": "WalterBlack3|p2flag=|pos2=dps",
+            "p3": "Devious|p3flag=us|pos3=tank",
+            "p4": "Poryuu|p4flag=|pos4=sup",
+            "p5": "ImJustRogue|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Old Dominion University",
+            "p1": "BeepCheap|p1flag=|pos1=dps",
+            "p2": "JocaJoey|p2flag=|pos2=dps",
+            "p3": "Addilot|p3flag=|pos3=tank",
+            "p4": "MaChoo89|p4flag=|pos4=tank",
+            "p5": "LegendNine|p5flag=|pos5=sup",
+            "p6": "Indx|p6flag=|pos6=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "January 31, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gsu esports|score=0}}",
+            "opponent2": "{{TeamOpponent|maryville esports|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "January 31, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ksu esports|score=}}",
+            "opponent2": "{{TeamOpponent|auc gladiators|score=}}",
+            "map1": "{{Map|map=Control|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Hybrid|mode=Hybrid|score1=3|score2=0|winner=1}}",
+            "map3": "{{Map|map=Escort|mode=Escort|score1=3|score2=0|winner=1}}",
+            "optional": "M2="
+        },
+        {
+            "date": "January 31, 2023 - 20:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|seton hill esports|score=}}",
+            "opponent2": "{{TeamOpponent|drexel dragons|score=}}",
+            "map1": "{{Map|map=Control|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Hybrid|mode=Hybrid|score1=0|score2=1|winner=2}}",
+            "map3": "{{Map|map=Escort|mode=Escort|score1=0|score2=3|winner=2}}",
+            "optional": "M3="
+        },
+        {
+            "date": "February 2, 2023 - 20:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|lourdes esports|score=3}}",
+            "opponent2": "{{TeamOpponent|old dominion university|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "February 7, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|maryville esports|score=3}}",
+            "opponent2": "{{TeamOpponent|auc gladiators|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "February 7, 2023 - 19:30 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gsu esports|score=1}}",
+            "opponent2": "{{TeamOpponent|seton hill esports|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "February 7, 2023 - 21:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ksu esports|score=3}}",
+            "opponent2": "{{TeamOpponent|old dominion university|score=1}}",
+            "optional": "M3="
+        },
+        {
+            "date": "February 7, 2023 - 20:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|drexel dragons|score=3}}",
+            "opponent2": "{{TeamOpponent|lourdes esports|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "February 14, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|seton hill esports|score=0}}",
+            "opponent2": "{{TeamOpponent|maryville esports|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "February 14, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|auc gladiators|score=0}}",
+            "opponent2": "{{TeamOpponent|old dominion university|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "February 14, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gsu esports|score=0}}",
+            "opponent2": "{{TeamOpponent|lourdes esports|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "February 14, 2023 - 22:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ksu esports|score=3}}",
+            "opponent2": "{{TeamOpponent|drexel dragons|score=2}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "February 21, 2023 - 19:15 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|maryville esports|score=3}}",
+            "opponent2": "{{TeamOpponent|old dominion university|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "February 21, 2023 - 19:15 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|seton hill esports|score=0}}",
+            "opponent2": "{{TeamOpponent|lourdes esports|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "February 21, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|auc gladiators|score=0}}",
+            "opponent2": "{{TeamOpponent|drexel dragons|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "February 21, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gsu esports|score=FF}}",
+            "opponent2": "{{TeamOpponent|ksu esports|score=W}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "February 28, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=nacestarleague",
+            "opponent1": "{{TeamOpponent|maryville esports|score=3}}",
+            "opponent2": "{{TeamOpponent|lourdes esports|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "February 28, 2023 - 19:30 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|drexel dragons|score=3}}",
+            "opponent2": "{{TeamOpponent|old dominion university|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "February 28, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ksu esports|score=3}}",
+            "opponent2": "{{TeamOpponent|seton hill esports|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "February 28, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|auc gladiators|score=0}}",
+            "opponent2": "{{TeamOpponent|gsu esports|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "March 7, 2023 - 22:00 {{Abbr/EST}}",
+            "youtube": "|twitch=nacestarleague",
+            "opponent1": "{{TeamOpponent|maryville esports|score=3}}",
+            "opponent2": "{{TeamOpponent|drexel dragons|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 7, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|lourdes esports|score=FF}}",
+            "opponent2": "{{TeamOpponent|ksu esports|score=W}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 13, 2023 - 20:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gsu esports|score=0}}",
+            "opponent2": "{{TeamOpponent|old dominion university|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 7, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|seton hill esports|score=3}}",
+            "opponent2": "{{TeamOpponent|auc gladiators|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "March 14, 2023 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|maryville esports|score=3}}",
+            "opponent2": "{{TeamOpponent|ksu esports|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 14, 2023 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|drexel dragons|score=3}}",
+            "opponent2": "{{TeamOpponent|gsu esports|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 14, 2023 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|lourdes esports|score=FF}}",
+            "opponent2": "{{TeamOpponent|auc gladiators|score=W}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 14, 2023 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|seton hill esports|score=0}}",
+            "opponent2": "{{TeamOpponent|old dominion university|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "March 21, 2023 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|drexel dragons|score=W}}",
+            "opponent2": "{{TeamOpponent|ksu esports|score=FF}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "March 25, 2023 - 17:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|maryville esports|score=W}}",
+            "opponent2": "{{TeamOpponent|drexel dragons|score=FF}}",
+            "optional": "R2M1="
+        }
+    ]
+}

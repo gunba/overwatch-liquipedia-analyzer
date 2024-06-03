@@ -1,0 +1,569 @@
+{{DISPLAYTITLE:Borbon Open Season Zero}}
+{{tabs static
+|name1=Overview|link1=Borbon_Open_Season_Zero
+|name2=Group A|link2=Borbon_Open_Season_Zero/Group A
+|name3=Group B|link3=Borbon_Open_Season_Zero/Group B
+|name4=Group C|link4=Borbon_Open_Season_Zero/Group C
+|This=1
+}}
+{{Infobox league
+|liquipediatier=4
+|name=Borbon Open Season Zero
+|shortname=Borbon Open S0
+|series=Borbon Open
+|abbreviation=BorbonOpen
+|tickername=Borbon Open S0
+|image=Borbonopen.png
+|icon=Borbonopen.png
+|organizer=Borbon
+|organizer-link=https://twitter.com/Borbon_Gg
+|type=Online
+|country=Australia
+|country2=New Zealand
+|format=
+|game=overwatch
+|patch=
+|epatch=
+|prizepool=1,000
+|localcurrency=AUD
+|prizepoolusd=762
+|sdate=2021-03-26
+|edate=2021-04-16
+|web=
+|twitter=Borbon_GG
+|twitch=BorbonOpen
+|youtube=
+|facebook=
+|streams=
+|bracket=https://challonge.com/BorbonOpen
+|bracket2=
+|discord=https://discord.gg/pqcy5WNb8Q
+|team_number=21
+}}
+
+==Information==
+===Format===
+* '''Group Stage''': Double Round-Robin
+** Group Stage are {{Abbr/Bo5}}.
+** Playoff are {{Abbr/Bo5}}.
+** 3 Groups Top (4) teams advance to the Playoffs of [[Borbon_Open_Season_Zero|Borbon Open Season Zero]].
+** Bottom teams are eliminated.
+* '''Playoffs''': Double Elimination
+** All matches are {{Abbr/Bo5}}
+* '''Player Elligibility'''
+** Teams will have 4 contenders slots. these can be spread via the following:
+***A player who finished Top 4 in any Contenders/ ACE season will be worth 2 slots.
+***A player who hasn't finished top 4 but has competed in contenders will be worth 1 slot.
+** Teams may only have 1 non OCE/PAC player.
+
+====Broadcast====
+{{BroadcasterCard|lang=English
+|position=Commentator
+}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=7|'''Group Stages'''
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=6|Available Maps For '''Season Zero'''
+|-
+![[Control]]
+![[Hybrid]]
+![[Assault]]
+![[Escort]]
+![[Control]]
+|-
+!1st set
+|''[[Control]] map''
+|width="130" rowspan=5|
+*[[Oasis]]
+*[[Lijiang Tower]]
+*[[Busan]]
+|width="130" rowspan=5|
+*[[Eichenwalde]]
+*[[King's Row]]
+*[[Numbani]]
+|width="130" rowspan=5|
+*[[Hanamura]]
+*[[Volskaya Industries]]
+*[[Temple of Anubis]]
+|width="130" rowspan=5|
+*[[Route 66]]
+*[[Rialto]]
+*[[Watchpoint: Gibraltar]]
+|width="130" rowspan=5|
+*[[Oasis]]
+*[[Lijiang Tower]]
+*[[Busan]]
+|-
+!2nd set
+|''[[Hybrid]] map''
+|-
+!3rd set
+|''[[Assault]] map''
+|-
+!4th set
+|''[[Escort]] map''
+|-
+!5th set
+|''[[Control]] map''
+|-
+!width="160"  colspan=2|Tiebreaker
+|width="160" colspan=6|{{Abbr/Bo5}} Match on [[Control]] map.
+|}
+
+===Prize Pool===
+1,000 {{Abbr/AUD}} (≃ 761 {{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start|localcurrency=aud|cutafter=4}}
+{{prize pool slot|place=1|usdprize=381|localprize=500|remedy|lastvs1=borbon|lastscore1=3|lastvsscore1=1 |date=2021-04-18
+}}
+{{prize pool slot|place=2|usdprize=229|localprize=300|borbon|lastvs1=remedy|lastscore1=1|lastvsscore1=3 |date=2021-04-18
+}}
+{{prize pool slot|place=3|usdprize=152|localprize=200|farmers bowlcut|lastvs1=remedy|lastscore1=1|lastvsscore1=3|date1=2021-04-11
+}}
+{{prize pool slot|place=4|usdprize=0|localprize=0|mingyun|lastvs1=remedy|lastscore1=0|lastvsscore1=3|date1=2021-04-11}}
+{{prize pool slot|place=5-6|usdprize=0|localprize=0
+|n.i.p|lastvs1=mingyun|lastscore1=1|lastvsscore1=3|date1=2021-04-09
+|peace and prosperity|lastvs2=remedy|lastscore2=0|lastvsscore2=3|date2=2021-04-09
+}}
+{{prize pool slot|place=7-8|usdprize=0|localprize=0
+|for the glory|lastvs1=n.i.p|lastscore1=1|lastvsscore1=3|date1=2021-04-04
+|corrupted academy|lastvs2=peace and prosperity|lastscore2=0|lastvsscore2=3|date2=2021-04-04
+}}
+{{prize pool slot|place=9-10|usdprize=0|localprize=0
+|janitors|lastvs1=n.i.p|lastscore1=0|lastvsscore1=3|date1=2021-03-28
+|reboot|lastvs2=peace and prosperity|lastscore2=0|lastvsscore2=3|date2=2021-03-28
+}}
+{{Prize pool end}}
+''Conversion values taken from [https://www.poundsterlinglive.com/best-exchange-rates/us-dollar-to-australian-dollar-exchange-rate-on-2021-02-03 poundsterlinglive.com] at 2021-02-03. 1 {{Abbr/USD}} ≈ 1.3120 {{Abbr/AUD}}''
+
+==Playoffs Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|team=Mingyun
+|p1=Blur|p1link=Blur(australian player)|p1flag=au|pos1=dps
+|p2=makka|p2flag=au|pos2=dps
+|p3=Lex|p3flag=it|pos3=dps
+|p4=CT5555|p4flag=pk|pos4=tank
+|p5=Husky|p5flag=au|pos5=tank
+|p6=Jackal|p6flag=nz|pos6=sup
+|p7=Wally|p7link=Wally (Australian player)|p7flag=au|pos7=sup
+|p8=Design|p8flag=au|pos8=sup
+|qualifier=[[Borbon_Open_Season_Zero/Group_A|Group A]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Reverse Sweep
+|p1=m1na|p1flag=th|pos1=dps
+|p2=gangnmstyle8|p2link=rib|p2flag=bd|pos2=dps
+|p3=Witty|p3flag=kr|pos3=tank
+|p4=Ossyria|p4flag=sg|pos4=tank
+|p5=Zuldan|p5flag=uk|pos5=tank
+|p6=EzClap|p6flag=sg|pos6=sup
+|p7=Mars|p7flag=us|pos7=sup
+|p8=Ecartx|p8flag=uk|pos8=sup
+|p9=Zapando|p9flag=uy|pos9=flex
+|qualifier=[[Borbon_Open_Season_Zero/Group_A|Group A]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=For The Glory
+|p1=camilaa|p1flag=jp|pos1=dps
+|p2=TsukuyomiX|p2flag=sg|pos2=dps
+|p3=Xeno|p3flag=sg|pos3=dps
+|p4=Thomas|p4flag=hk|pos4=flex
+|p5=Hellfire|p5link=blueice|p5flag=my|pos5=flex
+|p6=Ilium|p6link=Ossyria|p6flag=sg|pos6=tank
+|p7=ArrLuuKyaw|p7link=Kevkunnn|p7flag=mm|pos7=sup
+|p8=SaveMyanmar|p8link=FafaB|p8flag=mm|pos8=sup
+|p9=Ch3nlee|p9flag=id|pos9=sup
+|t2title=Staff
+|t2c1=rXis|t2c1flag=sg|t2c1pos=Manager
+|qualifier=[[Borbon_Open_Season_Zero/Group_A|Group A]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Corrupted Academy
+|p1=macky121|p1flag=au|pos1=dps
+|p2=Cryoxic|p2flag=nz|pos2=dps
+|p3=Wolfpack2000|p3flag=au|pos3=tank
+|p4=RandomThing|p4flag=au|pos4=tank
+|p5=CatsGotAJob|p5flag=nz|pos5=sup
+|p6=Tay|p6flag=au|pos6=sup
+|qualifier=[[Borbon_Open_Season_Zero/Group_A|Group A]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Farmers Bowlcut
+|p1=Olam|p1flag=au|pos1=dps
+|p2=Soggy|p2flag=sg|pos2=dps
+|p3=cuFFa|p3flag=au|pos3=tank
+|p4=AGO|p4flag=ph|pos4=tank
+|p5=Tyler|p5flag=au|pos5=sup|p5link=Tyler (Australian Player)
+|p6=Pancakes|p6flag=au|pos6=sup
+|c=badd|cflag=au
+|qualifier=[[Borbon_Open_Season_Zero/Group_B|Group B]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=N.I.P
+|p1=Kytuu|p1flag=au|pos1=dps
+|p2=XZN|p2flag=au|pos2=dps
+|p3=Bus|p3flag=au|pos3=tank
+|p4=Bnji|p4flag=au|pos4=tank
+|p5=Joshpxd|p5flag=au|pos5=sup
+|p6=DrMeme|p6flag=nz|pos6=sup
+|qualifier=[[Borbon_Open_Season_Zero/Group_B|Group B]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Janitors
+|p1=Covino|p1flag=au|pos1=dps
+|p2=n1ghtg0d|p2flag=cn|pos2=dps
+|p3=Dank|p3flag=au|pos3=tank
+|p4=yvanne|p4flag=kr|pos4=tank
+|p5=Outred|p5flag=au|pos5=sup
+|p6=Orca|p6flag=kr|pos6=sup
+|p7=Sakiisa|p7flag=au|pos7=sub
+|p8=Rocket|p8link=Rocket (Australian player)|p8flag=au|pos8=sub
+|qualifier=[[Borbon_Open_Season_Zero/Group_B|Group B]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=<s>Spectral</s>
+|link=Spectral
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|qualifier=[[Borbon_Open_Season_Zero/Group_B|Group B]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Remedy
+|p1=Neuu|p1flag=au|pos1=dps
+|p2=Yifang|p2flag=au|pos2=dps
+|p3=Armour|p3flag=au|pos3=flex
+|p4=Legabril|p4flag=nz|pos4=tank
+|p5=Fourmatt|p5flag=au|pos5=tank
+|p6=June|p6link=JeL|p6flag=au|pos6=sup
+|p7=Lynx|p7flag=au|pos7=sup
+|qualifier=[[Borbon_Open_Season_Zero/Group_C|Group C]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Borbon
+|p1=Atol|p1flag=au|pos1=dps
+|p2=Nanda|p2flag=au|pos2=dps
+|p3=Lindo|p3flag=au|pos3=dps
+|p4=Sabre|p4flag=nz|pos4=tank
+|p5=SlipGyp|p5flag=au|pos5=tank
+|p6=Ayako|p6flag=sg|pos6=sup
+|p7=Seqtar|p7flag=au|pos7=sup
+|p8=Kireina|p8flag=au|pos8=sup
+|qualifier=[[Borbon_Open_Season_Zero/Group_C|Group C]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Peace and Prosperity
+|p1=Fed|p1flag=au|pos1=dps|p1dnp=true
+|p2=r4ngaa|p2flag=au|pos2=dps
+|p3=Sasuke|p3flag=nz|pos3=dps
+|p4=DongerMan|p4flag=nz|pos4=tank
+|p5=Ryzuul|p5flag=au|pos5=tank
+|p6=Spades|p6flag=au|pos6=tank
+|p7=Jae|p7flag=vn|pos7=sup
+|p8=poe|p8flag=au|pos8=sup
+|qualifier=[[Borbon_Open_Season_Zero/Group_C|Group C]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Reboot
+|p1=Bxnnyq|p1flag=au|pos1=dps
+|p2=Brycen|p2flag=au|pos2=dps
+|p3=OverdosedPirate|p3flag=nz|pos3=tank
+|p4=Tigerbro|p4flag=au|pos4=tank
+|p5=Dashie|p5flag=au|pos5=sup
+|p6=Diag|p6flag=au|pos6=sup
+|qualifier=[[Borbon_Open_Season_Zero/Group_C|Group C]]
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/8L4DSSU8L2DSL1D|12DETeamBracket|type=team|id=xspgjFfxFm
+|column-width=190
+<!-- WINNER'S ROUND 1 -->
+|R1D1team=janitors |R1D1score=2 |R1D1win=
+|R1D2team=peace and prosperity |R1D2score=3 |R1D2win=1
+|R1G1details={{BracketMatchSummary
+|date=March 26, 2021 - 19:00 {{Abbr/AEST}}|finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R1D3team=bye |R1D3score= |R1D3win=
+|R1D4team=bye |R1D4score= |R1D4win=
+|R1G2details={{BracketMatchSummary
+|date=|finished=
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R1D5team=for the glory |R1D5score=3 |R1D5win=1
+|R1D6team=corrupted academy |R1D6score=0 |R1D6win=
+|R1G3details={{BracketMatchSummary
+|date=March 26, 2021 - 19:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R1D7team=n.i.p |R1D7score=3 |R1D7win=1
+|R1D8team=reboot |R1D8score=0 |R1D8win=
+|R1G4details={{BracketMatchSummary
+|date=March 26, 2021 - 19:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+
+<!-- WINNER'S ROUND 2 -->
+|R2D1team=mingyun |R2D1score=3 |R2D1win=1
+|R2W1team=peace and prosperity |R2W1score=1 |R2W1win=
+|R2G1details={{BracketMatchSummary
+|date=March 28, 2021 - 19:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R2D2team=borbon |R2D2score= |R2D2win=1
+|R2W2team=bye |R2W2score= |R2W2win=
+|R2G2details={{BracketMatchSummary
+|date= |finished=
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R2D3team=farmers bowlcut |R2D3score=3 |R2D3win=1
+|R2W3team=for the glory |R2W3score=0 |R2W3win=
+|R2G3details={{BracketMatchSummary
+|date=March 28, 2021 - 19:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R2D4team=remedy |R2D4score=3 |R2D4win=1
+|R2W4team=n.i.p |R2W4score=1 |R2W4win=
+|R2G4details={{BracketMatchSummary
+|date=March 28, 2021 - 19:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+
+<!-- WINNER'S ROUND 3 -->
+|R4W1team=mingyun |R4W1score=0 |R4W1win=
+|R4W2team=borbon |R4W2score=3 |R4W2win=1
+|R4G1details={{BracketMatchSummary
+|date=April 2, 2021 - 19:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R4W3team=farmers bowlcut |R4W3score=3 |R4W3win=1
+|R4W4team=remedy |R4W4score=2 |R4W4win=
+|R4G2details={{BracketMatchSummary
+|date=April 2, 2021 - 19:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+
+<!-- WINNER'S FINALS -->
+|R6W1team=borbon |R6W1score=3 |R6W1win=1
+|R6W2team=farmers bowlcut |R6W2score=0 |R6W2win=
+|R6G1details={{BracketMatchSummary 
+|date=April 9, 2021 - 19:00 {{Abbr/AEST}} |finished=
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+
+<!-- LOSER'S ROUND 2 -->
+|R2D5team=n.i.p|R2D5score=3 |R2D5win=1
+|R2W5team=janitors|R2W5score=0 |R2W5win=
+|R2G5details={{BracketMatchSummary
+|date=March 28, 2021 - 21:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R2D6team=for the glory |R2D6score= |R2D6win=1
+|R2W6team=bye |R2W6score= |R2W6win=
+|R2G6details={{BracketMatchSummary
+|date= |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R2D7team=bye |R2D7score= |R2D7win=
+|R2W7team=corrupted academy |R2W7score= |R2W7win=1
+|R2G7details={{BracketMatchSummary
+|date= |finished=
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R2D8team=peace and prosperity |R2D8score=3 |R2D8win=1
+|R2W8team=reboot|R2W8score=0 |R2W8win=
+|R2G8details={{BracketMatchSummary
+|date=March 28, 2021 - 21:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+
+<!-- LOSER'S ROUND 3 -->
+|R3W1team=n.i.p |R3W1score=3 |R3W1win=1
+|R3W2team=for the glory |R3W2score=1 |R3W2win=
+|R3G1details={{BracketMatchSummary
+|date=April 4, 2021 - 19:00 {{Abbr/AEST}} |finished=
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R3W3team=corrupted academy |R3W3score=0 |R3W3win=
+|R3W4team=peace and prosperity |R3W4score=3 |R3W4win=1
+|R3G2details={{BracketMatchSummary
+|date=April 4, 2021 - 19:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+
+<!-- LOSER'S ROUND 4 -->
+|R4D1team=mingyun |R4D1score=3 |R4D1win=1
+|R4W5team=n.i.p |R4W5score=1 |R4W5win=
+|R4G3details={{BracketMatchSummary
+|date=April 9, 2021 - 19:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+|R4D2team=remedy |R4D2score=3 |R4D2win=1
+|R4W6team=peace and prosperity |R4W6score=0 |R4W6win=
+|R4G4details={{BracketMatchSummary
+|date=April 9, 2021 - 19:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+
+<!-- LOSER'S ROUND 5 -->
+|R5W1team=mingyun |R5W1score=0 |R5W1win=
+|R5W2team=remedy |R5W2score=3 |R5W2win=1
+|R5G1details={{BracketMatchSummary
+|date=April 11, 2021 - 18:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+
+<!-- LOSER'S FINALS -->
+|R6D1team=farmers bowlcut |R6D1score=1 |R6D1win=
+|R6W3team=remedy |R6W3score=3 |R6W3win=1
+|R6G2details={{BracketMatchSummary
+|date=April 11, 2021 - 20:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+
+<!-- GRAND FINALS -->
+|R7W1team=borbon |R7W1score=1 |R7W1win=
+|R7W2team=remedy |R7W2score=3 |R7W2win=1
+|R7G1details={{BracketMatchSummary 
+|date=April 16, 2021 - 19:00 {{Abbr/AEST}} |finished=true
+|twitch=
+|map1=|mapscore1=|map1win=
+|map2=|mapscore2=|map2win=
+|map3=|mapscore5=|map3win=
+|map4=|mapscore4=|map4win=
+|map5=|mapscore3=|map5win=
+}}
+}}
+
+==Additional Content==
+===Country Representation===
+<section begin="Country Representation"/>
+{{Country representation}}
+<section begin="Country Representation"/>
+
+==References==
+{{reflist}}

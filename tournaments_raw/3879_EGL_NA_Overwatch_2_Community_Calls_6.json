@@ -1,0 +1,145 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "name": "EGL NA Overwatch 2 Community Calls #6",
+            "shortname": "NA Community Calls 6",
+            "tickername": "EGL NA Community Calls #6",
+            "icon": "EGL allmode.png",
+            "image": "Overwatch 2 Community Calls lightmode.png",
+            "imagedark": "Overwatch 2 Community Calls darkmode.png",
+            "organizer": "EGL",
+            "series": "Esports Gaming League",
+            "abbreviation": "EGL",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "300",
+            "date": "2023-01-22",
+            "twitter": "EGL",
+            "web": "https://egl.tv",
+            "facebook": "EGLgg",
+            "instagram": "EGLtv",
+            "discord": "eglgg",
+            "youtube": "eglpro",
+            "twitch": "egl",
+            "rulebook": "https://egl.tv/tournament/7542",
+            "bracket": "https://egl.tv/tournament/7542/matches",
+            "team_number": "7",
+            "previous": "EGL_NA_Overwatch_2_Community_Calls/5{{!}}#5",
+            "next": "EGL_NA_Overwatch_2_Community_Calls/7{{!}}#7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "GeeseSports",
+            "p1": "StarGays|p1flag=us|pos1=",
+            "p2": "Goose|p2flag=us|pos2=|p2link=Goose (GeeseSports Player)",
+            "p3": "eggsalad|p3flag=kr|pos3=",
+            "p4": "Kerpluppi|p4flag=us|pos4=",
+            "p5": "Scratch|p5flag=us|pos5=",
+            "p6": "cspandrell|p6flag=us|pos6="
+        },
+        {
+            "team": "Abyss Esports|link=Abyss Esports (NA team)",
+            "p1": "Monarch|p1flag=us|pos1=tank",
+            "p2": "Alex|p2flag=us|pos2=tank|p2link=Alex (American Player)",
+            "p3": "Ejn1|p3flag=us|pos3=",
+            "p4": "Narwhaley|p4flag=us|pos4=",
+            "p5": "sunrise|p5flag=us|pos5=",
+            "p6": "Dravenslade|p6flag=us|pos6=",
+            "p7": "Jyeeva|p7flag=us|pos7="
+        },
+        {
+            "team": "Straight Cappin",
+            "p1": "BallerSteve|p1flag=us|pos1=",
+            "p2": "Mini620|p2flag=us|pos2=",
+            "p3": "Thei|p3flag=us|pos3=",
+            "p4": "EDG3M|p4flag=us|pos4=",
+            "p5": "Penguiinn|p5flag=us|pos5="
+        },
+        {
+            "team": "Mitzi & Friends",
+            "p1": "BiliousStorm|p1flag=us|pos1=",
+            "p2": "Zahlios|p2flag=us|pos2=",
+            "p3": "Falloutxj|p3flag=us|pos3=",
+            "p4": "AZUR3|p4flag=us|pos4=",
+            "p5": "Charmside|p5flag=us|pos5="
+        },
+        {
+            "team": "Di Mondius Maximus",
+            "p1": "BigGayEnergy|p1flag=us|pos1=",
+            "p2": "YamiAssassin|p2flag=us|pos2=",
+            "p3": "\u0191A\u0110E|p3flag=ca|pos3=",
+            "p4": "SoloQueue|p4flag=us|pos4=",
+            "p5": "TrainerRed|p5flag=us|pos5=",
+            "p6": "Bigrex97|p6flag=us|pos6="
+        },
+        {
+            "team": "InterRacial",
+            "p1": "ItsVex|p1flag=us|pos1=",
+            "p2": "BarbieGirl|p2flag=us|pos2=",
+            "p3": "Itsflames|p3flag=us|pos3=",
+            "p4": "VAMSI|p4flag=us|pos4=",
+            "p5": "Revan|p5flag=us|pos5=",
+            "p6": "ItzVixel|p6flag=us|pos6="
+        },
+        {
+            "team": "Hivemind Varsity",
+            "p1": "Adren|p1flag=us|pos1=tank",
+            "p2": "Rakuna|p2flag=ca|pos2=dps",
+            "p3": "Juvn|p3flag=us|pos3=dps",
+            "p4": "seaborn|p4flag=us|pos4=sup",
+            "p5": "salamiboi200|p5flag=sa|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "Daz|t2p1flag=ca|t2pos1=coach",
+            "t2p2": "Jammm|t2p2flag=us|t2pos2=manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|mitzi & friends|score=0}}",
+            "opponent2": "{{TeamOpponent|di mondius maximus|score=2}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|abyss esports (na team)|score=0}}",
+            "opponent2": "{{TeamOpponent|hivemind varsity|score=2}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|straight cappin|score=FF}}",
+            "opponent2": "{{TeamOpponent|interracial|score=W}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|geesesports|score=0}}",
+            "opponent2": "{{TeamOpponent|di mondius maximus|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|hivemind varsity|score=2}}",
+            "opponent2": "{{TeamOpponent|interracial|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|di mondius maximus|score=0}}",
+            "opponent2": "{{TeamOpponent|hivemind varsity|score=3}}",
+            "optional": "R3M1="
+        }
+    ]
+}

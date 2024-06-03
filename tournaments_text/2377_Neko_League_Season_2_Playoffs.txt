@@ -1,0 +1,131 @@
+{{DISPLAYTITLE:Neko League Season 2 Playoffs}}
+{{Tabs static
+|name1=Division 1|link1=Neko_League/Season 2/Division 1/Spring Stage
+|name2=Division 2|link2=Neko_League/Season 2/Division 2/Spring Stage
+|name3=Full Rankings|link3=Neko_League/Season 2/Points
+|name4=Playoffs|link4=Neko_League/Season 2/Playoffs
+}}
+{{Infobox league
+|liquipediatier=5
+|name=Neko League Season 2 Playoffs
+|shortname=Neko League Season 2 Playoffs
+|tickername=Neko League Season 2 Playoffs
+|icon=Neko allmode.png
+|image=Neko allmode.png
+|organizer=Lotus Corporation
+|game=overwatch2
+|type=Online
+|country=France
+|format=Double Elimination
+|prizepool=50
+|localcurrency=eur
+|date=2023-07-02
+|twitter=LotusCorpp
+|web=
+|twitch=
+|discord=d7XSEB8U
+|youtube=
+|rulebook=https://docs.google.com/document/d/17Jim64N3exF32aSMVounXr2nxVq3MkzwdWs4zzwpejk/edit?usp=sharing
+|bracket=https://play.toornament.com/fr/tournaments/6426216859570814976/stages/6693728627691741184/
+|team_number=3
+}}
+
+==Information==
+===Broadcast Talent===
+{{BroadcasterCard|lang=fr
+|position=Commentator
+|b1=CastersNest|b1flag=fr
+|b2=Niko|b2flag=fr
+|b3=SuuperLow|b3flag=fr
+|b4=Azu|b4flag=fr
+|b5=MaBa|b5flag=fr
+|b6=SegPaces|b6flag=fr
+|b7=ThePacifique|b7flag=ca
+}}
+
+==Prize Pool==
+{{TeamPrizePool|localcurrency=eur
+|{{Slot|localprize=50}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Dragon's Soul
+|p1=Fowl|p1flag=fr|pos1=tank
+|p2=TsuSHI|p2flag=fr|pos2=dps
+|p3=Tomasa|p3flag=fr|pos3=dps
+|p5=Pizzasaur|p5flag=cn|pos5=sup
+|p6=Phokopi|p6flag=fr|pos6=sup
+|p4=Spyboon|p4flag=fr|pos4=sup
+|t2title=Staff
+|t2c1=TryMaxa|t2c1flag=fr|t2c1pos=manager
+|qualifier=[[Neko_Ligue_Ranking_Division_2|Division 2]]
+|placement=1
+}}
+{{TeamCard
+|team=Shulker Fox Reborn
+|p1=Aykira|p1flag=fr|pos1=tank
+|p2=Hiesko|p2flag=fr|pos2=dps
+|p3=Livs|p3flag=fr|pos3=dps
+|p4=Saxo|p4flag=fr|pos4=dps
+|p5=Shikusagi|p5flag=fr|pos5=sup
+|p6=Gadjeel|p6flag=fr|pos6=sup
+|t2title=Staff
+|t2c1=Camchapo|t2c1flag=fr|t2c1pos=manager
+|qualifier=[[Neko_Ligue_Division 1_Split_3|Play-In Division 1]]
+|placement=1
+}}
+{{TeamCard
+|team=Nowoki Proxima
+|p1=Haaladeen|p1flag=fr|pos1=tank
+|p2=Fhr3Dom|p2flag=fr|pos2=dps
+|p3=SkizGravity|p3flag=ch|pos3=dps
+|p5=Hyfane|p5flag=fr|pos5=sup
+|p4=??|p4flag=fr|pos4=sup
+|t2title=Staff
+|t2c1=Okibow|t2c1flag=fr|t2c1pos=manager
+|t2c2=Rikaa|t2c2flag=fr|t2c2pos=manager
+|qualifier=[[Neko_Ligue_Division 2_Split_3|Play-In Division 2]]
+|placement=1-3
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2U2|id=6Hs5pzlV3h
+
+<!-- Upper Bracket Final -->
+|R1M1={{Match
+    |bestof=3
+    |opponent1={{TeamOpponent|Shulker Fox reborn}}
+    |opponent2={{TeamOpponent|Dragon's Soul}}
+    |map1={{Map|map=busan|mode=control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Final -->
+|R1M2={{Match
+    |opponent1={{TeamOpponent|Nowoki Proxima}}
+    |opponent2={{TeamOpponent|Dragon's Soul}}
+    |map1={{Map|map=busan|mode=control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=King's row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Colosseo|mode=push|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |opponent1={{TeamOpponent|Shulker Fox reborn}}
+    |opponent2={{TeamOpponent|Nowoki proxima}}
+    |map1={{Map|map=busan|mode=control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=King's row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Colosseo|mode=push|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=junkertown|mode=escorte|score1=3|score2=2|winner=1}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

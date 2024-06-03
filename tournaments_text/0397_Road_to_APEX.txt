@@ -1,0 +1,355 @@
+{{DISPLAYTITLE:Road to APEX}}
+{{Tabs static
+|name1=Main Event |link1=Road to APEX
+|name2=Ro32 Qualifier|link2=Road to APEX/Qualifiers/Ro32
+|name3=Regional Qualifiers|link3=Road to APEX/Qualifiers/Regionals
+|This=1}}
+{{Infobox league
+|name=Road to APEX
+|shortname=Road to APEX
+|image=Roadtoapexlogo.jpg
+|icon=APEX Challengers logo.png
+|series=
+|abbreviation=
+|tickername=Road to APEX
+|organizer=Inven
+|organizer-link=http://www.inven.co.kr/webzine/
+|organizer2=Blizzard Entertainment
+|organizer2-link=http://kr.blizzard.com/ko-kr/
+|sponsor=
+|type=Offline
+|country=South Korea
+|city=Seoul
+|format=
+|prizepool=12,000,000
+|localcurrency=krw
+|prizepoolusd=10,606
+|sdate=2017-04-01
+|edate=2017-04-09
+|liquipediatier={{TierText/3}}
+|web=
+|twitter=
+|bracket=
+|twitch=teaminven
+|youtube=invenbroad
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=8
+}}
+{{TOClimit|3}}
+
+==About==
+'''Road to APEX''' is a [[:Category:Asia|Korean]] tournament.
+===Format===
+*'''General Rules''': Competitive Mode
+*'''Qualifier''': Regional qualifiers
+**All matches are {{Abbr/Bo3}}.
+*'''Playoffs''': Single Elimination
+**Quarter Finals are {{Abbr/Bo3}}.
+**Grand & Semi Finals are {{Abbr/Bo5}}.
+
+===Map Pool===
+
+*'''Best of 3''':
+**1st Set: [[Assault/Escort]] map.
+**2nd Set: [[Assault]] map.
+**3rd Set: [[Escort]] map.
+
+*'''Best of 5''':
+**1st Set: [[Control]] map.
+**2nd Set: [[Assault/Escort]] map.
+**3rd Set: [[Assault]] map.
+**4th Set: [[Escort]] map.
+**5th Set: [[Assault/Escort]] map (excluding map chosen in 2nd set).
+
+*In the case of a draw, a sudden death {{Abbr/Bo1}} round will be played on a [[Control]] map.
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Kim YeongIl|b1flag=kr|b1name=Kim Yeong-Il 김영일
+}}
+{{BroadcasterCard
+|position=Commentator
+|b1=BinBon |b1flag=kr |b1name=Kim Jin-Yeong 김진영
+|b2=Runner |b2flag=kr |b2name=Yoon Dae Hoon 윤대훈
+|b3=Neclitt |b3flag=kr |b3name=Kim Min Ki 김민기
+}}
+
+==Prize Pool==
+₩12,000,000  {{Abbr/KRW}} (~$10,606{{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=krw|points=qualified|cutafter=4}}
+{{prize pool slot|place=1 |usdprize=4,422|localprize=5,000,000|points=[[Overwatch_APEX/Challengers/Season 4|Challengers Season 4 ]]
+|gc busan|lastvs1=o2 blast|lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot|place=2 |usdprize=2,653|localprize=3,000,000|points= [[Overwatch_APEX/Season_3/Offline Qualifier|APEX Season 3 CS <br> Offline Qualifier]]
+|o2 blast|lastvs1=gc busan|lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot |place=3 |usdprize=884|localprize=1,000,000|points= [[Overwatch_APEX/Season_3/Offline Qualifier|APEX Season 3 CS <br> Offline Qualifier]]
+|benchgirls|lastvs1=ctu|lastscore1=3 |lastvsscore1=2
+}}
+{{prize pool slot |place=4 |usdprize=884|localprize=1,000,000
+|ctu|lastvs1=benchgirls|lastscore1=2 |lastvsscore1=3
+}}
+{{prize pool slot |place=5-8 |usdprize=442|localprize=500,000
+|kaltoegeun|lastvs1=ctu|lastscore1=2 |lastvsscore1=3
+|esq.wind|lastvs2=gc busan|lastscore2=0 |lastvsscore2=3
+|wangbok ishimman-won|lastvs3=o2 blast|lastscore3=0 |lastvsscore3=3
+|twoletter|lastvs4=benchgirls|lastscore4=1 |lastvsscore4=3
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=GC Busan
+|image=GC Busanlogo.png
+|p1=Hooreg|p1flag=kr|pos1=dps
+|p2=Profit|p2flag=kr|pos2=dps
+|p3=Ariel|p3flag=kr|pos3=flex
+|p4=Gesture|p4flag=kr|pos4=tank
+|p5=Aid|p5flag=kr|pos5=sup
+|p6=HaGoPeun|p6flag=kr|pos6=sup
+|c=Jfeel
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=esq.wind
+|image=esqwindlogo.png
+|p1=ART|p1flag=kr|pos1=dps
+|p2=windjunny|p2flag=kr|pos2=dps
+|p3=GooSeJu|p3flag=kr|pos3=flex
+|p4=Edel|p4flag=kr|pos4=tank
+|p5=Control|p5flag=kr|p5link=Control (Another player)|pos5=sup
+|p6=InY0uNg|p6flag=kr|pos6=sup
+|c=Nemesis|cflag=kr
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team= BenchGirls
+|image=BenchGirls_logo.png
+|p1=diog|p1flag=kr|pos1=dps
+|p2=mendes|p2flag=kr|pos2=dps
+|p3=Hyunsu|p3flag=kr|pos3=flex
+|p4=yakpung|p4flag=kr|pos4=tank
+|p5=클로티치|p5flag=kr|pos5=sup
+|p6=쪼낙|p6flag=kr|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=O2 Blast
+|image=O2 Blastlogo.png
+|p1=ccj|p1flag=kr|pos1=dps
+|p2=우햘|p2flag=kr|pos2=dps
+|p3=IVAR|p3flag=kr|pos3=flex
+|p4=Shun|p4flag=kr|pos4=tank
+|p5=Viol2t|p5flag=kr|pos5=sup
+|p6=AMY|p6flag=kr|pos6=sup
+|c=O2Boss|cflag=kr
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=CTU
+|image=Ctupathoslogo.png
+|p1=NokB|p1flag=kr|pos1=dps
+|p2=강남진|p2flag=kr|pos2=dps
+|p3=정다운|p3flag=kr|pos3=flex
+|p4=Millet|p4flag=kr|pos4=tank
+|p5=TIA|p5flag=kr|pos5=sup
+|p6=JINI|p6flag=kr|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=TwoLetter
+|image=twoletterlogo.png
+|p1=TIMEFLOW|p1flag=kr|pos1=dps
+|p2=PDE|p2flag=kr|pos2=dps
+|p3=YongMyo|p3flag=kr|pos3=flex
+|p4=Vulture|p4flag=kr|pos4=tank
+|p5=GuMyo|p5flag=kr|pos5=sup
+|p6=HeeWooNG|p6flag=kr|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Kaltoegeun
+|image=Kaltoegeun_logo.png
+|p1=DACO|p1flag=kr|pos1=dps
+|p2=rapel|p2flag=kr|pos2=flex
+|p3=Heecheong|p3flag=kr|pos3=flex
+|p4=plz|p4flag=kr|pos4=tank
+|p5=알토|p5flag=kr|pos5=sup
+|p6=붕붕이|p6flag=kr|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Wangbok Ishimman-won
+|image=Wangbok_Ishimman-won_logo.png
+|p1=debug|p1flag=kr|pos1=dps
+|p2=ProG|p2flag=kr|pos2=flex
+|p3=Juva|p3flag=kr|pos3=flex
+|p4=Britz|p4flag=kr|pos4=tank
+|p5=아재피지컬|p5flag=kr|pos5=sup
+|p6=WonJaeLee|p6flag=kr|pos6=sup
+|qualifier=
+}}
+{{box|end}}
+
+==Results==
+===Playoffs===
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=nQtGDXjhhY
+<!-- QUARTERFINALS -->
+|R1D1team=kaltoegeun |R1D1score= 2|R1D1win=
+|R1D2team=ctu |R1D2score=3 |R1D2win=1
+|R1G1details={{BracketMatchSummary 
+|date=April 1, 2017 - 13:00 {{Abbr/KST}}
+|stream=
+|finished=true
+|vodgame1=https://youtu.be/IlmtWAFARuc
+|vodgame2=https://youtu.be/h6t5F61nvbQ
+|vodgame3=https://youtu.be/hK2bX1x68To
+|map1=Oasis|map1score=0-2|map1win=2
+|map2=King's Row|map2score=2-3|map2win=2
+|map3=Hanamura|map3score=2-1|map3win=1
+|map4=Dorado|map4score=4-3|map4win=1
+|map5=Numbani|map5score=2-3|map5win=2
+|overgg=
+|pf=
+}}
+|R1D3team=esq.wind |R1D3score= 0|R1D3win=
+|R1D4team=gc busan |R1D4score= 3|R1D4win=1
+|R1G2details={{BracketMatchSummary 
+|date=April 1, 2017 - 14:00 {{Abbr/KST}}
+|stream=
+|finished=true
+|vodgame1=https://youtu.be/aLFuaylKqt8
+|vodgame2=https://youtu.be/S4LKpV8Fqb0
+|map1=Ilios|map1score=0-2|map1win=2
+|map2=King's Row|map2score=1-2|map2win=2
+|map3=Hanamura|map3score=1-2|map3win=2
+|overgg=
+|pf=
+}}
+|R1D5team=wangbok ishimman-won |R1D5score=0 |R1D5win=
+|R1D6team=o2 blast |R1D6score=3 |R1D6win=1
+|R1G3details={{BracketMatchSummary 
+|date=April 2, 2017 - 13:00 {{Abbr/KST}}
+|stream=
+|finished=true
+|vodgame1=https://youtu.be/d4mJEoCzTZI
+|vodgame2=https://youtu.be/bNr6MaKDWk4
+|map1=Lijiang Tower|map1score=0-2|map1win=2
+|map2=King's Row|map2score=2-3|map2win=2
+|map3=Hanamura|map3score=0-1|map3win=2
+|overgg=
+|pf=
+}}
+|R1D7team=twoletter |R1D7score=1 |R1D7win=
+|R1D8team=benchgirls|R1D8score=3 |R1D8win=1
+|R1G4details={{BracketMatchSummary 
+|date=April 2, 2017 - 14:00 {{Abbr/KST}}
+|stream=
+|finished=true
+|vodgame1=https://youtu.be/ZXaYiYlqzUw
+|vodgame2=https://youtu.be/0rnh2vLA-TQ
+|map1=Lijiang Tower|map1score=2-0|map1win=1
+|map2=King's Row|map2score=5-6|map2win=2
+|map3=Volskaya Industries|map3score=2-3|map3win=2
+|map4=Dorado|map4score=1-2|map4win=2
+|overgg=
+|pf=
+}}
+<!-- SEMIFINALS -->
+|R2W1team=ctu|R2W1score=0 |R2W1win=
+|R2W2team=gc busan|R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=April 8, 2017 - 13:00 {{Abbr/KST}}
+|stream=
+|finished=true
+|vodgame1=https://youtu.be/mcCvRenc_K4
+|vodgame2=https://youtu.be/3NR_A8Y0X3Y
+|map1=Nepal|map1score=0-2|map1win=2
+|map2=Numbani|map2score=0-1|map2win=2
+|map3=Volskaya Industries|map3score=1-2|map3win=2
+|overgg=
+|pf=24861
+}}
+|R2W3team=o2 blast |R2W3score=3|R2W3win=1
+|R2W4team=benchgirls|R2W4score=0 |R2W4win=
+|R2G2details={{BracketMatchSummary 
+|date=April 8, 2017 - 15:00 {{Abbr/KST}}
+|stream=
+|finished=true
+|vodgame1=https://youtu.be/iYlp5GZDGAw
+|vodgame2=https://youtu.be/5zyg2S_GEjI
+|map1=Oasis|map1score=2-0|map1win=1
+|map2=King's Row|map2score=5-4|map2win=1
+|map3=Hanamura|map3score=1-1|map3win=draw
+|map4=Lijiang Tower|map4score=1-0|map4win=1
+|overgg=
+|pf=24862
+}}
+<!-- FINALS -->
+|R3W1team=gc busan |R3W1score=3 |R3W1win=1
+|R3W2team=o2 blast|R3W2score=0 |R3W2win=
+|R3G1details={{BracketMatchSummary 
+|date=April 9, 2017 - 15:00 {{Abbr/KST}}
+|stream=
+|finished=true
+|vodgame1=https://youtu.be/JyPzOom4kaE
+|vodgame2=https://youtu.be/e1FURsoNAjw
+|map1=Lijiang Tower|map1score=2-0|map1win=1
+|map2=Hollywood|map2score=3-2|map2win=1
+|map3=Temple of Anubis|map3score=2-2|map3win=draw
+|map4=Ilios|map4score=1-0|map4win=1
+|overgg=
+|pf=24859
+}}
+<!-- 3RD PLACE (optional) -->
+|R3D1team=ctu |R3D1score=2 |R3D1win=
+|R3D2team=benchgirls|R3D2score=3 |R3D2win=1
+|R3G2details={{BracketMatchSummary 
+|date=April 9, 2017 - 13:00 {{Abbr/KST}}
+|stream=
+|finished=true
+|vodgame1=https://youtu.be/L1GvHIcUAi0
+|vodgame2=https://youtu.be/Di4QdAXVzIA
+|map1=Lijiang Tower|map1score=2-0|map1win=1
+|map2=King's Row|map2score=5-4|map2win=1
+|map3=Volskaya Industries|map3score=1-2|map3win=2
+|map4=Watchpoint: Gibraltar|map4score=1-2|map4win=2
+|map5=Hollywood|map5score=3-3|map5win=draw
+|map6=Oasis|map6score=0-1|map6win=2
+|overgg=
+|pf=24860
+}}
+}}
+
+==View Games==
+===Streams===
+{| class="sortable wikitable" style="text-align:center;"
+|-style="background-color:#f3f3f3;"
+|-
+!width="60"|Language
+|width="40"|{{flag/kr}}
+|-
+!rowspan=3|Stream
+|{{TwitchIcon|link=teaminven}}
+|-
+|{{YouTubeIcon|link=user/invenbroad}}
+|-
+|{{AfreecaIcon|link=teaminven}}
+|}
+
+==References==
+*{{flag/kr}} [http://sports.news.naver.com/esports/news/read.nhn?oid=442&aid=0000052817 Official Announcement]
+*{{flag/kr}} [http://overwatch.inven.co.kr/pcbang/ Official Announcement 2]
+{{Reflist}}

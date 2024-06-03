@@ -1,0 +1,221 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #75",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "75",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2017-11-05",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-75/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "42",
+            "previous": "Go4Overwatch/Europe/Weekly/74{{!}}Go4 Europe Cup #74",
+            "next": "Go4Overwatch/Europe/Weekly/76{{!}}Go4 Europe Cup #76"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "ASMR",
+            "p1": "JuCrazy|p1flag=be",
+            "p2": "MALIXIAWELS|p2flag=fr",
+            "p3": "MrRedZ|p3flag=fr",
+            "p4": "SkuyzZ |p4flag=fr",
+            "p5": "Squarex|p5flag=fr",
+            "p6": "TruxPlay|p6flag=fr"
+        },
+        {
+            "team": "AugmentedAuthority",
+            "p1": "FlexG|p1flag=ie",
+            "p2": "Bittersweet|p2flag=uk",
+            "p3": "Kotetsu|p3flag=hu",
+            "p4": "Timarien|p4flag=de",
+            "p5": "milkyman|p5flag=fi",
+            "p6": "Taang|p6flag=se"
+        },
+        {
+            "team": "Dominaticus Esports",
+            "p1": "Skou|p1flag=dk",
+            "p2": "Declone|p2flag=ee",
+            "p3": "Drini|p3flag=be",
+            "p4": "Fracticol|p4flag=bg",
+            "p5": "Ninjaboy014|p5flag=nl",
+            "p6": "ReeceyClone|p6flag=uk"
+        },
+        {
+            "team": "eSuba",
+            "p1": "ottr|p1flag=se |pos1=dps",
+            "p2": "Ascoft|p2flag=fr |pos2=tank",
+            "p3": "Sardis|p3flag=cz |pos3=dps",
+            "p4": "Tomkas|p4flag=cz |pos4=flex",
+            "p5": "Derenecko|p5flag=cz |pos5=sup",
+            "p6": "Exorath|p6flag=cz |pos6=sup"
+        },
+        {
+            "team": "FC Lahti Menace",
+            "p1": "Desperado|p1flag= fi|pos1=dps",
+            "p2": "Snoo|p2flag= fi|pos2=dps",
+            "p3": "Setlet |p3flag= fi|pos3=flex",
+            "p4": "Xippeli|p4flag= fi|pos4=tank",
+            "p5": "dannyel4f |p5flag= fi|pos5=sup",
+            "p6": "FaRmaS |p6flag= fi|pos6=sup"
+        },
+        {
+            "team": "Final Gaming",
+            "p1": "Skillyjoe|p1flag=at",
+            "p2": "cRRuSt|p2flag=de",
+            "p3": "Adi|p3flag=de",
+            "p4": "Yato|p4flag=de",
+            "p5": "KvN|p5flag=de",
+            "p6": "Massie|p6flag=de"
+        },
+        {
+            "team": "Get Gaming",
+            "p1": "ANJ|p1flag=nl",
+            "p2": "Argontic|p2flag=nl",
+            "p3": "Basickz|p3flag=nl",
+            "p4": "Prey|p4flag=nl",
+            "p5": "ScorpionDaan|p5flag=nl",
+            "p6": "Typhoon|p6flag=be|p6link=Typhoon (Belgian Player)"
+        },
+        {
+            "team": "Hostage Club",
+            "p1": "DoorMan|p1flag=es|pos1=",
+            "p2": "MarKuSMaS|p2flag=es|pos2=dps",
+            "p3": "Fercodo|p3flag=es|pos3=flex",
+            "p4": "Dielgos|p4flag=es|pos4=tank",
+            "p5": "Mercynary|p5flag=es|pos5=",
+            "p6": "Shedrick|p6flag=es|pos6="
+        },
+        {
+            "team": "Ice Wolves",
+            "p1": "Advocate |p1flag=pt",
+            "p2": "Armadillo|p2flag=nl",
+            "p3": "FunnyHunter|p3flag=dk",
+            "p4": "Nadapop|p4flag=dk",
+            "p5": "PhynX |p5flag=hr",
+            "p6": "Sungam|p6flag=uk"
+        },
+        {
+            "team": "Koord Narwhals",
+            "p1": "bendo|p1flag=fi",
+            "p2": "Rigs|p2flag=il",
+            "p3": "Silver|p3flag=ie",
+            "p4": "Soruk |p4flag=se",
+            "p5": "Sundays|p5flag=nl",
+            "p6": "datirnoy|p6flag=se"
+        },
+        {
+            "team": "Lithium Esport",
+            "p1": "Dounatsu|p1flag=de",
+            "p2": "Endreo|p2flag=no",
+            "p3": "IceTea|p3flag=es",
+            "p4": "Snerk|p4flag=no",
+            "p5": "Zyph|p5flag=no",
+            "p6": "hetsen|p6flag=se"
+        },
+        {
+            "team": "MHD",
+            "p1": "JoonasH|p1flag=fi",
+            "p2": "Lepadef|p2flag=fi",
+            "p3": "SKIPAH|p3flag=fi",
+            "p4": "xVestola|p4flag=fi",
+            "p5": "freni|p5flag=fi",
+            "p6": "j\u00f6nssoni|p6flag=fi"
+        },
+        {
+            "team": "Never on Time",
+            "p1": "Zagi|p1flag=pl",
+            "p2": "OGValdis|p2flag=lv",
+            "p3": "B\u00e0g\u00f9\u0119tt\u0113|p3flag=no",
+            "p4": "Sadamik|p4flag=ru",
+            "p5": "Xenlon|p5flag=de",
+            "p6": "Styge|p6flag=fi"
+        },
+        {
+            "team": "Old Wolves",
+            "p1": "LoxarNP|p1flag=es",
+            "p2": "Periki|p2flag=es",
+            "p3": "SoyAngel|p3flag=es",
+            "p4": "TheDaviDraKo|p4flag=es",
+            "p5": "jozapoza|p5flag=es",
+            "p6": "roobertoo1|p6flag=es"
+        },
+        {
+            "team": "oompaloompas",
+            "p1": "Mono|p1flag=dk",
+            "p2": "Chubz |p2flag=fr",
+            "p3": "Fae|p3flag=uk",
+            "p4": "Surya|p4flag=fr",
+            "p5": "Dridro|p5flag=fr",
+            "p6": "kevster|p6flag=se"
+        },
+        {
+            "team": "SuperNova eSports",
+            "p1": "Affinity |p1flag=dk",
+            "p2": "Badoli1234|p2flag=dk",
+            "p3": "Benji|p3flag=dk",
+            "p4": "Grahl |p4flag=dk",
+            "p5": "Frost|p5link=Frost (Danish player)|p5flag=dk",
+            "p6": "RasmusSux|p6flag=dk"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "oompaloompas",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "esuba",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "oompaloompas",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "esuba",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "oompaloompas",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "esuba",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "oompaloompas",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "esuba",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "final gaming",
+            "score2": "2",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "fc lahti menace",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,364 @@
+{{Open Division Navbox}}
+{{DISPLAYTITLE:Open Division 2017 Season 1 - Western Europe}}
+{{Infobox league
+|name=Open Division 2017 Season 1 - Western Europe
+|shortname=OD 2017 S1 - EU West
+|image=Open Division.png
+|icon=Open Division small.png
+|series=Open Division
+|abbreviation=Open Division
+|tickername=Open Division 2017 S1 - EU West
+|organizer=FACEIT
+|organizer2=Blizzard
+|sponsor=
+|type=Online
+|country=Europe
+|city=
+|format=
+|prizepool=
+|localcurrency=
+|prizepoolusd=
+|sdate=2017-08-26
+|edate=2017-08-29
+|liquipediatier=4
+|web=https://www.faceit.com/en/championship/51facfc8-c45a-4ec1-99a3-9161d72b535c/OVERWATCH%20OPEN%20DIVISION%20WESTERN%20EUROPE
+|twitter=
+|bracket=https://www.faceit.com/en/overwatch_EU/tournament/983f2efb-520d-4aaa-a715-d0214a896450/brackets
+|bracket2=
+|twitch=
+|team_number=148
+}}
+{{TOClimit|3}}
+
+==About==
+===Format===
+*'''Group Stage''': Swiss System
+**All matches are {{Abbr/Bo5}}.
+**'''Top 8''' advance to Playoffs.
+*'''Playoffs''': Single Elimination
+**Random seeds.
+**Quarter and Semifinals are {{Abbr/Bo5}}.
+**Grand Finals are {{Abbr/Bo7}}.
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=|b1name=|b1flag=
+|b2=|b2name=|b2flag=
+}}
+==Prize Pool==
+{{box|start|padding=2em}}
+{{prize pool start|noprize=y|cutafter=4}}
+{{prize pool slot|place=1 |iceblock|lastvs1=team yp|lastscore1=4 |lastvsscore1=1 }}
+{{prize pool slot|place=2 |team yp|lastvs1=iceblock|lastscore1=1 |lastvsscore1=4 }}
+{{prize pool slot |place=3-4 
+|the gatekeepers|lastvs1=iceblock|lastscore1= |lastvsscore1=
+|tribunal esports|lastvs2=team yp|lastscore2=0 |lastvsscore2=3
+}}
+{{prize pool slot|place=5-8
+|honor esports|lastvs1=tribunal esports|lastscore1=2 |lastvsscore1=3
+|wizards club|lastvs2=team yp|lastscore2=1 |lastvsscore2=3
+|hallediciler|lastvs3=the gatekeepers|lastscore3= |lastvsscore3=
+|esports wiesbaden pro|lastvs4=iceblock  |lastscore4= |lastvsscore4=
+}}
+{{Prize pool end}}
+{{Box|break|padding=2em}}
+{{Open Division prizes}}
+{{box|end|padding=2em}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Iceblock
+|image=
+|p1=Flippy|p1flag=|pos1=flex
+|p2=Kryw|p2flag=|pos2=flex
+|p3=Hayko|p3flag=|pos3=flex
+|p4=SuperPlouk|p4flag=|pos4=tank
+|p5=Lilbow|p5flag=|pos5=sup
+|p6=Baud|p6flag=|pos6=sup
+|p7=MarineLorD|p7flag=fr|pos7=sup
+|c=moonL|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=eSports Wiesbaden Pro
+|image=ESports-Wiesbaden.png
+|p1=sucraX|p1flag=de|pos1=
+|p2=Losian|p2flag=de|pos2=
+|p3=Basti23|p3flag=de|pos3=
+|p4=DirtyBubble|p4flag=de|pos4=
+|p5=IgniteTheSky|p5flag=de|pos5=
+|p6=HorrorKidX|p6flag=de|pos6=
+|p7=|p7flag=|pos7=
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=The Gatekeepers
+|image=
+|p1=bulldoq|p1flag=no|pos1=dps
+|p2=STK|p2flag=nl|pos2=dps
+|p3=EpicMouse|p3flag=no|pos3=flex
+|p4=Kuruke|p4flag=no|pos4=tank
+|p5=Freddey|p5flag=no|pos5=sup
+|p6=nesty|p6flag=nl|pos6=sup
+|p7=|p7flag=|pos7=
+|c=AskForMore|cflag=no
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Hallediciler
+|image=
+|p1=SYŦREX|p1flag=tr|pos1=
+|p2=Agay|p2flag=tr|pos2=
+|p3=he4rtbeat|p3flag=tr|pos3=
+|p4=LLLLLLLL|p4flag=tr|pos4=
+|p5=GameLost|p5flag=tr|pos5=
+|p6=Edwin|p6flag=tr|pos6=
+|p7=|p7flag=|pos7=
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team YP
+|image=
+|p1=XEWER|p1flag=fr|pos1=dps
+|p2=Osnazeni|p2flag=fr|pos2=dps
+|p3=Zenko|p3flag=fr|pos3=flex
+|p4=Valmaster|p4flag=fr|pos4=tank
+|p5=Quoizamama|p5flag=fr|pos5=sup
+|p6=Jio|p6flag=fr|pos6=sup
+|p7=|p7flag=|pos7=
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Wizards e-Sports Club
+|image=
+|p1=Saura|p1flag=|pos1=dps
+|p2=Veteranjr|p2flag=|pos2=dps
+|p3=Vinanrra|p3flag=|pos3=flex
+|p4=Woolridge|p4flag=|pos4=tank
+|p5=minicunga|p5flag=es|pos5=sup
+|p6=Shevatas|p6flag=|pos6=sup
+|p7=|p7flag=|pos7=
+|c=Allf|cflag=es
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Tribunal eSports
+|image=Tribunal_eSports_Logo.png
+|p1=sKoxx|p1flag=de|pos1=
+|p2=GodF4th3r|p2flag=de|pos2=
+|p3=Adi|p3flag=de|pos3=
+|p4=Zackboom|p4flag=de|pos4=
+|p5=Massie|p5flag=de|pos5=
+|p6=SrsLee|p6flag=de|pos6=
+|p7=|p7flag=|pos7=
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Honor Esports
+|image=Honor_Esports_logo.png
+|p1=Venom |p1flag=de|pos1=dps|p1link=Venom (German player)
+|p2=Taube |p2flag=si|pos2=dps
+|p3=MISIX |p3flag=no|pos3=flex
+|p4=TheBanHammer |p4flag=uk|pos4=flex
+|p5=Foxrider |p5flag=de|pos5=flex
+|p6=Simmi |p6flag=de|pos6=tank
+|p7=Minimi |p7flag=at|pos7=sup
+|p8=XxHARAMBExX|p8flag=de|pos8=sup
+|c=|cflag=
+|qualifier=
+}}
+{{box|end}}
+
+==Results==
+===Playoffs===
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=dX6BsS4BY0
+|column-width=200
+<!-- QUARTERFINALS -->
+|R1D1team=iceblock  |R1D1score=W |R1D1win=1
+|R1D2team=esports wiesbaden pro |R1D2score=- |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=August 26, 2017 - 15:00 {{Abbr/CEST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=the gatekeepers |R1D3score=W |R1D3win=1
+|R1D4team=hallediciler|R1D4score=- |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=August 26, 2017 - 15:00 {{Abbr/CEST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=team yp |R1D5score=3 |R1D5win=1
+|R1D6team=wizards club |R1D6score=1 |R1D6win=
+|R1G3details={{BracketMatchSummary 
+|date=August 26, 2017 - 15:00 {{Abbr/CEST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D7team=tribunal esports |R1D7score=3 |R1D7win=1
+|R1D8team=honor esports  |R1D8score=2 |R1D8win=
+|R1G4details={{BracketMatchSummary 
+|date=August 26, 2017 - 15:00 {{Abbr/CEST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R2W1team=iceblock  |R2W1score=W |R2W1win=1
+|R2W2team=the gatekeepers |R2W2score=- |R2W2win=
+|R2G1details={{BracketMatchSummary 
+|date=August 26, 2017 - 17:00 {{Abbr/CEST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W3team=team yp |R2W3score=3 |R2W3win=1
+|R2W4team=tribunal esports |R2W4score=0 |R2W4win=
+|R2G2details={{BracketMatchSummary 
+|date=August 26, 2017 - 17:00 {{Abbr/CEST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R3W1team=iceblock |R3W1score=4 |R3W1win=1
+|R3W2team=team yp |R3W2score=1 |R3W2win=
+|R3G1details={{BracketMatchSummary 
+|date=August 27, 2017
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- 3RD PLACE (optional) -->
+|R3D1team= |R3D1score= |R3D1win=
+|R3D2team= |R3D2score= |R3D2win=
+|R3G2details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+
+==Additional Data==
+===Playoff Country Representation===
+
+<section begin="Country Representation"/>
+{{Country representation}}
+<section begin="Country Representation"/>
+
+==References==
+{{Reflist}}

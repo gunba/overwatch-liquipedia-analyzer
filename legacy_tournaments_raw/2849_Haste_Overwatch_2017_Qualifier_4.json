@@ -1,0 +1,186 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "shortname": "",
+            "name": "Haste Overwatch: Qualifier #4",
+            "series": "Haste Overwatch",
+            "abbreviation": "Haste Overwatch",
+            "icon": "Haste Overwatch logo small.png",
+            "image": "Haste_Overwatch_logo.png",
+            "organizer": "",
+            "sponsor": "",
+            "type": "Online",
+            "region": "NA",
+            "country": "North America",
+            "twitch": "",
+            "format": "",
+            "prizepoolusd": "360",
+            "date": "2017-01-28",
+            "web": "",
+            "bracket": "https://battlefy.com/the-overguard/haste-overwatch-qualifier-4/58655d74179b3c4703252bff/info",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "27"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Counter Logic Gaming",
+            "image": "",
+            "p1": "Miso|p1flag=",
+            "p2": "Hydration|p2flag=",
+            "p3": "waffletastic|p3flag=",
+            "p4": "iShiny|p4flag=",
+            "p5": "Mikado|p5flag=",
+            "p6": "The|p6flag="
+        },
+        {
+            "team": "Late Bloomers",
+            "image": "",
+            "p1": "ohNocturnal|p1flag=us",
+            "p2": "SPACE|p2flag=us",
+            "p3": "Corey|p3flag=us",
+            "p4": "bowswer|p4flag=us",
+            "p5": "Beasthalo|p5flag=us",
+            "p6": "MrSquishee|p6flag=ca"
+        },
+        {
+            "team": "thinking",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Wolfpack Team",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Toronto Esports",
+            "image": "",
+            "p1": "NGvisator|p1flag=",
+            "p2": "NotE|p2flag=",
+            "p3": "Jaru|p3flag=",
+            "p4": "ONIGOD|p4flag=",
+            "p5": "PsychoWaffle|p5flag=",
+            "p6": "Hexo|p6flag="
+        },
+        {
+            "team": "Kangaroo Jacks",
+            "image": "",
+            "p1": "Tehpwnzorr|p1flag=",
+            "p2": "sharky|p2flag=",
+            "p3": "Traumist|p3flag=",
+            "p4": "tylan|p4flag=",
+            "p5": "Pix|p5flag=",
+            "p6": "Chanse|p6flag="
+        },
+        {
+            "team": "doot doot",
+            "image": "",
+            "p1": "Cloneman16|p1flag=us",
+            "p2": "Deadly|p2flag=us",
+            "p3": "Majesty|p3flag=ca",
+            "p4": "Moth|p4flag=us",
+            "p5": "OtterInWater|p5flag=us",
+            "p6": "Trevorius|p6flag=us"
+        },
+        {
+            "team": "Momentary",
+            "image": "",
+            "p1": "PlasmaSnake|p1flag=us",
+            "p2": "Danteh",
+            "p3": "Mars|p3flag=us",
+            "p4": "Smevz|p4flag=us",
+            "p5": "Del",
+            "p6": "Jake|p6flag=us"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "late bloomers",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "clg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "wolfpack team",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "thinking",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "kangaroo jacks",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "toronto esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "momentary",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "doot doot",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "thinking",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "clg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "doot doot",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "kangaroo jacks",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "doot doot",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "clg",
+            "score1": "2",
+            "win1": ""
+        },
+        {
+            "team2": "kangaroo jacks",
+            "score2": "0",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "thinking",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,144 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "WhosxSabrina's Overwatch Community Tournament",
+            "tickername": "WhosxSabrina's Overwatch Community Tournament",
+            "image": "",
+            "icon": "",
+            "organizer": "WhosxSabrina",
+            "organizer-link": "https://twitch.tv/whosxsabrina",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "100",
+            "date": "2023-05-26",
+            "twitch": "whosxsabrina",
+            "rulebook": "https://www.start.gg/tournament/whosxsabrina-s-may-26th-community-tournament/event/whosxsabrina-s-overwatch-community-tournament/overview/rules",
+            "bracket": "https://www.start.gg/tournament/whosxsabrina-s-may-26th-community-tournament/event/whosxsabrina-s-overwatch-community-tournament",
+            "team_number": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Lucky Charm",
+            "p1": "Superman1448|pos1=dps|p1flag=us",
+            "p2": "Gloomy|pos2=|p2flag=us",
+            "p3": "Dorno|pos3=|p3flag=us",
+            "p4": "Rikimaru|pos4=|p4flag=us",
+            "p5": "ITSBOOGYTIME|pos5=|p5flag=us"
+        },
+        {
+            "team": "Soups Kitchen",
+            "p1": "Souphzx|pos1=|p1flag=nl",
+            "p2": "Nephalim|pos2=|p2flag=us",
+            "p3": "ParisHilton|pos3=|p3flag=uk",
+            "p4": "iZenRey|pos4=|p4flag=us",
+            "p5": "Deadlypants|pos5=|p5flag=us"
+        },
+        {
+            "team": "Rebel Gaming",
+            "p1": "QwertyTumor|pos1=dps|p1flag=us",
+            "p2": "wildwingBat|pos2=dps|p2flag=us",
+            "p3": "Hertz|pos3=tank|p3flag=us",
+            "p4": "Kernmaster|pos4=sup|p4flag=us",
+            "p5": "HaydoGo|pos5=sup|p5flag=us"
+        },
+        {
+            "team": "Sheer Hot",
+            "p1": "M3WS|pos1=dps|p1flag=dps",
+            "p2": "Bones|pos2=dps|p2flag=es",
+            "p3": "Erikek|pos3=tank|p3flag=es",
+            "p4": "Aleexia|pos4=sup|p4flag=es",
+            "p5": "Pnda|pos5=sup|p5flag=es"
+        },
+        {
+            "team": "Cat\u00b2",
+            "p1": "Narwal|pos1=|p1flag=us",
+            "p2": "spacepirate549|pos2=|p2flag=us",
+            "p3": "Erebus|pos3=|p3flag=us",
+            "p4": "plscat|pos4=|p4flag=us",
+            "p5": "Binominal|pos5=|p5flag=vi"
+        },
+        {
+            "team": "HITBOXHOES",
+            "p1": "BryceIsFancy|pos1=|p1flag=us",
+            "p2": "Woodnaldinho|pos2=|p2flag=pf",
+            "p3": "lilmarmoe|pos3=|p3flag=us",
+            "p4": "Vilis8246|pos4=|p4flag=us",
+            "p5": "Alacajam|pos5=|p5flag=us"
+        },
+        {
+            "team": "Bonkers",
+            "link": "Bonkers (North American Team)",
+            "p1": "Ember|pos1=|p1flag=us",
+            "p2": "Humble|pos2=|p2flag=us",
+            "p3": "Hippo|pos3=|p3flag=us",
+            "p4": "Slowking|pos4=|p4flag=us",
+            "p5": "Scottmelons|pos5=|p5flag=us"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Lucky Charm|score=1}}",
+            "opponent2": "{{TeamOpponent|Cat\u00b2|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "opponent2": "{{TeamOpponent|Soups Kitchen|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Rebel Gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|HITBOXHOES|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bonkers|score=2}}",
+            "opponent2": "{{TeamOpponent|Cat\u00b2|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "opponent2": "{{TeamOpponent|Rebel Gaming|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bonkers|score=0}}",
+            "opponent2": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        }
+    ]
+}

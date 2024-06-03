@@ -1,0 +1,401 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "liquipediatiertype": "Qualifier",
+            "abbreviation": "KMA Summer",
+            "name": "KMA Esports Summer Fest Qualifier #1",
+            "shortname": "KMA Summer Qualifier #1",
+            "tickername": "KMA Esports Summer Fest Qualifier #1",
+            "icon": "",
+            "image": "",
+            "series": "KMA Summer",
+            "organizer": "KMA",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Russia",
+            "format": "Double Elimination",
+            "prizepoolusd": "",
+            "sdate": "2023-07-01",
+            "edate": "2023-07-01",
+            "twitter": "",
+            "web": "",
+            "twitch": "ema_live2",
+            "discord": "RyRbZfZCMJ",
+            "youtube": "",
+            "vk": "esportsmedicine",
+            "rulebook": "https://docs.google.com/document/d/1mvORSFV6jdAuvSbmoHwq2vwOZOgnphX0oADalpNAijw/edit#heading=h.8v6ywwg0i9go",
+            "bracket": "https://play.toornament.com/en_GB/tournaments/6863811021817634816/",
+            "teamfirst": "",
+            "team_number": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "PopCorn Goated",
+            "image": "",
+            "p1": "\u0421\u041a\u041e\u0422\u041e\u0411\u041e\u0419\u041d\u042f",
+            "p1flag": "",
+            "pos1": "tank",
+            "p2": "Wavewalker",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Flame",
+            "p3flag": "",
+            "pos3": "dps",
+            "p3link": "Flame (PopCorn player)",
+            "p4": "Phoenix",
+            "p4flag": "",
+            "pos4": "sup",
+            "p5": "Discordance",
+            "p5flag": "",
+            "pos5": "sup"
+        },
+        {
+            "team": "Losing Sanity",
+            "image": "",
+            "p1": "Sanro",
+            "p1flag": "ua",
+            "pos1": "tank",
+            "p2": "kai41",
+            "p2flag": "ru",
+            "pos2": "dps",
+            "p3": "Saicore",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "SilentAshley",
+            "p4flag": "ru",
+            "pos4": "sup",
+            "p5": "DDUDUDDUDU",
+            "p5flag": "",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc",
+            "t2p1pos": "Manager",
+            "t2p1flag": "ru"
+        },
+        {
+            "team": "Takahashi",
+            "image": "",
+            "p1": "Monegon",
+            "p1flag": "",
+            "pos1": "tank",
+            "p2": "Cooper",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Firey",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "Maven",
+            "p4flag": "",
+            "pos4": "sup",
+            "p5": "CHKVX",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "NikolayGame",
+            "p6flag": "",
+            "pos6": "sup"
+        },
+        {
+            "team": "Mercy One Love",
+            "image": "",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "B-Stars|score=W",
+            "opponent2": "Bauman Legkotnya|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "MSU Esports",
+            "opponent1_score": 0,
+            "opponent2": "PopCorn Goated",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "Takahashi",
+            "opponent1_score": 2,
+            "opponent2": "Mercy One Love",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "Forbidden Land",
+            "opponent1_score": 0,
+            "opponent2": "Losing Sanity",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "B-STARS",
+            "opponent1_score": 0,
+            "opponent2": "PopCorn Goated",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "Takahashi",
+            "opponent1_score": 1,
+            "opponent2": "Losing Sanity",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "MSU Esports|score=W",
+            "opponent2": "Frozen Sun|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "opponent1": "Forbidden Land",
+            "opponent1_score": 0,
+            "opponent2": "Mercy One Love",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "opponent1": "Takahashi",
+            "opponent1_score": 2,
+            "opponent2": "MSU Esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "B-STARS",
+            "opponent1_score": 0,
+            "opponent2": "Mercy One Love",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        }
+    ]
+}

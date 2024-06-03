@@ -1,0 +1,241 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "liquipediatiertype": "",
+            "name": "Neon Nights Gaming #1",
+            "shortname": "Neon Nights Gaming 1",
+            "tickername": "Neon Nights Gaming #1",
+            "icon": "Neon Nights Gaming Icon allmode.png",
+            "image": "Neon Nights Gaming allmode.png",
+            "series": "",
+            "abbreviation": "NNG",
+            "organizer": "Neon Nights",
+            "organizer-link": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "usca",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "100",
+            "localcurrency": "",
+            "prizepool": "",
+            "date": "2023-10-07",
+            "discord": "https://discord.gg/3AznG3BNqw",
+            "team_number": "4",
+            "next": "Neon_Nights_Gaming/2{{!}}Neon Nights Gaming #2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Pineapple",
+            "p1": "shisui",
+            "p1flag": "usca",
+            "pos1": "",
+            "p2": "Shrimps21",
+            "p2flag": "usca",
+            "pos2": "",
+            "p3": "force",
+            "p3flag": "usca",
+            "pos3": "",
+            "p4": "vex",
+            "p4flag": "usca",
+            "pos4": "",
+            "p5": "stimmywimmy",
+            "p5flag": "usca",
+            "pos5": ""
+        },
+        {
+            "team": "Team Banana",
+            "p1": "Inquisitor",
+            "p1flag": "usca",
+            "pos1": "",
+            "p2": "SLurking",
+            "p2flag": "usca",
+            "pos2": "",
+            "p3": "dooby",
+            "p3flag": "usca",
+            "pos3": "",
+            "p4": "dvrk_blade",
+            "p4flag": "usca",
+            "pos4": "",
+            "p5": "SlayingBeast",
+            "p5flag": "usca",
+            "pos5": ""
+        },
+        {
+            "team": "Team Kiwi",
+            "p1": "Korodai",
+            "p1flag": "usca",
+            "pos1": "",
+            "p2": "adlynn00",
+            "p2flag": "usca",
+            "pos2": "",
+            "p3": "Jfsp",
+            "p3flag": "usca",
+            "pos3": "",
+            "p4": "Outlander",
+            "p4flag": "usca",
+            "pos4": "",
+            "p5": "ProZach",
+            "p5flag": "usca",
+            "pos5": ""
+        },
+        {
+            "team": "Team Peach",
+            "p1": "Sky5niper",
+            "p1flag": "us",
+            "pos1": "",
+            "p2": "Narcoma",
+            "p2flag": "usca",
+            "pos2": "",
+            "p3": "CTEHUEY",
+            "p3flag": "usca",
+            "pos3": "",
+            "p4": "Magnus",
+            "p4flag": "usca",
+            "pos4": "",
+            "p5": "Maverick23",
+            "p5flag": "usca",
+            "pos5": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "2023-10-07",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Peach",
+            "opponent1_score": 3,
+            "opponent2": "Team Pineapple",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-10-07",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Kiwi",
+            "opponent1_score": 0,
+            "opponent2": "Team Banana",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-10-07",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Peach",
+            "opponent1_score": 3,
+            "opponent2": "Team Banana",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        }
+    ]
+}

@@ -1,0 +1,934 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "NEO GEN Portugal Cup",
+            "shortname": "Neo Gen Portugal Cup",
+            "tickername": "Neo Gen Portugal Cup",
+            "icon": "Neo Gen Portugal Cup allmode.png",
+            "image": "Neo Gen Portugal Cup allmode.png",
+            "organizer": "Team Portugal",
+            "organizer-link": "",
+            "type": "Offline",
+            "country": "Portugal",
+            "city": "Sintra",
+            "venue": "[https://growup.gg/arena/ Grow Up Arena]",
+            "venue-link": "https://growup.gg/arena/",
+            "game": "overwatch2",
+            "format": "Group Stage<br>Double Elimination",
+            "prizepool": "900",
+            "localcurrency": "eur",
+            "sdate": "2023-11-03",
+            "edate": "2023-12-02",
+            "twitter": "PortugalOW",
+            "twitch": "didex",
+            "discord": "7N8VWPHBKW",
+            "youtube": "",
+            "rulebook": "https://docs.google.com/document/d/1Gj0lDs78LL9DWOhpkOSBB3rmXC1gFxTHpFFvr9AmEvA/edit",
+            "bracket": "",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "GENESIS",
+            "link": "Genesis (Portuguese team)",
+            "p1": "Kurama",
+            "p1flag": "gb",
+            "pos1": "dps",
+            "p2": "Tiagolini",
+            "p2flag": "pt",
+            "pos2": "dps",
+            "p3": "DCruz",
+            "p3flag": "pt",
+            "pos3": "dps",
+            "p4": "EGO1",
+            "p4flag": "ma",
+            "pos4": "tank",
+            "p5": "Werty",
+            "p5flag": "fr",
+            "pos5": "tank",
+            "p6": "RodFD",
+            "p6flag": "pt",
+            "pos6": "sup",
+            "p7": "Kouhen",
+            "p7flag": "ro",
+            "pos7": "sup",
+            "p8": "Jaka",
+            "p8flag": "br",
+            "pos8": "sup",
+            "qualifier": "Qualifier #1",
+            "placement": "1"
+        },
+        {
+            "team": "UTOPIA",
+            "p1": "Flauta",
+            "p1flag": "pt",
+            "pos1": "dps",
+            "p2": "Paudencio",
+            "p2flag": "pt",
+            "pos2": "dps",
+            "p3": "Queez",
+            "p3flag": "pt",
+            "pos3": "dps",
+            "p4": "atf",
+            "p4flag": "pt",
+            "pos4": "flex",
+            "p5": "NutellaCake",
+            "p5flag": "pt",
+            "pos5": "tank",
+            "p6": "Magical",
+            "p6flag": "pt",
+            "pos6": "sup",
+            "p7": "Kajo",
+            "p7flag": "pt",
+            "pos7": "sup",
+            "qualifier": "Qualifier #1",
+            "placement": "2"
+        },
+        {
+            "team": "INEEDMOREBOOLETS",
+            "p1": "p0lis",
+            "p1flag": "pt",
+            "pos1": "dps",
+            "p2": "xenox3",
+            "p2flag": "pt",
+            "pos2": "dps",
+            "p3": "razael",
+            "p3flag": "pt",
+            "pos3": "tank",
+            "p4": "didex",
+            "pos4": "tank",
+            "p5": "Yukei",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "p6": "patilios",
+            "p6flag": "pt",
+            "pos6": "sup",
+            "p7": "Joelzinhop0",
+            "p7flag": "pt",
+            "pos7": "sup",
+            "qualifier": "Qualifier #1",
+            "placement": "3"
+        },
+        {
+            "team": "Karma",
+            "link": "Karma (Portuguese team)",
+            "p1": "FlavinDoPneu",
+            "p1flag": "br",
+            "pos1": "dps",
+            "p2": "Kam3sy",
+            "p2flag": "br",
+            "pos2": "dps",
+            "p3": "Thal\u00e3oo",
+            "p3flag": "br",
+            "pos3": "tank",
+            "p4": "Dani",
+            "p4flag": "br",
+            "pos4": "sup",
+            "p5": "Jackiee",
+            "p5flag": "br",
+            "pos5": "sup",
+            "qualifier": "Qualifier #1",
+            "placement": "4"
+        },
+        {
+            "team": "The Immigrants",
+            "p1": "Flamenzo",
+            "p1flag": "pt",
+            "pos1": "dps",
+            "p2": "Boss",
+            "p2flag": "pt",
+            "pos2": "dps",
+            "p3": "Scofield",
+            "p3flag": "pt",
+            "pos3": "dps",
+            "p4": "Alphaa",
+            "p4flag": "es",
+            "pos4": "tank",
+            "p5": "HK3",
+            "pos5": "tank",
+            "p6": "MUP",
+            "p6flag": "ba",
+            "pos6": "sup",
+            "p7": "Dizzel",
+            "p7flag": "de",
+            "pos7": "sup",
+            "p8": "NrStormy",
+            "p8flag": "pt",
+            "pos8": "sup",
+            "qualifier": "Qualifier #2",
+            "placement": "1"
+        },
+        {
+            "team": "Nata Nomads",
+            "p1": "Amadora",
+            "p1flag": "pt",
+            "pos1": "dps",
+            "p2": "Neeves",
+            "p2flag": "pt",
+            "pos2": "dps",
+            "p3": "Simagosk",
+            "p3flag": "pt",
+            "pos3": "tank",
+            "p4": "Rodrik",
+            "p4flag": "pt",
+            "pos4": "sup",
+            "p5": "HypnoDrama",
+            "p5flag": "br",
+            "pos5": "sup",
+            "qualifier": "Qualifier #2",
+            "placement": "2"
+        },
+        {
+            "team": "Carteiristas",
+            "p1": "HiyyiH",
+            "p1flag": "pt",
+            "pos1": "dps",
+            "p2": "IncVall",
+            "p2flag": "pt",
+            "pos2": "dps",
+            "p3": "NewBe",
+            "p3flag": "pt",
+            "pos3": "flex",
+            "p4": "ZaryaGod",
+            "p4flag": "pt",
+            "pos4": "tank",
+            "p5": "Onni",
+            "p5flag": "pt",
+            "pos5": "sup",
+            "p6": "Alexx",
+            "p6flag": "pt",
+            "pos6": "sup",
+            "p7": "Kapela",
+            "p7flag": "pt",
+            "pos7": "sup",
+            "qualifier": "Qualifier #2",
+            "placement": "3"
+        },
+        {
+            "team": "SKZz",
+            "p1": "L1MASKZZ",
+            "p1flag": "pt",
+            "pos1": "dps",
+            "p2": "DoomSlayer",
+            "p2flag": "pt",
+            "pos2": "dps",
+            "p3": "CUNH4SKZZ",
+            "p3flag": "pt",
+            "pos3": "tank",
+            "p4": "AQU3LSKZZ",
+            "p4flag": "pt",
+            "pos4": "sup",
+            "p5": "L3APSKZZ",
+            "p5flag": "pt",
+            "pos5": "sup",
+            "qualifier": "Qualifier #2",
+            "placement": "4"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "November 10, 2023 - 14:00",
+            "date_timezone": "CEST",
+            "opponent1": "INEEDMOREBOOLETS",
+            "opponent1_score": 2,
+            "opponent2": "The Immigrants",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "November 10, 2023 - 16:30",
+            "date_timezone": "CEST",
+            "opponent1": "INEEDMOREBOOLETS",
+            "opponent1_score": 2,
+            "opponent2": "Nata Nomads",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "November 10, 2023 - 18:00",
+            "date_timezone": "CEST",
+            "opponent1": "INEEDMOREBOOLETS",
+            "opponent1_score": 2,
+            "opponent2": "Karma (Portuguese Team)",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "November 11, 2023 - 14:00",
+            "date_timezone": "CEST",
+            "opponent1": "The Immigrants",
+            "opponent1_score": 2,
+            "opponent2": "Nata Nomads",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "November 11, 2023 - 16:30",
+            "date_timezone": "CEST",
+            "opponent1": "The Immigrants",
+            "opponent1_score": 2,
+            "opponent2": "Karma (Portuguese Team)",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "November 11, 2023 - 18:00",
+            "date_timezone": "CEST",
+            "opponent1": "Nata Nomads",
+            "opponent1_score": 2,
+            "opponent2": "Karma (Portuguese Team)",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "date": "November 3, 2023 - 14:00",
+            "date_timezone": "CEST",
+            "opponent1": "Genesis (Portuguese team)",
+            "opponent1_score": 2,
+            "opponent2": "Utopia",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "November 4, 2023 - 14:00",
+            "date_timezone": "CEST",
+            "opponent1": "Utopia",
+            "opponent1_score": 2,
+            "opponent2": "Carteiristas",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "November 4, 2023 - 14:00",
+            "date_timezone": "CEST",
+            "opponent1": "Utopia",
+            "opponent1_score": 2,
+            "opponent2": "SKZz",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "November 4, 2023 - 16:30",
+            "date_timezone": "CEST",
+            "opponent1": "Genesis (Portuguese team)",
+            "opponent1_score": 2,
+            "opponent2": "SKZz",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "November 5, 2023 - 16:30",
+            "date_timezone": "CEST",
+            "opponent1": "Genesis (Portuguese team)",
+            "opponent1_score": 2,
+            "opponent2": "Carteiristas",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "November 4, 2023 - 18:00",
+            "date_timezone": "CEST",
+            "opponent1": "Carteiristas",
+            "opponent1_score": 2,
+            "opponent2": "SKZz",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "3",
+            "date": "November 24, 2023 - 14:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Utopia",
+            "opponent1_score": 3,
+            "opponent2": "Nata Nomads",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 24, 2023 - 16:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "The Immigrants",
+            "opponent1_score": 3,
+            "opponent2": "Carteiristas",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "November 25, 2023 - 18:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "INEEDMOREBOOLETS",
+            "opponent1_score": 0,
+            "opponent2": "Utopia",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 25, 2023 - 14:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Genesis (Portuguese team)",
+            "opponent1_score": 3,
+            "opponent2": "The Immigrants",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "December 2, 2023 - 14:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Utopia",
+            "opponent1_score": 1,
+            "opponent2": "Genesis (Portuguese team)",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "November 25, 2023 - 12:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Carteiristas",
+            "opponent1_score": 3,
+            "opponent2": "INEEDMOREBOOLETS",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "November 25, 2023 - 16:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Nata Nomads",
+            "opponent1_score": 0,
+            "opponent2": "The Immigrants",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "December 2, 2023 - 11:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Carteiristas",
+            "opponent1_score": 0,
+            "opponent2": "The Immigrants",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "December 2, 2023 - 16:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "didex",
+            "opponent1": "Utopia",
+            "opponent1_score": 0,
+            "opponent2": "The Immigrants",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "December 2, 2023 - 18:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "didex",
+            "opponent1": "Genesis (Portuguese team)",
+            "opponent2": "The Immigrants",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map6": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

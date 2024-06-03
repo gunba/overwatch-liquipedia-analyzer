@@ -1,0 +1,150 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Aces\u2019Showdown Season 1",
+            "shortname": "Aces\u2019Showdown S1",
+            "tickername": "Aces\u2019Showdown S1",
+            "icon": "Aces\u2019Showdown .png",
+            "image": "Aces\u2019Showdown .png",
+            "series": "",
+            "abbreviation": "",
+            "organizer": "Swem",
+            "organizer-link": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Poland",
+            "game": "overwatch2",
+            "format": "Single elimination",
+            "localcurrency": "pln",
+            "prizepool": "1000",
+            "sdate": "2022-11-30",
+            "edate": "2023-02-01",
+            "twitter": "AcesShowdown",
+            "web": "",
+            "twitch": "acesshowdown",
+            "discord": "acesshowdown",
+            "youtube": "@acesshowdown7656",
+            "rulebook": "",
+            "bracket": "",
+            "team_number": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "metaboiz",
+            "p1": "Philion|p1flag=|pos1=dps",
+            "p2": "Icav|p2flag=pl|pos2=dps",
+            "p3": "FakeJake|p3flag=pl|pos3=dps",
+            "p4": "Kapey774|p4flag=pl|pos4=tank",
+            "p5": "Teksol|p5flag=pl|pos5=sup",
+            "p6": "Webster|p6flag=pl|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Algos05|t2c1flag=de|t2c1pos=Manager"
+        },
+        {
+            "team": "Dziadyga Gaming",
+            "p1": "Dxtr|p1flag=pl|pos1=dps",
+            "p2": "Konwerz|p2flag=pl|pos2=dps",
+            "p3": "United|p3flag=pl|pos3=tank",
+            "p4": "Nexo|p4flag=pl|pos4=tank",
+            "p5": "Siboth|p5flag=pl|pos5=sup",
+            "p6": "Quader|p6flag=pl|pos6=sup",
+            "p7": "Kaju|p7flag=pl|pos7=Flex",
+            "p8": "Flipper|p8flag=pl|pos8=Flex"
+        },
+        {
+            "team": "Bingus Squad",
+            "p1": "Luv|p1flag=pl|pos1=dps",
+            "p2": "Skito|p2flag=pl|pos2=dps",
+            "p3": "Senji|p3flag=pl|pos3=dps",
+            "p4": "Eight|p4flag=pl|pos4=tank",
+            "p5": "LondonRick|p5flag=pl|pos5=tank",
+            "p6": "TheSnake|p6flag=pl|pos6=sup",
+            "p7": "Merix|p7flag=pl|pos7=sup"
+        },
+        {
+            "team": "Broken Shards",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "SmashRoomGames",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "A\u017bMS",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Goryle Archy",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "The Patrons",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "",
+            "opponent1": "{{TeamOpponent|Bingus Squad|score=3}}",
+            "opponent2": "{{TeamOpponent|SmashRoomGames|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Metaboiz|score=3}}",
+            "opponent2": "{{TeamOpponent|A\u017bMS|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Goryle Archy|score=0}}",
+            "opponent2": "{{TeamOpponent|Dziadyga Gaming|score=3}}",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Broken Shards|score=3}}",
+            "opponent2": "{{TeamOpponent|The Patrons|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Bingus Squad|score=0}}",
+            "opponent2": "{{TeamOpponent|Metaboiz|score=3}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Dziadyga Gaming|score=3}}",
+            "opponent2": "{{TeamOpponent|Broken Shards|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Metaboiz|score=4}}",
+            "opponent2": "{{TeamOpponent|Dziadyga Gaming|score=0}}",
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Bingus Squad|score=3}}",
+            "opponent2": "{{TeamOpponent|Broken Shards|score=0}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{{DISPLAYTITLE:Button Festival of Gaming Culture}}
+
+{{Infobox league
+|name=Button Festival of Gaming Culture
+|shortname=Button Festival
+|image=
+|abbreviation=BFoGC
+|icon=
+|tickername=BFoGC #1
+|organizer=
+|sponsor=
+|platform=PC
+|type=Offline
+|country=Austria
+|format=Playoffs (Double Elimination)
+|prizepoolusd=
+|localcurrency=250
+|sdate=2018-03-17
+|edate=2018-03-17
+|liquipediatier={{TierText/5}}
+|web=
+|twitch=
+|youtube=
+|bracket=
+|team_number=4
+}}
+
+==Overview==
+
+===Location===
+'''Seifenfabrik | Graz''' 
+
+===Format===
+*'''General Rules''': Competitive Mode
+*'''Playoffs''': Single Elimination.
+**Quarterfinals: {{Abbr/Bo3}}
+**Finals: {{Abbr/Bo5}}
+*1 Hero Limit
+
+===Prize Pool===
+250 ({{Abbr/EUR}}) are spread among the teams as seen below:
+{{prize pool start |localcurrency=eur}}
+{{prize pool slot |place=1 |usdprize=210 |localprize=175 |plan-b esports|lastvs1=rankone gaming|lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot |place=2 |usdprize=90 |localprize=75 |rankone gaming|lastvs1=plan-b esports|lastscore1=0 |lastvsscore1=3}}
+{{prize pool slot |place=3 |usdprize=0 |selfdestruct symmetras|lastvs1=rankone gaming|lastscore1=1 |lastvsscore1=2}}
+{{prize pool slot |place=4 |usdprize=0 |button allstars|lastvs1=selfdestruct symmetras|lastscore1=0 |lastvsscore1=2}}
+{{Prize pool end}}
+''Converted USD prizes are based on the currency exchange rate (taken from [http://xe.com xe.com]) on September 28th, 2017: 1 EUR = 1.19781 USD.''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=plan-B eSports
+|image=Plan-B eSports.png
+|p1=Se7enSins|p1flag=at |pos1=tank
+|p2=Abstructo|p2flag=at |pos2=sup
+|p3=NULL |p3flag=at |p3link=NULL (Austrian player) |pos3=tank
+|p4=HeroRay|p4flag=at |pos4=dps
+|p5=ecLipse|p5flag=at |pos5=sup
+|p6=DrysTc|p6flag=at |pos6=dps
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Selfdestruct Symmetras
+|image=
+|p1=Raegnir|p1flag=at |pos1=
+|p2=NovA|p2flag=at |pos2=
+|p3=YoungLugner|p3flag=at |pos3=
+|p4=YONGFIZZLE|p4flag=at |pos4=
+|p5=Millek|p5flag=at |pos5=
+|p6=Tirgiron|p6flag=at |pos6=
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Button Allstars
+|image=
+|p1=|p1flag= |pos1=
+|p2=|p2flag= |pos2=
+|p3=|p3flag= |pos3=
+|p4=|p4flag= |pos4=
+|p5=|p5flag= |pos5=
+|p6=|p6flag= |pos6=
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=RankOne Gaming
+|image=RankOne_Gaming_logo.png
+|p1=Trollschnitz |p1flag=at |pos1=dps
+|p2=Avenger|p2flag=at |pos2=dps
+|p3=MisterB |p3flag=at |pos3=tank
+|p4=Fexor|p4flag=at |pos4=sup
+|p5=Screami|p5flag=at |pos5=tank
+|p6=Pachelor|p6flag=at |pos6=sup
+|c=|cflag=
+}}
+
+{{box|end}}
+
+==Results==
+
+{{LegacyBracket|Bracket/4U2L1D|4DETeamBracket|type=team|id=dmWli41Il8
+<!-- SEMIFINALS -->
+|R1D1team=plan-b esports |R1D1score=2 |R1D1win=1
+|R1D2team=selfdestruct symmetras |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary
+|map1=Eichenwalde|map1score=2-1|map1win=1
+|map2=Lijiang Tower|map2score=2-0|map2win=1
+}}
+|R1D3team=rankone gaming |R1D3score=2 |R1D3win=1
+|R1D4team=button allstars |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary
+|map1=King's Row|map1score=3-0|map1win=1
+|map2=Oasis|map2score=2-0|map2win=1
+|map3=|map3score=|map3win=
+}}
+<!-- WINNER'S FINALS -->
+|R2W1team=plan-b esports |R2W1score=2 |R2W1win=1
+|R2W2team=rankone gaming |R2W2score=0 |R2W2win=
+|R2G1details={{BracketMatchSummary
+|map1=Eichenwalde|map1score=3-0|map1win=1
+|map2=Lijiang Tower|map2score=2-0|map2win=1
+|map3=|map3score=|map3win=
+}}
+<!-- LOSER'S ROUND 1 -->
+|R1D5team=selfdestruct symmetras |R1D5score=2 |R1D5win=1
+|R1D6team=button allstars |R1D6score=0 |R1D6win=
+|R1G3details={{BracketMatchSummary
+|map1=King's Row|map1score=3-0|map1win=1
+|map2=Ilios|map2score=2-0|map2win=1
+|map3=|map3score=|map3win=
+}}
+<!-- LOSER'S FINALS -->
+|R2D1team=rankone gaming |R2D1score=2 |R2D1win=1
+|R2W3team=selfdestruct symmetras |R2W3score=1 |R2W3win=
+|R2G2details={{BracketMatchSummary
+|map1=King's Row|map1score=1-0|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=1-2|map2win=2
+|map3=Lijiang Tower|map3score=2-1|map3win=1
+}}
+<!-- GRAND FINALS -->
+|R3W1team=plan-b esports |R3W1score=3 |R3W1win=1
+|R3W2team=rankone gaming |R3W2score=0 |R3W2win=
+|R3G1details={{BracketMatchSummary
+|map1=King's Row|map1score=3-0|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=3-0|map2win=1
+|map3=Horizon Lunar Colony|map3score=4-3|map3win=1
+}}
+}}
+
+==References==
+{{Reflist}}

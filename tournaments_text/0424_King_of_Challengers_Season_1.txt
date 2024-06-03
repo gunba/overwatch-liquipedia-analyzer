@@ -1,0 +1,163 @@
+{{DISPLAYTITLE:ImbaTV King of Challengers - Season 1}}
+{{KOC Tabs|S1=1}}
+{{Infobox league
+|name=ImbaTV King of Challengers - Season 1
+|shortname=Season 1
+|image=ImbaTV King of Challengerslogo.png
+|series=
+|organizer=ImbaTV
+|organizer-link=http://www.imbatv.cn/
+|organizer2=
+|sponsor=
+|type=Online
+|country=China
+|format=Single Elimination
+|prizepool=10,000
+|localcurrency=cny
+|prizepoolusd=1,450
+|date=2017-01-06
+|sdate=
+|edate=
+|liquipediatier={{TierText/3}}
+|web=http://www.imbatv.cn/event/koc/ow/s1
+|stream=http://www.panda.tv/imbaow
+|challonge=
+|teamfirst=my
+|teamsecond=shrc
+|teamthird=ahq
+|teamthird2=lyb
+|team_number=4
+|team1=
+|team2=
+|team3=
+|team4=
+|team5=
+|team6=
+|team7=
+|team8=
+|previous=
+|next=
+}}
+{{TOClimit|3}}
+'''King of Challengers''' is a series of Overwatch tournaments organized by ImbaTV.
+
+==Information==
+===Prize Pool===
+10,000 {{Abbr/CNY}} (~1,450 {{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start|localcurrency=cny}}
+{{prize pool slot|place=1|usdprize=1,450|localprize=10,000|my|lastvs1=shrc |lastscore1=3 |lastvsscore1=1}}
+{{prize pool slot|place=2|usdprize=0|localprize=0|shrc|lastvs1=my |lastscore1=1 |lastvsscore1=3}}
+{{prize pool slot|place=3-4|usdprize=0|localprize=0
+|lyb |lastvs1=my |lastscore1=0 |lastvsscore1=2
+|ahq |lastvs2=shrc |lastscore2=0 |lastvsscore2=2
+}}
+{{Prize pool end}}
+''Conversion values taken from [http://www.xe.com xe.com] at 2016-12-07. 1 {{Abbr/CNY}} ≈ 0.145 {{Abbr/USD}}''
+
+===Format===
+*Single Elimination
+**Bo3 with Bo5 Finals.
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=Chinese
+|position=Commentator
+|b1=Ms-Joy
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=ahq e-Sports Club
+|p1=AfteR |p1flag=tw
+|p2=Cowman |p2flag=tw
+|p3=Danny |p3flag=tw
+|p4=EDDIE |p4flag=tw
+|p5=EricEnn |p5flag=tw
+|p6=Krapy |p6flag=tw
+|c=DPower |cflag=tw
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Star Horn Royal Club
+|p1=emperor|p1flag=cn
+|p2=Saury|p2flag=cn
+|p3=Dark|p3flag=cn
+|p4=S01d|p4flag=cn
+|p5=Nata|p5flag=cn
+|p6=yyyy|p6flag=cn
+|c=Chen|cflag=cn
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Miraculous Youngster
+|p1=fengyan|p1flag=cn
+|p2=Fear|p2flag=cn
+|p3=Ali|p3flag=cn
+|p4=creed|p4flag=cn
+|p5=leave|p5flag=cn
+|p6=zhufanjun|p6flag=cn
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=LaoYinBi
+|p1=Nicco|p1flag=cn
+|p2=Perse|p2flag=cn
+|p3=chongke|p3flag=cn
+|p4=Duoduo|p4flag=cn
+|p5=Pigff|p5flag=cn
+|p6=Trickst|p6flag=cn
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=ZsovTO8WAF
+<!-- SEMIFINALS -->
+|R1D1team=my |R1D1score=2 |R1D1win=1
+|R1D2team=lyb |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=January 6, 2017 - 18:00 {{Abbr/CST}}
+|finished=true
+|vod=https://www.bilibili.com/video/av7886365/?p=1
+|map1=Lijiang Tower|map1score=3-0|map1win=1
+|map2=Hanamura|map2score=2-1|map2win=1
+|overgg=
+|pf=19726
+}}
+|R1D3team=shrc |R1D3score=2 |R1D3win=1
+|R1D4team=ahq |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=January 6, 2017 - 19:30 {{Abbr/CST}}
+|finished=true
+|vod=https://www.bilibili.com/video/av7886365/?p=2
+|map1=Hanamura|map1score=1-1|map1win=draw
+|map2=Ilios|map2score=1-0|map2win=1
+|map3=Lijiang Tower|map3score=3-2|map3win=1
+|overgg=
+|pf=19727
+}}
+<!-- FINALS -->
+|R2W1team=my |R2W1score=3 |R2W1win=1
+|R2W2team=shrc |R2W2score=1 |R2W2win=
+|R2G1details={{BracketMatchSummary 
+|date=January 6, 2017 - 21:00 {{Abbr/CST}}
+|finished=true
+|vodgame1=https://www.bilibili.com/video/av7886365/?p=3
+|vodgame2=https://www.bilibili.com/video/av7886365/?p=4
+|map1=Route 66|map1score=3-2|map1win=1
+|map2=Dorado|map2score=3-2|map2win=1
+|map3=Watchpoint: Gibraltar|map3score=2-3|map3win=2
+|map4=Lijiang Tower|map4score=3-2|map4win=1
+|overgg=
+|pf=19728
+}}
+<!-- 3RD PLACE (optional) -->
+|R2D1team= |R2D1score= |R2D1win=
+|R2D2team= |R2D2score= |R2D2win=
+}}
+
+==External links==
+
+==References==
+{{Reflist}}

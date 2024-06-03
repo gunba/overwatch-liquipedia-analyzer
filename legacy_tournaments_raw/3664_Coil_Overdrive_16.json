@@ -1,0 +1,154 @@
+{
+    "tournament_info": [
+        {
+            "name": "Coil Overdrive #16",
+            "image": "Coil Gaming logo.png",
+            "series": "Coil Overdrive",
+            "shortname": "CO #16",
+            "organizer": "Coil Gaming",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "",
+            "prizepoolusd": "63",
+            "localcurrency": "eur",
+            "prizepool": "60",
+            "web": "",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://battlefy.com/coil-gaming/coil-overdrive-16/588fa1e641d5e9b404e81649/stage/588fa1e641d5e9b404e8164a/bracket/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "",
+            "teamsecond": "",
+            "edate": "2017-02-04",
+            "sdate": "2017-02-11",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "8",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Vivi's Adventure",
+            "p1": "Mwumbwahti|pos1=DPS",
+            "p2": "Henzu|pos2=DPS",
+            "p3": "LullSiSH|pos3=Tank",
+            "p4": "ELLIVOTE|pos4=Flex",
+            "p5": "Zekor|pos5=Support",
+            "p6": "BAm|p6flag=se|pos6=Support",
+            "t2title": "Staff",
+            "t2p1": "Lick|t2pos1=coach|t2p1flag=us",
+            "t2p2": "VampAurora|t2pos2=manager|t2p2flag=gr"
+        },
+        {
+            "team": "Maru LLC",
+            "p1": "TerenZ",
+            "p2": "Hanzospieler|p2flag=de",
+            "p3": "flycake",
+            "p4": "Massie",
+            "p5": "Melone|p5flag=de",
+            "p6": "aeon",
+            "p7": "tobi|p7link=tobi (eu player)"
+        },
+        {
+            "team": "Team AtraX",
+            "p1": "SmiLe",
+            "p2": "Ennen",
+            "p3": "SinS",
+            "p4": "legol",
+            "p5": "Tia",
+            "p6": "Hawk3n",
+            "p7": "Astros"
+        },
+        {
+            "team": "CrowCrowd",
+            "p1": "Wrugb|p1flag=ru|pos1=DPS",
+            "p2": "doomsday199X|p2flag=ru|pos2=Tank",
+            "p3": "R2HL|p3flag=se|pos3=Flex",
+            "p4": "FUSE|p4flag=ru|pos4=Flex",
+            "p5": "MayN|p5flag=ru|pos5=Support",
+            "p6": "Fuo|p6flag=ru|pos6=Support"
+        },
+        {
+            "team": "Krypto Gaming",
+            "p1": "Tazzz",
+            "p2": "PsyDuck",
+            "p3": "Triggerstorm",
+            "p4": "Pirateer",
+            "p5": "BlazingBlue",
+            "p6": "MaZZeL"
+        },
+        {
+            "team": "Sodality Gaming",
+            "p1": "Malt",
+            "p2": "TheRamenKing",
+            "p3": "Dane",
+            "p4": "H0PE",
+            "p5": "DCT",
+            "p6": "Ryoku",
+            "p7": "Festive"
+        },
+        {
+            "team": "TEATIME",
+            "p1": "Dren",
+            "p2": "binkatron",
+            "p3": "Giantmelon",
+            "p4": "TophatDino",
+            "p5": "Tryhardt",
+            "p6": "thedevil27"
+        },
+        {
+            "team": "EvH",
+            "p1": "Gunvelt",
+            "p2": "Asphyx",
+            "p3": "soulkilla",
+            "p4": "H1tman",
+            "p5": "kristu",
+            "p6": "z4mbu",
+            "p7": "r1k"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "evh",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "vivi's adventure",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team atrax",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "vivi's adventure",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "maru llc",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "vivi's adventure",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

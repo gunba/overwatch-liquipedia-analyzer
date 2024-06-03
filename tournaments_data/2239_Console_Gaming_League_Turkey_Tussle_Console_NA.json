@@ -1,0 +1,217 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "Console Gaming League",
+            "abbreviation": "CGL",
+            "shortname": "Turkey Tussle NA Console",
+            "name": "CGL Turkey Tussle - NA Console",
+            "tickername": "CGL Turkey Tussle NA Console",
+            "image": "Console Gaming League lightmode.png",
+            "imagedark": "Console Gaming League darkmode.png",
+            "icon": "Console Gaming League lightmode.png",
+            "icondark": "Console Gaming League darkmode.png",
+            "organizer": "Console Gaming League",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "North America",
+            "format": "Group Stage<br>Double Elimination",
+            "prizepoolusd": "500",
+            "sdate": "2022-11-18",
+            "edate": "2022-11-20",
+            "web": "https://www.consolegamingleague.com/",
+            "twitch": "cgl1",
+            "discord": "bBsQg37",
+            "twitter": "consolegaminglg",
+            "instagram": "consolegamingleague",
+            "bracket": "https://challonge.com/u5kf9y4c",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Pooper Scoopers",
+            "p1": "",
+            "pos1": "",
+            "p2": "",
+            "pos2": "",
+            "p3": "",
+            "pos3": "",
+            "p4": "",
+            "pos4": "",
+            "p5": "",
+            "pos5": ""
+        },
+        {
+            "team": "Kinetix",
+            "p1": "",
+            "pos1": "",
+            "p2": "",
+            "pos2": "",
+            "p3": "",
+            "pos3": "",
+            "p4": "",
+            "pos4": "",
+            "p5": "",
+            "pos5": ""
+        },
+        {
+            "team": "Tensa",
+            "link": "Tensa (team)",
+            "p1": "",
+            "pos1": "",
+            "p2": "",
+            "pos2": "",
+            "p3": "",
+            "pos3": "",
+            "p4": "",
+            "pos4": "",
+            "p5": "",
+            "pos5": ""
+        },
+        {
+            "team": "Yodie Gang",
+            "p1": "",
+            "pos1": "",
+            "p2": "",
+            "pos2": "",
+            "p3": "",
+            "pos3": "",
+            "p4": "",
+            "pos4": "",
+            "p5": "",
+            "pos5": ""
+        },
+        {
+            "team": "Krazy 88s",
+            "p1": "",
+            "pos1": "",
+            "p2": "",
+            "pos2": "",
+            "p3": "",
+            "pos3": "",
+            "p4": "",
+            "pos4": "",
+            "p5": "",
+            "pos5": ""
+        },
+        {
+            "team": "Nukkster Tussle",
+            "p1": "",
+            "pos1": "",
+            "p2": "",
+            "pos2": "",
+            "p3": "",
+            "pos3": "",
+            "p4": "",
+            "pos4": "",
+            "p5": "",
+            "pos5": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "November 19, 2022 - 15:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "pooper scoopers|score=L",
+            "opponent2": "kinetix|score=W",
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 19, 2022 - 15:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "tensa|score=W",
+            "opponent2": "yodie gang|score=L",
+            "optional": "R1M2="
+        },
+        {
+            "date": "November 19, 2022 - 16:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "krazy 88s",
+            "opponent1_score": 2,
+            "opponent2": "kinetix",
+            "opponent2_score": 0,
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 19, 2022 - 16:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "nukkster tussle",
+            "opponent1_score": 2,
+            "opponent2": "tensa",
+            "opponent2_score": 0,
+            "optional": "R2M2="
+        },
+        {
+            "date": "November 20, 2022 - 15:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "krazy 88s",
+            "opponent1_score": 2,
+            "opponent2": "nukkster tussle",
+            "opponent2_score": 3,
+            "optional": "R4M1="
+        },
+        {
+            "date": "November 19, 2022 - 17:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "tensa|score=W",
+            "opponent2": "pooper scoopers|score=L",
+            "optional": "R2M3="
+        },
+        {
+            "date": "November 19, 2022 - 17:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "kinetix|score=W",
+            "opponent2": "yodie gang|score=L",
+            "optional": "R2M4="
+        },
+        {
+            "date": "November 19, 2022 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "tensa",
+            "opponent1_score": 2,
+            "opponent2": "kinetix",
+            "opponent2_score": 1,
+            "optional": "R3M1="
+        },
+        {
+            "date": "November 20, 2022 - 16:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "krazy 88s",
+            "opponent1_score": 0,
+            "opponent2": "tensa",
+            "opponent2_score": 3,
+            "optional": "R4M2="
+        },
+        {
+            "date": "November 20, 2022 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "nukkster tussle",
+            "opponent1_score": 4,
+            "opponent2": "tensa",
+            "opponent2_score": 3,
+            "optional": "R5M1="
+        }
+    ]
+}

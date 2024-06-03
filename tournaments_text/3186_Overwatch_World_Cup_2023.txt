@@ -1,0 +1,856 @@
+{{DISPLAYTITLE:Overwatch World Cup 2023}}
+{{World Cup Tabs|OWC2023=8}}
+{{Infobox league
+|name=Overwatch World Cup 2023
+|image=Overwatch World Cup 2023 allmode.png
+|series=Overwatch World Cup
+|shortname=World Cup 2023
+|tickername=Overwatch World Cup 2023
+|icon=Overwatch World Cup logo.png
+|organizer=Blizzard Entertainment
+|sponsor=[https://www.omen.com/us/en.html OMEN]
+|type=Offline
+|country=United States
+|city=Anaheim
+|venue=Anaheim Convention Center
+|venuelink=https://en.wikipedia.org/wiki/Anaheim_Convention_Center
+|format=Group Stage<br>Single Elimination
+|game=overwatch2
+|prizepoolusd={{:Overwatch World Cup/2023/prizepool|blizzcon}}
+|sdate=2023-10-29
+|edate=2023-11-04
+|liquipediatier=1
+|blizzardtier=owwc
+|web=https://overwatchleague.com/en-us/overwatch-world-cup
+|bracket=https://overwatchworldcup.com/en-us/?tab=qualifiers
+|twitter=playoverwatch
+|youtube=playoverwatch
+|twitch=playoverwatch
+|team_number=16
+|previous=Overwatch World Cup/2019{{!}}2019
+|next=
+}}
+
+==Information==
+===Format===
+* '''Group Stage''': ''October 29<sup>th</sup> - November 1<sup>st</sup>, 2023''
+** Played ''behind closed doors'' at the Anaheim Convention Center
+** Round robin groups
+** All matches are {{Abbr/Ft2}}
+** {{Bgcolortext|up|Top 8 teams}} advance
+* '''Playoffs''': ''November 3<sup>rd</sup> - 4<sup>th</sup>, 2023''
+** Played ''in front of an audience'' at the Anaheim Convention Center
+** Single elimination bracket
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=English
+|position=Stage Host
+|b1=Goldenboy
+}}
+{{BroadcasterCard|lang=English
+|position=Host
+|b1=Soe
+}}
+{{BroadcasterCard|lang=English
+|position=Analyst
+|b1=Reinforce
+|b2=Danny Lim
+|b3=JAKE
+}}
+{{BroadcasterCard|lang=English
+|position=Translator
+|b1=Emily Tang
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=Uber
+|b2=Mr X
+|b3=LemonKiwi
+|b4=Custa
+|b5=Dogman
+|b6=Gottmoxi
+|b7=Nekkra
+}}
+
+===Prize Pool===
+{{TeamPrizePool|freetext1=Percentage
+|{{Slot|usdprize={{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .25 round 0}}}}|freetext1=25%}}
+|{{Slot|usdprize={{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .10 round 0}}}}|freetext1=10%}}
+|{{Slot|usdprize={{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .08 round 0}}}}|freetext1=8%}}
+|{{Slot|usdprize={{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .06 round 0}}}}|freetext1=6%}}
+|{{Slot|place=5-8|usdprize={{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .03 round 0}}}}|freetext1=3%}}
+|{{Slot|place=9-12|usdprize={{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .015 round 0}}}}|freetext1=1.5%}}
+|{{Slot|place=13-16|usdprize={{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .015 round 0}}}}|freetext1=1.5%}}
+}}
+<section begin="crowdfund" />*The World Cup prize pool was crowdfunded, with 25% of [https://overwatch.blizzard.com/en-us/news/24017502/everything-you-need-to-know-about-the-overwatch-world-cup-group-stage-and-finals/ in-game cosmetic bundle] sales going towards the prize pool.<section end="crowdfund" />
+
+===Total Prize Pool Breakdown===
+{|class="wikitable" style="text-align:center;font-size:90%"
+!colspan=12|Total: ${{formatnum:{{:Overwatch World Cup/2023/prizepool}}}} <ref>{{cite web|url=https://twitter.com/owpathtopro/status/1729652377316176100/photo/1|title=Thank you all for your support! You've made this the greatest Overwatch World Cup EVER!|publisher='''Overwatch Path to Pro'''|date=2023-11-28}}</ref>
+|-
+|colspan=3|'''Main Event'''||colspan=3|'''Conferences Group A'''||colspan=3|'''Conferences Group B'''||colspan=3|'''Wild Card'''
+|-
+|{{Placement|1}}||25%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .25 round 0}}}}||{{Placement|1}}||–||''Advanced''||{{Placement|1}}||–||''Advanced''||{{Placement|1}}||–||''Advanced''
+|-
+|{{Placement|2}}||10%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .10 round 0}}}}||{{Placement|2}}||–||''Advanced''||{{Placement|2}}||–||''Advanced''||{{Placement|2}}||–||''Advanced''
+|-
+|{{Placement|3}}||8%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .08 round 0}}}}||{{Placement|3}}||–||''Advanced''||{{Placement|3}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}||{{Placement|3}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}
+|-
+|{{Placement|4}}||6%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .06 round 0}}}}||{{Placement|4}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}||{{Placement|4}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}
+|-
+|{{Placement|5-8}}||3%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .03 round 0}}}}||{{Placement|5}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}||{{Placement|5}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}
+|-
+|{{Placement|9-12}}||1.5%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .015 round 0}}}}||{{Placement|6}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}||{{Placement|6}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}
+|-
+|{{Placement|13-16}}||1.5%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .015 round 0}}}}||{{Placement|7}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}||{{Placement|7}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}
+|-
+|colspan=3| ||{{Placement|8}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}||{{Placement|8}}||1%||${{formatnum:{{#expr:{{:Overwatch World Cup/2023/prizepool}} * .01 round 0}}}}
+|}
+{{box|end}}
+
+==Participants==
+{{TeamCardToggleButton|playerinfo=true}}
+{{TeamCard columns start|height=280}}
+{{TeamCard
+|team=China
+|p1=shy|pos1=dps
+|p2=Leave|pos2=dps
+|p3=guxue|pos3=tank
+|p4=Mmonk|pos4=sup
+|p5=lengsa|pos5=sup
+|p6=Farway1987|p6team=gzc|pos6=sup
+|t2title=Staff
+|t2c1=Yaoxie|t2c1pos=head coach
+|t2c2=2DM|t2c2link=Li Guangyao|t2c2pos=general manager
+|qualifier=Invited
+|inotes={{NoteBig
+|n1=[[China]] was invited directly to the group stage after Overwatch 2 servers were shut down in the country.
+|n2=October 9th - ''Head Coach'' {{player|RUI|flag=cn|pos=coach}} leaves the team. <ref name="rui leaves">{{cite web|url=https://weibo.com/6790194958/4955109835932950|title=Announcement: |author=[[XiaoShuang]]|date=2023-10-09}}</ref>
+|n3=October 10th - {{player|Twenty|flag=cn|pos=tank}} leaves the team. <ref name="Twenty leaves">{{cite web|url=https://twitter.com/Amazing2DM/status/1711688584204599619|title=Announcement: |author=[[2DM]]|date=2023-10-10}}</ref>
+|n4=October 11th - {{player|yaoxie|flag=cn|pos=coach}} joins the team as ''Head Coach''. <ref name="yaoxie joins">{{cite web|url=https://twitter.com/Amazing2DM/status/1712054148089479340|title=Announcement:|author=[[2DM]]|date=2023-10-11}}</ref>
+}}
+}}
+{{TeamCard
+|team=United States
+|p1=Hydron|pos1=dps
+|p2=Sugarfree|p2team=van|pos2=dps
+|p3=super|pos3=tank|p3wins=1
+|p4=Coluge|pos4=tank
+|p5=Ojee|pos5=sup
+|p6=UltraViolet|pos6=sup
+|p7=Rupal|pos7=sup
+|t2title=Staff
+|t2c1=Gator|t2c1team=atl|t2c1pos=head coach
+|t2c2=Wheats|t2c2team=triple esports|t2c2pos=assistant coach
+|t2c3=yeHHH|t2c3team=fla|t2c3pos=general manager
+|t3title=Substitute
+|t3p1=Speedily|t3pos1=dps|t3p1dnp=true
+|t3p2=s9mm|t3p2team=northwood university|t3pos2=dps|t3p2dnp=true
+|t3p3=Danteh|t4p3team=maryville university|t3pos3=tank|t3p3dnp=true
+|qualifier=[[/Americas Conference|Americas Group A]]
+|placement=1
+|inotes={{NoteBig
+|n1=July 7th - {{player|Danteh|flag=us|pos=tank}} joins the team.<ref name="danteh joins">{{cite web|url=https://twitter.com/USAOWWC/status/1677401154345467911|title=We needed some collegiate level play on this team|author=[[Team United States]]|date=2023-07-07}}</ref>
+}}
+}}
+{{TeamCard
+|team=Canada
+|p1=Seeker|pos1=dps
+|p2=Noxious|p2team=st. clair college|pos2=dps|p2link=Noxious (Canadian Player)
+|p3=Astronexz|p3team=rift|pos3=tank
+|p4=False|p4team=maryville university|pos4=tank
+|p5=MagicM8Ball|p5team=wisp|pos5=sup
+|p6=Crimzo|p6team=van|pos6=sup
+|p7=cal|p7team=gla|pos7=sup
+|t2title=Staff
+|t2c1=Danny|t2c1team=was|t2c1pos=head coach|t2c1link=Danny (Canadian Coach)
+|t2c2=SNR||t2c2team=o3 splash|t2c2pos=assistant coach
+|t2c3=Tikatee|t2c3pos=assistant coach
+|t2c4=Chibi|t2c4team=van|t2c4pos=general manager
+|qualifier=[[/Americas Conference|Americas Group A]]
+|placement=2
+}}
+{{TeamCard
+|team=Mexico
+|p1=Angelvolado|p1flag=mx|pos1=dps
+|p2=Chobilux|pos2=dps
+|p3=Castled|pos3=tank
+|p4=Hysteria|pos4=tank|p4link=Hysteria (Mexican Player)
+|p5=Sopa|pos5=sup
+|p6=Paolette|p6team=azathoth|pos6=sup
+|p7=Momo|p7flag=mx|pos7=sup
+|t2title=Staff
+|t2c1=nomy|t2c1pos=head coach
+|t2c2=Legolaa|t2c2flag=mx|t2c2pos=assistant coach
+|t2c3=Ampere|t2c3flag=mx|t2c3pos=general manager
+|t3title=Substitute
+|t3p1=Fervant|t3p1flag=mx|t3pos1=dps|t3p1dnp=true
+|t3p2=Sam|t3pos2=dps|t3p2dnp=true
+|t3p3=Budget|t3p3flag=mx|t3pos3=tank|t3p3dnp=true
+|qualifier=[[/Americas Conference|Americas Group A]]
+|placement=3
+}}
+{{TeamCard
+|team=Colombia
+|p1=dr0mr|pos1=dps
+|p2=Circci|pos2=dps
+|p3=Eternal|p3pos=dps|p3link=Eternal (Colombian Player)
+|p4=SuperGomez|pos4=tank
+|p5=HappyAlonso|pos5=tank
+|p6=Mixvi|pos6=sup
+|p7=Hug|pos7=sup
+|t2title=Staff
+|t2c1=Circci|t2c1pos=head coach
+|t2c2=Pinguino|t2c2pos=assistant coach
+|t2c3=ohwowcool|t2c3flag=co|t2c3pos=assistant coach
+|t2c4=Dryad|t2c4flag=co|t2c4pos=general manager
+|t3title=Substitute
+|t3p1=Dulla|t3p1flag=co|t3p1pos=dps|t3p1dnp=true
+|t3p2=neverdead|t3p2flag=co|t3p2pos=dps|t3p2dnp=true
+|t3p3=Pierino|t3p3flag=co|t3p3pos=dps|t3p3dnp=true
+|t3p4=TvPower|t3p4flag=co|t3p4pos=sup|t3p4dnp=true
+|qualifier=[[/Americas Conference|Americas Group B]]
+|placement=1
+|inotes={{NoteBig
+|n1=July 7th - {{player|Eqo|flag=il|pos=dps}} leaves the team.<ref name="eqo leaves">{{cite web|url=https://twitter.com/OverwatchColTM/status/1715451943357702373|title=Unfortunately, Due to a variety of factors, EQO will not be able to travel to Blizzcon for the OWWC.|author=[[Team Colombia]]|date=2023-10-20}}</ref> ''Head Coach'' {{player|Circci|flag=co|pos=coach}} will stand in on DPS. <ref name="circci dps">{{cite web|url=https://twitter.com/Circci/status/1715457376684519560|title=Blizzard has given special approval for me to play in his place due to the circumstances.|author=[[Circci]]|date=2023-10-20}}</ref>
+}}
+}}
+{{TeamCard
+|team=Brazil
+|p1=Ludwig|p1team=war pigs|pos1=dps
+|p2=Svenko|pos2=dps
+|p3=TheSeriusGui|pos3=flex
+|p4=neil|pos4=tank
+|p5=Dalca|p5team=war pigs|pos5=tank
+|p6=Nyohl|p6team=war pigs|pos6=sup
+|p7=xfel|pos7=sup
+|t2title=Staff
+|t2c1=Honorato|t2c1pos=head coach
+|t2c2=GME|t2c2flag=br|t2c2pos=assistant coach
+|t2c3=Nitro|t2c3pos=general manager
+|t2c4=Lokjiiu|t2c4pos=assistant manager
+|qualifier=[[/Americas Conference|Americas Group B]]
+|placement=2
+}}
+{{TeamCard
+|team=United Kingdom
+|p1=Kai|p1team=gla|pos1=dps
+|p2=WMaimone|p2team=ex oblivione|pos2=flex
+|p3=Backbone|pos3=flex
+|p4=JkAru19|p4team=raspberry racers|pos4=tank
+|p5=Smex|pos5=tank
+|p6=FunnyAstro|p6team=gla|pos6=sup
+|p7=Kronus|p7team=team peps|pos7=sup
+|t2title=Staff
+|t2c1=ChrisTFer|t2c1pos=head coach
+|t2c2=CommanderX|t2c2pos=assistant coach
+|t2c3=TazMo|t2c3team=dal|t2c3pos=manager
+|qualifier=[[/Europe and Middle East Conference|Europe and Middle East Group A]]
+|placement=1
+}}
+{{TeamCard
+|team=Spain
+|p1=Punk|pos1=dps|p1link=Punk (Spanish Player)
+|p2=CrazyDragon|pos2=dps
+|p3=Bones|pos3=dps
+|p4=Helv|p4team=ataraxia|pos4=tank
+|p5=heaveNN|pos5=tank
+|p6=Galaa|p6team=ataraxia|pos6=sup
+|p7=Khenail|p7team=ex oblivione|pos7=sup
+|t2title=Staff
+|t2c1=Phäge|t2c1flag=es|t2c1team=ataraxia|t2c1pos=coach
+|t2c2=NoHill|t2c2pos=coach
+|t2c3=Ness|t2c3team=ataraxia|t2c3pos=manager
+|t2c4=Laggy|t2c4team=sheer cold|t2c4pos=assistant manager
+|t3title=Substitute
+|t3p1=Conde|t3p1flag=es|t3p1pos=dps|t3p1dnp=true
+|t3p2=ADE|t3p2flag=es|t3p2pos=tank|t3p2dnp=true|t3p2link=ADE (Spanish player)
+|t3p3=SrFreezy|t3p3team=ataraxia|t3p3pos=sup|t3p3dnp=true
+|qualifier=[[/Europe and Middle East Conference|Europe and Middle East Group A]]
+|placement=2
+|inotes={{NoteBig
+|n1=August 1st - {{player|h1ra|flag=es|pos=dps}} leaves.<ref name="h1ra leaves">{{cite web|url=https://twitter.com/SpainOWWC/status/1686294886457241600|title=Due to issues unrelated to the World Cup, the player Emanuel "H1ra" Madumeye will not be able to continue playing with us this World Cup.|author=[[Team Spain]]|date=2023-08-01}}</ref> {{player|Punk|flag=es|pos=dps|link=Punk (Spanish Player)}} joins the team.<ref name="punk (spanish player) joins">{{cite web|url=https://twitter.com/spainowwc/status/1686390906893803522|title=Dadle la bienvenida a @PunkDLL ¡Se una a la aventura de la worldcup como DPS! |author=[[Team Spain]]|date=2023-08-01}}</ref>
+|n2=October 5th- {{player|Loren|flag=es|pos=dps}} leaves the team.<ref name="loren leaves">{{cite web|url=https://twitter.com/SpainOWWC/status/1710020489043726386|title=📢COMUNICADO OFICIAL|author=[[Team Spain]]|date=2023-10-05}}</ref>
+|n3=October 6th- {{player|Bones|flag=es|pos=dps}} is promoted to the main roster.<ref name="bones promoted">{{cite web|url=https://twitter.com/SpainOWWC/status/1710297908640190889|title=¡Bienvenido @BonessFPS!|author=[[Team Spain]]|date=2023-10-06}}</ref>
+}}
+}}
+{{TeamCard
+|team=France
+|p1=Avo|p1team=hypnos|pos1=dps
+|p2=NiCOgdh|pos2=dps
+|p3=Pak|p3team=!Play|pos3=dps
+|p4=BenBest|pos4=tank
+|p5=Poko|p5team=inf|pos5=tank
+|p6=FDGod|p6team=team peps|pos6=sup
+|p7=Natlocks|p7team=ataraxia|pos7=sup
+|t2title=Coaches
+|t2c1=LeRenegat|t2c1team=team peps|t2c1pos=head coach
+|t2c2=Ascoft|t2c2team=van|t2c2pos=assistant coach
+|t2c3=Bulle|t2c3team=!Play|t2c3pos=assistant coach
+|t2c4=Ceadus|t2c4pos=assistant coach
+|t2c5=HyP|t2c5pos=assistant coach
+|t2c6=Loaw|t2c6flag=fr|t2c6pos=assistant coach
+|t2c7=SweepzFr|t2c7pos=analyst
+|t3title=Managers
+|t3c1=Féfé|t3c1team=team peps|t3c1pos=general manager
+|t3c2=Søeny|t3c2team=team peps|t3c2pos=assistant manager
+|t3c3=Zorfen|t3c3team=ataraxia|t3c3pos=assistant manager
+|qualifier=[[/Europe and Middle East Conference|Europe and Middle East Group A]]
+|placement=3
+|inotes={{NoteBig
+|n1=September 30th - {{player|reviewz|flag=fr|pos=sup}} leaves the team. {{player|Pak|flag=fr|pos=dps}} role swaps to Support. <ref name="reviewz suspended">{{cite web|url=https://x.com/avecle6/status/1708151738681753936|title=📢 COMMUNIQUÉ|author=[[Team France]]|date=2023-09-30}}</ref>
+|n2=October 1st - ''Head Coach'' {{player|GetAmazed|flag=fr|pos=coach}} leaves the team. <ref name="getamazed leaves">{{cite web|url=https://twitter.com/GetAmazed_ow/status/1708522491734335896|title=Suite aux dramas récents j'ai pris la décision de me retirer de l'équipe de France et mettre ma carrière en pause.|author=[[GetAmazed]]|date=2023-10-01}}</ref>
+|n3=October 5th - {{player|Natlocks|flag=fr|pos=sup}} joins the team. {{player|LeRenegat|flag=fr|pos=coach}} is promoted to ''Head Coach''. {{player|Pak|flag=fr|pos=sup}} moves back to DPS.<ref name="france roster update">{{cite web|url=https://twitter.com/avecle6/status/1709873083970945032|title=UPDATE ROSTER|author=[[Team France]]|date=2023-10-05}}</ref>
+}}
+}}
+{{TeamCard
+|team=Saudi Arabia
+|p1=Youbi|p1team=twisted minds|pos1=dps
+|p2=Quartz|p2team=twisted minds|pos2=dps
+|p3=LBBD7|p3team=twisted minds|pos3=flex
+|p4=KSAA|p4team=twisted minds|pos4=tank
+|p5=Haku|p5team=twisted minds|pos5=sup|p5link=Nutella
+|p6=SirMajed|pos6=sup
+|p7=One|p7team=triple esports|pos7=sup
+|t2title=Staff
+|t2c1=W1llyv|t2c1team=twisted minds|t2c1pos=head coach
+|t2c2=Kellex|t2c2team=twisted minds|t2c2pos=coach
+|t2c3=Kariv|t2c3pos=coach
+|t2c4=Scar|t2c4pos=manager
+|t2c5=akay|t2c5team=twisted minds|t2c5pos=manager
+|t2c6=Boostio|t2c6link=Boostio (Saudi Arabian player)|t2c6flag=sa|t2c6pos=manager
+|qualifier=[[/Europe and Middle East Conference|Europe and Middle East Group B]]
+|placement=1
+|inotes={{NoteBig
+|n1=October 9th - {{player|YZNSA|flag=sa|pos=dps}} leaves the team. <ref name="yznsa leaves">{{cite web|url=https://twitter.com/YZNSA_/status/1711393466041733219|title=Hello everyone, i’d like to clarify some important things and share an update.|author=[[YZNSA]]|date=2023-10-09}}</ref>
+|n2=October 22nd - {{player|LBBD7|flag=sa|pos=dps}} joins the team. <ref name="lbbd7 joins">{{cite web|url=https://twitter.com/SAOWWC/status/1716189771259695111|title=الصقـور في لــوس أنجلــوس 🇺🇸 |trans_title=Falcons in Los Angeles|author=[[Team Saudi Arabia]]|date=2023-10-22}}</ref>
+|n3=October 29th - {{player|Kellex|flag=dk|pos=coach}} and {{player|Kariv|flag=kr|pos=coach}} join the team as ''Coaches''. <ref name="kellex and kariv join">{{cite web|url=https://twitter.com/SAOWWC/status/1718694450656891349|title=نرحّب بـ @kellexOW @KarivOW في الطاقم التدريـبي التابع إلى اللجنة 🧠🇸🇦 |trans_title=Welcome @kellexOW @KarivOW in the training staff of the committee|author=[[Team Saudi Arabia]]|date=2023-10-29}}</ref>
+}}
+}}
+{{TeamCard
+|team=Finland
+|p1=Clowd|p1team=raspberry racers|pos1=dps
+|p2=Sauna|pos2=dps
+|p3=Vestola|p3team=ex oblivione|pos3=tank
+|p4=Masaa|pos4=sup
+|p5=Mickji|p5team=srpeakcheck|pos5=sup
+|p6=Olli|p6team=supershy|pos6=sup
+|t2title=Staff
+|t2c1=Criator|t2c1pos=coach
+|t2c2=Kuhnu|t2c2pos=general manager
+|t2c3=Algos05|t2c3team=o3 splash|t2c3pos=assistant manager
+|qualifier=[[/Europe and Middle East Conference|Europe and Middle East Group B]]
+|placement=2
+|inotes={{NoteBig
+|n1=October 19th - {{player|LhCloudy|flag=fi|pos=tank}} is suspended from the team. <ref name="LhCloudy suspended">{{cite web|url=https://twitter.com/owwcfinland/status/1714989785356374133|title=Statement regarding LhCloudy:|author=[[Team Finland]]|date=2023-10-19}}</ref>
+}}
+}}
+{{TeamCard
+|team=South Korea
+|p1=LIP|p1team=atl|pos1=dps
+|p2=Sp9rk1e|p2team=dal|pos2=dps
+|p3=Fearless|pos3=tank
+|p4=Hanbin|p4team=dal|pos4=tank
+|p5=ChiYo|p5team=atl|pos5=sup
+|p6=Fielder|p6team=atl|pos6=sup
+|p7=FiNN|pos7=sup
+|t2title=Staff
+|t2c1=RUSH|t2c1team=dal|t2c1pos=head coach
+|t2c2=Aid|t2c2pos=assistant coach
+|t2c3=Dear|t2c3team=dal|t2c3pos=manager
+|qualifier=[[/Asia-Pacific Conference|Asia-Pacific Group A]]
+|placement=1
+}}
+{{TeamCard
+|team=Japan
+|p1=Nico|p1team=VARREL|pos1=dps
+|p2=Qki|p2team=VARREL|pos2=dps
+|p3=Mihawk|p3team=VARREL|pos3=flex
+|p4=KSG|p4team=VARREL|pos4=tank
+|p5=Plankton|p5team=VARREL|pos5=tank
+|p6=mint|p6team=VARREL|pos6=sup|p6link=mint (Japanese player)
+|p7=Qloud|p7team=VARREL|pos7=sup
+|t2title=Staff
+|t2c1=ＰＡＩＮ|t2c1team=VARREL|t2c1pos=head coach
+|t2c2=Clank|t2c2team=LEVANGA☆SAPPORO|t2c2pos=assistant coach
+|t2c3=Taiga|t2c3team=VARREL|t2c3pos=assistant coach
+|t2c4=mizuiro|t2c4flag=jp|t2c4pos=manager
+|qualifier=[[/Asia-Pacific Conference|Asia-Pacific Group A]]
+|placement=2
+}}
+{{TeamCard
+|team=Hong Kong
+|p1=Despair|p1flag=hk|pos1=dps 
+|p2=Kurumi|pos2=dps 
+|p3=XIAOLIAN|pos3=dps 
+|p4=R3K|p4team=DAF E-Sport|pos4=tank 
+|p5=AmCrazy|pos5=sup	 
+|p6=ManGoJai|pos6=sup 
+|p7=IRP|p7flag=hk|pos7=sup
+|t2title=Staff
+|t2c1=MarioMainHK|t2c1flag=hk|t2c1pos=coach
+|t2c2=ASCII|t2c2flag=hk|t2c2pos=manager
+|qualifier=[[/Asia-Pacific Conference|Asia-Pacific Group A]]
+|placement=3
+}}
+{{TeamCard
+|team=Australia
+|p1=QIN|p1team=ground zero gaming|pos1=dps
+|p2=naahmie|p2team=honeypot|pos2=dps
+|p3=Nanda|p3team=quetzal|pos3=dps
+|p4=cuFFa|p4team=ground zero gaming|pos4=tank
+|p5=Meritt|p5team=honeypot|pos5=sup
+|p6=Bertlog|p6team=honeypot|pos6=sup
+|p7=Ackyyy|p7team=ground zero gaming|pos7=sup
+|t2title=Staff
+|t2c1=Unter|t2c1team=gla|t2c1pos=coach
+|t2c2=face|t2c2team=gla|t2c2pos=manager
+|t2c3=junseo|t2c3team=srpeakcheck|t2c3pos=manager
+|t3title=Substitute
+|t3p1=Atlas|t3p1pos=sup|t3p1team=ground zero gaming|t3p1dnp=true
+|qualifier=[[/Asia-Pacific Conference|Asia-Pacific Group B]]
+|placement=1
+|inotes={{NoteBig
+|n1=September 21st - {{player|Punk|flag=au|pos=tank}} steps down from the team. {{player|Meritt|flag=au|pos=sup}} joins the team.<ref name="punk leaves">{{cite web|url=https://twitter.com/AUSOWWC/status/1705054315797491784|title=Punk has decided to step down from World Cup and we will be taking in @MeritOCE from our reserves to give us support flexibility.|author=[[Team Australia]]|date=2023-09-21}}</ref>
+}}
+}}
+{{TeamCard
+|team=Thailand
+|p1=Ace|p1team=DAF E-Sport|pos1=dps|p1link=Ace (Thai_player)
+|p2=HyVision|p2team=DAF E-sport|pos2=dps
+|p3=KallBun|p3team=DAF E-Sport|pos3=tank
+|p4=Rodtunglnw|pos4=tank
+|p5=Teetawat|pos5=tank
+|p6=oPuTo|p6team=DAF E-Sport|pos6=sup
+|p7=PaLee|p7team=DAF E-Sport|pos7=sup
+|t2title=Staff
+|t2c1=mush2oom|t2c1team=DAF E-Sport|t2c1pos=head coach
+|t2c2=Pannys|t2c2pos=manager
+|qualifier=[[/Asia-Pacific Conference|Asia-Pacific Group B]]
+|placement=2
+|inotes={{NoteBig
+|n1=October 19th - ''Head Coach'' {{player|Teetawat|flag=th|pos=coach}} changes role to tank player. ''Assistant Coach'' {{player|mush2oom|flag=th|pos=coach}} is promoted to ''Head Coach'' and leaves the tank player role. <ref name="thai changes">{{cite web|url=https://twitter.com/Overwatch_Thai/status/1714886768225615877|title=#OWThaitans Roster Update|author=[[Team Thailand]]|date=2023-10-19}}</ref>
+}}
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Toggle bracket start|tournament=Overwatch World Cup/2023|sdate=2023-10-29|button2Text=Hide schedule|sortround=true}}
+{{Toggle bracket end}}
+==={{Stage|Group Stage}}===
+{{box|start|padding=2em}}
+===={{HiddenSort|Group A}}====
+{{GroupTableLeague|title=Group A|width=450px
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=up|team1=South Korea
+|bg2=down|team2=Colombia
+|bg3=down|team3=Mexico
+|bg4=up|team4=Finland
+|edate=November 2, 2023
+}}
+{{Matchlist|id=HB036NnRoo|width=450|matchsection=Group A
+|M1header=Day 1
+|M1={{Match
+    |bestof=3
+    |date=October 29, 2023 - 12:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|fin}}
+    |opponent2={{TeamOpponent|mex}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=0|winner=1}}
+	|vod=https://www.youtube.com/live/yzTzryqGOIw?feature=shared&t=5888
+}}
+|M2header=
+|M2={{Match
+    |date=October 29, 2023 - 16:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|colombia}}
+    |opponent2={{TeamOpponent|south korea}}
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=0|score2=3|winner=2}}
+	|vod=https://www.youtube.com/live/yzTzryqGOIw?feature=shared&t=19387
+}}
+|M3header=Day 2
+|M3={{Match
+    |date=October 30, 2023 - 13:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|mex}}
+    |opponent2={{TeamOpponent|colombia}}
+    |map1={{Map|map=Samoa|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=New Queen Street|mode=Push|score1=69.85m|score2=126.17m|winner=2}}
+	|vod=https://www.youtube.com/live/nAJtn3LnByI?feature=shared&t=9483
+}}
+|M4header=Day 3
+|M4={{Match
+    |date=October 31, 2023 - 11:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|fin}}
+    |opponent2={{TeamOpponent|colombia}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+	|vod=https://www.youtube.com/live/HGizOudQrXk?feature=shared&t=2096
+}}
+|M5header=
+|M5={{Match
+    |date=October 31, 2023 - 14:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|mex}}
+    |opponent2={{TeamOpponent|south korea}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+	|vod=https://www.youtube.com/live/HGizOudQrXk?feature=shared&t=11777
+}}
+|M6header=Day 4
+|M6={{Match
+    |date=November 1, 2023 - 12:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|south korea}}
+    |opponent2={{TeamOpponent|fin}}
+    |map1={{Map|map=Samoa|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=0|score2=2|winner=2}}
+    |map3={{Map|map=New Junk City|mode=Flashpoint|score1=3|score2=2|winner=1}}
+	|vod=https://www.youtube.com/live/uVSPgP7GiGs?feature=shared&t=6141
+}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Group B}}====
+{{GroupTableLeague|title=Group B|width=450px
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=up|team1=United Kingdom
+|bg2=down|team2=Australia
+|bg3=down|team3=Brazil
+|bg4=up|team4=Canada
+}}
+{{Matchlist|id=pOcMkSkj9f|width=450|matchsection=Group B
+|M1header=Day 1
+|M1={{Match
+    |bestof=3
+    |date=October 29, 2023 - 11:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|united kingdom}}
+    |opponent2={{TeamOpponent|can}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=0|winner=1}}
+	|vod=https://www.youtube.com/live/yzTzryqGOIw?feature=shared&t=2324
+}}
+|M2header=
+|M2={{Match
+    |date=October 29, 2023 - 13:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|brazil}}
+    |opponent2={{TeamOpponent|aus}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=2|winner=2}}
+	|vod=https://www.youtube.com/live/yzTzryqGOIw?feature=shared&t=8732
+}}
+|M3header=Day 2
+|M3={{Match
+    |date=October 30, 2023 - 16:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|can}}
+    |opponent2={{TeamOpponent|aus}}
+    |map1={{Map|map=Samoa|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=0|winner=1}}
+	|vod=https://www.youtube.com/live/nAJtn3LnByI?feature=shared&t=22528
+}}
+|M4header=Day 3
+|M4={{Match
+    |date=October 31, 2023 - 13:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|can}}
+    |opponent2={{TeamOpponent|brazil}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=2|score2=1|winner=1}}
+	|vod=https://www.youtube.com/live/HGizOudQrXk?feature=shared&t=9118
+}}
+|M5header=
+|M5={{Match
+    |date=October 31, 2023 - 15:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|aus}}
+    |opponent2={{TeamOpponent|united kingdom}}
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=0|score2=3|winner=2}}
+	|vod=https://www.youtube.com/live/HGizOudQrXk?feature=shared&t=14657
+}}
+|M6header=Day 4
+|M6={{Match
+    |date=November 1, 2023 - 14:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|brazil}}
+    |opponent2={{TeamOpponent|united kingdom}}
+    |map1={{Map|map=Samoa|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=0|score2=3|winner=2}}
+	|vod=https://www.youtube.com/live/uVSPgP7GiGs?feature=shared&t=13359
+}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Group C}}====
+{{GroupTableLeague|title=Group C|width=450px
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=up|team1=China
+|bg2=up|team2=Spain
+|bg3=down|team3=Hong Kong
+|bg4=down|team4=Thailand
+}}
+{{Matchlist|id=wqXJoJCzLG|width=450|matchsection=Group C
+|M1header=Day 1
+|M1={{Match
+    |bestof=3
+    |date=October 29, 2023 - 15:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|thailand}}
+    |opponent2={{TeamOpponent|hkg}}
+    |map1={{Map|map=Samoa|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=0|winner=1}}
+	|vod=https://www.youtube.com/live/yzTzryqGOIw?feature=shared&t=16409
+}}
+|M2header=Day 2
+|M2={{Match
+    |date=October 30, 2023 - 11:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|thailand}}
+    |opponent2={{TeamOpponent|esp}}
+    |map1={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Rialto|mode=Escort|score1=0|score2=1|winner=2}}
+	|vod=https://www.youtube.com/live/nAJtn3LnByI?feature=shared&t=2215
+}}
+|M3header=
+|M3={{Match
+    |date=October 30, 2023 - 14:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|hkg}}
+    |opponent2={{TeamOpponent|china}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=2|winner=2}}
+	|vod=https://www.youtube.com/live/nAJtn3LnByI?feature=shared&t=14453
+}}
+|M4header=Day 3
+|M4={{Match
+    |date=October 31, 2023 - 12:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|esp}}
+    |opponent2={{TeamOpponent|china}}
+    |map1={{Map|map=Samoa|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=4|winner=2}}
+	|vod=https://www.youtube.com/live/HGizOudQrXk?feature=shared&t=5607
+}}
+|M5header=Day 4
+|M5={{Match
+    |date=November 1, 2023 - 13:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|hkg}}
+    |opponent2={{TeamOpponent|esp}}
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=3|winner=2}}
+	|vod=https://www.youtube.com/live/uVSPgP7GiGs?feature=shared&t=10633
+}}
+|M6header=
+|M6={{Match
+    |date=November 1, 2023 - 16:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|china}}
+    |opponent2={{TeamOpponent|thailand}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+	|vod=https://www.youtube.com/live/uVSPgP7GiGs?feature=shared&t=18474
+}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Group D}}====
+{{GroupTableLeague|title=Group D|width=450px
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=up|team1=United States
+|bg2=up|team2=Saudi Arabia
+|bg3=down|team3=France
+|bg4=down|team4=Japan
+}}
+{{Matchlist|id=Zp7Kq6vY3X|width=450|matchsection=Group D
+|M1header=Day 1
+|M1={{Match
+    |bestof=3
+    |date=October 29, 2023 - 14:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|france}}
+    |opponent2={{TeamOpponent|jpn}}
+    |map1={{Map|map=Samoa|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=3|score2=4|winner=2}}
+	|vod=https://www.youtube.com/live/yzTzryqGOIw?feature=shared&t=12038
+}}
+|M2header=Day 2
+|M2={{Match
+    |date=October 30, 2023 - 12:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|jpn}}
+    |opponent2={{TeamOpponent|saudi arabia}}
+    |map1={{Map|map=Busan|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Route 66|mode=Escort|score1=1|score2=3|winner=2}}
+	|vod=https://www.youtube.com/live/nAJtn3LnByI?feature=shared&t=2215
+}}
+|M3header=
+|M3={{Match
+    |date=October 30, 2023 - 15:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|france}}
+    |opponent2={{TeamOpponent|usa}}
+    |map1={{Map|map=Busan|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Control|score1=5|score2=4|winner=1}}
+    |map3={{Map|map=New Queen Street|mode=Push|score1=7.56m|score2=128.09m|winner=2}}
+	|vod=https://www.youtube.com/live/nAJtn3LnByI?feature=shared&t=17124
+}}
+|M4header=Day 3
+|M4={{Match
+    |date=October 31, 2023 - 16:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|saudi arabia}}
+    |opponent2={{TeamOpponent|usa}}
+    |map1={{Map|map=Samoa|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=2|score2=1|winner=1}}
+	|vod=https://www.youtube.com/live/HGizOudQrXk?feature=shared&t=17776
+}}
+|M5header=Day 4
+|M5={{Match
+    |date=November 1, 2023 - 11:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|france}}
+    |opponent2={{TeamOpponent|saudi arabia}}
+    |map1={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+	|vod=https://www.youtube.com/live/uVSPgP7GiGs?feature=shared&t=2120
+}}
+|M6header=
+|M6={{Match
+    |date=November 1, 2023 - 15:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|usa}}
+    |opponent2={{TeamOpponent|jpn}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Route 66|mode=Escort|score1=1|score2=0|winner=1}}
+	|vod=https://www.youtube.com/live/uVSPgP7GiGs?feature=shared&t=16203
+}}
+}}
+{{box|end|padding=2em}}
+
+===Playoffs===
+{{Bracket|Bracket/8|id=FIIqJWGjmo
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=5
+    |date=November 3, 2023 - 09:30 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|south korea}}
+    |opponent2={{TeamOpponent|can}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=4|score2=5|winner=2}}
+    |map3={{Map|map=New Junk City|mode=Flashpoint|score1=3|score2=0|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=128.09m|score2=41.04m|winner=1}}
+	|comment=[[New Queen Street]] was played off-stream due to the start of BlizzCon's opening ceremony.
+	|vod=https://www.youtube.com/live/RtUBcfu6twM?feature=shared&t=2650
+}}
+|R1M2={{Match
+    |date=November 3, 2023 - 13:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|china}}
+    |opponent2={{TeamOpponent|usa}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=New Junk City|mode=Flashpoint|score1=3|score2=1|winner=1}}
+	|vod=https://www.youtube.com/live/RtUBcfu6twM?feature=shared&t=14589
+}}
+|R1M3={{Match
+    |date=November 3, 2023 - 15:15 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|united kingdom}}
+    |opponent2={{TeamOpponent|fin}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Suravasa|mode=Flashpoint|score1=0|score2=3|winner=2}}
+	|vod=https://www.youtube.com/live/RtUBcfu6twM?feature=shared&t=22906
+}}
+|R1M4={{Match
+    |date=November 3, 2023 - 16:45 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|Saudi Arabia}}
+    |opponent2={{TeamOpponent|esp}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=0|winner=1}}
+    |map3={{Map|map=Suravasa|mode=Flashpoint|score1=3|score2=0|winner=1}}
+	|vod=https://www.youtube.com/live/RtUBcfu6twM?feature=shared&t=22906
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+    |date=November 4, 2023 - 10:00 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|south korea}}
+    |opponent2={{TeamOpponent|china}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Suravasa|mode=Flashpoint|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Esperança|mode=Push|score1=1|score2=0|winner=1}}
+    |map5={{Map|map=Route 66|mode=Escort|score1=2|score2=3|winner=2}}
+	|vod=https://www.youtube.com/live/R6nax5v92q0?si=cIc2cRgD3PkdgJc2&t=1934
+}}
+|R2M2={{Match
+    |date=November 4, 2023 - 11:45 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|fin}}
+    |opponent2={{TeamOpponent|Saudi Arabia}}
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=4|score2=5|winner=2}}
+    |map3={{Map|map=Suravasa|mode=Flashpoint|score1=3|score2=1|winner=1}}
+    |map4={{Map|map=Esperança|mode=Push|score1=1|score2=0|winner=1}}
+    |map5={{Map|map=Route 66|mode=Escort|score1=3|score2=4|winner=2}}
+	|vod=https://www.youtube.com/live/R6nax5v92q0?si=ntAf3tZVDEbqalZ1&t=8707
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |date=November 4, 2023 - 15:45 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|china}}
+    |opponent2={{TeamOpponent|Saudi Arabia}}
+    |map1={{Map|map=Samoa|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Suravasa|mode=Flashpoint|score1=1|score2=3|winner=2}}
+    |map4={{Map|map=Esperança|mode=Push|score1=0|score2=1|winner=2}}
+    |map5={{Map|map=Route 66|mode=Escort|score1=3|score2=4|winner=2}}
+	|vod=https://www.youtube.com/live/R6nax5v92q0?si=sjOVHCAcbimxYXBs&t=25280
+}}
+
+<!-- Third Place -->
+|RxMTP={{Match
+    |date=November 4, 2023 - 14:15 {{Abbr/PDT}}
+    |youtube=playoverwatch|twitch=playoverwatch
+    |opponent1={{TeamOpponent|south korea}}
+    |opponent2={{TeamOpponent|fin}}
+    |map1={{Map|map=Samoa|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Suravasa|mode=Flashpoint|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=0|score2=1|winner=2}}
+    |map5={{Map|map=Circuit Royal|mode=Escort|score1=4|score2=5|winner=2}}
+	|vod=https://www.youtube.com/live/R6nax5v92q0?si=PAbWpk4YtenfA6t5&t=18506
+}}
+}}
+
+==Additional Information==
+===Viewership Statistics===
+{{StreamStats
+|peak=318 780
+|average=129 006
+|hours=5 536 468
+|esclink=ow/overwatch-world-cup-2023
+}}
+
+
+==External links==
+*{{flag/usuk}} [https://overwatch.blizzard.com/en-us/news/23892139/ Overwatch World Cup to Return in 2023]
+
+==References==
+{{reflist}}

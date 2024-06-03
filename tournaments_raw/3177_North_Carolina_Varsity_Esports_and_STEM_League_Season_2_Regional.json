@@ -1,0 +1,284 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/4}}|liquipediatiertype=Qualifier",
+            "series": "VESL",
+            "shortname": "VESL Season 2: Regional Final",
+            "name": "VESL Season 2: Regional Final",
+            "tickername": "VESL Season 2: Regional Final",
+            "image": "VESL 2023 allmode.png",
+            "icon": "VESL 2023 allmode.png",
+            "organizer": "VESL",
+            "organizer-link": "",
+            "sponsor": "[https://www.uncg.edu UNCG] <br> [https://www.liveoakbank.com/ LiveOakBank] <br> Tepper Sports",
+            "game": "overwatch2",
+            "type": "Online/Offline",
+            "country": "United States|city=Charlotte",
+            "country2": "United States|city2=Greensboro",
+            "country3": "United States|city3=Wilmington",
+            "venue": "Bank of America Stadium",
+            "venue2": "UNCG Esports Arena",
+            "venue3": "UNC Wilmington",
+            "prizepoolusd": "",
+            "date": "2024-01-21",
+            "website": "https://vesl.gg/",
+            "rules": "https://docs.google.com/document/u/1/d/e/2PACX-1vQePZT5fzMRQuBJBxVzUHfOHoiDIbxYHGjaosTMEgL9CWGnMbEdAM5szzluiSoMt_7JZzYS-r3d-opZ/pub",
+            "twitch": "veslgg",
+            "youtube": "@VESLGG",
+            "twitter": "veslgg",
+            "facebook": "stiegleredtech",
+            "instagram": "vesl.gg/",
+            "tiktok": "@veslgg",
+            "team_number": "14",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Panther Creek Team A",
+            "p1": "\u0110\u0206\u013f\u020a\u010a\u0202\u0166\u0206|p1flag=us|pos1=dps",
+            "p2": "towor|p2flag=us|pos2=tank",
+            "p3": "MeldonJr|p3flag=us|pos3=tank",
+            "p4": "AntarcticaBa|p4flag=us|pos4=sup",
+            "p5": "Acelotl|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "Green Hope Team A",
+            "p1": "hryounki|p1flag=us|pos1=dps",
+            "p2": "Oblivion|p2flag=us|pos2=tank|p2link=Oblivion (American Player)",
+            "p3": "SpicyPepper|p3flag=us|pos3=tank",
+            "p4": "overotak|p4flag=us|pos4=sup",
+            "p5": "Plore|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "North Henderson Team A",
+            "p1": "Hammor|p1flag=us|pos1=dps",
+            "p2": "Ramattr|p2flag=us|pos2=tank",
+            "p3": "CoolChicken|p3flag=us|pos3=tank",
+            "p4": "Toolie|p4flag=us|pos4=sup",
+            "p5": "BigLInCha|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "Ardrey Kell High School Team A",
+            "p1": "Cureless|p1flag=us|pos1=dps",
+            "p2": "SLTYSPTOON|p2flag=us|pos2=dps",
+            "p3": "Rothschild|p3flag=us|pos3=tank",
+            "p4": "Fewer|p4flag=us|pos4=sup",
+            "p5": "LONGHRNS10|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "Palisades High School",
+            "p1": "speed|p1flag=us|pos1=dps",
+            "p2": "melody |p2flag=us|pos2=dps",
+            "p3": "rhino|p3flag=us|pos3=tank",
+            "p4": "rin|p4flag=us|pos4=sup",
+            "p5": "AJ|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "Ardrey Kell High School Team B",
+            "p1": "Pugz|p1flag=us|pos1=dps",
+            "p2": "TheRaccoon|p2flag=us|pos2=dps",
+            "p3": "Cbtmaster|p3flag=us|pos3=tank",
+            "p4": "DieWithGlory|p4flag=us|pos4=sup",
+            "p5": "Terror|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "Central Cabarrus High",
+            "p1": "ButteredRat|p1flag=us|pos1=dps",
+            "p2": "Cono|p2flag=us|pos2=tank",
+            "p3": "Aderinex|p3flag=us|pos3=tank",
+            "p4": "Velfate|p4flag=us|pos4=sup",
+            "p5": "GamerAnt647|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "Research Triangle",
+            "link": "Research Triangle High School",
+            "p1": "Deadman116|p1flag=us|pos1=",
+            "p2": "jactter|p2flag=us|pos2=",
+            "p3": "stev0tm|p3flag=us|pos3=",
+            "p4": "rolltoseducethedragon|p4flag=us|pos4=",
+            "p5": "wokiswok|p5flag=us|pos5=",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "West Craven Team A",
+            "p1": "hallow |p1flag=us|pos1=dps",
+            "p2": "Beezothebozo|p2flag=us|pos2=dps",
+            "p3": "imasmartrock|p3flag=us|pos3=tank",
+            "p4": "Eoaisdumb|p4flag=us|pos4=sup",
+            "p5": "Furious|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "Sun Valley High Team A",
+            "p1": "BawlzDiep69|p1flag=us|pos1=dps",
+            "p2": "Pog|p2flag=us|pos2=tank",
+            "p3": "tanuki|p3flag=us|pos3=tank",
+            "p4": "Light|p4flag=us|pos4=sup|p4link=Light (American Player)",
+            "p5": "vAder|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "Sun Valley Team B",
+            "p1": "fpshawker|p1flag=us|pos1=dps",
+            "p2": "jacobbernier117|p2flag=us|pos2=tank",
+            "p3": "peterbot10|p3flag=us|pos3=tank",
+            "p4": "EMCEE|p4flag=us|pos4=sup",
+            "p5": "gamer6806|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "Sun Valley Team C",
+            "p1": "DayzGamer08|p1flag=us|pos1=dps",
+            "p2": "mayday117|p2flag=us|pos2=tank",
+            "p3": "Rexadon05|p3flag=us|pos3=tank",
+            "p4": "Hatsu|p4flag=us|pos4=sup",
+            "p5": "2xbowie|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "North Carolina Cyber Academy",
+            "p1": "ghostii|p1flag=us|pos1=dps",
+            "p2": "sorzu|p2flag=us|pos2=tank",
+            "p3": "Solomon|p3flag=us|pos3=tank|p3link=Solomon (American Player)",
+            "p4": "ScottyZ|p4flag=us|pos4=sup",
+            "p5": "Krystal|p5flag=us|pos5=sup|p5link=Krystal (American Player)",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        },
+        {
+            "team": "Providence High School Team A",
+            "p1": "Zoullx|p1flag=us|pos1=dps",
+            "p2": "mailbox_d|p2flag=us|pos2=dps",
+            "p3": "Kaloren|p3flag=us|pos3=tank",
+            "p4": "Mastertino|p4flag=us|pos4=sup",
+            "p5": "the83vf|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier|Qualifier]]"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "winner": "2",
+            "date": "January 21, 2024",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ardrey Kell Team A|score=0}}",
+            "opponent2": "{{TeamOpponent|Panther Creek Team A|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "winner": "",
+            "date": "January 21, 2024",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sun Valley Team B|score=0 }}",
+            "opponent2": "{{TeamOpponent|Palisades High School|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "winner": "2",
+            "date": "January 21, 2024",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|West Craven Team A|score=0}}",
+            "opponent2": "{{TeamOpponent|Sun Valley Team A|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "winner": "2",
+            "date": "January 21, 2024",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Research Triangle High School|score=0}}",
+            "opponent2": "{{TeamOpponent|Green Hope Team A|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "winner": "",
+            "date": "January 21, 2024",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|North Henderson Team A|score=3}}",
+            "opponent2": "{{TeamOpponent|North Carolina Cyber Academy|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "winner": "2",
+            "date": "January 21, 2024",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Central Cabarrus High School|score=0}}",
+            "opponent2": "{{TeamOpponent|Sun Valley Team C|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "qualwinliteral": "State Finals",
+            "winner": "2",
+            "date": "January 21, 2024",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ardrey Kell Team B|score=0}}",
+            "opponent2": "{{TeamOpponent|Panther Creek Team A|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "qualwinliteral": "State Finals",
+            "winner": "1",
+            "date": "January 28, 2024",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Palisades High School|score=3}}",
+            "opponent2": "{{TeamOpponent|Sun Valley Team A|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "qualwinliteral": "State Finals",
+            "winner": "2",
+            "date": "January 21, 2024",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Providence Team A|score=0}}",
+            "opponent2": "{{TeamOpponent|Green Hope Team A|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "qualwinliteral": "State Finals",
+            "winner": "2",
+            "date": "January 27, 2024",
+            "postponed": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|North Henderson Team A|score=1}}",
+            "opponent2": "{{TeamOpponent|Sun Valley Team C|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        }
+    ]
+}

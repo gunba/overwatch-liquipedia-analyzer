@@ -1,0 +1,425 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "The Arena: Open SR Division #2",
+            "series": "The Arena",
+            "shortname": "The Arena: Open SR Division #2",
+            "tickername": "The Arena: Open SR Division",
+            "image": "Arena 51 allmode.png",
+            "icon": "Arena 51 allmode.png",
+            "organizer": "Arena 51 Gaming",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "prizepoolusd": "150",
+            "sdate": "2023-05-13",
+            "edate": "2023-05-14",
+            "discord": "arena51gaming",
+            "rulebook": "https://drive.google.com/file/d/19_1vlo7BbVIVJniMXCFkttoHzAmD8O97/view",
+            "bracket": "https://www.communitygaming.io/tournament/the-arena-open-sr-division-2",
+            "twitch": "arena_51_gaming",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Chidori Falco",
+            "p1": "DrDanny|p1flag=cz|pos1=dps",
+            "p2": "akvi|p2flag=cz|pos2=dps",
+            "p3": "groka|p3flag=cz|pos3=tank",
+            "p4": "\u0110\u0104\u0145\u010e\u00dd|p4flag=cz|pos4=sup",
+            "p5": "Tatroun|p5flag=cz|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "akvi|t2pos1=manager|t2p1flag=cz",
+            "t2p2": "Kattos Senju|t2pos2=coach|t2p2flag=cz"
+        },
+        {
+            "team": "Shanghai Wagons",
+            "p1": "Eagle|p1flag=de|pos1=dps|p1link=Eagle (German player)",
+            "p2": "m1st|p2flag=nl|pos2=dps",
+            "p3": "Joey|p3flag=uk|pos3=tank|p3link=Joey (British player)",
+            "p4": "Joje|p4flag=se|pos4=sup",
+            "p5": "Frost|p5flag=uk|pos5=sup|p5link=Frost (British player)",
+            "p6": "noya|p6flag=|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "Frost|t2pos1=manager|t2p1flag=uk|t2p1link=Frost (British player)",
+            "t2p2": "Lizzy|t2pos2=coach"
+        },
+        {
+            "team": "EF Flexodiax",
+            "p1": "Kyloren|p1flag=pl|pos1=dps",
+            "p2": "Melon|p2flag=uk|pos2=dps|p2link=Melon (British player)",
+            "p3": "Lunar|p3flag=se|pos3=tank",
+            "p4": "reisu|p4flag=uk|pos4=sup",
+            "p5": "Verit|p5flag=dk|pos5=sup",
+            "p6": "RedmanFire|p6flag=|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "RedmanFire|t2p1flag=|t2pos1=manager"
+        },
+        {
+            "team": "Lekkamraterna",
+            "p1": "Snazzy|p1flag=se|pos1=dps",
+            "p2": "Drown|p2flag=se|pos2=dps",
+            "p3": "W1LL1AM|p3flag=se|pos3=tank",
+            "p4": "Kinesen|p4flag=se|pos4=sup",
+            "p5": "Villroy|p5flag=se|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "W1LLIAM|t2p1flag=se|t2pos1=manager",
+            "t2p2": "Gotham|t2p2flag=|t2pos2=coach"
+        },
+        {
+            "team": "Giga Chads",
+            "p1": "elad|p1flag=uk|pos1=dps",
+            "p2": "Ozone|p2flag=uk|pos2=dps|p2link=Ozone (British player)",
+            "p3": "Tsu|p3flag=uk|pos3=tank",
+            "p4": "VioletDawn|p4flag=ch|pos4=sup",
+            "p5": "lowIQLeMon|p5flag=de|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "Tsu|t2p1flag=uk|t2pos1=manager"
+        },
+        {
+            "team": "Team AI",
+            "p1": "\u0156ASTAMOUSE|p1flag=uk|pos1=dps",
+            "p2": "J\u00ddN|p2flag=uk|pos2=dps",
+            "p3": "Idek|p3flag=uk|pos3=dps",
+            "p4": "Aesoid|p4flag=uk|pos4=tank",
+            "p5": "goodpersec|p5flag=uk|pos5=sup",
+            "p6": "BRNY|p6flag=uk|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "Barney|t2p1flag=uk|t2pos1=manager",
+            "t2p2": "J\u00ddN|t2p2flag=uk|t2pos2=coach"
+        },
+        {
+            "team": "Chicken Army",
+            "p1": "Tryze|p1flag=no|pos1=dps",
+            "p2": "Lemonade|p2flag=at|pos2=dps",
+            "p3": "sol|p3flag=no|pos3=dps",
+            "p4": "Lama|p4flag=at|pos4=tank",
+            "p5": "Cakeydaddy|p5flag=dk|pos5=sup",
+            "p6": "Goldemm|p6flag=de|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "Goldblooded|t2pos1=manager|t2p1flag=de",
+            "t2p2": "Jaeco|t2p2flag=uk|t2pos2=coach"
+        },
+        {
+            "team": "36atorium",
+            "p1": "Quellik|p1flag=ru|pos1=dps",
+            "p2": "Fr0l|p2flag=ru|pos2=dps",
+            "p3": "Pusenkas|p3flag=ru|pos3=tank",
+            "p4": "Svarron|p4flag=ru|pos4=sup",
+            "p5": "konnik|p5flag=ru|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "Komrade Manager|t2p1flag=ru|t2pos1=manager",
+            "t2p2": "DarthMurloc|t2p2flag=ru|t2pos2=coach"
+        },
+        {
+            "team": "Pixies",
+            "p1": "elibono06|p1flag=uk|pos1=dps",
+            "p2": "Spai|p2flag=fi|pos2=dps",
+            "p3": "PandaBoy|p3flag=fi|pos3=tank",
+            "p4": "Puitnar|p4flag=fi|pos4=tank",
+            "p5": "Kermi|p5flag=fi|pos5=sup",
+            "p6": "Libi|p6flag=fi|pos6=sup",
+            "p7": "COBBA|p7flag=uk|pos7=sup",
+            "p8": "Lawrence|p8flag=ro|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Kermi|t2c1flag=fi|t2c1pos=coach",
+            "t2c2": "Kermi|t2c2flag=fi|t2c2pos=manager"
+        },
+        {
+            "team": "Hedwiiiig",
+            "p1": "G4sich|p1flag=at|pos1=dps",
+            "p2": "NisPuk|p2flag=de|pos2=dps",
+            "p3": "Hitori|p3flag=de|pos3=tank",
+            "p4": "Mizu|p4flag=de|pos4=sup",
+            "p5": "Mecha919|p5flag=se|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "G4sich|t2c1flag=at|t2c1pos=manager"
+        },
+        {
+            "team": "phonemoji",
+            "p1": "W1ll|pos1=dps",
+            "p2": "Zydra|p2flag=at|pos2=dps",
+            "p3": "xzodyal|pos3=dps",
+            "p4": "Chroo|pos4=tank",
+            "p5": "fn|p5flag=fi|pos5=sup",
+            "p6": "Katekomi|pos6=sup",
+            "p7": "Gilix|pos7=sup",
+            "t2title": "Staff",
+            "t2p1": "Cointree|t2pos1=manager",
+            "t2p2": "Pathfinder|t2pos2=manager"
+        },
+        {
+            "team": "Sheer Hot",
+            "p1": "M3WS|pos1=dps",
+            "p2": "Punk|pos2=dps|p2link=Punk (Spanish Player)",
+            "p3": "ADE|p3flag=es|pos3=tank|p3link=ADE (Spanish player)",
+            "p4": "Aleexia|p4flag=es|pos4=sup",
+            "p5": "Wreckhim|p5flag=es|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "M3WS|t2pos1=manager",
+            "t2p2": "Aleexia|t2p2flag=es|t2pos2=coach"
+        },
+        {
+            "team": "Bonk",
+            "p1": "Another1|p1flag=fi|pos1=dps",
+            "p2": "Trippi|p2flag=be|pos2=dps",
+            "p3": "K3V1N|p3flag=no|pos3=tank",
+            "p4": "Paran1d|p4flag=fr|pos4=sup",
+            "p5": "sleepy|p5flag=se|pos5=sup|p5link=sleepy (Swedish Player)",
+            "t2title": "Staff",
+            "t2p1": "Pasta|t2p1flag=hr|t2pos1=manager",
+            "t2p2": "ThePocketKitten|t2p2flag=uk|t2pos2=Head coach",
+            "t2p3": "Fudgey|t2p3flag=se|t2pos3=Assistant coach"
+        },
+        {
+            "team": "Proxima Centauri",
+            "p1": "ggolden|p1flag=il|pos1=dps",
+            "p2": "Quadrix|p2flag=de|pos2=dps",
+            "p3": "Crabby|p3flag=es|pos3=tank",
+            "p4": "Medak|p4flag=cz|pos4=sup",
+            "p5": "Pepis|p5flag=es|pos5=sup",
+            "p6": "Khrolar|p6flag=ch|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "Crabby|t2p1flag=es|t2pos1=manager"
+        },
+        {
+            "team": "The Winton Collective",
+            "p1": "MightyWoofer|p1flag=uk|pos1=dps",
+            "p2": "SSimon|p2flag=no|pos2=dps",
+            "p3": "Magick|p3flag=uk|pos3=tank",
+            "p4": "Faab|p4flag=fr|pos4=sup",
+            "p5": "FusionFinn|p5flag=de|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "Magick|t2p1flag=uk|t2pos1=manager"
+        },
+        {
+            "team": "Liman Leans",
+            "p1": "Zorrow|pos1=dps",
+            "p2": "leewhy|p2flag=fi|pos2=dps",
+            "p3": "yyph|p3flag=de|pos3=tank",
+            "p4": "noshame5|p4flag=bv|pos4=tank",
+            "p5": "Dragonbreath|p5flag=de|pos5=sup",
+            "p6": "N33llio|p6flag=uk|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "N33llio|t2p1flag=uk|t2pos1=manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "May 13, 2023 - 14:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Team AI|score=0}}",
+            "opponent2": "{{TeamOpponent|Shanghai Wagons|score=2}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "May 13, 2023 - 14:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Chidori falco|score=1}}",
+            "opponent2": "{{TeamOpponent|Hedwiiiig|score=2}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "May 13, 2023 - 14:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Giga Chads|score=0}}",
+            "opponent2": "{{TeamOpponent|phonemoji|score=2}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "May 13, 2023 - 14:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|36atorium|score=1}}",
+            "opponent2": "{{TeamOpponent|EF Flexodiax|score=2}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "May 13, 2023 - 14:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Chicken Army|score=0}}",
+            "opponent2": "{{TeamOpponent|Proxima Centauri|score=2}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "May 13, 2023 - 14:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|The Winton Collective|score=0}}",
+            "opponent2": "{{TeamOpponent|Liman Leans|score=2}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "May 13, 2023 - 14:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Pixies|score=0}}",
+            "opponent2": "{{TeamOpponent|Bonk|score=2}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "May 13, 2023 - 14:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Lekkamraterna|score=0}}",
+            "opponent2": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "May 13, 2023 - 15:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Shanghai Wagons|score=0}}",
+            "opponent2": "{{TeamOpponent|Hedwiiiig|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "May 13, 2023 - 15:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|phonemoji|score=2}}",
+            "opponent2": "{{TeamOpponent|EF Flexodiax|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "May 13, 2023 - 15:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Proxima Centauri|score=0}}",
+            "opponent2": "{{TeamOpponent|Liman Leans|score=2}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "May 13, 2023 - 15:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bonk|score=2}}",
+            "opponent2": "{{TeamOpponent|Sheer Hot|score=0}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "May 13, 2023 - 16:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Hedwiiiig|score=0}}",
+            "opponent2": "{{TeamOpponent|phonemoji|score=2}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "May 13, 2023 - 16:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Liman Leans|score=1}}",
+            "opponent2": "{{TeamOpponent|Bonk|score=2}}",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "May 14, 2023 - 14:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|phonemoji|score=3}}",
+            "opponent2": "{{TeamOpponent|Bonk|score=0}}",
+            "optional": "R6M1="
+        },
+        {
+            "date": "May 13, 2023 - 15:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Team AI|score=1}}",
+            "opponent2": "{{TeamOpponent|Chidori Falco|score=2}}",
+            "optional": "R1M9="
+        },
+        {
+            "date": "May 13, 2023 - 15:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Giga Chads|score=0}}",
+            "opponent2": "{{TeamOpponent|36atorium|score=2}}",
+            "optional": "R1M10="
+        },
+        {
+            "date": "May 13, 2023 - 15:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Chicken Army|score=0}}",
+            "opponent2": "{{TeamOpponent|The Winton Collective|score=2}}",
+            "optional": "R1M11="
+        },
+        {
+            "date": "May 13, 2023 - 15:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Pixies|score=0}}",
+            "opponent2": "{{TeamOpponent|Lekkamraterna|score=2}}",
+            "optional": "R1M12="
+        },
+        {
+            "date": "May 13, 2023 - 16:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "opponent2": "{{TeamOpponent|Chidori Falco|score=1}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "May 13, 2023 - 16:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Proxima Centauri|score=0}}",
+            "opponent2": "{{TeamOpponent|36atorium|score=2}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "May 13, 2023 - 16:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|EF Flexodiax|score=2}}",
+            "opponent2": "{{TeamOpponent|The Winton Collective|score=0}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "May 13, 2023 - 16:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Shanghai Wagons|score=0}}",
+            "opponent2": "{{TeamOpponent|Lekkamraterna|score=2}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "May 13, 2023 - 17:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "opponent2": "{{TeamOpponent|36atorium|score=1}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "May 13, 2023 - 17:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|EF Flexodiax|score=2}}",
+            "opponent2": "{{TeamOpponent|Lekkamraterna|score=0}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "May 14, 2023 - 14:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Hedwiiiig|score=1}}",
+            "opponent2": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "May 14, 2023 - 14:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Liman Leans|score=0}}",
+            "opponent2": "{{TeamOpponent|EF Flexodiax|score=2}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "May 14, 2023 - 15:25 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "opponent2": "{{TeamOpponent|EF Flexodiax|score=1}}",
+            "optional": "R5M1="
+        },
+        {
+            "bestof": "5",
+            "date": "May 14, 2023 - 16:35 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bonk|score=3}}",
+            "opponent2": "{{TeamOpponent|Sheer Hot|score=0}}",
+            "optional": "R6M2="
+        },
+        {
+            "bestof": "5",
+            "date": "May 14, 2023 - 18:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Phonemoji|score=1}}",
+            "opponent2": "{{TeamOpponent|Bonk|score=3}}",
+            "optional": "R7M1="
+        }
+    ]
+}

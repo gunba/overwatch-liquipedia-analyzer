@@ -1,0 +1,197 @@
+{{Want_to_Help
+|issue=Missing teams participating, bracket, prize pool slots
+|fix=add teamcards, add the bracket and fill bracket with teams and add more prize pool cells
+|date=20191201190759
+}}
+{{DISPLAYTITLE:Overwatch Dreamcasters Championship Season 2}}
+{{Dreamcasters Tabs}}
+{{Infobox league
+|liquipediatier={{TierText/4}}
+|series=owdch
+|abbreviation=ODC
+|shortname=ODC S2
+|name=Overwatch Dreamcasters Championship Season 2
+|tickername=ODC S2
+|image=OWDreamcasterslogo.png
+|organizer=The Dreamcasters
+|organizer-link=https://thedreamcasters.com/
+|sponsor=
+|type=Online
+|country=Thailand
+|format=Single Elimination Bracket
+|prizepool=31,500
+|localcurrency=thb
+|prizepoolusd=928
+|sdate=2017-06-11
+|edate=2017-06-24
+|web=
+|bracket=
+|youtube=playlist?list=PL8nXFVSco3OFddFc4jPI3NUdnz7qq_BWJ
+|twitch=thedreamcasters
+|team_number=8
+}}
+
+==About==
+===Format===
+*'''General Rules''': Competitive Mode
+*'''Playoffs''': Single Elimination
+**Round of 128, round of 64, round 32, round of 16, quaterfinals and semifinals are {{Abbr/Bo3}}.
+**Grand finals are {{Abbr/Bo5}}.
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=Thai
+|position=Commentator
+|b1=SunWaltz|b1flag=th | b1name=Dolpraphob Teindam
+|b2=Aomdi|b2flag=th | b2name=Yongyuth Toukum
+}}
+
+==Prize Pool==
+฿31,500 {{Abbr/THB}} (~$928{{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=thb|cutafter=4}}
+{{prize pool slot |place=1 |usdprize=442|localprize=15,000|1st-esports|lastvs1=neolution e-sport|lastscore1=3 |lastvsscore1=1 }}
+{{prize pool slot |place=2 |usdprize=250|localprize=8,500|neolution e-sport|lastvs1=1st-esports|lastscore1=1 |lastvsscore1=3 }}
+{{prize pool slot|place=3-4|usdprize=118|localprize=4,000
+|bazaar |lastvs1=1st-esports |lastscore1=0 |lastvsscore1=2
+|suan lung barn |lastvs2=neolution e-sport |lastscore2=0 |lastvsscore2=2
+}}
+{{prize pool slot|place=5-8|usdprize=0|localprize=0
+|xenomorph |lastvs1=1st-esports |lastscore1= |lastvsscore1=
+|chaostheory.orion |lastvs2=bazaar |lastscore2= |lastvsscore2=
+|tbd |lastvs3=1st-esports |lastscore3= |lastvsscore3=
+|tbd |lastvs4=neolution e-sport |lastscore4= |lastvsscore4=
+}}
+{{Prize pool end}}
+''Conversion values taken from [https://www.poundsterlinglive.com/best-exchange-rates/us-dollar-to-thai-baht-exchange-rate-on-2017-06-26 poundsterlinglive.com] at 2017-06-26. 1 {{Abbr/USD}} ≈ 33.9643 {{Abbr/THB}}''
+
+==Top 8==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=1st-eSports
+|image=1st-esports logo.png
+|p1=ZEUS |p1flag=th |pos1=dps|p1link=ZEUS (Thai player)
+|p2=mush2oom |p2flag=th |pos2=dps
+|p3=b4byvinz |p3flag=th |pos3=tank
+|p4=pichu |p4flag=th |pos4=tank
+|p5=Cokee |p5flag=th |pos5=sup
+|p6=Producerboom |p6flag=th |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Neolution E-Sport
+|image=Neolution logo.png
+|p1=THITIKORN |p1flag=th |pos1=dps
+|p2=Forest |p2flag=th |pos2=dps
+|p3=RaCha |p3flag=th |pos3=dps
+|p4=Rodtunglnw |p4flag=th |pos4=tank
+|p5=BOOMBURAPA |p5flag=th |pos5=tank
+|p6=zobi |p6flag=th |pos6=sup
+|p7=YUT |p7flag=th |pos7=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Bazaar
+|p1=SADISTIC |p1flag=th |pos1=dps
+|p2=NutsuruSama |p2flag=th |pos2=dps
+|p3=HeadHawk |p3flag=th |pos3=tank
+|p4=Bozz |p4flag=th |pos4=tank
+|p5=Pannys |p5flag=th |pos5=sup
+|p6=pAnDeV |p6flag=th |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Suan Lung Barn
+|image=Suan_lung_barn_logo.png
+|p1=f74 |p1flag=th |pos1=dps
+|p2=Sunty |p2flag=th |pos2=dps
+|p3=rsN |p3flag=th |pos3=tank
+|p4=Squeezy |p4flag=th |pos4=tank
+|p5=EiEi |p5flag=th |pos5=sup
+|p6=ExJackie |p6flag=th |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Xenomorph
+|image=
+|p1=Yuu |p1flag= |pos1=dps
+|p2=GiveMePharah |p2flag= |pos2=dps
+|p3=Rock |p3flag= |pos3=tank |p3link=Rock (Another player)
+|p4=Lengkeng |p4flag= |pos4=tank
+|p5=Goldenboy |p5flag= |pos5=sup |p5link=Goldenboy (Asian player)
+|p6=Giao |p6flag= |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ChaosTheory.Orion
+|image=Chaos_Theory_logo.png
+|p1=Sindrax |p1flag=sg |pos1=dps
+|p2=Owl |p2flag=sg |p2link=Owl (Singaporean player) |pos2=dps
+|p3=Rageoftofu |p3flag=sg |pos3=tank
+|p4=AJEN |p4flag=sg |pos4=tank
+|p5=Jervissss |p5flag=sg |pos5=sup
+|p6=AviK |p6flag=sg |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|image=
+|p1= |p1flag= |pos1=
+|p2= |p2flag= |pos2=
+|p3= |p3flag= |pos3=
+|p4= |p4flag= |pos4=
+|p5= |p5flag= |pos5=
+|p6= |p6flag= |pos6=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|image=
+|p1= |p1flag= |pos1=
+|p2= |p2flag= |pos2=
+|p3= |p3flag= |pos3=
+|p4= |p4flag= |pos4=
+|p5= |p5flag= |pos5=
+|p6= |p6flag= |pos6=
+}}
+{{box|end}}
+
+==Results (Top 4)==
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=XXG5o3HJHo
+|column-width=200
+<!-- SEMIFINALS -->
+|R1D1team=neolution e-sport |R1D1score=2 |R1D1win=1
+|R1D2team=suan lung barn |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=June 23, 2017
+|finished=true
+|map1=Volskaya Industries|map1score=2-1|map1win=1
+|map2=Dorado|map2score=3-2|map2win=1
+|pf=
+|vod=https://youtu.be/TYg5vczAV-A
+}}
+|R1D3team=1st-esports |R1D3score=2 |R1D3win=1
+|R1D4team=bazaar |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=June 23, 2017
+|finished=true
+|map1=Volskaya Industries|map1score=3-2|map1win=1
+|map2=Dorado|map2score=2-1|map2win=1
+|pf=
+|vod=https://youtu.be/Nn7a9zqiuDM
+}}
+<!-- FINALS -->
+|R2W1team=neolution e-sport |R2W1score=1 |R2W1win=
+|R2W2team=1st-esports |R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=June 24, 2017
+|finished=true
+|map1=King's Row|map1score=2-3|map1win=2
+|map2=Route 66|map2score=3-2|map2win=1
+|map3=Temple of Anubis|map3score=3-3|map3win=draw
+|map4=Ilios|map4score=0-1|map4win=2
+|map5=Lijiang Tower|map5score=2-3|map5win=2
+|pf=
+|vod=https://youtu.be/fBnse3FyIZM
+}}
+}}

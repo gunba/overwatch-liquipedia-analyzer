@@ -1,0 +1,386 @@
+{{Liquipedia links|heroes=Tespa_Collegiate_Series/2019/Spring}}
+{{TCS Navbox}}
+{{DISPLAYTITLE:Overwatch Collegiate Championship 2019}}
+{{tabs static
+|name1=Overview|link1=Overwatch Collegiate Championship/2019
+|name2=Preseason|link2=Overwatch Collegiate Championship/2019/Preseason
+|name3=Regional League|link3=Overwatch Collegiate Championship/2019/Regional League
+|name4=National League|link4=Overwatch Collegiate Championship/2019/National League
+|name5=Varsity League|link5=Overwatch Collegiate Championship/2019/Varsity League
+|name6=National Championship|link6=Overwatch Collegiate Championship/2019/National Championship
+|This=1
+}}
+{{Infobox league
+|name=Overwatch Collegiate Championship 2019
+|shortname=OWCC 2019
+|image=Collegiate Championship 2019.png
+|series=Overwatch Collegiate Championship
+|abbreviation=OWCC
+|icon=
+|tickername=Overwatch Collegiate Championship 2019
+|organizer=Tespa
+|organizer-link=https://tespa.org/
+|sponsor=
+|patch=1.33
+|epatch=1.34
+|type=Online/Offline
+|country=United States
+|city=Houston
+|venue=[https://www.grbhouston.com/ George R. Brown Convention Center]
+|format=
+|prizepool=
+|localcurrency=
+|prizepoolusd=25200
+|sdate=2019-03-17
+|edate=2019-05-11
+|liquipediatier=2
+|web=https://compete.tespa.org/
+|twitch=teamtespa
+|twitter=TeamTespa
+|facebook=TeamTespa
+|youtube=TeamTespa
+|bracket=https://compete.tespa.org/tournament/124/phase/2
+|rulebook=https://bnetcmsus-a.akamaihd.net/cms/page_media/4y/4YYL48MJ23NI1545344302269.pdf
+|team_number=64
+|previous=Tespa Collegiate Series/2017 {{!}} 2017
+|next=Overwatch Collegiate Championship/2020 {{!}} 2020
+}}
+
+
+==Format==
+*'''Preseason''' - ''September 23rd 2018 - December 9th 2018'' :
+**Teams will play 12 weeks of matches, 2x a week to grant additional seeding toward the National Championship
+<br>
+*'''Group stage'''
+**'''National League''' :
+***Teams will compete at the national level in 7 rounds of swiss to determine their national placement.
+**'''Regional League''' :
+***Teams will be split into 16 different regions across North America, where after 5 weeks of Swiss and a single elimination bracket, the top 2 teams from each region will qualify for the National Championship.
+**'''Varsity League''' :
+***Recognized varsity schools from across North America will play regional sub-division matches to determine who qualifies for the National Championship. Each victor from all 4 regions qualifies.
+<br>
+*'''Playoffs'''
+**'''National Championship''' :
+***The top 64 teams battle it out in an epic single elimination bracket, seeding based on their performance from the preseason up until this point.
+***The top eight teams travel to Houston, Texas, where the finals rounds are broadcast on [[wikipedia:ESPN|ESPN]] as part of the [https://twitter.com/CECESPN ESPN Collegiate Esports Championship].
+
+==Prize Pool==
+$25,200 ({{Abbr/USD}}) in scholarships are spread among the teams as seen below:
+{{box|start|padding=2em}}
+{{prize pool start|cutafter=4}}
+{{prize pool slot|place=1 |usdprize=10200|hu storm|lastvs1=utah utes|lastscore1=3 |lastvsscore1=1}}
+{{prize pool slot|place=2 |usdprize=7200|utah utes|lastvs1=hu storm|lastscore1=1 |lastvsscore1=3}}
+{{prize pool slot |place=3-4 |usdprize=3900
+|maryville university|lastvs1=hu storm|lastscore1=2 |lastvsscore1=3
+|orange coast college|lastvs2=utah utes|lastscore2=0 |lastvsscore2=3
+}}
+{{prize pool slot|place=5-8|date=2019-05-10|usdprize=0
+|carleton ravens|lastvs1=maryville university|lastscore1=0 |lastvsscore1=3
+|njit highlanders|lastvs2=hu storm|lastscore2=0 |lastvsscore2=3
+|gcu esports|lastvs3=orange coast college|lastscore3=2 |lastvsscore3=3
+|scarlet knights|lastvs4=utah utes|lastscore4=0 |lastvsscore4=3
+}}
+{{Prize pool end}}
+{{box|end|padding=2em}}
+
+==Top 8 Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Maryville University
+|image=
+|p1=Rat|p1flag=se|pos1=dps
+|p2=Aether|p2flag=us|pos2=dps
+|p3=Guru|p3flag=us|pos3=flex
+|p4=Hypnott|p4flag=us|pos4=tank
+|p5=TonyB|p5flag=us|pos5=sup
+|p6=Mac|p6flag=us|pos6=sup
+|p7=Axel|p7link=Axel (Swedish player)|p7flag=se|pos7=sub
+|c=TWISTan|cflag=ca
+|qualifier=Maryville University of St. Louis
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Carleton Ravens
+|image=
+|p1=Diloxrocks|p1flag=ng|pos1=dps
+|p2=Twitchy|p2flag=bd|pos2=dps
+|p3=Jacklorf|p3flag=ca|pos3=flex
+|p4=Kachow|p4flag=ca|pos4=tank
+|p5=KIIP|p5flag=cn|pos5=sup
+|p6=Tyroan|p6flag=ca|pos6=sup
+|p7=Sisuth|p7flag=ca|pos7=sub
+|c=lafon|cflag=ca
+|qualifier=Carleton University
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NJIT Highlanders
+|image=
+|p1=Abadio|p1flag=|pos1=
+|p2=Kake|p2flag=|pos2=
+|p3=Sickist|p3flag=|pos3=
+|p4=EighteeN|p4flag=|pos4=
+|p5=Konrad|p5flag=|pos5=Support
+|p6=Quadcore|p6flag=|pos6=Support
+|c=Peter Mullen|cflag=
+|qualifier=New Jersey Institute of Technology
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=HU Storm
+|image=
+|p1=Hobbs|p1flag=us|pos1=dps
+|p2=Swish|p2flag=us|pos2=dps
+|p3=Smooty|p3flag=us|pos3=flex
+|p4=Retnuh|p4flag=us|pos4=tank
+|p5=Soames|p5flag=ca|pos5=sup
+|p6=AutumnSouls|p6flag=ca|pos6=sup
+|p7=Insomniaq|p7flag=us|pos7=sup
+|p8=Vinpin|p8flag=us|pos8=sup
+|c=Joemeister|cflag=ca
+|qualifier=Harrisburg University of Science and Technology
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=GCU eSports
+|image=
+|p1=TheLegend27|p1flag=us|pos1=dps
+|p2=Sody|p2flag=us|pos2=dps
+|p3=Whiskers|p3flag=mx|pos3=flex
+|p4=Pawp|p4flag=us|pos4=tank
+|p5=Cuddlemaster|p5flag=kr|pos5=sup
+|p6=Ninjacat|p6flag=us|pos6=sup
+|c=|cflag=
+|qualifier=Grand Canyon University
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Orange Coast College
+|image=
+|p1=Slayergramps|p1flag=us|pos1=dps
+|p2=EuphoRia|p2flag=us|pos2=flex
+|p3=JETJEL|p3flag=us|pos3=tank
+|p4=Chicken|p4flag=us|pos4=dps
+|p5=Galaxy|p5flag=us|pos5=sup
+|p6=Parjüny|p6flag=fr|pos6=sup
+|c=Icyyy|cflag=us
+|c2=SpeakEasy|c2flag=us
+|qualifier=Orange Coast College
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Scarlet Knights
+|image=
+|p1=chknNwaffles|p1flag=|pos1=dps
+|p2=stevebobsam|p2flag=|pos2=dps
+|p3=Kyrie|p3flag=|pos3=flex
+|p4=Vak|p4flag=|pos4=tank
+|p5=Insane|p5flag=|pos5=sup
+|p6=FistofYang|p6flag=|pos6=sup
+|c=|cflag=
+|qualifier=Rutgers University
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Utah Utes
+|image=
+|p1=Coolabc|p1flag=us|pos1=dps
+|p2=Dog21|p2flag=us|pos2=flex
+|p3=Enspyr|p3flag=us|pos3=flex
+|p4=Nightmare|p4flag=mx|pos4=tank|p4link=Nightmare (mx player)
+|p5=Hollow|p5flag=us|pos5=sup
+|p6=CaptainBabe|p6flag=pl|pos6=sup
+|p7=Andy|p7flag=us|pos7=sub
+|p8=Greenee|p8flag=us|pos8=sub
+|p9=FlameTurtle|p9flag=us|pos9=sub
+|c=Evee|cflag=us
+|c2=Snap|c2flag=us
+|c3=cxdave|c3flag=us
+|qualifier=University of Utah
+}}
+{{box|end|padding=2em}}
+
+==Results==
+
+===National Championship Top 8===
+
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=rEuD42CyFD
+<!-- QUARTERFINALS -->
+|R1D1team=maryville university  |R1D1score=3 |R1D1win=1
+|R1D2team=carleton ravens |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=May 10, 2019 - 13:48{{Abbr/PDT}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=Ilios|map1score=|map1win=1
+|map2=King's Row|map2score=|map2win=1
+|map3=Hanamura|map3score=|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=njit highlanders |R1D3score=0 |R1D3win=
+|R1D4team=hu storm |R1D4score=3 |R1D4win=1
+|R1G2details={{BracketMatchSummary 
+|date=May 10, 2019 - 13:48{{Abbr/PDT}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=Ilios|map1score=|map1win=2
+|map2=King's Row|map2score=|map2win=2
+|map3=Hanamura|map3score=|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=gcu esports |R1D5score=2 |R1D5win=
+|R1D6team=orange coast college |R1D6score=3 |R1D6win=1
+|R1G3details={{BracketMatchSummary 
+|date=May 10, 2019 - 13:48{{Abbr/PDT}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=Ilios|map1score=|map1win=2
+|map2=King's Row|map2score=|map2win=1
+|map3=Horizon Lunar Colony|map3score=|map3win=1
+|map4=Dorado|map4score=|map4win=2
+|map5=Nepal|map5score=|map5win=2
+|overgg=
+|pf=
+|wl=
+}}
+|R1D7team=scarlet knights |R1D7score=0 |R1D7win=
+|R1D8team=utah utes |R1D8score=3 |R1D8win=1
+|R1G4details={{BracketMatchSummary 
+|date=May 10, 2019 - 13:48{{Abbr/PDT}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=Ilios|map1score=|map1win=2
+|map2=King's Row|map2score=|map2win=2
+|map3=Volskaya Industries|map3score=|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R2W1team=maryville university |R2W1score=2 |R2W1win=
+|R2W2team=hu storm |R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=May 11, 2019 - 13:48{{Abbr/PDT}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=Nepal|map1score=|map1win=1
+|map2=King's Row|map2score=|map2win=2
+|map3=Volskaya Industries|map3score=|map3win=2
+|map4=Route 66|map4score=|map4win=1
+|map5=Lijiang Tower|map5score=|map5win=2
+|overgg=
+|pf=
+|wl=
+}}
+|R2W3team=orange coast college |R2W3score=0 |R2W3win=
+|R2W4team=utah utes |R2W4score=3 |R2W4win=1
+|R2G2details={{BracketMatchSummary 
+|date=May 11, 2019 - 13:48{{Abbr/PDT}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=Nepal|map1score=|map1win=2
+|map2=Hollywood|map2score=|map2win=2
+|map3=Hanamura|map3score=|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R3W1team=hu storm |R3W1score=3 |R3W1win=1
+|R3W2team=utah utes |R3W2score=1|R3W2win=
+|R3G1details={{BracketMatchSummary 
+|date=May 11, 2019 - 13:48{{Abbr/PDT}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=Lijiang Tower|map1score=|map1win=2
+|map2=King's Row|map2score=|map2win=1
+|map3=Hanamura|map3score=|map3win=1
+|map4=Watchpoint: Gibraltar|map4score=|map4win=1
+|overgg=
+|pf=
+|wl=
+}}
+<!-- 3RD PLACE (optional) -->
+|R3D1team= |R3D1score= |R3D1win=
+|R3D2team= |R3D2score= |R3D2win=
+|R3G2details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+
+''For detailed results click [[Overwatch Collegiate Championship/2019/National_Championship#Detailed_Results|here]].''
+
+==Additional Content==
+<!--===Streams===
+{| class="sortable wikitable" style="text-align:center;"
+|-style="background-color:#f3f3f3;"
+|-
+!width="60"|Language
+|width="40"|{{flag/usuk}}
+|width="40"|{{flag/usuk}}
+
+|-
+!rowspan=1|Stream
+|{{TwitchIcon|link=playoverwatch}}
+|{{TwitchIcon|link=blizzard}}
+
+|-
+|}-->
+
+==References==
+{{Reflist}}

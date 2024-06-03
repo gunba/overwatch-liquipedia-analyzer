@@ -1,0 +1,322 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Monthly Final - August 2017",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "August",
+            "organizer": "ESL",
+            "format": "Single Elimination",
+            "type": "Online",
+            "country": "Europe",
+            "date": "2017-09-11",
+            "prizepoolusd": "993",
+            "localcurrency": "eur",
+            "prizepool": "900",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch_fr",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/august-2017-finals/",
+            "liquipediatier": "4|liquipediatiertype=Monthly",
+            "team_number": "12",
+            "map1": "King's Row",
+            "map2": "Numbani",
+            "map3": "Watchpoint: Gibraltar",
+            "map4": "Dorado",
+            "map5": "Hanamura",
+            "map6": "Temple of Anubis",
+            "map7": "Volskaya Industries",
+            "map8": "Nepal",
+            "map9": "Lijiang Tower",
+            "map10": "Hollywood",
+            "map11": "Ilios",
+            "map12": "Route 66",
+            "map13": "Eichenwalde",
+            "map14": "Oasis"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Copenhagen Flames",
+            "image": "",
+            "p1": "Zaprey|p1flag=dk|pos1=dps",
+            "p2": "SpoXeZ|p2flag=dk|pos2=flex",
+            "p3": "Shax|p3flag=dk|pos3=flex",
+            "p4": "PaghMinister|p4flag=dk|pos4=tank",
+            "p5": "Mono|p5flag=dk|pos5=sup",
+            "p6": "Watio|p6flag=dk|pos6=sup",
+            "c": "|cflag=",
+            "qualifier": "Go4Overwatch Points"
+        },
+        {
+            "team": "ENCE eSports",
+            "image": "",
+            "p1": "BAITO|p1flag=fi|pos1=dps",
+            "p2": "rCk|p2flag=fi|pos2=dps",
+            "p3": "Cali|p3flag=fi|pos3=flex",
+            "p4": "lhcloudy|p4flag=fi |pos4=tank",
+            "p5": "nNeco|p5flag=fi|pos5=sup",
+            "p6": "Ripa|p6flag=fi|pos6=sup",
+            "c": "elfi|cflag=fi",
+            "qualifier": "Go4Overwatch Points"
+        },
+        {
+            "team": "eSuba",
+            "image": "Esuba logo.png",
+            "p1": "Ky\u016b\u016bbi|p1flag=Greece |pos1=dps",
+            "p2": "Ascoft|p2flag=fr |pos2=flex",
+            "p3": "Sardis|p3flag=cz |pos3=flex",
+            "p4": "Tomkas|p4flag=cz |pos4=tank",
+            "p5": "Derenecko|p5flag=cz |pos5=sup",
+            "p6": "Ex0rath|p6flag=cz |pos6=sup",
+            "c": "|cflag=",
+            "qualifier": "Go4Overwatch Points"
+        },
+        {
+            "team": "Golden Sausage",
+            "image": "Gsausagelogo.jpg",
+            "p1": "NLaaeR|p1flag=ru|pos1=dps",
+            "p2": "Polly|p2flag=se|pos2=dps",
+            "p3": "Nuja|p3flag=fr|pos3=flex",
+            "p4": "wat7|p4flag=at|pos4=tank",
+            "p5": "Scaler|p5flag=dk|pos5=sup",
+            "p6": "Izzy|p6flag=fr|pos6=sup",
+            "c": "Xeon|cflag=de",
+            "qualifier": "Go4Overwatch Points"
+        },
+        {
+            "team": "Myth Legion",
+            "image": "Myths Legionlogo.png",
+            "p1": "Astikko|p1flag=fr",
+            "p2": "EaglesV1|p2flag=fr",
+            "p3": "SLK|p3flag=fr",
+            "p4": "Nezer|p4flag=fr",
+            "p5": "Pixy|p5flag=fr",
+            "p6": "Veleef|p6flag=be",
+            "c": "|cflag=",
+            "qualifier": "Go4Overwatch Points"
+        },
+        {
+            "team": "NoWaifuNoLaifu",
+            "image": "",
+            "p1": "Dids|p1flag=uk",
+            "p2": "Henzu|p2flag=se",
+            "p3": "Hunni|p3flag=dk",
+            "p4": "KAFEEEEEE|p4flag=il",
+            "p5": "Luddee|p5flag=se",
+            "p6": "LullSiSH|p6flag=se",
+            "c": "|cflag=",
+            "qualifier": "Go4Overwatch Points"
+        },
+        {
+            "team": "TAKYON",
+            "image": "",
+            "p1": "srauon|p1flag=dk|pos1=dps",
+            "p2": "Lafayette|p2flag=se|pos2=dps",
+            "p3": "T3kk3n|p3flag=dk|pos3=flex",
+            "p4": "Swalees|p4flag=de|pos4=tank",
+            "p5": "Corestar|p5flag=es|pos5=sup",
+            "p6": "TheWrongName|p6flag=nl|pos6=sup",
+            "c": "|cflag=",
+            "qualifier": "Go4Overwatch Points"
+        },
+        {
+            "team": "Team YP",
+            "image": "YummyPepperoni.png",
+            "p1": "XEWER|p1flag=fr|pos1=dps",
+            "p2": "Osnazeni|p2flag=fr|pos2=dps",
+            "p3": "Zenko|p3flag=fr|pos3=flex",
+            "p4": "Valmaster|p4flag=fr|pos4=tank",
+            "p5": "Quoizamama|p5flag=fr|pos5=sup",
+            "p6": "Jio|p6flag=fr|pos6=sup",
+            "c": "|cflag=",
+            "qualifier": "Go4Overwatch Points"
+        },
+        {
+            "team": "Terno Narwhals Blue",
+            "image": "Terno_Narwhals_logo.png",
+            "p1": "bendo|p1flag=fi",
+            "p2": "Flawsom|p2flag=no",
+            "p3": "Haken|p3flag=no",
+            "p4": "Rigs|p4flag=il",
+            "p5": "Sundays|p5flag=nl",
+            "p6": "datirnoy|p6flag=se",
+            "c": "|cflag=",
+            "qualifier": "Go4Overwatch Points"
+        },
+        {
+            "team": "The Gatekeepers",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag=",
+            "qualifier": "Go4Overwatch Points"
+        },
+        {
+            "team": "Tier 3",
+            "image": "Tier 3logo.png",
+            "p1": "Noomi|p1flag=fr|pos1=dps",
+            "p2": "kevster|p2flag=se|pos2=dps",
+            "p3": "Nych|p3flag=dk|pos3=flex",
+            "p4": "Badger|p4flag=no|pos4=tank",
+            "p5": "Teux|p5flag=dk|pos5=sup",
+            "p6": "Clown|p6flag=|pos6=sup",
+            "c": "|cflag=",
+            "qualifier": "Go4Overwatch Points"
+        },
+        {
+            "team": "Wizards e-Sports Club",
+            "image": "",
+            "p1": "veteranjr|p1flag=fr|pos1=dps",
+            "p2": "Saura|p2flag=sp|pos2=dps",
+            "p3": "vinanrra|p3flag=sp|pos3=flex",
+            "p4": "Woolridge|p4flag=sp|pos4=tank",
+            "p5": "minicunga|p5flag=es|pos5=sup",
+            "p6": "Shevatas|p6flag=sp|pos6=sup",
+            "qualifier": "Go4Overwatch Points"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "wizards e-sports club",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "ence esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "esuba",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "takyon",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "golden sausage",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team yp",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "bye",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "copenhagen flames",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "the gatekeepers",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "terno narwhals blue",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "nowaifunolaifu",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D13",
+            "team1": "myth legion",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "tier 3",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "bye",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "ence esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "wizards e-sports club",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "team yp",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "golden sausage",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "terno narwhals blue",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "copenhagen flames",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "tier 3",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "nowaifunolaifu",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "golden sausage",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "ence esports",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "nowaifunolaifu",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W3",
+            "team1": "copenhagen flames",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "copenhagen flames",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "golden sausage",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

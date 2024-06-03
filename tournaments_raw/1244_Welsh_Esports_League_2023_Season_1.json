@@ -1,0 +1,122 @@
+{
+    "tournament_info": [
+        {
+            "name": "Welsh Esports League: Season 1",
+            "tickername": "WEL Season 1",
+            "image": "Welsh Esports League lightmode.png",
+            "imagedark": "Welsh Esports League darkmode.png",
+            "icon": "Welsh Esports League icon allmode.png",
+            "series": "Welsh Esports League",
+            "organizer": "Esports Wales",
+            "organizer-link": "https://esportswales.org",
+            "organizer2": "Esports Wales Hub",
+            "organizer2-link": "https://hub.esportswales.org",
+            "sponsor": "",
+            "localcurrency": "gbp",
+            "prizepool": "600",
+            "type": "Online",
+            "country": "Wales",
+            "liquipediatier": "4",
+            "format": "Round Robin",
+            "spatch": "",
+            "epatch": "",
+            "sdate": "2023-01-23",
+            "edate": "2023-02-23",
+            "web": "https://hub.esportswales.org/tournaments/welsh-esports-league1---overwatch",
+            "bracket": "https://hub.esportswales.org/tournaments/welsh-esports-league1---overwatch/matches",
+            "rulebook": "https://hub.esportswales.org/tournaments/welsh-esports-league1---overwatch/rules",
+            "twitter": "EsportsWales",
+            "twitch": "esportswales",
+            "youtube": "@EsportsWales",
+            "discord": "fES5NMaKMC",
+            "instagram": "esportswales",
+            "facebook": "EsportWales",
+            "team_number": "8",
+            "previous": "",
+            "next": "Welsh Esports League/2023/Season 2{{!}}Season 2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Artists",
+            "p1": "Sonder|p1flag=uk|pos1=",
+            "p2": "swooshbot|p2flag=wales|pos2=",
+            "p3": "lynrax|p3flag=se|pos3=",
+            "p4": "sivaartt|p4flag=uk|pos4=",
+            "p5": "NeoKuro|p5flag=wales|pos5=",
+            "p6": "Aisaka|pos6=|p6link=Aisaka",
+            "p7": "Av3ry|p7flag=wales|pos7=",
+            "p8": "gass|p8flag=finland|pos8=",
+            "t2title": "Staff",
+            "t2c1": "Aisaka|t2c1flag=wales|t2c1pos=manager|t2c1link=Aisaka"
+        },
+        {
+            "team": "Dragons",
+            "p1": "RubberDucky152|p1flag=uk|pos1=",
+            "p2": "rhysrichardson|p2flag=wales|pos2=",
+            "p3": "ClebKiller15|p3flag=wales|pos3=",
+            "p4": "FOMOedTheUniverse|p4flag=wales|pos4=",
+            "p5": "y4yvia|p5flag=wales|pos5="
+        },
+        {
+            "team": "Goats",
+            "link": "Goats (British team)",
+            "p1": "Nath|p1flag=wales|pos1=",
+            "p2": "Tungsten|p2flag=wales|pos2=",
+            "p3": "SuperJc|p3flag=wales|pos3=",
+            "p4": "ap402|p4flag=wales|pos4=",
+            "p5": "Motor|p5flag=wales|pos5=",
+            "p6": "Batlat|p6flag=wales|pos6=",
+            "p7": "XxFfXx|p7flag=philippines|pos7="
+        },
+        {
+            "team": "Pirates |link=Pirates (British team)",
+            "p1": "Anders|p1flag=wales|pos1=",
+            "p2": "Lagoleth|p2flag=wales|pos2=",
+            "p3": "Lemon01|p3flag=wales|pos3=",
+            "p4": "MythicalMini|p4flag=wales|pos4=",
+            "p5": "AF4ML|p5flag=wales|pos5=",
+            "p6": "shine_gcs|p6flag=wales|pos6=",
+            "p7": "CaptainPrash|p7flag=uk|pos7="
+        },
+        {
+            "team": "Pit Ponies",
+            "p1": "Modgii|p1flag=wales|pos1=",
+            "p2": "bron|p2flag=wales|pos2=",
+            "p3": "Astral|p3flag=wales|pos3=",
+            "p4": "BlueLion|p4flag=wales|pos4=",
+            "p5": "Desticius|p5flag=wales|pos5=",
+            "p6": "IAmNoob22|p6flag=wales|pos6=",
+            "p7": "Nate__OW|p7flag=belgium|pos7="
+        },
+        {
+            "team": "Puffins",
+            "p1": "Golden|p1flag=wales|pos1=",
+            "p2": "MA0MA0|p2flag=wales|pos2=",
+            "p3": "Thetodd38|p3flag=wales|pos3=",
+            "p4": "MiniNinja|p4flag=wales|pos4=",
+            "p5": "Blue495|p5flag=italy|pos5="
+        },
+        {
+            "team": "Swans Esports",
+            "p1": "Septi|p1flag=wales|pos1=",
+            "p2": "Orpheus|p2flag=de|pos2=",
+            "p3": "Ace|p3flag=wales|pos3=|p3link=Ace (Welsh player)",
+            "p4": "Photosynthesis|p4flag=ve|pos4=",
+            "p5": "False|p5flag=wales|pos5=|p5link=False (Welsh player)",
+            "p6": "Gwyn|p6flag=wales|pos6=",
+            "t2title": "Staff",
+            "t2c1": "Gwyn|t2c1flag=wales|t2c1pos=manager"
+        },
+        {
+            "team": "Robins",
+            "p1": "Lazyy_OW|p1flag=wales",
+            "p2": "k4mi|p2flag=wales",
+            "p3": "vvoxxz|p3flag=wales",
+            "p4": "Playz4Dayz|p4flag=wales",
+            "p5": "Lupin704|p5flag=wales",
+            "p6": "Alixeh|p6flag=wales"
+        }
+    ],
+    "match_cards": []
+}

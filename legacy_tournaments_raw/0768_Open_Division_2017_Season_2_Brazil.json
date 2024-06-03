@@ -1,0 +1,116 @@
+{
+    "tournament_info": [
+        {
+            "name": "Open Division 2017 Season 2 - Brazil",
+            "shortname": "OD 2017 S2 - Brazil",
+            "image": "Open Division.png",
+            "icon": "Open Division small.png",
+            "series": "Open Division",
+            "abbreviation": "Open Division",
+            "tickername": "Open Division 2017 S2 - Brazil",
+            "organizer": "ESL",
+            "organizer2": "Blizzard",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Brazil",
+            "city": "",
+            "format": "",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "",
+            "sdate": "2017-10-28",
+            "edate": "2017-10-29",
+            "liquipediatier": "{{TierText/4}}",
+            "web": "https://play.eslgaming.com/overwatch/open-division/brazil/",
+            "twitter": "",
+            "bracket": "https://play.eslgaming.com/overwatch/south-america/overwatch/major/overwatch-open-division-brazil/season-2-regular-season/results/#!?round=1",
+            "bracket2": "https://play.eslgaming.com/overwatch/south-america/overwatch/major/overwatch-open-division-brazil/open-season-2-playoffs/rankings/",
+            "twitch": "",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Fingerless e-Sports",
+            "image": "Fingerless_e-Sports_logo.png",
+            "p1": "|p1flag= |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (1)"
+        },
+        {
+            "team": "Cooldown eSports",
+            "image": "Cooldown_eSports_logo.png",
+            "p1": "|p1flag= |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (2)"
+        },
+        {
+            "team": "ZONY Gaming",
+            "image": "Zony_Gaming_logo.png",
+            "p1": "Ankle |p1flag=br |pos1=tank",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (3)"
+        },
+        {
+            "team": "Drafted",
+            "image": "Drafted_logo.png",
+            "p1": "|p1flag= |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (4)"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "cooldown esports",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "fingerless e-sports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "cooldown esports",
+            "score2": "-",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "fingerless e-sports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "drafted",
+            "score2": "-",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "zony gaming",
+            "score1": "W",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

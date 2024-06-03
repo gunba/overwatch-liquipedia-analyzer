@@ -1,0 +1,844 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "Switzerlan",
+            "name": "SwitzerLAN 2016",
+            "shortname": "SwitzerLAN 2016",
+            "tickername": "SwitzerLAN 2016",
+            "image": "swizerlan.jpg",
+            "icon": "Switzerlan_std.jpg",
+            "abbreviation": "SwitzerLAN",
+            "organizer": "SwitzerLAN",
+            "organizer-link": "https://switzerlan.ch/",
+            "type": "Offline",
+            "city": "Bern",
+            "country": "Switzerland",
+            "sponsor": "Cisco<br>Mifcom",
+            "format": "Double Elimination",
+            "localcurrency": "chf",
+            "prizepool": "2000",
+            "sdate": "2016-11-08",
+            "edate": "2016-11-09",
+            "web": "https://switzerlan.ch/",
+            "twitter": "switzerlanCH",
+            "discord": "AwJb9mF",
+            "bracket": "https://challonge.com/OWSwitzerLAN",
+            "team_number": "14",
+            "game": "overwatch"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Silent NaDynasty",
+            "p1": "Sharper",
+            "p1flag": "ch",
+            "pos1": "dps",
+            "p2": "Gizmo",
+            "p2flag": "ch",
+            "pos2": "dps",
+            "p3": "tyco0n",
+            "p3flag": "ch",
+            "pos3": "tank",
+            "p4": "Raphox",
+            "p4flag": "ch",
+            "pos4": "tank",
+            "p5": "Fleckz",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "p6": "Qube",
+            "p6flag": "ch",
+            "pos6": "sup"
+        },
+        {
+            "team": "SPG eSports",
+            "p1": "Luux",
+            "p1flag": "ch",
+            "pos1": "dps",
+            "p2": "Shinoda",
+            "p2flag": "ch",
+            "pos2": "dps",
+            "p3": "wauwauwuf",
+            "p3flag": "ch",
+            "pos3": "tank",
+            "p4": "Atlas",
+            "p4flag": "ch",
+            "pos4": "tank",
+            "p4link": "Atlas (Swiss player)",
+            "p5": "Ovomaltine",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "p6": "Udk",
+            "p6flag": "ch",
+            "pos6": "sup"
+        },
+        {
+            "team": "Topkek",
+            "p1": "fierceP",
+            "p1flag": "ch",
+            "pos1": "dps",
+            "p2": "NiceTry",
+            "p2flag": "ch",
+            "pos2": "dps",
+            "p3": "WingsOfTurtle",
+            "p3flag": "ch",
+            "pos3": "tank",
+            "p4": "dnw",
+            "p4flag": "ch",
+            "pos4": "tank",
+            "p5": "NiV",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "p6": "fegerchen",
+            "p6flag": "ch",
+            "pos6": "sup"
+        },
+        {
+            "team": "Team YoloQ",
+            "p1": "Xande",
+            "p1flag": "ch",
+            "pos1": "dps",
+            "p2": "Archy",
+            "p2flag": "ch",
+            "pos2": "dps",
+            "p3": "Abaddon",
+            "p3flag": "ch",
+            "pos3": "tank",
+            "p4": "dothem",
+            "p4flag": "ch",
+            "pos4": "tank",
+            "p5": "Oddy",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "p6": "Lucioch",
+            "p6flag": "ch",
+            "pos6": "sup"
+        },
+        {
+            "team": "ELVETS Overlight",
+            "p1": "Riksy",
+            "p1flag": "ch",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "ERQ",
+            "p1": "Hyferion",
+            "p1flag": "ch",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "Couch Potatoes",
+            "p1": "LynxxxCH",
+            "p1flag": "ch",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "noetic",
+            "p1": "Soukiman",
+            "p1flag": "ch",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "4Harambe",
+            "opponent1_score": 0,
+            "opponent2": "dicks out",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ELVETS Overlight",
+            "opponent1_score": 1,
+            "opponent2": "Salzige Most C74",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SPG eSports",
+            "opponent1_score": 1,
+            "opponent2": "Couch Potatoes",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Drunk'n Rabbits",
+            "opponent1_score": 1,
+            "opponent2": "Team Prauuu",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Topkek",
+            "opponent1_score": 1,
+            "opponent2": "Smoke Gaming",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "noetic",
+            "opponent1_score": 0,
+            "opponent2": "Team YoloQ",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ERQ",
+            "opponent1_score": 1,
+            "opponent2": "dicks out",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ELVETS Overlight",
+            "opponent1_score": 0,
+            "opponent2": "SPG eSports",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Silent NaDynasty",
+            "opponent1_score": 1,
+            "opponent2": "Drunk'n Rabbits",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Topkek",
+            "opponent1_score": 0,
+            "opponent2": "Team YoloQ",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "3",
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ERQ",
+            "opponent1_score": 0,
+            "opponent2": "SPG eSports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Silent NaDynasty",
+            "opponent1_score": 2,
+            "opponent2": "Team YoloQ",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "2016-11-09",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SPG eSports",
+            "opponent1_score": 1,
+            "opponent2": "Silent NaDynasty",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M1="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Salzige Most C74",
+            "opponent1_score": 0,
+            "opponent2": "Couch Potatoes",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Smoke Gaming",
+            "opponent1_score": 0,
+            "opponent2": "noetic",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Topkek",
+            "opponent1_score": 2,
+            "opponent2": "4Harambe",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Drunk'n Rabbits",
+            "opponent1_score": 1,
+            "opponent2": "Couch Potatoes",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M6="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ELVETS Overlight",
+            "opponent1_score": 2,
+            "opponent2": "Team Prauuu",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M7="
+        },
+        {
+            "date": "2016-11-08",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "dicks out",
+            "opponent1_score": 0,
+            "opponent2": "noetic",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M8="
+        },
+        {
+            "date": "2016-11-09",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Topkek",
+            "opponent1_score": 2,
+            "opponent2": "Couch Potatoes",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "2016-11-09",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ELVETS Overlight",
+            "opponent1_score": 2,
+            "opponent2": "noetic",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "2016-11-09",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ERQ",
+            "opponent1_score": 0,
+            "opponent2": "Team Topkek",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M3="
+        },
+        {
+            "date": "2016-11-09",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team YoloQ",
+            "opponent1_score": 2,
+            "opponent2": "ELVETS Overlight",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M4="
+        },
+        {
+            "date": "2016-11-09",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Topkek",
+            "opponent1_score": 2,
+            "opponent2": "Team YoloQ",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        },
+        {
+            "date": "2016-11-09",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SPG eSports",
+            "opponent1_score": 2,
+            "opponent2": "Team Topkek",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M2="
+        },
+        {
+            "date": "2016-11-09",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Silent NaDynasty",
+            "opponent1_score": 2,
+            "opponent2": "SPG eSports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R7M1="
+        }
+    ]
+}

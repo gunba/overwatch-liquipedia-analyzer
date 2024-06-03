@@ -1,0 +1,228 @@
+{{Infobox league
+|liquipediatier=3
+|name=Heroes Recall EMEA Tournament
+|shortname=Heroes Recall EMEA Tournament
+|tickername=Heroes Recall EMEA Tournament
+|image=Heroes Recall lightmode.png
+|imagedark=Heroes Recall darkmode.png
+|icon=Heroes Recall lightmode.png
+|organizer=Blizzard Entertainment
+|organizer2=EGL
+|type=Online
+|country=Europe
+|game=overwatch2
+|prizepool=100000
+|localcurrency=eur
+|sdate=2022-10-20
+|edate=2022-10-23
+|twitter=OverwatchEU
+|twitch=directory/game/Overwatch%202
+|team_number=6
+}}
+
+==Information==
+===Format===
+*Group stage into playoffs
+*Single Elimination {{Abbr/Bo3}}
+
+===Prize Pool===
+{{TeamPrizePool|import=true|localcurrency=eur|tournament1=#Playoffs
+|{{Slot|place=1|localprize=30000}}
+|{{Slot|place=2|localprize=20000}}
+|{{Slot|place=3-4|localprize=15000}}
+|{{Slot|place=5-6|localprize=10000}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Team Nordics
+|p1=ThomasPaste|p1flag=no|pos1=
+|p2=Emilio|p2flag=se|pos2=|p2link=counterstrike:Emilio
+|p3=Arrge|p3flag=fi|pos3=
+|p4=Mendokusaii|p4flag=|pos4=
+|p5=Hakis|p5flag=se|pos5=|p5link=apexlegends:Hakis
+}}
+{{TeamCard
+|team=Team France
+|p1=BenBest|p1flag=fr|pos1=|p1team=team peps
+|p2=Potxeca|p2flag=fr|pos2=
+|p3=Féfé|p3flag=fr|pos3=|p3team=team peps
+|p4=SoOn|p4flag=fr|pos4=
+|p5=MoMaN|p5flag=fr|pos5=
+}}
+{{TeamCard
+|team=Team Benelux
+|p1=Gamemeneer|p1flag=nl|pos1=
+|p2=Kraandop|p2flag=|pos2=|p2team=twisted minds
+|p3=KingKontent|p3flag=nl|pos3=
+|p4=sejecem|p4flag=nl|pos4=
+|p5=Logix|p5flag=be|pos5=|p5team=team peps
+}}
+{{TeamCard
+|team=Team Germany
+|p1=Alex2704|p1flag=de|pos1=|p1team=skeng2
+|p2=art1er|p2flag=de|pos2=
+|p3=Dhalucard|p3flag=de|pos3=
+|p4=HIghscoreHeroes|p4flag=de|pos4=
+|p5=Noserino|p5flag=de|pos5=
+}}
+{{TeamCard
+|team=Team United Kingdom
+|p1=OnScreen|p1flag=uk|pos1=
+|p2=Valkia|p2flag=uk|pos2=
+|p3=Karagii|p3flag=uk|pos3=
+|p4=Break|p4flag=uk|pos4=|p4link=Break (British Player)
+|p5=Smooya|p5flag=uk|pos5=
+}}
+{{TeamCard
+|team=Team Saudi Arabia
+|p1=KssarPlayz|p1flag=sa|pos1=
+|p2=Fuki|p2flag=sa|pos2=
+|p3=Hessa|p3flag=sa|pos3=
+|p4=Jude|p4flag=sa|pos4=
+|p5=YZNSA|p5flag=sa|pos5=|p5team=01 esports
+}}
+{{TeamCard columns end}}
+
+==Results==
+==={{Stage|Group Stage}}===
+{{box|start|padding=2em}}
+{{GroupTableLeague
+|edate=October 21, 2022|width=450px|title=Group A
+|pbg1=seedup|pbg2=up|pbg3=up
+|bg1=up|team1=team germany
+|bg2=up|team2=team united kingdom
+|bg3=seedup|team3=team saudi arabia
+}}
+{{Matchlist|id=SDcU0Ya4ZC|width=450px
+|M1={{Match
+    |bestof=3
+    |date=October 20, 2022 - 18:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team saudi arabia}}
+    |opponent2={{TeamOpponent|team germany}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|M2={{Match
+    |date=October 20, 2022 - 19:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team united kingdom}}
+    |opponent2={{TeamOpponent|team saudi arabia}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|M3={{Match
+    |date=October 20, 2022 - 20:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team united kingdom}}
+    |opponent2={{TeamOpponent|team germany}}
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}
+
+{{box|break|padding=2em}}
+{{GroupTableLeague
+|edate=October 21, 2022|width=450px|title=Group B
+|pbg1=seedup|pbg2=up|pbg3=up
+|bg1=up|team1=team nordics
+|bg2=seedup|team2=team france
+|bg3=up|team3=team benelux
+}}
+{{Matchlist|id=izo1qhPUk4|width=450px
+|M1={{Match
+    |bestof=3
+    |date=October 20, 2022 - 18:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team benelux}}
+    |opponent2={{TeamOpponent|team nordics}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|M2={{Match
+    |date=October 20, 2022 - 19:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team france}}
+    |opponent2={{TeamOpponent|team benelux}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|M3={{Match
+    |date=October 20, 2022 - 20:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team france}}
+    |opponent2={{TeamOpponent|team nordics}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}
+{{box|end}}
+
+==={{Stage|Playoffs}}===
+{{Bracket|Bracket/4L2DS|id=maHoDVHN1t
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=October 22, 2022 - 18:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Team Germany}}
+    |opponent2={{TeamOpponent|team nordics}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=0|winner=1}}
+}}
+|R1M2={{Match
+    |bestof=3
+    |date=October 22, 2022 - 20:30 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team benelux}}
+    |opponent2={{TeamOpponent|team united kingdom}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+    |bestof=3
+    |date=October 23, 2022 - 19:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Team France}}
+    |opponent2={{TeamOpponent|Team Germany}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+    |bestof=3
+    |date=October 23, 2022 - 18:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Team Saudi Arabia}}
+    |opponent2={{TeamOpponent|team benelux}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |bestof=3
+    |date=October 23, 2022 - 20:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Team France}}
+    |opponent2={{TeamOpponent|Team Saudi Arabia}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

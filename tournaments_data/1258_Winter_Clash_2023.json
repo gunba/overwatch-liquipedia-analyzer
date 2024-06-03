@@ -1,0 +1,127 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "Winter Clash 2023 - LAN @ Coliseo Pedrin Zorilla",
+            "tickername": "Winter Clash 2023",
+            "image": "",
+            "organizer": "Red Rooster",
+            "type": "LAN",
+            "country": "Puerto Rico",
+            "game": "overwatch",
+            "sdate": "2023-02-11",
+            "edate": "2023-02-12",
+            "twitter": "",
+            "twitch": "",
+            "bracket": "https://www.start.gg/tournament/winter-clash-2023-online-qualifiers/events/overwatch-2-5v5/brackets/1299397/1986862/overview",
+            "youtube": "",
+            "website": "",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Sol Victus",
+            "p1": "pikapiplays",
+            "p2": "n0tjavo",
+            "p3": "Reales",
+            "p4": "Lightwolf",
+            "p5": "Monclo",
+            "p6": "Jinouga"
+        },
+        {
+            "team": "Playero37",
+            "p1": "ChulosinH",
+            "p2": "chaiNer",
+            "p3": "m3tric0",
+            "p4": "Doncho",
+            "p5": "Soupychu",
+            "p6": "Rexu"
+        },
+        {
+            "team": "Lechonautas",
+            "p1": "ADN",
+            "p2": "Paykito",
+            "p3": "Chutoks137",
+            "p4": "DannyR",
+            "p5": "Vuzy"
+        },
+        {
+            "team": "Team GAP",
+            "p1": "CaruL",
+            "p2": "Robles",
+            "p3": "Heliconia",
+            "p4": "adrii",
+            "p5": "Saber"
+        },
+        {
+            "team": "Gladiadores",
+            "p1": "Polyato",
+            "p2": "Leidhay07",
+            "p3": "Kanshi",
+            "p4": "Blonsis",
+            "p5": "Endvon",
+            "p6": "JCGonzo",
+            "p7": "Willy_pv"
+        },
+        {
+            "team": "EstareiPR",
+            "p1": "Aikira",
+            "p2": "AryReeves",
+            "p3": "wxlry",
+            "p4": "Tidalwave94",
+            "p5": "ChImy"
+        },
+        {
+            "team": "Limitless",
+            "p1": "Vayakosaurio",
+            "p2": "D2Capriso",
+            "p3": "MekaTitan",
+            "p4": "Jey5",
+            "p5": "flashmob",
+            "t2title": "Staff",
+            "t2c1": "Gizgam",
+            "t2c1pos": "Coach"
+        },
+        {
+            "team": "Edgerunners",
+            "p1": "lily_nightraven",
+            "p2": "Haze",
+            "p3": "Lanii",
+            "p4": "VaZaLe",
+            "p5": "VeganoPR"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "February 11, 2023",
+            "date_timezone": "EDT",
+            "opponent1": "Lechonautas",
+            "opponent1_score": 0,
+            "opponent2": "Team GAP",
+            "opponent2_score": 2,
+            "optional": "R1M2="
+        },
+        {
+            "bestof": "3",
+            "date": "February 11, 2023",
+            "date_timezone": "EDT",
+            "opponent1": "Gladiadores",
+            "opponent1_score": 0,
+            "opponent2": "EstareiPR",
+            "opponent2_score": 2,
+            "optional": "R1M3="
+        },
+        {
+            "bestof": "3",
+            "date": "February 11, 2023",
+            "date_timezone": "EDT",
+            "opponent1": "Limitless",
+            "opponent1_score": 2,
+            "opponent2": "Edgerunners",
+            "opponent2_score": 0,
+            "optional": "R1M4="
+        }
+    ]
+}

@@ -1,0 +1,467 @@
+{
+    "tournament_info": [
+        {
+            "name": "The Party 15",
+            "image": "",
+            "organizer": "The Party",
+            "sponsor": "[http://www.coolermaster.com/ Cooler Master]",
+            "type": "Offline",
+            "country": "Netherlands",
+            "city": "Eindhoven",
+            "format": "Group Stage <br> Playoffs",
+            "prizepool": "600",
+            "localcurrency": "eur",
+            "prizepoolusd": "640",
+            "sdate": "2017-04-14",
+            "edate": "2017-04-16",
+            "liquipediatier": "{{TierText/5}}",
+            "web": "https://the-party.nl/2017/02/26/overwatch/",
+            "twitter": "",
+            "bracket": "http://tp15.lanergy.eu/c226/Overwatch",
+            "twitch": "",
+            "team_number": "14"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "ECV eSports",
+            "p1": "Vizyrion",
+            "p1flag": "nl",
+            "p2": "Vizility",
+            "p2flag": "nl",
+            "p3": "Sensey",
+            "p3flag": "nl",
+            "p4": "JIG",
+            "p4flag": "nl",
+            "p5": "TheWrongName",
+            "p5flag": "nl",
+            "p6": "Sundays",
+            "p6flag": "nl",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "Fearless eSports",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "Apex eSports",
+            "p1": "BlaziQ",
+            "p1flag": "nl",
+            "p2": "PiP",
+            "p2flag": "nl",
+            "p3": "Argontic",
+            "p3flag": "nl",
+            "p4": "Prey",
+            "p4flag": "nl",
+            "p5": "ScorpionDaan",
+            "p5flag": "nl",
+            "p6": "Timarien",
+            "p6flag": "de",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "R4GE Gaming",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "Hooray4Jay",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "JoinTheForce",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "Bier",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "420Killer666Kroepoeks420",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "Dutch Gaming Fun Clan",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "ECV 10/10 Would win again",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "ImpulzGaming",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "Oprapen die steen!",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "Wahed spekkies",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        },
+        {
+            "team": "Calculated",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "",
+            "cflag": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "jointheforce",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ecv esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "420killer666kroepoeks420",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "apex esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "hooray4jay",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "fearless esports",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "bier",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "r4ge gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "apex esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "ecv esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "r4ge gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "fearless esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "fearless esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "ecv esports",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "420killer666kroepoeks420",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "jointheforce",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "bier",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "hooray4jay",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "jointheforce",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "r4ge gaming",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "hooray4jay",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D2",
+            "team1": "apex esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "jointheforce",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "apex esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "apex esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "fearless esports",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "fearless esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "ecv esports",
+            "score1": "4",
+            "win1": "1"
+        }
+    ],
+    "match_maps": [
+        {
+            "key": "match1",
+            "team1": "ecv esports",
+            "team2": "dutch gaming fun clan",
+            "winner": "1",
+            "games1": "2",
+            "games2": "0"
+        },
+        {
+            "key": "match2",
+            "team1": "bier",
+            "team2": "ecv esports",
+            "winner": "2",
+            "games1": "0",
+            "games2": "2"
+        },
+        {
+            "key": "match3",
+            "team1": "dutch gaming fun clan",
+            "team2": "bier",
+            "winner": "2",
+            "games1": "0",
+            "games2": "2"
+        },
+        {
+            "key": "match1",
+            "team1": "fearless esports",
+            "team2": "420killer666kroepoeks420",
+            "winner": "1",
+            "games1": "2",
+            "games2": "0"
+        },
+        {
+            "key": "match2",
+            "team1": "ecv 10/10 would win again",
+            "team2": "fearless esports",
+            "winner": "2",
+            "games1": "0",
+            "games2": "2"
+        },
+        {
+            "key": "match3",
+            "team1": "420killer666kroepoeks420",
+            "team2": "ecv 10/10 would win again",
+            "winner": "1",
+            "games1": "2",
+            "games2": "0"
+        },
+        {
+            "key": "match1",
+            "team1": "apex esports",
+            "team2": "hooray4jay",
+            "winner": "1",
+            "games1": "2",
+            "games2": "0"
+        },
+        {
+            "key": "match2",
+            "team1": "impulzgaming",
+            "team2": "oprapen die steen!",
+            "winner": "1",
+            "games1": "2",
+            "games2": "0"
+        },
+        {
+            "key": "match3",
+            "team1": "impulzgaming",
+            "team2": "apex esports",
+            "winner": "2",
+            "games1": "0",
+            "games2": "2"
+        },
+        {
+            "key": "match4",
+            "team1": "oprapen die steen!",
+            "team2": "hooray4jay",
+            "winner": "2",
+            "games1": "0",
+            "games2": "2"
+        },
+        {
+            "key": "match5",
+            "team1": "apex esports",
+            "team2": "oprapen die steen!",
+            "winner": "1",
+            "games1": "2",
+            "games2": "0"
+        },
+        {
+            "key": "match6",
+            "team1": "hooray4jay",
+            "team2": "impulzgaming",
+            "winner": "1",
+            "games1": "2",
+            "games2": "0"
+        },
+        {
+            "key": "match1",
+            "team1": "jointheforce",
+            "team2": "calculated",
+            "winner": "1",
+            "games1": "2",
+            "games2": "0"
+        },
+        {
+            "key": "match2",
+            "team1": "r4ge gaming",
+            "team2": "wahed spekkies",
+            "winner": "1",
+            "games1": "2",
+            "games2": "1"
+        },
+        {
+            "key": "match3",
+            "team1": "r4ge gaming",
+            "team2": "jointheforce",
+            "winner": "1",
+            "games1": "2",
+            "games2": "0"
+        },
+        {
+            "key": "match4",
+            "team1": "wahed spekkies",
+            "team2": "calculated",
+            "winner": "1",
+            "games1": "2",
+            "games2": "0"
+        },
+        {
+            "key": "match5",
+            "team1": "jointheforce",
+            "team2": "wahed spekkies",
+            "winner": "1",
+            "games1": "2",
+            "games2": "1"
+        },
+        {
+            "key": "match6",
+            "team1": "calculated",
+            "team2": "r4ge gaming",
+            "winner": "2",
+            "games1": "0",
+            "games2": "2"
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "TernoisCom Games Cup",
+            "shortname": "TernoisCom Games Cup",
+            "tickername": "TernoisCom Games Cup",
+            "icon": "",
+            "image": "",
+            "organizer": "TernoisCom",
+            "organizer-link": "https://www.ternoiscom.fr/",
+            "type": "Online",
+            "country": "France",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "prizepool": "2250",
+            "localcurrency": "eur",
+            "date": "2023-11-25",
+            "web": "https://www.ternoiscom.fr/index.php/tournoi-esport/",
+            "facebook": "TernoisCom",
+            "instagram": "TernoisCom",
+            "youtube": "channel/UCmuR5yxqqBDRYF2wRKgzBVQ",
+            "discord": "aCTDWHvar",
+            "twitch": "mossieurn",
+            "bracket": "https://play.toornament.com/en_US/tournaments/6713176008788631552/",
+            "rulebook": "",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dragon's Yokai",
+            "p1": "Evil",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p1link": "Evil (French player)",
+            "p2": "Erso",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Lenkwyn",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Hell",
+            "p4flag": "fr",
+            "pos4": "sup",
+            "p5": "EastPackMan",
+            "p5flag": "fr",
+            "pos5": "sup"
+        },
+        {
+            "team": "NRV",
+            "p1": "Ponx",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Ansta",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Gandalf",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Azur",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "SAMI",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "on fout quoi i\u00e7i ?",
+            "p1": "Khun",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Erigor",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Skycraft",
+            "p3flag": "fr",
+            "pos3": "",
+            "p4": "XR7",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Zeyno",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "SuperShy Black",
+            "p1": "kio",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "M3WS",
+            "pos2": "dps",
+            "p3": "Chroo",
+            "pos3": "tank",
+            "p4": "TommeX",
+            "p4flag": "ee",
+            "pos4": "sup",
+            "p5": "Chaba",
+            "p5flag": "be",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Natdoekje",
+            "t2c1pos": "coach",
+            "t2c2": "Cointree",
+            "t2c2pos": "manager",
+            "t2c3": "Laggy",
+            "t2c3pos": "manager"
+        },
+        {
+            "team": "SuperShy White",
+            "p1": "Dip",
+            "pos1": "dps",
+            "p2": "Pastor",
+            "pos2": "dps",
+            "p3": "Kraandop",
+            "pos3": "tank",
+            "p4": "Buddie",
+            "pos4": "support",
+            "p5": "Natsuki",
+            "p5flag": "nl",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Cointree",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Bi\u00e8res Frites Chocolats Gaufres",
+            "p1": "TurboSmooth",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Zydra",
+            "p2flag": "at",
+            "pos2": "dps",
+            "p3": "Skytorr",
+            "pos3": "tank",
+            "p4": "Podonova",
+            "p4flag": "be",
+            "pos4": "sup",
+            "p5": "Dams",
+            "p5flag": "be",
+            "pos5": "sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "November 25, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SuperShy White",
+            "opponent1_score": 0,
+            "opponent2": "SuperShy Black",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 25, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "NRV",
+            "opponent1_score": 0,
+            "opponent2": "Dragon's Yokai",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "November 25, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "on fout quoi i\u00e7i ?",
+            "opponent1_score": 0,
+            "opponent2": "SuperShy Black",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 25, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bi\u00e8res Frites Chocolats Gaufres",
+            "opponent1_score": 2,
+            "opponent2": "Dragon's Yokai",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "November 25, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SuperShy Black",
+            "opponent1_score": 3,
+            "opponent2": "Bi\u00e8res Frites Chocolats Gaufres",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "November 25, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dragon's Yokai",
+            "opponent1_score": 0,
+            "opponent2": "SuperShy White",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "November 25, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "on fout quoi i\u00e7i ?",
+            "opponent1_score": 2,
+            "opponent2": "NRV",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "November 25, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SuperShy White",
+            "opponent1_score": 2,
+            "opponent2": "on fout quoi i\u00e7i ?",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "bestof": "5",
+            "date": "November 25, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bi\u00e8res Frites Chocolats Gaufres",
+            "opponent1_score": 0,
+            "opponent2": "SuperShy White",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "7",
+            "date": "November 25, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SuperShy Black",
+            "opponent1_score": 1,
+            "opponent2": "SuperShy White",
+            "opponent2_score": 4,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

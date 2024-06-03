@@ -1,0 +1,495 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "abbreviation": "KMA Blizztour 4",
+            "name": "KMA Blizztour 4",
+            "shortname": "Blizztour 4",
+            "tickername": "KMA Blizztour 4",
+            "icon": "",
+            "image": "Blizztour_4.jpg",
+            "series": "KMA Blizztour",
+            "organizer": "KMA",
+            "game": "overwatch2",
+            "prizepool": "13000",
+            "localcurrency": "rub",
+            "type": "Online",
+            "country": "Russia",
+            "format": "Double Elimination",
+            "sdate": "2023-09-30",
+            "edate": "2023-10-08",
+            "twitter": "",
+            "web": "",
+            "twitch": "ema_live2",
+            "twitch2": "ema_main",
+            "discord": "RyRbZfZCMJ",
+            "youtube": "",
+            "vk": "esportsmedicine",
+            "rulebook": "https://docs.google.com/document/d/1IZtcNbtxYcjxzjYQESFblC3TGx5M2RBN5jG-78tK52M/edit",
+            "bracket": "https://play.toornament.com/en_GB/tournaments/7139555576616263680/",
+            "teamfirst": "",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Reserve squad Fallen paradise",
+            "image": "",
+            "p1": "Hope|p1flag=ru|pos1=tank|p1link=Hope (Frozen Sun player)",
+            "p2": "Foris|p2flag=ru|pos2=dps",
+            "p3": "353|p3flag=|pos3=dps",
+            "p4": "Lauregea|p4flag=ru|pos4=sup",
+            "p5": "Chernu9h|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Losing Sanity",
+            "image": "",
+            "p1": "Sanro|p1flag=ua|pos1=tank",
+            "p2": "kai41|p2flag=ru|pos2=dps",
+            "p3": "Intergral|p3flag=ru|pos3=dps",
+            "p4": "SilentAshley|p4flag=ru|pos4=sup",
+            "p5": "Discordance|p5flag=ru|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc|t2pos1=Manager|t2p1flag=ru",
+            "t3title": "Substitute",
+            "t3p1": "Lekko|t3pos1=sup|t3p1flag=ru",
+            "t3p2": "Scorp|t3pos2=dps|t3p2flag=ru"
+        },
+        {
+            "team": "MSU Esports",
+            "image": "",
+            "p1": "Mark|p1flag=ru|pos1=tank",
+            "p2": "fr0l|p2flag=ru|pos2=dps",
+            "p3": "Iceiceice|p3flag=|pos3=dps",
+            "p4": "Kingprawn|p4flag=|pos4=sup",
+            "p5": "Naita|p5flag=ru|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "OverlorD|t2pos1=Coach|t2p1flag=ru",
+            "t3title": "Substitute",
+            "t3p1": "iallbeback|t3pos1=dps|t3p1flag=ru",
+            "t3p2": "Jade|t3pos2=flex|t3p2flag=",
+            "t3p3": "Meloo|t3pos3=flex|t3p3flag=",
+            "t3p4": "Zolotse|t3pos4=flex|t3p4flag=ru"
+        },
+        {
+            "team": "RGGU Gryphis",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Laziers of Oz",
+            "image": "",
+            "p1": "Woodsfrank|p1flag=ru|pos1=tank",
+            "p2": "Bagel|p2flag=ru|pos2=dps|p2link=Bagel (Russian player)",
+            "p3": "Kisara|p3flag=ru|pos3=dps",
+            "p4": "Yato|p4flag=ru|pos4=sup",
+            "p5": "\u041c\u044f\u0442\u043d\u044b\u0439\u0427\u0430\u0439|p5flag=ru|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc|t2pos1=Coach|t2p1flag=ru",
+            "t3title": "Substitute",
+            "t3p1": "Memento|t3pos1=dps|t3p1flag=ru",
+            "t3p2": "french|t3pos2=dps|t3p2flag=ru"
+        },
+        {
+            "team": "MosPolytech",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Mercy One Love",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445",
+            "image": "",
+            "p1": "Executed|p1flag=|pos1=tank",
+            "p2": "Demibot|p2flag=|pos2=dps",
+            "p3": "L4b13|p3flag=|pos3=dps",
+            "p4": "Gastervoice|p4flag=|pos4=sup",
+            "p5": "Lilim|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Rise of Phoenix",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Takahashi",
+            "image": "",
+            "p1": "Vietnammm|p1flag=|pos1=tank",
+            "p2": "FireY|p2flag=|pos2=dps",
+            "p3": "\u0424\u0443\u0444\u0435\u043b\u0448\u043c\u0435\u0440\u0446|p3flag=|pos3=dps",
+            "p4": "Phoenix|p4flag=|pos4=sup",
+            "p5": "Fidget|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Cartel: Syndicate Academy",
+            "image": "",
+            "p1": "Pusenkas|p1flag=ru|pos1=Tank",
+            "p2": "TakikuraGen|p2flag=ru|pos2=dps",
+            "p3": "MaGistR|p3flag=ru|pos3=dps",
+            "p4": "Konnik|p4flag=ru|pos4=sup",
+            "p5": "Le0r|p5flag=ru|pos5=sup"
+        },
+        {
+            "team": "ReactorMEPHI",
+            "image": "",
+            "p1": "\u0412\u0438\u0442\u044f\u0430\u043b\u043a\u0430\u0448|p1flag=|pos1=tank",
+            "p2": "Lullaby|p2flag=|pos2=dps",
+            "p3": "Tref|p3flag=|pos3=dps",
+            "p4": "Ivarys|p4flag=|pos4=sup",
+            "p5": "Anemo|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Horny Party",
+            "image": "",
+            "p1": "\u0410\u0440\u0441\u0435\u043d\u0438\u0439|p1flag=|pos1=tank",
+            "p2": "\u0427\u0412\u041a\u0417\u0430\u0440\u044f|p2flag=|pos2=dps",
+            "p3": "Sovysoul|p3flag=|pos3=dps",
+            "p4": "HornyPotato|p4flag=|pos4=sup",
+            "p5": "\u041b\u043e\u0432\u043a\u0438\u0439\u0440\u044b\u0446\u0430\u0440\u044c|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "\u0421\u043a\u0432\u0430\u043d\u0442\u0438\u043a\u0438",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "SewMeeting",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "\u041f\u0438\u043c\u0443\u0437\u0430\u0432\u0440\u044b",
+            "image": "",
+            "p1": "Kerik12345|p1flag=|pos1=tank",
+            "p2": "Inkop|p2flag=|pos2=dps",
+            "p3": "Raynus|p3flag=|pos3=dps",
+            "p4": "Ezik|p4flag=|pos4=sup",
+            "p5": "Pneumothorax|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|RGGU Gryphis|score=0}}",
+            "opponent2": "{{TeamOpponent|Horny Party|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Cartel: Syndicate Academy|score=0}}",
+            "opponent2": "{{TeamOpponent|Laziers of Oz|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Horny Party|score=0}}",
+            "opponent2": "{{TeamOpponent|Laziers of Oz|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|RGGU Gryphis|score=0}}",
+            "opponent2": "{{TeamOpponent|Cartel: Syndicate Academy|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Horny Party|score=0}}",
+            "opponent2": "{{TeamOpponent|Cartel: Syndicate Academy|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|MSU Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|SewMeeting|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ReactorMEPHI|score=2}}",
+            "opponent2": "{{TeamOpponent|MosPolytech|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|SewMeeting|score=2}}",
+            "opponent2": "{{TeamOpponent|ReactorMEPHI|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|MosPolytech|score=0}}",
+            "opponent2": "{{TeamOpponent|MSU Esports|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ReactorMEPHI|score=2}}",
+            "opponent2": "{{TeamOpponent|MSU ESPORTS|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Losing Sanity|score=1}}",
+            "opponent2": "{{TeamOpponent|\u0421\u043a\u0432\u0430\u043d\u0442\u0438\u043a\u0438|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Rise of Phoenix|score=2}}",
+            "opponent2": "{{TeamOpponent|Mercy One Love|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u0421\u043a\u0432\u0430\u043d\u0442\u0438\u043a\u0438|score=2}}",
+            "opponent2": "{{TeamOpponent|Rise Of Phoenix|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Losing Sanity|score=2}}",
+            "opponent2": "{{TeamOpponent|Mercy One Love|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Rise Of Phoenix|score=0}}",
+            "opponent2": "{{TeamOpponent|Losing Sanity|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Reserve squad Fallen Paradise|score=2}}",
+            "opponent2": "{{TeamOpponent|\u041f\u0438\u043c\u0443\u0437\u0430\u0432\u0440\u044b|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Takahashi|score=L}}",
+            "opponent2": "{{TeamOpponent|\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Reserve squad Fallen Paradise|score=2}}",
+            "opponent2": "{{TeamOpponent|\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u041f\u0438\u043c\u0443\u0437\u0430\u0432\u0440\u044b|score=W}}",
+            "opponent2": "{{TeamOpponent|Takahashi|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445|score=2}}",
+            "opponent2": "{{TeamOpponent|\u041f\u0438\u043c\u0443\u0437\u0430\u0432\u0440\u044b|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "3",
+            "date": "October 8, 2023 - 15:30 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_main",
+            "opponent1": "{{TeamOpponent|Reserve squad Fallen Paradise|score=0}}",
+            "opponent2": "{{TeamOpponent|Losing Sanity|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "October 8, 2023 - 15:30 {{abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Cartel: Syndicate Academy|score=2}}",
+            "opponent2": "{{TeamOpponent|SewMeeting|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "October 8, 2023 - 15:30 {{abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ReactorMEPHI|score=0}}",
+            "opponent2": "{{TeamOpponent|Laziers of Oz|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "October 8, 2023 - 15:30 {{abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u0421\u043a\u0432\u0430\u043d\u0442\u0438\u043a\u0438|score=0}}",
+            "opponent2": "{{TeamOpponent|\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "October 8, 2023 - 16:15 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_main",
+            "opponent1": "{{TeamOpponent|Losing Sanity|score=2}}",
+            "opponent2": "{{TeamOpponent|Cartel: Syndicate Academy|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "October 8, 2023 - 16:15 {{abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Laziers of Oz|score=2}}",
+            "opponent2": "{{TeamOpponent|\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "October 8, 2023 - 17:00 {{abbr/CEST}}",
+            "youtube": "|twitch=ema_main",
+            "opponent1": "{{TeamOpponent|Losing Sanity|score=3}}",
+            "opponent2": "{{TeamOpponent|Laziers of Oz|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "October 8, 2023 - 17:00 {{abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445|score=0}}",
+            "opponent2": "{{TeamOpponent|Cartel: Syndicate Academy|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Qualifier",
+            "name": "Esports Collegiate Conference 2023",
+            "tickername": "ESC Playoffs",
+            "shortname": "ESC Playoffs 23",
+            "series": "Esports Collegiate Conference|abbreviation=ESC",
+            "image": "Esports_Collegiate_Conference_overwatch_allmode.png",
+            "icon": "Esports_Collegiate_Conference_overwatch_icon_allmode.png",
+            "organizer": "eFuse",
+            "sponsor": "[https://efuse.gg/ eFuse]<br>[https://nelnet.com/welcome Nelnet]",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "United States",
+            "format": "Single Elimination",
+            "sdate": "2023-04-18",
+            "edate": "2023-04-29",
+            "rules": "https://docs.google.com/document/d/e/2PACX-1vTJgcTa5bIb_RIe5HcNVvzn7NYKKenOqcPpL7-3H54_t4bmh60EGO-8U-fKk36Sq6GkEt_nKC6PZSPn/pub",
+            "twitter": "ESC_Conference",
+            "twitch": "ESC_Conference",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Ball State Red",
+            "p1": "Spencer|p1flag=us|pos1=dps",
+            "p2": "NinjaCurlyFry|p2flag=us|pos2=dps",
+            "p3": "Manwe|p3flag=us|pos3=tank",
+            "p4": "Yakester|p4flag=us|pos4=sup",
+            "p5": "RavenStrider|p5flag=us|pos5=sup",
+            "qualifier": "[[ESC/2023/Qualifier|Qualifier]]",
+            "placement": "1"
+        },
+        {
+            "team": "Miami University",
+            "p1": "CGS|p1flag=us|pos1=dps",
+            "p2": "Bonesaw|p2flag=us|pos2=dps",
+            "p3": "skrtle|p3flag=us|pos3=dps",
+            "p4": "KaBunga|p4flag=us|pos4=tank",
+            "p5": "Shocker|p5flag=us|pos5=sup",
+            "p6": "Fahzix|p6flag=us|pos6=sup",
+            "p7": "Jaybird|p7flag=us|pos7=sup",
+            "qualifier": "[[ESC/2023/Qualifier|Qualifier]]",
+            "placement": "2"
+        },
+        {
+            "team": "Northeastern University",
+            "link": "Northeastern University",
+            "p1": "Hedwig|p1flag=us|pos1=dps",
+            "p2": "Woah|p2flag=us|pos2=dps",
+            "p3": "NeatZ|p3flag=us|pos3=dps",
+            "p4": "Frisco|p4flag=us|pos4=tank|p4link=Frisco (American Player)",
+            "p5": "SCL33|p5flag=us|pos5=tank",
+            "p6": "qghop|p6flag=us|pos6=sup",
+            "p7": "timid|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Temporal|t2cflag=us|t2c1pos=Coach",
+            "qualifier": "[[ESC/2023/Qualifier|Qualifier]]",
+            "placement": "3-4"
+        },
+        {
+            "team": "Ohio University",
+            "p1": "Akusoura|p1flag=us|pos1=dps",
+            "p2": "kuna|p2flag=us|pos2=dps",
+            "p3": "craZmanG|p3flag=us|pos3=tank",
+            "p4": "Slowo|p4flag=gr|pos4=sup",
+            "p5": "Water|p5flag=us|pos5=sup|p5link=Water (American Player)",
+            "p6": "Lando|p6flag=us|pos6=sup",
+            "p7": "Muck|p7flag=us|pos7=flex",
+            "qualifier": "[[ESC/2023/Qualifier|Qualifier]]",
+            "placement": "3-4"
+        },
+        {
+            "team": "Northern Illinois University",
+            "p1": "Tokotoro|p1flag=us|pos1=dps",
+            "p2": "Austy125|p2flag=us|pos2=dps",
+            "p3": "Flawless|p3flag=us|pos3=tank|p3link=Flawless (American Player)",
+            "p4": "Dietox|p4flag=us|pos4=tank",
+            "p5": "HAZE|p5flag=us|pos5=sup",
+            "p6": "PKZER0|p6flag=us|pos6=sup",
+            "p7": "Racer|p7flag=us|pos7=sup",
+            "p8": "raspberry34|p8flag=us|pos8=sup",
+            "qualifier": "[[ESC/2023/Qualifier|Qualifier]]",
+            "placement": "5-8"
+        },
+        {
+            "team": "Kent State",
+            "p1": "Vyrul|p1flag=us|pos1=dps",
+            "p2": "Vortex|p2flag=us|pos2=dps",
+            "p3": "Abluecard|p3flag=us|pos3=dps",
+            "p4": "Wildthing|p4flag=us|pos4=tank",
+            "p5": "Icarus|p5flag=us|pos5=sup",
+            "p6": "Secret|p6flag=us|pos6=sup|p6link=Secret (American Player)",
+            "p7": "ScatmanShawn|p7flag=us|pos7=sup",
+            "qualifier": "[[ESC/2023/Qualifier|Qualifier]]",
+            "placement": "5-8"
+        },
+        {
+            "team": "University of Buffalo",
+            "p1": "Mudkip|p1flag=us|pos1=dps|p1link=Mudkip (American Player)",
+            "p2": "Alive|p2flag=us|pos2=dps",
+            "p3": "Rozerai|p3flag=us|pos3=dps",
+            "p4": "Plasma|p4flag=us|pos4=tank",
+            "p5": "Firealizon|p5flag=us|pos5=tank",
+            "p6": "LordThethan|p6flag=us|pos6=sup",
+            "p7": "carrot|p7flag=us|pos7=sup",
+            "p8": "EvilEmpireKid|p8flag=us|pos8=flex",
+            "p9": "Bezo|p9flag=us|pos9=flex",
+            "qualifier": "[[ESC/2023/Qualifier|Qualifier]]",
+            "placement": "5-8"
+        },
+        {
+            "team": "Western Michigan University",
+            "p1": "Keefr|p1flag=us|pos1=dps",
+            "p2": "Brother|p2flag=us|pos2=dps|p2link=Brother (American Player)",
+            "p3": "Arcane|p3flag=us|pos3=dps|p3link=Arcane (American Player)",
+            "p4": "Tyco|p4flag=us|pos4=tank",
+            "p5": "Vexa|p5flag=us|pos5=sup",
+            "p6": "PrimeEvil|p6flag=us|pos6=sup",
+            "p7": "V2BE|p7flag=us|pos7=sup",
+            "qualifier": "[[ESC/2023/Qualifier|Qualifier]]",
+            "placement": "5-8"
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "April 18, 2023 - 20:00 {{Abbr/EST}}",
+            "opponent1": "{{TeamOpponent|Ball State Red|score=4}}",
+            "opponent2": "{{TeamOpponent|Northern Illinois University|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 18, 2023 - 20:00 {{Abbr/EST}}",
+            "opponent1": "{{TeamOpponent|Ohio University|score=4}}",
+            "opponent2": "{{TeamOpponent|Kent State|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 18, 2023 - 20:00 {{Abbr/EST}}",
+            "opponent1": "{{TeamOpponent|Miami University|score=4}}",
+            "opponent2": "{{TeamOpponent|University of Buffalo|score=1}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "April 18, 2023 - 20:00 {{Abbr/EST}}",
+            "opponent1": "{{TeamOpponent|Northeastern University|score=4}}",
+            "opponent2": "{{TeamOpponent|Western Michigan University|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "April 28, 2023 - 18:15 {{Abbr/EST}}",
+            "opponent1": "{{TeamOpponent|Ball State Red|score=4}}",
+            "opponent2": "{{TeamOpponent|Ohio University|score=1}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 28, 2023 - 16:00 {{Abbr/EST}}",
+            "opponent1": "{{TeamOpponent|Miami University|score=4}}",
+            "opponent2": "{{TeamOpponent|Northeastern University|score=3}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "April 29, 2023 - 17:30 {{Abbr/EST}}",
+            "opponent1": "{{TeamOpponent|Ball State Red|score=4}}",
+            "opponent2": "{{TeamOpponent|Miami University|score=0}}",
+            "optional": "R3M1="
+        }
+    ]
+}

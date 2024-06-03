@@ -1,0 +1,478 @@
+{{DISPLAYTITLE:ASUS ROG Tournament 2017 - Summer}}
+{{Infobox league
+|name=ASUS ROG Tournament 2017 - Summer
+|shortname=Summer
+|image=ASUS ROG tournament logo.png
+|icon=ASUS_ROG_tournament_logo_small.png
+|series=ASUS ROG Tournament
+|abbreviation=ASUS ROG Tournament
+|tickername=ASUS ROG - Summer
+|organizer=ASUS ROG
+|organizer-link=https://rog.asus.com/
+|sponsor=
+|type=Offline
+|country=Finland
+|city=Helsinki
+|format=
+|prizepool=
+|localcurrency=
+|prizepoolusd=9,500
+|sdate=2017-08-03
+|edate=2017-08-04
+|liquipediatier={{TierText/3}}
+|web=http://asusrogtournament.com/summer-2017
+|twitter=ROGtournament
+|twitter2=ROGNordic
+|bracket=http://asusrogtournament.com/summer-2017/groups
+|twitch=rogtournament
+|twitch2=assemblyow
+|facebook=rognordic
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=8
+}}
+{{TOClimit|3}}
+
+==About==
+
+===Location===
+*Helsinki Exhibition and Convention Centre, Helsinki, Finland.
+
+===Format===
+*'''General Rules''': Competitive Mode
+*'''Group Stage''': Double Elimination (''GSL'' format).
+**All matches are {{Abbr/Bo3}}.
+**'''Top 2''' teams of each group advance to playoffs.
+*'''Playoffs''': Single Elimination.
+**Semifinals and 3rd position are {{Abbr/Bo3}}.
+**Grand Finals are {{Abbr/Bo5}}.
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard|lang=Finland
+|position=Commentator
+|b1=Tombha|b1name=Tomi Rinne|b1flag=fi
+|b2=ZeiZei|b2name=Juha-Pekka Joutsenlahti|b2flag=fi
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=Jason Kaplan|b1name=|b1flag=
+|b2=hexagrams|b2name=|b2flag=
+}}
+{{box|end|padding=2em}}
+
+==Prize Pool==
+$9,500 {{Abbr/USD}} are spread among the teams as seen below:
+{{prize pool start|localcurrency=|cutafter=4}}
+{{prize pool slot|place=1 |usdprize=5,000|team gigantti|lastvs1=gamersorigin|lastscore1= 3|lastvsscore1= 0}}
+{{prize pool slot|place=2 |usdprize=2,500|gamersorigin|lastvs1=team gigantti|lastscore1= 0|lastvsscore1= 3}}
+{{prize pool slot |place=3-4 |usdprize=1,000
+|helsinki reds|lastvs1=gamersorigin|lastscore1= 1|lastvsscore1=2
+|ence esports|lastvs2=team gigantti|lastscore2= 1|lastvsscore2=2
+}}
+{{prize pool slot|place=5-6 |usdprize=0|date=2017-08-03
+|nyyrikki|wdl1=1/-/2
+|boom esports|wdl2=1/-/2
+}}
+{{prize pool slot|place=7-8 |usdprize=0|date=2017-08-03
+|aces|wdl1=0/-/2
+|rynnäkköviikset|wdl2=0/-/2
+}}
+{{Prize pool end}}
+<div style="clear:both"></div>
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Team Gigantti
+|image=
+|notes=1,3
+|p1=Davin |pos1=dps
+|p2=LiNkzr |pos2=dps
+|p3=zappis |pos3=flex
+|p4=Fragi |pos4=tank
+|p5=BigG00se |pos5=sup
+|p6=zuppehw |pos6=sup
+|c=Seita|cflag=fi
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ENCE eSports
+|image=
+|p1=BAITO|p1flag=finland |pos1=dps
+|p2=rCk|p2flag=finland |pos2=dps
+|p3=Cali|p3flag=finland |pos3=flex
+|p4=lhcloudy |pos4=tank
+|p5=Trickwide |pos5=sup
+|p6=Ripa|p6flag=finland |pos6=sup
+|c=elfi|cflag=finland
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Helsinki REDS
+|image=
+|p1=Exceed|p1flag=fi|pos1=dps
+|p2=Woomera|p2flag=fi|pos2=flex
+|p3=prettyWise|p3flag=fi|pos3=flex
+|p4=Ruape|p4flag=fi|pos4=tank
+|p5=BBR|p5flag=fi|pos5=sup
+|p6=Kryma|p6flag=fi|pos6=sup
+|c=Nihvu|cflag=fi
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=GamersOrigin
+|image=
+|p1=DixxyDix|p1flag=fr|pos1=dps
+|p2=hqrdest|p2flag=fr|pos2=dps
+|p3=Poko|p3flag=fr|p3link=Poko (French player)|pos3=flex
+|p4=BenBest|p4flag=fr|pos4=tank
+|p5=Hyp|p5flag=fr|pos5=sup
+|p6=Noki|p6flag=fr|pos6=sup
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Boom eSports
+|image=BoomeSports.png
+|p1=Eddy|p1flag=ee|pos1=dps
+|p2=Yoko|p2flag=ee|pos2=dps
+|p3=Jannukaz |p3flag=ee|pos3=flex
+|p4=ThaPhoenix|p4flag=ee|pos4=tank
+|p5=ZiCdaMASTA |p5flag=ee|pos5=sup
+|p6=Paandee |p6flag=ee|pos6=sup
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Aces
+|image=Ässät AcesLogo.png
+|p1=Ronski |p1flag=fi|pos1=dps
+|p2=Ashieli |p2flag=fi|pos2=flex
+|p3=KarvaRausku |p3flag=fi|pos3=flex
+|p4=Thedesolator |p4flag=fi|pos4=tank
+|p5=MrHamster |p5flag=fi|pos5=sup
+|p6=Zhaipaa |p6flag=fi|pos6=sup
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Rynnäkköviikset
+|image=Rynnakkoviikset logo.png
+|p1=Kauko |p1flag=fi|pos1=dps
+|p2=Zagaz |p2flag=fi|pos2=flex
+|p3=Fishir |p3flag=fi|pos3=flex
+|p4=Love |p4flag=fi|pos4=tank|p4link=Love (Finnish player)
+|p5=pave |p5flag=fi|pos5=sup
+|p6=Anatec |p6flag=fi|pos6=sup
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NYYRIKKI Esports
+|image=NYYRIKKI logo.png 
+|notes=2
+|p1=Astt |p1flag=fi|pos1=dps
+|p2=baba |p2flag=fi|pos2=dps
+|p3=tonder |p3flag=fi|pos3=flex
+|p4=twidi |p4flag=fi|pos4=tank
+|p5=tappomasa |p5flag=fi|pos5=sup
+|p6=perry |p6flag=fi|pos6=sup
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|end}}
+
+*<sup>1</sup> <small> [[Rest in Pyjamas]] replaces {{player|kyynel|flag=fi}} with {{player|BigG00se|flag=fi}}.</small>
+*<sup>2</sup> <small> [[Team TBA]] reveals its name: [[NYYRIKKI Esports]].</small>
+*<sup>3</sup> <small> [[Team Gigantti]] signs [[Rest in Pyjamas]].</small><ref name="Team Gigantti">[https://twitter.com/TeamGigantti/status/892758095830581248 Team Gigantti sign Rest in Pyjamas]</ref>
+
+==Results==
+===Group Stage===
+{{Toggle group start|state=show}}
+{{box|start|padding=2em}}
+===={{HiddenSort|Group A}}====
+{{GroupTableStart| Group A |width=425px
+|date=
+|stream=
+|lrthread=
+|finished=
+|vod1=
+|vod2=
+|vod3=
+|vod4=
+|vod5=
+}}
+{{GroupTableSlot| {{Team|gamersorigin}} |place=1|win_m=2|lose_m=0|win_r=4|lose_r=1|diff=|bg=up}} 
+{{GroupTableSlot| {{Team|ence esports}} |place=2|win_m=2|lose_m=1|win_r=5|lose_r=2|diff=|bg=up}}
+{{GroupTableSlot| {{Team|boom esports}} |place=3|win_m=1|lose_m=2|win_r=2|lose_r=5|diff=|bg=down}}
+{{GroupTableSlot| {{Team|rynnäkköviikset}} |place=4|win_m=0|lose_m=2|win_r=1|lose_r=4|diff=|bg=down}}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=KJqzwG76v8|title=Group A matches |width=425px
+|match1={{MatchMaps
+|stream=
+|date=August 3, 2017
+|finished=true
+|team1=gamersorigin|games1=2
+|team2=boom esports|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=August 3, 2017 - 14:00 {{Abbr/EEST}}
+|finished=true
+|map1=Nepal|map1score=3-0|map1win=1
+|map2=Hollywood|map2score=2-1|map2win=1
+|overgg=4990
+|pf=32288
+|wl=1608
+}}
+}}
+|match2={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=ence esports|games1=2
+|team2=rynnäkköviikset|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=August 3, 2017 - 14:00 {{Abbr/EEST}}
+|finished=true
+|map1=Numbani|map1score=1-0|map1win=1
+|map2=Nepal|map2score=3-0|map2win=1
+|overgg=4991
+|pf=32289
+|wl=1609
+}}
+}}
+|match3={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=ence esports|games1=1
+|team2=gamersorigin|games2=2
+|winner=2
+|details={{BracketMatchSummary
+|date=August 3, 2017 - 15:30 {{Abbr/EEST}}
+|finished=true
+|map1=King's Row|map1score=2-3|map1win=2
+|map2=Hollywood|map2score=3-0|map2win=1
+|map3=Nepal|map3score=0-3|map3win=2
+|overgg=4994
+|pf=28872
+|wl=1610
+}}
+}}
+|match4={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=rynnäkköviikset|games1=1
+|team2=boom esports|games2=2
+|winner=2
+|details={{BracketMatchSummary
+|date=August 3, 2017 - 15:30 {{Abbr/EEST}}
+|finished=true
+|map1=Hollywood|map1score=4-3|map1win=1
+|map2=Nepal|map2score=2-3|map2win=2
+|map3=Route 66|map3score=3-4|map3win=2
+|overgg=4995
+|pf=28873
+|wl=1611
+}}
+}}
+|match5={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=ence esports|games1=2
+|team2=boom esports|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=August 3, 2017 - 17:00 {{Abbr/EEST}}
+|finished=true
+|map1=Route 66|map1score=4-3|map1win=1
+|map2=Lijiang Tower|map2score=3-0|map2win=1
+|overgg=4999
+|pf=28874
+|wl=1612
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Group B}}====
+{{GroupTableStart| Group B |width=425px
+|date=
+|stream=
+|lrthread=
+|finished=
+|vod1=
+|vod2=
+|vod3=
+|vod4=
+|vod5=
+}}
+{{GroupTableSlot| {{Team|team gigantti}} |place=1|win_m=2|lose_m=0|win_r=4|lose_r=0|diff=+4|bg=up}} 
+{{GroupTableSlot| {{Team|helsinki reds}} |place=2|win_m=2|lose_m=1|win_r=4|lose_r=4|diff=0|bg=up}}
+{{GroupTableSlot| {{Team|nyyrikki}} |place=3|win_m=1|lose_m=2|win_r=4|lose_r=4|diff=0|bg=down}}
+{{GroupTableSlot| {{Team|aces}} |place=4|win_m=0|lose_m=2|win_r=0|lose_r=4|diff=-4|bg=down}}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=lw8ISAYhgX|title=Group B matches |width=425px
+|match1={{MatchMaps
+|stream=
+|date=August 3, 2017
+|finished=
+|team1=team gigantti|games1=2
+|team2=aces|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=August 3, 2017 - 20:00 {{Abbr/EEST}}
+|finished=true
+|map1=Lijiang Tower|map1score=3-0|map1win=1
+|map2=Numbani|map2score=3-0|map2win=1
+|map3=|map3score=|map3win=
+|overgg=4992
+|pf=32290
+|wl=1613
+}}
+}}
+|match2={{MatchMaps
+|stream=
+|date=
+|finished=
+|team1=helsinki reds|games1=2
+|team2=nyyrikki|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=August 3, 2017 - 20:00 {{Abbr/EEST}}
+|finished=true
+|map1=Hollywood|map1score=3-2|map1win=1
+|map2=Ilios|map2score=1-3|map2win=2
+|map3=Watchpoint: Gibraltar|map3score=2-1|map3win=1
+|overgg=4993
+|pf=32291
+|wl=1614
+}}
+}}
+|match3={{MatchMaps
+|stream=
+|date=
+|finished=
+|team1=gigantti|games1=2
+|team2=helsinki reds|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=August 3, 2017 - 21:30 {{Abbr/EEST}}
+|finished=true
+|map1=Numbani|map1score=5-4|map1win=1
+|map2=Ilios|map2score=3-0|map2win=1
+|map3=|map3score=|map3win=
+|overgg=4996
+|pf=28878
+|wl=1615
+}}
+}}
+|match4={{MatchMaps
+|stream=
+|date=
+|finished=
+|team1=aces|games1=0
+|team2=nyyrikki|games2=2
+|winner=2
+|details={{BracketMatchSummary
+|date=August 3, 2017 - 22:40 {{Abbr/EEST}}
+|finished=true
+|map1=Lijiang Tower|map1score=0-3|map1win=2
+|map2=Hollywood|map2score=1-3|map2win=2
+|map3=|map3score=|map3win=
+|overgg=4997
+|pf=28879
+|wl=1616
+}}
+}}
+|match5={{MatchMaps
+|stream=
+|date=
+|finished=
+|team1=helsinki reds|games1=2
+|team2=nyyrikki|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=August 3, 2017 - 23:40 {{Abbr/EEST}}
+|finished=true
+|map1=Lijiang Tower|map1score=3-2|map1win=1
+|map2=Dorado|map2score=1-2|map2win=2
+|map3=Nepal|map3score=3-1|map3win=1
+|overgg=4998
+|pf=28875
+|wl=1617
+}}
+}}
+}}
+{{Toggle group end}}
+{{box|end|padding=2em}}
+
+===Playoffs===
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=f3B1CLv4qV
+|R1=Semifinals (Bo3)
+|R2=Finals (Bo5)
+<!-- SEMIFINALS -->
+|R1D1team=gamersorigin |R1D1score= 2|R1D1win=1
+|R1D2team= helsinki reds|R1D2score= 1|R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=August 4, 2017 - 21:00 {{Abbr/EEST}}
+|finished=true
+|vod=https://twitch.tv/videos/164410618?t=16m22s
+|map1=Numbani|map1score=1-2|map1win=2
+|map2=Nepal|map2score=3-0|map2win=1
+|map3=Hollywood|map3score=3-2|map3win=1
+|overgg=5000
+|pf=28880
+|wl=1618
+}}
+|R1D3team=team gigantti|R1D3score= 2|R1D3win=1
+|R1D4team=ence esports |R1D4score= 1|R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=August 4, 2017 - 22:20 {{Abbr/EEST}}
+|finished=true
+|vod=https://twitch.tv/videos/164410618?t=1h44m33s
+|map1=Lijiang Tower|map1score=3-1|map1win=1
+|map2=Numbani|map2score=2-3|map2win=2
+|map3=Route 66|map3score=3-2|map3win=1
+|overgg=5001
+|pf=28881
+|wl=1619
+}}
+<!-- FINALS -->
+|R2W1team= gamersorigin|R2W1score= 0|R2W1win=
+|R2W2team= team gigantti|R2W2score= 3|R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=August 5, 2017 - 00:00 {{Abbr/EEST}}
+|finished=true
+|vod=https://twitch.tv/videos/164410618?t=3h27m18s
+|map1=Hollywood|map1score=0-1|map1win=2
+|map2=Ilios|map2score=0-3|map2win=2
+|map3=Dorado|map3score=1-2|map3win=2
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=5002
+|pf=28882
+|wl=1620
+}}
+}}
+
+==References==
+* {{flag/usuk}} [http://asusrogtournament.com/summer-2017 Official Announcement]
+
+{{Reflist}}

@@ -1,0 +1,181 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "Mid-America Gamers Expo 2023",
+            "shortname": "Mid-America Gamers Expo 2023",
+            "tickername": "Mid-America Gamers Expo 2023",
+            "image": "Mid-America Gamers Expo lightmode.png",
+            "icon": "Mid-America Gamers Expo lightmode.png",
+            "organizer": "MAGE",
+            "sponsor": "[https://iowawestfoundation.org/ Iowa West Foundation]",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Council Bluffs, IA",
+            "venue": "Mid-America Center",
+            "venuelink": "https://en.wikipedia.org/wiki/Mid-America_Center",
+            "game": "overwatch2",
+            "prizepoolusd": "2000",
+            "date": "2023-09-10",
+            "format": "Double Elimination",
+            "web": "https://mageiowa.com/",
+            "twitch": "",
+            "discord": "RU2HwhqgEe",
+            "youtube": "",
+            "rulebook": "",
+            "bracket": "https://www.start.gg/tournament/mage-iowa-2023/event/overwatch-2",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Bellevue University",
+            "p1": "Vita|pos1=dps",
+            "p2": "Stone|pos2=dps",
+            "p3": "AV2RY|pos3=tank",
+            "p4": "Karova|pos4=sup",
+            "p5": "JoseM|p5flag=us|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "PearPod|t2c1flag=us|t2c1pos=coach"
+        },
+        {
+            "team": "WINTON",
+            "p1": "Sway|p1flag=us|pos1=",
+            "p2": "sometime|p2flag=us|pos2=",
+            "p3": "heisenberg|p3flag=us|pos3=",
+            "p4": "Lone|p4flag=us|pos4=",
+            "p5": "MCSneakyTrtl|p5flag=us|pos5=",
+            "p6": "Benhdbkiller|p6flag=us|pos6="
+        },
+        {
+            "team": "Ashland University",
+            "p1": "Maxdubsteped|p1flag=us|pos1=dps",
+            "p2": "b1h|p2flag=us|pos2=dps",
+            "p3": "Vasuki|p3flag=us|pos3=tank",
+            "p4": "Memes|p4flag=us|pos4=sup",
+            "p5": "Revalia|p5flag=us|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Chance|t2c1flag=us|t2c1pos=coach|t2c1link=Chance (American Coach)"
+        },
+        {
+            "team": "Gretna Dragons",
+            "p1": "Meek|p1flag=us|pos1=",
+            "p2": "Personman|p2flag=us|pos2=",
+            "p3": "Fancy|p3flag=us|pos3=",
+            "p4": "RarwImmaBear|p4flag=us|pos4=",
+            "p5": "Roose|p5flag=us|pos5="
+        },
+        {
+            "team": "Iowa State Varsity",
+            "p1": "Buckethead|p1flag=kw|pos1=dps",
+            "p2": "Liftkey|p2flag=us|pos2=dps",
+            "p3": "Timoteo|p3flag=us|pos3=tank",
+            "p4": "Spike|p4flag=us|pos4=tank|p4link=Spike2",
+            "p5": "Zeb|p5flag=|pos5=sup",
+            "p6": "xItzSamm|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Iowa Western Community College",
+            "p1": "Temperence|p1flag=us|pos1=",
+            "p2": "Toland|p2flag=us|pos2=",
+            "p3": "Getsuga|p3flag=us|pos3=",
+            "p4": "SilentStorm613|p4flag=us|pos4=",
+            "p5": "Keylime|p5flag=|pos5="
+        },
+        {
+            "team": "Coe College",
+            "p1": "Neeko|p1flag=|pos1=",
+            "p2": "Kellydud|p2flag=us|pos2=",
+            "p3": "earf|p3flag=|pos3=",
+            "p4": "vee|p4flag=us|pos4=|p4link=Vee (American Player)",
+            "p5": "RaiLgun|p5flag=us|pos5=",
+            "p6": "Kacyrian|p6flag=|pos6="
+        },
+        {
+            "team": "Hospers Homies",
+            "p1": "Hemizphere|p1flag=us|pos1=",
+            "p2": "Ronin|p2link=Ronin (American player)|p2flag=us|pos2=",
+            "p3": "HollyWood|p3flag=us|pos3=",
+            "p4": "Qwerty|p4flag=us|pos4=",
+            "p5": "LBVDBLVDonDVD|p5flag=us|pos5=",
+            "p6": "Fiddle|p6flag=us|pos6="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bellevue University|score=W}}",
+            "opponent2": "{{TeamOpponent|WINTON|score=FF}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ashland University|score=2}}",
+            "opponent2": "{{TeamOpponent|Gretna Dragons|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Iowa State Varsity|score=2}}",
+            "opponent2": "{{TeamOpponent|Iowa Western Community College|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Coe College|score=1}}",
+            "opponent2": "{{TeamOpponent|Hospers Homies|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bellevue University|score=0}}",
+            "opponent2": "{{TeamOpponent|Ashland University|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Iowa State Varsity|score=2}}",
+            "opponent2": "{{TeamOpponent|Hospers Homies|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ashland University|score=0}}",
+            "opponent2": "{{TeamOpponent|Iowa State Varsity|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bellevue University|score=2}}",
+            "opponent2": "{{TeamOpponent|Hospers Homies|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

@@ -1,0 +1,966 @@
+{{Open Division Navbox}}
+{{DISPLAYTITLE:Overwatch Championship Series 2017 - Season 1}}
+{{Infobox league
+|name=Overwatch Championship Series 2017 - Season 1
+|shortname=OCS - Season 1
+|tickername=OCS - Season 1
+|image=Overwatch Championship Series.png
+|icon=OCS-icon.png
+|series=OCS
+|organizer=Blizzard
+|organizer2=RIZeST
+|organizer2-link=http://www.rizestinc.com/
+|sponsor=[https://www.logicool.co.jp/ja-jp Logitech]<br>[http://jp.ext.hp.com/campaign/personal/others/2016omen_gaming OMEN by HP]
+|country=Japan
+|type=Online
+|format=Swiss System<br>Single Elimination
+|patch=1.15
+|sdate=2017-08-06
+|edate=2017-09-02
+|liquipediatier=4
+|twitch=playoverwatchjp
+|web=http://www.overwatchopen.jp/
+|twitter=jpPlayOverwatch
+|bracket=https://battlefy.com/2017-overwatch-championship-series/2017-overwatch-championship-series/597e8b957028fd032e96703a/stage/59842de21493e3033305c54d/bracket/1
+|bracket2=https://battlefy.com/2017-overwatch-championship-series/2017-overwatch-championship-series/597e8b957028fd032e96703a/stage/59992cc4c8a782033c9bcc7a/bracket/
+|team_number=10
+|previous=
+|next=
+}}
+
+==About==
+===Format===
+*'''Group Stage''': Swiss System
+**All matches are {{Abbr/Bo5}}
+**'''Top 8''' advance to Playoffs
+*'''Playoffs''': Single Elimination
+**All matches are {{Abbr/Bo5}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation ({{Abbr/Bo5}})
+!width="480" colspan=6|Available Maps
+|-
+![[Assault]]
+![[Control]]
+![[Escort]]
+![[Hybrid]]
+|-
+!1st set
+|''[[Control]] map''
+|width="130" rowspan=5|[[Horizon Lunar Colony]]<br><br>[[Temple of Anubis]]
+|width="130" rowspan=5|[[Ilios]]<br><br>[[Lijiang Tower]]<br><br>[[Oasis]]
+|width="130" rowspan=5|[[Dorado]]<br><br>[[Watchpoint: Gibraltar]]
+|width="130" rowspan=5|[[Eichenwalde]]<br><br>[[Hollywood]]<br><br>[[King's Row]]
+|-
+!2nd set
+|''[[Escort]] map''
+|-
+!3rd set
+|''[[Assault]] map''
+|-
+!4th set
+|''[[Hybrid]] map''
+|-
+!5th set
+|''[[Control]] map''
+|-
+!width="160"  colspan=2|Tiebreaker
+|width="160" colspan=4|{{Abbr/Bo3}} Match on [[Oasis]]
+|}
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Abara|b1name=|b1flag=jp
+|b2=Mizuiro|b2name=|b2flag=jp
+}}
+
+==Prize Pool==
+{{box|start|padding=2em}}
+{{prize pool start|noprize=y|points=seed}}
+{{prize pool slot|place=1|points=[[Tokyo_Game_Show/2017/Show_Match|TGS 2017]]|7th heaven|lastvs1=rpg-k|lastscore1=3|lastvsscore1=2}}
+{{prize pool slot|place=2|rpg-k|lastvs1=7th heaven|lastscore1=2|lastvsscore1=3}}
+{{prize pool slot|place=3-4
+|cyclops|lastvs1=rpg-k|lastscore1=1|lastvsscore1=3
+|crest gaming.zero|lastvs2=7th heaven|lastscore2=1|lastvsscore2=3
+}}
+{{prize pool slot|place=5-8
+|spring |lastvs1=cyclops |lastscore1=0|lastvsscore1=3
+|dtn.gold|lastvs2=rpg-k|lastscore2=0|lastvsscore2=3
+|team encount ng|lastvs3=7th heaven|lastscore3=2|lastvsscore3=3
+|green leaves|lastvs4=crest gaming.zero|lastscore4=0|lastvsscore4=3
+}} 
+{{prize pool slot|place=9  |naturals hokkaido|wdl1=1/-/5|date=2017-08-20}}
+{{prize pool slot|place=10|guidedboneregeration|wdl2=0/-/6|date=2017-08-20}}
+{{Prize pool end}}
+{{Box|break|padding=2em}}
+{{Open Division prizes}}
+{{box|end|padding=2em}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em|max-width=1300px}}
+{{TeamCard
+|team=7th heaven
+|p1=ClutchFi |p1flag=jp|pos1=dps
+|p2=rion |p2flag=jp|pos2=dps
+|p3=Sally |p3flag=jp|pos3=flex
+|p4=ちまちん |p4flag=jp|pos4=tank
+|p5=PkmN |p5flag=jp|pos5=sup
+|p6=Yone |p6flag=jp|pos6=sup
+|c=hosuke |cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Crest Gaming.Zero
+|image=Crest Gaminglogo.png
+|p1=BaLDeL |p1flag=jp|pos1=dps
+|p2=dante |p2flag=jp|pos2=dps |p2link=dante (Japanese player)
+|p3=Neru |p3flag=jp|pos3=flex
+|p4=Rimlime |p4flag=jp|pos4=tank
+|p5=Fastinago |p5flag=jp|pos5=sup
+|p6=Thundermaw |p6flag=jp|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=CYCLOPS athlete gaming
+|p1=HexBell |p1flag=jp|pos1=dps
+|p2=Nico |p2flag=jp|pos2=dps
+|p3=Sa1nt |p3flag=jp|pos3=flex
+|p4=tbnPeltor |p4flag=jp|pos4=tank
+|p5=Bep |p5flag=jp|pos5=sup
+|p6=Shikumun |p6flag=jp|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=DeToNator.GOLD
+|p1=AmeKen |p1flag=jp|pos1=dps
+|p2=Saih4tE |p2flag=jp|pos2=dps
+|p3=yoshiharu |p3flag=jp|pos3=flex
+|p4=siorin |p4flag=jp|pos4=tank
+|p5=dohteloff |p5flag=jp|pos5=sup
+|p6=space |p6flag=jp|pos6=sup
+|c=delave
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=TEAM ENCOUNT NG
+|image=Team Encount logo.png
+|p1=mafin |p1flag=jp|pos1=dps
+|p2=How2 |p2flag=jp|pos2=dps
+|p3=ValerieN |p3flag=jp|pos3=flex
+|p4=mason |p4flag=jp|pos4=tank
+|p5=YooN|p5flag=jp|pos5=sup
+|p6=roadie |p6flag=jp|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=GuidedBoneRegeration
+|image=
+|p1=ArtiFex |p1flag=jp|pos1=
+|p2=Misa |p2flag=jp|pos2=
+|p3=Jazzy |p3flag=jp|pos3=
+|p4=HYT |p4flag=jp|pos4=
+|p5=WereWolf |p5flag=jp|pos5=
+|p6=Kyrielight |p6flag=jp|pos6=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Green Leaves
+|p1=Nypro|p1flag=jp|pos1=dps
+|p2=hoshimi |p2flag=jp|pos2=dps
+|p3=pocky |p3flag=jp|pos3=flex
+|p4=gappo3 |p4flag=jp|pos4=tank
+|p5=かわじー|p5flag=jp|pos5=sup
+|p6=PangTong  |p6flag=jp|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Naturals Hokkaido
+|p1=reayfia |p1flag=jp|pos1=dps
+|p2=Xeraphy |p2flag=jp|pos2=dps
+|p3=Ajun |p3flag=jp|pos3=flex
+|p4=USA |p4flag=jp|pos4=tank
+|p5=Gizzard |p5flag=jp|pos5=sup
+|p6=Ryoya |p6flag=jp|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=RPG-KINGDOM
+|p1=Llydia |p1flag=jp|pos1=dps
+|p2=Ynnnnnnn |p2flag=jp|pos2=dps
+|p3=DeXo |p3flag=jp|pos3=flex
+|p4=ろく６９３５ |p4flag=jp|pos4=tank
+|p5=Lasty |p5flag=jp|pos5=sup
+|p6=Yoz |p6flag=jp|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=SPRING
+|image=SPRING_logo.png
+|p1=ALPHARDUNrnO |p1flag=jp|pos1=dps
+|p2=SixVII |p2flag=jp|pos2=dps
+|p3=flying |p3flag=jp|pos3=flex
+|p4=Scarfaze |p4flag=jp|pos4=tank
+|p5=Seth |p5flag=jp|pos5=sup
+|p6=letswise |p6flag=jp|pos6=sup
+|qualifier=
+}}
+{{box|end}}
+
+==Results==
+===Swiss Group===
+{{SwissTableStart|rounds=6}}
+{{SwissTableRow |place=1 |cyclops |win_m=6 |lose_m=0 |win_g=18 |lose_g=4 |diff=+14
+|opponent1={{TeamIcon|naturals hokkaido}} |result1=win |score1=3-0
+|opponent2={{TeamIcon|crest gaming.zero}} |result2=win |score2=3-1
+|opponent3={{TeamIcon|dtn.gold}} |result3=win |score3=3-1
+|opponent4={{TeamIcon|7th heaven}} |result4=win |score4=3-1
+|opponent5={{TeamIcon|rpg-k}} |result5=win |score5=3-1
+|opponent6={{TeamIcon|green leaves}} |result6=win |score6=3-0
+}}
+{{SwissTableRow |place=2 |7th heaven |win_m=5 |lose_m=1 |win_g=16 |lose_g=5 |diff=+11
+|opponent1={{TeamIcon|gbr}} |result1=win |score1=3-0
+|opponent2={{TeamIcon|team encount ng}} |result2=win |score2=3-0
+|opponent3={{TeamIcon|naturals hokkaido}} |result3=win |score3=3-0
+|opponent4={{TeamIcon|cyclops}} |result4=lose |score4=1-3
+|opponent5={{TeamIcon|crest gaming.zero}} |result5=win |score5=3-2
+|opponent6={{TeamIcon|rpg-k}} |result6=win |score6=3-0
+}}
+{{SwissTableRow |place=3 |crest gaming.zero |win_m=4 |lose_m=2 |win_g=15 |lose_g=10 |diff=+5
+|opponent1={{TeamIcon|rpg-kingdom}} |result1=win |score1=3-2
+|opponent2={{TeamIcon|cyclops}} |result2=lose |score2=1-3
+|opponent3={{TeamIcon|gbr}} |result3=win |score3=3-0
+|opponent4={{TeamIcon|naturals hokkaido}} |result4=win |score4=3-0
+|opponent5={{TeamIcon|7th heaven}} |result5=lose |score5=2-3
+|opponent6={{TeamIcon|team encount ng}} |result6=win |score6=3-2
+}}
+{{SwissTableRow |place=4 |dtn.gold |win_m=4 |lose_m=2 |win_g=14 |lose_g=8 |diff=+6
+|opponent1={{TeamIcon|spring}} |result1=win |score1=3-0
+|opponent2={{TeamIcon|green leaves}} |result2=win |score2=3-0
+|opponent3={{TeamIcon|cyclops}} |result3=lose |score3=1-3
+|opponent4={{TeamIcon|rpg-kingdom}} |result4=lose |score4=1-3
+|opponent5={{TeamIcon|team encount ng}} |result5=win |score5=3-2
+|opponent6={{TeamIcon|gbr}} |result6=win |score6=3-0
+}}
+{{SwissTableRow |place=5 |rpg-kingdom |win_m=3 |lose_m=3 |win_g=12 |lose_g=10 |diff=+2
+|opponent1={{TeamIcon|crest gaming.zero}} |result1=lose |score1=2-3
+|opponent2={{TeamIcon|spring}} |result2=win |score2=3-0
+|opponent3={{TeamIcon|green leaves}} |result3=win |score3=3-0
+|opponent4={{TeamIcon|dtn.gold}} |result4=win |score4=3-1
+|opponent5={{TeamIcon|cyclops}} |result5=lose |score5=1-3
+|opponent6={{TeamIcon|7th heaven}} |result6=lose |score6=0-3
+}}
+{{SwissTableRow |place=6 |green leaves |win_m=3 |lose_m=3 |win_g=9 |lose_g=11 |diff=-2
+|opponent1={{TeamIcon|team encount ng}} |result1=win |score1=3-2
+|opponent2={{TeamIcon|dtn.gold}} |result2=lose |score2=0-3
+|opponent3={{TeamIcon|rpg-kingdom}} |result3=lose |score3=0-3
+|opponent4={{TeamIcon|spring}} |result4=win |score4=3-0
+|opponent5={{TeamIcon|naturals hokkaido}} |result5=win |score5=3-0
+|opponent6={{TeamIcon|cyclops}} |result6=lose |score6=0-3
+}}
+{{SwissTableRow |place=7 |team encount ng |win_m=2 |lose_m=4 |win_g=12 |lose_g=14 |diff=-2
+|opponent1={{TeamIcon|green leaves}} |result1=lose |score1=2-3
+|opponent2={{TeamIcon|7th heaven}} |result2=lose |score2=0-3
+|opponent3={{TeamIcon|spring}} |result3=win |score3=3-2
+|opponent4={{TeamIcon|gbr}} |result4=win |score4=3-0
+|opponent5={{TeamIcon|dtn.gold}} |result5=lose |score5=2-3
+|opponent6={{TeamIcon|crest gaming.zero}} |result6=lose |score6=2-3
+}}
+{{SwissTableRow |place=8 |spring |win_m=2 |lose_m=4 |win_g=8 |lose_g=12 |diff=-4
+|opponent1={{TeamIcon|detonator.gold}} |result1=lose |score1=0-3
+|opponent2={{TeamIcon|rpg-kingdom}} |result2=lose |score2=0-3
+|opponent3={{TeamIcon|team encount ng}} |result3=lose |score3=2-3
+|opponent4={{TeamIcon|green leaves}} |result4=lose |score4=0-3
+|opponent5={{TeamIcon|gbr}} |result5=win |score5=3-0
+|opponent6={{TeamIcon|naturals hokkaido}} |result6=win |score6=3-0
+}}
+{{SwissTableRow |place=9 |naturals hokkaido |win_m=1 |lose_m=5 |win_g=3 |lose_g=15 |diff=-12
+|opponent1={{TeamIcon|cyclops}} |result1=lose |score1=0-3
+|opponent2={{TeamIcon|gbr}} |result2=win |score2=3-0
+|opponent3={{TeamIcon|7th heaven}} |result3=lose |score3=0-3
+|opponent4={{TeamIcon|crest gaming.zero}} |result4=lose |score4=0-3
+|opponent5={{TeamIcon|green leaves}} |result5=lose |score5=0-3
+|opponent6={{TeamIcon|spring}} |result6=lose |score6=0-3
+}}
+{{SwissTableRow |place=10 |gbr |win_m=0 |lose_m=6 |win_g=0 |lose_g=18 |diff=-18
+|opponent1={{TeamIcon|7th heaven}} |result1=lose |score1=0-3
+|opponent2={{TeamIcon|naturals hokkaido}} |result2=lose |score2=0-3
+|opponent3={{TeamIcon|crest gaming.zero}} |result3=lose |score3=0-3
+|opponent4={{TeamIcon|team encount ng}} |result4=lose |score4=0-3
+|opponent5={{TeamIcon|spring}} |result5=lose |score5=0-3
+|opponent6={{TeamIcon|detonator.gold}} |result6=lose |score6=0-3
+}}
+{{SwissTableEnd}}
+
+===Detailed Results===
+{{Toggle group start|state=show}}
+====Day 1====
+{{Toggle group start|state=show}}
+{{box|start|padding=2em}}
+====={{HiddenSort|Round 1}}=====
+{{LegacyMatchList|id=ShoeOuisKe|width=350px|title=Round 1 Matches|hide=true
+|match1={{MatchMaps
+|date=August 6, 2017 - 18:30 {{Abbr/JST}}|finished=true
+|team1=rpg-kingdom |team2=crest gaming.zero
+|winner=2
+|games1=2 |games2=3
+|details={{BracketMatchSummary 
+|date=August 6, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1743
+}}
+}}
+|match2={{MatchMaps
+|team1=detonator.gold |team2=spring
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 6, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1744
+}}
+}}
+|match3={{MatchMaps
+|team1=cyclops |team2=naturals hokkaido
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 6, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1745
+}}
+}}
+|match4={{MatchMaps
+|team1=gbr |team2=7th heaven
+|winner=2
+|games1=0 |games2=3
+|details={{BracketMatchSummary 
+|date=August 6, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|comment=[[GuidedBoneRegeration]] forfeited match.
+|wl=1746
+}}
+}}
+|match5={{MatchMaps
+|team1=team encount ng|team2=green leaves
+|winner=2
+|games1=2 |games2=3
+|details={{BracketMatchSummary 
+|date=August 6, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=Lijiang Tower|map1score=3-1|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=3-2|map2win=1
+|map3=Temple of Anubis|map3score=3-4|map3win=2
+|map4=King's Row|map4score=1-2|map4win=2
+|map5=Ilios|map5score=1-3|map5win=2
+|wl=1747
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Round 2}}=====
+{{LegacyMatchList|id=JkWPgZ47aX|width=350px|title=Round 2 Matches|hide=true
+|match1={{MatchMaps
+|date=August 6, 2017 - 21:00 {{Abbr/JST}}|finished=true
+|team1=green leaves |team2=dtn.gold
+|winner=2
+|games1=0 |games2=3
+|details={{BracketMatchSummary 
+|date=August 6, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1748
+}}
+}}
+|match2={{MatchMaps
+|team1=cyclops  |team2=crest gaming.zero
+|winner=1
+|games1=3|games2=1
+|details={{BracketMatchSummary 
+|date=August 6, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=Lijiang Tower|map1score=1-3|map1win=2
+|map2=Watchpoint: Gibraltar|map2score=1-0|map2win=1
+|map3=Horizon Lunar Colony|map3score=3-2|map3win=1
+|map4=King's Row|map4score=5-4|map4win=1
+|map5=|map5score=|map5win=
+|wl=1749
+}}
+}}
+|match3={{MatchMaps
+|team1=7th heaven |team2=team encount ng
+|winner=1
+|games1=3|games2=0
+|details={{BracketMatchSummary 
+|date=August 6, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1750
+}}
+}}
+|match4={{MatchMaps
+|team1=rpg-kingdom |team2=spring
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 6, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1751
+}}
+}}
+|match5={{MatchMaps
+|team1=naturals hokkaido|team2=gbr
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 6, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|comment=[[GuidedBoneRegeration]] forfeited match.
+|wl=1752
+}}
+}}
+}}
+{{box|end|padding=2em}}
+{{Toggle group end}}
+
+====Day 2====
+{{Toggle group start|state=show}}
+{{box|start|padding=2em}}
+====={{HiddenSort|Round 3}}=====
+{{LegacyMatchList|id=l6AyTGgO29|width=350px|title=Round 3 Matches|hide=true
+|match1={{MatchMaps
+|date=August 13, 2017 - 18:30 {{Abbr/JST}}|finished=true
+|team1=dtn.gold |team2=cyclops
+|winner=2
+|games1=1 |games2=3
+|details={{BracketMatchSummary 
+|date=August 13, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=Lijiang Tower|map1score=1-3|map1win=2
+|map2=Dorado|map2score=3-2|map2win=1
+|map3=Horizon Lunar Colony|map3score=1-2|map3win=2
+|map4=Hollywood|map4score=0-2|map4win=2
+|wl=1753
+}}
+}}
+|match2={{MatchMaps
+|team1=7th heaven |team2=naturals hokkaido
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 13, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1754
+}}
+}}
+|match3={{MatchMaps
+|team1=green leaves|team2=rpg-k
+|winner=2
+|games1=0 |games2=3
+|details={{BracketMatchSummary 
+|date=August 13, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1755
+}}
+}}
+|match4={{MatchMaps
+|team1=crest gaming.zero |team2=gbr
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 13, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|comment=[[GuidedBoneRegeration]] forfeited match.
+|wl=1756
+}}
+}}
+|match5={{MatchMaps
+|team1=spring|team2=team encount ng
+|winner=2
+|games1=2 |games2=3
+|details={{BracketMatchSummary 
+|date=August 13, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1757
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Round 4}}=====
+{{LegacyMatchList|id=cKss9F5J1g|width=350px|title=Round 4 Matches|hide=true
+|match1={{MatchMaps
+|date=August 13, 2017 - 21:00 {{Abbr/JST}}|finished=true
+|team1=7th heaven |team2= cyclops
+|winner=2
+|games1=1 |games2=3
+|details={{BracketMatchSummary 
+|date=August 13, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1758
+}}
+}}
+|match2={{MatchMaps
+|team1=rpg-kingdom |team2=dtn.gold
+|winner=1
+|games1=3 |games2=1
+|details={{BracketMatchSummary 
+|date=August 13, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1759
+}}
+}}
+|match3={{MatchMaps
+|team1=crest gaming.zero |team2=naturals hokkaido
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 13, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=Lijiang Tower|map1score=3-1|map1win=1
+|map2=Dorado|map2score=3-2|map2win=1
+|map3=Horizon Lunar Colony|map3score=2-1|map3win=1
+|wl=1760
+}}
+}}
+|match4={{MatchMaps
+|team1=green leaves |team2=spring
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 13, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1761
+}}
+}}
+|match5={{MatchMaps
+|team1=team encount ng|team2=gbr
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 13, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|comment=[[GuidedBoneRegeration]] forfeited match.
+|wl=1762
+}}
+}}
+}}
+{{box|end}}
+{{Toggle group end}}
+
+====Day 3====
+{{Toggle group start|state=show}}
+{{box|start|padding=2em}}
+====={{HiddenSort|Round 5}}=====
+{{LegacyMatchList|id=YnUtk6PCob|width=350px|title=Round 5 Matches|hide=true
+|match1={{MatchMaps
+|date=August 20, 2017 - 18:30 {{Abbr/JST}}|finished=true
+|team1=cyclops |team2=rpg-k
+|winner=1
+|games1=3 |games2=1
+|details={{BracketMatchSummary 
+|date=August 20, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=Lijiang Tower|map1score=2-3|map1win=2
+|map2=Watchpoint: Gibraltar|map2score=1-0|map2win=1
+|map3=Temple of Anubis|map3score=2-1|map3win=1
+|map4=King's Row|map4score=3-1|map4win=1
+|wl=1972
+}}
+}}
+|match2={{MatchMaps
+|team1=7th heaven |team2= crest gaming.zero
+|winner=1
+|games1=3 |games2=2
+|details={{BracketMatchSummary 
+|date=August 20, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1973
+}}
+}}
+|match3={{MatchMaps
+|team1=green leaves |team2=naturals hokkaido
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 20, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1974
+}}
+}}
+|match4={{MatchMaps
+|team1=dtn.gold |team2= team encount ng
+|winner=1
+|games1=3 |games2=2
+|details={{BracketMatchSummary 
+|date=August 20, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1975
+}}
+}}
+|match5={{MatchMaps
+|team1=gbr|team2=spring
+|winner=2
+|games1=0 |games2=3
+|details={{BracketMatchSummary 
+|date=August 20, 2017 - 18:30 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1976
+|comment=[[GuidedBoneRegeration]] forfeited match.
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Round 6}}=====
+{{LegacyMatchList|id=w19gL8ZVpU|width=350px|title=Round 6 Matches|hide=true
+|match1={{MatchMaps
+|date=August 20, 2017 - 21:00 {{Abbr/JST}}|finished=true
+|team1=cyclops |team2=green leaves
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 20, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1977
+}}
+}}
+|match2={{MatchMaps
+|team1=7th heaven |team2=rpg-k
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 20, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=Lijiang Tower|map1score=3-2|map1win=1
+|map2=Dorado|map2score=2-1|map2win=1
+|map3=Temple of Anubis|map3score=2-1|map3win=1
+|wl=1978
+}}
+}}
+|match3={{MatchMaps
+|team1=team encount ng |team2=crest gaming.zero
+|winner=2
+|games1=2 |games2=3
+|details={{BracketMatchSummary 
+|date=August 20, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1979
+}}
+}}
+|match4={{MatchMaps
+|team1=spring |team2=naturals hokkaido
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 20, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1980
+}}
+}}
+|match5={{MatchMaps
+|team1=dtn.gold|team2=gbr
+|winner=1
+|games1=3 |games2=0
+|details={{BracketMatchSummary 
+|date=August 20, 2017 - 21:00 {{Abbr/JST}} |finished=true
+|vod=
+|stream=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|wl=1981
+|comment=[[GuidedBoneRegeration]] forfeited match.
+}}
+}}
+}}
+{{box|end}}
+{{Toggle group end}}
+{{Toggle group end}}
+
+===Playoffs===
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=FgXKQMKyvB
+|column-width=210
+<!-- QUARTERFINALS -->
+|R1D1team=cyclops |R1D1score=3 |R1D1win=1
+|R1D2team=spring |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=September 2, 2017 - 15:00 {{Abbr/JST}}
+|stream=
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|comment=[[SPRING]] forfeited match.
+|overgg=
+|pf=
+|wl=1982
+}}
+|R1D3team=dtn.gold |R1D3score=0 |R1D3win=
+|R1D4team=rpg-k |R1D4score=3 |R1D4win=1
+|R1G2details={{BracketMatchSummary 
+|date=September 2, 2017 - 15:00 {{Abbr/JST}}
+|stream=
+|finished=true
+|map1=Ilios|map1score=2-3|map1win=2
+|map2=Dorado|map2score=0-3|map2win=2
+|map3=Temple of Anubis|map3score=0-1|map3win=2
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=1983
+}}
+|R1D5team=7th heaven |R1D5score=3 |R1D5win=1
+|R1D6team=team encount ng |R1D6score=2 |R1D6win=
+|R1G3details={{BracketMatchSummary 
+|date=September 2, 2017 - 15:00 {{Abbr/JST}}
+|stream=
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=1984
+}}
+|R1D7team=crest gaming.zero |R1D7score=3 |R1D7win=1
+|R1D8team=green leaves |R1D8score=0 |R1D8win=
+|R1G4details={{BracketMatchSummary 
+|date=September 2, 2017 - 15:00 {{Abbr/JST}}
+|stream=
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=1985
+}}
+<!-- SEMIFINALS -->
+|R2W1team=cyclops |R2W1score=1 |R2W1win=
+|R2W2team=rpg-k |R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=September 2, 2017 - 17:00 {{Abbr/JST}}
+|stream=
+|finished=true
+|vod=https://www.twitch.tv/videos/171621771?t=1h53m35s
+|map1=Lijiang Tower|map1score=0-3|map1win=2
+|map2=Watchpoint: Gibraltar|map2score=3-2|map2win=1
+|map3=Temple of Anubis|map3score=0-1|map3win=2
+|map4=King's Row|map4score=2-3|map4win=2
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=2078
+}}
+|R2W3team=7th heaven |R2W3score=3 |R2W3win=1
+|R2W4team=crest gaming.zero |R2W4score=1 |R2W4win=
+|R2G2details={{BracketMatchSummary 
+|date=September 2, 2017 - 17:00 {{Abbr/JST}}
+|stream=
+|finished=true
+|vod=https://www.twitch.tv/videos/171621771?t=3h51m40s
+|map1=Oasis|map1score=3-1|map1win=1
+|map2=Dorado|map2score=2-3|map2win=2
+|map3=Horizon Lunar Colony|map3score=2-1|map3win=1
+|map4=King's Row|map4score=3-2|map4win=1
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=2079
+}}
+<!-- FINALS -->
+|R3W1team=rpg-k |R3W1score=2 |R3W1win=
+|R3W2team=7th heaven |R3W2score=3 |R3W2win=1
+|R3G1details={{BracketMatchSummary 
+|date=September 2, 2017 - 19:00 {{Abbr/JST}}
+|stream=
+|finished=true
+|vod=https://www.twitch.tv/videos/171621771?t=5h48m17s
+|map1=Lijiang Tower|map1score=3-0|map1win=1
+|map2=Dorado|map2score=3-2|map2win=1
+|map3=Horizon Lunar Colony|map3score=2-3|map3win=2
+|map4=King's Row|map4score=1-3|map4win=2
+|map5=Ilios|map5score=2-3|map5win=2
+|overgg=
+|pf=
+|wl=2080
+}}
+}}
+
+==Additional Data==
+===Country Representation===
+
+<section begin="Country Representation"/>
+{{Country representation}}
+<section begin="Country Representation"/>
+
+==External links==
+*{{flag/jp}} [https://playoverwatch.com/ja-jp/blog/20960771 Official Announcemen (first round)]
+*{{flag/jp}} [https://drive.google.com/file/d/0BzZ_e-GQrQbfR0xlRC1yLXNDeGs/view Rules]
+==References==
+{{reflist}}

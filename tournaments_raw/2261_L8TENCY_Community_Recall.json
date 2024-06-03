@@ -1,0 +1,335 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "L8tency Community Recall",
+            "shortname": "L8tency Community Recall",
+            "tickername": "L8tency Community Recall",
+            "icon": "L8tency lightmode.png",
+            "image": "L8tency lightmode.png",
+            "imagedark": "L8tency darkmode.png",
+            "series": "L8TENCY",
+            "organizer": "L8TENCY",
+            "sponsor": "",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch",
+            "prizepoolusd": "100",
+            "date": "2022-08-02",
+            "twitter": "l8tency",
+            "web": "https://www.l8tency.com",
+            "twitch": "l8tency",
+            "discord": "wQRyD8MxVt",
+            "youtube": "",
+            "rulebook": "https://battlefy.com/l8tency/l8tency-community-recall-free-entry-100-prize-pool-l-castedstreamed/62daebab4dde6c34fe16c757/info?infoTab=rules",
+            "bracket": "https://battlefy.com/l8tency/l8tency-community-recall-free-entry-100-prize-pool-l-castedstreamed/62daebab4dde6c34fe16c757/stage/62daec4f5b3ff61b392e32bb/bracket/",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "DKFanClub",
+            "p1": "bedtimestory|pos1=dps|p1flag=us",
+            "p2": "mingus|pos2=dps|p2flag=mx",
+            "p3": "Today|pos3=tank|p3flag=us",
+            "p4": "CLEAR|pos4=tank|p4flag=jp",
+            "p5": "GreenBean17|pos5=sup|p5flag=us",
+            "p6": "Otters|pos6=sup|p6flag=gr",
+            "p7": "Distortion|pos7=sup|p7flag=us"
+        },
+        {
+            "team": "Haunted Mound",
+            "p1": "Dantwist|pos1=dps|p1flag=us",
+            "p2": "peace|pos2=dps|p2flag=us",
+            "p3": "Lava|pos3=tank|p3flag=us",
+            "p4": "Abstract|pos4=tank|p4flag=us",
+            "p5": "Noctis|pos5=sup|p5flag=us",
+            "p6": "MembersOnly|pos6=sup|p6flag=us"
+        },
+        {
+            "team": "Hivemind",
+            "p1": "Rakuna|pos1=dps|p1flag=ca",
+            "p2": "Squiggle|pos2=dps|p2flag=us",
+            "p3": "Adren|pos3=tank|p3flag=us",
+            "p4": "bird|p4link=bird (American tank player)|pos4=tank|p4flag=us",
+            "p5": "SoloZen|pos5=sup|p5flag=us",
+            "p6": "stew|pos6=sup|p6flag=us",
+            "p7": "Jammm|pos7=sup|p7flag=us",
+            "t2title": "Staff",
+            "t2p1": "Flexecution|t2p1flag=us|t2pos1=coach"
+        },
+        {
+            "team": "Wishes",
+            "p1": "papagenjii|pos1=|p1flag=",
+            "p2": "Manipulatte|pos2=|p2flag=",
+            "p3": "boogababa|pos3=|p3flag=",
+            "p4": "TommyRex|pos4=|p4flag=",
+            "p5": "CrazyAsent|pos5=|p5flag=",
+            "p6": "Turtlepog|pos6=|p6flag="
+        },
+        {
+            "team": "PINDAMONHANGABENSE",
+            "p1": "Magnuzera|p1flag=BR|pos1=sup",
+            "p2": "Mussurunga|p2flag=BR|pos2=sup",
+            "p3": "Abby|p3flag=US|pos3=dps",
+            "p4": "Capcatanduba|p4flag=BR|pos4=dps",
+            "p5": "Domingueira|p5flag=BR|pos5=tank",
+            "p6": "Jgrico|p6flag=BR|pos6=tank"
+        },
+        {
+            "team": "Argons Rising",
+            "p1": "Aspen|pos1=sup|p1flag=",
+            "p2": "Aerial|pos2=|p2flag=",
+            "p3": "Ejn1|pos3=|p3flag=",
+            "p4": "Khonshu|pos4=|p4flag=",
+            "p5": "Jyeeva|pos5=|p5flag=",
+            "p6": "SilentWraith|pos6=|p6flag=",
+            "p7": "Tom|pos7=|p7flag="
+        },
+        {
+            "team": "trans catgirls/boys",
+            "p1": "Lesulite|pos1=sup|p1flag=",
+            "p2": "azu|pos2=sup|p2flag=",
+            "p3": "Xiao\u013fing|pos3=|p3flag=",
+            "p4": "YT\u01c3|pos4=|p4flag=",
+            "p5": "AiOhto|pos5=|p5flag=",
+            "p6": "Zeo|pos6=|p6flag=",
+            "p7": "Frosty|pos7=|p7flag=",
+            "p8": "Cr1zzleFan01|pos8=|p8flag="
+        },
+        {
+            "team": "Los Pollos Hermanos",
+            "p1": "Maku|pos1=|p1flag=",
+            "p2": "zawarudo|pos2=|p2flag=ca",
+            "p3": "MrSwag|pos3=|p3flag=",
+            "p4": "PnutNpplHobo|pos4=|p4flag=",
+            "p5": "Blade|pos5=|p5flag=",
+            "p6": "TheBros|pos6=|p6flag="
+        },
+        {
+            "team": "Cascade",
+            "p1": "EmberChad|pos1=flex|p1flag=",
+            "p2": "Omnic|pos2=|p2flag=",
+            "p3": "DragonsFyre|pos3=|p3flag=",
+            "p4": "JStar|pos4=|p4flag=",
+            "p5": "DittoWebb|pos5=|p5flag=",
+            "p6": "KillSwitch|pos6=|p6flag="
+        },
+        {
+            "team": "Waterm'ladies",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag=",
+            "p6": "|pos6=|p6flag="
+        },
+        {
+            "team": "Los Tlacoyos",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag=",
+            "p6": "|pos6=|p6flag="
+        },
+        {
+            "team": "The Fruit Basket",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag=",
+            "p6": "|pos6=|p6flag="
+        },
+        {
+            "team": "Swarm",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag=",
+            "p6": "|pos6=|p6flag="
+        },
+        {
+            "team": "Clueless",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag=",
+            "p6": "|pos6=|p6flag="
+        },
+        {
+            "team": "Outlawed Hydras",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag=",
+            "p6": "|pos6=|p6flag="
+        },
+        {
+            "team": "Keke\u2019s Land",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag=",
+            "p6": "|pos6=|p6flag="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|DKFanClub|score=2}}",
+            "opponent2": "{{TeamOpponent|Los Pollos Hermanos|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|trans catgirls/boys|score=2}}",
+            "opponent2": "{{TeamOpponent|Argons Rising|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Swarm|score=2}}",
+            "opponent2": "{{TeamOpponent|Waterm'ladies|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Outlawed Hydras|score=2}}",
+            "opponent2": "{{TeamOpponent|PINDAMONHANGABENSE|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Haunted Mound|score=2}}",
+            "opponent2": "{{TeamOpponent|The Fruit Basket|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Clueless|score=1}}",
+            "opponent2": "{{TeamOpponent|Los Tlacoyos|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Hivemind|score=2}}",
+            "opponent2": "{{TeamOpponent|Wishes|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Keke's Land|score=2}}",
+            "opponent2": "{{TeamOpponent|Cascade|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|DKFanClub|score=2}}",
+            "opponent2": "{{TeamOpponent|trans catgirls/boys|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Swarm|score=0}}",
+            "opponent2": "{{TeamOpponent|Outlawed Hydras|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Haunted Mound|score=2}}",
+            "opponent2": "{{TeamOpponent|Los Tlacoyos|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Hivemind|score=2}}",
+            "opponent2": "{{TeamOpponent|Keke's Land|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|dkfanclub|score=2}}",
+            "opponent2": "{{TeamOpponent|outlawed hydras|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|haunted mound|score=2}}",
+            "opponent2": "{{TeamOpponent|Hivemind|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "2022-08-02",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|dkfanclub|score=2}}",
+            "opponent2": "{{TeamOpponent|haunted mound|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        }
+    ]
+}

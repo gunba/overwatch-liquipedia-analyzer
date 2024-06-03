@@ -1,0 +1,75 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Weekly",
+            "name": "GameBattles Overwatch 2 Online Tournament Europe #3",
+            "shortname": "5v5 Europe #3",
+            "tickername": "GameBattles Europe #3",
+            "icon": "GameBattles icon lightmode.png",
+            "icondark": "GameBattles icon darkmode.png",
+            "image": "GameBattles lightmode.png",
+            "imagedark": "GameBattles darkmode.png",
+            "organizer": "GameBattles",
+            "series": "GameBattles",
+            "abbreviation": "GB",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "prizepoolusd": "500",
+            "date": "2022-10-09",
+            "twitter": "gamebattles",
+            "discord": "gamebattles",
+            "facebook": "gamebattles",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5-500-overwatch-2-eu-56/info",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5-500-overwatch-2-eu-56/bracket",
+            "team_number": "7",
+            "previous": "GameBattles_Overwatch_2_Online_Tournament/EU/2{{!}}#2",
+            "next": "GameBattles_Overwatch_2_Online_Tournament/EU/4{{!}}#4"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "date": "2022-10-09",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Caillou Gaming|score=W}}",
+            "opponent2": "{{TeamOpponent|Xeno|score=L}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2022-10-09",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Mind Goblin|score=W}}",
+            "opponent2": "{{TeamOpponent|Ethereal Divine|score=L}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2022-10-09",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Anghells|score=L}}",
+            "opponent2": "{{TeamOpponent|october9th2022|score=W}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2022-10-09",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Chroo's Money Crew|score=L}}",
+            "opponent2": "{{TeamOpponent|Caillou Gaming|score=W}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2022-10-09",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Mind Goblin|score=L}}",
+            "opponent2": "{{TeamOpponent|october9th2022|score=W}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2022-10-09",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|Caillou Gaming|score=L}}",
+            "opponent2": "{{TeamOpponent|october9th2022|score=W}}",
+            "optional": "R3M1="
+        }
+    ]
+}

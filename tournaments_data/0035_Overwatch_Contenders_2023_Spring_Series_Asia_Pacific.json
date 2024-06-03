@@ -1,0 +1,826 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2",
+            "blizzardtier": "owc",
+            "series": "Overwatch Contenders",
+            "abbreviation": "OWC",
+            "shortname": "OWC 2023 Spring Series: APAC",
+            "name": "Overwatch Contenders 2023 Spring Series: Asia Pacific",
+            "tickername": "Contenders Spring Series: Asia Pacific",
+            "image": "Overwatch Contenders 2023 allmode.png",
+            "organizer": "Blizzard",
+            "organizer2": "",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Asia-Pacific",
+            "format": "",
+            "prizepoolusd": "30000",
+            "sdate": "2023-03-25",
+            "edate": "2023-04-09",
+            "web": "https://overwatchleague.com/en-us/contenders-about",
+            "bracket": "",
+            "youtube": "overwatchcontenders",
+            "youtube2": "@overwatchesportsKR",
+            "twitch": "overwatchcontenders",
+            "twitch2": "overwatchesportskr",
+            "twitch3": "wdgesportsjp",
+            "twitter": "owpathtopro",
+            "twitter2": "owesports_kr",
+            "team_number": "8",
+            "previous": "Overwatch Contenders/2020/Season 1/Pacific {{!}} 2020 Season 1",
+            "next": "Overwatch Contenders/2023/Summer Series/Asia Pacific {{!}} Summer Series"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Rhodes",
+            "p1": "Pineapple",
+            "pos1": "dps",
+            "p2": "Apr1ta",
+            "pos2": "dps",
+            "p3": "Odium",
+            "pos3": "tank",
+            "p3link": "Huang Lihongding",
+            "p4": "Coldest",
+            "pos4": "sup",
+            "p5": "Kaneki",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Kama",
+            "t2c1pos": "coach",
+            "qualifier": "[[WDG/Overwatch Open Tournament/East Asia|WDG Open East Asia]]",
+            "placement": "1"
+        },
+        {
+            "team": "VARREL",
+            "p1": "Nico",
+            "pos1": "dps",
+            "p2": "Mihawk",
+            "pos2": "dps",
+            "p3": "qki",
+            "pos3": "dps",
+            "p4": "KSG",
+            "pos4": "tank",
+            "p5": "plankton",
+            "pos5": "tank",
+            "p6": "Qloud",
+            "pos6": "sup",
+            "p7": "mint",
+            "pos7": "sup",
+            "p7link": "mint (Japanese player)",
+            "t2title": "Staff",
+            "t2c1": "\uff30\uff21\uff29\uff2e",
+            "t2c1pos": "head coach",
+            "t2c2": "Taiga",
+            "t2c2pos": "manager",
+            "qualifier": "[[WDG/Overwatch Open Tournament/East Asia|WDG Open East Asia]]",
+            "placement": "2"
+        },
+        {
+            "team": "Kraken Esports Club",
+            "p1": "Flandre",
+            "pos1": "dps",
+            "p2": "Hope",
+            "pos2": "dps",
+            "p3": "Snow",
+            "p3flag": "tw",
+            "pos3": "dps",
+            "p3link": "Snow (Taiwanese player)",
+            "p4": "Tomato",
+            "pos4": "tank",
+            "p5": "Yoko",
+            "pos5": "sup",
+            "p5link": "Akame",
+            "p6": "RAYMOMO",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "LnlD",
+            "t2c1pos": "coach",
+            "t2c2": "BanD1t",
+            "t2c2pos": "coach",
+            "t3title": "Substitutes",
+            "t3p1": "MaoLiqwq",
+            "t3p1pos": "sup",
+            "qualifier": "[[WDG/Overwatch Open Tournament/East Asia|WDG Open East Asia]]",
+            "placement": "3",
+            "inotes": "{{NoteBig|n1=[[Roll Momo]] is signed by [[Kraken Esports Club]]  <ref name=\"kraken esc\">{{cite web |url=https://www.facebook.com/photo/?fbid=625705209569283&set=a.498539142285891|title=\u6559\u7df4\u8ddfRMM\u8ddf\u4e00\u500b\u6fb3\u6d32\u8001\u95c6\u7c3d\u7d04\u4e86|date=2023-03-19 |author=[[BanD1t]] |publisher=Facebook |language={{flag/tw}} Chinese}}</ref>}}"
+        },
+        {
+            "team": "MDY",
+            "p1": "Bigdevi1",
+            "pos1": "dps",
+            "p2": "Skyshow",
+            "pos2": "dps",
+            "p3": "Eaglet",
+            "pos3": "tank",
+            "p4": "ganyom",
+            "pos4": "tank",
+            "p5": "Ayechan",
+            "pos5": "sup",
+            "p6": "Promis3d",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "MAIDSUP",
+            "t2c1pos": "head coach",
+            "t2c2": "Johnsk1",
+            "t2c2pos": "assistant coach",
+            "t2c3": "Morey",
+            "t2c3pos": "assistant coach",
+            "t2c4": "Albireo",
+            "t2c4pos": "manager",
+            "t3title": "Substitutes",
+            "t3p1": "DoubleLuo",
+            "t3p1pos": "dps",
+            "t3p2": "AMTI",
+            "t3p2pos": "tank",
+            "t3p3": "Sa1nt",
+            "t3p3pos": "sup",
+            "t3p3link": "Xi Guofei",
+            "qualifier": "[[WDG/Overwatch Open Tournament/East Asia|WDG Open East Asia]]",
+            "placement": "4",
+            "inotes": "{{NoteBig|n1=[[CNOW\u7684\u5e0c\u671b]] renames to [[MDY]]}}"
+        },
+        {
+            "team": "DAF",
+            "p1": "Ace",
+            "pos1": "dps",
+            "p1link": "Ace (Thai player)",
+            "p2": "Yoshinori2k",
+            "pos2": "dps",
+            "p3": "oPuTo",
+            "pos3": "dps",
+            "p4": "Rodtunglnw",
+            "pos4": "tank",
+            "p5": "JaoTae",
+            "pos5": "sup",
+            "p6": "PaLee",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "mush2oom",
+            "t2c1pos": "head coach",
+            "t2c2": "rXis",
+            "t2c2pos": "manager",
+            "t3title": "Substitutes",
+            "t3p1": "Clementine",
+            "t3p1pos": "dps",
+            "t3p2": "IBaNG",
+            "t3p2pos": "sup",
+            "qualifier": "[[Into The SEA/2023|Into The SEA]]",
+            "placement": "1"
+        },
+        {
+            "team": "Wall Play",
+            "p1": "Bubblekitty",
+            "pos1": "dps",
+            "p2": "Ap3ster",
+            "pos2": "dps",
+            "p2link": "Aester",
+            "p3": "Lumi",
+            "pos3": "tank",
+            "p4": "R3K",
+            "pos4": "tank",
+            "p5": "DADA",
+            "pos5": "sup",
+            "p6": "Jae",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "JohnGalt",
+            "t2c1pos": "head coach",
+            "t2c2": "blueice",
+            "t2c2pos": "assistant coach",
+            "t2c3": "EzClap",
+            "t2c3pos": "manager",
+            "t2c4": "Cointree",
+            "t2c4pos": "manager",
+            "t2c5": "junseo",
+            "t2c5pos": "manager",
+            "t2c6": "p0int",
+            "t2c6pos": "manager",
+            "t3title": "Substitute",
+            "t3p1": "Azalea",
+            "t3pos1": "dps",
+            "t3p2": "Overshake",
+            "t3pos2": "sup",
+            "qualifier": "[[Into The SEA/2023|Into The SEA]]",
+            "placement": "2",
+            "inotes": "{{NoteBig|n1=[[Team Name]] renames to [[Wall Play]]  <ref name=\"wall play\">{{cite web |url=https://twitter.com/NEW_JEANS_OW/status/1637461063544307714|title=We\u2019re here and ready to take your attention, now introducing team NEWJEANS for APAC contenders.|date=2023-03-19 |author=[[Wall Play]] |publisher=Twitter |language={{flag/usuk}} English}}</ref>}}"
+        },
+        {
+            "team": "NV",
+            "link": "NV (Southeast-Asian team)",
+            "p1": "Hofac",
+            "pos1": "dps",
+            "p2": "Daisy",
+            "pos2": "dps",
+            "p3": "Shonurt",
+            "p3flag": "kr",
+            "pos3": "tank",
+            "p4": "Xexo",
+            "pos4": "sup",
+            "p5": "Ayako",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Gyomin",
+            "t2c1pos": "coach",
+            "t3title": "Substitutes",
+            "t3p1": "Lilko",
+            "t3p1pos": "dps",
+            "t3p2": "Vips",
+            "t3p2pos": "sup",
+            "t3p3": "Hero",
+            "t3p3flag": "cn",
+            "t3p3pos": "sup",
+            "qualifier": "[[Into The SEA/2023|Into The SEA]]",
+            "placement": "3"
+        },
+        {
+            "team": "Angelica Esport",
+            "p1": "JayCo",
+            "pos1": "dps",
+            "p2": "HyVision",
+            "pos2": "dps",
+            "p3": "MungGgae",
+            "pos3": "dps",
+            "p4": "Kallbun",
+            "pos4": "tank",
+            "p5": "McGREY",
+            "pos5": "sup",
+            "p6": "DealerPlayer",
+            "pos6": "sup",
+            "t2title": "Substitutes",
+            "t2p1": "Maksal",
+            "t2p1pos": "sup",
+            "qualifier": "[[Into The SEA/2023|Into The SEA]]",
+            "placement": "4"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "March 25, 2023 - 17:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "Rhodes",
+            "opponent2": "Angelica Esport",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/jMCyAa-LXdY",
+            "optional": "R1M1="
+        },
+        {
+            "date": "March 25, 2023 - 18:30",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "Wall Play",
+            "opponent2": "Kraken Esports Club",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "113.29m",
+                "score2": "54.13m",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/aCFyMvEmVdE",
+            "optional": "R1M2="
+        },
+        {
+            "date": "March 26, 2023 - 17:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "VARREL",
+            "opponent2": "NV (Southeast-Asian team)",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "119.40m",
+                "score2": "40.16m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/PwI_YFOoxYU",
+            "optional": "R1M3="
+        },
+        {
+            "date": "March 26, 2023 - 18:30",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "DAF E-sport",
+            "opponent2": "MDY",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "vod": "https://youtu.be/o4nfJYiSWks",
+            "optional": "R1M4="
+        },
+        {
+            "date": "March 25, 2023 - 20:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "Rhodes",
+            "opponent2": "Wall Play",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/utKab6hIqU4",
+            "optional": "R2M1="
+        },
+        {
+            "date": "March 26, 2023 - 20:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "Varrel",
+            "opponent2": "MDY",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "118.75m",
+                "score2": "33.00m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "vod": "https://youtu.be/MMBmam51zTY",
+            "optional": "R2M2="
+        },
+        {
+            "date": "April 01, 2023 - 20:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "Rhodes",
+            "opponent2": "varrel",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/4oxTk7ZL2dU",
+            "optional": "R4M1="
+        },
+        {
+            "date": "April 01, 2023 - 17:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "Angelica Esport",
+            "opponent2": "Kraken Esports Club",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "142.41m",
+                "score2": "0.00m",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/IXEGFkspXvI",
+            "optional": "R1M5="
+        },
+        {
+            "date": "April 01, 2023 - 18:30",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "NV (Southeast-Asian team)",
+            "opponent2": "DAF E-sport",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "vod": "https://youtu.be/4fjpR_kKGW4",
+            "optional": "R1M6="
+        },
+        {
+            "date": "April 02, 2023 - 17:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "mdy",
+            "opponent2": "Angelica Esport",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/qDPyzbgBGJs",
+            "optional": "R2M3="
+        },
+        {
+            "date": "April 02, 2023 - 18:30",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "Wall Play",
+            "opponent2": "DAF E-sport",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "vod": "https://youtu.be/CjDmnfA89Qc",
+            "optional": "R2M4="
+        },
+        {
+            "date": "April 02, 2023 - 20:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "mdy",
+            "opponent2": "DAF E-sport",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "57.19m",
+                "score2": "57.18m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/h-7pJ_OuetE",
+            "optional": "R3M1="
+        },
+        {
+            "date": "April 09, 2023 - 16:40",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "varrel",
+            "opponent2": "mdy",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "Push",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "vod": "https://youtu.be/UQHBge5meJ0",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "7",
+            "date": "April 09, 2023 - 18:10",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "Rhodes",
+            "opponent2": "mdy",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "119.90m",
+                "score2": "50.31m",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/EhQSMXAxmTw",
+            "optional": "R5M1="
+        },
+        {
+            "bestof": "5",
+            "date": "April 09, 2023 - 15:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "Overwatch Contenders",
+            "opponent1": "Angelica Esport",
+            "opponent2": "Wall Play",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "86.34m",
+                "score2": "92.45m",
+                "winner": "2"
+            },
+            "vod": "https://youtu.be/Mwed9H-rKcQ",
+            "optional": "R1M1="
+        }
+    ]
+}

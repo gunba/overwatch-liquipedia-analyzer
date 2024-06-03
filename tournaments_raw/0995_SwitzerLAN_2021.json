@@ -1,0 +1,148 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "Switzerlan",
+            "name": "SwitzerLAN 2021",
+            "shortname": "SwitzerLAN 2021",
+            "tickername": "SwitzerLAN 2021",
+            "image": "swizerlan.jpg",
+            "icon": "Switzerlan_std.jpg",
+            "abbreviation": "SwitzerLAN",
+            "organizer": "SwitzerLAN",
+            "organizer-link": "https://switzerlan.ch/",
+            "type": "Offline",
+            "city": "Bern",
+            "country": "Switzerland",
+            "sponsor": "Cisco<br>Mifcom",
+            "format": "Swiss<br>Single Elimination",
+            "localcurrency": "chf",
+            "prizepool": "1470",
+            "sdate": "2021-10-02",
+            "edate": "2021-10-03",
+            "web": "https://switzerlan.ch/",
+            "twitter": "switzerlanCH",
+            "discord": "AwJb9mF",
+            "bracket": "https://battlefy.com/switzerlan-2021/switzerlan-2021-overwatch/613e058f131e6d65f84e89e2/stage/615887f22a06452a97fd36f8/bracket/",
+            "team_number": "10",
+            "game": "overwatch"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Why are we here",
+            "p1": "SirGibson|p1flag=ch|pos1=dps",
+            "p2": "\u010cr\u012fs|p2flag=ch|pos2=dps",
+            "p3": "Vazer|p3flag=ch|pos3=tank",
+            "p4": "MisterFish|p4flag=ch|pos4=tank",
+            "p5": "R3M1X|p5flag=ch|pos5=sup",
+            "p6": "Hell|p6flag=ch|pos6=sup",
+            "qualifier": "[https://battlefy.com/switzerlan-2021/switzerlan-2021-overwatch/613e058f131e6d65f84e89e2/stage/615813bcafa95563fd2528de/bracket/5 Swiss]",
+            "placement": "1"
+        },
+        {
+            "team": "Turban Turtles",
+            "p1": "Spartan|p1flag=ch|pos1=dps",
+            "p2": "Esmeralda|p2flag=ch|pos2=dps",
+            "p3": "Lenyen|p3flag=ch|pos3=tank",
+            "p4": "Oddy|p4flag=ch|pos4=tank",
+            "p5": "Tao|p5flag=ch|pos5=sup",
+            "p6": "Lavenna|p6flag=ch|pos6=sup",
+            "qualifier": "[https://battlefy.com/switzerlan-2021/switzerlan-2021-overwatch/613e058f131e6d65f84e89e2/stage/615813bcafa95563fd2528de/bracket/5 Swiss]",
+            "placement": "2"
+        },
+        {
+            "team": "Geringverdiener EFZ",
+            "p1": "SwissMade|p1flag=ch|pos1=dps",
+            "p2": "Soldakk|p2flag=ch|pos2=dps",
+            "p3": "Tombombadil3|p3flag=ch|pos3=tank",
+            "p4": "gianni|p4flag=ch|pos4=tank",
+            "p5": "muffinqt|p5flag=ch|pos5=sup",
+            "p6": "Mammut|p6flag=ch|pos6=sup",
+            "qualifier": "[https://battlefy.com/switzerlan-2021/switzerlan-2021-overwatch/613e058f131e6d65f84e89e2/stage/615813bcafa95563fd2528de/bracket/5 Swiss]",
+            "placement": "3"
+        },
+        {
+            "team": "Team SIR",
+            "p1": "Djinn|p1flag=ch|pos1=dps",
+            "p2": "Bigniel|p2flag=ch|pos2=dps",
+            "p3": "Horus|p3flag=ch|pos3=tank",
+            "p4": "Enealiam|p4flag=ch|pos4=tank",
+            "p5": "iHasALama|p5flag=ch|pos5=sup",
+            "p6": "Medalstorm|p6flag=ch|pos6=sup",
+            "qualifier": "[https://battlefy.com/switzerlan-2021/switzerlan-2021-overwatch/613e058f131e6d65f84e89e2/stage/615813bcafa95563fd2528de/bracket/5 Swiss]",
+            "placement": "4"
+        },
+        {
+            "team": "TS\u00dcRI GANG",
+            "p1": "Fenyx|p1flag=ch|pos1=dps",
+            "p2": "Gliscor|p2flag=ch|pos2=dps",
+            "p3": "H3X|p3flag=ch|pos3=tank",
+            "p4": "NatesMyName|p4flag=ch|pos4=tank",
+            "p5": "KatesMyName|p5flag=ch|pos5=sup",
+            "p6": "RedstoneArmy|p6flag=ch|pos6=sup",
+            "qualifier": "[https://battlefy.com/switzerlan-2021/switzerlan-2021-overwatch/613e058f131e6d65f84e89e2/stage/615813bcafa95563fd2528de/bracket/5 Swiss]",
+            "placement": "5"
+        },
+        {
+            "team": "C+ Eternity",
+            "p1": "Z2BestWosGit|p1flag=ch|pos1=dps",
+            "p2": "Source|p2flag=ch|pos2=dps",
+            "p3": "Tanascia|p3flag=ch|pos3=tank",
+            "p4": "Bl\u00f8\u00f8\u00f0\u00ffbullet|p4flag=ch|pos4=tank",
+            "p5": "MissLera|p5flag=ch|pos5=sup",
+            "p6": "Born2Die|p6flag=ch|pos6=sup",
+            "qualifier": "[https://battlefy.com/switzerlan-2021/switzerlan-2021-overwatch/613e058f131e6d65f84e89e2/stage/615813bcafa95563fd2528de/bracket/5 Swiss]",
+            "placement": "6"
+        },
+        {
+            "team": "Winnabl\u00f6",
+            "p1": "MiMe|p1flag=ch|pos1=dps",
+            "p2": "Cryogenic|p2flag=ch|pos2=dps",
+            "p3": "B\u00f6seJ\u00f6rgeli|p3flag=ch|pos3=tank",
+            "p4": "Beuk03|p4flag=ch|pos4=tank",
+            "p5": "samantha16|p5flag=ch|pos5=sup",
+            "p6": "Maumo|p6flag=ch|pos6=sup",
+            "qualifier": "[https://battlefy.com/switzerlan-2021/switzerlan-2021-overwatch/613e058f131e6d65f84e89e2/stage/615813bcafa95563fd2528de/bracket/5 Swiss]",
+            "placement": "7"
+        },
+        {
+            "team": "Landi Genossenschaft",
+            "p1": "Radiax|p1flag=ch|pos1=dps",
+            "p2": "OGAsssalad|p2flag=ch|pos2=dps",
+            "p3": "UUPSA|p3flag=ch|pos3=tank",
+            "p4": "EYEhaveYOU95|p4flag=ch|pos4=tank",
+            "p5": "CursedCrocs|p5flag=ch|pos5=sup",
+            "p6": "Mineow|p6flag=ch|pos6=sup",
+            "qualifier": "[https://battlefy.com/switzerlan-2021/switzerlan-2021-overwatch/613e058f131e6d65f84e89e2/stage/615813bcafa95563fd2528de/bracket/5 Swiss]",
+            "placement": "8"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "October 03, 2021 - 20:00 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|Why are we here|score=2}}",
+            "opponent2": "{{TeamOpponent|Team SIR|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "October 03, 2021 - 20:00 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|Turban Turtles|score=0}}",
+            "opponent2": "{{TeamOpponent|Geringverdiener EFZ|score=2}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "October 03, 2021 - 22:00 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|Why are we here|score=2}}",
+            "opponent2": "{{TeamOpponent|Geringverdiener EFZ|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "October 03, 2021 - 21:00 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|Team SIR|score=3}}",
+            "opponent2": "{{TeamOpponent|Turban Turtles|score=0}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

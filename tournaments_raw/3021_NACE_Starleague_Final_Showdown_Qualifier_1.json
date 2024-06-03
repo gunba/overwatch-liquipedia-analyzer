@@ -1,0 +1,357 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Qualifier",
+            "series": "NACE Starleague",
+            "abbreviation": "NACE",
+            "name": "NACE Starleague Final Showdown - Qualifier 1",
+            "shortname": "NACE Starleague Final Showdown - Qualifier 1",
+            "tickername": "NACE Starleague Final Showdown - Qualifier 1",
+            "image": "Overwatch Final Showdown allmode.png",
+            "organizer": "National Association of Collegiate Esports",
+            "organizer-link": "https://nacesports.org/",
+            "organizer2": "Playfly Esports",
+            "organizer2-link": "https://playflyesports.com/",
+            "sponsor": "[https://www.extra-life.org/ Extra Life]<br>[https://www.monsterenergy.com/us/en Monster Energy]",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch",
+            "sdate": "2022-09-17",
+            "edate": "2022-09-18",
+            "twitter": "nacesports",
+            "web": "https://nacesports.org",
+            "twitch": "nacesports",
+            "facebook": "nacesports",
+            "rulebook": "https://drive.google.com/file/d/15NlqRcyATJ4EBq8YCSEq-taDItQYBddz/view",
+            "bracket": "https://nsl.leaguespot.gg/seasons/79817109-f01a-4fa4-ae7b-31f69c8dfa35",
+            "team_number": "94"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "SDSU Esports",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "Hubert|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup"
+        },
+        {
+            "team": "Illini Esports Orange",
+            "p1": "SillyPhil49 |p1flag=us|pos1=dps",
+            "p2": "Exojay |p2flag=us|pos2=dps",
+            "p3": "danny|p3link=danny (Polish Player)|p3flag=pl|pos3=tank",
+            "p4": "Cancel |p4flag=fr|pos4=tank",
+            "p5": "Th0r |p5flag=us|pos5=sup",
+            "p6": "Zhulander |p6flag=us|pos6=sup",
+            "p7": "marble | p7flag=us|pos7=sup"
+        },
+        {
+            "team": "St. Clair Saints",
+            "p1": "Crime |p1flag=ca|pos1=dps",
+            "p2": "Emmeryn |p2flag=ca|pos2=dps",
+            "p3": "Squeak |p3flag=us|pos3=tank",
+            "p4": "hyun |p4flag=kr|pos4=tank",
+            "p5": "Gscales |p5flag=ca|pos5=tank",
+            "p6": "redex |p6flag=ca|pos6=sup",
+            "p7": "Arjunk |p7flag=ca|pos7=sup"
+        },
+        {
+            "team": "Akron Esports",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup"
+        },
+        {
+            "team": "Ohio State University",
+            "p1": "Performance|p1flag=us|pos1=dps",
+            "p2": "GRAB|p2flag=us|pos2=dps",
+            "p3": "Lava|p3flag=us|pos3=tank",
+            "p4": "Impact|p4flag=us|pos4=tank",
+            "p5": "Sockdolager|p5flag=us|pos5=tank",
+            "p6": "Eski|p6flag=us|pos6=sup",
+            "p7": "HoJin|p7flag=kr|pos7=sup",
+            "p8": "Onda|p8flag=br|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Schipp|t2c1pos=coach",
+            "t2c2": "Mafia|t2c2flag=us|t2c2pos=coach",
+            "t2c3": "moony|t2c3flag=us|t2c3pos=manager"
+        },
+        {
+            "team": "University of Florida",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup"
+        },
+        {
+            "team": "UTD Esports",
+            "p1": "P3t9l |p1flag=|pos1=dps",
+            "p2": "STAS1S |p2flag=us|pos2=dps",
+            "p3": "Kashir |p3flag=us|pos3=dps",
+            "p4": "Lueyyy |p4flag=us|pos4=tank",
+            "p5": "durpee |p5flag=us|pos5=tank",
+            "p6": "Tinspire |p6flag=us|pos6=tank",
+            "p7": "abdala |p7flag=|pos7=tank",
+            "p8": "Jukebox |p8flag=us|pos8=tank",
+            "p9": "Savior|p9link=Savior (American Player)|p9flag=us|pos9=sup",
+            "p10": "Doyi |p10flag=il|pos10=sup",
+            "t2title": "Staff",
+            "t2c1": "Bani|t2c1pos=head coach",
+            "t2c2": "MinniePwn|t2c2flag=bd|t2c2pos=manager"
+        },
+        {
+            "team": "Northeastern Esports",
+            "p1": "Neatz |p1flag=us|pos1=dps",
+            "p2": "Woah |p2flag=us|pos2=dps",
+            "p3": "SCL33 |p3flag=us|pos3=tank",
+            "p4": "Scoop |p4flag=us|pos4=tank",
+            "p5": "Spectro |p5flag=us|pos5=sup",
+            "p6": "qghop |p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Temporal|t2c1pos=coach"
+        },
+        {
+            "team": "University of Toronto",
+            "p1": "Coco|p1flag=ca|pos1=dps|p1link=Coco (Canadian player)",
+            "p2": "Dino|p2flag=eg|pos2=dps|p2link=Dino (Egyptian Player)",
+            "p3": "Lanmanc|p3flag=ca|pos3=dps",
+            "p4": "Aspect|p4flag=ca|pos4=tank",
+            "p5": "PrinceCats|p5flag=ca|pos5=tank",
+            "p6": "Aregeny|p6flag=ca|pos6=sup",
+            "p7": "KoodleNoodle|p7flag=ca|pos7=sup",
+            "p8": "Anexile|p8flag=ca|pos8=sup"
+        },
+        {
+            "team": "Boise State University",
+            "p1": "Playto |p1flag=us|pos1=dps",
+            "p2": "Maksal |p2flag=th|pos2=dps",
+            "p3": "GOBLIN |p3flag=us|pos3=dps|p3link=Goblin",
+            "p4": "Frost |p4flag=|pos4=dps|p4link=Frost (American player)",
+            "p5": "MattMerc |p5flag=|pos5=tank",
+            "p6": "Kell |p6flag=us|pos6=tank",
+            "p7": "CLEAR |p7flag=jp|pos7=tank",
+            "p8": "ChoseN |p8flag=us|pos8=sup",
+            "p9": "Bagel |p9flag=us|pos9=sup",
+            "p10": "Lyric |p10flag=us|pos10=sup",
+            "t2title": "Staff",
+            "t2c1": "ELLIVOTE|t2c1pos=coach"
+        },
+        {
+            "team": "OU Crimson",
+            "p1": "Woobly |p1flag=us|pos1=dps",
+            "p2": "Revan |p2flag=us|pos2=dps",
+            "p3": "ProGamer360 |p3flag=us|pos3=tank",
+            "p4": "Quinn |p4flag=us|pos4=tank",
+            "p5": "Lugo |p5flag=us|pos5=sup",
+            "p6": "JeffyJA |p6flag=us|pos6=sup"
+        },
+        {
+            "team": "BSC Bobcats",
+            "p1": "cr1m|p1flag=us|pos1=dps",
+            "p2": "Manually|p2flag=us|pos2=dps",
+            "p3": "Cyber|p3flag=us|pos3=tank",
+            "p4": "MIRO|p4flag=us|pos4=tank",
+            "p5": "Prota|p5flag=us|pos5=sup",
+            "p6": "Gymical|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "RIT Orange",
+            "p1": "Essull |p1flag=us|pos1=dps",
+            "p2": "ChocoMann |p2flag=us|pos2=dps",
+            "p3": "Peber |p3flag=us|pos3=tank",
+            "p4": "Bluejay |p4flag=us|pos4=tank",
+            "p5": "LiamHeliam29 |p5flag=us|pos5=sup",
+            "p6": "Actual |p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Northwood University",
+            "p1": "Boat |p1flag=|pos1=dps",
+            "p2": "Dynasty |p2flag=|pos2=dps",
+            "p3": "SZNS |p3flag=|pos3=tank",
+            "p4": "cowman711 |p4flag=|pos4=tank",
+            "p5": "Yimitra |p5flag=|pos5=sup",
+            "p6": "Cjay |p6flag=|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Morb|t2c1pos=coach",
+            "t2c2": "Tubesock|t2c2pos=manager"
+        },
+        {
+            "team": "Terps Esports",
+            "p1": "Lew |p1flag=us|pos1=dps",
+            "p2": "Speep |p2flag=us|pos2=dps",
+            "p3": "Tony |p3flag=us|pos3=tank",
+            "p4": "MooseHJ |p4flag=us|pos4=tank",
+            "p5": "Pumpkin |p5flag=us|pos5=sup",
+            "p6": "Paul|p6link=Paul (American player)|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "FSU Overwatch",
+            "p1": "Peejay |p1flag=us|pos1=dps",
+            "p2": "Courbrew |p2flag=us|pos2=dps",
+            "p3": "Thanos |p3flag=us|pos3=tank",
+            "p4": "Hoams |p4flag=us|pos4=tank",
+            "p5": "Potato |p5flag=us|pos5=sup",
+            "p6": "Lils |p6flag=us|pos6=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "September 17, 2022 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|utd esports|score=2}}",
+            "opponent2": "{{TeamOpponent|fsu overwatch|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "September 17, 2022 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|sdsu esports|score=0}}",
+            "opponent2": "{{TeamOpponent|illini esports orange|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "September 17, 2022 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|northwood university|score=2}}",
+            "opponent2": "{{TeamOpponent|terps esports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "September 17, 2022 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|northeastern esports|score=2}}",
+            "opponent2": "{{TeamOpponent|uoft overwatch|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "September 17, 2022 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|st. clair saints|score=2}}",
+            "opponent2": "{{TeamOpponent|akron zips|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "September 17, 2022 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|boise state university|score=2}}",
+            "opponent2": "{{TeamOpponent|ou crimson|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "September 17, 2022 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ohio state university|score=2}}",
+            "opponent2": "{{TeamOpponent|university of florida|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "September 17, 2022 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bsc bobcats|score=2}}",
+            "opponent2": "{{TeamOpponent|rit orange|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "September 18, 2022 - 13:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|utd esports|score=2}}",
+            "opponent2": "{{TeamOpponent|illini esports orange|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "September 18, 2022 - 13:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|northwood university|score=2}}",
+            "opponent2": "{{TeamOpponent|northeastern esports|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "September 18, 2022 - 13:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|st. clair saints|score=0}}",
+            "opponent2": "{{TeamOpponent|boise state university|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "September 18, 2022 - 13:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ohio state university|score=2}}",
+            "opponent2": "{{TeamOpponent|bsc bobcats|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "September 18, 2022 - 14:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|utd esports|score=1}}",
+            "opponent2": "{{TeamOpponent|northwood university|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "September 18, 2022 - 14:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|boise state university|score=1}}",
+            "opponent2": "{{TeamOpponent|ohio state university|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "September 18, 2022 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|northwood university|score=2}}",
+            "opponent2": "{{TeamOpponent|ohio state university|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        }
+    ]
+}

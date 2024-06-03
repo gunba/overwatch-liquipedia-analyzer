@@ -1,0 +1,144 @@
+{{DISPLAYTITLE:Uniliga - Winter 2018 - 1st League}}
+{{Liquipedia links|rocketleague=Uniliga/Winter/2018-19/League_Play}}
+{{Uniliga navbox}}
+{{Tabs static
+|name1=Overview
+|link1=Uniliga/Winter_2018/1st_League
+|name2=Group Stage
+|link2=Uniliga/Winter_2018/1st_League/Group_Stage
+|This=1
+}}
+{{Infobox league
+|name=Uniliga - Winter 2018 - 1st League
+|shortname=Uniliga Winter '18
+|image=University eSports Germany.png
+|series=uniliga
+|abbreviation=Uniliga
+|icon=Uniliga_icon.png
+|tickername=Uniliga Winter '18
+|organizer=University eSports Germany
+|organizer-link=https://uniliga.gg
+|sponsor=[https://www.actimonda.de Actimonda BKK]
+|country=Germany
+|type=Online
+|format='''Group Stage''':<br>Swiss System<br>'''Playoffs''':<br>Single Elimination<br>
+|prizepool= €500
+|prizepoolusd=562
+|sdate=2018-11-16
+|edate=2019-02-14
+|liquipediatier={{TierText/4}}
+|web=http://uniliga.gg/ow/
+|twitch=uniligagg
+|twitch2=uniligagg2
+|bracket=
+|bracket2=
+|rulebook=https://www.uniliga.gg/ow-regelwerk/
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=22
+}}
+
+==About==
+
+===Information===
+*All players must be students at a German university.
+*Each team must have a minimum of 6 and a maximum of 10 players.
+
+===Format===
+*'''Group Stage''': Swiss System
+**Top 8 advance to Playoffs
+**Each match will be played in a four-game-set.
+**The first map is determined by tournament administration.
+**Following maps are decided by the loser of the previous map. The winner picks the side.
+**In case of a match draw a predetermined {{Abbr/Bo3}} control map will be played to decide the winner.
+**Group Stage is divided into to phases.
+***Each phase has it's own map pool.
+***Between phases the swiss seeding will be reset.
+**Teams are awarded 2 points per match win.
+**If two teams are tied at the end of the group stage, tiebrakers are as follows:
+***1st Mapscore, 2nd Head to head, 3rd Tiebraker match ({{Abbr/Bo1}} on [[Lijiang Tower]]).
+*'''Playoffs''': Single-Elimination
+**Each match will be played in a {{Abbr/Bo5}} series.
+
+===Broadcast Talent===
+{{box|start}}
+{{BroadcasterCard|lang=German
+|position=Commentator
+|b1=DarcoLeaks
+|b2=Darman     |b2name=Daniel Kentsch |b2flag=de
+|b3=F1r3wall
+|b4=Ozo |b1flag=de | b1name=Lukas
+}}
+{{box|end|padding=2em}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=6|'''Group Stage Phase 1'''
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=4|Available Maps for '''Phase 1'''
+|-
+![[Control]]
+![[Hybrid]]
+![[Assault]]
+![[Escort]]
+|-
+!1st map
+|''[[Control]] map''
+|width="130" rowspan=4|
+*[[Busan]]
+|width="130" rowspan=4|
+*[[King's Row]]
+*[[Hollywood]]
+|width="130" rowspan=4|
+*[[Paris]]
+*[[Volskaya Industries]]
+|width="130" rowspan=4|
+*[[Junkertown]]
+*[[Dorado]]
+|-
+!2nd map
+|''[[Hybrid]] map''
+|-
+!3rd map
+|''[[Assault]] map''
+|-
+!4th map
+|''[[Escort]] map''
+|-
+!width="160"  colspan=2|Tiebreaker
+|width="160" colspan=4|{{Abbr/Bo3}} Match on [[Lijiang Tower]].
+|}
+
+<!--
+
+==Prize Pool==
+€ 500 {{Abbr/EUR}} (~562${{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=eur|cutafter=4}}
+{{prize pool slot|place=1 |usdprize=427|localprize=380|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot|place=2 |usdprize=135|localprize=120|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot|place=3-4 |usdprize=0 |localprize=0 
+|tbd |lastvs1= |lastscore1= |lastvsscore1= 
+|tbd |lastvs2= |lastscore2= |lastvsscore2= }}
+{{prize pool slot |place=5-8 |usdprize=0|localprize=0
+|tbd |lastvs1= |lastscore1= |lastvsscore1=
+|tbd |lastvs2= |lastscore2= |lastvsscore2=
+|tbd |lastvs3= |lastscore3= |lastvsscore3=
+|tbd |lastvs4= |lastscore4= |lastvsscore4= }}
+{{prize pool slot |place=9 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=10 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=11 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=12 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=13 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=14 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=15 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=16 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=17 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=18 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=19 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=20 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=21 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=22 |usdprize=0|localprize=0|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{Prize pool end}}

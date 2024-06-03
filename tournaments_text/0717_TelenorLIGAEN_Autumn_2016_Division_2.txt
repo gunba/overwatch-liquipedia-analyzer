@@ -1,0 +1,131 @@
+{{DISPLAYTITLE:TelenorLIGAEN Autumn 2016 Division 2}}
+{{TelenorLIGAEN Navbox}}<br />
+{{tabs static
+|name1=Overview
+|link1=TelenorLIGAEN/Autum 2016
+|name2=Division 1
+|link2=TelenorLIGAEN/Autumn 2016/Division 1
+|name3=Division 2
+|link3=TelenorLIGAEN/Autumn 2016/Division 2
+|name4=Division 3
+|link4=TelenorLIGAEN/Autumn 2016/Division 3
+|This=3
+}}<br />
+{{Infobox league
+|liquipediatier={{TierText/4}}
+|name=TelenorLIGAEN Autum 2016 Division 2
+|abbreviation=TelenorLIGAEN
+|image=Telenorligaen.png
+|organizer=Gamer.no
+|organizer-link=http://www.gamer.no/
+|sponsor=[https://www.telenor.no Telenor] [https://www.logitech.com Logitech]
+|type=Online
+|country=Norway
+|format=Bo4
+|prizepoolusd=
+|prizepool=
+|localcurrency=
+|sdate=2016-08-29
+|edate=2016-11-20
+|web=http://www.gamer.no/turneringer/telenorligaen-overwatch-hosten-2016/3162/tabeller/
+|twitch=
+|teamfirst=Epiphany Bolt
+|teamsecond=Pentafoil Gaming
+|teamthird=
+|teamthird2=
+|team_number=8
+}}
+
+'''TelenorLIGAEN''' is an [[:Category:Norway|Norwagian]] Overwatch league. Minimum 4/6 players has to be [[:Category:Norway|Norwagian]] citizens. Each season lasts half a year.
+
+==About==
+===Format===
+*'''League Stage''': Round Robin 
+**All matches are Bo4.
+**'''Top 2''' advance to '''Division 1'''
+**'''Bottom 2''' is relegated to '''Division 3'''.
+
+===Broadcasting Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=hansmeNt|b1flag=no|b1name=Chris
+}}
+
+===Prize Pool===
+{{prize pool start|noprize=1|points=points}}
+{{prize pool slot|place=1 |points=q |link=TelenorLIGAEN/Spring_2016/Division_1 |epiphany bolt|lastvs1= |lastscore1= |lastvsscore1=}}
+{{prize pool slot|place=2 |points=q |link=TelenorLIGAEN/Spring_2016/Division_1 |pentafoil gaming|lastvs1= |lastscore1= |lastvsscore1=}}
+{{prize pool slot|place=3 |points=0 |gamersleague esports|lastvs1= |lastscore1= |lastvsscore1= |date1=}}
+{{prize pool slot|place=3 |points=0 |bx3 2|lastvs1= |lastscore1= |lastvsscore1= |date1=}}
+{{prize pool slot|place=5 |points=0 |putsj|lastvs1= |lastscore1= |lastvsscore1=}}
+{{prize pool slot|place=6 |points=0 |air e-sport acadamy|lastvs1= |lastscore1= |lastvsscore1=}}
+{{prize pool slot|place=7 |points=0 |bamble dreamteam|lastvs1= |lastscore1= |lastvsscore1= |date1=}}
+{{prize pool slot|place=8 |points=0 |memorial|lastvs1= |lastscore1= |lastvsscore1= |date1=}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Epiphany Bolt
+|image=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Pentafoil Gaming
+|image=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=BX3 eSports Club 2
+|image=Bx3logo.png
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=GamersLeague eSports
+|image=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Air E-sport Acadamy
+|image=Airesportlogo.png
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=PUTSJ
+|image=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Bamble DreamTeam
+|image=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Memorial
+|image=
+}}
+{{box|end}}
+
+==Results==
+{{box|start|padding=2em}}
+===Current Standings===
+{{GroupTableStart| Round Robin |width=550px
+|date=
+|stream=
+|lrthread=
+|finished=
+}}
+{{GroupTableSlot| {{Team|epiphany bolt}} 	|place=1|win_m=5|tie_m=0|lose_m=0|win_r=20|lose_r=0|diff=20|bg=up|show_p=true}}
+{{GroupTableSlot| {{Team|pentafoil gaming}} 	|place=2|win_m=4|tie_m=0|lose_m=1|win_r=15|lose_r=5|diff=10|bg=up|show_p=true}}
+{{GroupTableSlot| {{Team|gamersleague esports}} |place=3|win_m=3|tie_m=0|lose_m=2|win_r=13|lose_r=7|diff=6|bg=stayup|show_p=true}}
+{{GroupTableSlot| {{Team|bx3 2}} 	        |place=4|win_m=2|tie_m=0|lose_m=3|win_r=7|lose_r=13|diff=-6|bg=stayup|show_p=true}}
+{{GroupTableSlot| {{Team|putsj}}                |place=5|win_m=1|tie_m=0|lose_m=4|win_r=3|lose_r=17|diff=-14|bg=stayup|show_p=true}}
+{{GroupTableSlot| {{Team|air e-sport acadamy}}  |place=6|win_m=0|tie_m=0|lose_m=5|win_r=2|lose_r=18|diff=-16|bg=stayup|show_p=true}}
+{{GroupTableSlot| {{Team|bamble dreamteam}} 	|place=7|win_m=|tie_m=Withdrawn|lose_m=|win_r=0|lose_r=0|diff=0|bg=down|show_p=true}}
+{{GroupTableSlot| {{Team|memorial}} 	        |place=8|win_m=|tie_m=Withdrawn|lose_m=|win_r=0|lose_r=0|diff=0|bg=down|show_p=true}}
+
+{{GroupTableEnd}}
+
+{{Reflist}}

@@ -1,0 +1,123 @@
+{
+    "tournament_info": [
+        {
+            "name": "Solo Q Tournament #1",
+            "image": "",
+            "series": "",
+            "number": "1",
+            "organizer": "",
+            "format": "",
+            "type": "Online",
+            "country": "",
+            "date": "2016-03-20",
+            "prizepoolusd": "",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://challonge.com/Solo_Q",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "team indians",
+            "teamsecond": "team pirates",
+            "teamthird": "team vikings",
+            "teamfourth": "team ninjas",
+            "team_number": "4",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Ninjas",
+            "image": "",
+            "size": "",
+            "p1": "Bramus |p1flag=",
+            "p2": "Enderhero |p2flag=us",
+            "p3": "Frankenberry |p3flag=",
+            "p4": "unrelenting |p4flag=",
+            "p5": "L0VEMIESTER |p5flag=",
+            "p6": "Kaiekel |p6flag="
+        },
+        {
+            "team": "Team Pirates",
+            "image": "",
+            "size": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Team Vikings",
+            "image": "",
+            "size": "",
+            "p1": "arv |p1flag=",
+            "p2": "ativos |p2flag=",
+            "p3": "Rezonator |p3flag=",
+            "p4": "NeLio |p4flag=",
+            "p5": "kaptastr0phe |p5flag=",
+            "p6": "Ethereal |p6flag="
+        },
+        {
+            "team": "Team Indians",
+            "image": "",
+            "size": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "team indians",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "team ninjas",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "team indians",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "team pirates",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team vikings",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "team ninjas",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "team vikings",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "team indians",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team indians",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "team pirates",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

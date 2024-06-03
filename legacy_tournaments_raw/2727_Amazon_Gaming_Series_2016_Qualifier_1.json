@@ -1,0 +1,177 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "amazon gaming series",
+            "abbreviation": "AGS",
+            "name": "Amazon Gaming Series - Qualifier #1",
+            "image": "Amazon Gaming Series.jpg",
+            "icon": "Amazon Gaming Serieslogo small.png",
+            "organizer": "Amazon",
+            "organizer2": "ESL",
+            "sponsor": "",
+            "country": "Europe",
+            "type": "Online",
+            "format": "Single-Elimination Bracket",
+            "prizepool": "",
+            "prizepoolusd": "",
+            "sdate": "2016-06-20",
+            "edate": "2016-06-21",
+            "gosugamers": "",
+            "web": "",
+            "bracket": "http://play.eslgaming.com/overwatch/europe/overwatch/major/amazon-gaming-series-cup-1-europe/rankings/",
+            "twitch": "",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "180"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Graviton Surge",
+            "image": "",
+            "size": "",
+            "p1": "Kryw",
+            "p2": "Nevix",
+            "p3": "Zebbosai",
+            "p4": "Zaprey |p4flag=dk",
+            "p5": "skipjack |p5flag=de",
+            "p6": "SoOn",
+            "qualifier": ""
+        },
+        {
+            "team": "Extra Gaming",
+            "p1": "StreaMiii |p1flag=it",
+            "p2": "Cerys |p2flag=it",
+            "p3": "rzd |p3flag=it",
+            "p4": "Lgn |p4flag=it",
+            "p5": "Midna |p5flag=it",
+            "p6": "quBy |p6flag=it",
+            "qualifier": ""
+        },
+        {
+            "team": "Team Hybrid TM",
+            "p1": "klanton |p1flag=se",
+            "p2": "fazz |p2flag=se",
+            "p3": ".kr4tosdigga |p3flag=de",
+            "p4": "hafficool |p4flag=is",
+            "p5": "Mezamorphis |p5flag=ro",
+            "p6": "LegitRc |p6flag=us",
+            "qualifier": ""
+        },
+        {
+            "team": "unKnights",
+            "image": "Unknights logo.png",
+            "p1": "Hallay |p1flag=fr",
+            "p2": "kall |p2flag=fr",
+            "p3": "bzjtwh |p3flag=fr",
+            "p4": "draxen |p4flag=fr",
+            "p5": "Ounga |p5flag=fr",
+            "p6": "Veteranjr  |p6flag=fr",
+            "qualifier": ""
+        },
+        {
+            "team": "REUNITED",
+            "p1": "uNFixed",
+            "p2": "Winghaven",
+            "p3": "2Easy",
+            "p4": "Morte",
+            "p5": "Kruise",
+            "p6": "Vallutaja",
+            "qualifier": ""
+        },
+        {
+            "team": "Rogue",
+            "p1": "TviQ",
+            "p2": "TooGood |p2flag=uk",
+            "p3": "Reinforce",
+            "p4": "winz",
+            "p5": "aKm",
+            "p6": "uNKOE",
+            "qualifier": ""
+        },
+        {
+            "team": "Creation eSports",
+            "image": "",
+            "imagesize": "",
+            "p1": "Draceus |p1flag=se",
+            "p2": "art1er |p2flag=ge",
+            "p3": "LiNkz |p3flag=fi",
+            "p4": "KnOxXx|p4flag=fr",
+            "p5": "BromaS |p5flag=es",
+            "p6": "numlocked |p6flag=uk",
+            "qualifier": ""
+        },
+        {
+            "team": "OWKings",
+            "image": "",
+            "imagesize": "",
+            "p1": "ADETONIAN",
+            "p2": "Oksii",
+            "p3": "twidi",
+            "p4": "michr",
+            "p5": "ryb",
+            "p6": "OLBAA",
+            "qualifier": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "extra gaming",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "reunited",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "creation esports",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "rogue",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "team hybrid tm",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "graviton surge",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "owkings",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "unknights",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "creation esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "reunited",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "owkings",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "graviton surge",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

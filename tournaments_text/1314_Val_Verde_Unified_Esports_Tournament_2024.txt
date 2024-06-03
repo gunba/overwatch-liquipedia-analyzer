@@ -1,0 +1,175 @@
+{{DISPLAYTITLE:Val Verde Unified Esports Tournament 2024}}
+{{Infobox league
+|liquipediatier=4
+|liquipediatiertype=
+|name=Val Verde Unified Esports Tournament 2024
+|shortname=VVUSD Esports Tournament 2024
+|tickername=Val Verde Unified Esports Tournament 2024
+|icon=
+|image=
+|series=VVUSD Esports
+|organizer=VVUSD Esports
+|sponsor=Lenovo
+|type=Offline
+|country=USA
+|city=Perris, California
+|venue=Val Verde Unified District Offices
+|game=overwatch2
+|format=Single Elimination
+|prizepoolusd=1000
+|date=2024-04-27
+|twitter=
+|web=
+|twitch=
+|discord=
+|youtube=
+|rulebook=
+|bracket=
+|team_number=4
+|previous=Val_Verde_Unified_Esports_Tournament/2023{{!}}2023
+|next=Val_Verde_Unified_Esports_Tournament/2025{{!}}2025
+}}
+
+==Information==
+===Format===
+*'''Group Stage:''' ''April 27<sup>th</sup>
+**Round Robin format
+**2 Groups
+**{{Bgcolortext|up|2}} teams of each group advance to '''Playoffs'''
+**All matches are {{Abbr/Ft2}}
+*'''Playoffs:''' ''April 27<sup>th</sup>
+**Single Elimination bracket
+**All matches ''(excl. Grand Finals)'' are {{Abbr/Ft2}}
+**Grand Finals are {{Abbr/Ft3}}
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=
+|position=Commentator
+|b1=FBI Tugboat
+}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=7|'''Map Pool'''
+|-
+![[Control]]
+![[Hybrid]]
+![[Escort]]
+![[Flashpoint]]
+![[Push]]
+|-
+|width="130"|
+*[[Lijiang Tower]]
+*[[Oasis]]
+*[[Antarctic Peninsula]]
+|width="130"|
+*[[King's Row]]
+*[[Hollywood]]
+*[[Blizzard World]]
+*[[Midtown]]
+|width="130"|
+*[[Route 66]]
+*[[Circuit Royal]]
+*[[Dorado]]
+*[[Junkertown]]
+|width="130"|
+*[[New Junk City]]
+*[[Suravasa]]
+|width="130"|
+*[[Colosseo]]
+*[[Esperança]]
+*[[New Queen Street]]
+|}
+
+===Prize Pool===
+{{TeamPrizePool
+|{{Slot|usdprize=1000}}
+}}
+
+==Playoff Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4|height=210}}
+{{TeamCard
+|team=Orange Vista High School
+|p1=twizo|p1flag=us|pos1=dps
+|p2=slayingknight04|p2flag=us|pos2=dps
+|p3=dannysghosts|p3flag=us|pos3=tank
+|p4=ilytwo|p4flag=us|pos4=sup
+|p5=imaphenom0|p5flag=us|pos5=sup
+|t2title=Staff
+|t2c1=Fathertime|t2c1flag=us|t2c1pos=coach
+|t2c2=SusTea|t2c2flag=us|t2c2pos=coach
+|qualifier=Group 1
+|placement=1
+}}
+{{TeamCard
+|team=Rancho Verde High School
+|p1=EnvyPopTarts|p1flag=us|pos1=dps
+|p2=BigNateDoge|p2flag=us|pos2=dps
+|p3=AdrianTB1|p3flag=us|pos3=tank
+|p4=Vader|p4flag=us|pos4=sup
+|p5=TheGoldenAnt|p5flag=us|pos5=sup
+|qualifier=Group 1
+|placement=2
+}}
+{{TeamCard
+|team=Citrus Hill High School
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|qualifier=Group 2
+|placement=1
+}}
+{{TeamCard
+|team=Val Verde High School
+|p1=rev|p1flag=us|pos1=dps
+|p2=Ghxst|p2flag=us|pos2=dps
+|p3=Kiyoshiakagi|p3flag=us|pos3=tank
+|p4=mvk|p4flag=us|pos4=sup
+|p5=ToxicFumes|p5flag=us|pos5=sup
+|qualifier=Group 2
+|placement=2
+}}
+{{TeamCard columns end}}
+
+==Playoff Results==
+{{Bracket|Bracket/4|id=3tF6HjLqLr
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=2024-04-27
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Rancho Verde High School}}
+    |opponent2={{TeamOpponent|Citrus Hill High School}}
+    |map1={{Map|map=New Junk City|mode=Flashpoint|score1=3|score2=0|winner=1}}
+    |map2={{Map|map=Junkertown|mode=Escort|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |date=2024-04-27
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Orange Vista High School}}
+    |opponent2={{TeamOpponent|Val Verde High School}}
+    |map1={{Map|map=Route 66|mode=Escort|score1=1|score2=0|winner=1}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=1|1score2=0|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |date=2024-04-27
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Rancho Verde High School}}
+    |opponent2={{TeamOpponent|Orange Vista High School}}
+    |map1={{Map|map=Junkertown|mode=Escort|score1=2|score2=3|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+	|vod=https://www.youtube.com/watch?v=6poINTllv48
+}}
+}}
+
+==References==
+{{Reflist}}

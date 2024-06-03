@@ -1,0 +1,50 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "TEN 2022 FPS SPECIAL",
+            "shortname": "TEN FPS SPECIAL",
+            "tickername": "TEN FPS SPECIAL",
+            "series": "The Esports Night",
+            "icon": "The Esports Night logo small.png",
+            "image": "TEN 2022 FPS SPECIAL.png",
+            "organizer": "Government of Busan",
+            "organizer-link": "http://www.busanit.or.kr/",
+            "organizer2": "LOUD COMMUNICATIONS",
+            "organizer2-link": "http://www.loudcomms.com/",
+            "type": "Offline",
+            "country": "South Korea",
+            "city": "Busan",
+            "venue": "[https://brena.or.kr/brena BRENA]",
+            "format": "Single Elimination",
+            "prizepool": "7000000",
+            "localcurrency": "KRW",
+            "date": "2022-12-23",
+            "twitter": "Brena_esports",
+            "web": "https://brena.or.kr/brena/index.do",
+            "streams": "https://play.afreecatv.com/afoverwatch/null",
+            "twitch": "overwatchkr",
+            "douyu": "7967958",
+            "twitter2": "owesports_kr",
+            "youtube": "TEN_kr",
+            "rulebook": "",
+            "bracket": "",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "opponent1": "{{TeamOpponent|sin prisa gaming}}|opponent2={{TeamOpponent|panthera}}",
+            "date": "December 24, 2022 - 18:00 {{Abbr/KST}}|finished=true",
+            "twitch": "owesports_kr|youtube=TEN_kr|vod=https://youtu.be/2_nIUZ4f53w",
+            "map1": "{{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=5|score2=4|winner=1}}",
+            "map3": "{{Map|map=Dorado|mode=Escort|score1=1|score2=0|winner=1}}",
+            "map4": "{{Map|map=Esperan\u00e7a|mode=Push|score1=89.27|score2=93.52|winner=2}}",
+            "map5": "{{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}",
+            "map6": "{{Map|map=Route 66|mode=Escort|score1=1|score2=0|winner=1}}",
+            "map7": "{{Map|map=Colosseo|mode=Control|score1=115.08|score2=42.49|winner=1}}\n    }}"
+        }
+    ]
+}

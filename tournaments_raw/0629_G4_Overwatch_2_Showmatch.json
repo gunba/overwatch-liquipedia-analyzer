@@ -1,0 +1,53 @@
+{
+    "tournament_info": [
+        {
+            "name": "G4 Overwatch 2 Showmatch",
+            "tickername": "G4 Overwatch 2 Showmatch",
+            "shortname": "G4 Overwatch 2 Showmatch",
+            "image": "G4 Overwatch 2 Showmatch allmode.png",
+            "icon": "G4 Overwatch 2 Showmatch allmode.png",
+            "series": "",
+            "organizer": "G4",
+            "organizer-link": "https://g4tv.com",
+            "country": "United States",
+            "type": "Online",
+            "game": "overwatch2",
+            "prizepoolusd": "10,000",
+            "format": "",
+            "date": "2022-05-03",
+            "liquipediatier": "3|liquipediatiertype=Showmatch",
+            "web": "https://g4tv.com",
+            "youtube": "g4tvesports",
+            "twitter": "g4tv",
+            "twitch": "g4tv",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "May 3, 2022 - 15:00 {{Abbr/PDT}}",
+            "twitch": "g4tv",
+            "youtube": "g4tvesports",
+            "opponent1": "{{SoloOpponent|Bren|flag=uk}}",
+            "opponent2": "{{SoloOpponent|Sideshow|flag=uk}}",
+            "map1": "{{Map|map=Workshop Island|mode=Elimination|score1=7|score2=2|winner=1}}",
+            "vod": "https://www.twitch.tv/videos/1474126905"
+        },
+        {
+            "bestof": "5",
+            "date": "May 3, 2022 - 15:00 {{Abbr/PDT}}",
+            "twitch": "g4tv",
+            "youtube": "g4tvesports",
+            "opponent1": "{{TeamOpponent|team bren (g4)}}",
+            "opponent2": "{{TeamOpponent|team sideshow (g4)}}",
+            "map1": "{{Map|map=New Queen Street|mode=Push|score1=140.00m|score2=52.09m|winner=1}}",
+            "map2": "{{Map|map=Midtown|mode=Hybrid|score1=3|score2=1|winner=1}}",
+            "map3": "{{Map|map=Circuit Royal|mode=Escort|score1=3|score2=0|winner=1}}",
+            "map4": "{{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=skip}}",
+            "map5": "{{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}",
+            "vod": "https://www.twitch.tv/videos/1474126905"
+        }
+    ]
+}

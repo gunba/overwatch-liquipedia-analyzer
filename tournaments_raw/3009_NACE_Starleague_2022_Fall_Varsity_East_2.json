@@ -1,0 +1,318 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "NACE Starleague",
+            "abbreviation": "NACE",
+            "name": "NACE Starleague Fall 2022 Varsity Premier - East 2",
+            "shortname": "NACE Starleague Fall 2022 Varsity Premier - East 2",
+            "tickername": "NACE Varsity East 2",
+            "image": "NACE Starleague lightmode.png",
+            "imagedark": "NACE Starleague darkmode.png",
+            "organizer": "National Association of Collegiate Esports",
+            "organizer2": "Playfly Esports",
+            "sponsor": "[https://www.extra-life.org/ Extra Life]<br>[https://www.monsterenergy.com/us/en Monster Energy]",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "",
+            "sdate": "2022-10-11",
+            "edate": "2022-11-01",
+            "twitter": "nacestarleague",
+            "web": "https://nacesports.org",
+            "twitch": "nacestarleague",
+            "twitch2": "",
+            "discord": "",
+            "youtube": "",
+            "rulebook": "https://drive.google.com/file/d/1Lz3d7SHfacy6tIUsmm5MOM93FNbjYkGJ/view",
+            "bracket": "https://nsl.leaguespot.gg/seasons/ddefc087-1609-4503-ab05-8f0338467089",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Northwood University",
+            "p1": "Boat|p1flag=|pos1=dps",
+            "p2": "Dynasty|p2flag=|pos2=dps",
+            "p3": "SZNS|p3flag=|pos3=tank",
+            "p4": "cowman711|p4flag=|pos4=tank",
+            "p5": "Yimitra|p5flag=|pos5=sup",
+            "p6": "Cjay|p6flag=|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Morb|t2c1pos=coach",
+            "t2c2": "Tubesock|t2c2pos=manager"
+        },
+        {
+            "team": "East Tennessee State University",
+            "p1": "Outplayed|p1flag=|pos1=dps",
+            "p2": "Senorlol|p2flag=|pos2=dps",
+            "p3": "Xenon|p3flag=|pos3=tank",
+            "p4": "Source|p4flag=|pos4=sup",
+            "p5": "Sponk|p5flag=|pos5=sup"
+        },
+        {
+            "team": "George Mason University",
+            "p1": "Yackson|p1flag=|pos1=dps",
+            "p2": "Ibbinx|p2flag=us|pos2=dps",
+            "p3": "RiteINYOFace|p3flag=us|pos3=tank",
+            "p4": "Matthew|p4flag=|pos4=tank",
+            "p5": "ZapPat|p5flag=us|pos5=sup",
+            "p6": "Anform|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Edgewood College",
+            "p1": "Luke|p1flag=us|pos1=dps",
+            "p2": "BackInNam|p2flag=us|pos2=dps",
+            "p3": "Jabobers|p3flag=us|pos3=tank",
+            "p4": "James|p4flag=us|pos4=sup",
+            "p5": "Sariel|p5flag=us|pos5=sup",
+            "t2title": "Substitutes",
+            "t2p1": "Aspect|t2p1flag=us|t2p1link=Aspect (Edgewood College Player)",
+            "t2p2": "Extremity|t2p2flag=us",
+            "t2p3": "ThatOneJose|t2p3flag=us",
+            "t2p4": "FiskeWiske",
+            "t3title": "Staff",
+            "t3c1": "Dario Isic|t3c1pos=coach|t3c1flag=ca",
+            "t3c2": "Daniel Duchaj|t3c2pos=coach|t3c2flag=us"
+        },
+        {
+            "team": "Shawnee State University",
+            "p1": "Bas1lisk|p1flag=|pos1=dps",
+            "p2": "ZSmitty2020|p2flag=|pos2=dps",
+            "p3": "CNNNFDDR|p3flag=|pos3=tank",
+            "p4": "Zephyr|p4flag=|pos4=sup",
+            "p5": "Pachinko|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Iona University",
+            "p1": "Calamity|p1flag=|pos1=dps",
+            "p2": "Majin|p2flag=|pos2=dps",
+            "p3": "Chief|p3flag=|pos3=tank",
+            "p4": "Bean|p4flag=|pos4=sup",
+            "p5": "GabeBredRols|p5flag=|pos5=sup"
+        },
+        {
+            "team": "University of North Texas at Dallas",
+            "p1": "Dragon|p1flag=|pos1=dps",
+            "p2": "Official|p2flag=|pos2=dps",
+            "p3": "Dez|p3flag=|pos3=tank",
+            "p4": "DirtyDallas|p4flag=|pos4=tank",
+            "p5": "SKP|p5flag=|pos5=sup",
+            "p6": "Cloudi|p6flag=|pos6=sup",
+            "p7": "Soft|p57flag=|pos7=flex"
+        },
+        {
+            "team": "University of Southern Mississippi",
+            "p1": "Reflex|p1flag=|pos1=dps",
+            "p2": "Xaeryo|p2flag=|pos2=dps",
+            "p3": "Lowelife|p3flag=|pos3=tank",
+            "p4": "Riot|p4flag=|pos4=sup",
+            "p5": "Skyblaze|p5flag=|pos5=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "October 11, 2022 - 21:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|eagle esports|score=FF}}",
+            "opponent2": "{{TeamOpponent|northwood university|score=W}}",
+            "optional": "M1="
+        },
+        {
+            "date": "October 11, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|etsu esports|score=3}}",
+            "opponent2": "{{TeamOpponent|untd trailblazer|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "October 11, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|iona gaels|score=0}}",
+            "opponent2": "{{TeamOpponent|gmu patriots|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "October 11, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|shawnee state bears|score=0}}",
+            "opponent2": "{{TeamOpponent|edgewood college|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "October 13, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|northwood university|score=3}}",
+            "opponent2": "{{TeamOpponent|untd trailblazer|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "October 13, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|eagle esports|score=3}}",
+            "opponent2": "{{TeamOpponent|iona gaels|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "October 13, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|etsu esports|score=3}}",
+            "opponent2": "{{TeamOpponent|shawnee state bears|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "October 13, 2022 - 19:30 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|edgewood college|score=0}}",
+            "opponent2": "{{TeamOpponent|gmu patriots|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "October 18, 2022 - 18:30 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|iona gaels|score=1}}",
+            "opponent2": "{{TeamOpponent|northwood university|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "October 18, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|untd trailblazer|score=0}}",
+            "opponent2": "{{TeamOpponent|shawnee state bears|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "October 18, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|eagle esports|score=2}}",
+            "opponent2": "{{TeamOpponent|edgewood college|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "October 18, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=nacestarleague3",
+            "opponent1": "{{TeamOpponent|gmu patriots|score=3}}",
+            "opponent2": "{{TeamOpponent|etsu esports|score=2}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "October 20, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|northwood university|score=3}}",
+            "opponent2": "{{TeamOpponent|shawnee state bears|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "October 20, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|edgewood college|score=3}}",
+            "opponent2": "{{TeamOpponent|iona gaels|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "October 20, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|untd trailblazer|score=0}}",
+            "opponent2": "{{TeamOpponent|gmu patriots|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "October 20, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|eagle esports|score=0}}",
+            "opponent2": "{{TeamOpponent|etsu esports|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "October 25, 2022 - 20:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|edgewood college|score=1}}",
+            "opponent2": "{{TeamOpponent|northwood university|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "October 25, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gmu patriots|score=3}}",
+            "opponent2": "{{TeamOpponent|shawnee state bears|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "October 25, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|iona gaels|score=1}}",
+            "opponent2": "{{TeamOpponent|etsu esports|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "October 25, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|eagle esports|score=3}}",
+            "opponent2": "{{TeamOpponent|untd trailblazer|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "October 27, 2022 - 20:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|northwood university|score=3}}",
+            "opponent2": "{{TeamOpponent|gmu patriots|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "October 27, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|etsu esports|score=1}}",
+            "opponent2": "{{TeamOpponent|edgewood college|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "October 31, 2022 - 18:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|eagle esports|score=3}}",
+            "opponent2": "{{TeamOpponent|shawnee state bears|score=1}}",
+            "optional": "M3="
+        },
+        {
+            "date": "October 27, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|untd trailblazer|score=3}}",
+            "opponent2": "{{TeamOpponent|iona gaels|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "November 1, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|northwood university|score=3}}",
+            "opponent2": "{{TeamOpponent|etsu esports|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "November 1, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|eagle esports|score=0}}",
+            "opponent2": "{{TeamOpponent|gmu patriots|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "November 1, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|edgewood college|score=3}}",
+            "opponent2": "{{TeamOpponent|untd trailblazer|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "November 1, 2022 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|shawnee state bears|score=3}}",
+            "opponent2": "{{TeamOpponent|iona gaels|score=0}}",
+            "optional": "M4="
+        }
+    ]
+}

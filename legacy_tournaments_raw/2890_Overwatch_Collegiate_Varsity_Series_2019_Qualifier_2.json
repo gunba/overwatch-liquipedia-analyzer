@@ -1,0 +1,201 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "name": "Tespa Overwatch Collegiate Varsity Series 2019 Qualifier 2",
+            "shortname": "Tespa OCVS Q2",
+            "series": "Overwatch Collegiate Varsity Series",
+            "abbreviation": "OCVS",
+            "tickername": "Tespa OCVS Q2",
+            "image": "OW TespaCollegiate Logo Varsity.png",
+            "icon": "OW TespaCollegiate Logo Varsity small.png",
+            "organizer": "Tespa",
+            "organizer-link": "https://compete.tespa.org/",
+            "sponsor": "",
+            "type": "Online",
+            "country": "North America",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "patch": "",
+            "epatch": "",
+            "prizepoolusd": "",
+            "sdate": "2019-09-25",
+            "edate": "2019-09-28",
+            "bracket": "https://compete.tespa.org/tournament/150/phase/1",
+            "youtube": "",
+            "twitch": "",
+            "twitch2": "",
+            "team_number": "84"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Scarlet Knights",
+            "image": "Scarlet Knights logo.png",
+            "p1": "Aegis|p1flag=us|pos1=dps",
+            "p2": "Kyng|p2flag=us|pos2=dps",
+            "p3": "Parzival|p3flag=us|pos3=tank",
+            "p4": "AirMarshal|p4flag=cn|pos4=tank",
+            "p5": "Ultra|p5flag=us|pos5=tank",
+            "p6": "Insane|p6flag=sg|pos6=sup",
+            "p7": "Necrosis|p7flag=kr|pos7=sup",
+            "p8": "Milktea|p8flag=us|pos8=sup",
+            "c": "Llamuh|cflag=pk",
+            "c2": "Bora|c2flag=kr",
+            "qualifier": "Rutgers University"
+        },
+        {
+            "team": "Winthrop Eagles",
+            "image": "Winthrop Eagles logo.png",
+            "p1": "Del|p1flag=us|pos1=dps",
+            "p2": "flare|p2flag=us|pos2=dps",
+            "p3": "Sh1Mo|p3flag=us|pos3=tank",
+            "p4": "Qwickzzz|p4flag=us|pos4=tank",
+            "p5": "Kaori|p5flag=us|pos5=sup",
+            "p6": "Chipzy|p6flag=us|pos6=sup",
+            "c": "|cflag=",
+            "qualifier": "Winthrop University"
+        },
+        {
+            "team": "Redhawks",
+            "image": "Miami University Esports.png",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8=",
+            "c": "|cflag=",
+            "qualifier": "Miami University of Ohio"
+        },
+        {
+            "team": "Warriors",
+            "image": "Midland.png",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8=",
+            "c": "|cflag=",
+            "qualifier": "Midland University"
+        },
+        {
+            "team": "DSU Trojans",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8=",
+            "c": "|cflag=",
+            "qualifier": "Dakota State University"
+        },
+        {
+            "team": "Sooners",
+            "image": "Oklahoma University.png",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8=",
+            "c": "|cflag=",
+            "qualifier": "University of Oklahoma"
+        },
+        {
+            "team": "Becker Blue",
+            "image": "Becker Esports.png",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8=",
+            "c": "|cflag=",
+            "qualifier": "Becker College"
+        },
+        {
+            "team": "Wichita State",
+            "image": "Wichita State.png",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8=",
+            "c": "|cflag=",
+            "qualifier": "Wichita State University"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "dsu trojans",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "redhawks",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "scarlet knights",
+            "score2": "2",
+            "win2": "2",
+            "key": "R1D3",
+            "team1": "becker blue",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "winthrop eagles",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "sooners",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "wichita state",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "warriors",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "scarlet knights",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "redhawks",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "warriors",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "winthrop eagles",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

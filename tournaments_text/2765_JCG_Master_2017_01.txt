@@ -1,0 +1,661 @@
+{{DISPLAYTITLE:JCG Master 2017 #01}}
+{{JCG Master Tabs|JCGM2017SF=2}}
+{{Infobox league
+|name=JCG Master 2017 #01
+|shortname=2017 #01
+|image=JCGMaster2017-01.jpg
+|series=JCG Master
+|abbreviation=JCG Master
+|tickername=2017 #01
+|icon=JCG Masterlogo small.png
+|organizer=Japan Competitive Gaming
+|organizer-link=http://www.j-cg.com/
+|sponsor=[http://zowie.benq.com/ Zowie]<br/>[http://www.hyperxgaming.com HyperX]<br/>[http://www.anime.ac.jp/en/ Tokyo School of Anime]
+|type=Online
+|country=Japan
+|city=
+|format='''Playoffs''': Single Elimination.
+|game=overwatch
+|prizepool=
+|localcurrency=jpy
+|prizepoolusd=
+|date=2017-07-15
+|liquipediatier=3|liquipediatiertype=Qualifier
+|web=http://ow.j-cg.com/
+|youtube=channel/UCUz13KPT3QQ7qag7rImH6kA
+|twitter=JCGjp
+|bracket=http://ow.j-cg.com/compe/view/tour/40
+|twitch=
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=16
+|map1=King's Row
+|map2=Numbani
+|map3=Hollywood
+|map4=Eichenwalde
+|map5=Watchpoint: Gibraltar
+|map6=Dorado
+|map7=Route 66
+|map8=Hanamura
+|map9=Temple of Anubis
+|map10=Volskaya Industries
+|map11=Horizon Lunar Colony
+|map12=Nepal
+|map13=Lijiang Tower
+|map14=Ilios
+|map15=Oasis
+|previous=JCG/Master/2016-2017/Winter_Finals{{!}}2016-2017 Winter Finals
+|next=JCG/Master/2017/02{{!}}JCG Master 2017 #02
+}}
+{{TOClimit|3}}
+
+==About==
+===Format===
+*'''Playoffs''': Single Elimination.
+** Two different brackets.
+**All matches are {{Abbr/Bo3}}.
+***In the case of a draw, a sudden death {{Abbr/Bo5}} round will be played on [[Lijiang Tower]].
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|-
+!width="460" colspan=4|Available Maps (''All'')
+|-
+![[Assault]]
+![[Control]] ({{Abbr/Bo5}})
+![[Escort]]
+![[Hybrid]]
+|-
+|width="130" |
+*[[Hanamura]]<br>
+*[[Horizon Lunar Colony]]<br>
+*[[Temple of Anubis]]<br>
+*[[Volskaya Industries]]
+|width="130" |
+*[[Ilios]]<br>
+*[[Lijiang Tower]]<br>
+*[[Nepal]]<br>
+*[[Oasis]]
+|width="130" |
+*[[Dorado]]<br>
+*[[Route 66]]<br>
+*[[Watchpoint: Gibraltar]]
+|width="130" |
+*[[Eichenwalde]]<br>
+*[[Hollywood]]<br>
+*[[King's Row]]<br>
+*[[Numbani]]
+|-
+!width="160"  colspan=1|''Tiebreaker''
+|width="160" colspan=4|{{Abbr/Bo5}} Match on [[Lijiang Tower]]
+|}
+
+===Prize Pool===
+'''12 points''' (per bracket) are spread among the teams as seen below:
+{{prize pool start|noprize=1|points=points|cutafter=8 }}
+{{prize pool slot|place=1-2 |points=6
+|crest gaming.zero|lastvs1=dtn.gold|lastscore1=2 |lastvsscore1=0
+|cyclops|lastvs2=harmonix gaming|lastscore2=2 |lastvsscore2=0
+}}
+{{prize pool slot|place=3-4 |points=3
+|dtn.gold|lastvs1=crest gaming.zero|lastscore1=0 |lastvsscore1=2
+|harmonix gaming|lastvs2=cyclops|lastscore2=0 |lastvsscore2=2
+}}
+{{prize pool slot |place=5-6 |points=2
+|cast|lastvs1=team encount ng|lastscore1=2 |lastvsscore1=1
+|サイコパス大阪|lastvs2=もたく|lastscore2=2 |lastvsscore2=0
+}}
+{{prize pool slot |place=7-8 |points=1
+|team encount ng|lastvs1=cast|lastscore1=1 |lastvsscore1=2
+|もたく|lastvs2=サイコパス大阪|lastscore2=0 |lastvsscore2=2
+}}
+{{prize pool slot|place=9-16|points=0 |link=
+|gbr|lastvs1=dtn.gold|lastscore1=0 |lastvsscore1=2
+|astonish gaming diablodeathtouch|lastvs2=team encount ng|lastscore2=1 |lastvsscore2=2
+|アクセルさんいますか|lastvs3=cast|lastscore3=0 |lastvsscore3=2
+|7th heaven|lastvs4=crest gaming.zero|lastscore4=1 |lastvsscore4=2
+|t-storm|lastvs5=もたく|lastscore5=0 |lastvsscore5=2
+|yellow busters|lastvs6=harmonix gaming|lastscore6=0 |lastvsscore6=2
+|prayforus|lastvs7=サイコパス大阪|lastscore7=0 |lastvsscore7=2
+|green leaves|lastvs8=cyclops|lastscore8=0 |lastvsscore8=2
+}}
+{{prize pool slot|place=17-18|points=0 |link=
+|銃なんか捨ててかかってこい|lastvs1=dtn.gold|lastscore1=0 |lastvsscore1=2
+|team encount pressq|lastvs2=もたく|lastscore2=0 |lastvsscore2=2
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=7th heaven
+|p1=rion|p1flag=jp|pos1=dps
+|p2=ClutchFi|p2flag=jp|pos2=flex
+|p3=Sally|p3flag=jp|pos3=flex
+|p4=ちまちん|p4flag=jp|pos4=tank
+|p5=Yone|p5flag=jp|pos5=sup
+|p6=PkmN|p6flag=jp|pos6=sup
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ANG DiabloDeathTouch
+|p1=azisio|p1flag=jp
+|p2=Fulena|p2flag=jp
+|p3=kira44|p3flag=jp
+|p4=LueChee|p4flag=jp
+|p5=Plumeria|p5flag=jp
+|p6=SILVANA|p6flag=jp
+|p7=ろろみや|p7flag=jp
+|p8=|p8flag=jp
+|p9=|p9flag=jp
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Cast
+|p1=amakaze525|p1flag=jp
+|p2=CeldriVe|p2flag=jp
+|p3=Haqua|p3flag=jp
+|p4=NokoTy4n|p4flag=jp
+|p5=RaLph|p5flag=jp
+|p6=SiLkey|p6flag=jp
+|p7=YukiTy4n|p7flag=jp
+|p8=|p8flag=jp
+|p9=|p9flag=jp
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Crest Gaming.Zero
+|p1=peru|p1flag=jp|pos1=dps
+|p2=BaLDeL|p2flag=jp|pos2=dps
+|p3=Neru|p3flag=jp|pos3=flex
+|p4=Rimlime|p4flag=jp|pos4=tank
+|p5=XmasKill|p5flag=jp|pos5=sup
+|p6=BATA|p6flag=jp|pos6=sup
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=CYCLOPS athlete gaming
+|p1=Nico|p1flag=jp|pos1=dps
+|p2=Hexbell|p2flag=jp|pos2=dps
+|p3=Sa1nt|p3flag=jp|pos3=flex
+|p4=tbnPeltor|p4flag=jp|pos4=tank
+|p5=Bep|p5flag=jp|pos5=sup
+|p6=shikumun|p6flag=jp|pos6=sup
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=DeToNator.GOLD
+|p1=Saih4tE|p1flag=jp|pos1=dps
+|p2=AmeKen|p2flag=jp|pos2=dps
+|p3=yoshiharu|p3flag=jp|pos3=flex
+|p4=そないろ|p4flag=jp|pos4=tank
+|p5=Wataame|p5flag=jp|pos5=sup
+|p6=dohteloff|p6flag=jp|pos6=sup
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Green Leaves
+|p1=Nypro|p1flag=jp|pos1=dps
+|p2=hoshimi|p2flag=jp|pos2=dps
+|p3=pocky|p3flag=jp|pos3=flex
+|p4=gappo3|p4flag=jp|pos4=tank
+|p5=かわじー|p5flag=jp|pos5=sup
+|p6=PangTong|p6flag=jp|pos6=sup
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=GuidedBoneRegeration
+|p1=Aisya|p1flag=jp
+|p2=Echoes|p2flag=jp
+|p3=Clank|p3flag=jp
+|p4=HYT|p4flag=jp
+|p5=Jazzy|p5flag=jp
+|p6=WereWolf|p6flag=jp
+|p7=ArtiFex|p7flag=jp
+|p8=|p8flag=jp
+|p9=|p9flag=jp
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=HarmoniX Gaming
+|p1=Sylvie|p1flag=jp|pos1=dps
+|p2=はせがわ|p2flag=jp|pos2=dps
+|p3=Saika|p3flag=jp|pos3=flex
+|p4=Neichel|p4flag=jp|pos4=tank
+|p5=Xera|p5flag=jp|pos5=sup
+|p6=garaden|p6flag=jp|pos6=sup
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=PrayForUs
+|p1=DAXCOCOA|p1flag=jp
+|p2=Hinano|p2flag=jp
+|p3=Junsui|p3flag=jp
+|p4=NEKKI|p4flag=jp
+|p5=Ninja|p5flag=jp|p5link=Ninja (Japanese player)
+|p6=rose|p6flag=jp|p6link=rose (Japanese player)
+|p7=sobaya|p7flag=jp
+|p8=はぶくん|p8flag=jp
+|p9=ナメクジ|p9flag=jp
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=T-Storm
+|p1=DRAGON76|p1flag=jp
+|p2=Kaz|p2flag=jp
+|p3=IkeJun|p3flag=jp
+|p4=Texas|p4flag=jp
+|p5=shade|p5flag=jp
+|p6=どくとマン|p6flag=jp
+|p7=|p7flag=jp
+|p8=|p8flag=jp
+|p9=|p9flag=jp
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=TEAM ENCOUNT NG
+|p1=ALY|p1flag=jp
+|p2=HekTop|p2flag=jp
+|p3=How2|p3flag=jp
+|p4=Mafin|p4flag=jp
+|p5=Mason|p5flag=jp
+|p6=Roadie|p6flag=jp
+|p7=ValerieN|p7flag=jp
+|p8=YooN|p8flag=jp
+|p9=|p9flag=jp
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=TEAM ENCOUNT PressQ
+|p1=Bienenbi|p1flag=jp
+|p2=hayaminOC|p2flag=jp
+|p3=Lia|p3flag=jp
+|p4=RqLuKuN|p4flag=jp
+|p5=YooN|p5flag=jp
+|p6=あーちゃん|p6flag=jp
+|p7=Perosshi|p7flag=jp
+|p8=|p8flag=jp
+|p9=|p9flag=jp
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=YELLOW BUSTERS
+|p1=amami|p1flag=jp
+|p2=evQ|p2flag=jp
+|p3=goodpapa|p3flag=jp
+|p4=Nikumi|p4flag=jp
+|p5=ひろゃん|p5flag=jp
+|p6=ぴも|p6flag=jp
+|p7=渋谷のキング|p7flag=jp
+|p8=|p8flag=jp
+|p9=|p9flag=jp
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=もたく
+|p1=MaTtyo|p1flag=jp|pos1=dps
+|p2=Mukai|p2flag=jp|pos2=dps
+|p3=本能寺ファイア|p3flag=jp|pos3=flex
+|p4=abara|p4flag=jp|pos4=tank
+|p5=MOTAKU|p5flag=jp|pos5=sup
+|p6=burato|p6flag=jp|pos6=sup
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=アクセルさんいますか
+|p1=arukana|p1flag=jp
+|p2=はれるや！|p2flag=jp
+|p3=MADOTUKI|p3flag=jp
+|p4=Rivulet|p4flag=jp
+|p5=Sh1N|p5flag=jp
+|p6=SORYU|p6flag=jp
+|p7=takechan|p7flag=jp
+|p8=Z4menhofu|p8flag=jp
+|p9=|p9flag=jp
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=サイコパス大阪
+|p1=Chuchan|p1flag=jp
+|p2=Coro|p2flag=jp
+|p3=Leia|p3flag=jp
+|p4=Osato|p4flag=jp
+|p5=xNo4h|p5flag=jp
+|p6=Zumi|p6flag=jp
+|p7=しゃなだん|p7flag=jp
+|p8=|p8flag=jp
+|p9=|p9flag=jp
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=銃なんか捨ててかかってこい
+|p1=QJQ|p1flag=jp|pos1=flex
+|p2=KEINYAN|p2flag=jp|pos2=flex
+|p3=クロ|p3flag=jp|pos3=flex
+|p4=Shana|p4flag=jp|pos4=tank
+|p5=hahaha|p5flag=jp|pos5=sup
+|p6=DjPingu|p6flag=jp|pos6=sup
+|c=|cflag=jp
+|qualifier=
+}}
+{{box|end}}
+
+==Results==
+===Group 01===
+Complete bracket [http://ow.j-cg.com/compe/view/tour/40 here]
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=SZuWPLhodZ
+|column-width=205
+<!-- QUARTERFINALS -->
+|R1D1team=gbr |R1D1score=0 |R1D1win=
+|R1D2team=dtn.gold |R1D2score=2 |R1D2win=1
+|R1G1details={{BracketMatchSummary 
+|date=July 15, 2017 - 18:45 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Nepal|map1score=0-3|map1win=2
+|map2=Temple of Anubis|map2score=1-2|map2win=2
+|map3=Route 66|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=astonish gaming diablodeathtouch |R1D3score=1 |R1D3win=
+|R1D4team=team encount ng |R1D4score=2 |R1D4win=1
+|R1G2details={{BracketMatchSummary 
+|date=July 15, 2017 - 18:45 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=3-0|map1win=1
+|map2=Ilios|map2score=1-3|map2win=2
+|map3=Volskaya|map3score=1-2|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=アクセルさんいますか |R1D5score=0 |R1D5win=
+|R1D6team=cast |R1D6score=2 |R1D6win=1
+|R1G3details={{BracketMatchSummary 
+|date=July 15, 2017 - 18:45 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=0-3|map1win=2
+|map2=King's Row|map2score=0-3|map2win=2
+|map3=Nepal|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+|R1D7team=7th heaven |R1D7score=1 |R1D7win=
+|R1D8team=crest gaming.zero |R1D8score=2 |R1D8win=1
+|R1G4details={{BracketMatchSummary 
+|date=July 15, 2017 - 18:45 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=King's Row|map1score=|map1win=
+|map2=Lijiang Tower|map2score=|map2win=
+|map3=Numbani|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R2W1team=dtn.gold |R2W1score=2 |R2W1win=1
+|R2W2team=team encount ng |R2W2score=0 |R2W2win=
+|R2G1details={{BracketMatchSummary 
+|date=July 15, 2017 - 20:00 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=3-1|map1win=1
+|map2=Nepal|map2score=3-1|map2win=1
+|map3=Route 66|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+|R2W3team=cast |R2W3score=0 |R2W3win=
+|R2W4team=crest gaming.zero |R2W4score=2 |R2W4win=1
+|R2G2details={{BracketMatchSummary 
+|date=July 15, 2017 - 20:00 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Route 66|map1score=1-2|map1win=2
+|map2=Hollywood|map2score=1-2|map2win=2
+|map3=Ilios|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R3W1team=dtn.gold |R3W1score=0 |R3W1win=
+|R3W2team=crest gaming.zero |R3W2score=2 |R3W2win=1
+|R3G1details={{BracketMatchSummary 
+|date=July 15, 2017 - 21:15 {{Abbr/JST}}
+|stream=
+|finished=true
+|vod=https://youtu.be/2mkOF_dTGL8
+|map1=Numbani|map1score=0-3|map1win=2
+|map2=Lijiang Tower|map2score=1-3|map2win=2
+|map3=Route 66|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+<!-- 3RD PLACE (optional) -->
+|R3D1team=team encount ng |R3D1score= 1|R3D1win=
+|R3D2team=cast |R3D2score=2 |R3D2win=1
+|R3G2details={{BracketMatchSummary 
+|date=July 15, 2017 - 21:15 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=King's Row|map1score=2-3|map1win=2
+|map2=Ilios|map2score=3-0|map2win=1
+|map3=Route 66|map3score=1-2|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+}}
+
+===Group 02===
+Complete bracket [http://ow.j-cg.com/compe/view/tour/40 here]
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=LwcRT0Kx2S
+|column-width=205
+<!-- QUARTERFINALS -->
+|R1D1team=t-storm |R1D1score=0 |R1D1win=
+|R1D2team=もたく |R1D2score=2 |R1D2win=1
+|R1G1details={{BracketMatchSummary 
+|date=July 15, 2017 - 18:45 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=0-3|map1win=2
+|map2=King's Row|map2score=2-3|map2win=2
+|map3=Ilios|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=harmonix gaming |R1D3score=2 |R1D3win=1
+|R1D4team=yellow busters |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=July 15, 2017 - 18:45 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=3-0|map1win=1
+|map2=Nepal|map2score=3-0|map2win=1
+|map3=King's Row|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=サイコパス大阪 |R1D5score=2 |R1D5win=1
+|R1D6team=prayforus |R1D6score=0 |R1D6win=
+|R1G3details={{BracketMatchSummary 
+|date=July 15, 2017 - 18:45 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=3-0|map1win=1
+|map2=Hollywood|map2score=1-0|map2win=1
+|map3=Nepal|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+|R1D7team=green leaves |R1D7score=0 |R1D7win=
+|R1D8team=cyclops |R1D8score=2 |R1D8win=1
+|R1G4details={{BracketMatchSummary 
+|date=July 15, 2017 - 18:45 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=https://youtu.be/_m_GckjASnU
+|vodgame2=
+|vodgame3=
+|map1=Temple of Anubis|map1score=1-2|map1win=2
+|map2=Lijiang Tower|map2score=1-3|map2win=2
+|map3=Hollywood|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R2W1team=もたく |R2W1score=0 |R2W1win=
+|R2W2team=harmonix gaming |R2W2score=2 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=July 15, 2017 - 20:00 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=https://youtu.be/042ZnidBdFA
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=0-3|map1win=2
+|map2=Ilios|map2score=1-3|map2win=2
+|map3=King's Row|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+|R2W3team=サイコパス大阪 |R2W3score=0 |R2W3win=
+|R2W4team=cyclops |R2W4score=2 |R2W4win=1
+|R2G2details={{BracketMatchSummary 
+|date=July 15, 2017 - 20:00 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=0-3|map1win=2
+|map2=King's Row|map2score=0-1|map2win=2
+|map3=Watchpoint: Gibraltar|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R3W1team=harmonix gaming |R3W1score=0 |R3W1win=
+|R3W2team=cyclops |R3W2score=2 |R3W2win=1
+|R3G1details={{BracketMatchSummary 
+|date=July 15, 2017 - 21:15 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=0-3|map1win=2
+|map2=King's Row|map2score=2-3|map2win=2
+|map3=Hollywood|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+<!-- 3RD PLACE (optional) -->
+|R3D1team=もたく |R3D1score=0 |R3D1win=
+|R3D2team=サイコパス大阪 |R3D2score=2 |R3D2win=1
+|R3G2details={{BracketMatchSummary 
+|date=July 15, 2017 - 21:15 {{Abbr/JST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=2-3|map1win=2
+|map2=King's Row|map2score=2-3|map2win=2
+|map3=Route 66|map3score=|map3win=skip
+|overgg=
+|pf=
+|wl=
+}}
+}}
+
+==Media==
+===VODs===
+* [https://www.youtube.com/watch?v=ASKC3yGkc6g JCG MASTER #1 (4 matches)]
+
+==References==
+*{{flag/jp}} [http://ow.j-cg.com/news/76 Official announcement]
+{{Reflist}}

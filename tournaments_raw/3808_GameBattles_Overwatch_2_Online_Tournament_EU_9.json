@@ -1,0 +1,116 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Weekly",
+            "name": "GameBattles Overwatch 2 Online Tournament Europe #9",
+            "shortname": "5v5 Europe #9",
+            "tickername": "GameBattles Europe #9",
+            "icon": "GameBattles icon lightmode.png",
+            "icondark": "GameBattles icon darkmode.png",
+            "image": "GameBattles lightmode.png",
+            "imagedark": "GameBattles darkmode.png",
+            "organizer": "GameBattles",
+            "series": "GameBattles",
+            "abbreviation": "GB",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "prizepoolusd": "500",
+            "date": "2022-12-03",
+            "twitter": "gamebattles",
+            "discord": "gamebattles",
+            "facebook": "gamebattles",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--europe-123/rules",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--europe-123/bracket",
+            "team_number": "9",
+            "previous": "GameBattles_Overwatch_2_Online_Tournament/EU/8{{!}}#8",
+            "next": "GameBattles_Overwatch_2_Online_Tournament/EU/10{{!}}#10"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2022-12-03",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Shu's Money Crew EU|score=W}}",
+            "opponent2": "{{TeamOpponent|721 Academy|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "bestof": "3",
+            "date": "2022-12-03",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|I LOVE YOU|score=L}}",
+            "opponent2": "{{TeamOpponent|Shu's Money Crew EU|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "bestof": "3",
+            "date": "2022-12-03",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|AWW YEAH|score=W}}",
+            "opponent2": "{{TeamOpponent|721|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2022-12-03",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Fancy Fellas|score=W}}",
+            "opponent2": "{{TeamOpponent|Overtime|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Team Project|score=W}}",
+            "opponent2": "{{TeamOpponent|RQS ESPORTS|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Shu's Money Crew EU|score=W}}",
+            "opponent2": "{{TeamOpponent|AWW YEAH|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Fancy Fellas|score=W}}",
+            "opponent2": "{{TeamOpponent|Team Project|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "2022-12-03",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Fancy Fellas|score=2}}",
+            "opponent2": "{{TeamOpponent|Shu's Money Crew EU|score=1}}",
+            "map1": "{{Map|map=Busan|mode=control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map= King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Dorado|mode=Escort|score1=4|score2=3|winner=1}}",
+            "optional": "R4M1="
+        }
+    ]
+}

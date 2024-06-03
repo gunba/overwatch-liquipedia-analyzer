@@ -1,0 +1,236 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "Tournoi des P\u00e9pites",
+            "shortname": "TP #4",
+            "name": "Tournoi des P\u00e9pites 4",
+            "image": "PepiteTournamentLogo.png",
+            "icon": "PepiteTournamentIcone.png",
+            "organizer": "F\u00e9f\u00e9",
+            "type": "Online",
+            "format": "Double Elimination",
+            "game": "overwatch",
+            "country": "France",
+            "twitch": "fefegg",
+            "twitter": "FelxGG",
+            "discord": "RzAuzzc",
+            "prizepool": "100",
+            "localcurrency": "eur",
+            "date": "2021-02-13",
+            "rulebook": "https://challonge.com/fr/pepitesV4",
+            "team_number": "8",
+            "bracket": "https://challonge.com/fr/pepitesV4",
+            "previous": "Tournoi des P\u00e9pites/3 {{!}} TP #3",
+            "next": "Tournoi des P\u00e9pites/5 {{!}} TP #5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "KONG Rangers",
+            "p1": "Gio|p1flag=fr|pos1=dps|p1link=Gio (French player)",
+            "p2": "Shazam|p2flag=fr|pos2=dps|p2link=Shazam (French player)",
+            "p3": "Blankalash|p3flag=fr|pos3=dps",
+            "p4": "muwa|p4flag=kr|pos4=tank",
+            "p5": "Grabioul|p5flag=fr|pos5=tank",
+            "p6": "Mod|p6flag=gb|pos6=sup",
+            "p7": "RabZa|p7flag=dz|pos7=sup"
+        },
+        {
+            "team": "Team Couloir",
+            "p1": "Matriera|p1flag=fr|pos1=dps",
+            "p2": "Shadoxi|p2flag=fr|pos2=dps",
+            "p3": "Hishibiki|p3flag=fr|pos3=dps",
+            "p4": "MBZ1|p4flag=fr|pos4=tank",
+            "p5": "SuperSaucise|p5flag=fr|pos5=tank",
+            "p6": "Lhine|p6flag=fr|pos6=sup",
+            "p7": "ShenZ\u00f8|p7flag=md|pos7=sup"
+        },
+        {
+            "team": "Les Seigneurs",
+            "p1": "Stellios|pos1=dps",
+            "p2": "Matster|p2flag=ch|pos2=dps",
+            "p3": "IcesSrom|p3flag=be|pos3=tank",
+            "p4": "Freefals|p4flag=fr|pos4=tank",
+            "p5": "Wolfsilver|p5flag=fr|pos5=sup",
+            "p6": "Gendow|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "Team Navette",
+            "p1": "FTGUNGAN|p1flag=fr|pos1=dps",
+            "p2": "SuuperLow|p2flag=fr|pos2=dps",
+            "p3": "Atomik|p3flag=fr|pos3=tank",
+            "p4": "Bastet|p4flag=fr|pos4=tank",
+            "p5": "xpariboy|p5flag=fr|pos5=tank",
+            "p6": "DrunkyPanda|p6flag=fr|pos6=sup",
+            "p7": "Azu|p7flag=fr|pos7=sup"
+        },
+        {
+            "team": "Bobi Haters Club",
+            "p1": "Lulutrim|p1flag=fr|pos1=",
+            "p2": "darrow|p2flag=fr|pos2=",
+            "p3": "Ironfirst|p3flag=fr|pos3=",
+            "p4": "Lagoon|p4flag=fr|pos4=",
+            "p5": "polymeth|p5flag=fr|pos5=",
+            "p6": "Asaru|p6flag=fr|pos6="
+        },
+        {
+            "team": "Team P\u00e9pite",
+            "p1": "LayZ|p1flag=fr|pos1=",
+            "p2": "Raiven17|p2flag=fr|pos2=",
+            "p3": "Jahl|p3flag=fr|pos3=",
+            "p4": "Sh\u00fb|p4flag=dz|pos4=",
+            "p5": "Syphox|p5flag=fr|pos5=",
+            "p6": "Youggi|p6flag=fr|pos6=sup",
+            "p7": "Vinnie|p7flag=fr|pos7="
+        },
+        {
+            "team": "LGB",
+            "p1": "LCH|p1flag=fr|pos1=",
+            "p2": "Spalou|p2flag=fr|pos2=",
+            "p3": "LePouletBob|p3flag=fr|pos3=",
+            "p4": "Delfi|p4flag=fr|pos4=",
+            "p5": "Teemo|p5flag=fr|pos5=dps",
+            "p6": "Bombiman|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "Team Grrrr",
+            "p1": "Loumix|p1flag=fr|pos1=tank",
+            "p2": "Eldart|p2flag=fr|pos2=tank",
+            "p3": "saliGHO|p3flag=fr|pos3=",
+            "p4": "HammerKick|pos4=dps",
+            "p5": "Nolur|p5flag=fr|pos5=support",
+            "p6": "Dk|p6flag=fr|pos6=",
+            "p7": "Vordengun|p7flag=fr|pos7="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Team Grrrr",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "Team P\u00e9pite",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Team Navette",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "Les Seigneurs",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Bobi Haters Club",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "Team Couloir",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "LGB",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "KONG Rangers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Team Navette",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D9",
+            "team1": "Team Grrrr",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "LGB",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "Team Couloir",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Les Seigneurs",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "Team P\u00e9pite",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "KONG Rangers",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "Bobi Haters Club",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "Team Navette",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "Bobi Haters Club",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Team Couloir",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D2",
+            "team1": "Team P\u00e9pite",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Team Couloir",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "Team Navette",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "KONG Rangers",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "Les Seigneurs",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "Team Couloir",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "Les Seigneurs",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Team Couloir",
+            "score2": "1",
+            "win2": "1",
+            "key": "R5W1",
+            "team1": "KONG Rangers",
+            "score1": "2",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

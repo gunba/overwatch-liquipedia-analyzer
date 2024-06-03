@@ -1,0 +1,161 @@
+{{DISPLAYTITLE:Tuwaiq Challenge: 5}}
+{{Infobox league
+|liquipediatier=5|liquipediatiertype=Weekly
+|name=Tuwaiq Challenge: 5
+|tickername=Tuwaiq Challenge: 5
+|icon=Tuwaiq Challenge allmode.png
+|image=Tuwaiq Challenge allmode.png
+|organizer=Tuwaiq Esports
+|game=overwatch2
+|type=Online
+|country=Middle East
+|format=Single Elimination
+|prizepoolusd=250
+|date=2023-07-12
+|bracket=https://play.toornament.com/en_US/tournaments/6893777265799888896/
+|web=https://twq.world/tc/
+|discord=pEf9g8uGJt
+|instagram=TuwaiqEC
+|twitter=TuwaiqEC
+|team_number=8
+|previous=Tuwaiq Challenge/4 {{!}} #4
+|next=Tuwaiq Challenge/6 {{!}} #6
+}}
+
+==Information==
+===Format===
+* Single Elimination Bracket
+* Finals are {{Abbr/Bo3}}, all other matches are {{Abbr/Bo1}}
+
+===Prize Pool===
+{{TeamPrizePool
+|{{Slot|usdprize=250}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=THE VICIOUS
+|p1=djevel|p1flag=sa|pos1=tank
+|p2=Sadfitzy|p2flag=sa|pos2=sup
+|p3=M7MD65|p3flag=sa|pos3=
+|p4=UPSET|p4flag=|pos4=
+|p5=kamsuri|p5flag=|pos5=
+}}
+{{TeamCard
+|team=ROC Esports
+|p1=Qlm|p1flag=|pos1=dps
+|p2=Pawly|p2flag=|pos2=dps
+|p3=TVNT|p3flag=|pos3=tank
+|p4=AOY|p4flag=|pos4=sup
+|p5=Facator|p5flag=|pos5=sup
+|t2title=Staff
+|t2c1=Kayszan|t2c1pos=manager
+|t2c2=Lotsha|t2c2pos=manager
+|t2c3=Cointree|t2c3pos=manager
+}}
+{{TeamCard
+|team=Basketball
+|p1=Tzero|p1flag=sa|pos1=dps
+|p2=Sparrow|p2flag=sa|pos2=dps|p2link=Sparrow (Saudi Arabian Player)
+|p3=Amdp|p3flag=sa|pos3=tank
+|p4=Rex|p4flag=sa|pos4=sup
+|p5=Marco|p5flag=|pos5=sup
+}}
+{{TeamCard
+|team=aldrd
+|p1=d7m|p1flag=|pos1=
+|p2=akoz|p2flag=|pos2=
+|p3=rexer|p3flag=|pos3=
+|p4=leo2k|p4flag=|pos4=
+|p5=crypticns|p5flag=|pos5=
+}}
+{{TeamCard
+|team=The Forties
+|p1=K3bool|p1flag=|pos1=
+|p2=Msaedalharbi99|p2flag=|pos2=
+|p3=alooo|p3flag=|pos3=
+|p4=Blackwolf|p4flag=|pos4=
+|p5=zoro|p5flag=|pos5=
+}}
+{{TeamCard
+|team=VTR Esports G
+|p1=sayo|p1flag=|pos1=
+|p2=EVERMORE|p2flag=|pos2=|p2link=EVERMORE (Middle Eastern Player)
+|p3=SOMBRUH|p3flag=|pos3=
+|p4=TOCA|p4flag=|pos4=
+|p5=SAN|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Saudi Hurricane
+|p1=Miraculous|p1flag=|pos1=dps
+|p2=wacveri|p2flag=sa|pos2=dps
+|p3=ILOVEYOU|p3flag=sa|pos3=tank|p3link=ILOVEU
+|p4=YONKO|p4flag=sa|pos4=sup
+|p5=Musashi|p5flag=sa|pos5=sup
+|t2title=Staff
+|t2c1=Klinz|t2c1flag=sa|t2c1pos=manager
+|t2c2=Cointree|t2c2pos=manager
+}}
+{{TeamCard
+|team=Algamerzion
+|p1=Nawaf20k|p1flag=|pos1=
+|p2=Aishiteru|p2flag=|pos2=
+|p3=Maze|p3flag=|pos3=
+|p4=Void5|p4flag=|pos4=
+|p5=Waz3|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/8|id=daj0mcw236
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=1
+	|date=July 12, 2023
+    |opponent1={{TeamOpponent|the vicious|score=FF}}
+    |opponent2={{TeamOpponent|roc esports|score=W}}
+}}
+|R1M2={{Match
+	|date=July 12, 2023
+    |opponent1={{TeamOpponent|basketball}}
+    |opponent2={{TeamOpponent|aldrd}}
+	|map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+}}
+|R1M3={{Match
+	|date=July 12, 2023
+    |opponent1={{TeamOpponent|the forties|score=FF}}
+    |opponent2={{TeamOpponent|vtr esports g|score=W}}
+}}
+|R1M4={{Match
+	|date=July 12, 2023
+    |opponent1={{TeamOpponent|saudi hurricane|score=W}}
+    |opponent2={{TeamOpponent|algamerzion|score=FF}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|date=July 12, 2023
+    |opponent1={{TeamOpponent|roc esports}}
+    |opponent2={{TeamOpponent|basketball}}
+	|map1={{Map|map=King's Row|mode=Hybrid|score1=1|score2=0|winner=1}}
+}}
+|R2M2={{Match
+	|date=July 12, 2023
+    |opponent1={{TeamOpponent|vtr esports g}}
+    |opponent2={{TeamOpponent|saudi hurricane}}
+	|map1={{Map|map=Eichenwalde|mode=Hybrid|score1=0|score2=1|winner=2}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|bestof=3
+	|date=July 12, 2023
+    |opponent1={{TeamOpponent|roc esports}}
+    |opponent2={{TeamOpponent|saudi hurricane}}
+	|map1={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=2|winner=1}}
+	|map2={{Map|map=King's Row|mode=Hybrid|score1=4|score2=3|winner=1}}
+}}
+}}

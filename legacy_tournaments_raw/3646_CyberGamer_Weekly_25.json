@@ -1,0 +1,176 @@
+{
+    "tournament_info": [
+        {
+            "name": "CyberGamer Weekly #25",
+            "shortname": "25",
+            "image": "",
+            "series": "CyberGamer",
+            "organizer": "CyberGamer",
+            "sponsor": "",
+            "platform": "PC",
+            "type": "Online",
+            "country": "Australia",
+            "city": "",
+            "format": "Single elimination <br>",
+            "prizepool": "120",
+            "localcurrency": "AUD",
+            "prizepoolusd": "90",
+            "date": "2017-02-21",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "web": "http://au.cybergamer.com/",
+            "twitch": "cgplevent",
+            "youtube": "",
+            "bracket": "http://au.cybergamer.com/tournaments/11674/bracket/",
+            "team_number": "8",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "teamfourth": "",
+            "team1": "",
+            "team2": "",
+            "team3": "",
+            "team4": "",
+            "team5": "",
+            "team6": "",
+            "team7": "",
+            "team8": "",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "map4": "",
+            "map5": "",
+            "map6": "",
+            "map7": "",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Defuse",
+            "image": "",
+            "imagesize": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Sweatshop",
+            "image": "",
+            "imagesize": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Monopoly Club",
+            "p1": "Grafix|p1flag=au",
+            "p2": "Signed|p2flag=nz",
+            "p3": "Micro|p3flag=au",
+            "p4": "Gob|p4flag=au",
+            "p5": "Kura|p5flag=au",
+            "p6": "Adam|p6flag=au|p6link=Adam (Australian player)"
+        },
+        {
+            "team": "Coarse Sand",
+            "image": "",
+            "imagesize": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "L A Gaming",
+            "image": "",
+            "imagesize": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Masterminds GC",
+            "image": "",
+            "imagesize": "",
+            "p1": "Ahren|p1flag=au",
+            "p2": "Stolts|p2flag=au",
+            "p3": "Degs|p3flag=au",
+            "p4": "Bim|p4flag=au",
+            "p5": "BangZ|p5flag=au",
+            "p6": "Polter|p6flag=au"
+        },
+        {
+            "team": "Mutiny",
+            "image": "",
+            "imagesize": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Vendetta",
+            "image": "",
+            "imagesize": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "vendetta",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "defuse",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "mutiny",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "defuse",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "masterminds gc",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "monopoly club",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

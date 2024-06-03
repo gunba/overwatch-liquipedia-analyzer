@@ -1,0 +1,162 @@
+{
+    "tournament_info": [
+        {
+            "name": "Welsh Esports League: Season 3",
+            "tickername": "WEL Season 3",
+            "image": "Welsh Esports League lightmode.png",
+            "imagedark": "Welsh Esports League darkmode.png",
+            "icon": "Welsh Esports League icon allmode.png",
+            "series": "Welsh Esports League",
+            "organizer": "Esports Wales",
+            "organizer-link": "https://esportswales.org",
+            "organizer2": "Esports Wales Hub",
+            "organizer2-link": "https://hub.esportswales.org",
+            "localcurrency": "gbp",
+            "prizepool": "325",
+            "type": "Online",
+            "country": "ukwa",
+            "liquipediatier": "4",
+            "format": "Round Robin<br>Single Elimination",
+            "sdate": "2023-10-12",
+            "edate": "2023-10-26",
+            "web": "https://hub.esportswales.org/tournaments/wct2-overwatch2/",
+            "bracket": "https://hub.esportswales.org/tournaments/wct3-overwatch2/matches",
+            "rulebook": "https://hub.esportswales.org/tournaments/wct3-overwatch2/rules",
+            "twitter": "EsportsWales",
+            "twitch": "esportswales",
+            "youtube": "@EsportsWales",
+            "discord": "fES5NMaKMC",
+            "instagram": "esportswales",
+            "facebook": "EsportWales",
+            "team_number": "8",
+            "previous": "Welsh Esports League/2023/Season 2{{!}}Season 2",
+            "next": "Welsh Esports League/2024/Season 4{{!}}Season 4"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Artists",
+            "p1": "Sonder|p1flag=ax|pos1=dps",
+            "p2": "sivaartt|p2flag=uk|pos2=dps",
+            "p3": "Aisaka|pos3=tank",
+            "p4": "Gass|p4flag=fi|pos4=tank",
+            "p5": "Lynrax|p5flag=se|pos5=sup",
+            "p6": "swooshbot|p6flag=ukwa|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Aisaka|t2c1flag=ukwa|t2c1pos=manager"
+        },
+        {
+            "team": "Pirates |link=Pirates (British team)",
+            "p1": "Speedy_RB|p1flag=ukwa|pos1=",
+            "p2": "Roach|p2flag=ukwa|pos2=",
+            "p3": "Deavlo|p3flag=ukwa|pos3=",
+            "p4": "beast4numbrs|p4flag=ukwa|pos4=",
+            "p5": "MythicalMini|p5flag=ukwa|pos5=",
+            "p6": "Anders|p6flag=ukwa|pos6=",
+            "t2title": "Staff",
+            "t2c1": "Anders|t2c1flag=ukwa|t2c1pos=manager"
+        },
+        {
+            "team": "Wolfhounds",
+            "link": "",
+            "p1": "Dominus|p1flag=ukwa|pos1=",
+            "p2": "PizzaLover|p2flag=cz|pos2=",
+            "p3": "TheTodd38|p3flag=ukwa|pos3=",
+            "p4": "Suddenly|p4flag=ukwa|pos4=",
+            "p5": "Anxsaa|p5flag=ukwa|pos5=",
+            "p6": "Styx|p6flag=ukwa|pos6=",
+            "t2title": "Staff",
+            "t2c1": "Nath|t2c1flag=ukwa|t2c1pos=manager"
+        },
+        {
+            "team": "Rhondda Rising",
+            "p1": "Oran|p1flag=ukwa|pos1=",
+            "p2": "Akeno|p2flag=ukwa|pos2=",
+            "p3": "Crimson|p3flag=ukwa|pos3=|p3link=Crimson (Welsh player)",
+            "p4": "SmhDino|p4flag=ukwa|pos4=",
+            "p5": "Raevie|p5flag=ukwa|pos5=",
+            "p6": "Joyboy|p6flag=ukwa|pos6=",
+            "t2title": "Staff",
+            "t2c1": "Thehoods74|t2c1flag=ukwa|t2c1pos=manager"
+        },
+        {
+            "team": "Pit Ponies",
+            "p1": "BlueLion|p1flag=ukwa|pos1=",
+            "p2": "bron|p2flag=ukwa|pos2=",
+            "p3": "IAmNoob22|p3flag=ukwa|pos3=",
+            "p4": "Hexx|p4flag=ukwa|pos4=",
+            "p5": "MaxousS|p5flag=fr|pos5=",
+            "p6": "SajtosZokni|p6flag=hu|pos6=",
+            "t2title": "Staff",
+            "t2c1": "Modgii|t2c1flag=wales|t2c1pos=manager"
+        },
+        {
+            "team": "Esports Organization",
+            "p1": "Knowledge|p1flag=uken|pos1=",
+            "p2": "MauroBGames|p2flag=be|pos2=",
+            "p3": "GoldenNinjaPrime|p3flag=uken|pos3=",
+            "p4": "iridescent|p4flag=uken|pos4=",
+            "p5": "gcb|pos5=",
+            "p6": "wahr|p6flag=de|pos6=",
+            "t2title": "Staff",
+            "t2c1": "Georgester|t2c1flag=uken|t2c1pos=manager"
+        },
+        {
+            "team": "Swans Esports",
+            "p1": "Septi|p1flag=ukwa|pos1=",
+            "p2": "Orpheus|p2flag=de|pos2=",
+            "p3": "Ace|p3flag=ukwa|pos3=|p3link=Ace (Welsh player)",
+            "p4": "Photosynthesis|p4flag=ve|pos4=",
+            "p5": "False|p5flag=ukwa|pos5=|p5link=False (Welsh player)",
+            "p6": "Gwyn|p6flag=ukwa|pos6=",
+            "t2title": "Staff",
+            "t2c1": "Gwyn|t2c1flag=ukwa|t2c1pos=manager"
+        },
+        {
+            "team": "Robins",
+            "p1": "Playz4Dayz|p1flag=ukwa|pos1=",
+            "p2": "Lazyy|p2flag=ukwa|pos2=",
+            "p3": "vvoxxz|p3flag=ukwa|pos3=",
+            "p4": "namgibot|p4flag=ukwa|pos4=",
+            "p5": "Alixeh|p5flag=ukwa|pos5=",
+            "p6": "Codie|p6flag=ukwa|pos6=",
+            "t2title": "Staff",
+            "t2c1": "Codie|t2c1flag=ukwa|t2c1pos=manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "October 26, 2023 - 19:00 {{Abbr/BST}}",
+            "opponent1": "{{TeamOpponent|Pit Ponies}}",
+            "opponent2": "{{TeamOpponent|Wolfhounds}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}",
+            "map3": "{{Map|map=Havana|mode=Escort|score1=0|score2=1|winner=2}}",
+            "comment": "Casters: {{player|GoluMolu|flag=uk}} & {{player|Edu|flag=us}}",
+            "optional": "R1M1="
+        },
+        {
+            "bestof": "5",
+            "date": "October 26, 2023 - 19:00 {{Abbr/BST}}",
+            "opponent1": "{{TeamOpponent|Pirates (British team)}}",
+            "opponent2": "{{TeamOpponent|Artists}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=0|score2=1|winner=2}}",
+            "map3": "{{Map|map=Havana|mode=Escort|score1=0|score2=1|winner=2}}",
+            "comment": "Casters: {{player|GoluMolu|flag=uk}} & {{player|Edu|flag=us}}",
+            "optional": "R1M2="
+        },
+        {
+            "bestof": "5",
+            "date": "October 26, 2023 - 20:00 {{Abbr/BST}}",
+            "opponent1": "{{TeamOpponent|Wolfhounds}}",
+            "opponent2": "{{TeamOpponent|Artists}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Para\u00edso|mode=Hybrid|score1=1|score2=2|winner=2}}",
+            "map3": "{{Map|map=Junkertown|mode=Escort|score1=0|score2=1|winner=2}}",
+            "comment": "Casters: {{player|GoluMolu|flag=uk}} & {{player|Edu|flag=us}}",
+            "optional": "R2M1="
+        }
+    ]
+}

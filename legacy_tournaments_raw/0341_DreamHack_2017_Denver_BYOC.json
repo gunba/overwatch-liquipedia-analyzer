@@ -1,0 +1,459 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "series": "DreamHack",
+            "shortname": "Denver 2017",
+            "name": "DreamHack Denver 2017",
+            "image": "",
+            "organizer": "DreamHack",
+            "sponsor": "[http://www.ibm.com/ IBM]",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Denver",
+            "venue": "[https://nationalwesterncomplex.com/ National Western Complex]",
+            "twitch": "",
+            "format": "Double Elimination",
+            "prizepoolusd": "2,000",
+            "sdate": "2017-10-20",
+            "edate": "2017-10-22",
+            "web": "https://denver.dreamhack.com/17/",
+            "bracket": "https://battlefy.com/dreamhack-denver-2017/dreamhack-denver-2017-byoc-overwatch-tournament/59a6c528ccbf1d03337f4bde/stage/59ea908e16f249033ff94c75/bracket/",
+            "team_number": "17"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "26 Sens",
+            "image": "",
+            "p1": "Lego|p1flag=",
+            "p2": "Frogz|p2flag=",
+            "p3": "LolAkita|p3flag=",
+            "p4": "Pyrodroid|p4flag=",
+            "p5": "Entr0pic|p5flag=",
+            "p6": "WankyOrca|p6flag="
+        },
+        {
+            "team": "Stroke Asylum: Wardens",
+            "p1": "MrChancey|p1flag=",
+            "p2": "KUNO|p2flag=",
+            "p3": "KPD|p3flag=",
+            "p4": "Zaela|p4flag=",
+            "p5": "Azazael|p5flag=",
+            "p6": "mystrager|p6flag="
+        },
+        {
+            "team": "Rez Me",
+            "image": "",
+            "p1": "Waifu |p1flag=United States",
+            "p2": "Landis |p2flag=",
+            "p3": "YangFuShang |p3flag=",
+            "p4": "Keystone |p4flag=",
+            "p5": "KFS |p5flag=",
+            "p6": "floppynub |p6flag="
+        },
+        {
+            "team": "CU Boulder Blue",
+            "image": "",
+            "p1": "callmetrvcey|p1flag=",
+            "p2": "BlockMagic|p2flag=",
+            "p3": "Softw4re|p3flag=",
+            "p4": "Atomicsp00n|p4flag=",
+            "p5": "tsarfish|p5flag=",
+            "p6": "CoHapoo|p6flag="
+        },
+        {
+            "team": "Team Competence",
+            "image": "",
+            "p1": "Fallactic |p1flag=",
+            "p2": "Chalkrah |p2flag=",
+            "p3": "TheWard |p3flag=",
+            "p4": "Kalgaer |p4flag=",
+            "p5": "LegacyEx |p5flag=",
+            "p6": "Broc |p6flag="
+        },
+        {
+            "team": "TOP TEN ANA MEI DEATHS",
+            "image": "",
+            "p1": "neoclassic |p1flag=",
+            "p2": "RHiNO |p2flag=",
+            "p3": "PapaPappas |p3flag=",
+            "p4": "Cynthetik36 |p4flag=",
+            "p5": "Snaxia |p5flag=",
+            "p6": "Projectodd |p6flag="
+        },
+        {
+            "team": "Just Let It Go",
+            "image": "",
+            "p1": "z-bot |p1flag=",
+            "p2": "Caboose |p2flag=",
+            "p3": "Grimace92 |p3flag=",
+            "p4": "Sakuretsu |p4flag=",
+            "p5": "kn0ckers |p5flag=",
+            "p6": "bra1ntax |p6flag="
+        },
+        {
+            "team": "UNCO Esports",
+            "image": "",
+            "p1": "ceziun |p1flag=",
+            "p2": "Riff |p2flag=",
+            "p3": "Wenny |p3flag=",
+            "p4": "ColonelScott |p4flag=",
+            "p5": "BigMMackAttack |p5flag=",
+            "p6": "Myrtenaster |p6flag="
+        },
+        {
+            "team": "5 Guys, 1 Grill",
+            "image": "",
+            "p1": "Moxemerald |p1flag=",
+            "p2": "Vapor |p2flag=",
+            "p3": "CaptTurner |p3flag=",
+            "p4": "ClutchTyler |p4flag=",
+            "p5": "TheMoonX |p5flag=",
+            "p6": "BackD00RGIRL |p6flag="
+        },
+        {
+            "team": "The Mad Monkeys",
+            "image": "",
+            "p1": "NoRagrets |p1flag=",
+            "p2": "DrZetlin |p2flag=",
+            "p3": "Elcor |p3flag=",
+            "p4": "muynstr707 |p4flag=",
+            "p5": "creature707 |p5flag=",
+            "p6": "chickdan |p6flag="
+        },
+        {
+            "team": "This is LoL right",
+            "image": "",
+            "p1": "Saotorii |p1flag=",
+            "p2": "Aurace |p2flag=",
+            "p3": "Wojtek |p3flag=",
+            "p4": "Breezy |p4flag=",
+            "p5": "Woobin |p5flag=",
+            "p6": "Yorosmai |p6flag="
+        },
+        {
+            "team": "Spooky Astronauts",
+            "image": "",
+            "p1": "AdmiralLag |p1flag=",
+            "p2": "ShhDie|p2flag=",
+            "p3": "L4bykins |p3flag=",
+            "p4": "Gubarz |p4flag=",
+            "p5": "Althrin |p5flag=",
+            "p6": "ElderShift |p6flag="
+        },
+        {
+            "team": "CSM Orediggers",
+            "image": "",
+            "p1": "Classified |p1flag=",
+            "p2": "Stewey7 |p2flag=",
+            "p3": "Tiringkiller |p3flag=",
+            "p4": "AreoHotah |p4flag=",
+            "p5": "Fuzzy |p5flag="
+        },
+        {
+            "team": "Dream Team",
+            "image": "",
+            "p1": "Paycho |p1flag=",
+            "p2": "Catgnatnat |p2flag=",
+            "p3": "AwwSkeeSkees |p3flag=",
+            "p4": "Halud |p4flag=",
+            "p5": "Rainmaker |p5flag=",
+            "p6": "Konbonix |p6flag="
+        },
+        {
+            "team": "Magic Consh",
+            "image": "",
+            "p1": "Boogerman |p1flag=",
+            "p2": "Bertelli |p2flag=",
+            "p3": "PugBoy |p3flag=",
+            "p4": "thebigcheeze |p4flag=",
+            "p5": "Karial |p5flag=",
+            "p6": "KingKobra |p6flag="
+        },
+        {
+            "team": "Dune Squad",
+            "image": "",
+            "p1": "djdobro |p1flag=",
+            "p2": "solstice |p2flag=",
+            "p3": "Mana |p3flag=",
+            "p4": "Grumbo |p4flag=",
+            "p5": "SALTEDFISH |p5flag=",
+            "p6": "Spades |p6flag="
+        },
+        {
+            "team": "Get Poop'd On",
+            "image": "",
+            "p1": "Volkov |p1flag=",
+            "p2": "psyRhen |p2flag=",
+            "p3": "TehSeymour |p3flag=",
+            "p4": "Antwon |p4flag=",
+            "p5": "Algrainga |p5flag=",
+            "p6": "Zerjack |p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "rez me",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "cu boulder blue",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "spooky astronauts",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "26 sens",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "csm orediggers",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "5 guys, 1 grill",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "magic consh",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "dune squad",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team competence",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D9",
+            "team1": "dream team",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "unco esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D11",
+            "team1": "stroke asylum: wardens",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "get poop'd on",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "just let it go",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "top ten ana mei deaths",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "this is lol right",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "26 sens",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "rez me",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "dune squad",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "csm orediggers",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "unco esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "team competence",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "top ten ana mei deaths",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W7",
+            "team1": "just let it go",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "dune squad",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "rez me",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "top ten ana mei deaths",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W3",
+            "team1": "team competence",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "top ten ana mei deaths",
+            "score2": "0",
+            "win2": "",
+            "key": "R6W1",
+            "team1": "rez me",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "spooky astronauts",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D17",
+            "team1": "cu boulder blue",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "5 guys, 1 grill",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D19",
+            "team1": "magic consh",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "dream team",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D21",
+            "team1": "stroke asylum: wardens",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "get poop'd on",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D23",
+            "team1": "this is lol right",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "cu boulder blue",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "just let it go",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "5 guys, 1 grill",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D2",
+            "team1": "unco esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "stroke asylum: wardens",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D3",
+            "team1": "csm orediggers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "this is lol right",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D4",
+            "team1": "26 sens",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "5 guys, 1 grill",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "cu boulder blue",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "26 sens",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W3",
+            "team1": "csm orediggers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "cu boulder blue",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "dune squad",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "csm orediggers",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D2",
+            "team1": "team competence",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "csm orediggers",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "dune squad",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "dune squad",
+            "score2": "2",
+            "win2": "1",
+            "key": "R6D1",
+            "team1": "top ten ana mei deaths",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

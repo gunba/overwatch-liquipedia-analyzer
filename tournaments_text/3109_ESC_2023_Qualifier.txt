@@ -1,0 +1,292 @@
+{{DISPLAYTITLE:Esports Collegiate Conference Regular Season 2023}}
+{{ESC navbox}}
+{{Tabs static
+|name1=Playoffs|link1=ESC/2023/Playoffs
+|name2=Regular Season|link2=ESC/2023/Qualifier
+|this=2
+}}
+{{Infobox league
+|liquipediatier=4|liquipediatiertype=Qualifier
+|name=Esports Collegiate Conference 2023
+|tickername=ESC Playoffs
+|shortname=ESC Playoffs 23
+|series=Esports Collegiate Conference|abbreviation=ESC
+|image=Esports_Collegiate_Conference_overwatch_allmode.png
+|icon=Esports_Collegiate_Conference_overwatch_icon_allmode.png
+|organizer=eFuse
+|sponsor=[https://efuse.gg/ eFuse]<br>[https://nelnet.com/welcome Nelnet]
+|game=overwatch2
+|type=Online
+|country=United States
+|format=Single Elimination
+|sdate=2023-01-24
+|edate=2023-04-11
+|rules=https://docs.google.com/document/d/e/2PACX-1vTJgcTa5bIb_RIe5HcNVvzn7NYKKenOqcPpL7-3H54_t4bmh60EGO-8U-fKk36Sq6GkEt_nKC6PZSPn/pub
+|twitter=ESC_Conference
+|twitch=ESC_Conference
+|team_number=13
+}}
+
+==Information==
+===Format===
+*Open only to ESC members
+*Regular Season:
+**First map is predetermined, following maps are picked by the loser of the previous map, side picked by the winners
+**First map is Control
+**Second map is Hybrid
+**Third map is Escort
+**Fourth map is Push
+**Fifth map is Control
+**11 week, 12 match round-robin with weeks 5 and 9 as double headers
+**{{Bgcolortext|up|Top 8 teams}} after round robin qualify for playoffs
+*All matches are {{Abbr/Bo5}}.
+*Playoffs:
+**Single-elimination bracket
+**All matches are {{Abbr/Bo7}}.
+**The winner of ESC qualifies for [[CECC/2023|CECC]]
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+!width="160" rowspan=2; colspan=2|Admin Picked Maps
+!width="610" colspan=7|Map Pool
+|-
+![[Control]]
+![[Hybrid]]
+![[Escort]]
+![[Push]]
+|-
+!Week 1
+|''[[Busan]]''
+|width="130" rowspan=11|[[Antarctic Peninsula]]<br><br>[[Busan]]<br><br>[[Ilios]]<br><br>[[Lijiang Tower]]<br><br>[[Nepal]]<br><br>[[Oasis]]<br><br>[[Samoa]]
+|width="130" rowspan=11|[[Blizzard World]]<br><br>[[King's Row]]<br><br>[[Midtown]]<br><br>[[Paraíso]]<br><br>[[Numbani]]
+|width="130" rowspan=11|[[Circuit Royal]]<br><br>[[Dorado]]<br><br>[[Havana]]<br><br>[[Junkertown]]<br><br>[[Rialto]]<br><br>[[Shambali Monastery]]
+|width="130" rowspan=11|[[Colosseo]]<br><br>[[Esperança]]<br><br>[[New Queen Street]]
+|-
+!Week 2
+|''[[Ilios]]''
+|-
+!Week 3
+|''[[Lijiang Tower]]''
+|-
+!Week 4
+|''[[Nepal]]''
+|-
+!Week 5
+|''[[Oasis]]''
+|-
+!Week 6
+|''[[Antarctic Peninsula]]''
+|-
+!Week 7
+|''[[Ilios]]''
+|-
+!Week 8
+|''[[Lijiang Tower]]''
+|-
+!Week 9
+|''[[Nepal]]''
+|-
+!Week 10
+|''[[Oasis]]''
+|-
+!Week 11
+|''[[Antarctic Peninsula]]''
+|-
+|}
+
+==Prize Pool==
+{{TeamPrizePool|noprize=true|prizesummary=false
+|qualifies1=ESC/2023/Playoffs|qualifies1name=ESC Playoffs
+|{{Slot|qualified=true|{{Opponent|Ball State Red}}}}
+|{{Slot|qualified=true|{{Opponent|Miami University}}}}
+|{{Slot|place=3|qualified=true|{{Opponent|Northeastern University}}}}
+|{{Slot|place=4|qualified=true|{{Opponent|Ohio University}}}}
+|{{Slot|place=5|qualified=true|{{Opponent|Kent State}}}}
+|{{Slot|place=6|qualified=true|{{Opponent|Western Michigan University}}}}
+|{{Slot|place=7|qualified=true|{{Opponent|University of Buffalo}}}}
+|{{Slot|place=8|qualified=true|{{Opponent|Northern Illinois University}}}}
+|{{Slot|place=9|qualified=false|{{Opponent|Bowling Green}}}}
+|{{Slot|place=10|qualified=false|{{Opponent|Central Michigan}}}}
+|{{Slot|place=11|qualified=false|{{Opponent|Akron University}}}}
+|{{Slot|qualified=false|{{Opponent|Northern Kentucky University}}}}
+|{{Slot|qualified=false|{{Opponent|University of Toledo}}}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Akron University
+|p1=maxxrz31|p1flag=us|pos1=flex
+|p2=Jettcon|p2flag=us|pos2=dps
+|p3=DSGElement|p3flag=us|pos3=sup
+|p4=Tosmino|p4flag=us|pos4=sup
+|p5=PIxeledstar|p5flag=us|pos5=sup
+|p6=DSGElement|p6flag=us|pos6=sup
+}}
+{{TeamCard
+|team=Ball State Red
+|p1=Spencer|p1flag=us|pos1=dps
+|p2=NinjaCurlyFry|p2flag=us|pos2=dps
+|p3=Manwe|p3flag=us|pos3=tank
+|p4=Yakester|p4flag=us|pos4=sup
+|p5=RavenStrider|p5flag=us|pos5=sup
+}}
+{{TeamCard
+|team=Bowling Green
+|p1=Echo|p1flag=us|pos1=dps|p1link=Echo (American Player)
+|p2=Shadysnare|p2flag=us|pos2=dps
+|p3=N1ghtmare|p3flag=us|pos3=tank
+|p4=Whiteviper|p4flag=us|pos4=flex
+|p5=Wubz|p5flag=us|pos5=flex
+}}
+{{TeamCard
+|team=Central Michigan
+|p1=Pooper|p1flag=us|pos1=flex
+|p2=Wazoo|p2flag=us|pos2=dps
+|p3=VGLBobcat|p3flag=us|pos3=tank
+|p4=KnightMarina|p4flag=us|pos4=sup
+|p5=Kiefer|p5flag=us|pos5=sup
+|p6=Niro|p6flag=us|pos6=sup
+}}
+{{TeamCard
+|team=Kent State
+|p1=Vyrul|p1flag=us|pos1=dps
+|p2=Vortex|p2flag=us|pos2=dps
+|p3=Abluecard|p3flag=us|pos3=dps
+|p4=Wildthing|p4flag=us|pos4=tank
+|p5=Icarus|p5flag=us|pos5=sup
+|p6=Secret|p6flag=us|pos6=sup|p6link=Secret (American Player)
+|p7=ScatmanShawn|p7flag=us|pos7=sup
+}}
+{{TeamCard
+|team=Miami University
+|p1=CGS|p1flag=us|pos1=dps
+|p2=Bonesaw|p2flag=us|pos2=dps
+|p3=skrtle|p3flag=us|pos3=dps
+|p4=KaBunga|p4flag=us|pos4=tank
+|p5=Shocker|p5flag=us|pos5=sup
+|p6=Fahzix|p6flag=us|pos6=sup
+|p7=Jaybird|p7flag=us|pos7=sup
+}}
+{{TeamCard
+|team=Northeastern University|link=Northeastern University
+|p1=Hedwig|p1flag=us|pos1=dps
+|p2=Woah|p2flag=us|pos2=dps
+|p3=NeatZ|p3flag=us|pos3=dps
+|p4=Frisco|p4flag=us|pos4=tank|p4link=Frisco (American Player)
+|p5=SCL33|p5flag=us|pos5=tank
+|p6=qghop|p6flag=us|pos6=sup
+|p7=timid|p7flag=us|pos7=sup
+|t2title=Staff
+|t2c1=Temporal|t2cflag=us|t2c1pos=Coach
+}}
+{{TeamCard
+|team=Northern Illinois University
+|p1=Tokotoro|p1flag=us|pos1=dps
+|p2=Austy125|p2flag=us|pos2=dps
+|p3=Flawless|p3flag=us|pos3=tank|p3link=Flawless (American player)
+|p4=Dietox|p4flag=us|pos4=tank
+|p5=HAZE|p5flag=us|pos5=sup
+|p6=PKZER0|p6flag=us|pos6=sup
+|p7=Racer|p7flag=us|pos7=sup
+|p8=raspberry34|p8flag=us|pos8=sup
+}}
+{{TeamCard
+|team=Northern Kentucky University
+|p1=Slippy|p1flag=us|pos1=dps
+|p2=zecktron|p2flag=us|pos2=dps
+|p3=Reowned|p3flag=us|pos3=tank
+|p4=Amari|p4flag=us|pos4=sup
+|p5=Kiwi|p5flag=us|pos5=sup|p5link=Kiwi (American player)
+|p6=Missplay|p6flag=us|pos6=sup
+}}
+{{TeamCard
+|team=Ohio University
+|p1=Akusoura|p1flag=us|pos1=dps
+|p2=kuna|p2flag=us|pos2=dps
+|p3=craZmanG|p3flag=us|pos3=tank
+|p4=Slowo|p4flag=gr|pos4=sup
+|p5=Water|p5flag=us|pos5=sup|p5link=Water (American player)
+|p6=Lando|p6flag=us|pos6=sup
+|p7=Muck|p7flag=us|pos7=flex
+}}
+{{TeamCard
+|team=University of Toledo
+|p1=Momo|p1flag=us|pos1=dps
+|p2=Neomve|p2flag=us|pos2=dps
+|p3=SKRRSKRR|p3flag=us|pos3=dps
+|p4=Jbart|p4flag=us|pos4=dps
+|p5=Flake|p5flag=us|pos5=dps|p5link=Flake (American player)
+|p6=RogueVoid|p6flag=us|pos6=sup
+|p7=Drew16|p7flag=us|pos7=sup
+}}
+{{TeamCard
+|team=University of Buffalo
+|p1=Mudkip|p1flag=us|pos1=dps|p1link=Mudkip (American Player)
+|p2=Alive|p2flag=us|pos2=dps
+|p3=Rozerai|p3flag=us|pos3=dps
+|p4=Plasma|p4flag=us|pos4=tank
+|p5=Firealizon|p5flag=us|pos5=tank
+|p6=LordThethan|p6flag=us|pos6=sup
+|p7=carrot|p7flag=us|pos7=sup
+|p8=EvilEmpireKid|p8flag=us|pos8=flex
+|p9=Bezo|p9flag=us|pos9=flex
+}}
+{{TeamCard
+|team=Western Michigan University
+|p1=Keefr|p1flag=us|pos1=dps
+|p2=Brother|p2flag=us|pos2=dps|p2link=Brother (American player)
+|p3=Arcane|p3flag=us|pos3=dps|p3link=Arcane (American player)
+|p4=Tyco|p4flag=us|pos4=tank
+|p5=Vexa|p5flag=us|pos5=sup
+|p6=PrimeEvil|p6flag=us|pos6=sup
+|p7=V2BE|p7flag=us|pos7=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{SwissTableStart|rounds=12}}
+{{SwissTableRow |place=1 |Ball State Red |win_m=11 |lose_m=1 |diff=+29
+|opponent1={{TeamIcon|Bowling Green}} |result1=win |opponent2={{TeamIcon|Central Michigan}} |result2=win |opponent3={{TeamIcon|Western Michigan University}} |result3=win |opponent4={{TeamIcon|Akron University}} |result4=win |opponent5={{TeamIcon|Northern Illinois University}} |result5=win |opponent6={{TeamIcon|Ohio University}} |result6=win |opponent7={{TeamIcon|Miami University}} |result7=lose |opponent8={{TeamIcon|Kent State}} |result8=win |opponent9={{TeamIcon|University of Toledo}} |result9=win |opponent10={{TeamIcon|Northeastern University}} |result10=win |opponent11={{TeamIcon|University of Buffalo}} |result11=win |opponent12={{TeamIcon|Northern Kentucky University}} |result12=win |bg=up
+}}
+{{SwissTableRow |place=2 |Miami University|win_m=11 |lose_m=1 |diff=+26
+|opponent1={{TeamIcon|Northeastern University}} |result1=lose |opponent2={{TeamIcon|University of Buffalo}} |result2=win |opponent3={{TeamIcon|Northern Kentucky University}} |result3=win |opponent4={{TeamIcon|Bowling Green}} |result4=win |opponent5={{TeamIcon|Central Michigan}} |result5=win |opponent6={{TeamIcon|Western Michigan University}} |result6=win |opponent7={{TeamIcon|Ball State Red}} |result7=win |opponent8={{TeamIcon|Northern Illinois University}} |result8=win |opponent9={{TeamIcon|Ohio University}} |result9=win |opponent10={{TeamIcon|Akron University}} |result10=win |opponent11={{TeamIcon|Kent State}} |result11=win |opponent12={{TeamIcon|University of Toledo}} |result12=win |bg=up
+}}
+{{SwissTableRow |place=3 |Northeastern University |win_m=10 |lose_m=2 |diff=+25
+|opponent1={{TeamIcon|Miami University}} |result1=win |opponent2={{TeamIcon|Kent State}} |result2=win |opponent3={{TeamIcon|University of Toledo}} |result3=win |opponent4={{TeamIcon|Akron University}} |result4=win |opponent5={{TeamIcon|University of Buffalo}} |result5=win |opponent6={{TeamIcon|Northern Kentucky University}} |result6=win |opponent7={{TeamIcon|Bowling Green}} |result7=win |opponent8={{TeamIcon|Central Michigan}} |result8=win |opponent9={{TeamIcon|Western Michigan University}} |result9=win |opponent10={{TeamIcon|Ball State Red}} |result10=lose |opponent11={{TeamIcon|Northern Illinois University}} |result11=win |opponent12={{TeamIcon|Ohio University}} |result12=lose |bg=up
+}}
+{{SwissTableRow |place=4 |Ohio University|win_m=10 |lose_m=2 |diff=+22
+|opponent1={{TeamIcon|University of Buffalo}} |result1=win |opponent2={{TeamIcon|Northern Kentucky University}} |result2=win |opponent3={{TeamIcon|Bowling Green}} |result3=win |opponent4={{TeamIcon|Central Michigan}} |result4=win |opponent5={{TeamIcon|Western Michigan University}} |result5=win |opponent6={{TeamIcon|Ball State Red}} |result6=lose |opponent7={{TeamIcon|Northern Illinois University}} |result7=win |opponent8={{TeamIcon|Akron University}} |result8=win |opponent9={{TeamIcon|Miami University}} |result9=lose |opponent10={{TeamIcon|Kent State}} |result10=win |opponent11={{TeamIcon|University of Toledo}} |result11=win |opponent12={{TeamIcon|Northeastern University}} |result12=win |bg=up
+}}
+{{SwissTableRow |place=5 |Kent State|win_m=7 |lose_m=5 |diff=+7
+|opponent1={{TeamIcon|University of Toledo}} |result1=win |opponent2={{TeamIcon|Northeastern University}} |result2=lose |opponent3={{TeamIcon|University of Buffalo}} |result3=lose |opponent4={{TeamIcon|Northern Kentucky University}} |result4=win |opponent5={{TeamIcon|Bowling Green}} |result5=win |opponent6={{TeamIcon|Central Michigan}} |result6=win |opponent7={{TeamIcon|Western Michigan University}} |result7=win |opponent8={{TeamIcon|Ball State Red}} |result8=lose |opponent9={{TeamIcon|Northern Illinois University}} |result9=win |opponent10={{TeamIcon|Ohio University}} |result10=lose |opponent11={{TeamIcon|Miami University}} |result11=lose |opponent12={{TeamIcon|Akron University}} |result12=win |bg=up
+}}
+{{SwissTableRow |place=6 |Western Michigan University|win_m=7 |lose_m=5 |diff=+5
+|opponent1={{TeamIcon|Akron University}} |result1=win |opponent2={{TeamIcon|Ball State Red}} |result2=lose |opponent3={{TeamIcon|Northern Illinois University}} |result3=win |opponent4={{TeamIcon|Ohio University}} |result4=lose |opponent5={{TeamIcon|Miami University}} |result5=lose |opponent6={{TeamIcon|Kent State}} |result6=lose |opponent7={{TeamIcon|University of Toledo}} |result7=win |opponent8={{TeamIcon|Northeastern University}} |result8=lose |opponent9={{TeamIcon|University of Buffalo}} |result9=win |opponent10={{TeamIcon|Northern Kentucky University}} |result10=win |opponent11={{TeamIcon|Bowling Green}} |result11=win |opponent12={{TeamIcon|Central Michigan}} |result12=win |bg=up
+}}
+{{SwissTableRow |place=7 |University of Buffalo|win_m=6 |lose_m=6 |diff=+3
+|opponent1={{TeamIcon|Ohio University}} |result1=lose |opponent2={{TeamIcon|Miami University}} |result2=lose |opponent3={{TeamIcon|Kent State}} |result3=win |opponent4={{TeamIcon|University of Toledo}} |result4=win |opponent5={{TeamIcon|Northeastern University}} |result5=lose |opponent6={{TeamIcon|Akron University}} |result6=lose |opponent7={{TeamIcon|Northern Kentucky University}} |result7=win |opponent8={{TeamIcon|Bowling Green}} |result8=win |opponent9={{TeamIcon|Central Michigan}} |result9=win |opponent10={{TeamIcon|Western Michigan University}} |result10=win |opponent11={{TeamIcon|Ball State Red}} |result11=lose |opponent12={{TeamIcon|Northern Illinois University}} |result12=lose |bg=up
+}}
+{{SwissTableRow |place=8 |Northern Illinois University|win_m=6 |lose_m=6 |diff=+0
+|opponent1={{TeamIcon|Northern Kentucky University}} |result1=win |opponent2={{TeamIcon|Bowling Green}} |result2=win |opponent3={{TeamIcon|Central Michigan}} |result3=win |opponent4={{TeamIcon|Western Michigan University}} |result4=lose |opponent5={{TeamIcon|Ball State Red}} |result5=lose |opponent6={{TeamIcon|Akron University}} |result6=win |opponent7={{TeamIcon|Ohio University}} |result7=lose |opponent8={{TeamIcon|Miami University}} |result8=lose |opponent9={{TeamIcon|Kent State}} |result9=lose |opponent10={{TeamIcon|University of Toledo}} |result10=win |opponent11={{TeamIcon|Northeastern University}} |result11=lose |opponent12={{TeamIcon|University of Buffalo}} |result12=win |bg=up
+}}
+{{SwissTableRow |place=9 |Bowling Green|win_m=4 |lose_m=8 |diff=-9
+|opponent1={{TeamIcon|Ball State Red}} |result1=lose |opponent2={{TeamIcon|Northern Illinois University}} |result2=lose |opponent3={{TeamIcon|Ohio University}} |result3=lose |opponent4={{TeamIcon|Miami University}} |result4=lose |opponent5={{TeamIcon|Kent State}} |result5=lose |opponent6={{TeamIcon|University of Toledo}} |result6=win |opponent7={{TeamIcon|Northeastern University}} |result7=lose |opponent8={{TeamIcon|University of Buffalo}} |result8=lose |opponent9={{TeamIcon|Northern Kentucky University}} |result9=win |opponent10={{TeamIcon|Akron University}} |result10=win |opponent11={{TeamIcon|Central Michigan}} |result11=win |opponent12={{TeamIcon|Western Michigan University}} |result12=lose |bg=down
+}}
+{{SwissTableRow |place=10 |Central Michigan|win_m=3 |lose_m=9 |diff=-18
+|opponent1={{TeamIcon|Ball State Red}} |result1=lose |opponent2={{TeamIcon|Northern Illinois University}} |result2=lose |opponent3={{TeamIcon|Ohio University}} |result3=lose |opponent4={{TeamIcon|Miami University}} |result4=lose |opponent5={{TeamIcon|Kent State}} |result5=lose |opponent6={{TeamIcon|University of Toledo}} |result6=win |opponent7={{TeamIcon|Northeastern University}} |result7=lose |opponent8={{TeamIcon|University of Buffalo}} |result8=lose |opponent9={{TeamIcon|Northern Kentucky University}} |result9=win |opponent10={{TeamIcon|Bowling Green}} |result10=lose |opponent11={{TeamIcon|Akron University}} |result11=win |opponent12={{TeamIcon|Western Michigan University}} |result12=lose |bg=down
+}}
+{{SwissTableRow |place=11 |Akron University |win_m=2 |lose_m=10 |diff=-24
+|opponent1={{TeamIcon|Western Michigan University}} |result1=lose |opponent2={{TeamIcon|University of Toledo}} |result2=win |opponent3={{TeamIcon|Northeastern University}} |result3=lose |opponent4={{TeamIcon|Ball State Red}} |result4=lose |opponent5={{TeamIcon|University of Buffalo}} |result5=lose |opponent6={{TeamIcon|Northern Illinois University}} |result6=lose |opponent7={{TeamIcon|Northern Kentucky University}} |result7=win |opponent8={{TeamIcon|Ohio University}} |result8=lose |opponent9={{TeamIcon|Bowling Green}} |result9=lose |opponent10={{TeamIcon|Miami University}} |result10=lose |opponent11={{TeamIcon|Central Michigan}} |result11=lose |opponent12={{TeamIcon|Kent State}} |result12=lose |bg=down
+}}
+{{SwissTableRow |place=12 |Northern Kentucky University|win_m=1 |lose_m=11 |diff=-30
+|opponent1={{TeamIcon|Northern Illinois University}} |result1=lose |opponent2={{TeamIcon|Ohio University}} |result2=lose |opponent3={{TeamIcon|Miami University}} |result3=lose |opponent4={{TeamIcon|Kent State}} |result4=lose |opponent5={{TeamIcon|University of Toledo}} |result5=win |opponent6={{TeamIcon|Northeastern University}} |result6=lose |opponent7={{TeamIcon|University of Buffalo}} |result7=lose |opponent8={{TeamIcon|Akron University}} |result8=lose |opponent9={{TeamIcon|Bowling Green}} |result9=lose |opponent10={{TeamIcon|Central Michigan}} |result10=lose |opponent11={{TeamIcon|Western Michigan University}} |result11=lose |opponent12={{TeamIcon|Ball State Red}} |result12=lose |bg=down
+}}
+{{SwissTableRow |place=13 |University of Toledo|win_m=0 |lose_m=12 |diff=-36
+|opponent1={{TeamIcon|Kent State}} |result1=lose |opponent2={{TeamIcon|Akron University}} |result2=lose |opponent3={{TeamIcon|Northeastern University}} |result3=lose |opponent4={{TeamIcon|University of Buffalo}} |result4=lose |opponent5={{TeamIcon|Northern Kentucky University}} |result5=lose |opponent6={{TeamIcon|Bowling Green}} |result6=lose |opponent7={{TeamIcon|Central Michigan}} |result7=lose |opponent8={{TeamIcon|Western Michigan University}} |result8=lose |opponent9={{TeamIcon|Ball State Red}} |result9=lose |opponent10={{TeamIcon|Northern Illinois University}} |result10=lose |opponent11={{TeamIcon|Ohio University}} |result11=lose |opponent12={{TeamIcon|Miami University}} |result12=lose |bg=down
+}}
+{{SwissTableEnd}}
+
+==References==
+{{Reflist}}

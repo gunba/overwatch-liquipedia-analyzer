@@ -1,0 +1,554 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Portugal Community Warmup Challenge",
+            "image": "",
+            "icon": "",
+            "shortname": "Portugal Community Warmup Challenge",
+            "tickername": "Portugal Community Warmup Challenge",
+            "organizer": "Overwatch 2 Portugal",
+            "organizer-link": "https://discord.gg/7N8VWPHBKW",
+            "type": "Online",
+            "country": "Portugal",
+            "format": "Double Elimination",
+            "game": "overwatch2",
+            "prizepool": "350",
+            "localcurrency": "eur",
+            "sdate": "2023-03-25",
+            "edate": "2023-03-26",
+            "twitter": "",
+            "discord": "7N8VWPHBKW",
+            "bracket": "https://battlefy.com/owpt/portugal-community-warmup-challenge/63ff71fac8a795682dc26f9a/info?infoTab=details",
+            "team_number": "7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Sicarus X",
+            "p1": "Flamenzo",
+            "pos1": "DPS",
+            "p1flag": "pt",
+            "p2": "Boss",
+            "pos2": "DPS",
+            "p2flag": "pt",
+            "p3": "Flux",
+            "pos3": "Tank",
+            "p3flag": "uk",
+            "p4": "Alphaa",
+            "pos4": "Tank",
+            "p4flag": "pt",
+            "p5": "RodFD",
+            "pos5": "Support",
+            "p5flag": "pt",
+            "p6": "Ukiya",
+            "pos6": "Support",
+            "p6flag": "pt"
+        },
+        {
+            "team": "Sicarus Beta",
+            "p1": "IncVall",
+            "pos1": "DPS",
+            "p1flag": "pt",
+            "p2": "Omni",
+            "pos2": "DPS",
+            "p2flag": "pt",
+            "p3": "TwoTrick",
+            "pos3": "Tank",
+            "p3flag": "pt",
+            "p4": "Kapela",
+            "pos4": "Support",
+            "p4flag": "pt",
+            "p5": "ShadowX",
+            "pos5": "Support",
+            "p5flag": "pt"
+        },
+        {
+            "team": "follow@antoniopedcruz",
+            "p1": "Kurama",
+            "pos1": "DPS",
+            "p1flag": "uk",
+            "p2": "Kouhen",
+            "pos2": "DPS",
+            "p2flag": "pt",
+            "p3": "DCruz",
+            "pos3": "DPS",
+            "p3flag": "pt",
+            "p4": "EGO1",
+            "pos4": "Tank",
+            "p4flag": "pt",
+            "p5": "Werty",
+            "pos5": "Tank",
+            "p5flag": "fr",
+            "p6": "Kajo",
+            "pos6": "Support",
+            "p6flag": "pt",
+            "p7": "Nagi",
+            "pos7": "Support",
+            "p7flag": "fr"
+        },
+        {
+            "team": "didexMoneyCrew",
+            "p1": "xenox3",
+            "pos1": "DPS",
+            "p1flag": "pt",
+            "p2": "Paudencio",
+            "pos2": "DPS",
+            "p2flag": "pt",
+            "p3": "HK3",
+            "pos3": "Tank",
+            "p3flag": "hk",
+            "p4": "Razael",
+            "pos4": "Tank",
+            "p4flag": "pt",
+            "p5": "MUP",
+            "pos5": "Support",
+            "p5flag": "ba",
+            "p6": "Dizzel",
+            "pos6": "Support",
+            "p6flag": "de"
+        },
+        {
+            "team": "MaisVintePaus",
+            "p1": "Floatzel",
+            "pos1": "DPS",
+            "p1flag": "pt",
+            "p2": "Scofield",
+            "pos2": "DPS",
+            "p2flag": "pt",
+            "p3": "NutellaTea",
+            "pos3": "Tank",
+            "p3flag": "pt",
+            "p4": "Magical",
+            "pos4": "Support",
+            "p4flag": "pt",
+            "p5": "Overboss",
+            "pos5": "Support",
+            "p5flag": "pt"
+        },
+        {
+            "team": "C\u00e3es de \u00c1gua",
+            "p1": "\u30dc\u30be",
+            "pos1": "DPS",
+            "p1flag": "pt",
+            "p2": "\uff29\uff10\uff0f\uff29\uff10",
+            "pos2": "DPS",
+            "p2flag": "pt",
+            "p3": "Atretochoana",
+            "pos3": "Tank",
+            "p3flag": "pt",
+            "p4": "cordlessbear",
+            "pos4": "Support",
+            "p4flag": "pt",
+            "p5": "ErrorTerror",
+            "pos5": "Support",
+            "p5flag": "lu"
+        },
+        {
+            "team": "Fvck",
+            "p1": "Luis\u00f3n",
+            "pos1": "DPS",
+            "p1flag": "pt",
+            "p2": "Tora",
+            "pos2": "DPS",
+            "p2flag": "pt",
+            "p3": "Kiw\u00ed",
+            "pos3": "Tank",
+            "p3flag": "pt",
+            "p4": "Favela",
+            "pos4": "Support",
+            "p4flag": "pt",
+            "p5": "Alberto7cx",
+            "pos5": "Support",
+            "p5flag": "pt"
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "March 25, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1775230773",
+            "opponent1": "MaisVintePaus",
+            "opponent1_score": 2,
+            "opponent2": "Sicarius Beta",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "March 25, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1775230773",
+            "opponent1": "follow@antoniopedcruz",
+            "opponent1_score": 2,
+            "opponent2": "FVCK",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "March 25, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1775230773",
+            "opponent1": "Sicarius X",
+            "opponent1_score": 1,
+            "opponent2": "C\u00e3es de \u00c1gua",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "March 25, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1775230773",
+            "opponent1": "didexMoneyCrew",
+            "opponent1_score": 2,
+            "opponent2": "MaisVintePaus",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "March 25, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1775230773",
+            "opponent1": "follow@antoniopedcruz",
+            "opponent1_score": 1,
+            "opponent2": "C\u00e3es de \u00c1gua",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "March 26, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1776281309",
+            "opponent1": "didexMoneyCrew",
+            "opponent1_score": 2,
+            "opponent2": "C\u00e3es de \u00c1gua",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "March 25, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1776281309",
+            "opponent1": "Sicarius X",
+            "opponent1_score": 2,
+            "opponent2": "FVCK",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "March 26, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1776281309",
+            "opponent1": "follow@antoniopedcruz",
+            "opponent1_score": 2,
+            "opponent2": "Sicarius Beta",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "March 26, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1776281309",
+            "opponent1": "MaisVintePaus",
+            "opponent1_score": 0,
+            "opponent2": "Sicarius X",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "March 26, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1776281309",
+            "opponent1": "follow@antoniopedcruz",
+            "opponent1_score": 2,
+            "opponent2": "Sicarius X",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M3="
+        },
+        {
+            "date": "March 26, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1776281309",
+            "opponent1": "C\u00e3es de \u00c1gua",
+            "opponent1_score": 0,
+            "opponent2": "follow@antoniopedcruz",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "March 26, 2023",
+            "youtube": "",
+            "vod": "https://www.twitch.tv/videos/1776281309",
+            "opponent1": "didexMoneyCrew",
+            "opponent1_score": 2,
+            "opponent2": "follow@antoniopedcruz",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "didexMoneyCrew"
+            },
+            "map2": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "0",
+                "winner": "didexMoneyCrew"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "follow@antoniopedcruz"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "follow@antoniopedcruz"
+            },
+            "map5": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "follow@antoniopedcruz"
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

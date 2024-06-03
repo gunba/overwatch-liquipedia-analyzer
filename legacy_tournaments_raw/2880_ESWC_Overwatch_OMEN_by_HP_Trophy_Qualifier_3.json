@@ -1,0 +1,312 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch OMEN by HP Trophy with ESWC: Qualifier 3",
+            "shortname": "ESWC OMEN Trophy Q3",
+            "tickername": "ESWC OMEN Trophy Q3",
+            "image": "ESWC-Overwatch OMEN.png",
+            "series": "ESWC",
+            "icon": "ESWC-logo-small.png",
+            "organizer": "ESWC",
+            "organizer-link": "https://www.eswc.com/",
+            "sponsor": "[https://www.hp.com/omen OMEN by HP]",
+            "country": "France",
+            "type": "Online",
+            "patch": "1.24",
+            "format": "Single Elimination",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "",
+            "sdate": "2018-06-09",
+            "edate": "2018-06-10",
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "web": "https://www.eswc.com/en/ow/omenbyhp",
+            "bracket": "https://www.toornament.com/tournaments/1468559822826610688/stages/1468560173805436928/?_locale=fr_FR",
+            "twitch": "eswc",
+            "twitter": "eswc_fr",
+            "facebook": "",
+            "youtube": "",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Eagle Gaming Red",
+            "image": "Eagle Gaming.png",
+            "p1": "Flippy|pos1=dps",
+            "p2": "zYKK|p2flag=fr|pos2=dps",
+            "p3": "GetAmazed|pos3=flex",
+            "p4": "KnOxXx|pos4=tank",
+            "p5": "Pipou|pos5=sup",
+            "p6": "baud|pos6=sup",
+            "c": "moonL"
+        },
+        {
+            "team": "orKs Grand Poitiers White",
+            "image": "Orks esports logo.png",
+            "p1": "Dekest|p1flag=fr|pos1=",
+            "p2": "Sstarb0i|p2flag=fr|pos2=",
+            "p3": "Reckless|p3flag=fr|pos3=",
+            "p4": "Bombiman|p4flag=fr|pos4=",
+            "p5": "Ryns|p5flag=fr|pos5=",
+            "p6": "Sways|p6flag=fr|pos6=",
+            "p7": "Cloud|p7flag=fr|pos7=|p7link=Cloud (French Player)",
+            "c": "Wrath|cflag=fr"
+        },
+        {
+            "team": "Metalipopette",
+            "image": "",
+            "p1": "Sanguinello|p1flag=fr|pos1=",
+            "p2": "Hemjey|p2flag=|pos2=",
+            "p3": "Rambow|p3flag=|pos3=",
+            "p4": "Elforde|p4flag=|pos4=",
+            "p5": "Jiexi|p5flag=fr|pos5=",
+            "p6": "Drazor|p6flag=|pos6=",
+            "c": "|cflag="
+        },
+        {
+            "team": "GAMEWAVE",
+            "image": "Gamewave_logo.png",
+            "p1": "soow|p1flag=fr|pos1=",
+            "p2": "wSerious|p2flag=fr|pos2=",
+            "p3": "Zabu|p3flag=fr|pos3=",
+            "p4": "Ezel|p4flag=fr|pos4=",
+            "p5": "Yggdrasille|p5flag=fr|pos5=",
+            "p6": "Deylen|p6flag=fr|pos6=",
+            "p7": "Stayw0nkyy|p7flag=fr|pos7=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Thunderbird",
+            "image": "",
+            "p1": "Mugisama|p1flag=fr|pos1=",
+            "p2": "ArcSeraphine|p2flag=fr|pos2=",
+            "p3": "DrBibound\u00e9|p3flag=|pos3=",
+            "p4": "Draakaan|p4flag=|pos4=",
+            "p5": "Hippy|p5flag=|pos5=",
+            "p6": "Mobilette|p6flag=|pos6=",
+            "c": "|cflag="
+        },
+        {
+            "team": "REZS",
+            "image": "",
+            "p1": "RONTOOPOOH|p1flag=|pos1=",
+            "p2": "Hydrefunky|p2flag=|pos2=",
+            "p3": "Demtyco|p3flag=|pos3=",
+            "p4": "Darg|p4flag=|pos4=",
+            "p5": "Guinou|p5flag=|pos5=",
+            "p6": "Delnah|p6flag=|pos6=",
+            "p7": "Weedow|p7flag=|pos7=",
+            "p8": "AncientWay|p8flag=|pos8=",
+            "p9": "Bahamut42|p9flag=|pos9=",
+            "c": "|cflag="
+        },
+        {
+            "team": "RFX PROJECT",
+            "image": "",
+            "p1": "Hikii|p1flag=|pos1=dps",
+            "p2": "Hakan|p2flag=|pos2=dps",
+            "p3": "Wannes|p3flag=|pos3=flex",
+            "p4": "Appe|p4flag=|pos4=tank",
+            "p5": "Leoreth|p5flag=fr|pos5=sup",
+            "p6": "Zouzou|p6flag=|pos6=sup",
+            "c": "|cflag="
+        },
+        {
+            "team": "Team Evolution",
+            "image": "",
+            "p1": "Yuma|p1flag=fr|pos1=dps",
+            "p2": "Gmoxfr|p2flag=fr|pos2=dps",
+            "p3": "Gsix|p3flag=fr|pos3=flex",
+            "p4": "Echo|p4flag=fr|pos4=tank |p4link=Echo (French player)",
+            "p5": "Makkarof|p5flag=fr|pos5=sup",
+            "p6": "Rba|p6flag=fr|pos6=sup",
+            "c": "|cflag="
+        },
+        {
+            "team": "Doliprane 1000mg",
+            "image": "",
+            "p1": "NULL|p1flag=|pos1=",
+            "p2": "Cocolapin|p2flag=|pos2=",
+            "p3": "Mp\u00e9|p3flag=|pos3=",
+            "p4": "Toaddd|p4flag=fr|pos4=",
+            "p5": "Ut\u00f4pia|p5flag=|pos5=",
+            "p6": "Osnazeni|p6flag=|pos6=",
+            "p7": "NoluZz|p7flag=fr|pos7=",
+            "p8": "Valmaster|p8flag=fr|pos8=",
+            "c": "|cflag="
+        },
+        {
+            "team": "E-Thlete",
+            "image": "E-thlete Logo.png",
+            "p1": "Task|p1flag=fr|pos1=",
+            "p2": "Bionix|p2flag=fr|pos2=",
+            "p3": "Player99|p3flag=|pos3=",
+            "p4": "GeneralDelta|p4flag=fr|pos4=",
+            "p5": "Faenor|p5flag=de|pos5=",
+            "p6": "Ah\u00e9|p6flag=|pos6=",
+            "c": "Kharoma|cflag=fr"
+        },
+        {
+            "team": "HsD.Black",
+            "image": "",
+            "p1": "do0om|p1flag=|pos1=",
+            "p2": "Mizuki|p2flag=|pos2=|p2link=Mizuki (Another player)",
+            "p3": "Galactic|p3flag=|pos3=",
+            "p4": "Man|p4flag=|pos4=",
+            "p5": "Siroww|p5flag=|pos5=",
+            "p6": "Crawz|p6flag=|pos6=",
+            "p7": "Pseek|p7flag=|pos7=",
+            "c": "|cflag="
+        },
+        {
+            "team": "JJ'\u00d8zz",
+            "image": "",
+            "p1": "Shadow|p1flag=|pos1=|p1link=Shadow (EU player)",
+            "p2": "Matoche|p2flag=|pos2=",
+            "p3": "RanxFR|p3flag=|pos3=",
+            "p4": "Shadows|p4flag=fr|pos4=",
+            "p5": "Nh4kryx|p5flag=|pos5=",
+            "p6": "Raptor2K|p6flag=|pos6=",
+            "c": "|cflag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "orks grand poitiers",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "jj'\u00d8zz",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "thunderbird",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "gamewave",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "rfx project",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "team evolution",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "doliprane 1000mg",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "rezs",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "metalipopette",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "eagle gaming red",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "e-thlete",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "hsd.black",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "jj'\u00d8zz",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "orks grand poitiers white",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "rfx project",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "gamewave",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "metalipopette",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "doliprane 1000mg",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "e-thlete",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "eagle gaming red",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "gamewave",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "orks grand poitiers",
+            "score1": "2",
+            "win1": ""
+        },
+        {
+            "team2": "eagle gaming red",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3W3",
+            "team1": "doliprane 1000mg",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "eagle gaming red",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "gamewave",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

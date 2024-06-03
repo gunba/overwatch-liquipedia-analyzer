@@ -1,0 +1,141 @@
+{{DISPLAYTITLE:Overwatch World Cup 2023 - India Open Trials}}
+{{World Cup Tabs|OWC2023=1}}
+{{Tabs static
+|name1=Australia|link1=Overwatch World Cup/2023/Open Trials/Australia
+|name2=New Zealand|link2=Overwatch World Cup/2023/Open Trials/New Zealand
+|name3=Singapore|link3=Overwatch World Cup/2023/Open Trials/Singapore
+|name4=India|link4=Overwatch World Cup/2023/Open Trials/India
+|name5=Malaysia|link5=Overwatch World Cup/2023/Open Trials/Malaysia
+|name6=Thailand|link6=Overwatch World Cup/2023/Open Trials/Thailand
+}}
+{{Infobox league
+|name=Overwatch World Cup 2023 India Open Trials
+|image=Overwatch World Cup 2023 allmode.png
+|series=Overwatch World Cup
+|shortname=World Cup 2023
+|tickername=OWWC IND Open Trials
+|icon=Overwatch World Cup logo.png
+|organizer=Blizzard Entertainment
+|organizer2=Roof Esports
+|organizer2-link=https://twitter.com/roof_esports?lang=en
+|sponsor=
+|type=Online
+|country=India
+|country2=
+|city=
+|venue=
+|format=
+|game=overwatch2
+|prizepoolusd=2000
+|date=2023-02-24
+|liquipediatier=4
+|blizzardtier=owwc
+|web=https://overwatchworldcup.com
+|twitter=playoverwatch
+|youtube=playoverwatch
+|twitch=playoverwatch
+|bracket=https://roof.co.th/tournament/overwatch-world-cup-trials-india/
+|team_number=4
+}}
+{{Upcoming matches tournament|Overwatch_World_Cup/2023/Open_Trials/India}}
+
+==Information==
+*Double elimination bracket
+*Winning team gets a guaranteed tryout for their country's World Cup team
+
+<!--===Map Pool===-->
+
+==Prize Pool==
+{{TeamPrizePool
+|{{Slot|usdprize=2000}}
+}}
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=LINEAR
+|p1=SurfExcel|p1flag=in|p1team=|pos1=dps
+|p2=SkilledEnder|p2flag=in|p2team=|pos2=dps
+|p3=TheNiceGuy|p3flag=in|p3team=|pos3=tank
+|p4=DT89|p4flag=in|p4team=|pos4=sup
+|p5=ǾƑƑŦǍŊǨDȈȈƑ|p5flag=in|p5team=|pos5=sup
+}}
+{{TeamCard
+|team=Team Default
+|p1=troublemaker|p1flag=in|p1team=|pos1=
+|p2=Coco|p2link=Coco (Indian Player)|p2flag=in|p2team=|pos2=
+|p3=AXEY|p3flag=in|p3team=|pos3=
+|p4=Robonaut|p4flag=in|p4team=|pos4=
+|p5=Asagrim|p5flag=in|p5team=|pos5=
+}}
+{{TeamCard
+|team=Resurgance
+|p1=Daywing|p1flag=in|p1team=|pos1=
+|p2=Proilios|p2flag=in|p2team=|pos2=
+|p3=Bullman76|p3flag=in|p3team=|pos3=
+|p4=Pratkun|p4flag=in|p4team=|pos4=
+|p5=Streakerr|p5flag=in|p5team=|pos5=
+|p6=LuV|p6flag=in|p6team=|pos6=
+}}
+{{TeamCard
+|team=8Shoes1Bun
+|p1=Ricky|p1link=Ricky (Indian Player)|p1flag=in|p1team=|pos1=dps
+|p2=Gon|p2flag=in|p2team=|pos2=dps
+|p3=gottarun|p3flag=in|p3team=|pos3=tank
+|p4=Flexicidal|p4flag=in|p4team=|pos4=sup
+|p5=MaskedGHOST|p5flag=in|p5team=|pos5=sup
+|p6=AgenZmain|p6flag=in|p6team=|pos6=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/4U2L1D|id=YK6YhNYvir
+
+<!-- Upper Bracket Semifinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=February 24, 2023 - 18:00 {{Abbr/IST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team default|score=0}}
+    |opponent2={{TeamOpponent|resurgance|score=2}}
+}}
+|R1M2={{Match
+    |date=February 24, 2023 - 18:00 {{Abbr/IST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|linear|score=2}}
+    |opponent2={{TeamOpponent|8shoes1bun|score=0}}
+}}
+
+<!-- Upper Bracket Final -->
+|R2M1={{Match
+    |date=February 24, 2023 - 19:00 {{Abbr/IST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|resurgance|score=0}}
+    |opponent2={{TeamOpponent|linear|score=2}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R1M3={{Match
+    |date=February 24, 2023 - 19:00 {{Abbr/IST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team default|score=0}}
+    |opponent2={{TeamOpponent|8shoes1bun|score=2}}
+}}
+
+<!-- Lower Bracket Final -->
+|R2M2={{Match
+    |date=February 24, 2023 - 20:00 {{Abbr/IST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|resurgance|score=0}}
+    |opponent2={{TeamOpponent|8shoes1bun|score=2}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|bestof=5
+    |date=February 24, 2023 - 21:00 {{Abbr/IST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|linear|score=3}}
+    |opponent2={{TeamOpponent|8shoes1bun|score=1}}
+}}
+}}

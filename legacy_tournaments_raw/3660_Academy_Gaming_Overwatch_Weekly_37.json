@@ -1,0 +1,548 @@
+{
+    "tournament_info": [
+        {
+            "name": "Academy Gaming Overwatch Weekly #37",
+            "shortname": "37",
+            "image": "AGFull.png",
+            "series": "Academy Gaming",
+            "organizer": "Academy Gaming",
+            "organizer-link": "http://www.battlefy.com/academy-gaming/",
+            "sponsor": "[http://www.matcherino.com/ Matcherino], [http://haste.net/ Haste]",
+            "type": "Online",
+            "country": "USA",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "prizepoolusd": "146",
+            "date": "2017-02-06",
+            "web": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-37/587ff6b2f75adc430351c051/info?infoTab=details",
+            "bracket": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-37/587ff6b2f75adc430351c051/stage/587ff6b2f75adc430351c052/bracket/",
+            "twitch": "gamewithstorm",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "23",
+            "map1": "King's Row",
+            "map2": "Numbani",
+            "map3": "Watchpoint: Gibraltar",
+            "map4": "Dorado",
+            "map5": "Hanamura",
+            "map6": "Temple of Anubis",
+            "map7": "Volskaya Industries",
+            "map8": "Nepal",
+            "map9": "Lijiang Tower",
+            "map10": "Hollywood",
+            "map11": "Ilios",
+            "map12": "Route 66",
+            "map13": "Eichenwalde",
+            "map14": "Oasis"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Ronin",
+            "p1flag": "us |p1=Zan",
+            "p2flag": "us |p2=RayReign",
+            "p3flag": "us |p3=Far",
+            "p4flag": "us |p4=Ajlittle",
+            "p5flag": "ca |p5=Bischu",
+            "p6flag": "us |p6=Fire"
+        },
+        {
+            "team": "Nameless",
+            "image": "",
+            "p1flag": "us|p1=Noobicabra",
+            "p2flag": "us|p2=Gbunny",
+            "p3flag": "us|p3=PrimoDulce",
+            "p4flag": "us|p4=LordTachyon",
+            "p5flag": "ca|p5=Duckeyy",
+            "p6flag": "ca|p6=Scratch"
+        },
+        {
+            "team": "doot doot",
+            "p1flag": "|p1=Deadly",
+            "p2flag": "|p2=Moth",
+            "p3flag": "|p3=Cloneman16",
+            "p4flag": "us |p4=Trevorius",
+            "p5flag": "us |p5=OtterInWater",
+            "p6flag": "|p6=Majesty"
+        },
+        {
+            "team": "Selfless Gaming",
+            "p1flag": "us |p1=emongg",
+            "p2": "dhaK",
+            "p3flag": "us |p3=Michael3D",
+            "p4flag": "us |p4=sinatraa",
+            "p5flag": "us |p5=kresnik",
+            "p6flag": "dk |p6=dafran",
+            "c": "Sephy|cflag=us"
+        },
+        {
+            "team": "Klunatik-Hi",
+            "p1": "snooperoofle|p1flag=",
+            "p2": "Minish|p2flag=",
+            "p3": "Insomniaq|p3flag=",
+            "p4": "Dantwist|p4flag=us",
+            "p5": "Lumberjack|p5flag=",
+            "p6": "Rampantrhino|p6flag=mex",
+            "c1": "Klunatik|c1flag=us"
+        },
+        {
+            "team": "Kangaroo Jacks",
+            "p1": "Tehpwnzorr|p1flag=",
+            "p2": "sharky|p2flag=",
+            "p3": "Traumist|p3flag=",
+            "p4": "tylan|p4flag=",
+            "p5": "Pix|p5flag=",
+            "p6": "Chanse|p6flag="
+        },
+        {
+            "team": "Tempo Storm NA",
+            "p1": "DreamKazper|p1flag=",
+            "p2": "Wolf|p2flag=",
+            "p3": "hooey|p3flag=",
+            "p4": "Jkw|p4flag=",
+            "p5": "Mini|p5flag=",
+            "p6": "spOh|p6flag="
+        },
+        {
+            "team": "burger men",
+            "p1": "Alekiii|p1flag=us",
+            "p2": "Mayhem|p2flag=fr",
+            "p3": "San|p3flag=us",
+            "p4": "Cereal|p4flag=us",
+            "p5": "Anxietylol|p5flag=us",
+            "p6": "crakinlakin|p6flag="
+        },
+        {
+            "team": "Chicken Connoisseurs",
+            "p1": "DSPStanky|p1flag=us",
+            "p2": "Slayergramps|p2flag=us",
+            "p3": "Calvinisacat|p3flag=us",
+            "p4": "Sly|p4flag=",
+            "p5": "Icyyy|p5flag=us",
+            "p6": "K01ngArthur|p6flag=",
+            "p7": "HazyMan|p7flag=us"
+        },
+        {
+            "team": "Season 2 Diamonds",
+            "p1": "BigEKnows|p1flag=",
+            "p2": "Meowmere|p2flag=",
+            "p3": "GGG|p3flag=",
+            "p4": "UndeadDonut|p4flag=",
+            "p5": "ziek|p5flag=",
+            "p6": "DPSDUDE420\u01f6|p6flag=",
+            "p7": "DankMeme99|p7flag=",
+            "p8": "Xtinct|p8flag=",
+            "p9": "Naisu|p9flag="
+        },
+        {
+            "team": "Koala TeaSports",
+            "p1": "GuBear|p1flag=us",
+            "p2": "Misprint|p2flag=",
+            "p3": "Crimzo|p3flag=",
+            "p4": "zZephyr|p4flag=",
+            "p5": "Chinchilla|p5flag=us",
+            "p6": "Horthic|p6flag="
+        },
+        {
+            "team": "White Panthers",
+            "p1": "Evan|p1flag=cl",
+            "p2": "lowlife|p2flag=cl",
+            "p3": "ra\u00fal|p3flag=cl",
+            "p4": "YapaTeh|p4flag=cl",
+            "p5": "Gogo|p5flag=arg",
+            "p6": "F\u013fESH|p6flag=arg",
+            "p7": "SIRPETTERNOW|p7flag=cl",
+            "c1": "KTN|c1flag=cl"
+        },
+        {
+            "team": "Outlaws",
+            "p1": "Kina|p1flag=",
+            "p2": "Bohon|p2flag=us",
+            "p3": "Toonacho|p3flag=",
+            "p4": "Beesarefake|p4flag=us",
+            "p5": "AyeePlus|p5flag=",
+            "p6": "Flint|p6flag=",
+            "p7": "LuLu|p7flag=",
+            "p8": "CANAS1AN|p8flag=",
+            "p9": "paragon|p9flag="
+        },
+        {
+            "team": "Late Bloomers",
+            "p1": "ohNocturnal|p1flag=us",
+            "p2": "SPACE|p2flag=us",
+            "p3": "Corey|p3flag=us",
+            "p4": "bowswer|p4flag=us",
+            "p5": "Beasthalo|p5flag=",
+            "p6": "MrSquishee|p6flag=ca"
+        },
+        {
+            "team": "Chorus Gaming",
+            "p1": "Seagle|p1flag=",
+            "p2": "Praprif|p2flag=",
+            "p3": "Cursor|p3flag=",
+            "p4": "TheEnd|p4flag=",
+            "p5": "ComboMesh|p5flag=",
+            "p6": "Jibbsics|p6flag=",
+            "p7": "Capitiano|p7link=Capitiano (Chorus Gaming player)|p7flag="
+        },
+        {
+            "team": "Friends Gaming",
+            "p1": "shamzor|p1flag=",
+            "p2": "bquick|p2flag=",
+            "p3": "McGraken|p3flag=",
+            "p4": "Babamabushka|p4flag=",
+            "p5": "waterboardin|p5flag=",
+            "p6": "p3ngin|p6flag="
+        },
+        {
+            "team": "MAD esports",
+            "p1": "AsianDoc64|p1flag=",
+            "p2": "Xpory|p2flag=",
+            "p3": "Kirdox|p3flag=",
+            "p4": "Bye|p4flag=",
+            "p5": "Unlucky|p5flag=",
+            "p6": "Shimadda|p6flag=",
+            "p7": "Tamalpisk|p7flag=",
+            "p8": "Mario|p8flag=",
+            "p9": "FTactics|p9flag=",
+            "p10": "Mugen|p10flag="
+        },
+        {
+            "team": "Unfortunate",
+            "p1": "viazu|p1flag=",
+            "p2": "Mizd|p2flag=",
+            "p3": "fauxpaw|p3flag=",
+            "p4": "K00LA1DCRUSH|p4flag=",
+            "p5": "ChinChin|p5flag=",
+            "p6": "Rolo|p6flag=us",
+            "c1": "Gumby|c1flag=ph"
+        },
+        {
+            "team": "Retrograde",
+            "p1": "frog|p1flag=us",
+            "p2": "mink|p2flag=us",
+            "p3": "Boredy|p3flag=us",
+            "p4": "Moose|p4link=Moose (Retrograde player)|p4flag=",
+            "p5": "Jinglebuns|p5flag=us",
+            "p6": "SoaR|p6flag=us",
+            "p7": "nuBKi|p7flag=us"
+        },
+        {
+            "team": "Aporia Esports",
+            "p1": "Everest|p1flag=",
+            "p2": "Muphinnz|p2flag=",
+            "p3": "Deadre|p3flag=",
+            "p4": "Nox|p4flag=",
+            "p5": "LadyMew|p5flag=",
+            "p6": "Gboi|p6flag=",
+            "p7": "Lulumeister|p7flag="
+        },
+        {
+            "team": "MTS HIGH",
+            "p1": "kagazzie|p1flag=",
+            "p2": "SilverBullet|p2flag=",
+            "p3": "Chrome|p3flag=",
+            "p4": "CallMeBard|p4flag=",
+            "p5": "ComplexJB|p5flag=",
+            "p6": "hoboman437|p6flag="
+        },
+        {
+            "team": "Event Horizon",
+            "p1": "Bruins|p1flag=",
+            "p2": "sulfurictide|p2flag=",
+            "p3": "Humps|p3flag=us",
+            "p4": "jtocs|p4flag=",
+            "p5": "Twilo|p5flag=",
+            "p6": "Kallliii|p6flag=us"
+        },
+        {
+            "team": "Imperial",
+            "p1": "SiMundo|p1flag=",
+            "p2": "Torous|p2flag=",
+            "p3": "kaeo|p3flag=",
+            "p4": "Finn|p4flag=",
+            "p5": "Fuchsia|p5flag=us",
+            "p6": "matcuth|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "tempo storm na",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "mad esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "outlaws",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "late bloomers",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "doot doot",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "burger men",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "mts high",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "white panthers",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "chicken connoisseurs",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "ronin",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "retrogade",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D17",
+            "team1": "selfless gaming",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "unfortunate",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D19",
+            "team1": "friends gaming",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D21",
+            "team1": "kangaroo jacks",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "imperial",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D23",
+            "team1": "koala teasports",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D25",
+            "team1": "nameless",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "event horizon",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D27",
+            "team1": "season 2 diamonds",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D29",
+            "team1": "klunatik-hi",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "chorus gaming",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D31",
+            "team1": "aporia esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "outlaws",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "tempo storm na",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "doot doot",
+            "score2": "1",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "late bloomers",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "white panthers",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "burger men",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "ronin",
+            "score2": "1",
+            "win2": "1",
+            "key": "R2W7",
+            "team1": "chicken connoisseurs",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "friends gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W9",
+            "team1": "selfless gaming",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "koala teasports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W11",
+            "team1": "kangaroo jacks",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "season 2 diamonds",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W13",
+            "team1": "nameless",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "chorus gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W15",
+            "team1": "klunatik-hi",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "doot doot",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "tempo storm na",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ronin",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W3",
+            "team1": "burger men",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "kangaroo jacks",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W5",
+            "team1": "selfless gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "klunatik-hi",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W7",
+            "team1": "nameless",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ronin",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "doot doot",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "nameless",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W3",
+            "team1": "selfless gaming",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "nameless",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "ronin",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

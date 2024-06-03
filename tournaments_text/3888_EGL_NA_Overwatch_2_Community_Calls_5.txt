@@ -1,0 +1,144 @@
+{{DISPLAYTITLE:EGL NA Overwatch 2 Community Calls #5}}
+{{Infobox league
+|liquipediatier=5|liquipediatiertype=Weekly
+|name=EGL NA Overwatch 2 Community Calls #5
+|shortname=NA Community Calls 5
+|tickername=EGL NA Community Calls #5
+|icon=EGL allmode.png
+|image=Overwatch 2 Community Calls lightmode.png
+|imagedark=Overwatch 2 Community Calls darkmode.png
+|organizer=EGL
+|series=Esports Gaming League
+|abbreviation=EGL
+|type=Online
+|country=North America
+|game=overwatch2
+|format=Single Elimination
+|prizepoolusd=50
+|date=2023-01-07
+|twitter=EGL
+|web=https://egl.tv
+|facebook=EGLgg
+|instagram=EGLtv
+|discord=eglgg
+|youtube=eglpro
+|twitch=egl
+|rulebook= https://egl.tv/tournament/7507
+|bracket=https://egl.tv/tournament/7507/matches
+|team_number=5
+|previous=EGL_NA_Overwatch_2_Community_Calls/4{{!}}#4
+|next=EGL_NA_Overwatch_2_Community_Calls/6{{!}}#6
+}}
+
+==Information==
+===Format===
+*Single Elimination Bracket
+**Grand Finals are {{Abbr/Bo5}}, all other matches are {{Abbr/Bo3}}
+
+===Prize Pool===
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=50}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Shikigami
+|p1=Snowl|p1flag=us|pos1=dps
+|p2=Stone|p2flag=us|pos2=dps
+|p3=Faded|p3flag=|pos3=tank
+|p4=Lava|p4flag=|pos4=tank
+|p5=AV2RY|p5flag=|pos5=tank
+|p6=Deeko|p6flag=|pos6=sup
+|p7=ChoseN|p7flag=|pos7=sup
+|p8=Meman|p8flag=us|pos8=sup
+|t2title=Staff
+|t2c1=Mercury|t2c1pos=coach
+|t2c2=Aeroplayne|t2c2pos=manager
+}}
+{{TeamCard
+|team=Hive Five
+|p1=Sugureru|p1flag=us|pos1=dps
+|p2=peace|p2flag=|pos2=dps
+|p3=Astronexz|p3flag=|pos3=tank
+|p4=sniper|p4flag=|pos4=tank
+|p5=Wicca|p5flag=|pos5=sup
+|p6=Abyss|p6flag=|pos6=sup
+|t2title=Staff
+|t2c1=elijah|t2c1pos=manager
+}}
+{{TeamCard
+|team=Hivemind Varsity
+|p1=Rakuna|p1flag=ca|pos1=dps
+|p2=Juvn|p2flag=us|pos2=dps
+|p3=Adren|p3flag=us|pos3=tank
+|p4=Jammm|p4flag=us|pos4=sup
+|p5=salamiboi200|p5flag=sa|pos5=sup
+|t2title=Staff
+|t2c1=Daz|t2c1flag=ca|t2c1pos=coach
+}}
+{{TeamCard
+|team=Ski Boots
+|p1=FrostyDog|p1flag=us|pos1=dps
+|p2=SoundwaveX|p2flag=us|pos2=dps
+|p3=SHMURDA|p3flag=us|pos3=dps
+|p4=Fingolfin|p4flag=us|pos4=tank
+|p5=TurkeyK|p5flag=us|pos5=sup
+|p6=MiniNinja|p6flag=us|pos6=sup
+}}
+{{TeamCard
+|team=Hooked on you
+|p1=ShoreLinePie|p1flag=us|pos1=dps
+|p2=Bungo|p2flag=us|pos2=dps
+|p3=Dirt|p3flag=tr|pos3=tank
+|p4=Source|p4flag=us|pos4=sup
+|p5=BoltingCake|p5flag=us|pos5=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2L1DH2L|id=AT4EJ4pgrH
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |date=2023-01-07
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Ski Boots|score=0}}
+    |opponent2={{TeamOpponent|Hooked on you|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+    |date=2023-01-07
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Hive Five|score=3}}
+    |opponent2={{TeamOpponent|Hooked on you|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+    |date=2023-01-07
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Shikigami|score=3}}
+    |opponent2={{TeamOpponent|Hivemind Varsity|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |date=2023-01-07
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Hive Five|score=3}}
+    |opponent2={{TeamOpponent|Shikigami|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

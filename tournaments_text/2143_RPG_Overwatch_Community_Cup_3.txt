@@ -1,0 +1,119 @@
+{{Infobox league
+|name=RPG Overwatch Community Cup #3
+|image=RPG-OW-Community-Cup-3.jpeg
+|series=RPG Overwatch Community Cup
+|abbreviation=RPG Cup
+|shortname=RPG Cup #3
+|tickername=RPG Overwatch Community Cup #3
+|icon=Radical Pop Gaming Logo.png
+|organizer=Radical Pop Gaming
+|organizer2=
+|sponsor=
+|patch=
+|type=Online
+|country=Japan
+|city=
+|venue=
+|format=
+|prizepool=24,000
+|localcurrency=JPY
+|prizepoolusd=218.82
+|date=2021-10-23
+|liquipediatier=5
+|web=
+|twitter=https://twitter.com/RadicalPopGame
+|stream=https://www.youtube.com/channel/UCqedr4Lb4Gvx0tVJVzSQn_w
+|twitch=
+|bracket=
+|team_number=16
+|previous=
+|next=
+}}
+{{TOClimit|3}}
+
+==Information==
+
+===Format===
+* Group Stage.
+* 4 Groups of 4, Single Round Robins of {{Abbr/Bo1}}. Top team of each group advances to Playoffs which is a Single-Elimination bracket with Semi-Finals being {{Abbr/Bo1}} and Finals being {{Abbr/Bo3}}.
+
+===Broadcast Talent===
+{{box|start|padding=1em}}
+====Japanese Broadcast====
+{{BroadcasterCard|lang=Japanese
+|position=Commentator
+|b1=Tonpi|b1flag=jp
+|b2=TQQ|b2flag=jp
+}}
+{{box|end|padding=1em}}
+
+===Prize Pool===
+24,000 {{Abbr/JPY}}(~210.51{{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start|localcurrency=jpy}}
+{{prize pool slot|place=1|usdprize=157.88|localprize=18,000|ヘムヘム|lastvs1=手をあたためる会|lastscore1=2 |lastvsscore1=0  }}
+{{prize pool slot|place=2|usdprize=52.63|localprize=6,000|手をあたためる会|lastvs2=ヘムヘム|lastscore2=0 |lastvsscore2=2  }}
+{{prize pool slot|place=3-4|usdprize=0|localprize=0
+|めーそんアップルズ|lastvs1=手をあたためる会|lastscore1=0 |lastvsscore1=1
+|Team Gmkz Gaming|lastvs2=ヘムヘム|lastscore2=0 |lastvsscore2=1
+}}
+{{Prize pool end}}
+''Conversion values taken from [http://www.xe.com xe.com] at 2021-10-26. 1 {{Abbr/JPY}} ≈ 0.00877319 {{Abbr/USD}}''
+
+==Top 4 Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=ヘムヘム
+|p1=Qki|p1flag=jp|pos1=dps
+|p2=Lapin|p2flag=jp|pos2=dps
+|p3=sonairo|p3flag=jp|pos3=tank
+|p4=Aleksey|p4flag=jp|pos4=tank
+|p5=RyuB|p5flag=jp|pos5=tank
+|p6=Mint|p6link=Mint (Japanese player)|p6flag=jp|pos6=sup
+|p7=Mazz|p7flag=jp|pos7=sup
+|p8=Qloud|p8flag=jp|pos8=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=手をあたためる会
+|p1=Daisy|p1flag=jp|pos1=dps
+|p2=camilaa|p2flag=jp|pos2=dps
+|p3=KSG|p3flag=jp|pos3=tank
+|p4=Ask|p4flag=jp|pos4=tank
+|p5=横山|p5flag=jp|pos5=sup
+|p6=Liz|p6link=Liz (Japanese player)|p6flag=jp|pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=めーそんアップルズ
+|p1=Mafin|p1flag=jp|pos1=dps
+|p2=sZymoNq|p2flag=jp|pos2=dps
+|p3=Mason|p3flag=jp|pos3=tank
+|p4=Solo|p4flag=jp|pos4=tank|p4link=Solo (Japanese player)
+|p5=dyraizu|p5flag=jp|pos5=sup
+|p6=Haqua|p6flag=jp|pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Gmkz Gaming
+|p1=|p1flag=jp|pos1=
+|p2=|p2flag=jp|pos2=
+|p3=|p3flag=jp|pos3=
+|p4=|p4flag=jp|pos4=
+|p5=|p5flag=jp|pos5=
+|p6=|p6flag=jp|pos6=
+}}
+{{box|end}}
+
+==Playoffs==
+
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=fM1g89Vc0O
+<!-- SEMIFINALS -->
+|R1D1team=ヘムヘム |R1D1score=1 |R1D1win=1
+|R1D2team=Team Gmkz Gaming |R1D2score=0 |R1D2win=
+|R1D3team=手をあたためる会 |R1D3score=1 |R1D3win=1
+|R1D4team=めーそんアップルズ |R1D4score=0 |R1D4win=
+<!-- FINALS -->
+|R2W1team=ヘムヘム |R2W1score=2 |R2W1win=1
+|R2W2team=手をあたためる会 |R2W2score=0 |R2W2win=
+}}

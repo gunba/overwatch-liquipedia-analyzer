@@ -1,0 +1,89 @@
+{
+    "tournament_info": [
+        {
+            "name": "King of the Watch Europe #8",
+            "image": "",
+            "series": "King of the Watch",
+            "organizer": "Creation eSports",
+            "country": "Europe",
+            "format": "Showmatch",
+            "type": "Online",
+            "game": "Overwatch",
+            "date": "2016-04-22",
+            "prizepoolusd": "307",
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "stream": "",
+            "twitch": "",
+            "twitch2": "",
+            "bracket": "",
+            "team_number": "3",
+            "previous": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Sooner or Later",
+            "p1": "Veineless ",
+            "p1flag": "de",
+            "p2": "Evokje ",
+            "p2flag": "lt",
+            "p3": "art1er ",
+            "p3flag": "de",
+            "p4": "Ruster ",
+            "p4flag": "de",
+            "p5": "ToxikeN ",
+            "p5flag": "es",
+            "p6": "outc1der ",
+            "p6flag": "de"
+        },
+        {
+            "team": "MyDong",
+            "p1": "TviQ ",
+            "p1flag": "se",
+            "p2": "aKm ",
+            "p2flag": "fr",
+            "p3": "winz ",
+            "p3flag": "fr",
+            "p4": "uNKOE ",
+            "p4flag": "fr",
+            "p5": "Reinforce ",
+            "p5flag": "se",
+            "p6": "Mendokusaii ",
+            "p6flag": "se"
+        },
+        {
+            "team": "REUNITED",
+            "p1": "uNFixed ",
+            "p1flag": "ru",
+            "p2": "Winghaven ",
+            "p2flag": "es",
+            "p3": "Morte ",
+            "p3flag": "nl",
+            "p4": "Vallutaja ",
+            "p4flag": "ee",
+            "p5": "2Easy ",
+            "p5flag": "nl",
+            "p6": "Kruise ",
+            "p6flag": "uk"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "mydong",
+            "opponent1_score": 2,
+            "opponent2": "sooner or later",
+            "opponent2_score": 0,
+            "optional": "R1M1="
+        },
+        {
+            "bestof": "7",
+            "opponent1": "reunited",
+            "opponent1_score": 4,
+            "opponent2": "mydong",
+            "opponent2_score": 2,
+            "optional": "R2M1="
+        }
+    ]
+}

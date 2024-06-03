@@ -1,0 +1,870 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "name": "Saudi Womens eLeague 2024 Major 1 Open Qualifier",
+            "tickername": "Saudi Womens eLeague 2024 Major 1 Open Qualifier",
+            "image": "Saudi eLeague allmode.png",
+            "organizer": "SEF",
+            "organizer-link": "https://saudiesports.sa/en/",
+            "organizer2": "Savvy Games Group",
+            "game": "overwatch2",
+            "series": "Saudi eLeagues",
+            "abbreviation": "SEL",
+            "sponsor": "[https://saudi.kfc.me/en/home KFC]",
+            "sponsor2": "[https://www.toyota.com.sa/en/about Abdul Latif Jameel Motors]",
+            "type": "Online",
+            "country": "Saudi Arabia",
+            "format": "Round Robin",
+            "prizepool": "",
+            "localcurrency": "sar",
+            "sdate": "2024-03-20",
+            "edate": "2024-03-29",
+            "bracket": "https://saudieleagues.com/competitions/OW2/tournaments/246",
+            "rulebook": "https://drive.google.com/file/d/1t6zgSZ2WSVKLBuji5dnWQyGy8Wiwn4SY/view",
+            "web": "https://saudieleagues.sa/en/",
+            "facebook": "SaudiELeagues",
+            "youtube": "channel/UC6h42-fNpHCzm2hFR6_hbdg",
+            "instagram": "saudieleague",
+            "twitter": "SaudieLeagues",
+            "twitch": "saudieleagues",
+            "twitch2": "saudieleague_overwatch2",
+            "tiktok": "saudieleague",
+            "team_number": "15"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "9fitan",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "betterblue",
+            "p1": "hawy|p1flag=sa|pos1=",
+            "p2": "MYTHICAL|p2flag=sa|pos2=",
+            "p3": "rullva|p3flag=sa|pos3=",
+            "p4": "Maisou|p4flag=fr|pos4=",
+            "p5": "yuvai|p5flag=sa|pos5=",
+            "p6": "power|p6flag=ie|pos6=",
+            "p7": "iixseno|p7flag=sa|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "DeadLock",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "Falcons Vega",
+            "p1": "Evermore|p1flag=sa|pos1=",
+            "p2": "Ameile|p2flag=sa|pos2=",
+            "p3": "NULL|p3flag=sa|pos3=",
+            "p4": "RaZ|p4flag=sa|pos4=",
+            "p5": "ojiu|p5flag=sa|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "FOG Vortex",
+            "p1": "nourah|p1flag=sa|pos1=",
+            "p2": "Lujain|p2flag=sa|pos2=",
+            "p3": "Lareyu|p3flag=sa|pos3=",
+            "p4": "Mystery|p4flag=ch|pos4=tank",
+            "p5": "yoi|p5flag=sa|pos5=",
+            "p6": "AkkuFastLeer|p6flag=de|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Klinz|t2c1pos=manager|t2c1flag=sa"
+        },
+        {
+            "team": "Pearl",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "Rebirth",
+            "link": "Rebirth (Saudi Arabian team)",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "Serenity",
+            "link": "Serenity (Saudi Arabian team)",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "Stallionz",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "Switchblade",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "The Claws",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "Twisted Minds Female",
+            "p1": "Suznn|p1flag=sa|pos1=dps",
+            "p2": "chipmunk|p2flag=sa|pos2=dps",
+            "p3": "nan|p3flag=sa|pos3=tank",
+            "p4": "Dalal|p4flag=sa|pos4=sup",
+            "p5": "Miraei|p5flag=eg|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Mercury|t2c1pos=coach|t2c1team=Pirates in Pyjamas",
+            "t2c2": "Haya5k|t2c2pos=manager|t2c2flag=sa"
+        },
+        {
+            "team": "Valar Club",
+            "p1": "Granola|p1flag=sa|pos1=",
+            "p2": "ixHsq|p2flag=sa|pos2=",
+            "p3": "Olvia|p3flag=sa|pos3=",
+            "p4": "horirj|p4flag=sa|pos4=",
+            "p5": "vegeta|p5flag=sa|pos5=",
+            "p6": "Fillonce|p6flag=sa|pos6=",
+            "p7": "cnva|p7flag=sa|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "VORTEX",
+            "link": "VORTEX (Saudi Arabian team)",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "t2title": "Staff",
+            "t2c1": "|t2c1pos=",
+            "t2c2": "|t2c2pos="
+        },
+        {
+            "team": "XO Nova",
+            "p1": "Laila|p1flag=sa|pos1=dps",
+            "p2": "annomy|p2flag=bh|pos2=dps",
+            "p3": "May|p3flag=sa|pos3=tank",
+            "p4": "Sa7ayb|p4flag=ae|pos4=sup",
+            "p5": "Jay|p5flag=sa|pos5=sup|p5link=Jay (Saudi Player)",
+            "t2title": "Staff",
+            "t2c1": "Gyomin|t2c1pos=coach",
+            "t2c2": "Rhooma2013|t2c2pos=manager|t2c2flag=sa"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "March 20, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Rebirth (Saudi Arabian team)|score=3}}",
+            "opponent2": "{{TeamOpponent|xo nova|score=1}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 20, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|falcons vega|score=3}}",
+            "opponent2": "{{TeamOpponent|betterblue|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 20, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the claws|score=0}}",
+            "opponent2": "{{TeamOpponent|fog vortex|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 20, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|pearl|score=3}}",
+            "opponent2": "{{TeamOpponent|vortex (saudi arabian team)|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 20, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|9fitan|score=FF}}",
+            "opponent2": "{{TeamOpponent|deadlock|score=W}}",
+            "optional": "M5="
+        },
+        {
+            "date": "March 20, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|serenity (saudi arabian team)|score=0}}",
+            "opponent2": "{{TeamOpponent|twisted minds female|score=3}}",
+            "optional": "M6="
+        },
+        {
+            "date": "March 20, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|switchblade|score=0}}",
+            "opponent2": "{{TeamOpponent|stallionz|score=3}}",
+            "optional": "M7="
+        },
+        {
+            "bestof": "5",
+            "date": "March 21, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|xo nova|score=0}}",
+            "opponent2": "{{TeamOpponent|valar club|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 21, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fog vortex|score=3}}",
+            "opponent2": "{{TeamOpponent|Rebirth (Saudi Arabian team)|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 21, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|vortex (saudi arabian team)|score=0}}",
+            "opponent2": "{{TeamOpponent|falcons vega|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 21, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|deadlock|score=FF}}",
+            "opponent2": "{{TeamOpponent|the claws|score=W}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 21, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|twisted minds female|score=3}}",
+            "opponent2": "{{TeamOpponent|pearl|score=0}}",
+            "optional": "M5="
+        },
+        {
+            "date": "March 21, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|stallionz|score=3}}",
+            "opponent2": "{{TeamOpponent|9fitan|score=0}}",
+            "optional": "M6="
+        },
+        {
+            "date": "March 21, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|switchblade|score=2}}",
+            "opponent2": "{{TeamOpponent|serenity (saudi arabian team)|score=3}}",
+            "optional": "M7="
+        },
+        {
+            "bestof": "5",
+            "date": "March 21, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|valar club|score=3}}",
+            "opponent2": "{{TeamOpponent|betterblue|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 21, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|xo nova|score=1}}",
+            "opponent2": "{{TeamOpponent|fog vortex|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 21, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Rebirth (Saudi Arabian team)|score=3}}",
+            "opponent2": "{{TeamOpponent|deadlock|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 21, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|falcons vega|score=1}}",
+            "opponent2": "{{TeamOpponent|twisted minds female|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 21, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the claws|score=0}}",
+            "opponent2": "{{TeamOpponent|stallionz|score=3}}",
+            "optional": "M5="
+        },
+        {
+            "date": "March 21, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|pearl|score=3}}",
+            "opponent2": "{{TeamOpponent|switchblade|score=0}}",
+            "optional": "M6="
+        },
+        {
+            "date": "March 21, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|9fitan|score=0}}",
+            "opponent2": "{{TeamOpponent|serenity (saudi arabian team)|score=3}}",
+            "optional": "M7="
+        },
+        {
+            "bestof": "5",
+            "date": "March 22, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fog vortex|score=3}}",
+            "opponent2": "{{TeamOpponent|valar club|score=2}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 22, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|vortex (saudi arabian team)|score=0}}",
+            "opponent2": "{{TeamOpponent|betterblue|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 22, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|deadlock|score=0}}",
+            "opponent2": "{{TeamOpponent|xo nova|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 22, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|stallionz|score=3}}",
+            "opponent2": "{{TeamOpponent|Rebirth (Saudi Arabian team)|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 22, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|switchblade|score=0}}",
+            "opponent2": "{{TeamOpponent|falcons vega|score=3}}",
+            "optional": "M5="
+        },
+        {
+            "date": "March 22, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|serenity (saudi arabian team)|score=3}}",
+            "opponent2": "{{TeamOpponent|the claws|score=0}}",
+            "optional": "M6="
+        },
+        {
+            "date": "March 22, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|9fitan|score=0}}",
+            "opponent2": "{{TeamOpponent|pearl|score=3}}",
+            "optional": "M7="
+        },
+        {
+            "bestof": "5",
+            "date": "March 22, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|valar club|score=3}}",
+            "opponent2": "{{TeamOpponent|vortex (saudi arabian team)|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 22, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fog vortex|score=3}}",
+            "opponent2": "{{TeamOpponent|deadlock|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 22, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|betterblue|score=0}}",
+            "opponent2": "{{TeamOpponent|twisted minds female|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 22, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|xo nova|score=3}}",
+            "opponent2": "{{TeamOpponent|stallionz|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 22, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Rebirth (Saudi Arabian team)|score=0}}",
+            "opponent2": "{{TeamOpponent|serenity (saudi arabian team)|score=3}}",
+            "optional": "M5="
+        },
+        {
+            "date": "March 22, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|falcons vega|score=3}}",
+            "opponent2": "{{TeamOpponent|9fitan|score=0}}",
+            "optional": "M6="
+        },
+        {
+            "date": "March 22, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the claws|score=0}}",
+            "opponent2": "{{TeamOpponent|pearl|score=3}}",
+            "optional": "M7="
+        },
+        {
+            "bestof": "5",
+            "date": "March 23, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|deadlock|score=0}}",
+            "opponent2": "{{TeamOpponent|valar club|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 23, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|twisted minds female|score=3}}",
+            "opponent2": "{{TeamOpponent|vortex (saudi arabian team)|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 23, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|stallionz|score=1}}",
+            "opponent2": "{{TeamOpponent|fog vortex|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 23, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|switchblade|score=0}}",
+            "opponent2": "{{TeamOpponent|betterblue|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 23, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|serenity (saudi arabian team)|score=0}}",
+            "opponent2": "{{TeamOpponent|xo nova|score=3}}",
+            "optional": "M5="
+        },
+        {
+            "date": "March 23, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|pearl|score=3}}",
+            "opponent2": "{{TeamOpponent|Rebirth (Saudi Arabian team)|score=0}}",
+            "optional": "M6="
+        },
+        {
+            "date": "March 23, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the claws|score=0}}",
+            "opponent2": "{{TeamOpponent|falcons vega|score=3}}",
+            "optional": "M7="
+        },
+        {
+            "bestof": "5",
+            "date": "March 23, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|valar club|score=0}}",
+            "opponent2": "{{TeamOpponent|twisted minds female|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 23, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|deadlock|score=0}}",
+            "opponent2": "{{TeamOpponent|stallionz|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 23, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fog vortex|score=3}}",
+            "opponent2": "{{TeamOpponent|serenity (saudi arabian team)|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 23, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|betterblue|score=3}}",
+            "opponent2": "{{TeamOpponent|9fitan|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 23, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|xo nova|score=3}}",
+            "opponent2": "{{TeamOpponent|pearl|score=0}}",
+            "optional": "M5="
+        },
+        {
+            "date": "March 23, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Rebirth (Saudi Arabian team)|score=0}}",
+            "opponent2": "{{TeamOpponent|falcons vega|score=3}}",
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "March 24, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|stallionz|score=0}}",
+            "opponent2": "{{TeamOpponent|valar club|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 24, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|switchblade|score=0}}",
+            "opponent2": "{{TeamOpponent|twisted minds female|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 24, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|serenity (saudi arabian team)|score=3}}",
+            "opponent2": "{{TeamOpponent|deadlock|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 24, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|pearl|score=0}}",
+            "opponent2": "{{TeamOpponent|fog vortex|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 24, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the claws|score=0}}",
+            "opponent2": "{{TeamOpponent|betterblue|score=3}}",
+            "optional": "M5="
+        },
+        {
+            "date": "March 24, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|falcons vega|score=3}}",
+            "opponent2": "{{TeamOpponent|xo nova|score=0}}",
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "March 25, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|valar club|score=3}}",
+            "opponent2": "{{TeamOpponent|switchblade|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 25, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|stallionz|score=3}}",
+            "opponent2": "{{TeamOpponent|serenity (saudi arabian team)|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 25, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|twisted minds female|score=3}}",
+            "opponent2": "{{TeamOpponent|9fitan|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 25, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|deadlock|score=0}}",
+            "opponent2": "{{TeamOpponent|pearl|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 25, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fog vortex|score=0}}",
+            "opponent2": "{{TeamOpponent|falcons vega|score=3}}",
+            "optional": "M5="
+        },
+        {
+            "date": "March 25, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|betterblue|score=3}}",
+            "opponent2": "{{TeamOpponent|Rebirth (Saudi Arabian team)|score=0}}",
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "March 26, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|serenity (saudi arabian team)|score=0}}",
+            "opponent2": "{{TeamOpponent|valar club|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 26, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|pearl|score=2}}",
+            "opponent2": "{{TeamOpponent|stallionz|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 26, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the claws|score=0}}",
+            "opponent2": "{{TeamOpponent|twisted minds female|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 26, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|falcons vega|score=3}}",
+            "opponent2": "{{TeamOpponent|deadlock|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 26, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|xo nova|score=0}}",
+            "opponent2": "{{TeamOpponent|betterblue|score=3}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "March 27, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|valar club|score=3}}",
+            "opponent2": "{{TeamOpponent|9fitan|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 27, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|serenity (saudi arabian team)|score=0}}",
+            "opponent2": "{{TeamOpponent|pearl|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 27, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|stallionz|score=0}}",
+            "opponent2": "{{TeamOpponent|falcons vega|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 27, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|twisted minds female|score=3}}",
+            "opponent2": "{{TeamOpponent|Rebirth (Saudi Arabian team)|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 27, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|vortex (saudi arabian team)|score=0}}",
+            "opponent2": "{{TeamOpponent|xo nova|score=3}}",
+            "optional": "M5="
+        },
+        {
+            "date": "March 27, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fog vortex|score=0}}",
+            "opponent2": "{{TeamOpponent|betterblue|score=3}}",
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "March 28, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|pearl|score=0}}",
+            "opponent2": "{{TeamOpponent|valar club|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 28, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|falcons vega|score=3}}",
+            "opponent2": "{{TeamOpponent|serenity (saudi arabian team)|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 28, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|xo nova|score=0}}",
+            "opponent2": "{{TeamOpponent|twisted minds female|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 28, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|betterblue|score=3}}",
+            "opponent2": "{{TeamOpponent|deadlock|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "March 28, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|valar club|score=3}}",
+            "opponent2": "{{TeamOpponent|the claws|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 28, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|pearl|score=0}}",
+            "opponent2": "{{TeamOpponent|falcons vega|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 28, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|switchblade|score=0}}",
+            "opponent2": "{{TeamOpponent|xo nova|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 28, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|stallionz|score=0}}",
+            "opponent2": "{{TeamOpponent|betterblue|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 28, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|twisted minds female|score=3}}",
+            "opponent2": "{{TeamOpponent|fog vortex|score=0}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "March 29, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|falcons vega|score=3}}",
+            "opponent2": "{{TeamOpponent|valar club|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 29, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|xo nova|score=3}}",
+            "opponent2": "{{TeamOpponent|9fitan|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 29, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|betterblue|score=3}}",
+            "opponent2": "{{TeamOpponent|serenity (saudi arabian team)|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 29, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|vortex (saudi arabian team)|score=0}}",
+            "opponent2": "{{TeamOpponent|stallionz|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "date": "March 29, 2024 - 21:30 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|deadlock|score=0}}",
+            "opponent2": "{{TeamOpponent|twisted minds female|score=3}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "March 29, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|valar club|score=3}}",
+            "opponent2": "{{TeamOpponent|Rebirth (Saudi Arabian team)|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 29, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the claws|score=0}}",
+            "opponent2": "{{TeamOpponent|xo nova|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 29, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|pearl|score=0}}",
+            "opponent2": "{{TeamOpponent|betterblue|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "March 29, 2024 - 23:00 {{Abbr/AST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|stallionz|score=0}}",
+            "opponent2": "{{TeamOpponent|twisted minds female|score=3}}",
+            "optional": "M4="
+        }
+    ]
+}

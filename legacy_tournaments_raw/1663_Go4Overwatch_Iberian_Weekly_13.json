@@ -1,0 +1,138 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Iberian Cup #13",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch IB",
+            "shortname": "13",
+            "ticketname": "Go4OW Iberian #13",
+            "organizer": "ESL Spain",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "game": "overwatch",
+            "type": "Online",
+            "date": "2017-06-26",
+            "prizepool": "120",
+            "localcurrency": "eur",
+            "prizepoolusd": "128",
+            "web": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-spain/",
+            "twitch": "esl_overwatch_es",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-iberica/cup-13/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Obrigado por los dineros",
+            "p1": "Impact|p1flag=es",
+            "p2": "Othax|p2flag=es",
+            "p3": "Okami|p3flag=pt",
+            "p4": "Networkz|p4flag=es",
+            "p5": "kangakanga|p5flag=sw",
+            "p6": "Mess|p6flag=fr"
+        },
+        {
+            "team": "El mix del verano 2k17",
+            "p1": "CiroMT|p1flag=es",
+            "p2": "Genzo|p2flag=es",
+            "p3": "fercodo|p3flag=es",
+            "p4": "ntzz|p4flag=es",
+            "p5": "puti|p5flag=es",
+            "p6": "xXPIANOMANXx|p6flag=es"
+        },
+        {
+            "team": "Al\u00e9hate premoh, al\u00e9hate",
+            "p1": "Amph|p1flag=es",
+            "p2": "Denna|p2flag=es",
+            "p3": "Erner0|p3flag=es",
+            "p4": "Raisen|p4flag=es",
+            "p5": "Skorje|p5flag=es",
+            "p6": "Tormenta|p6flag=es"
+        },
+        {
+            "team": "Fans del Zonian",
+            "p1": "cesele|p1flag=es",
+            "p2": "Gaijin|p2flag=es",
+            "p3": "Navete|p3flag=es",
+            "p4": "Nay|p4flag=es",
+            "p5": "Malakid|p5flag=es",
+            "p6": "Dieguito95|p6flag=es"
+        },
+        {
+            "team": "Ad Victorium",
+            "p1": "SamyxX|p1flag=pt",
+            "p2": "Slasher |p2link=Slasher (Portuguese Player)|p2flag=pt",
+            "p3": "Ov3rk1ll|p3flag=pt",
+            "p4": "Fubuu|p4flag=pt",
+            "p5": "Miglaking|p5flag=pt",
+            "p6": "Evocative|p6flag=pt"
+        },
+        {
+            "team": "Send Noodles",
+            "p1": "Aryll|p1flag=es",
+            "p2": "CAPO|p2flag=es",
+            "p3": "Crilanzelot|p3flag=es",
+            "p4": "Kapi|p4flag=es",
+            "p5": "PEPExd|p5flag=es",
+            "p6": "TheOlvapg|p6flag=es"
+        },
+        {
+            "team": "Os Trouxas",
+            "p1": "CloudBlue|p1flag=pt",
+            "p2": "Aeon|p2flag=pt",
+            "p3": "MiMii|p3flag=pt",
+            "p4": "XRuN|p4flag=pt",
+            "p5": "Zeshika|p5flag=pt",
+            "p6": "omny96|p6flag=pt"
+        },
+        {
+            "team": "Old Wolves",
+            "p1": "PequenoJebby|p1flag=es",
+            "p2": "Koter |p2flag=es",
+            "p3": "Nihilhodie |p3flag=es",
+            "p4": "WhiteBeth |p4flag=es",
+            "p5": "Periki |p5flag=es",
+            "p6": "roobertoo1 |p6flag=es"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "old wolves",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "obrigado por los dineros",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "old wolves",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "obrigado por los dineros",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "old wolves",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "obrigado por los dineros",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "al\u00e9hate premoh, al\u00e9hate",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3D1",
+            "team1": "send noodles",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

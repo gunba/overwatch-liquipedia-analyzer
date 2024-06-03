@@ -1,0 +1,182 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "liquipediatiertype": "Qualifier",
+            "name": "NECC Fall 2022 Overwatch Playoffs/Challengers Pacific Frontier",
+            "shortname": "NECC Fall 2022 Overwatch Playoffs/Challengers Pacific Frontier",
+            "tickername": "",
+            "icon": "NECC 2021 lightmode.png",
+            "image": "NECC 2021 lightmode.png",
+            "series": "",
+            "abbreviation": "",
+            "organizer": "NECC",
+            "organizer-link": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "United States",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "sdate": "2022-11-17",
+            "edate": "2022-12-08",
+            "twitter": "neccgames",
+            "twitch": "necc_esports",
+            "youtube": "@NECC_esports",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Colorado Mesa Maroon",
+            "p1": "B38GLE",
+            "p2": "Badger",
+            "p2link": "Badger (American Player)",
+            "p3": "Absent",
+            "p4": "Noley",
+            "p5": "Headhunter",
+            "p6": "AGoldFish",
+            "p7": "ChefMomo",
+            "p8": "Lightswitch",
+            "placement": "3"
+        },
+        {
+            "team": "St. Ambrose University",
+            "p1": "AgentMM7",
+            "p2": "Seur",
+            "p3": "Notebooke",
+            "p4": "Heinz",
+            "p5": "Swagyfish",
+            "p6": "Ace",
+            "p6link": "Ace (American Player)",
+            "p7": "AzureRose",
+            "p8": "Cendrillon",
+            "placement": "2"
+        },
+        {
+            "team": "Coe College",
+            "p1": "Joker",
+            "p1link": "Joker (American Player)",
+            "p2": "KnfeVoltage",
+            "p3": "Vee",
+            "p3link": "Vee (American Player)",
+            "p4": "DaBaby!",
+            "p5": "Earf",
+            "p6": "SassyJesus",
+            "p7": "Aniance",
+            "p8": "Railgun",
+            "p9": "Hanasong",
+            "placement": "4"
+        },
+        {
+            "team": "Fresno State University",
+            "p1": "BaconStrip",
+            "p2": "Sundown",
+            "p3": "Phoenix",
+            "p4": "KCV",
+            "p5": "esdeath",
+            "p6": "Xemp",
+            "p7": "venari",
+            "p8": "Sage",
+            "p8link": "Sage (American Player)",
+            "placement": "1"
+        },
+        {
+            "team": "Western CO Crimson",
+            "p1": "nonanona",
+            "p2": "LooseGoose",
+            "p3": "MeguSaka",
+            "p4": "UltraKuuk",
+            "p5": "Zareow",
+            "p6": "Titan",
+            "p7": "Mejartian",
+            "p8": "Sboy",
+            "placement": "8"
+        },
+        {
+            "team": "Wayne State College",
+            "p1": "Whispers",
+            "p2": "WaffleArt",
+            "p3": "MoooseMilk",
+            "p4": "GingerHair",
+            "p5": "Frahmbae",
+            "p6": "kiki",
+            "p6link": "kiki (American Player)",
+            "placement": "5"
+        },
+        {
+            "team": "Northcentral",
+            "p1": "Dragorea",
+            "p2": "Aryahungry",
+            "p3": "Tubnuts",
+            "p4": "RustRedwood",
+            "p5": "SharpMX3050N",
+            "p6": "KKniro",
+            "p7": "Ender",
+            "p8": "Jacavo",
+            "placement": "7"
+        },
+        {
+            "team": "Arkansas Red",
+            "p1": "Auspat",
+            "p2": "MegaDerp12",
+            "p3": "Agate",
+            "p4": "That1Waffle",
+            "p5": "FiireFly",
+            "p6": "urfriendlevi",
+            "p7": "Green",
+            "placement": "6"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "opponent1": "st. ambrose university",
+            "opponent1_score": 3,
+            "opponent2": "western colorado crimson",
+            "opponent2_score": 0,
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "colorado mesa maroon",
+            "opponent1_score": 3,
+            "opponent2": "wayne state college",
+            "opponent2_score": 0,
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "coe college",
+            "opponent1_score": 3,
+            "opponent2": "northcentral",
+            "opponent2_score": 0,
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "fresno state university",
+            "opponent1_score": 3,
+            "opponent2": "uark red",
+            "opponent2_score": 0,
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "st. ambrose university",
+            "opponent1_score": 3,
+            "opponent2": "colorado mesa maroon",
+            "opponent2_score": 1,
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "coe college",
+            "opponent1_score": 0,
+            "opponent2": "fresno state university",
+            "opponent2_score": 3,
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "st. ambrose university",
+            "opponent1_score": 3,
+            "opponent2": "fresno state university",
+            "opponent2_score": 4,
+            "optional": "R3M1="
+        }
+    ]
+}

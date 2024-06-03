@@ -1,0 +1,272 @@
+{
+    "tournament_info": [
+        {
+            "name": "GosuGamers Overwatch Weekly EU #2",
+            "image": "",
+            "series": "GosuGamers EU",
+            "shortname": "2",
+            "organizer": "GosuGamers",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "type": "Online",
+            "country": "Europe",
+            "date": "2015-12-05",
+            "prizepoolusd": "120",
+            "twitch": "gosugamers",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "http://www.gosugamers.net/overwatch/tournaments/8169-gosugamers-overwatch-weekly-eu-2",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "team hubris",
+            "teamsecond": "not enigma",
+            "teamthird": "fnatic",
+            "teamthird2": "eccentric gaming",
+            "team_number": "32",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "previous": "GosuGamers Overwatch Weekly/EU/1{{!}}#1",
+            "next": "GosuGamers Overwatch Weekly/EU/3{{!}}#3"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "k1ck eSports Club",
+            "image": "",
+            "size": "",
+            "p1": "michr |p1flag=de",
+            "p2": "Eissfeldt |p2flag=de",
+            "p3": "mztikk |p3flag=de",
+            "p4": "Rulah |p4flag=fi",
+            "p5": "Taimou |p5flag=fi",
+            "p6": "quad |p6flag=dk"
+        },
+        {
+            "team": "WatchOut Gaming",
+            "image": "",
+            "size": "",
+            "p1": "Powhh |p1flag=dk",
+            "p2": "Ruster |p2flag=de",
+            "p3": "Kruise |p3flag=uk",
+            "p4": "fischer |p4flag=dk",
+            "p5": "Veineless |p5flag=de",
+            "p6": "Puuppi |p6flag=fi"
+        },
+        {
+            "team": "Paragon",
+            "image": "",
+            "size": "",
+            "p1": "Seita |p1flag=fi",
+            "p2": "Lazei |p2flag=fi",
+            "p3": "Nertz |p3flag=fi",
+            "p4": "unpl |p4flag=fi",
+            "p5": "juzuu |p5flag=fi",
+            "p6": "yliajo |p6flag=fi",
+            "p7": "fragi |p7flag=fi"
+        },
+        {
+            "team": "Fnatic",
+            "image": "",
+            "size": "",
+            "p1": "Morte |p1flag=nl",
+            "p2": "2Easy |p2flag=nl",
+            "p3": "Vallutaja |p3flag=ee",
+            "p4": "uNFixed |p4flag=ru",
+            "p5": "Stefan |p5flag=nl",
+            "p6": "Winghaven |p6flag=es"
+        },
+        {
+            "team": "Team Byte",
+            "image": "",
+            "size": "",
+            "p1": "san alex |p1flag=pt",
+            "p2": "joadSTAH |p2flag=de",
+            "p3": "Whhaayy |p3flag=de",
+            "p4": "Acha |p4flag=ua",
+            "p5": "Vaskumer |p5flag=es",
+            "p6": "tcmbyte |p6flag=uk"
+        },
+        {
+            "team": "Eccentric Gaming",
+            "image": "",
+            "size": "",
+            "p1": "Likely |p1flag=se",
+            "p2": "leNadir |p2flag=ch",
+            "p3": "Nevix |p3flag=se",
+            "p4": "Lewd |p4flag=se",
+            "p5": "Acetari |p5flag=no",
+            "p6": "skipjack |p6flag=de"
+        },
+        {
+            "team": "Not Enigma",
+            "image": "",
+            "size": "",
+            "p1": "enigma |p1flag=us",
+            "p2": "clockwork |p2flag=us",
+            "p3": "Seagull |p3flag=us",
+            "p4": "oPlaiD |p4flag=us",
+            "p5": "dummy |p5flag=us",
+            "p6": "MESR |p6flag=us"
+        },
+        {
+            "team": "Team Hubris",
+            "image": "",
+            "size": "",
+            "p1": "coolmatt69 |p1flag=us",
+            "p2": "Talespin |p2flag=us",
+            "p3": "Chump |p3flag=us",
+            "p4": "Ras |p4flag=us",
+            "p5": "Minstrel |p5flag=us",
+            "p6": "Esper |p6flag=us"
+        },
+        {
+            "team": "Danger Dogs",
+            "image": "",
+            "size": "",
+            "p1": ".kr4tosdigga |p1flag=de",
+            "p2": "mkL |p2flag=no",
+            "p3": "Honey Badger |p3flag=uk",
+            "p4": "RazorsEdge |p4flag=de",
+            "p5": "zoob |p5flag=fi",
+            "p6": "Stevepander |p6flag=uk"
+        },
+        {
+            "team": "SG-1",
+            "image": "",
+            "size": "",
+            "p1": "hymzi |p1flag=fi",
+            "p2": "zappis |p2flag=fi",
+            "p3": "mafu |p3flag=fi",
+            "p4": "hocz |p4flag=fi",
+            "p5": "kyynel |p5flag=fi",
+            "p6": "rebeli |p6flag=fi"
+        },
+        {
+            "team": "Ventus Gaming",
+            "image": "",
+            "size": "",
+            "p1": "Evokje |p1flag=lt",
+            "p2": "mineral |p2flag=se",
+            "p3": "rviens |p3flag=lt",
+            "p4": "Dorkan |p4flag=es",
+            "p5": "Hiper |p5flag=es",
+            "p6": "SirDodgy |p6flag=uk"
+        },
+        {
+            "team": "TBD",
+            "image": "",
+            "size": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "TBD",
+            "image": "",
+            "size": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "TBD",
+            "image": "",
+            "size": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "TBD",
+            "image": "",
+            "size": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "TBD",
+            "image": "",
+            "size": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "overwatch team",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "team hubris",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "mydong",
+            "score2": "0",
+            "win2": "",
+            "win12": "",
+            "key": "R2W1",
+            "team1": "team hubris",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "hulktastic",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "team hubris",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "not enigma",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "team hubris",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "December 6, 2015",
+            "finished": "true",
+            "match1": "{{Match/old",
+            "team1side": "",
+            "team1side2": "",
+            "team1checkpoints": "",
+            "team1time": "",
+            "team2side": "",
+            "team2side2": "",
+            "team2checkpoints": "",
+            "team2time": "",
+            "map": "",
+            "team2": "not enigma",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R5W1",
+            "team1": "team hubris",
+            "score1": "3",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

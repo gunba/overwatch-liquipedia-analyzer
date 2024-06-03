@@ -1,0 +1,525 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "liquipediatiertype": "Qualifier",
+            "series": "NECC",
+            "abbreviation": "NECC",
+            "name": "NECC - 2022 Fall Regular Season Playoffs - Champions East Division",
+            "tickername": "NECC 2022 Fall Regular Season Playoffs Champions East Division",
+            "image": "NECC 2021 lightmode.png",
+            "imagedark": "NECC 2021 darkmode.png",
+            "organizer": "National Esports Collegiate Conference",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch",
+            "sdate": "2022-11-17",
+            "edate": "2022-12-08",
+            "twitter": "neccgames",
+            "twitch": "necc_esports",
+            "twitch2": "necc2",
+            "youtube": "channel/UCJ7SpyS-00CYxdkBadshxjQ",
+            "website": "https://neccgames.com/landing/index",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "uOttawa Garnet",
+            "p1": "Norman",
+            "p1flag": "Canada",
+            "pos1": "dps",
+            "p2": "Gurgz",
+            "p2flag": "Canada",
+            "pos2": "dps",
+            "p3": "Dunks",
+            "p3flag": "Canada",
+            "pos3": "tank",
+            "p4": "Innocent",
+            "p4flag": "Canada",
+            "pos4": "tank",
+            "p5": "Tundra",
+            "p5flag": "Canada",
+            "pos5": "tank",
+            "p6": "IceVolcano",
+            "p6flag": "Canada",
+            "pos6": "sup",
+            "p7": "Supreme",
+            "p7flag": "Canada",
+            "pos7": "sup",
+            "p7link": "Supreme (Canadian Player)",
+            "p8": "Twigloo",
+            "p8flag": "Canada",
+            "pos8": "sup",
+            "placement": "1"
+        },
+        {
+            "team": "St. Clair Academy",
+            "p1": "Grubby",
+            "p1flag": "Canada",
+            "pos1": "dps",
+            "p2": "theholyhuan",
+            "p2flag": "Canada",
+            "pos2": "dps",
+            "p3": "ApostLe",
+            "p3flag": "Canada",
+            "pos3": "tank",
+            "p4": "Cheesy",
+            "p4flag": "Canada",
+            "pos4": "tank",
+            "p5": "Injustice",
+            "p5flag": "Canada",
+            "pos5": "sup",
+            "p6": "Grave",
+            "p6flag": "Canada",
+            "pos6": "sup",
+            "placement": "2"
+        },
+        {
+            "team": "SNHU Sapphire",
+            "p1": "OneTrick",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Palzee",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "pepto",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "Str8UpMenace",
+            "p4flag": "us",
+            "pos4": "dps",
+            "p5": "Rhino",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "BSOE",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Osiren",
+            "p7flag": "us",
+            "pos7": "sup",
+            "p8": "Kresnik",
+            "p8flag": "us",
+            "pos8": "sup",
+            "placement": "3"
+        },
+        {
+            "team": "Newberry College Varsity",
+            "p1": "Nemesis",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "av\u01ddry",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "AllNightTaco",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "Depressuss",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Omni",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "Peach",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p6link": "Peach (American Player)",
+            "p7": "Jman",
+            "p7flag": "us",
+            "pos7": "sup",
+            "p7link": "Jman (American Player)",
+            "placement": "4"
+        },
+        {
+            "team": "Thomas Esports",
+            "p1": "CargoTokens",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "PranksterZ",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Jgibby",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Ryid",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "Valkyrie",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "OnlyGrab",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "BookShelf",
+            "p7flag": "us",
+            "pos7": "flex",
+            "placement": "5"
+        },
+        {
+            "team": "Alvernia University",
+            "p1": "Gusty",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Seinaruhi",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "DvaDevin",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Romy",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "LastLor",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Bishopp",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "ConFusioN",
+            "p7flag": "us",
+            "pos7": "dps",
+            "placement": "6"
+        },
+        {
+            "team": "Fisher College JV",
+            "p1": "Silentjozef",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "mias",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Thei",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Fraeway",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Matrix",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Zecram",
+            "p6flag": "us",
+            "pos6": "sup",
+            "placement": "7"
+        },
+        {
+            "team": "Clark University Red",
+            "p1": "Acrid",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Semi",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "MILO",
+            "p3flag": "us",
+            "pos3": "flex",
+            "p4": "itZZeus",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "icycold",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "MrJellyBean",
+            "p6flag": "us",
+            "pos6": "sup",
+            "placement": "8"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "opponent1": "St. Clair Academy",
+            "opponent1_score": 3,
+            "opponent2": "Fisher College JV",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "Clark University Red",
+            "opponent1_score": 1,
+            "opponent2": "Newberry College Varsity",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "uOttawa Garnet",
+            "opponent1_score": 3,
+            "opponent2": "Alvernia University",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "SNHU Sapphire",
+            "opponent1_score": 3,
+            "opponent2": "Thomas Esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "St. Clair Academy",
+            "opponent1_score": 3,
+            "opponent2": "Newberry College Varsity",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "uOttawa Garnet",
+            "opponent1_score": 3,
+            "opponent2": "SNHU Sapphire",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "uOttawa Garnet",
+            "opponent1_score": 4,
+            "opponent2": "St. Clair Academy",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

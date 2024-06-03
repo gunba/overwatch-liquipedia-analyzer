@@ -1,0 +1,275 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "Nerd Street Gamers",
+            "abbreviation": "NSG",
+            "shortname": "NSG - 6v6 Tournament #7",
+            "name": "Nerd Street Gamers - 6v6 Tournament #7",
+            "tickername": "NSG 6v6 Tournament #7",
+            "image": "Nerd Street Gamers Overwatch Tournament.png",
+            "organizer": "Nerd Street Gamers",
+            "organizer-link": "https://nerdstgamers.com",
+            "sponsor": "[https://www.mavix.com Mavix]<br>[https://www.mikeandike.com/product/original-fruits/ Mike and Ike]",
+            "type": "Online",
+            "country": "North America",
+            "format": "Double Elimination",
+            "prizepoolusd": "500",
+            "date": "2021-06-17",
+            "web": "https://events.nerdstgamers.com/",
+            "bracket": "https://battlefy.com/nerd-street-gamers/overwatch-6v6-tournament/608b57c9934be111ac22d080/stage/60cbc33293c7e72389c82154/bracket/",
+            "rulebook": "https://battlefy.com/nerd-street-gamers/overwatch-6v6-tournament/608b57c9934be111ac22d080/info?infoTab=rules",
+            "team_number": "13",
+            "previous": "Nerd Street Gamers/6v6 Tournament/6{{!}}#6",
+            "next": "Nerd Street Gamers/6v6 Tournament/8{{!}}#8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Solstice",
+            "image": "",
+            "p1": "AsPeCT|p1flag=us|pos1=dps",
+            "p2": "Lambent|p2flag=us|pos2=dps",
+            "p3": "Khosrow|p3flag=us|pos3=tank",
+            "p4": "Fofey|p4flag=ca|pos4=tank",
+            "p5": "Joey|p5link=Joey (American Player)|p5flag=us|pos5=sup",
+            "p6": "freNoc|p6flag=us|pos6=sup",
+            "p7": "Paradoxed|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2p1": "Raven|t2pos1=manager",
+            "t2p2": "Careless|t2pos2=coach",
+            "t2p3": "Chanyoung67|t2pos3=analyst"
+        },
+        {
+            "team": "Deus Chimpus",
+            "image": "",
+            "p1": "akiivv|p1flag=us|pos1=dps",
+            "p2": "Armin|p2flag=us|pos2=dps",
+            "p3": "Divinity|p3flag=us|pos3=dps",
+            "p4": "Dovokiin|p4flag=us|pos4=tank",
+            "p5": "Fidxl|p5flag=us|pos5=tank",
+            "p6": "Medixcre|p6flag=us|pos6=tank|p6link=Meadxr",
+            "p7": "reverse|p7flag=us|pos7=sup|p7link=reverse (American Player)",
+            "p8": "AJMR|p8flag=us|pos8=sup",
+            "t2title": "Staff",
+            "t2p1": "Doc|t2pos1=manager"
+        },
+        {
+            "team": "AHJA",
+            "image": "",
+            "p1": "Infekted|p1flag=us|pos1=tank",
+            "p2": "Moud|p2flag=ca|pos2=tank",
+            "p3": "Vision|p3flag=us|pos3=dps",
+            "p4": "Cohesion|p4flag=us|pos4=dps",
+            "p5": "Momentum|p5flag=us|pos5=sup",
+            "p6": "Switch|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "(Disbanded)",
+            "image": "",
+            "p1": "Dantu|p1flag=us|pos1=dps",
+            "p2": "Stone|p2flag=us|pos2=dps",
+            "p3": "Key|p3flag=us|pos3=tank|p3link=Key (American player)",
+            "p4": "Alw122001|p4flag=us|pos4=tank",
+            "p5": "CLAY|p5flag=us|pos5=tank",
+            "p6": "Hing3d|p6flag=us|pos6=sup",
+            "p7": "Mimiq|p7flag=us|pos7=sup",
+            "c": "KapGod|cflag=us"
+        },
+        {
+            "team": "Sussy Baka",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "USAE",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Super Salad",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Shikigami",
+            "image": "",
+            "p1": "kallax|p1flag=us|pos1=dps",
+            "p2": "Hkeybroke|p2flag=us|pos2=dps",
+            "p3": "Lucidscience|p3flag=us|pos3=tank",
+            "p4": "SBT|p4flag=us|pos4=tank",
+            "p5": "Neothei|p5flag=us|pos5=sup",
+            "p6": "Abyss|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "Aeroplayne|t2pos1=manager"
+        },
+        {
+            "team": "Lofi Aim",
+            "image": "",
+            "p1": "Pummy|p1flag=us|pos1=dps",
+            "p2": "Bizz|p2flag=us|pos2=dps",
+            "p3": "Bolbi|p3flag=us|pos3=tank",
+            "p4": "Cash|p4flag=us|pos4=tank",
+            "p5": "Noctis|p5flag=us|pos5=sup",
+            "p6": "Geo|p6flag=us|pos6=sup|p6link=Geo (American Player)",
+            "c": "Denzel|cflag=us"
+        },
+        {
+            "team": "Bakersfeild Backbreakers",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "The Assasins",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "PoggersFlyingFish",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "IlluZion",
+            "image": "Illuzion logo.png",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "USAE",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "IlluZion",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "USAE",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "IlluZion",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "Solstice",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "Deus Chimpus",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Solstice",
+            "score2": "0",
+            "win2": "",
+            "key": "R6W1",
+            "team1": "AHJA",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D17",
+            "team1": "PoggersFlyingFish",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "Bakersfeild Backbreakers",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "USAE",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "IlluZion",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "PoggersFlyingFish",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Shikigami",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "Deus Chimpus",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "(Disbanded)",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "Lofi Aim",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Lofi Aim",
+            "score2": "2",
+            "win2": "1",
+            "key": "R6D1",
+            "team1": "Solstice",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Lofi Aim",
+            "score2": "1",
+            "win2": "",
+            "key": "R7W1",
+            "team1": "AHJA",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

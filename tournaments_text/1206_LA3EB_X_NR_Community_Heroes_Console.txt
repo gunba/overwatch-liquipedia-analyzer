@@ -1,0 +1,94 @@
+{{DISPLAYTITLE:LA3EB X NR Community Heroes - Console Playoffs}}
+{{Tabs static
+|name1=PC|link1=LA3EB X NR/Community Heroes/PC
+|name2=Console|link2=LA3EB X NR/Community Heroes/Console
+}}
+
+{{Infobox league
+|liquipediatier=4
+|name=LA3EB X NR Community Heroes Console Playoffs
+|tickername=LA3EB X NR Community Heroes Console Playoffs
+|shortname=Community Heroes Console Playoffs
+|image=
+|icon=
+|series=NR Community
+|organizer=NR Community	|organizer-link=https://www.instagram.com/nr_comm/
+|organizer2=LA3EB Esports	|organizer2-link=https://esports.la3eb.com/
+|game=overwatch2
+|type=Online
+|country=Middle East
+|format=Single Elimination
+|prizepool=5000
+|localcurrency=sar
+|date=2023-04-06
+|web=
+|discord=overnr
+|discord2=W6FR4wz5J2
+|telegram=OverwatchNR
+|instagram=nr_comm
+|instagram2=la3ebcom
+|twitter=la3ebcom
+|twitch=la3eb_esports
+|bracket=
+|team_number=2
+|previous=
+|next=
+}}
+
+==Information==
+===Broadcast Talent===
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Commentator |lang=Arabic
+|b1=KSALORD|b1name=Abdullah Farsi|b1flag=sa
+|b2=Drth7|b2name=Abdullah Hamad|b2flag=sa
+}}
+{{box|end}}
+
+===Format===
+*Single elimination bracket
+
+===Prize Pool===
+{{TeamPrizePool|localcurrency=sar
+|{{Slot|{{Opponent|Drachen|localprize=4000|lastvs=القطار|lastvsscore=0}}}}
+|{{Slot|{{Opponent|القطار|localprize=1000|lastvs=Drachen|lastvsscore=2}}}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start}}
+{{TeamCard
+|team=القطار
+|p1=RAIYAN|pos1=dps
+|p2=Ssnm|pos2=dps
+|p3=ibrahvm|pos3=tank
+|p4=SPNZ|p4flag=sa|pos4=sup
+|p5=SwankyPants|pos5=sup
+|p6=A_Z_A_M11|pos6=
+|qualifier=[https://esports.la3eb.com/tournaments/la3eb-community-heroes-console-qualifiers Qualifier]
+}}
+{{TeamCard
+|team=Drachen
+|p1=EQQ|pos1=dps
+|p2=AngelMayDie|pos2=dps
+|p3=Diby|pos3=tank
+|p4=adodiff|pos4=sup
+|p5=Jinx|p5flag=bh|pos5=sup
+|qualifier=[https://esports.la3eb.com/tournaments/la3eb-community-heroes-console-qualifiers Qualifier]
+}}
+{{TeamCard columns end}}
+
+==Result==
+{{SingleMatch|id=dopMshyshw|width=600
+|{{Match
+|bestof=3
+   |date=April 6, 2023 - 23:30 {{Abbr/AST}}
+   |twitch=la3eb_esports
+   |vod=
+   |opponent1={{TeamOpponent|القطار}}
+   |opponent2={{TeamOpponent|Drachen}}
+|map1={{Map|map=Nepal|mode=Control|score1=0|score2=2|winner=2}}
+|map2={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+|map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

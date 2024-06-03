@@ -1,0 +1,62 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "abbreviation": "PantherLAN",
+            "name": "PantherLAN - Spring 2020",
+            "shortname": "PantherLAN - Spring 2020",
+            "tickername": "PantherLAN - Spring 2020",
+            "image": "Georgia State lightmode.png",
+            "icon": "Georgia State lightmode.png",
+            "series": "PantherLAN",
+            "organizer": "Georgia State Esports",
+            "type": "Online",
+            "country": "North America",
+            "prizepoolusd": "750",
+            "sdate": "2020-04-28",
+            "edate": "2020-04-29",
+            "twitter": "GSU_eSports",
+            "web": "",
+            "twitch": "georgiastateu",
+            "youtube": "",
+            "rulebook": "",
+            "bracket": "https://battlefy.com/georgia-state-university/pantherlan-spring-2020/5e5d1a72fb745910783944c9/stage/5e7f632e2c0a8a1078d707ac/bracket/?groupName=A",
+            "team_number": "7",
+            "next": "PantherLAN/2020/Fall {{!}} Fall 2020"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "KSU Esports",
+            "image": "",
+            "p1": "Lucker49|p1flag=us|pos1=tank",
+            "p2": "Dezz|p2flag=us|pos2=tank",
+            "p3": "wods|p3flag=us|pos3=dps",
+            "p4": "fAst|p4flag=us|pos4=dps",
+            "p5": "Wavay|p5flag=us|pos5=sup",
+            "p6": "Skymin|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "UNG Esports",
+            "image": "",
+            "p1": "akaDeadpool|p1flag=|pos1=",
+            "p2": "SoulThief|p2flag=|pos2=",
+            "p3": "yeet|p3flag=|pos3=",
+            "p4": "khaleesi|p4flag=|pos4=",
+            "p5": "MiniNinja|p5flag=|pos5=",
+            "p6": "N8TheBeast|p6flag=|pos6=",
+            "p7": "xXAlphaXx420|p7flag=|pos7="
+        },
+        {
+            "team": "Impossible Beefcakes",
+            "image": "",
+            "p1": "AmericanMutt|p1flag=|pos1=",
+            "p2": "P3rf0rm|p2flag=|pos2=",
+            "p3": "CaptainKaiju|p3flag=|pos3=",
+            "p4": "UltVictory|p4flag=|pos4=",
+            "p5": "BeegDunkey|p5flag=|pos5=",
+            "p6": "Andr01d|p6flag=|pos6="
+        }
+    ],
+    "match_cards": []
+}

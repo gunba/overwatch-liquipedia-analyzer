@@ -1,0 +1,3422 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2",
+            "blizzardtier": "owc",
+            "series": "Overwatch Contenders",
+            "abbreviation": "OWC",
+            "shortname": "OWC 2022 RIB: NA",
+            "name": "Overwatch Contenders 2022 Run It Back: North America",
+            "tickername": "OWC Run It Back: NA",
+            "image": "Overwatch Contenders Run It Back lightmode.png",
+            "imagedark": "Overwatch Contenders Run It Back darkmode.png",
+            "icon": "Overwatch Contenders 2018 allmode.png",
+            "organizer": "Blizzard",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "North America",
+            "format": "Round Robin<br>Double Elimination",
+            "prizepoolusd": "100,000",
+            "sdate": "2022-11-28",
+            "edate": "2022-12-16",
+            "web": "https://overwatchleague.com/en-us/contenders/",
+            "bracket": "",
+            "youtube": "overwatchcontenders",
+            "twitter": "owpathtopro",
+            "team_number": "12",
+            "previous": "Overwatch_Contenders/2022/Summer_Series/North_America/B-Sides {{!}} Summer Series B-Sides",
+            "next": "|next=Overwatch Contenders/2023/Spring Series/North_America {{!}} Spring Series"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "November 28, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "overwatchcontenders|",
+            "opponent1": "odyssey",
+            "opponent2": "pirates in pyjamas",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Comtrol",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "5",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "87.26m",
+                "score2": "73.97m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "November 28, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "wisp",
+            "opponent1_score": 3,
+            "opponent2": "fisher men",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "112.35m",
+                "score2": "45.37m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "November 28, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "altiora",
+            "opponent1_score": 1,
+            "opponent2": "hive five",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "November 28, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports",
+            "opponent1_score": 2,
+            "opponent2": "timeless",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "November 28, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "nix",
+            "opponent1_score": 3,
+            "opponent2": "int timer",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "November 28, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "kryix",
+            "opponent1_score": 3,
+            "opponent2": "rizz academy",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "November 28, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "wisp",
+            "opponent1_score": 3,
+            "opponent2": "altiora",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "November 28, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher men",
+            "opponent1_score": 0,
+            "opponent2": "odyssey",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "November 28, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "pirates in pyjamas",
+            "opponent1_score": 3,
+            "opponent2": "hive five",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "November 28, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "overwatchcontenders",
+            "twitch": "",
+            "opponent1": "nix|score=",
+            "opponent2": "kryix|score=",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "131.32m",
+                "score2": "74.88m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "November 28, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "int timer",
+            "opponent1_score": 1,
+            "opponent2": "redbird esports",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "November 28, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "timeless",
+            "opponent1_score": 3,
+            "opponent2": "rizz academy",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "November 29, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher men",
+            "opponent1_score": 3,
+            "opponent2": "altiora",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "119.44m",
+                "score2": "86.87m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "November 29, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "pirates in pyjamas",
+            "opponent1_score": 3,
+            "opponent2": "wisp",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "November 29, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "odyssey",
+            "opponent1_score": 3,
+            "opponent2": "hive five",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "November 29, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "int timer",
+            "opponent1_score": 1,
+            "opponent2": "kryix",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "November 29, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "timeless",
+            "opponent1_score": 3,
+            "opponent2": "nix",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "November 29, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports",
+            "opponent1_score": 3,
+            "opponent2": "rizz academy",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "November 29, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "altiora",
+            "opponent1_score": 1,
+            "opponent2": "odyssey",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "38.52m",
+                "score2": "123.27m",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "November 29, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "hive five",
+            "opponent1_score": 1,
+            "opponent2": "wisp",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "80.15m",
+                "score2": "107.42m",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "November 29, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher men",
+            "opponent1_score": 1,
+            "opponent2": "pirates in pyjamas",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "26.12m",
+                "score2": "130.11m",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "November 29, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "kryix",
+            "opponent1_score": 2,
+            "opponent2": "redbird esports",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "November 29, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "overwatchcontenders",
+            "twitch": "",
+            "opponent1": "rizz academy",
+            "opponent1_score": 3,
+            "opponent2": "nix",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "November 29, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "int timer",
+            "opponent1_score": 0,
+            "opponent2": "timeless",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "November 29, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "hive five",
+            "opponent1_score": 3,
+            "opponent2": "fisher men",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "93.14m",
+                "score2": "62.63m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "November 29, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "overwatchcontenders",
+            "twitch": "",
+            "opponent1": "odyssey",
+            "opponent1_score": 3,
+            "opponent2": "wisp",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "November 29, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "altiora",
+            "opponent1_score": 0,
+            "opponent2": "pirates in pyjamas",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "November 29, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "rizz academy",
+            "opponent1_score": 3,
+            "opponent2": "int timer",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "November 29, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports",
+            "opponent1_score": 3,
+            "opponent2": "nix",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "November 29, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "kryix",
+            "opponent1_score": 2,
+            "opponent2": "timeless",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "November 30, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "odyssey",
+            "opponent1_score": 3,
+            "opponent2": "pirates in pyjamas",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "November 30, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "wisp",
+            "opponent1_score": 3,
+            "opponent2": "fisher men",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "November 30, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "altiora",
+            "opponent1_score": 2,
+            "opponent2": "hive five",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "November 30, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports",
+            "opponent1_score": 3,
+            "opponent2": "timeless",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "85.53m",
+                "score2": "66.95m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "November 30, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "nix",
+            "opponent1_score": 3,
+            "opponent2": "int timer",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "November 30, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "kryix",
+            "opponent1_score": 0,
+            "opponent2": "rizz academy",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "November 30, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "wisp",
+            "opponent1_score": 3,
+            "opponent2": "altiora",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "0"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "115.76m",
+                "score2": "126.82m",
+                "winner": "0"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "November 30, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher men",
+            "opponent1_score": 0,
+            "opponent2": "odyssey",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "November 30, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "pirates in pyjamas",
+            "opponent1_score": 3,
+            "opponent2": "hive five",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "November 30, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "nix",
+            "opponent1_score": 3,
+            "opponent2": "kryix",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "0"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "140.15m",
+                "score2": "28.32m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "November 30, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "int timer",
+            "opponent1_score": 0,
+            "opponent2": "redbird esports",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "November 30, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "timeless",
+            "opponent1_score": 3,
+            "opponent2": "rizz academy",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "December 8, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher men",
+            "opponent1_score": 3,
+            "opponent2": "altiora",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "December 8, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "pirates in pyjamas",
+            "opponent1_score": 3,
+            "opponent2": "wisp",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "December 8, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "odyssey",
+            "opponent1_score": 3,
+            "opponent2": "hive five",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "December 8, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "int timer|score=",
+            "opponent2": "kryix|score=",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "December 8, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "timeless",
+            "opponent1_score": 3,
+            "opponent2": "nix",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "December 8, 2022 - 15:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports",
+            "opponent1_score": 3,
+            "opponent2": "rizz academy",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "December 8, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "altiora",
+            "opponent1_score": 0,
+            "opponent2": "odyssey",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "December 8, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "hive five",
+            "opponent1_score": 3,
+            "opponent2": "wisp",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "December 8, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher men",
+            "opponent1_score": 1,
+            "opponent2": "pirates in pyjamas",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "December 8, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "kryix",
+            "opponent1_score": 3,
+            "opponent2": "redbird esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "December 8, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "overwatchcontenders",
+            "twitch": "",
+            "opponent1": "rizz academy|score=",
+            "opponent2": "nix|score=",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "125.23m",
+                "score2": "120.11m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "December 8, 2022 - 16:30",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "int timer",
+            "opponent1_score": 0,
+            "opponent2": "timeless",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "December 8, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "overwatchcontenders",
+            "twitch": "",
+            "opponent1": "hive five|score=",
+            "opponent2": "fisher men|score=",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "December 8, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "odyssey",
+            "opponent1_score": 3,
+            "opponent2": "wisp",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "December 8, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "altiora",
+            "opponent1_score": 1,
+            "opponent2": "pirates in pyjamas",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "103.72",
+                "score2": "124.48",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "December 8, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "rizz academy",
+            "opponent1_score": 3,
+            "opponent2": "int timer",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "December 8, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports",
+            "opponent1_score": 3,
+            "opponent2": "nix",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "December 8, 2022 - 18:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "kryix",
+            "opponent1_score": 0,
+            "opponent2": "timeless",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "December 9, 2022 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "odyssey",
+            "opponent1_score": 3,
+            "opponent2": "rizz academy",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 9, 2022 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "overwatchcontenders",
+            "twitch": "",
+            "opponent1": "pirates in pyjamas|score=",
+            "opponent2": "nix|score=",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 9, 2022 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "overwatchcontenders",
+            "twitch": "",
+            "opponent1": "redbird esports|score=",
+            "opponent2": "wisp|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "December 9, 2022 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "timeless",
+            "opponent1_score": 3,
+            "opponent2": "hive five",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "December 10, 2022 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "odyssey|score=",
+            "opponent2": "pirates in pyjamas|score=",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "66.88m",
+                "score2": "87.69m",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "December 10, 2022 - 19:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports|score=",
+            "opponent2": "timeless|score=",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "128.00m",
+                "score2": "20.47m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "December 15, 2022 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "Overwatch Contenders",
+            "twitch": "",
+            "opponent1": "odyssey|score=",
+            "opponent2": "timeless|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "December 9, 2022 - 21:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "rizz academy|score=",
+            "opponent2": "nix|score=",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "143.00m",
+                "score2": "48.51m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "December 9, 2022 - 21:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "hive five",
+            "opponent1_score": 2,
+            "opponent2": "wisp",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "December 10, 2022 - 21:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports",
+            "opponent1_score": 3,
+            "opponent2": "nix",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "December 10, 2022 - 21:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "pirates in pyjamas|score=",
+            "opponent2": "wisp|score=",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "December 15, 2022 - 19:30",
+            "date_timezone": "EST",
+            "youtube": "Overwatch Contenders",
+            "twitch": "",
+            "opponent1": "redbird esports|score=",
+            "opponent2": "pirates in pyjamas|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "December 16, 2022 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "Overwatch Contenders",
+            "twitch": "",
+            "opponent1": "timeless|score=",
+            "opponent2": "redbird esports|score=",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "67.43m",
+                "score2": "86.11m",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "7",
+            "date": "December 16, 2022 - 19:30",
+            "date_timezone": "EST",
+            "youtube": "Overwatch Contenders",
+            "twitch": "",
+            "opponent1": "odyssey",
+            "opponent1_score": 2,
+            "opponent2": "redbird esports",
+            "opponent2_score": 4,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "4.82m",
+                "score2": "140.00m",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "comment": "Winners' bracket advantage of 1 game.",
+            "optional": "R5M1="
+        }
+    ]
+}

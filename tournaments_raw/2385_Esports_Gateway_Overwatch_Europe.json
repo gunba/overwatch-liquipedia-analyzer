@@ -1,0 +1,322 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "liquipediatiertype": "<!--Qualifier, Monthly, Weekly, etc.-->",
+            "name": "Esports Gateway Overwatch Europe #2|link1=overwatch/ESG/Europe/#2",
+            "shortname": "ESG OW EU #2",
+            "tickername": "Esports Gateway Overwatch Europe #2",
+            "icon": "",
+            "image": "ESG lightmode.png",
+            "imagedarkmode": "ESG darkmode.png",
+            "series": "",
+            "abbreviation": "ESG",
+            "organizer": "Esports Gateway",
+            "organizer-link": "https://esports-gateway.com/",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "100",
+            "date": "2023-06-24",
+            "twitter": "https://twitter.com/eSportsGateway",
+            "web": "https://huntapp.gg/tournaments/ESG-Community-OW-Europe---2/6474a4805df61fa32abefee6/overview",
+            "twitch": "https://www.twitch.tv/esportsgatewaytv",
+            "discord": "https://discord.gg/esports-gateway-633627881242886144",
+            "youtube": "https://www.youtube.com/@eSportsGateway",
+            "tiktok": "https://www.tiktok.com/@esports.gateway",
+            "rulebook": "https://huntapp.gg/tournaments/ESG-Community-OW-Europe---2/6474a4805df61fa32abefee6/rules",
+            "bracket": "https://huntapp.gg/tournaments/ESG-Community-OW-Europe---2/6474a4805df61fa32abefee6/bracket",
+            "team_number": "13"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dogmination",
+            "p1": "Davidenzo|p1flag=es|pos1=tank",
+            "p2": "Potroclo|p2flag=es|pos2=tank",
+            "p3": "JDblack|p3flag=es|pos3=dps",
+            "p4": "janjpj|p4flag=es|pos4=dps",
+            "p5": "deinial|p5flag=es|pos5=dps",
+            "p6": "Cairngorm|p6flag=ecu|pos6=sup",
+            "p7": "Zoru|p7flag=es|pos7=sup",
+            "p8": "Akan|p8flag=es|pos8=sup",
+            "t2title": "Staff",
+            "t2p1": "Laggy|t2pos1=manager|t2p1flag=es"
+        },
+        {
+            "team": "Bonk",
+            "p1": "Another1|pos1=dps|p1flag=fi",
+            "p2": "Trippi|pos2=dps|p2flag=Netherlands",
+            "p3": "K3V1N|pos3=tank|p3flag=no",
+            "p4": "Paranid|pos4=sup|p4flag=Ru",
+            "p5": "sleepy|pos5=sup|p5flag=Sweden |p5link=sleepy (Swedish Player)",
+            "p6": "DarthMurloc|pos6=sup|p6flag=ru",
+            "t2title": "Staff",
+            "t2p1": "Pasta|t2pos1=manager|t2p1flag=Croatia",
+            "t2p2": "Fudgey|t2pos2=coach|t2p2flag=Sweden"
+        },
+        {
+            "team": "seixiP",
+            "p1": "Anata|p1flag=uk|pos1=dps",
+            "p2": "elibono06|p2flag=uk|pos2=dps",
+            "p3": "Skylex|p3flag=no|pos3=dps",
+            "p4": "Ankon|p4flag=gr|pos4=tank",
+            "p5": "Prophecy|p5flag=se|pos5=tank",
+            "p6": "M\u0114\u013f\u0202|p6flag=uk|pos6=sup",
+            "p7": "COBBA|p7flag=uk|pos7=sup",
+            "p8": "Holographic|p8flag=uk|pos8=sup"
+        },
+        {
+            "team": "Pixies",
+            "p1": "Tobito|p1flag=dk|pos1=dps",
+            "p2": "Spai|p2flag=fi|pos2=dps",
+            "p3": "Depsi|p3flag=fi|pos3=tank",
+            "p4": "PandaBoy|p4flag=fi|pos4=tank",
+            "p5": "Kermi|p5flag=fi|pos5=sup",
+            "p6": "Libi|p6flag=fi|pos6=sup",
+            "p7": "Olli|p7flag=fi|pos7=sup",
+            "p8": "Zuffy|p8flag=ee|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Kermi|t2c1flag=fi|t2c1pos=coach",
+            "t2c2": "Kermi|t2c2flag=fi|t2c2pos=manager"
+        },
+        {
+            "team": "Derve Esports",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "\u0d9e Amogus71 \u0d9e",
+            "p1": "jax|p1flag=|pos1=tank",
+            "p2": "DjWhack03|p2flag=ru|pos2=flex",
+            "p3": "SlotH|p3flag=ru|pos3=dps",
+            "p4": "BARONIMONDAY|p4flag=ru|pos4=dps",
+            "p5": "Mat71|p5flag=fr|pos5=sup",
+            "p6": "Pozor|p6flag=fr|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc|t2pos1=Coach|t2p1flag=ru"
+        },
+        {
+            "team": "opium",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Losing 4 Sanityy",
+            "p1": "Sanro|p1flag=ua|pos1=tank",
+            "p2": "kai41|p2flag=ru|pos2=dps",
+            "p3": "GetRush|p3flag=ru|pos3=dps",
+            "p4": "Saicore|p4flag=|pos4=dps",
+            "p5": "SilentAshley|p5flag=ru|pos5=sup",
+            "p6": "nmie|p6flag=ru|pos6=sup",
+            "p7": "Graboyd|p7flag=|pos7=sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc|t2pos1=Manager|t2p1flag=ru"
+        },
+        {
+            "team": "NightWolves Main Team",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Dinoco Squad",
+            "p1": "Aleks|p1flag=es|pos1=tank",
+            "p2": "Lump|p2flag=us|pos2=dps",
+            "p3": "Oak|p3flag=Ireland|pos3=dps",
+            "p4": "Gokhqueen|p4flag=es|pos4=sup",
+            "p5": "Unkeempt|p5flag=Sweden|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Ivhod|t2c1flag=es|t2c1pos=manager"
+        },
+        {
+            "team": "The Chadiators",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "D4C",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Morca",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dinoco Squad|score=W}}",
+            "opponent2": "{{TeamOpponent|\u0d9e Amogus71 \u0d9e|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Pixies|score=W}}",
+            "opponent2": "{{TeamOpponent|Morca|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Seixip|score=L}}",
+            "opponent2": "{{TeamOpponent|The Chadiators|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|D4C|score=L}}",
+            "opponent2": "{{TeamOpponent|Opium|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Derve Esports|score=L}}",
+            "opponent2": "{{TeamOpponent|Dogmination|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dinoco Squad|score=L}}",
+            "opponent2": "{{TeamOpponent|Pixies|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Nightwolves main team|score=L}}",
+            "opponent2": "{{TeamOpponent|The Chadiators|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bonk|score=W}}",
+            "opponent2": "{{TeamOpponent|Opium|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Losing 4 Sanityy|score=W}}",
+            "opponent2": "{{TeamOpponent|Dogmination|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Pixies|score=W}}",
+            "opponent2": "{{TeamOpponent|The Chadiators|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bonk|score=W}}",
+            "opponent2": "{{TeamOpponent|Losing 4 Sanityy|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Pixies|score=L}}",
+            "opponent2": "{{TeamOpponent|Bonk|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        }
+    ]
+}

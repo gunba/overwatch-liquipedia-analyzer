@@ -1,0 +1,335 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #54",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "54",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2017-06-11",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-54/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "29",
+            "previous": "Go4Overwatch/Europe/Weekly/53{{!}}Go4 Europe Cup #53",
+            "next": "Go4Overwatch/Europe/Weekly/55{{!}}Go4 Europe Cup #55"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "123",
+            "image": "123logo.png",
+            "p1": "kodaK|p1flag=de",
+            "p2": "Mistakes|p2flag=ru",
+            "p3": "Tonic|p3flag=ru",
+            "p4": "bock1|p4flag=se",
+            "p5": "Dennia|p5flag=se",
+            "p6": "snillo|p6flag=se"
+        },
+        {
+            "team": "Copenhagen Flames",
+            "image": "",
+            "p1": "MauZ|p1flag=dk",
+            "p2": "SpoXez|p2flag=dk",
+            "p3": "Watio|p3flag=dk",
+            "p4": "henningsen|p4flag=dk",
+            "p5": "Mono|p5flag=dk",
+            "p6": "naGGa|p6flag=dk"
+        },
+        {
+            "team": "144hz",
+            "image": "",
+            "p1": "Hojjke|p1flag=ru",
+            "p2": "ImDeadInside|p2flag=ru",
+            "p3": "MYSTEH|p3flag=ru",
+            "p4": "Mixmeha|p4flag=ru",
+            "p5": "Ups|p5flag=ru",
+            "p6": "imPULSE|p6flag=by"
+        },
+        {
+            "team": "Team YP",
+            "image": "",
+            "p1": "Nightwane|p1flag=fr",
+            "p2": "Osnazeni|p2flag=fr",
+            "p3": "Quoizamama|p3flag=fr",
+            "p4": "Valmaster|p4flag=fr",
+            "p5": "XEWER|p5flag=fr",
+            "p6": "Zenko|p6flag=fr"
+        },
+        {
+            "team": "MEME TEAM",
+            "image": "",
+            "p1": "Chikencio|p1flag=es",
+            "p2": "Erik|p2flag=ee",
+            "p3": "MrUnlucky|p3flag=es",
+            "p4": "OrangeW|p4flag=uk",
+            "p5": "ermAt|p5flag=es",
+            "p6": "iiCee|p6flag=es"
+        },
+        {
+            "team": "eSuba",
+            "image": "Esuba_logo.png",
+            "p1": "BlueX|p1flag=sk",
+            "p2": "Davsa|p2flag=cz",
+            "p3": "DennyDesu|p3flag=cz",
+            "p4": "Derenecko|p4flag=cz",
+            "p5": "Sardis|p5flag=cz",
+            "p6": "pecAn|p6flag=cz"
+        },
+        {
+            "team": "Squid Squad",
+            "image": "",
+            "p1": "Heartlust|p1flag=no",
+            "p2": "Kabbz|p2flag=se",
+            "p3": "KingKaes|p3flag=no",
+            "p4": "Obling|p4flag=dk",
+            "p5": "Protologic|p5flag=se",
+            "p6": "phodsen|p6flag=se"
+        },
+        {
+            "team": "Team SiTH",
+            "image": "",
+            "p1": "Izzy|p1flag=",
+            "p2": "WarSpiritUK|p2flag=",
+            "p3": "MrBeck|p3flag=dk",
+            "p4": "Bossrusse|p4flag=de",
+            "p5": "Polly|p5flag=se",
+            "p6": "Cyrus|p6flag=se"
+        },
+        {
+            "team": "Definitely not Overclock",
+            "image": "",
+            "p1": "Chaive|p1flag=de",
+            "p2": "LOLIGER|p2flag=de",
+            "p3": "Luri|p3flag=de",
+            "p4": "TomBuLa|p4flag=de",
+            "p5": "daspunkt|p5flag=de",
+            "p6": "selinson|p6flag=de"
+        },
+        {
+            "team": "Ghost Online Gaming Team Alpha",
+            "image": "",
+            "p1": "N4n4k1|p1flag=de",
+            "p2": "PornFlakes|p2flag=at",
+            "p3": "ShinoDE|p3flag=de",
+            "p4": "Simmi|p4flag=de",
+            "p5": "missBubbleberry|p5flag=de",
+            "p6": "vYpeZ|p6flag=de"
+        },
+        {
+            "team": "aera eSport",
+            "image": "",
+            "p1": "Bostone|p1flag=fr",
+            "p2": "EnoV|p2flag=fr",
+            "p3": "EsSeLkA|p3flag=fr",
+            "p4": "Hagjer|p4flag=fr",
+            "p5": "Warc|p5flag=fr",
+            "p6": "kao|p6flag=fr"
+        },
+        {
+            "team": "ANT E-Sport",
+            "image": "ANT E-Sports.png",
+            "p1": "Fito|p1flag=tr",
+            "p2": "Jackson|p2flag=tr",
+            "p3": "Kazeki|p3flag=tr",
+            "p4": "Lilronth|p4flag=tr",
+            "p5": "Spellist|p5flag=tr",
+            "p6": "simi|p6flag=tr"
+        },
+        {
+            "team": "Denap\u00e4\u00e4llik\u00f6t",
+            "image": "",
+            "p1": "AuliZ|p1flag=fi",
+            "p2": "JiGetsi|p2flag=fi",
+            "p3": "Tonetski|p3flag=fi",
+            "p4": "fimboss|p4flag=fi",
+            "p5": "hulkh0gan|p5flag=fi",
+            "p6": "jorkkabob|p6flag=fi"
+        },
+        {
+            "team": "Rasta.GG",
+            "image": "",
+            "p1": "CalYpso|p1flag=sl",
+            "p2": "Hotpucko|p2flag=se",
+            "p3": "Lewis|p3flag=uk",
+            "p4": "Medo|p4flag=hr",
+            "p5": "Twiks|p5flag=de",
+            "p6": "iRawks|p6flag=de"
+        },
+        {
+            "team": "WinSpirit",
+            "image": "",
+            "p1": "BZZ|p1flag=ru",
+            "p2": "BarSyk|p2flag=ru",
+            "p3": "Diamonddevil|p3flag=ru",
+            "p4": "Nuclear|p4flag=ru",
+            "p5": "OpusDei|p5flag=ru",
+            "p6": "iersregn|p6flag=ch"
+        },
+        {
+            "team": "Lithium Esport",
+            "p1": "Dafu|p1flag=no",
+            "p2": "Eplejus|p2flag=no",
+            "p3": "KeycooL|p3flag=de",
+            "p4": "Rezident|p4flag=no",
+            "p5": "ScarryTerry|p5flag=de",
+            "p6": "bouhn|p6flag=ee"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "lithium esport",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "copenhagen flames",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "winspirit",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "meme team",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "rasta.gg",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "esuba",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "team yp",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "denap\u00e4\u00e4llik\u00f6t",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ant e-sport",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "123",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "squid squad",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D11",
+            "team1": "aera esport",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ghost online gaming team alpha",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "144hz",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "team sith",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "definitely not overclock",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "meme team",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "copenhagen flames",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team yp",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "esuba",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "squid squad",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "123",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team sith",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "144hz",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team yp",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "copenhagen flames",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "144hz",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W3",
+            "team1": "123",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "123",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "copenhagen flames",
+            "score1": "2",
+            "win1": ""
+        },
+        {
+            "team2": "144hz",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "team yp",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

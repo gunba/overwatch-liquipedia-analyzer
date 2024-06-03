@@ -1,0 +1,313 @@
+{
+    "tournament_info": [
+        {
+            "name": "Academy Gaming Overwatch Weekly #49",
+            "shortname": "49",
+            "image": "AGFull.png",
+            "series": "Academy Gaming",
+            "organizer": "Academy Gaming",
+            "organizer-link": "http://www.battlefy.com/academy-gaming/",
+            "sponsor": "[http://www.matcherino.com/ Matcherino], [http://haste.net/ Haste]",
+            "type": "Online",
+            "country": "USA",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "date": "2017-05-01",
+            "prizepoolusd": "240",
+            "web": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-49/58fef499ea61c9033987b139/info?infoTab=details",
+            "twitch": "",
+            "bracket": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-49/58fef499ea61c9033987b139/stage/58fef499ea61c9033987b13a/bracket/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "EclipseGG",
+            "p1": "Heyzeus|p1flag=us",
+            "p2": "limD|p2flag=us",
+            "p3": "Micolash|p3flag=us",
+            "p4": "Sayonara|p4flag=us",
+            "p5": "TornPlanet|p5flag=us",
+            "p6": "Siztra|p6flag=us"
+        },
+        {
+            "team": "Straight Outta Comp Queue",
+            "p1": "Bosco|p1flag=us",
+            "p2": "blas\u00e9|p2flag=us",
+            "p3": "bl4nk|p3flag=us",
+            "p4": "spOh|p4flag=",
+            "p5": "jcb|p5flag=",
+            "p6": "Matwoj|p6flag=us"
+        },
+        {
+            "team": "Prestige Worldwide",
+            "p1": "redstart|p1flag=us",
+            "p2": "brandito|p2flag=us",
+            "p3": "bikeage|p3flag=us",
+            "p4": "yeHHH|p4flag=us",
+            "p5": "D1sasta|p5flag=us",
+            "p6": "Stratus|p6flag=us"
+        },
+        {
+            "team": "Ego Check",
+            "p1": "heartless|p1flag=us",
+            "p2": "RuBBu|p2flag=us",
+            "p3": "SirSoul|p3flag=us",
+            "p4": "ItsOnyx|p4flag=us",
+            "p5": "Desu|p5flag=us",
+            "p6": "straY|p6flag=us"
+        },
+        {
+            "team": "Freedom Fighters",
+            "p1": "Hayko|p1flag=",
+            "p2": "DRNKN|p2flag=de",
+            "p3": "NapTime|p3flag=",
+            "p4": "dal10|p4flag=us",
+            "p5": "KissA|p5flag=",
+            "p6": "zanderz|p6flag=us"
+        },
+        {
+            "team": "Get Like Us",
+            "p1": "Shamzor|p1flag=",
+            "p2": "bquick|p2flag=",
+            "p3": "Babamabushka|p3flag=",
+            "p4": "McGraken|p4flag=",
+            "p5": "skemiio|p5flag=",
+            "p6": "p3ngin|p6flag="
+        },
+        {
+            "team": "Nucleus",
+            "p1": "Insomniaq|p1flag=us",
+            "p2": "crakinlakin|p2flag=us",
+            "p3": "Tails|p3flag=us|p3link=Tails (American player)",
+            "p4": "ProGi|p4flag=de",
+            "p5": "Zack|p5flag=us",
+            "p6": "HaKuMei|p6flag=us"
+        },
+        {
+            "team": "LuCkER dOG",
+            "p1": "Deathy|p1flag=ca",
+            "p2": "ChrizTahFah|p2flag=us",
+            "p3": "ConnorLuca|p3flag=",
+            "p4": "emperor|p4link=emperor (American player)|p4flag=us",
+            "p5": "legomath|p5flag=ca",
+            "p6": "Skye|p6flag=us",
+            "p7": "LittleMenace|p7flag=us"
+        },
+        {
+            "team": "Raptorial Gaming",
+            "p1": "DusK|p1flag=",
+            "p2": "lionhardt69|p2flag=",
+            "p3": "Justin|p3link=Justin (Raptorial Gaming gaming)|p3flag=",
+            "p4": "Rhy|p4flag=",
+            "p5": "alex|p5link=alex (Raptorial Gaming player)|p5flag=",
+            "p6": "Minish|p6link=Minish (Raptorial Gaming player)|p6flag=",
+            "p7": "FloppingCod|p7flag=",
+            "p8": "Fishy|p8flag="
+        },
+        {
+            "team": "Gonzo Flashers",
+            "p1": "Fear|p1link=Fear (Gonzo Flashers player)|p1flag=",
+            "p2": "Xyklon|p2flag=ca",
+            "p3": "Twoez|p3flag=",
+            "p4": "Glasses|p4flag=",
+            "p5": "Boomer|p5flag=",
+            "p6": "Cheri|p6flag=us"
+        },
+        {
+            "team": "HYPERLUL",
+            "p1": "Chris|p1flag=",
+            "p2": "MaDMaX|p2flag=",
+            "p3": "FLChris|p3flag=",
+            "p4": "Enzo|p4flag=",
+            "p5": "Cmonsta|p5flag=",
+            "p6": "BattleToast|p6flag=us"
+        },
+        {
+            "team": "Red Rockets",
+            "p1": "Mortal|p1flag=",
+            "p2": "keeper|p2flag=",
+            "p3": "Yamagiri|p3flag=",
+            "p4": "Gregwar|p4flag=",
+            "p5": "Jackman|p5flag=",
+            "p6": "Georgelion66|p6flag=uk",
+            "p7": "Hitokiri|p7flag=",
+            "c1": "muffin|c1flag="
+        },
+        {
+            "team": "Tempose Blue",
+            "p1": "m|p1flag=",
+            "p2": "SHADO|p2flag=",
+            "p3": "DemonStrate|p3flag=",
+            "p4": "Sling|p4flag=",
+            "p5": "Drama|p5flag=",
+            "p6": "Believe|p6flag="
+        },
+        {
+            "team": "CastAwayGG",
+            "p1": "MrWinsconsin|p1flag=us",
+            "p2": "Simba|p2flag=us",
+            "p3": "Achillies|p3flag=ca",
+            "p4": "the123456guy|p4flag=",
+            "p5": "BigALL|p5flag=us",
+            "p6": "WakanakaTaka|p6flag=us",
+            "p7": "Zero|p7flag=us|p7link=Zero (North American player)"
+        },
+        {
+            "team": "Hero's Never Die",
+            "p1": "lag|p1flag=",
+            "p2": "BloodRaiden|p2flag=ca",
+            "p3": "bruudom|p3flag=",
+            "p4": "Luke|p4flag=",
+            "p5": "FeedTown|p5flag=",
+            "p6": "Siegmeyer|p6flag="
+        },
+        {
+            "team": "LF Main Tank",
+            "p1": "Dexz|p1flag=",
+            "p2": "Aqua|p2flag=",
+            "p3": "Tres|p3flag=us",
+            "p4": "NeoPockeyG|p4flag=",
+            "p5": "Molten|p5flag=",
+            "p6": "Zaralorn|p6flag=us"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "hyperlul",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "eclipsegg",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "raptorial gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "lucker dog",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "red rockets",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "ego check",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "tempose blue",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "freedom fighters",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "gonzo flashers",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "straight outta comp queue",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "lf main tank",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "nucleus",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "castawaygg",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "prestige worldwide",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "hero's never die",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "get like us",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "lucker dog",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "eclipsegg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "freedom fighters",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "ego check",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "nucleus",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "straight outta comp queue",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "hero's never die",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "prestige worldwide",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ego check",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "eclipsegg",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "prestige worldwide",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W3",
+            "team1": "straight outta comp queue",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "prestige worldwide",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "ego check",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

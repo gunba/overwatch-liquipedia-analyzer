@@ -1,0 +1,573 @@
+{
+    "tournament_info": [],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "March 7, 2024 - 20:30",
+            "date_timezone": "AST",
+            "opponent1": "R8 Esports",
+            "opponent1_score": 3,
+            "opponent2": "Reds Esports",
+            "opponent2_score": 0,
+            "optional": "M1="
+        },
+        {
+            "date": "March 7, 2024 - 20:30",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "Dragons Esports",
+            "opponent2": "Peaks Esports",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "March 7, 2024 - 20:30",
+            "date_timezone": "AST",
+            "opponent1": "Victory Esports",
+            "opponent1_score": 3,
+            "opponent2": "The Vicious",
+            "opponent2_score": 1,
+            "optional": "M3="
+        },
+        {
+            "date": "March 7, 2024 - 20:30",
+            "date_timezone": "AST",
+            "opponent1": "Warriors Esports (sa team)",
+            "opponent1_score": 0,
+            "opponent2": "55 Esports",
+            "opponent2_score": 3,
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "March 7, 2024 - 21:45",
+            "date_timezone": "AST",
+            "opponent1": "Peaks Esports",
+            "opponent1_score": 1,
+            "opponent2": "R8 Esports",
+            "opponent2_score": 3,
+            "optional": "M1="
+        },
+        {
+            "date": "March 7, 2024 - 21:45",
+            "date_timezone": "AST",
+            "opponent1": "The Vicious",
+            "opponent1_score": 3,
+            "opponent2": "Reds Esports",
+            "opponent2_score": 0,
+            "optional": "M2="
+        },
+        {
+            "date": "March 7, 2024 - 21:45",
+            "date_timezone": "AST",
+            "opponent1": "55 Esports",
+            "opponent1_score": 2,
+            "opponent2": "Dragons Esports",
+            "opponent2_score": 3,
+            "optional": "M3="
+        },
+        {
+            "date": "March 7, 2024 - 22:00",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "Warriors Esports (sa team)",
+            "opponent2": "Victory Esports",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "March 11, 2024 - 21:30",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "R8 Esports",
+            "opponent2": "The Vicious",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "March 11, 2024 - 21:30",
+            "date_timezone": "AST",
+            "opponent1": "Peaks Esports",
+            "opponent1_score": 1,
+            "opponent2": "55 Esports",
+            "opponent2_score": 3,
+            "optional": "M2="
+        },
+        {
+            "date": "March 11, 2024 - 21:30",
+            "date_timezone": "AST",
+            "opponent1": "Reds Esports",
+            "opponent1_score": 0,
+            "opponent2": "Warriors Esports (sa team)",
+            "opponent2_score": 3,
+            "optional": "M3="
+        },
+        {
+            "date": "March 11, 2024 - 22:30",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "Dragons Esports",
+            "opponent2": "Victory Esports",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "99.63m",
+                "score2": "138.39m",
+                "winner": "2"
+            },
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "March 12, 2024 - 23:00",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "55 Esports",
+            "opponent2": "R8 Esports",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "89.40m",
+                "score2": "80.74m",
+                "winner": "1"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "March 12, 2024 - 23:00",
+            "date_timezone": "AST",
+            "opponent1": "Victory Esports",
+            "opponent1_score": 3,
+            "opponent2": "Peaks Esports",
+            "opponent2_score": 0,
+            "optional": "M2="
+        },
+        {
+            "date": "March 12, 2024 - 23:00",
+            "date_timezone": "AST",
+            "opponent1": "Dragons Esports",
+            "opponent1_score": 3,
+            "opponent2": "Reds Esports",
+            "opponent2_score": 0,
+            "optional": "M3="
+        },
+        {
+            "date": "March 13, 2024 - 00:00",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "Warriors Esports (sa team)",
+            "opponent2": "The Vicious",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "95.77m",
+                "score2": "95.76m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "March 13, 2024 - 21:30",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "55 Esports",
+            "opponent2": "Victory Esports",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "52.38m",
+                "score2": "128.44m",
+                "winner": "2"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "March 13, 2024 - 21:30",
+            "date_timezone": "AST",
+            "opponent1": "R8 Esports",
+            "opponent1_score": 3,
+            "opponent2": "Warriors Esports (sa team)",
+            "opponent2_score": 0,
+            "optional": "M2="
+        },
+        {
+            "date": "March 13, 2024 - 21:30",
+            "date_timezone": "AST",
+            "opponent1": "Peaks Esports",
+            "opponent1_score": 3,
+            "opponent2": "Reds Esports",
+            "opponent2_score": 0,
+            "optional": "M3="
+        },
+        {
+            "date": "March 13, 2024 - 22:30",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "The Vicious",
+            "opponent2": "Dragons Esports",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "March 14, 2024 - 21:30",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "Dragons Esports",
+            "opponent2": "Warriors Esports (sa team)",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "142.41m",
+                "score2": "4.98m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "March 14, 2024 - 21:30",
+            "date_timezone": "AST",
+            "opponent1": "Reds Esports",
+            "opponent1_score": 0,
+            "opponent2": "55 Esports",
+            "opponent2_score": 3,
+            "optional": "M2="
+        },
+        {
+            "date": "March 14, 2024 - 21:30",
+            "date_timezone": "AST",
+            "opponent1": "Peaks Esports",
+            "opponent1_score": 3,
+            "opponent2": "The Vicious",
+            "opponent2_score": 2,
+            "optional": "M3="
+        },
+        {
+            "date": "March 14, 2024 - 22:30",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "Victory Esports",
+            "opponent2": "R8 Esports",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "142.41m",
+                "score2": "22.84m",
+                "winner": "1"
+            },
+            "optional": "M4="
+        },
+        {
+            "bestof": "5",
+            "date": "March 15, 2024 - 21:30",
+            "date_timezone": "AST",
+            "opponent1": "R8 Esports",
+            "opponent1_score": 3,
+            "opponent2": "Dragons Esports",
+            "opponent2_score": 2,
+            "optional": "M1="
+        },
+        {
+            "date": "March 15, 2024 - 21:30",
+            "date_timezone": "AST",
+            "opponent1": "Victory Esports",
+            "opponent1_score": 3,
+            "opponent2": "Reds Esports",
+            "opponent2_score": 0,
+            "optional": "M2="
+        },
+        {
+            "date": "March 15, 2024 - 21:30",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "55 Esports",
+            "opponent2": "The Vicious",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "March 15, 2024 - 22:30",
+            "date_timezone": "AST",
+            "youtube": "",
+            "twitch": "SELOW2",
+            "opponent1": "Warriors Esports (sa team)",
+            "opponent2": "Peaks Esports",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M4="
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{{DISPLAYTITLE:Nittany Invitational 2024 Playoffs}}
+{{Nittany Invitational Navbox}}
+{{Infobox league
+|liquipediatier=4
+|liquipediatiertype=
+|name=Nittany Invitational 2024 Playoffs
+|shortname=Nittany 2024 Playoffs
+|tickername=Nittany Invitational Playoffs
+|image=
+|icon=
+|abbreviation=NIT
+|series=Nittany Invitational
+|organizer=Plasmashark4
+|organizer2=DMT
+|organizer3=EsportsU
+|organizer3-link=https://collegiatesmg.com/esportsu/
+|sponsor=[https://byebluelight.com/ Bye Blue Light]
+|game=overwatch2
+|type=Offline
+|country=United States
+|city=State College
+|venue=[https://bjc.psu.edu/arena-information Bryce Jordan Center]
+|format=Double Elimination
+|prizepoolusd=5000
+|date=2024-03-24
+|twitter=PSUEsports
+|twitch=PSUEsports
+|youtube=PSUEsports
+|rulebook=https://docs.google.com/document/d/1GjfYrtlUqni94f0E2E1UTOYgoLf_sBn1/edit
+|bracket=https://battlefy.com/csmgesportsu/bye-blue-light-nittany-invitational/65e0c3c00a3cab0848aa8641/info?infoTab=details
+|team_number=4
+}}
+
+==Information==
+===Format===
+*Double Elimination
+**All matches ''(excl. Grand Finals)'' are {{Abbr/Bo5}}
+**Grand Finals are {{Abbr/Bo7}}
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Septilence|b1name=Mathew Corfee II|b1flag=us
+|b2=Cabbage|b2name=|b2flag=us
+}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="800" class="wiki-backgroundcolor-light" colspan=5|'''Map Pool'''
+|-
+![[Control]]
+![[Escort]]
+![[Hybrid]]
+![[Flashpoint]]
+![[Push]]
+
+|-
+|width="200" rowspan=1|
+*[[Antarctic Peninsula]]
+*[[Ilios]]
+*[[Lijiang Tower]]
+*[[Nepal]]
+*[[Oasis]]
+*[[Busan]]
+*[[Samoa]]
+|width="200" rowspan=1|
+*[[Dorado]]
+*[[Junkertown]]
+*[[Circuit Royal]]
+*[[Rialto]]
+*[[Havana]]
+*[[Shambali Monastery]]
+*[[Route 66]]
+*[[Watchpoint: Gibraltar]]
+|width="200" rowspan=1|
+*[[Blizzard World]]
+*[[Numbani]]
+*[[King's Row]]
+*[[Midtown]]
+*[[Paraíso]]
+*[[Eichenwalde]]
+*[[Hollywood]]
+|width="200" rowspan=1|
+*[[Suravasa]]
+*[[New Junk City]]
+|width="200" rowspan=1|
+*[[New Queen Street]]
+*[[Colosseo]]
+*[[Esperança]]
+|}
+
+===Prize Pool===
+{{TeamPrizePool
+|{{Slot|usdprize=3500}}
+|{{Slot|usdprize=1500}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|height=220}}
+{{TeamCard
+|team=Penn State University
+|p1=M3MORY|pos1=dps
+|p2=Guts|p2flag=us|pos2=dps
+|p3=Rags|p3flag=us|pos3=dps
+|p4=DMT|pos4=tank
+|p5=Bigbum|p5flag=us|pos5=sup
+|p6=Paz|pos6=sup
+}}
+{{TeamCard
+|team=University of Maryland
+|p1=Jkesus|p1flag=us|pos1=dps
+|p2=Speep|p2flag=us|pos2=dps
+|p3=Infectious|p3flag=us|pos3=tank
+|p4=C3E|p4flag=us|pos4=sup
+|p5=Moosey|p5flag=us|pos5=sup
+|p6=Pumpkin|p6flag=us|pos6=sup
+|p7=Tony|p7flag=us|pos7=flex
+}}
+{{TeamCard
+|team=Miami University
+|p1=Bonesaw|p1flag=us|pos1=dps
+|p2=Wintur|p2flag=us|pos2=dps
+|p3=Pootrscootr|p3flag=us|pos3=tank
+|p4=AceAlfonzo|p4flag=us|pos4=tank
+|p5=KaBunga|pos5=sup
+|p6=Shocker|p6flag=us|pos6=sup
+|p7=Fahzix|pos7=sup
+}}
+{{TeamCard
+|team=University of Akron
+|p1=Eric|p1flag=us|pos1=dps|p1link= Eric (Collegiate player)
+|p2=Sweaty|p2flag=us|pos2=dps
+|p3=Wahasha|p3flag=us|pos3=tank
+|p4=Pixeledstar|p4flag=us|pos4=sup
+|p5=Tosmino|p5flag=us|pos5=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/4U2L1D|id=oYg90TH6OW
+
+<!-- Upper Bracket Semifinals -->
+|R1M1={{Match
+    |bestof=5
+	|date=2024-03-24
+    |opponent1={{TeamOpponent|Miami University|score=3}}
+    |opponent2={{TeamOpponent|University of Akron|score=0}}
+}}
+|R1M2={{Match
+	|date=2024-03-24
+    |opponent1={{TeamOpponent|Penn State University|score=0}}
+    |opponent2={{TeamOpponent|University of Maryland|score=3}}
+}}
+
+<!-- Upper Bracket Final -->
+|R2M1={{Match
+	|date=2024-03-24
+    |opponent1={{TeamOpponent|Miami University|score=3}}
+    |opponent2={{TeamOpponent|University of Maryland|score=2}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R1M3={{Match
+	|date=2024-03-24
+    |opponent1={{TeamOpponent|Penn State University|score=3}}
+    |opponent2={{TeamOpponent|University of Akron|score=0}}
+}}
+
+<!-- Lower Bracket Final -->
+|R2M2={{Match
+	|date=2024-03-24
+    |opponent1={{TeamOpponent|University of Maryland|score=3}}
+    |opponent2={{TeamOpponent|Penn State University|score=1}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|bestof=7
+	|date=2024-03-24
+    |opponent1={{TeamOpponent|Miami University|score=4}}
+    |opponent2={{TeamOpponent|University of Maryland|score=1}}
+}}
+}}

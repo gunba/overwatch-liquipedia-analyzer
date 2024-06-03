@@ -1,0 +1,349 @@
+{{Want_to_Help
+|issue=missing flags on teamcards
+|fix=add flags
+|date=20191122
+}}
+{{NFN Invitational Navbox}}
+{{DISPLAYTITLE:NFN Invitational #3}}
+
+{{Infobox league
+|series=NFN
+|image=NFN logo.png
+|icon=
+|name=NFN Invitational #3
+|tickername=NFC #3
+|organizer=Not For Normies
+|organizer-link=https://twitter.com/NotNormiesOW
+|sponsor=
+|type=Online
+|country=North America
+|format=Double Elimination
+|prizepoolusd=800
+|sdate=2019-03-09
+|edate=2019-03-19
+|website=
+|bracket=https://challonge.com/NFN2019
+|rulebook=https://docs.google.com/document/d/1MZiMqhbTK_OaSeZJBdkw1NzW4VnIG9Bs2IjlSZvrPkU/edit
+|twitter=NotNormiesOW
+|facebook=
+|instagram=
+|youtube=
+|leagueid=
+|team_number=11
+|liquipediatier={{TierText/4}}
+}}
+
+==Format==
+*Double elimination bracket
+**Round 1 to Top 4 are {{abbr/Bo3}}
+**Top 4/Finals are {{abbr/Bo5}}
+
+==Prize Distribution==
+$800{{abbr/USD}} will be spread among teams as seen below:
+{{prize pool start}}
+{{prize pool slot|place=1 |usdprize=500 |tea party |lastvs1=inked |lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot|place=2 |usdprize=200 |inked |lastvs1=tea party |lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot|place=3 |usdprize=100 |polar ace|lastvs1=tea party |lastscore1=1 |lastvsscore1=3 }}
+{{prize pool slot|place=4 |usdprize=0 |paradigm |lastvs1=tea party |lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot|place=5-6 |usdprize=0
+|inferno (american team) |lastvs1=tea party |lastscore1=0 |lastvsscore1=2 
+|one last ride |lastvs2=paradigm |lastscore2=1 |lastvsscore2=2 
+}}
+{{prize pool slot|place=7-8 |usdprize=0
+|oracle gaming |lastvs1=tea party |lastscore1=0 |lastvsscore1=2
+|boundless |lastvs2=one last ride |lastscore2=1 |lastvsscore2=2 
+}}
+{{prize pool slot|place=9-11 |usdprize=0
+|void (american team) |lastvs1=tea party |lastscore1=1 |lastvsscore1=2 
+|u got that |lastvs2=boundless |lastscore2=0 |lastvsscore2= 2
+|ungentlemen |lastvs3=one last ride |lastscore3=0 |lastvsscore3=2 
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|team=Inked 
+|p1=Valentine |p1flag=us |pos1=dps|p1link=Valentine (American Player)
+|p2=Kashir |p2flag= |pos2=dps
+|p3=Fofey |p3flag=ca |pos3=flex
+|p4=B3stB0lbi |p4flag=us |pos4=tank|p4link=Bolbi
+|p5=SixFeetUnder |p5flag= |pos5=sup
+|p6=SCOPE |p6flag=gt |pos6=sup
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Polar Ace
+|p1=Tyler |p1flag=us |pos1=dps
+|p2=Aencro |p2flag=us |pos2=dps
+|p3=Vulcan |p3flag= |pos3=flex
+|p4=Cheddar|p4link=Cheddar (American player) |p4flag=us |pos4=tank
+|p5=MasterNox |p5flag=us |pos5=sup
+|p6=Marble |p6flag=us |pos6=sup
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Tea Party
+|p1=Amadien |p1flag= |pos1=dps
+|p2=Vexonus |p2flag=ca |pos2=dps
+|p3=Fosmanx |p3flag= |pos3=flex
+|p4=DunKZ |p4flag=ca |pos4=tank
+|p5=AntoL |p5flag= |pos5=sup
+|p6=BlubBlubBlob |p6flag= |pos6=sup
+|c=Axel |cflag=ca
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Paradigm
+|p1=Lisugau |p1flag=us |pos1=dps
+|p2=Hope |p2flag= |pos2=dps
+|p3=Krawi |p3flag= |pos3=flex
+|p4=Mixo |p4flag=us |pos4=tank
+|p5=Vibrant |p5flag=us |pos5=sup
+|p6=Morbid |p6flag=ca |pos6=sup
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Inferno
+|p1=Brim |p1flag=us |pos1=dps
+|p2=YankyWolf |p2flag=us |pos2=dps
+|p3=Maximus |p3flag= |pos3=flex
+|p4=Seedro |p4flag= |pos4=tank
+|p5=Eskay |p5flag=us |pos5=sup
+|p6=JBright |p6flag=us |pos6=sup
+|t2title=Staff
+|t2p1=Marbles|t2pos1=manager
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=One Last Ride
+|p1=Nime |p1flag=us |pos1=dps
+|p2=Kapo |p2flag= |pos2=dps
+|p3=Spades |p3flag=us |pos3=flex
+|p4=Shereshoy |p4flag= |pos4=tank
+|p5=Ali |p5link=Ali (American player) |p5flag= |pos5=sup
+|p6=Ginger |p6flag=uk |pos6=sup
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Boundless
+|p1=Romanov |p1flag=us |pos1=dps
+|p2=Dantwist |p2flag= |pos2=dps
+|p3=Humble |p3flag=us |pos3=flex
+|p4=RedReX |p4flag=ca |pos4=tank
+|p5=Muffinman |p5flag=us |pos5=sup
+|p6=Cal|p6link=Cal (American player)|p6flag=us|pos6=sup
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Oracle Gaming
+|p1=Dimes |p1flag= |pos1=dps
+|p2=Lolztehtroll |p2flag=us |pos2=dps
+|p3=Veg |p3flag=us |pos3=flex
+|p4=Vita |p4flag= |pos4=tank
+|p5=Strafeology |p5flag=us |pos5=sup
+|p6=Drake |p6flag= |pos6=sup
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=U Got That
+|p1=Nikki |p1flag=us |pos1=dps
+|p2=Georgelion66 |p2flag=uk |pos2=dps
+|p3=Samaritan |p3flag=us |pos3=flex
+|p4=Mist |p4flag=us |pos4=tank|p4link=Mist (American Player)
+|p5=Tears |p5flag=us |pos5=sup
+|p6=Legend |p6flag=ca |pos6=sup
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Ungentlemen
+|p1=NKN |p1flag= |pos1=dps
+|p2=ÕPfreeze |p2flag= |pos2=dps
+|p3=Scooty |p3flag= |pos3=flex
+|p4=Frost |p4link=Frost (American player) |p4flag= |pos4=tank
+|p5=Irishtaxicab |p5flag= |pos5=sup
+|p6=Fridge |p6flag= |pos6=sup
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Void
+|link=Void (american team)
+|p1=Javion |p1flag=tt |pos1=dps
+|p2=Hazard |p2flag=us |pos2=dps
+|p3=Spoodie |p3flag=us |pos3=flex
+|p4=Medixcre |p4flag= |pos4=tank|p4link=Meadxr
+|p5=Madero |p5flag= |pos5=sup
+|p6=FishCake |p6flag= |pos6=sup
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{box|end}}
+
+==Results==
+{{Bracket|Bracket/2L1DH2LH4L2DSLU2L2DH4L1DLL1D|id=wJJMeJ0mPF
+
+<!-- Upper Bracket Round 1 -->
+|R1M1={{Match
+    |bestof=3
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|inferno (american team)|score=2}}
+    |opponent2={{TeamOpponent|void (american team)|score=0}}
+}}
+|R1M2={{Match
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|oracle gaming|score=2}}
+    |opponent2={{TeamOpponent|u got that|score=0}}
+}}
+|R1M3={{Match
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|inked|score=2}}
+    |opponent2={{TeamOpponent|ungentlemen|score=0}}
+}}
+
+<!-- Upper Bracket Quarterfinals -->
+|R2M1={{Match
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|one last ride|score=0}}
+    |opponent2={{TeamOpponent|inferno (american team)|score=2}}
+}}
+|R2M2={{Match
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|polar ace|score=2}}
+    |opponent2={{TeamOpponent|boundless|score=1}}
+}}
+|R2M3={{Match
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|paradigm|score=2}}
+    |opponent2={{TeamOpponent|oracle gaming|score=1}}
+}}
+|R2M4={{Match
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|tea party|score=0}}
+    |opponent2={{TeamOpponent|inked|score=2}}
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R4M1={{Match
+    |date=March 12, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|inferno (american team)|score=1}}
+    |opponent2={{TeamOpponent|polar ace|score=2}}
+}}
+|R4M2={{Match
+    |date=March 12, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|paradigm|score=0}}
+    |opponent2={{TeamOpponent|inked|score=2}}
+}}
+
+<!-- Upper Bracket Final -->
+|R6M1={{Match
+	|bestof=5
+    |date=March 19, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|polar ace|score=1}}
+    |opponent2={{TeamOpponent|inked|score=3}}
+}}
+
+<!-- Lower Bracket Round 1 -->
+|R2M5={{Match
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|tea party|score=2}}
+    |opponent2={{TeamOpponent|void (american team)|score=1}}
+}}
+|R2M6={{Match
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|boundless|score=2}}
+    |opponent2={{TeamOpponent|u got that|score=0}}
+}}
+|R2M7={{Match
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|one last ride|score=2}}
+    |opponent2={{TeamOpponent|ungentlemen|score=0}}
+}}
+
+<!-- Lower Bracket Round 2 -->
+|R3M1={{Match
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|oracle gaming|score=0}}
+    |opponent2={{TeamOpponent|tea party|score=2}}
+}}
+|R3M2={{Match
+    |date=March 9, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|boundless|score=1}}
+    |opponent2={{TeamOpponent|one last ride|score=2}}
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R4M3={{Match
+    |date=March 12, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|inferno (american team)|score=0}}
+    |opponent2={{TeamOpponent|tea party|score=2}}
+}}
+|R4M4={{Match
+    |date=March 12, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|paradigm|score=2}}
+    |opponent2={{TeamOpponent|one last ride|score=1}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R5M1={{Match
+    |date=March 12, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|tea party|score=3}}
+    |opponent2={{TeamOpponent|paradigm|score=0}}
+}}
+
+<!-- Lower Bracket Final -->
+|R6M2={{Match
+    |date=March 19, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|polar ace|score=1}}
+    |opponent2={{TeamOpponent|tea party|score=3}}
+}}
+
+<!-- Grand Final -->
+|R7M1={{Match
+    |date=March 19, 2019
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|inked|score=0}}
+    |opponent2={{TeamOpponent|tea party|score=3}}
+}}
+}}
+
+==References==
+{{reflist}}

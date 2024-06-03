@@ -1,0 +1,53 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch 2 Showdown",
+            "tickername": "Overwatch 2 Showdown",
+            "shortname": "Overwatch 2 Showdown",
+            "image": "Overwatch 2 Showdown lightmode.png",
+            "imagedark": "Overwatch 2 Showdown darkmode.png",
+            "icon": "Overwatch 2 lightmode.png",
+            "icondark": "Overwatch 2 darkmode.png",
+            "series": "",
+            "organizer": "Blizzard Entertainment",
+            "country": "North America",
+            "type": "Online",
+            "game": "overwatch2",
+            "prizepoolusd": "25000",
+            "format": "",
+            "date": "2022-11-25",
+            "liquipediatier": "2|liquipediatiertype=Showmatch",
+            "web": "https://playoverwatch.com/",
+            "twitter": "playoverwatch",
+            "twitch": "playoverwatch",
+            "twitch2": "Summit1g",
+            "twitch3": "iiTzTimmy",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Summit1g",
+            "p1": "summit1g|pos1=dps|p1flag=us|p1link=counterstrike:summit1g",
+            "p2": "Kephrii|pos2=dps|p2flag=",
+            "p3": "HutchMF|pos3=tank|p3flag=us",
+            "p4": "Smokey|pos4=sup|p4flag=us",
+            "p5": "Pokelawls|pos5=sup|p5flag=us"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "7",
+            "date": "November 25, 2022 - 14:00 {{Abbr/PST}}",
+            "twitch": "playoverwatch",
+            "opponent1": "{{TeamOpponent|team summit1g}}",
+            "opponent2": "{{TeamOpponent|team iitztimmy}}",
+            "map1": "{{Map|map=Esperan\u00e7a|mode=Push|score1=8.61m|score2=134.77m|winner=2}}",
+            "map2": "{{Map|map=Para\u00edso|mode=Hybrid|score1=2|score2=3|winner=2}}",
+            "map3": "{{Map|map=Circuit Royal|mode=Escort|score1=1|score2=3|winner=2}}",
+            "map4": "{{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "comment": "Since Team iiTzTimmy won in three maps, map four was DPS-only No Limits."
+        }
+    ]
+}

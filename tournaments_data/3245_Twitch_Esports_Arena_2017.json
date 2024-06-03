@@ -1,0 +1,62 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "1",
+            "liquipediatiertype": "Showmatch",
+            "name": "Twitch Esports Arena 2017",
+            "image": "Twitch 2012 allmode.png",
+            "icon": "Twitch 2012 icon allmode.png",
+            "organizer": "Twitch",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Los Angeles",
+            "venue": "[https://en.wikipedia.org/wiki/Los_Angeles_Convention_Center Los Angeles Convention Center]",
+            "prizepoolusd": "18000",
+            "game": "overwatch",
+            "date": "2017-06-15",
+            "twitch": "twitchesports",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "4",
+            "date": "June 15, 2017 - 18:15",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "twitchesports",
+            "opponent1": "usa",
+            "opponent2": "canada",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "overgg": "4433"
+        }
+    ]
+}

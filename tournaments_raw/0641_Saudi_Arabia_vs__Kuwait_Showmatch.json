@@ -1,0 +1,61 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Showmatch",
+            "name": "Saudi Arabia vs. Kuwait Showmatch",
+            "shortname": "Saudi Arabia vs. Kuwait Showmatch",
+            "tickername": "Saudi Arabia vs. Kuwait Showmatch",
+            "organizer": "Brain",
+            "organizer2": "W1llyv",
+            "country": "Saudi Arabia",
+            "country2": "Kuwait",
+            "type": "Online",
+            "game": "overwatch2",
+            "date": "2023-12-28",
+            "twitter": "owbrain1",
+            "twitter2": "W1llyv",
+            "instagram": "thbc",
+            "instagram2": "w1llyv",
+            "twitch": "owbrain",
+            "twitch2": "W1llyvv",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Saudi Arabia",
+            "p1": "Qlm|pos1=dps",
+            "p2": "YZNSA|pos2=dps",
+            "p3": "LawYer|pos3=dps",
+            "p4": "TVNT|pos4=tank",
+            "p5": "ZIYAD|pos5=tank",
+            "p6": "Kayeose|pos6=tank",
+            "p7": "Skatai|pos7=sup",
+            "p8": "d7mi|p8flag=sa|pos8=sup"
+        },
+        {
+            "team": "Team Kuwait",
+            "p1": "Turki|pos1=dps",
+            "p2": "WhisPerz|p2flag=kw|pos2=dps",
+            "p3": "7arbi|p3flag=kw|pos3=dps",
+            "p4": "SnipKw|pos4=tank",
+            "p5": "F7n|p5flag=kw|pos5=tank",
+            "p6": "MHHX|p6flag=kw|pos6=sup",
+            "p7": "Inviktonizer|pos7=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "9",
+            "date": "December 28, 2023 - 19:00 {{Abbr/AST}}",
+            "twitch": "owbrain|twitch2=w1llyvv",
+            "opponent1": "{{TeamOpponent|Saudi Arabia}}",
+            "opponent2": "{{TeamOpponent|Kuwait}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=4|score2=3|winner=1}}",
+            "map3": "{{Map|map=Suravasa|mode=Flashpoint|score1=3|score2=0|winner=1}}",
+            "map4": "{{Map|map=Esperan\u00e7a|mode=Push|score1=130.95m|score2=130.94m|winner=1}}",
+            "map5": "{{Map|map=Junkertown|mode=Escort|score1=3|score2=2|winner=1}}"
+        }
+    ]
+}

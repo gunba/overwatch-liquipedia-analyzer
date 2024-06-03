@@ -1,0 +1,294 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch World Cup 2023 Netherlands Open Trials",
+            "image": "Overwatch World Cup 2023 allmode.png",
+            "series": "Overwatch World Cup",
+            "shortname": "World Cup 2023",
+            "tickername": "OWWC NLD Open Trials",
+            "icon": "Overwatch World Cup logo.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "GameBattles",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Netherlands",
+            "country2": "",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "game": "overwatch2",
+            "prizepoolusd": "2000",
+            "sdate": "2023-02-24",
+            "edate": "2023-02-26",
+            "liquipediatier": "4",
+            "blizzardtier": "owwc",
+            "web": "https://overwatchworldcup.com",
+            "twitter": "playoverwatch",
+            "youtube": "playoverwatch",
+            "twitch": "playoverwatch",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/WC-Trials-NL/info",
+            "rulebook": "https://s3.amazonaws.com/mlg-gamebattles-production/assets/arenacp/files/1675265987/2023-OWWC-Trials-Rules-GB-Feb-1-EN.pdf",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Benelux Assieklappers|link=Benelux Assieklappers (OWWC Trials Team)",
+            "p1": "kraandop|p1flag=nl|pos1=tank",
+            "p2": "TwolzZ|p2flag=nl|pos2=dps",
+            "p3": "TAP|p3flag=nl|pos3=dps",
+            "p4": "ANJ|p4flag=nl|pos4=sup",
+            "p5": "Buddie|p5flag=nl|pos5=sup"
+        },
+        {
+            "team": "Max Value",
+            "p1": "natdoekje|p1flag=nl|pos1=tank",
+            "p2": "CaribRinus|p2flag=nl|pos2=dps",
+            "p3": "Steviz|p3flag=nl|pos3=dps",
+            "p4": "Gorow|p4flag=nl|pos4=sup",
+            "p5": "DpsMod|p5flag=nl|pos5=sup"
+        },
+        {
+            "team": "Voor 2de Plek Gaan Dan Maar",
+            "p1": "Yelmo|p1flag=nl|pos1=tank",
+            "p2": "Strafeness|p2flag=nl|pos2=tank",
+            "p3": "Thom|p3flag=nl|pos3=dps",
+            "p4": "Questron|p4flag=bq|pos4=dps",
+            "p5": "TheMuffin27|p5flag=nl|pos5=sup",
+            "p6": "Soul|p6flag=Lithuania|pos6=sup"
+        },
+        {
+            "team": "vanguard|link=vanguard (Dutch team)",
+            "p1": "BeatMakerXSX|p1flag=nl|pos1=tank",
+            "p2": "Baroegie|p2flag=nl|pos2=dps",
+            "p3": "Max|p3flag=nl|pos3=dps|p3link=Max (Dutch player)",
+            "p4": "Koen|p4flag=nl|pos4=sup",
+            "p5": "NiVeKFlex|p5flag=nl|pos5=sup"
+        },
+        {
+            "team": "Koning Willem FC",
+            "p1": "Daan|p1flag=nl|pos1=tank",
+            "p2": "KaiBa|p2flag=nl|pos2=dps",
+            "p3": "Pastor|p3flag=nl|pos3=dps",
+            "p4": "Lucht|p4flag=nl|pos4=sup",
+            "p5": "Laubee|p5flag=nl|pos5=sup"
+        },
+        {
+            "team": "Prodigy|link=Prodigy (Dutch team)",
+            "p1": "SHO|p1flag=nl|pos1=tank",
+            "p2": "Bready|p2flag=nl|pos2=flex",
+            "p3": "Lotus|p3flag=nl|pos3=dps",
+            "p4": "Pepjin|p4flag=nl|pos4=dps",
+            "p5": "Absol|p5flag=nl|pos5=sup",
+            "p6": "Dutcher|p6flag=nl|pos6=sup"
+        },
+        {
+            "team": "wga",
+            "p1": "Durango|p1flag=nl|p1team=|pos1=",
+            "p2": "Dennis|p2flag=nl|p2team=|pos2=",
+            "p3": "Serpiente|p3flag=nl|p3team=|pos3=",
+            "p4": "Shir0|p4flag=nl|p4team=|pos4=",
+            "p5": "sMark25|p5flag=nl|p5team=|pos5="
+        },
+        {
+            "team": "ZCREW",
+            "p1": "zSeann|p1flag=nl|pos1=",
+            "p2": "ExoSnipez|p2flag=nl|pos2=",
+            "p3": "OpaKogel|p3flag=nl|pos3=",
+            "p4": "overwatch356|p4flag=nl|pos4=",
+            "p5": "ILOVEANIME|p5flag=nl|pos5="
+        },
+        {
+            "team": "bludbludblud",
+            "p1": "jay|p1flag=nl|pos1=|p1link=Jay (Dutch player)",
+            "p2": "Aiko|p2flag=nl|pos2=",
+            "p3": "LavaTank|p3flag=nl|pos3=",
+            "p4": "MansuMusa|p4flag=nl|pos4=",
+            "p5": "|p5flag=nl|pos5="
+        },
+        {
+            "team": "!play Hosselen|link=playHosselen(OWWC Trials Team)",
+            "p1": "Summertime|p1flag=nl|pos1=tank",
+            "p2": "NKZ|p2flag=nl|pos2=tank",
+            "p3": "OnlyLegs|p3flag=nl|pos3=dps",
+            "p4": "TissueBaker|p4flag=nl|pos4=dps",
+            "p5": "Schef|p5flag=nl|pos5=sup",
+            "p6": "HappySloth|p6flag=nl|pos6=sup"
+        },
+        {
+            "team": "Less than three",
+            "p1": "Yessica|p1flag=nl|pos1=",
+            "p2": "KoS|p2flag=nl|pos2=",
+            "p3": "Sylvan|p3flag=nl|pos3=",
+            "p4": "Wolftand|p4flag=nl|pos4=",
+            "p5": "boi|p5flag=nl|pos5=",
+            "p6": "phant0m|p6flag=nl|pos6="
+        },
+        {
+            "team": "Meta?",
+            "p1": "qpower5|p1flag=nl|pos1=tank",
+            "p2": "Smile|p2flag=nl|pos2=dps",
+            "p3": "Trippi|p3flag=nl|pos3=dps",
+            "p4": "NRG|p4flag=nl|pos4=flex|p4link=NRG (Dutch player)",
+            "p5": "Leejaestay|p5flag=nl|pos5=sup",
+            "p6": "SWOOMAII|p6flag=nl|pos6=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "",
+            "date": "February 24, 2023 - 18:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Voor 2de Plek Gaan Dan Maar|score=0}}",
+            "opponent2": "{{TeamOpponent|prodigy (dutch team)|score=2}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "February 24, 2023 - 18:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|max value|score=W}}",
+            "opponent2": "{{TeamOpponent|wga|score=L}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "February 24, 2023 - 18:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|zcrew|score=L}}",
+            "opponent2": "{{TeamOpponent|benelux assieklappers (trials team)|score=W}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "February 24, 2023 - 18:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|vanguard|score=L}}",
+            "opponent2": "{{TeamOpponent|koning willem fc|score=W}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "February 24, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|!play hosselen|score=W}}",
+            "opponent2": "{{TeamOpponent|prodigy (dutch team)|score=L}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "February 24, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|max value|score=W}}",
+            "opponent2": "{{TeamOpponent|less than three|score=L}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "February 24, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|meta?|score=L}}",
+            "opponent2": "{{TeamOpponent|benelux assieklappers (trials team)|score=W}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "February 24, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|koning willem fc|score=W}}",
+            "opponent2": "{{TeamOpponent|bludbludblud|score=L}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "February 24, 2023 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|!play hosselen|score=W}}",
+            "opponent2": "{{TeamOpponent|max value|score=L}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "February 24, 2023 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|benelux assieklappers (trials team)|score=W}}",
+            "opponent2": "{{TeamOpponent|koning willem fc|score=L}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "February 25, 2023 - 16:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|!play hosselen|score=W}}",
+            "opponent2": "{{TeamOpponent|benelux assieklappers (trials team)|score=L}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "February 24, 2023 - 18:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bludbludblud|score=FF}}",
+            "opponent2": "{{TeamOpponent|Voor 2de Plek Gaan Dan Maar|score=W}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "February 24, 2023 - 18:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|meta?|score=W}}",
+            "opponent2": "{{TeamOpponent|wga|score=L}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "February 24, 2023 - 18:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|less than three|score=W}}",
+            "opponent2": "{{TeamOpponent|zcrew|score=L}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "February 24, 2023 - 18:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|prodigy (dutch team)|score=W}}",
+            "opponent2": "{{TeamOpponent|vanguard|score=L}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "February 24, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Voor 2de Plek Gaan Dan Maar|score=2}}",
+            "opponent2": "{{TeamOpponent|meta?|score=0}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "February 24, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|less than three|score=L}}",
+            "opponent2": "{{TeamOpponent|prodigy (dutch team)|score=W}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "February 25, 2023 - 14:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|max value|score=L}}",
+            "opponent2": "{{TeamOpponent|Voor 2de Plek Gaan Dan Maar|score=W}}",
+            "optional": "R3M3="
+        },
+        {
+            "date": "February 25, 2023 - 14:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|koning willem fc|score=W}}",
+            "opponent2": "{{TeamOpponent|prodigy (dutch team)|score=L}}",
+            "optional": "R3M4="
+        },
+        {
+            "date": "February 25, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Voor 2de Plek Gaan Dan Maar|score=L}}",
+            "opponent2": "{{TeamOpponent|koning willem fc|score=W}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "February 25, 2023 - 17:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Benelux Assieklappers (trials team)|score=L}}",
+            "opponent2": "{{TeamOpponent|koning willem fc|score=W}}",
+            "optional": "R5M2="
+        },
+        {
+            "date": "February 26, 2023 - 16:30 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|!play hosselen|score=L}}",
+            "opponent2": "{{TeamOpponent|koning willem fc|score=W}}",
+            "optional": "R6M1="
+        }
+    ]
+}

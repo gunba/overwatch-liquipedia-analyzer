@@ -1,0 +1,369 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "Intel Inspires",
+            "name": "Intel Inspires Collegiate West Regional",
+            "shortname": "Collegiate West Regional",
+            "tickername": "Intel Inspires West Regional",
+            "icon": "AVGL Intel Inspires allmode.png",
+            "image": "AVGL Intel Inspires allmode.png",
+            "organizer": "AVGL",
+            "sponsor": "Intel<br>Republic of Gamers<br>CDW Education",
+            "type": "Online",
+            "country": "United States",
+            "game": "overwatch2",
+            "city": "",
+            "venue": "",
+            "format": "Swiss Stage<br>Double Elimination",
+            "prizepoolusd": "",
+            "sdate": "2022-12-10",
+            "edate": "2022-12-11",
+            "twitter": "AVGLofficial",
+            "web": "https://avgl.org/intel-inspires-hub",
+            "facebook": "AVGLofficial",
+            "instagram": "AVGLofficial",
+            "tiktok": "AVGL",
+            "twitch": "EsportsU",
+            "discord": "AVGLofficial",
+            "rulebook": "https://avgl.org/intel-inspires-hub/46264/events/rules",
+            "bracket": "https://avgl.org/intel-inspires-hub/46264/bracket",
+            "team_number": "15"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Rebel Gaming",
+            "p1": "wildwingBat|p1flag=us|pos1=flex",
+            "p2": "QwertyTumor|p2flag=us|pos2=dps",
+            "p3": "Hertz|p3flag=us|pos3=tank",
+            "p4": "Slamtaro|p4flag=us|pos4=tank",
+            "p5": "HaydoGo|p5flag=us|pos5=sup",
+            "p6": "Kernmaster|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "ASU Esports",
+            "p1": "Jman|p1flag=|pos1=dps",
+            "p2": "Anhoo|p2flag=us|pos2=dps",
+            "p3": "Aurora|p3flag=eg|pos3=tank",
+            "p4": "Anghell1c|p4flag=|pos4=sup",
+            "p5": "Scylla|p5flag=|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "PROJEK|t2c1flag=us|t2c1pos=manager"
+        },
+        {
+            "team": "SDSU Esports",
+            "p1": "VpSnipz|p1flag=|pos1=",
+            "p2": "Slushh|p2flag=|pos2=",
+            "p3": "dracarys|p3flag=|pos3=",
+            "p4": "scuffed|p4flag=us|pos4=",
+            "p5": "Ronin|p5flag=|pos5=|p5link=Ronin (American Player)"
+        },
+        {
+            "team": "GCU Esports",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "UCSD Gold",
+            "p1": "Przncess|p1flag=us|pos1=dps",
+            "p2": "Pakko|p2flag=us|pos2=dps",
+            "p3": "Zinnia|p3flag=us|pos3=dps",
+            "p4": "Rho|p4flag=us|pos4=tank",
+            "p5": "Frostedd|p5flag=us|pos5=tank",
+            "p6": "Hing3d|p6flag=us|pos6=sup",
+            "p7": "Minefan006|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "University of Hawaii",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Gaming Gators",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "CSULB Black",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "LMU Lions",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "UO Ducklings",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "CSULB Gold",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "EaUCD Gold",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Calgary Black",
+            "p1": "\u00e6stheticsock|p1flag=ca|p1team=|pos1=dps",
+            "p2": "Phy|p2flag=ca|p2team=|pos2=dps",
+            "p3": "Zen\u043ex|p3flag=ca|p3team=|pos3=dps",
+            "p4": "nave|p4flag=ca|p4team=|pos4=tank",
+            "p5": "sawk|p5flag=ca|p5team=|pos5=sup",
+            "p6": "SpudRug|p6flag=ca|p6team=|pos6=sup",
+            "p7": "SINNER!|p7flag=ca|p7team=|pos7=sup"
+        },
+        {
+            "team": "UCI Esports",
+            "p1": "Zeerocious|p1flag=|pos1=dps",
+            "p2": "Excal|p2flag=|pos2=dps",
+            "p3": "cyy|p3flag=|pos3=dps",
+            "p4": "Light|p4flag=|pos4=tank",
+            "p5": "Romani|p5flag=|pos5=tank",
+            "p6": "KapGod|p6flag=|pos6=sup",
+            "p7": "Otters|p7flag=|pos7=sup",
+            "p8": "Supreme|p8flag=|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "The|t2c1pos=coach",
+            "t2c2": "PG1|t2c2pos=manager",
+            "t2c3": "Renanthera|t2c3pos=manager"
+        },
+        {
+            "team": "UW Esports",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "December 11, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|csulb black|score=2}}",
+            "opponent2": "{{TeamOpponent|lmu lions|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 11, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gcu esports|score=2}}",
+            "opponent2": "{{TeamOpponent|calgary black|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 11, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ucsd varsity overwatch|score=2}}",
+            "opponent2": "{{TeamOpponent|eaucd gold|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "December 11, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|asu esports|score=2}}",
+            "opponent2": "{{TeamOpponent|uw esports|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "December 11, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gaming gators|score=0}}",
+            "opponent2": "{{TeamOpponent|UO Ducklings|score=2}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "December 11, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|sdsu esports|score=0}}",
+            "opponent2": "{{TeamOpponent|uci esports|score=2}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "December 11, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|university of hawaii|score=2}}",
+            "opponent2": "{{TeamOpponent|csulb gold|score=0}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "December 11, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|rebel gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|csulb black|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "December 11, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gcu esports|score=0}}",
+            "opponent2": "{{TeamOpponent|ucsd varsity overwatch|score=2}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "December 11, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|asu esports|score=2}}",
+            "opponent2": "{{TeamOpponent|UO Ducklings|score=0}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "December 11, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|uci esports|score=2}}",
+            "opponent2": "{{TeamOpponent|university of hawaii|score=0}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "December 11, 2022 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|rebel gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|ucsd varsity overwatch|score=1}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "December 11, 2022 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|asu esports|score=1}}",
+            "opponent2": "{{TeamOpponent|uci esports|score=2}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "December 11, 2022 - 21:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|rebel gaming|score=0}}",
+            "opponent2": "{{TeamOpponent|uci esports|score=3}}",
+            "optional": "R6M1="
+        },
+        {
+            "date": "December 11, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|calgary black|score=0}}",
+            "opponent2": "{{TeamOpponent|eaucd gold|score=2}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "December 11, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|uw esports|score=0}}",
+            "opponent2": "{{TeamOpponent|gaming gators|score=2}}",
+            "optional": "R1M9="
+        },
+        {
+            "date": "December 11, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|sdsu esports|score=2}}",
+            "opponent2": "{{TeamOpponent|csulb gold|score=0}}",
+            "optional": "R1M10="
+        },
+        {
+            "date": "December 11, 2022 - 18:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|university of hawaii|score=2}}",
+            "opponent2": "{{TeamOpponent|lmu lions|score=0}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "December 11, 2022 - 18:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|UO Ducklings|score=0}}",
+            "opponent2": "{{TeamOpponent|eaucd gold|score=2}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "December 11, 2022 - 18:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gcu esports|score=2}}",
+            "opponent2": "{{TeamOpponent|gaming gators|score=0}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "December 11, 2022 - 18:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|csulb black|score=2}}",
+            "opponent2": "{{TeamOpponent|sdsu esports|score=1}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "December 11, 2022 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|university of hawaii|score=0}}",
+            "opponent2": "{{TeamOpponent|eaucd gold|score=2}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "December 11, 2022 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gcu esports|score=2}}",
+            "opponent2": "{{TeamOpponent|csulb black|score=1}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "December 11, 2022 - 20:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ucsd varsity overwatch|score=2}}",
+            "opponent2": "{{TeamOpponent|eaucd gold|score=0}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "December 11, 2022 - 20:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|asu esports|score=2}}",
+            "opponent2": "{{TeamOpponent|gcu esports|score=0}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "December 11, 2022 - 21:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ucsd varsity overwatch|score=0}}",
+            "opponent2": "{{TeamOpponent|asu esports|score=2}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "December 11, 2022 - 22:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|rebel gaming|score=0}}",
+            "opponent2": "{{TeamOpponent|asu esports|score=2}}",
+            "optional": "R6M2="
+        },
+        {
+            "date": "December 11, 2022 - 23:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|uci esports|score=3}}",
+            "opponent2": "{{TeamOpponent|asu esports|score=0}}",
+            "optional": "R7M1="
+        }
+    ]
+}

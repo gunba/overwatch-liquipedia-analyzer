@@ -1,0 +1,48 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch League 2021 - Chinese All-Star Showmatch",
+            "shortname": "OWL 2021 - Chinese All-Star Showmatch",
+            "image": "Overwatch League June Joust.png",
+            "series": "Overwatch League",
+            "abbreviation": "OWL",
+            "icon": "Overwatch League allmode.png",
+            "tickername": "OWL 2021 - Chinese All-Star Showmatch",
+            "organizer": "Blizzard Entertainment",
+            "sponsor": "[https://www.cheezit.com/en_US/products/grooves/cheez-it-grooves-bold-cheddar-product.html Cheez-It Grooves]<br>[https://www.cocacola.com Coca-Cola]<br>[https://www.ibm.com/sports/overwatchleague/ IBM]<br>[https://www.indeed.com/ Indeed]<br>[https://www.netapp.com/industries/game-development/ NetApp]<br>[https://www.pringles.com/us/products/wavy.html Pringles Wavy]<br>[https://www.xfinity.com/esports Xfinity]<br>[https://www.statefarm.com/ State Farm]<br>[https://www.t-mobile.com/ T-Mobile]<br>[https://teamspeak.com/en/ TeamSpeak]",
+            "patch": "1.59.1",
+            "type": "Offline",
+            "country": "China",
+            "city": "Hangzhou",
+            "venue": "[https://en.future-mxwl.com/venue?id=1 Hangzhou Future Sci-Tech City Academic Exchange Center]",
+            "format": "",
+            "prizepoolusd": "",
+            "date": "2021-06-06",
+            "liquipediatier": "1|liquipediatiertype=Showmatch",
+            "blizzardtier": "owl",
+            "game": "overwatch",
+            "web": "https://overwatchleague.com/en-us/",
+            "twitch": "overwatchleague",
+            "twitter": "overwatchleague",
+            "facebook": "overwatchleague",
+            "youtube": "channel/UCiAInBL9kUzz1XRxk66v-gw",
+            "instagram": "overwatchleague",
+            "weibo": "overwatchleague",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "June 6, 2021 - 20:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Team Yingchao}}",
+            "opponent2": "{{TeamOpponent|Team Qihang}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=2|score2=3|winner=2}}",
+            "map3": "{{Map|map=Rialto|mode=Escort|score1=4|score2=3|winner=1}}",
+            "vod": "https://www.bilibili.com/video/BV1tK4y1X79E/?p=11"
+        }
+    ]
+}

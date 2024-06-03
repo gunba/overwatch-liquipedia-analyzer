@@ -1,0 +1,198 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "OSU Esports Winter Snowdown",
+            "image": "Oregon State 2021 allmode.png",
+            "icon": "Oregon State 2021 allmode.png",
+            "shortname": "OSU Esports Winter Snowdown",
+            "tickername": "OSU Esports Winter Snowdown",
+            "organizer": "Oregon State Esports",
+            "organizer-link": "https://twitter.com/OSUEsports",
+            "type": "Online",
+            "country": "North America",
+            "format": "Single Elimination",
+            "game": "overwatch2",
+            "prizepoolusd": "150",
+            "sdate": "2023-03-09",
+            "edate": "2023-03-11",
+            "twitter": "OSUEsports",
+            "bracket": "https://battlefy.com/oregon-state-university-esports/osu-esports-winter-snowdown-overwatch/640192fa13f8ae372c938e84/info?infoTab=details",
+            "team_number": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Ball Brigade",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "Oregon State Esports",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "I don't get Bitches i get elo",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "brown beans",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "Wildcat Gaming",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "University of Oregon",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "lebrons legacy",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "RAY STRIKERS",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "Ctrl + Alt + Defeat",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "Almost Late kekw",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|RAY STRIKERS|score=0}}",
+            "opponent2": "{{TeamOpponent|lebrons legacy|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ctrl + Alt + Defeat|score=2}}",
+            "opponent2": "{{TeamOpponent|Almost Late kekw|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Oregon State Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|lebrons legacy|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|I don't get Bitches i get elo|score=1}}",
+            "opponent2": "{{TeamOpponent|Ball Brigade|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|brown beans|score=2}}",
+            "opponent2": "{{TeamOpponent|ctrl + alt + defeat|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Wildcat Gaming|score=1}}",
+            "opponent2": "{{TeamOpponent|University of Oregon|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|oregon state esports|score=0}}",
+            "opponent2": "{{TeamOpponent|ball brigade|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|brown beans|score=0}}",
+            "opponent2": "{{TeamOpponent|university of oregon|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ball brigade|score=0}}",
+            "opponent2": "{{TeamOpponent|university of oregon|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        }
+    ]
+}

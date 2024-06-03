@@ -1,0 +1,1878 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch Rivals",
+            "tickername": "Overwatch Rivals",
+            "liquipediatier": "4",
+            "image": "Overwatch Rivals allmode.png",
+            "series": "",
+            "shortname": "Rivals",
+            "icon": "",
+            "organizer": "Bazzanella",
+            "organizer2": "Lokjiiu",
+            "organizer3": "Mene",
+            "format": "'''Group Stage''':<br>Round Robin<br>'''Playoffs''':<br>Double Elimination",
+            "type": "Online",
+            "country": "South America",
+            "game": "overwatch2",
+            "sdate": "2023-07-22",
+            "edate": "2023-09-17",
+            "prizepoolusd": "405",
+            "twitter": "owrivals",
+            "twitch": "overwatchrivals",
+            "youtube": "@OverwatchRivals",
+            "bracket": "https://challonge.com/OWRivals",
+            "team_number": "10"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "And They Say",
+            "p1": "Svenko",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Cabelada",
+            "p2flag": "br",
+            "pos2": "dps",
+            "p3": "TheSeriusGui",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Onda",
+            "p4flag": "",
+            "pos4": "sup",
+            "p5": "xfel",
+            "p5flag": "",
+            "pos5": "sup",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "War Pigs",
+            "p1": "Ludwig",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "ShawnOFF",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Hiro",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "Lendario",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Dalca",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "Nyohl",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "Pardal",
+            "p7flag": "",
+            "pos7": "sup",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Os Jorges",
+            "p1": "Nitro",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Fanp",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Silveira",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Neil",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "P6ke",
+            "p5flag": "",
+            "pos5": "sup",
+            "p5link": "Poke",
+            "p6": "Froakie",
+            "p6flag": "",
+            "pos6": "sup",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Ping Pong",
+            "p1": "Kosuta",
+            "p1flag": "br",
+            "pos1": "dps",
+            "p2": "Edigas",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Yax",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Luvico",
+            "p4flag": "br",
+            "pos4": "tank",
+            "p5": "Luppo",
+            "p5flag": "br",
+            "pos5": "tank",
+            "p5link": "MeiasLuppo",
+            "p6": "bazzanella",
+            "p6flag": "br",
+            "pos6": "sup",
+            "p7": "xii",
+            "p7flag": "br",
+            "pos7": "sup",
+            "p7link": "XII",
+            "t2title": "Staff",
+            "t2c1": "ComeToBrazil",
+            "t2c1flag": "br",
+            "t2c1pos": "Coach",
+            "t2c2": "zigoss",
+            "t2c2flag": "br",
+            "t2c2pos": "Coach",
+            "qualifier": "Invited",
+            "inotes": "{{NoteBig",
+            "n1": "August 23rd - {{player|Luppo|flag=br|pos=tank|link=MeiasLuppo}} and {{player|zigoss|flag=br}} as a coach joins from [[Sprinterz]]."
+        },
+        {
+            "team": "Ping Diffn't",
+            "p1": "debout",
+            "p1flag": "cl",
+            "pos1": "dps",
+            "p2": "RAAM",
+            "p2flag": "cl",
+            "pos2": "dps",
+            "p3": "Frack",
+            "p3flag": "cl",
+            "pos3": "tank",
+            "p4": "PAPO",
+            "p4flag": "cl",
+            "pos4": "sup",
+            "p5": "Hurd",
+            "p5flag": "ar",
+            "pos5": "sup",
+            "p6": "ORACLE",
+            "p6flag": "ar",
+            "pos6": "flex",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Sprinterz",
+            "p1": "REACH",
+            "p1flag": "br",
+            "pos1": "dps",
+            "p2": "C1BER",
+            "p2flag": "br",
+            "pos2": "dps",
+            "p3": "Baskerville",
+            "p3flag": "pe",
+            "pos3": "tank",
+            "p4": "Luppo",
+            "p4flag": "br",
+            "pos4": "tank",
+            "p4leave": "true",
+            "p4link": "MeiasLuppo",
+            "p5": "Monster",
+            "p5flag": "br",
+            "pos5": "sup",
+            "p5link": "Monster (Brazilian Player)",
+            "p6": "Rasuke",
+            "p6flag": "br",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "zigoss",
+            "t2c1flag": "br",
+            "t2c1pos": "Coach",
+            "t2c1leave": "true",
+            "qualifier": "[[Overwatch Rivals/Qualifier|Qualifiers]]",
+            "placement": "1",
+            "inotes": "{{NoteBig",
+            "n1": "August 23rd - {{player|Luppo|flag=br|pos=tank|link=MeiasLuppo}} and {{player|zigoss|flag=br}} leaves for [[Ping Pong]]."
+        },
+        {
+            "team": "Monkey Gaming",
+            "p1": "Subzero",
+            "p1flag": "br",
+            "pos1": "dps",
+            "p2": "yagogarzon",
+            "p2flag": "br",
+            "pos2": "dps",
+            "p3": "SNEAZY",
+            "p3flag": "br",
+            "pos3": "dps",
+            "p4": "Miko",
+            "p4flag": "br",
+            "pos4": "tank",
+            "p5": "I505I",
+            "p5flag": "br",
+            "pos5": "tank",
+            "p6": "ANS",
+            "p6flag": "br",
+            "pos6": "sup",
+            "p6link": "ANS (Brazilian Player)",
+            "p7": "EZDAV",
+            "p7flag": "br",
+            "pos7": "sup",
+            "qualifier": "[[Overwatch Rivals/Qualifier|Qualifiers]]",
+            "placement": "2"
+        },
+        {
+            "team": "DRIVERS",
+            "p1": "Shin",
+            "p1flag": "br",
+            "pos1": "dps",
+            "p1link": "",
+            "p2": "IAG18",
+            "p2flag": "br",
+            "pos2": "dps",
+            "p3": "Gaspih",
+            "p3flag": "ar",
+            "pos3": "dps",
+            "p4": "Kani",
+            "p4flag": "br",
+            "pos4": "tank",
+            "p5": "Wasizy",
+            "p5flag": "br",
+            "pos5": "tank",
+            "p6": "Lokjiiu",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "Starchild",
+            "p7flag": "br",
+            "pos7": "sup",
+            "p8": "Mene",
+            "p8flag": "br",
+            "pos8": "sup",
+            "qualifier": "[[Overwatch Rivals/Qualifier|Qualifiers]]",
+            "placement": "3"
+        },
+        {
+            "team": "Chilean Earthquake",
+            "p1": "B3RT",
+            "p1flag": "cl",
+            "pos1": "dps",
+            "p2": "Jeongyeon",
+            "p2flag": "cl",
+            "pos2": "dps",
+            "p3": "Rodrigo5d",
+            "p3flag": "pe",
+            "pos3": "tank",
+            "p4": "akuah",
+            "p4flag": "cl",
+            "pos4": "sup",
+            "p5": "volition",
+            "p5flag": "cl",
+            "pos5": "sup",
+            "qualifier": "[[Overwatch Rivals/Qualifier|Qualifiers]]",
+            "placement": "4"
+        },
+        {
+            "team": "SO NO PELO FC",
+            "p1": "Minho",
+            "p1flag": "br",
+            "pos1": "dps",
+            "p2": "For7",
+            "p2flag": "br",
+            "pos2": "dps",
+            "p3": "JGG",
+            "p3flag": "br",
+            "pos3": "tank",
+            "p4": "Zerfx01",
+            "p4flag": "br",
+            "pos4": "tank",
+            "p5": "RICO",
+            "p5flag": "br",
+            "pos5": "sup",
+            "p6": "mav",
+            "p6flag": "br",
+            "pos6": "sup",
+            "p7": "Dabliubee",
+            "p7flag": "br",
+            "pos7": "flex",
+            "p8": "DualShock",
+            "p8flag": "br",
+            "pos8": "flex",
+            "qualifier": "[[Overwatch Rivals/Qualifier|Qualifiers]]",
+            "placement": "5"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Os Jorges",
+            "opponent1_score": 2,
+            "opponent2": "SO NO PELO FC",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ping Diffn't",
+            "opponent1_score": 2,
+            "opponent2": "Sprinterz",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SO NO PELO FC",
+            "opponent1_score": 1,
+            "opponent2": "Ping Diffn't",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "And They Say",
+            "opponent1_score": 1,
+            "opponent2": "Os Jorges",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ping Diffn't",
+            "opponent1_score": 0,
+            "opponent2": "And They Say",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sprinterz",
+            "opponent1_score": 0,
+            "opponent2": "SO NO PELO FC",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "And They Say",
+            "opponent1_score": 2,
+            "opponent2": "Sprinterz",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M7="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Os Jorges",
+            "opponent1_score": 1,
+            "opponent2": "Ping Diffn't",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M8="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sprinterz",
+            "opponent1_score": 0,
+            "opponent2": "Os Jorges",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M9="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SO NO PELO FC",
+            "opponent1_score": 0,
+            "opponent2": "And They Say",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M10="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SO NO PELO FC",
+            "opponent1_score": 0,
+            "opponent2": "Os Jorges",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M11="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sprinterz",
+            "opponent1_score": 2,
+            "opponent2": "Ping Diffn't",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M12="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ping Diffn't",
+            "opponent1_score": 2,
+            "opponent2": "SO NO PELO FC",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M13="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Os Jorges",
+            "opponent1_score": 0,
+            "opponent2": "And They Say",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M14="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "And They Say",
+            "opponent1_score": 2,
+            "opponent2": "Ping Diffn't",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M15="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SO NO PELO FC",
+            "opponent1_score": 0,
+            "opponent2": "Sprinterz",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M16="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sprinterz",
+            "opponent1_score": 0,
+            "opponent2": "And They Say",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M17="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ping Diffn't",
+            "opponent1_score": 0,
+            "opponent2": "Os Jorges",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M18="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Os Jorges",
+            "opponent1_score": 2,
+            "opponent2": "Sprinterz",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M19="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "And They Say",
+            "opponent1_score": 2,
+            "opponent2": "SO NO PELO FC",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M20="
+        },
+        {
+            "bestof": "3",
+            "date": "July 22, 2023 - 15:00",
+            "date_timezone": "BRT",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Ping Pong",
+            "opponent1_score": 2,
+            "opponent2": "DRIVERS",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "M1="
+        },
+        {
+            "bestof": "3",
+            "date": "July 22, 2023 - 17:00",
+            "date_timezone": "BRT",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Chilean Earthquake",
+            "opponent1_score": 0,
+            "opponent2": "Monkey Gaming",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M2="
+        },
+        {
+            "bestof": "3",
+            "date": "July 23, 2023 - 15:00",
+            "date_timezone": "BRT",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "DRIVERS",
+            "opponent1_score": 2,
+            "opponent2": "Monkey Gaming",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "July 23, 2023 - 18:00",
+            "date_timezone": "BRT",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "DRIVERS|score=",
+            "opponent2": "Chilean Earthquake|score=",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "M4="
+        },
+        {
+            "bestof": "3",
+            "date": "July 23, 2023 - 19:00",
+            "date_timezone": "BRT",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Ping Pong|score=",
+            "opponent2": "Monkey Gaming|score=",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "M5="
+        },
+        {
+            "bestof": "3",
+            "date": "July 29, 2023 - 15:00",
+            "date_timezone": "BRT",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "DRIVERS",
+            "opponent1_score": 0,
+            "opponent2": "War Pigs",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "3",
+            "date": "July 29, 2023 - 16:00",
+            "date_timezone": "BRT",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Chilean Earthquake",
+            "opponent1_score": 0,
+            "opponent2": "Ping Pong",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "M7="
+        },
+        {
+            "bestof": "3",
+            "date": "July 29, 2023 - 17:00",
+            "date_timezone": "BRT",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "War Pigs",
+            "opponent1_score": 2,
+            "opponent2": "Monkey Gaming",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": ""
+            },
+            "optional": "M8="
+        },
+        {
+            "bestof": "3",
+            "date": "July 29, 2023 - 18:00",
+            "date_timezone": "BRT",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "War Pigs",
+            "opponent1_score": 1,
+            "opponent2": "Ping Pong",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "5",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "optional": "M9="
+        },
+        {
+            "bestof": "3",
+            "date": "July 30, 2023 - 15:00",
+            "date_timezone": "BRT",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Chilean Earthquake|score=",
+            "opponent2": "War Pigs|score=",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M10="
+        },
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Chilean Earthquake",
+            "opponent1_score": 0,
+            "opponent2": "Drivers",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M11="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Monkey Gaming",
+            "opponent1_score": 0,
+            "opponent2": "Ping Pong",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M12="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Ping Pong",
+            "opponent1_score": 2,
+            "opponent2": "Chilean Earthquake",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M13="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Drivers",
+            "opponent1_score": 0,
+            "opponent2": "War Pigs",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M14="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "War Pigs",
+            "opponent1_score": 1,
+            "opponent2": "Ping Pong",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M15="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Chilean Earthquake",
+            "opponent1_score": 0,
+            "opponent2": "Monkey Gaming",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M16="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Monkey Gaming",
+            "opponent1_score": 0,
+            "opponent2": "War Pigs",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M17="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Ping Pong",
+            "opponent1_score": 0,
+            "opponent2": "Drivers",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M18="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Drivers",
+            "opponent1_score": 2,
+            "opponent2": "Monkey Gaming",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M19="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "War Pigs",
+            "opponent1_score": 2,
+            "opponent2": "Chilean Earthquake",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M20="
+        },
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "War Pigs|score=W",
+            "opponent2": "Ping Diffn't|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Os Jorges",
+            "opponent2": "Drivers",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "W",
+                "score2": "FF",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "And They Say",
+            "opponent2": "War Pigs",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "81.33m",
+                "score2": "81.32m",
+                "winner": "1"
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Ping Pong",
+            "opponent2": "Os Jorges",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "116.65m",
+                "score2": "97.50m",
+                "winner": "1"
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "September 10, 2023 - 15:30",
+            "date_timezone": "CDT",
+            "bestof": "7",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "And They Say",
+            "opponent2": "Ping Pong",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "77.95m",
+                "score2": "71.67m",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map6": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map7": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Os Jorges|score=W",
+            "opponent2": "Ping Diffn't|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "War Pigs",
+            "opponent2": "Drivers",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Os Jorges",
+            "opponent1_score": 2,
+            "opponent2": "War Pigs",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "90.23m",
+                "score2": "90.24m",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "September 17, 2023 - 17:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "Ping Pong",
+            "opponent2": "War Pigs",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "63.10m",
+                "score2": "128.08",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "September 17, 2023 - 19:30",
+            "date_timezone": "CDT",
+            "bestof": "7",
+            "youtube": "",
+            "twitch": "overwatchrivals",
+            "opponent1": "And They Say",
+            "opponent2": "War Pigs",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "89.01",
+                "score2": "89.02",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map6": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

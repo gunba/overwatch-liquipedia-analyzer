@@ -1,0 +1,145 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Monthly",
+            "abbreviation": "MGA",
+            "name": "MGA Community Overwatch Series #15",
+            "shortname": "MGA COS #15",
+            "tickername": "MGA Community Overwatch Series #15",
+            "icon": "MGA USA League icon.png",
+            "image": "MGA USA League.png",
+            "series": "MGA Community Overwatch Series",
+            "organizer": "MSI",
+            "organizer-link": "https://us.msi.com",
+            "type": "Online",
+            "country": "North America",
+            "format": "Single Elimination",
+            "prizepoolusd": "840",
+            "date": "2021-03-27",
+            "rulebook": "https://battlefy.com/msi-gaming-arena/840-usd-mga-community-overwatch-series-15/5fe0f3d370a8d6562e948fad/info?infoTab=rules",
+            "bracket": "https://battlefy.com/msi-gaming-arena/840-usd-mga-community-overwatch-series-15/5fe0f3d370a8d6562e948fad/stage/605fb9451d5ed13ba058fcf9/bracket/",
+            "team_number": "19",
+            "previous": "MGA Community Overwatch Series/14{{!}}#14",
+            "next": "MGA Community Overwatch Series/16{{!}}#16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Insomniac",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Oracle Hydrus",
+            "p1": "Thebrad|p1flag=|pos1=",
+            "p2": "Panzer|p2flag=|pos2=",
+            "p3": "Brub3r|p3flag=|pos3=",
+            "p4": "Johnno|p4flag=|pos4=",
+            "p5": "Tenxr|p5flag=|pos5=",
+            "p6": "Xaphan|p6flag=|pos6=",
+            "p7": "Creep|p7flag=|pos7="
+        },
+        {
+            "team": "Oracle Draco",
+            "p1": "Safe|p1flag=|pos1=",
+            "p2": "Ability|p2flag=|pos2=",
+            "p3": "Mayh3m|p3flag=|pos3=",
+            "p4": "Lugia|p4flag=|pos4=",
+            "p5": "Dyo2000|p5flag=|pos5=",
+            "p6": "Devil|p6flag=|pos6="
+        },
+        {
+            "team": "Team Nebula",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Rolling Ronalds",
+            "p1": "VoidKit|p1flag=us|pos1=dps",
+            "p2": "Mystx|p2flag=us|pos2=dps",
+            "p3": "Seelder|p3flag=us|pos3=dps",
+            "p4": "DEEP|p4flag=us|pos4=tank",
+            "p5": "MovingFish7|p5flag=us|pos5=tank",
+            "p6": "p1nhead|p6flag=us|pos6=sup",
+            "p7": "Onda|p7flag=br|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "TFBuffalo|t2c1flag=us|t2c1pos=manager"
+        },
+        {
+            "team": "Abrams Hebrew Jewish Academy",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Solstice Pyra",
+            "p1": "AsPeCT|p1flag=us|pos1=dps",
+            "p2": "Lambent|p2flag=us|pos2=dps",
+            "p3": "Khosrow|p3flag=us|pos3=tank",
+            "p4": "Foefy|p4flag=ca|pos4=tank",
+            "p5": "Joey|p5link=Joey (American Player)|p5flag=us|pos5=sup",
+            "p6": "freNoc|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Team Raft Ride",
+            "p1": "MBS1|pos1=dps",
+            "p2": "Kendric|p2flag=us|pos2=dps",
+            "p3": "Infekted|p3flag=us|pos3=tank",
+            "p4": "Beluga|p4flag=us|pos4=tank",
+            "p5": "PARISTONH\u0197LL|p5flag=us|pos5=sup",
+            "p6": "Michelangelo|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "debit|t2c1pos=Manager"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Team Raft Ride",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "Insomniac",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Team Raft Ride",
+            "score2": "1",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "Oracle Hydrus",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "Team Raft Ride",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "Oracle Hydrus",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "Rolling Ronalds",
+            "score2": "1",
+            "win2": "1",
+            "key": "R3D1",
+            "team1": "Oracle Draco",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

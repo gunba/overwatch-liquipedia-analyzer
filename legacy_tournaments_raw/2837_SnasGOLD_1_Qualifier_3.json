@@ -1,0 +1,199 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Qualifier",
+            "series": "SnasGOLD",
+            "abbreviation": "SnasGOLD",
+            "name": "SnasGOLD #1 - Qualifier 3",
+            "ticketname": "SnasGOLD #1 Q3",
+            "image": "SnasGOLD logo.png",
+            "icon": "SnasGOLD small.png",
+            "organizer": "SnasGG",
+            "organizer-link": "http://www.snasgg.com/",
+            "organizer2": "",
+            "sponsor": "[http://www.redcomputer.es/ Red Computer]<br>[https://estreams.tv/ estreams.tv]",
+            "type": "Online",
+            "country": "Spain",
+            "format": "",
+            "game": "overwatch",
+            "prizepool": "",
+            "localcurrency": "eur",
+            "prizepoolusd": "",
+            "date": "2017-02-18",
+            "web": "http://www.snasgg.com/",
+            "twitch": "regorsnas",
+            "twitter": "snasgg",
+            "bracket": "https://challonge.com/snasgold_qualy3",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Wizards Club",
+            "p1": "st0ne|p1flag=es",
+            "p2": "scatmo|p2flag=es",
+            "p3": "roscor|p3flag=es",
+            "p4": "lork|p4flag=es",
+            "p5": "ZoK3R|p5flag=es",
+            "p6": "kurch|p6flag=es",
+            "c": "Soun|cflag=es"
+        },
+        {
+            "team": "NoName!",
+            "p1": "Woolridge|p1flag=es",
+            "p2": "Plagi0|p2flag=es",
+            "p3": "Foxt",
+            "p4": "Doce|p4flag=es",
+            "p5": "Rod|p5flag=pt",
+            "p6": "AllteR"
+        },
+        {
+            "team": "AllSIX",
+            "p1": "Thorim|p1flag=es",
+            "p2": "NPChopito|p2flag=es",
+            "p3": "Magulano|p3flag=es",
+            "p4": "iN\u00e9mesis|p4flag=es",
+            "p5": "ToniPatro|p5flag=es",
+            "p6": "xRechy|p6flag=es"
+        },
+        {
+            "team": "MonsterGaming",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "Myrtia Wolves",
+            "p1": "deeviil|p1flag=es",
+            "p2": "Renever|p2flag=es",
+            "p3": "Fructuoso|p3flag=es",
+            "p4": "pmca96 |p4flag=es",
+            "p5": "CiroMT|p5flag=es",
+            "p6": "oversalted |p6flag=es"
+        },
+        {
+            "team": "WeAreSwedish",
+            "p1": "Baakoo|p1flag=es",
+            "p2": "Aryll|p2flag=es",
+            "p3": "Denh3rk|p3flag=es",
+            "p4": "Gorzz|p4flag=es",
+            "p5": "Corocot4|p5flag=es",
+            "p6": "Desouky|p6flag=es"
+        },
+        {
+            "team": "Redwolf",
+            "p1": "Mengue|p1flag=es",
+            "p2": "SolmyR|p2flag=es",
+            "p3": "Bubbulefou|p3flag=es",
+            "p4": "Networkz|p4flag=es",
+            "p5": "aRCaNG3LoN|p5flag=es",
+            "p6": "NaDieK|p6flag=es"
+        },
+        {
+            "team": "Ayana Team",
+            "p1": "Skorje|p1flag=es",
+            "p2": "Qubix|p2flag=es",
+            "p3": "Ezzy|p3flag=es",
+            "p4": "Molinathor|p4flag=es",
+            "p5": "Poncharro|p5flag=es",
+            "p6": "Ciclon|p6flag=es"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "date": "February 18, 2017 - 17:00 {{Abbr/CET}}",
+            "stream": "",
+            "finished": "true",
+            "team2": "monstergaming",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "myrtia wolves",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "February 18, 2017 - 18:00 {{Abbr/CET}}",
+            "stream": "",
+            "finished": "true",
+            "team2": "ayana team",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D3",
+            "team1": "noname!",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "February 18, 2017 - 19:00 {{Abbr/CET}}",
+            "stream": "",
+            "finished": "true",
+            "team2": "redwolf",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D5",
+            "team1": "allsix",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "February 18, 2017 - 20:00 {{Abbr/CET}}",
+            "stream": "",
+            "finished": "true",
+            "team2": "wizards club",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D7",
+            "team1": "weareswedish",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "February 18, 2017 - 21:00 {{Abbr/CET}}",
+            "stream": "",
+            "finished": "true",
+            "team2": "noname!",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2W1",
+            "team1": "myrtia wolves",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "February 18, 2017 - 22:00 {{Abbr/CET}}",
+            "stream": "",
+            "finished": "true",
+            "team2": "wizards club",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2W3",
+            "team1": "redwolf",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "date": "February 18, 2017 - 23:00 {{Abbr/CET}}",
+            "stream": "",
+            "finished": "true",
+            "team2": "wizards club",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R3W1",
+            "team1": "noname!",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

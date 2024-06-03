@@ -1,0 +1,170 @@
+{{Infobox league
+|liquipediatier=3
+|name=COMFEST Tournament
+|shortname=COMFEST Tournament
+|tickername=COMFEST Tournament
+|icon=COMFEST Tournament allmode.png
+|image=COMFEST Tournament allmode.png
+|organizer=QUADRA
+|organizer-link=https://quadrastores.com/
+|sponsor=[https://www.nvidia.com/ NVIDIA]
+|sponsor2=[https://www.corsair.com/ CORSAIR]
+|sponsor3=[https://www.elgato.com/ Elgato]
+|sponsor4=[https://www.gigabyte.com/ GIGABYTE]
+|sponsor5=[https://www.philips.com/ Philips]
+|type=Offline
+|country=Kuwait
+|city=Kuwait
+|venue=‪Sirbb Circuit‬
+|game=overwatch2
+|format=Single Elimination
+|prizepoolusd=3000
+|sdate=2022-11-24
+|edate=2022-11-26
+|twitter=quadrastores
+|youtube=Quadra
+|bracket=https://challonge.com/id8f655d
+|team_number=20
+}}
+
+==Information==
+===Format===
+*Single Elimination Bracket
+**Grand Final is {{Abbr/Bo3}}, all other matches are {{Abbr/Bo1}}
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=ar
+|position=Commentator
+|b1=M6Pro|b1flag=kw|b1name=Mohammad Najm
+|b2=Mao|b2flag=kw|b2name=Mohammad AlTarrah|b2link=pubgmobile:Mao
+}}
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=2000}}
+|{{Slot|usdprize=1000}}
+}}
+
+==Top 8 Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=The Flame
+|p1=Turki|p1flag=kw|pos1=dps
+|p2=Ir1s|p2flag=kw|pos2=dps|p2link=Ir1s (Kuwaiti Player) 
+|p3=f7n|p3flag=kw|pos3=tank
+|p4=BlackLead|p4flag=kw|pos4=sup
+|p5=Rercy|p5flag=sa|pos5=sup
+}}
+{{TeamCard
+|team=Frsh
+|p1=DiaBLo|p1flag=kw|pos1=dps
+|p2=FANKDA|p2flag=kw|pos2=dps
+|p3=DeadLine|pos3=tank
+|p4=Miracle|p4flag=kw|pos4=sup
+|p5=SnipKw|pos5=sup
+}}
+{{TeamCard
+|team=Nightmare|link=Nightmare (Kuwaiti Team)
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=83 UMBRAS
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=حق الضحك
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Bokémon
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Warriors|link=Warriors (Kuwaiti Team)
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Ml7|link=Ml7 (Kuwaiti Team)
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Top 8 Results==
+{{Bracket|Bracket/8|id=gJEicbrOom
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=1
+	|date=November 26, 2022
+    |opponent1={{TeamOpponent|Frsh|score=1}}
+    |opponent2={{TeamOpponent|حق الضحك|score=0}}
+}}
+|R1M2={{Match
+	|date=November 26, 2022
+    |opponent1={{TeamOpponent|Bokémon|score=0}}
+    |opponent2={{TeamOpponent|Nightmare (Kuwaiti Team)|score=1}}
+}}
+|R1M3={{Match
+	|date=November 26, 2022
+    |opponent1={{TeamOpponent|Warriors (Kuwaiti Team)|score=0}}
+    |opponent2={{TeamOpponent|The Flame|score=1}}
+}}
+|R1M4={{Match
+	|date=November 26, 2022
+    |opponent1={{TeamOpponent|Ml7 (Kuwaiti Team)|score=0}}
+    |opponent2={{TeamOpponent|83 UMBRAS|score=1}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|date=November 26, 2022
+    |opponent1={{TeamOpponent|Frsh|score=1}}
+    |opponent2={{TeamOpponent|Nightmare (Kuwaiti Team)|score=0}}
+}}
+|R2M2={{Match
+	|date=November 26, 2022
+    |opponent1={{TeamOpponent|The Flame|score=1}}
+    |opponent2={{TeamOpponent|83 UMBRAS|score=0}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|bestof=3
+	|date=November 26, 2022
+    |opponent1={{TeamOpponent|Frsh|score=}}
+    |opponent2={{TeamOpponent|The Flame|score=}}
+	|map1={{Map|map=King's Row|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Midtown|mode=Hybrid|score1=2|score2=3|winner=2}}
+	|vod=https://youtu.be/Vfv65aU0UwI?t=1455
+}}
+}}
+
+==Additional Content==
+===Country Representation===
+{{Country representation}}

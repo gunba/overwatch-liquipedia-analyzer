@@ -1,0 +1,171 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "name": "Duck Squad Blitz #17",
+            "shortname": "League Trolli Duck Squad Blitz 17",
+            "tickername": "League Trolli Duck Squad Blitz #17",
+            "icon": "LeagueTrolli.png",
+            "image": "LeagueTrolli.png",
+            "series": "League Trolli",
+            "organizer": "Duck Squad",
+            "organizer2": "League Trolli",
+            "sponsor": "[https://www.trolli.com/ Trolli]",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "100",
+            "date": "2023-11-24",
+            "twitter": "DuckSquadNA",
+            "web": "https://leaguetrolli.challonge.com/",
+            "discord": "5dTxtYJaT8",
+            "rulebook": "https://docs.google.com/document/d/1GWPwg70BONoSKSjSRn_huvZ2OgBzjMcPfoMb_46GPDw/edit",
+            "bracket": "https://leaguetrolli.challonge.com/dsblitz17#",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Chill Stoners",
+            "p1": "azruf|p1flag=ma|pos1=dps",
+            "p2": "Elsie|p2flag=us|pos2=dps",
+            "p3": "sawhill|p3flag=|pos3=tank",
+            "p4": "KQA|p4flag=us|pos4=sup",
+            "p5": "Scuffed|p5flag=us|pos5=sup"
+        },
+        {
+            "team": "Pristine Guardians",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "glue eaterz",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Inks",
+            "p1": "nvm1|p1flag=|pos1=dps",
+            "p2": "Karmez|p2flag=us|pos2=dps",
+            "p3": "Pantera|p3flag=us|pos3=tank",
+            "p4": "Paradoxed|p4flag=us|pos4=sup",
+            "p5": "TwoFish|pos5=sup",
+            "p6": "onelyfclover|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Gordon Ramsay Esports",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "ow2 ranked",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Scapegoats",
+            "p1": "fr0gster |p1flag=|pos1=",
+            "p2": "Monotone |p2flag=|pos2=",
+            "p3": "kepler69 |p3flag=|pos3=",
+            "p4": "zambs|p4flag=|pos4=",
+            "p5": "squillers5 |p5flag=|pos5=",
+            "p6": "nightze |p6flag=|pos6=",
+            "p7": "PitPat|p7flag=|pos7="
+        },
+        {
+            "team": "yunjin fans",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Chill Stoners|score=2}}",
+            "opponent2": "{{TeamOpponent|YippeeKari|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Yunjin Fans|score=0}}",
+            "opponent2": "{{TeamOpponent|Inks|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ow2 Ranked|score=0}}",
+            "opponent2": "{{TeamOpponent|Glue Eaterz|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Pristine Guardians|score=2}}",
+            "opponent2": "{{TeamOpponent|Scapegoats|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Chill Stoners|score=2}}",
+            "opponent2": "{{TeamOpponent|Inks|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Glue Eaterz|score=0}}",
+            "opponent2": "{{TeamOpponent|Pristine Guardians|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Chill Stoners|score=3}}",
+            "opponent2": "{{TeamOpponent|Pristine Guardians|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        }
+    ]
+}

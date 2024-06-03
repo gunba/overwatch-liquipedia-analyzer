@@ -1,0 +1,122 @@
+{{Want_to_Help
+|issue=missing rosters on teamcards
+|fix=add rosters
+|date=20200620
+}}
+{{Oserv OW Tour Navbox}}
+{{DISPLAYTITLE:Oserv OW Tour #5}}
+{{Tabs static
+|name1=Main Event|link1=Oserv OW Tour/5
+|name2=Qualifier #1|link2=Oserv OW Tour/5/Qualifier/1
+|name3=Qualifier #2|link3=Oserv OW Tour/5/Qualifier/2
+|name4=Qualifier #3|link4=Oserv OW Tour/5/Qualifier/3
+|This=1
+}}
+{{Infobox league
+|name=Oserv OW Tour #5
+|shortname=OW Tour #5
+|image=Oserv esports logo.png
+|series=Oserv OW Tour
+|abbreviation=OOWT
+|icon=
+|tickername=Oserv OW Tour #5
+|organizer=Oserv eSport
+|sponsor=[http://www.xlr8gam1ng.com/ XLR8]
+|country=Europe
+|type=Online
+|format=Single Elimination
+|prizepoolusd=140
+|localcurrency=eur
+|prizepool=120
+|date=2019-03-03
+|liquipediatier={{TierText/5}}
+|web=https://esport.oserv.fr/
+|twitch=oservtv
+|twitter=OservEsport
+|bracket=https://battlefy.com/oservesport/oserv-ow-community-tour-5-final-stage/5c4f7290ab959b035892dd32/stage/5c4f734b0a5ccc035408eaa4/bracket/
+|team_number=8
+}}
+
+==Overview==
+===Format===
+* '''Playoffs''': Single Elimination
+** All matches are {{Abbr/Bo3}} except Grand Final and Third Place Match ({{Abbr/Bo5}}).
+
+===Prize Pool===
+120 ({{Abbr/EUR}}) winner takes all:
+{{prize pool start |localcurrency=eur}}
+{{prize pool slot |place=1|usdprize=140 |localprize=120 |Silentgaming|lastvs1=Team X - Undiscovered|lastscore1=3|lastvsscore1=2}}
+{{prize pool slot |place=2|usdprize=0 |localprize=0 |Team X - Undiscovered|lastvs1=Silentgaming|lastscore1=2|lastvsscore1=3}}
+{{prize pool slot |place=3|usdprize=0 |localprize=0 |QuestionMark|lastvs1=Skeletor Raiders|lastscore1=3|lastvsscore1=0}}
+{{prize pool slot |place=4|usdprize=0 |localprize=0 |Skeletor Raiders|lastvs1=QuestionMark|lastscore1=0|lastvsscore1=3}}
+{{prize pool slot |place=5|usdprize=0 |localprize=0 |Efficiency Team|lastvs1=QuestionMark|lastscore1=1|lastvsscore1=2}}
+{{prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Silentgaming
+|image=
+|p1=Sk0rpi0n|p1flag=ch|pos1=
+|p2=Tankio|p2flag=ch|pos2=
+|p3=SirGibson|p3flag=ch|pos3=
+|p4=R3M1X|p4flag=ch|pos4=
+|p5=Luux|p5flag=ch|pos5=
+|p6=Mimi7|p6flag=ch|pos6=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Skeletor Raiders
+|image=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team X - Undiscovered
+|image=
+|p1=Julo|p1flag=fr|pos1=tank
+|p2=Vendetta|p2flag=ie|pos2=flex
+|p3=Assure|p3flag=dk|pos3=dps
+|p4=Ediz|p4flag=de|pos4=dps
+|p5=Todd|p5flag=uk|pos5=sup
+|p6=RK|p6flag=de|pos6=sup
+|c=coachJEFF|cflag=us
+|c2=Aplox|c2flag=uk
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Efficiency Team
+|image=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=QuestionMark
+|image=
+}}
+{{box|end|padding=2em}}
+
+==Results==
+
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=TibhizNjt7
+<!-- QUARTERFINALS -->
+|R1D1team=Silentgaming |R1D1score=W |R1D1win=1
+|R1D2team=bye |R1D2score=F |R1D2win=
+|R1D3team=QuestionMark|R1D3score=2 |R1D3win=1
+|R1D4team=Efficiency Team |R1D4score=1 |R1D4win=
+|R1D5team=Team X - Undiscovered |R1D5score=W |R1D5win=1
+|R1D6team=bye |R1D6score=F |R1D6win=
+|R1D7team=Skeletor Raiders |R1D7score=W |R1D7win=1
+|R1D8team=bye |R1D8score=F |R1D8win=
+<!-- SEMIFINALS -->
+|R2W1team=Silentgaming |R2W1score=2 |R2W1win=1
+|R2W2team=QuestionMark |R2W2score=0 |R2W2win=
+|R2W3team=Team X - Undiscovered |R2W3score=2 |R2W3win=1
+|R2W4team=Skeletor Raiders |R2W4score=0 |R2W4win=
+<!-- FINALS -->
+|R3W1team=Silentgaming |R3W1score=3 |R3W1win=1
+|R3W2team=Team X - Undiscovered |R3W2score=2 |R3W2win=
+<!-- 3RD PLACE (optional) -->
+|R3D1team=QuestionMark |R3D1score=3 |R3D1win=1
+|R3D2team=Skeletor Raiders |R3D2score=0 |R3D2win=
+}}

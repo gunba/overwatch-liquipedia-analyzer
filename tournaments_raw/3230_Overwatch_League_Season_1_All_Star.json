@@ -1,0 +1,161 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch League - Inaugural All-Star Weekend",
+            "image": "OWL All-Star 2018.png",
+            "series": "Overwatch League",
+            "shortname": "OWL Inaugural All-Star Weekend",
+            "tickername": "OWL All-Star",
+            "icon": "Overwatch League allmode.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer-link": "http://blizzard.com/",
+            "organizer2": "",
+            "sponsor": "[https://www.hp.com/omen OMEN by HP]<br>[https://www.intel.com/content/www/us/en/homepage.html Intel]<br>[https://www.toyota.com/ Toyota]<br>[https://www.t-mobile.com/ T-Mobile]<br>[http://www.sourpatch.com/ Sour Patch Kids]",
+            "patch": "1.26",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Los Angeles",
+            "venue": "[https://esports.blizzard.com/en-us/blizzard-arena/los-angeles Blizzard Arena Los Angeles]",
+            "format": "'''Skills Matches'''<br>'''All-Star Game'''",
+            "prizepoolusd": "",
+            "sdate": "2018-08-25",
+            "edate": "2018-08-26",
+            "liquipediatier": "1|liquipediatiertype=Showmatch",
+            "blizzardtier": "owl",
+            "web": "https://overwatchleague.com/en-us/",
+            "twitch": "overwatchleague",
+            "twitter": "overwatchleague",
+            "facebook": "overwatchleague",
+            "youtube": "channel/UCiAInBL9kUzz1XRxk66v-gw",
+            "instagram": "overwatchleague",
+            "weibo": "overwatchleague",
+            "game": "overwatch",
+            "player_number": "49"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "August 25, 2018 - 16:00 {{Abbr/PDT}}",
+            "twitch": "overwatchleague",
+            "opponent1": "{{TeamOpponent|atlantic division}}",
+            "opponent2": "{{TeamOpponent|pacific division}}",
+            "map1": "{{Map|map=Busan Stadium|mode=Lucioball|score1=3|score2=2|winner=1}}",
+            "map2": "{{Map|map=Busan Stadium|mode=Lucioball|score1=1|score2=2|winner=2}}",
+            "map3": "{{Map|map=Busan Stadium|mode=Lucioball|score1=4|score2=3|winner=1}}",
+            "vod": "https://overwatchleague.com/en-us/videos?v=NBuYpHDUVXe"
+        },
+        {
+            "bestof": "3",
+            "date": "August 25, 2018 - 17:00 {{Abbr/PDT}}",
+            "twitch": "overwatchleague",
+            "opponent1": "{{TeamOpponent|atlantic division}}",
+            "opponent2": "{{TeamOpponent|pacific division}}",
+            "map1": "{{Map|map=Nepal|mode=Control|score1=1|score2=2|winner=2}}",
+            "map2": "{{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}",
+            "map3": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}",
+            "vod": "https://overwatchleague.com/en-us/videos?v=PzJyYMNkten"
+        },
+        {
+            "bestof": "3",
+            "date": "August 25, 2018 - 19:30 {{Abbr/PDT}}",
+            "twitch": "overwatchleague",
+            "opponent1": "{{TeamOpponent|atlantic division}}",
+            "opponent2": "{{TeamOpponent|pacific division}}",
+            "map1": "{{Map|map=King's Row|mode=Hybrid|score1=4|score2=5|winner=2}}",
+            "map2": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=3|winner=2}}",
+            "map3": "{{Map|map=Portal:Maps{{!}}L\u00facioball|mode=Lucioball|score1=|score2=|winner=skip}}",
+            "vod": "https://overwatchleague.com/en-us/videos?v=gnZp29WtfEu",
+            "mvp": "Soe"
+        },
+        {
+            "bestof": "3",
+            "date": "August 25, 2018 - 20:30 {{Abbr/PDT}}",
+            "twitch": "overwatchleague",
+            "opponent1": "{{TeamOpponent|atlantic division}}",
+            "opponent2": "{{TeamOpponent|pacific division}}",
+            "map1": "{{Map|map=Oasis University|mode=Elimination|score1=1|score2=3|winner=2}}",
+            "map2": "{{Map|map=Necropolis|mode=Elimination|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Castillo|mode=Elimination|score1=2|score2=3|winner=2}}",
+            "vod": "https://overwatchleague.com/en-us/videos?v=H6rRZx7cCxD"
+        },
+        {
+            "bestof": "13",
+            "twitch": "overwatchleague",
+            "opponent1": "{{SoloOpponent|Sayaplayer|flag=kr|score=6}}",
+            "opponent2": "{{SoloOpponent|Carpe|flag=kr|score=7}}",
+            "map1": "{{Map|map=Castillo|mode=Arena|score1=6|score2=7|winner=2}}",
+            "vod": "https://www.twitch.tv/videos/301945611?t=3m28s",
+            "optional": "R1M1="
+        },
+        {
+            "twitch": "overwatchleague",
+            "opponent1": "{{SoloOpponent|Pine|flag=kr|score=6}}",
+            "opponent2": "{{SoloOpponent|Striker|flag=kr|score=7}}",
+            "map1": "{{Map|map=Castillo|mode=Arena|score1=6|score2=7|winner=2}}",
+            "vod": "https://www.twitch.tv/videos/301945611?t=22m9s",
+            "optional": "R1M2="
+        },
+        {
+            "twitch": "overwatchleague",
+            "opponent1": "{{SoloOpponent|Architect|flag=kr|score=5}}",
+            "opponent2": "{{SoloOpponent|SoOn|flag=fr|score=7}}",
+            "map1": "{{Map|map=Castillo|mode=Arena|score1=5|score2=7|winner=2}}",
+            "vod": "https://www.twitch.tv/videos/301945611?t=47m51s",
+            "optional": "R1M3="
+        },
+        {
+            "twitch": "overwatchleague",
+            "opponent1": "{{SoloOpponent|Fleta|flag=kr|score=5}}",
+            "opponent2": "{{SoloOpponent|Surefour|flag=ca|score=7}}",
+            "map1": "{{Map|map=Castillo|mode=Arena|score1=5|score2=7|winner=2}}",
+            "vod": "https://www.twitch.tv/videos/301945611?t=1h4m13s",
+            "optional": "R1M4="
+        },
+        {
+            "twitch": "overwatchleague",
+            "opponent1": "{{SoloOpponent|Carpe|flag=kr|score=7}}",
+            "opponent2": "{{SoloOpponent|Striker|flag=kr|score=3}}",
+            "map1": "{{Map|map=Necropolis|mode=Arena|score1=7|score2=3|winner=1}}",
+            "vod": "https://www.twitch.tv/videos/301945611?t=1h27m22s",
+            "optional": "R2M1="
+        },
+        {
+            "twitch": "overwatchleague",
+            "opponent1": "{{SoloOpponent|SoOn|flag=fr|score=6}}",
+            "opponent2": "{{SoloOpponent|Surefour|flag=ca|score=7}}",
+            "map1": "{{Map|map=Necropolis|mode=Arena|score1=6|score2=7|winner=2}}",
+            "vod": "https://www.twitch.tv/videos/301945611?t=1h43m9s",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "17",
+            "twitch": "overwatchleague",
+            "opponent1": "{{SoloOpponent|Carpe|flag=kr|score=6}}",
+            "opponent2": "{{SoloOpponent|Surefour|flag=ca|score=9}}",
+            "map1": "{{Map|map=Ecopoint: Antarctica|mode=Arena|score1=6|score2=9|winner=2}}",
+            "vod": "https://www.twitch.tv/videos/301988719?t=4m20s",
+            "optional": "R3M1="
+        },
+        {
+            "bestof": "3",
+            "date": "August 26, 2018 - 11:00 {{Abbr/PDT}}",
+            "twitch": "overwatchleague",
+            "opponent1": "{{TeamOpponent|atlantic division}}",
+            "opponent2": "{{TeamOpponent|pacific division}}",
+            "map1": "{{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}",
+            "map2": "{{Map|map=Rialto|mode=Escort|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Horizon Lunar Colony|mode=Assault|score1=4|score2=3|winner=2}}",
+            "map4": "{{Map|map=Ilios|mode=Control|score1=2|score2=1|winner=1}}",
+            "map5": "{{Map|map=Route 66|mode=Escort|score1=3|score2=2|winner=1}}",
+            "vodgame1": "https://overwatchleague.com/en-us/videos?v=CKpD58VHTtw",
+            "vodgame2": "https://overwatchleague.com/en-us/videos?v=J7RQ8jaTGzd",
+            "vodgame3": "https://overwatchleague.com/en-us/videos?v=ta68UsH5skd",
+            "vodgame4": "https://overwatchleague.com/en-us/videos?v=cENHF5rxHUW",
+            "vodgame5": "https://overwatchleague.com/en-us/videos?v=ZgyTBWBwEr2",
+            "owl": "18152",
+            "overgg": "9178"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{{Infobox league
+|liquipediatier=5
+|name=Hala Hala+ Tournament
+|shortname=Hala Hala+ Tournament
+|tickername=Hala Hala+ Tournament
+|icon=Hala_Hala+_Tournament.png
+|image=Hala_Hala+_Tournament.png
+|organizer=ObAiDaH900
+|organizer-link=https://www.twitch.tv/obaidah_900
+|type=Online
+|country=Middle East 
+|game=overwatch2
+|format=Single Elimination
+|prizepoolusd=100
+|date=2022-11-04
+|twitter=ObAiDaH_900
+|twitch=obaidah_900
+|team_number=8
+}}
+
+==Information==
+
+===Format===
+*Single Elimination Bracket
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=100}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Lions
+|p1=Oblut
+|p2=IQEMP
+|p3=POWER
+|p4=IIFARIIS
+|p5=SENOR
+}}
+{{TeamCard
+|team=The Penguins
+|p1=JACOB
+|p2=SOHAIB
+|p3=LUNA
+|p4=EXODIZER
+|p5=WHITEFROST
+}}
+{{TeamCard
+|team=Heroes Never Die
+|p1=Mahmood
+|p2=Whenari
+|p3=ollb
+|p4=Potato
+|p5=Destroyer|p5link=Destroyer ()
+}}
+{{TeamCard
+|team=English Tea
+|p1=Sajz
+|p2=xReaperx
+|p3=Knight|p3link=Knight ()
+|p4=vTitania
+|p5=Ali|p5link=Ali ()
+}}
+{{TeamCard
+|team=Furious Cats
+|p1=SilverBullet
+|p2=Aythai
+|p3=SirNizar
+|p4=Tariq
+|p5=Snake7
+}}
+{{TeamCard
+|team=نبرة الصوت
+|p1=SxyDark
+|p2=dab
+|p3=Super|p3link=Super ()
+|p4=Wrda
+|p5=HsnRod
+}}
+{{TeamCard
+|team=Tommy
+|p1=fantomelves
+|p2=chaos1x1
+|p3=Kirito22
+|p4=xbomba
+|p5=hatim2721
+}}
+{{TeamCard
+|team=Conan
+|p1=دحوم
+|p2=وولف
+|p3=سيمو
+|p4=مبتلع
+|p5=هيمو
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/8|id=K9wBslwo0B
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=3
+    |opponent1={{TeamOpponent|Lions|score=2}}
+    |opponent2={{TeamOpponent|Tommy|score=0}}
+}}
+|R1M2={{Match
+    |opponent1={{TeamOpponent|Furious Cats|score=2}}
+    |opponent2={{TeamOpponent|English Tea|score=0}}
+}}
+|R1M3={{Match
+    |opponent1={{TeamOpponent|Heroes Never Die|score=0}}
+    |opponent2={{TeamOpponent|نبرة الصوت|score=2}}
+}}
+|R1M4={{Match
+    |opponent1={{TeamOpponent|Conan|score=0}}
+    |opponent2={{TeamOpponent|The Penguins|score=2}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|bestof=1
+    |opponent1={{TeamOpponent|Lions|score=1}}
+    |opponent2={{TeamOpponent|Furious Cats|score=0}}
+}}
+|R2M2={{Match
+    |opponent1={{TeamOpponent|نبرة الصوت|score=1}}
+    |opponent2={{TeamOpponent|The Penguins|score=0}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |opponent1={{TeamOpponent|Lions|score=0}}
+    |opponent2={{TeamOpponent|نبرة الصوت|score=1}}
+}}
+}}

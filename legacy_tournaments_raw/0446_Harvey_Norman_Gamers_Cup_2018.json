@@ -1,0 +1,359 @@
+{
+    "tournament_info": [
+        {
+            "name": "Harvey Norman Gamers Cup 2018",
+            "image": "Harvey Norman allmode.png",
+            "series": "",
+            "abbreviation": "HNGC",
+            "shortname": "HNGC 2018",
+            "tickername": "HNGC 2018",
+            "icon": "Harvey Norman allmode.png",
+            "organizer": "Zenway Productions",
+            "organizer-link": "http://zenwayproductions.com/",
+            "organizer2": "",
+            "sponsor": "[https://store.hp.com/app/slp/omen-gaming/laptops OMEN by HP]",
+            "type": "Offline",
+            "country": "Singapore",
+            "city": "",
+            "venue": "",
+            "format": "Single Elimination",
+            "prizepool": "5,100",
+            "localcurrency": "SGD",
+            "prizepoolusd": "3,718",
+            "sdate": "2018-09-02",
+            "edate": "2018-09-03",
+            "liquipediatier": "{{TierText/3}}",
+            "web": "",
+            "weibo": "",
+            "stream": "",
+            "twitch": "",
+            "bracket": "https://zenway.challonge.com/OMENxHN2018",
+            "team_number": "16",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Incipience",
+            "image": "Incipience June 2018 logo.png",
+            "p1": "Cryptic |p1flag=sg |pos1=dps",
+            "p2": "Bubblekitty |p2flag=sg |pos2=dps",
+            "p3": "Xenofly |p3flag=sg |pos3=flex",
+            "p4": "Savagedab69 |p4flag=sg |pos4=tank",
+            "p5": "Cup |p5flag=sg |pos5=sup",
+            "p6": "Azure |p6flag=sg |pos6=sup"
+        },
+        {
+            "team": "Pointbreak",
+            "image": "Pointbreak logo.png",
+            "p1": "Lilraxx |p1flag=sg |pos1=dps",
+            "p2": "Sogg2h  |p2flag=sg |pos2=dps",
+            "p3": "Nomad |p3flag=sg |pos3=flex",
+            "p4": "Show |p4flag=sg |pos4=tank",
+            "p5": "Sachokk |p5flag=sg |pos5=tank",
+            "p6": "Infamous |p6flag=sg |pos6=sup |p6link=Infamous (Singaporean player)",
+            "p7": "Kuu |p7flag=sg |pos7=sup"
+        },
+        {
+            "team": "Recipience",
+            "image": "",
+            "p1": "Yuris |p1flag=sg |pos1=dps",
+            "p2": "Meepokboy |p2flag=sg |pos2=dps",
+            "p3": "Rageoftofu |p3flag=sg |pos3=tank",
+            "p4": "K1nzo |p4flag=sg |pos4=tank",
+            "p5": "Vips |p5flag=sg |pos5=sup",
+            "p6": "Saviour |p6flag=sg |pos6=sup",
+            "p7": "|p7flag=sg |pos7="
+        },
+        {
+            "team": "LEVITY",
+            "image": "",
+            "p1": "Cowpay |p1flag=sg |pos1=dps",
+            "p2": "Radiax |p2flag=sg |pos2=dps",
+            "p3": "Axis |p3flag=sg |pos3=tank",
+            "p4": "Faithinjay |p4flag=sg |pos4=tank",
+            "p5": "Hotse |p5flag=sg |pos5=sup",
+            "p6": "Athenael |p6flag=sg |pos6=sup",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "Misa's Missing Friends",
+            "image": "",
+            "p1": "|p1flag= |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6=",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "The Miku Club",
+            "image": "",
+            "p1": "Zinc |p1flag=sg |pos1=dps",
+            "p2": "HatsuneMiku |p2flag=sg |pos2=dps",
+            "p3": "TanJK |p3flag=sg |pos3=tank",
+            "p4": "Ashkane |p4flag=sg |pos4=tank",
+            "p5": "Hotaru |p5flag=sg |pos5=sup",
+            "p6": "Aizou |p6flag=sg |pos6=sup",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "CasualsbTW",
+            "image": "",
+            "p1": "Gr1ffin |p1flag=sg |pos1=tank",
+            "p2": "WeebChan |p2flag=sg |pos2=tank",
+            "p3": "Hippo |p3flag=sg |pos3=tank",
+            "p4": "Aylin |p4flag=sg |pos4=sup",
+            "p5": "Shorea |p5flag=sg |pos5=sup",
+            "p6": "TCC |p6flag=sg |pos6=sup",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "UP2YOU",
+            "image": "",
+            "p1": "|p1flag= |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6=",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "BadmanBruddas",
+            "image": "",
+            "p1": "|p1flag= |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6=",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "Plat Chat",
+            "image": "",
+            "p1": "Infinity |p1flag=sg |pos1=dps",
+            "p2": "Pranked |p2flag=sg |pos2=dps",
+            "p3": "JustaPleb |p3flag=sg |pos3=tank",
+            "p4": "FrostHartz |p4flag=sg |pos4=tank",
+            "p5": "Angryman |p5flag=sg |pos5=sup",
+            "p6": "Loading |p6flag=sg |pos6=sup",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "PachiGasm",
+            "image": "",
+            "p1": "Kyshio |p1flag=sg |pos1=dps",
+            "p2": "Infectious |p2flag=sg |pos2=dps",
+            "p3": "CZwc |p3flag=sg |pos3=tank",
+            "p4": "GoingFishing |p4flag=sg |pos4=tank",
+            "p5": "Ayako |p5flag=sg |pos5=sup",
+            "p6": "Sayuri |p6flag=sg |pos6=sup",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "Bus 142",
+            "image": "bus142.png",
+            "p1": "Astronut |p1flag=sg |pos1=dps",
+            "p2": "Oujihunter |p2flag=sg |pos2=dps",
+            "p3": "B10TICS |p3flag=sg |pos3=tank",
+            "p4": "APPL3 |p4flag=sg |pos4=tank",
+            "p5": "Ranlod |p5flag=sg |pos5=sup",
+            "p6": "MysticNutz |p6flag=sg |pos6=sup",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "IGirl",
+            "image": "",
+            "p1": "AiAi |p1flag=sg |pos1=dps",
+            "p2": "Cieleste |p2flag=sg |pos2=dps",
+            "p3": "DNChicken |p3flag=sg |pos3=tank",
+            "p4": "ILoveFries |p4flag=sg |pos4=tank",
+            "p5": "Teozy |p5flag=sg |pos5=sup",
+            "p6": "Wadever |p6flag=sg |pos6=sup",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "Pingu Bois",
+            "image": "",
+            "p1": "Xeno |p1flag=sg |pos1=dps",
+            "p2": "Papaya |p2flag=sg |pos2=dps",
+            "p3": "k3n |p3flag=sg |pos3=tank",
+            "p4": "Zest |p4flag=sg |pos4=tank",
+            "p5": "RSGSam |p5flag=sg |pos5=sup",
+            "p6": "Sindrax |p6flag=sg |pos6=sup",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "Team?",
+            "image": "",
+            "p1": "Zelphie |p1flag=sg |pos1=dps",
+            "p2": "UnXplained |p2flag=sg |pos2=dps",
+            "p3": "Pyriaxis |p3flag=sg |pos3=tank",
+            "p4": "Twytwy |p4flag=sg |pos4=tank",
+            "p5": "PopsicleTart |p5flag=sg |pos5=sup",
+            "p6": "LastWarning |p6flag=sg |pos6=sup",
+            "p7": "|p7flag= |pos7="
+        },
+        {
+            "team": "Novitiate",
+            "image": "",
+            "p1": "|p1flag= |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "up2you",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "badmanbruddas",
+            "score1": "L",
+            "win1": ""
+        },
+        {
+            "team2": "pointbreak",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "pachigasm",
+            "score1": "L",
+            "win1": ""
+        },
+        {
+            "team2": "pingu bois",
+            "score2": "L",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "recipience",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "igirl",
+            "score2": "L",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "casualsbtw",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "novitiate",
+            "score2": "L",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "misa's missing friends",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bus 142",
+            "score2": "L",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "incipience",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "team?",
+            "score2": "L",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "the miku club",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "levity",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "plat chat",
+            "score1": "L",
+            "win1": ""
+        },
+        {
+            "team2": "pointbreak",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "up2you",
+            "score1": "L",
+            "win1": ""
+        },
+        {
+            "team2": "casualsbtw",
+            "score2": "L",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "recipience",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "incipience",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2W5",
+            "team1": "misa's missing friends",
+            "score1": "L",
+            "win1": ""
+        },
+        {
+            "team2": "levity",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2W7",
+            "team1": "the miku club",
+            "score1": "L",
+            "win1": ""
+        },
+        {
+            "team2": "recipience",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "pointbreak",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "levity",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W3",
+            "team1": "incipience",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "incipience",
+            "score2": "4",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "pointbreak",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "levity",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "recipience",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

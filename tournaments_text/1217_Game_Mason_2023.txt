@@ -1,0 +1,159 @@
+<!--STOP EDITING THIS PAGE. IF YOU WANT TO MAKE A TOURNAMENT PAGE, SEARCH THE NAME, THEN CLICK ON THE RED LINK (Create the page "TournamentName" on this wiki!), COPY/PASTE THIS TEXT IN THE EMPTY PAGE AND MAKE IT THERE!-->
+{{Infobox league
+|liquipediatier=4<!--Number corresponding to tier, 1 for S, 2 for A, etc.-->
+|liquipediatiertype=<!--Qualifier, Monthly, Weekly, etc.-->
+|name=Game Mason 2023
+|shortname=
+|tickername=
+|icon=
+|image=
+|series=
+|abbreviation=
+|organizer=George Mason University Esports
+|organizer-link=
+|sponsor=Lenovo<br>[[Washington Justice]]
+|type=Offline
+|country=United States
+|city=Fairfax
+|venue=George Mason University
+|venuelink=https://www.gmu.edu/
+|game=overwatch2
+|format=Round Robin<br>Single Elimination
+|prizepoolusd=1000
+|sdate=2023-03-03
+|edate=2023-03-04
+|twitter=GMU_Esports
+|web=https://si.gmu.edu/gamemason/
+|twitch=GMU_Esports
+|discord=
+|youtube=
+|rulebook=
+|bracket=
+|team_number=4
+}}
+
+==Information==
+===Format===
+*{{Abbr/Bo3}} round robin
+*{{Abbr/Bo5}} single elimination bracket
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard|lang=
+|position=Commentator
+|b1=HamsterQuest |b1flag=USA |b1name=
+|b2=Griph |b2flag=USA |b2name=
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard|lang=
+|position=Interviewer
+|b1=HuskyDS |b1flag=USA
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard|lang=
+|position=Producer
+|b1=HobowBacon |b1flag=USA 
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard|lang=
+|position=Observer
+|b1=Beanstealer |b1flag=USA
+}}
+{{box|end}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=7|'''Map Pool'''
+|-
+![[Control]]
+![[Hybrid]]
+![[Push]]
+![[Escort]]
+|-
+|width="130" rowspan=5|
+*[[Lijiang Tower]]
+*[[Nepal]]
+*[[Antarctic Peninsula]]
+|width="130" rowspan=5|
+*[[King's Row]]
+*[[Eichenwalde]]
+*[[Blizzard World]]
+|width="130" rowspan=5|
+*[[Colosseo]]
+*[[Esperança]]
+*[[New Queen Street]]
+|width="130" rowspan=5|
+*[[Rialto]]
+*[[Circuit Royal]]
+*[[Route 66]]
+|}
+
+==Prize Pool==
+{{TeamPrizePool
+|{{Slot|place=1|usdprize=750}}
+|{{Slot|place=2|usdprize=250}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team= GMU Patriots
+|p1=ThicccMan|p1flag=USA|pos1=tank
+|p2=Ibbinx|p2flag=USA|pos2=dps
+|p3=BrandMChaos|p3flag=USA|pos3=dps
+|p4=BradnButter|p4flag=USA|pos4=sup
+|p5=ZapPat|p5flag=USA|pos5=sup
+}}
+{{TeamCard
+|team= Shenandoah University
+|p1=DragonBladeX|p1flag=|pos1=tank
+|p2=Voidex|p2flag=|pos2=dps
+|p3=SacredEnd|p3flag=|pos3=dps
+|p4=Enders|p4flag=|pos4=sup
+|p5=Phaena|p5flag=|pos5=sup
+}}
+{{TeamCard
+|team= JMU Esports
+|p1=|p1flag=|pos1=tank
+|p2=|p2flag=|pos2=dps
+|p3=|p3flag=|pos3=dps
+|p4=|p4flag=|pos4=sup
+|p5=|p5flag=|pos5=sup
+}}
+{{TeamCard
+|team= William & Mary
+|p1=|p1flag=|pos1=tank
+|p2=|p2flag=|pos2=dps
+|p3=|p3flag=|pos3=dps
+|p4=|p4flag=|pos4=sup
+|p5=|p5flag=|pos5=sup
+}}
+{{TeamCard columns end}}
+
+==Bracket Results==
+{{Bracket|Bracket/4|id=MGka8SX0oJ
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=5
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|shenandoah esports|score=3}}
+    |opponent2={{TeamOpponent|gmu patriots|score=0}}
+}}
+|R1M2={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|jmu esports|score=3}}
+    |opponent2={{TeamOpponent|william & mary|score=0}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|shenandoah esports|score=3}}
+    |opponent2={{TeamOpponent|jmu esports|score=1}}
+}}
+}}

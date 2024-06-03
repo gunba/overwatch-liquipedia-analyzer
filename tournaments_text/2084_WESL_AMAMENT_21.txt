@@ -1,0 +1,170 @@
+{{DISPLAYTITLE:WESL AMAMENT #21}}
+{{WESL AMAMENT Navbox}}<br>
+{{Infobox league
+|name=WESL AMAMENT #21
+|shortname=WESL AMAMENT
+|image=WESL.png
+|series=WESL
+|abbreviation=WESL
+|icon=WESL icon.png
+|organizer=WESL
+|organizer-link=http://www.ozarena.com/wesl
+|organizer2=Optimum Zone
+|organizer2-link=http://www.ozarena.com/ozpccafe
+|organizer3=BATTLICA
+|organizer3-link=https://battlica.com/
+|sponsor=
+|type=Online
+|country=South Korea
+|format=Single Elimination
+|prizepool=600,000
+|localcurrency=KRW
+|prizepoolusd=508
+|sdate=2020-08-29
+|edate=2020-08-30
+|liquipediatier={{TierText/5}}
+|web=http://www.ozarena.com/wesl
+|twitch=oztv_kr
+|facebook=weslesports
+|discord=Hhw92VR
+|youtube=channel/UChFMCIlMODqN4XTcURWySsw
+|team_number=19
+|previous=WESL AMAMENT/20{{!}}#20
+|next=WESL AMAMENT/22{{!}}#22
+}}
+{{TOClimit|3}}
+
+==About==
+This is the preseason of '''WESL AMAMENT''' organized by ''Optimum Zone''.
+===Broadcast Talent===
+{{BroadcasterCard|lang=Korean
+|position=Commentator
+|b1=Yu Cheol-hui|b1flag=kr |b1name=Yu Cheol-hui
+|b2=Ssunpang|b2flag=kr|b2name=Kwon Gun-yeop
+}}
+
+===Prize Pool===
+600,000 {{Abbr/KRW}} (≃ 508 {{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start |cutafter=4 |localcurrency=krw}}
+{{prize pool slot|place=1|usdprize=305|localprize=360,000|vcp|lastvs1=onetrick(6)|lastscore1=3|lastvsscore1=2}}
+{{prize pool slot|place=2|usdprize=101|localprize=120,000|onetrick(6)|lastvs1=vcp|lastscore1=2|lastvsscore1=3}}
+{{prize pool slot|place=3|usdprize=51|localprize=60,000|evelyn|lastvs1=onetrick(6)|lastscore1=1|lastvsscore1=3}}
+{{prize pool slot|place=4|usdprize=51|localprize=60,000|hightechnology|lastvs1=vcp|lastscore1=1|lastvsscore1=3}}
+{{prize pool end}}
+''Conversion values taken from [https://www.exchange-rates.org/Rate/USD/KRW/08-30-2020 exchange-rates.org] at 2020-08-30. 1 {{Abbr/USD}} ≈ 1,180.63 {{Abbr/KRW}}''
+
+===Other Awards===
+{{prize pool start award|margin=false}}
+{{prize pool slot award|usdprize=0|award=MVP |Jasm1ne|flag1=kr|pos1=tank|team1=Evelyn}}
+{{prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Evelyn
+|image=Evelyn logo.png
+|p1=SUNNY|p1flag=kr|pos1=dps
+|p2=H3nry|p2flag=kr|pos2=dps
+|p3=Vision|p3flag=kr|pos3=tank|p3link=Vision (Korean player)
+|p4=Jasm1ne|p4flag=kr|pos4=tank
+|p5=Fiesta|p5flag=kr|pos5=sup
+|p6=CARU|p6flag=kr|pos6=sup
+|p7=Dakdori|p7flag=kr|pos7=
+|c=브루더하스 |cflag=kr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=OneTrick(6)
+|image=
+|p1=SPILAK|p1flag=kr|pos1=dps |p1link=Hofac
+|p2=XfileZ|p2flag=kr|pos2=dps |p2link=SP1NT
+|p3=퇴물윈연계|p3flag=kr|pos3=tank
+|p4=RUN3|p4flag=kr|pos4=tank
+|p5=Wonderphase|p5flag=kr|pos5=sup
+|p6=리나|p6flag=kr|pos6=sup
+|c=|cflag=kr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=hightechnology
+|image=
+|p1=StopElevator|p1flag=kr|pos1=dps
+|p2=SuperRookie|p2flag=kr|pos2=dps
+|p3=IceFisher|p3flag=kr|pos3=tank
+|p4=유전자재조합기술|p4flag=kr|pos4=tank
+|p5=Mitsuha|p5flag=kr|pos5=sup 
+|p6=Ribbon|p6flag=kr|pos6=sup |p6link=Ribbon (Another player)
+|c=|cflag=kr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=VCP
+|image=Team VCP logo.png
+|p1=Sof4|p1flag=kr|pos1=dps
+|p2=귀멸의칼날|p2flag=kr|pos2=dps
+|p3=Persie|p3flag=kr|pos3=tank
+|p4=Tipp7|p4flag=kr|pos4=tank
+|p5=A1IEN|p5flag=kr|pos5=sup
+|p6=sley|p6flag=kr|pos6=sup
+|p7=Handle|p7flag=kr|pos7=
+|c=|cflag=kr
+}}
+{{box|end|padding=2em}}
+
+==Results==
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=N72c2tRr0C
+<!-- SEMIFINALS -->
+|R1D1team=evelyn|R1D1score=1 |R1D1win=
+|R1D2team=onetrick(6)|R1D2score=3 |R1D2win=1
+|R1G1details={{BracketMatchSummary 
+|date=August 30, 2020 - 14:00 {{Abbr/KST}}
+|finished=true
+|map1=Nepal|map1score=0-2|map1win=2
+|map2=King's Row|map2score=1-2|map2win=2
+|map3=Watchpoint: Gibraltar|map3score=3-2|map3win=1
+|map4=Temple of Anubis|map4score=1-2|map4win=2
+|vod=https://youtu.be/lDVVdaYRTUA?t=845
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=hightechnology|R1D3score=1 |R1D3win=
+|R1D4team=vcp|R1D4score=3 |R1D4win=1
+|R1G2details={{BracketMatchSummary 
+|date=August 30, 2020 - 15:45 {{Abbr/KST}}
+|finished=true
+|map1=Busan|map1score=1-2|map1win=2
+|map2=King's Row|map2score=1-0|map2win=1
+|map3=Watchpoint: Gibraltar|map3score=2-2|map3win=2
+|map4=Hanamura|map4score=0-1|map4win=2
+|vod=https://youtu.be/lDVVdaYRTUA?t=7149
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R2W1team=onetrick(6)|R2W1score=2 |R2W1win=
+|R2W2team=vcp|R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=August 30, 2020 - 17:20 {{Abbr/KST}}
+|finished=true
+|map1=Oasis|map1score=1-2|map1win=2
+|map2=King's Row|map2score=3-2|map2win=1
+|map3=Watchpoint: Gibraltar|map3score=1-0|map3win=1
+|map4=Hanamura|map4score=3-4|map4win=2
+|map5=Lijiang Tower|map5score=0-2|map5win=2
+|vod=https://youtu.be/lDVVdaYRTUA?t=12853
+|overgg=
+|pf=
+|wl=
+}}
+}}
+
+==Additional content==
+===Highlights===
+*{{ExternalMediaLink
+|date=2020-09-22
+|link=https://youtu.be/IGlhEyGB7-0
+|title=#21 Overwatch WESL AMAMENT Highlights
+}}

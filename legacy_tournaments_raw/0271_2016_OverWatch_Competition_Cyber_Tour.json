@@ -1,0 +1,133 @@
+{
+    "tournament_info": [
+        {
+            "name": "2016 OverWatch Competition Cyber Tour",
+            "shortname": "",
+            "image": "",
+            "series": "",
+            "organizer": "gamefirst tw",
+            "organizer-link": "http://www.gamefirst.com.tw/",
+            "organizer2": "OverWatch TW",
+            "organizer2-link": "https://playoverwatch.com/zh-tw",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "Taiwan",
+            "city": "Kaohsiung",
+            "format": "Bo3 Single-Elmination <br> Bo5 Finals",
+            "prizepool": "500,000",
+            "localcurrency": "twd",
+            "prizepoolusd": "15,774",
+            "sdate": "2016-07-16",
+            "edate": "2016-09-12",
+            "liquipediatier": "3",
+            "web": "http://www.gamefirst.com.tw/action/2016owcct/index.html",
+            "stream": "https://www.twitch.tv/blizzardzhtw",
+            "bracket": "",
+            "challonge": "https://challonge.com/2016_OWCCT_Playoffs/",
+            "teamfirst": "syf",
+            "teamsecond": "ahq",
+            "teamthird": "exm\u4e2d\u968a",
+            "teamfourth": "ttp",
+            "team_number": "16",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "ahq",
+            "link": "Ahq_e-Sports_Club",
+            "p1": "AfteR |p1flag=tw",
+            "p2": "Bow |p2flag=tw",
+            "p3": "Krapy |p3flag=tw",
+            "p4": "e1Fang |p4flag=tw",
+            "p5": "EDDIE |p5flag=tw",
+            "p6": "EricEnn |p6flag=tw",
+            "c": "DPower |cflag=tw"
+        },
+        {
+            "team": "\u8a02\u95b1\u5bfa\u5178\u97ed\u97ed\u9382",
+            "p1": "Xargon|p1flag=tw",
+            "p2": "Lilgho|p2flag=tw",
+            "p3": "Zonda|p3flag=tw",
+            "p4": "Gura|p4flag=tw",
+            "p5": "LazyTitan|p5flag=tw",
+            "p6": "Danny|p6flag=tw"
+        },
+        {
+            "team": "Stay Frosty",
+            "p1": "HolidayCow |p1flag=tw",
+            "p2": "Baconjack |p2flag=tw",
+            "p3": "KMoMo |p3flag=tw",
+            "p4": "S1nkler |p4flag=tw",
+            "p5": "SUGOI |p5flag=tw",
+            "p6": "Yik |p6flag=tw"
+        },
+        {
+            "team": "exm gaming",
+            "p1": "|p1flag=tw",
+            "p2": "|p2flag=tw",
+            "p3": "|p3flag=tw",
+            "p4": "|p4flag=tw",
+            "p5": "|p5flag=tw",
+            "p6": "|p6flag=tw"
+        },
+        {
+            "team": "TTP",
+            "p1": "|p1flag=tw",
+            "p2": "|p2flag=tw",
+            "p3": "|p3flag=tw",
+            "p4": "|p4flag=tw",
+            "p5": "|p5flag=tw",
+            "p6": "|p6flag=tw"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Bubu\u6070\u6070",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "\u8a02\u95b1\u5bfa\u5178\u97ed\u97ed\u9382",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "UKM",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "\u8a02\u95b1\u5bfa\u5178\u97ed\u97ed\u9382",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "exm gaming",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "syf",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ahq",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "syf",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "exm gaming",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "ttp",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

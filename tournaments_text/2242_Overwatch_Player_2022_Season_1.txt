@@ -1,0 +1,122 @@
+{{DISPLAYTITLE:Overwatch Player 2022 Season 1}}
+
+{{Infobox league 
+|name=Overwatch Player 2022 Season 1
+|shortname=Overwatch Player 2022 Season 1
+|tickername=Overwatch Player 2022 Season 1
+|image=2021 Overwatch Player.png
+|series=GAEMIN
+|icon=Gaemin logo small.png
+|organizer=Gaemin
+|organizer-link=http://gaemin.gg/
+|sponsor=[https://www.shoseo.ac.kr/ Seoul Hoseo Occupational Training College]<br>[https://www.hansung.ac.kr/ Hansung University Design & Arts Institude]<br>[https://www.sgaesports.gg/ SGA eSPORTS]
+|country=South Korea
+|number=
+|type=Online
+|format=Single Elimination
+|prizepool=500,000
+|localcurrency=KRW
+|prizepoolusd=382.9
+|liquipediatier=5
+|sdate=2022-11-17
+|edate=2022-11-18
+|web=https://gaemin.gg/contest/view?wm_id=441
+|twitch=gaemingg
+|twitter=
+|discord=M6kfsqDnDd
+|bracket=https://gaemin.gg/contest/tournament?wm_id=441
+|team_number=13
+|previous=
+|next=
+}}
+
+==Information==
+===Format===
+*Single Elimination Bracket
+**Grand Finals are {{Abbr/Bo3}}, all other matches are {{Abbr/Bo1}}
+**Skins allowed
+
+====Broadcast====
+{{BroadcasterCard|lang=Korean
+|position=Commentator
+|b1=|b1flag=kr|b1name=
+|b2=|b2flag=kr|b2name=
+}}
+{{box|end|padding=2em}}
+
+===Prize Pool===
+{{prize pool start|cutafter=4|localcurrency=won}}
+{{prize pool slot|place=1|usdprize=306.3|localprize=400,000|Club Of Cowards|lastvs1=Disciples|lastscore1=2 |lastvsscore1=0 }}
+{{prize pool slot|place=2|usdprize=76.6|localprize=100,000|Disciples|lastvs1=Club Of Cowards|lastscore1=0 |lastvsscore1=2 }}
+{{prize pool slot|place=3-4|usdprize=0|localprize=0 
+|T1 Rookies|lastvs1=Club Of Cowards|lastscore1=0 |lastvsscore1=1
+|HGD|lastvs2=Disciples|lastscore2=0 |lastvsscore2=1
+}}
+{{prize pool end}}
+
+==Top 4 Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start}}
+{{TeamCard|players=5
+|team=Club Of Cowards
+|p1=마우스감도|pos1=dps |p1link=DPI
+|p2=민빵|pos2=dps |p2link=Water
+|p3=Cowha|p3flag=kr|pos3=tank
+|p4=DealerPlayer|p4flag=kr|pos4=sup
+|p5=Flirting|pos5=sup
+|c=Gyomin|cflag=kr
+}}
+{{TeamCard|players=5
+|team=T1 Rookies
+|p1=JabamiYumeko|p1flag=kr|pos1=dps |p1link=XP7
+|p2=Argon|p2flag=kr|pos2=dps
+|p3=wyvern|p3flag=kr|pos3=tank
+|p4=Goblin|p4link=Goblin (Korean player)|p4flag=kr|pos4=tank
+|p5=Sp1nel|p5flag=kr|pos5=sup
+|p6=CRESCENT|p6flag=kr|pos6=sup
+|c=SAND
+}}
+{{TeamCard|players=5
+|team=Disciples
+|p1=힛뎀폭스2|p1flag=kr|pos1=
+|p2=우민|p2flag=kr|pos2=
+|p3=ampstyle|p3flag=kr|pos3=
+|p4=kimtaemok|p4flag=kr|pos4=
+|p5=psyqui|p5flag=kr|pos5=
+|p6=Gigavis|p6flag=kr|pos6=
+|p7=hilarious|p7flag=kr|pos7=
+}}
+{{TeamCard|players=5
+|team=HGD
+|p1=TrustMe|p1flag=kr|pos1=
+|p2=서상욱|p2flag=kr|pos2=
+|p3=김산|p3flag=kr|pos3=
+|p4=이철민|p4flag=kr|pos4=
+|p5=이종현|p5flag=kr|pos5=
+|p6=은칠|p6flag=kr|pos6=
+|p7=fiv|p7flag=kr|pos7=
+}}
+{{TeamCard columns end}}
+
+==Results==
+===Playoffs===
+{{LegacyBracket|Bracket/4-1Q|1Qual-4SETeamBracket|type=team|id=c7fjKZQ661
+<!-- SEMIFINALS -->
+|R1D1team=HGD |R1D1score=0 |R1D1win=
+|R1D2team=Disciples |R1D2score=1 |R1D2win=1
+|R1D3team=Club Of Cowards|R1D3score=1 |R1D3win=1
+|R1D4team=T1 Rookies|R1D4score=0 |R1D4win=
+<!-- FINALS -->
+|R2W1team=Disciples |R2W1score=0 |R2W1win=
+|R2W2team=Club Of Cowards |R2W2score=2 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=August 18, 2022 - 18:00 {{Abbr/KST}}
+|twitch=
+|finished=true
+|map1=Busan|map1score=0-2|map1win=2
+|map2=Circuit Royal|map2score=0-2|map2win=2
+|overgg=
+|pf=
+|wl=
+}}
+}}

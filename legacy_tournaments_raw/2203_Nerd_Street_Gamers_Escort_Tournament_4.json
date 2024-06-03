@@ -1,0 +1,229 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "Nerd Street Gamers",
+            "abbreviation": "NSG",
+            "shortname": "NSG - Escort Tournament #4",
+            "name": "Nerd Street Gamers - Overwatch 6v6 Escort Tournament #4",
+            "tickername": "NSG Escort Tournament #4",
+            "image": "Nerd Street Gamers Overwatch Tournament.png",
+            "organizer": "Nerd Street Gamers",
+            "organizer-link": "https://nerdstgamers.com",
+            "sponsor": "[https://www.zipchairgaming.com Zipchair Gaming]<br>[https://www.mikeandike.com/product/original-fruits/ Mike and Ike]<br>[https://www.gopuff.com/ goPuff]",
+            "type": "Online",
+            "country": "North America",
+            "format": "Double Elimination",
+            "prizepoolusd": "500",
+            "date": "2021-01-28",
+            "web": "https://events.nerdstgamers.com/",
+            "bracket": "https://battlefy.com/nerd-street-gamers/overwatch-6v6-escort-tournament/5ff4c24bcc1f0b11b8c4c669/stage/601330d8ec7bc517d807636e/bracket/",
+            "rules": "https://battlefy.com/nerd-street-gamers/overwatch-6v6-escort-tournament/5ff4c24bcc1f0b11b8c4c669/info?infoTab=rules",
+            "team_number": "10",
+            "previous": "Nerd Street Gamers/Escort Tournament/3{{!}}#3",
+            "next": "Nerd Street Gamers/Escort Tournament/5{{!}}#5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Abrams Hebrew Jewish Academy",
+            "p1": "cyy|p1flag=us|pos1=dps",
+            "p2": "Cohesion|p2flag=us|pos2=dps",
+            "p3": "MattMerc|p3flag=us|pos3=tank",
+            "p4": "abdala|p4flag=ir|pos4=tank",
+            "p5": "Karrotz|p5flag=us|pos5=sup",
+            "p6": "Switch|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Cratos",
+            "p1": "Zeerocious|p1flag=ye|pos1=dps",
+            "p2": "ultimawep|p2flag=us|pos2=dps",
+            "p3": "Borkin|p3flag=mx|pos3=tank",
+            "p4": "Krawi|p4flag=us|pos4=tank",
+            "p5": "Lyar|p5flag=us|pos5=sup",
+            "p6": "Pascal|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Siphs|t2c1pos=manager"
+        },
+        {
+            "team": "Mudkips Body Pillow",
+            "p1": "iced|p1flag=|pos1=dps",
+            "p2": "K1ng|p2flag=|pos2=dps",
+            "p3": "RhynO|p3flag=|pos3=tank",
+            "p4": "False|p4flag=|pos4=tank",
+            "p5": "Lukemino|p5flag=|pos5=sup",
+            "p6": "Mudkip|p6flag=|pos6=sup"
+        },
+        {
+            "team": "No Evil",
+            "p1": "Jazza|p1flag=us|pos1=dps",
+            "p2": "zeruhh|p2flag=us|pos2=dps",
+            "p3": "Bun|p3flag=us|pos3=dps",
+            "p4": "Pone|p4flag=|pos4=tank",
+            "p5": "CLEAR|p5flag=jp|pos5=tank",
+            "p6": "StillKIWI|p6flag=|pos6=sup",
+            "p7": "Swift16|p7flag=kr|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "jVenom|t2c1pos=Coach",
+            "t2c2": "debit|t2c2pos=Manager"
+        },
+        {
+            "team": "Sakura Esports",
+            "p1": "Zemrit|p1flag=us|pos1=dps",
+            "p2": "Tryhard|p2flag=us|pos2=dps",
+            "p3": "Kronik|p3flag=us|pos3=dps",
+            "p4": "Lava|p4flag=us|pos4=tank",
+            "p5": "Aquatic|p5flag=us|pos5=tank",
+            "p6": "Nox|p6flag=us|pos6=sup",
+            "p7": "EbenFlow|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "TAHS Raiders",
+            "p1": "Pride|p1flag=|pos1=",
+            "p2": "THSRaider5|p2flag=|pos2=",
+            "p3": "Masked|p3flag=|pos3=",
+            "p4": "THSEsports|p4flag=|pos4=",
+            "p5": "Milkweed|p5flag=|pos5=",
+            "p6": "Espen617|p6flag=|pos6=",
+            "p7": "Trailmilk|p7flag=|pos7="
+        },
+        {
+            "team": "TBA but its heat",
+            "p1": "AciiicA|p1flag=us|pos1=dps",
+            "p2": "bedtimestory|p2flag=us|pos2=dps",
+            "p3": "Death|p3flag=us|pos3=dps|p3link=Death (American player)",
+            "p4": "Faded|p4flag=|pos4=tank",
+            "p5": "TrainCloud|p5flag=us|pos5=tank",
+            "p6": "PG1|p6flag=|pos6=tank",
+            "p7": "Infernal|p7flag=|pos7=tank",
+            "p8": "Micro|p8flag=us|pos8=sup|p8link=Micro (American Coach)",
+            "p9": "Tokki|p9flag=|pos9=sup"
+        },
+        {
+            "team": "The Weird Squad",
+            "p1": "Emmeryn|p1flag=ca|pos1=dps",
+            "p2": "Celestial|p2flag=us|pos2=dps|p2link=Celestial (American Player)",
+            "p3": "shoc\u0138s|p3flag=us|pos3=dps",
+            "p4": "SuperGomez|p4flag=co|pos4=tank",
+            "p5": "Lunacy|p5flag=us|pos5=tank",
+            "p6": "DeadlyKitten|p6flag=us|pos6=tank|p6link=BlueStripe355",
+            "p7": "Baz|p7flag=us|pos7=sup",
+            "p8": "Pootrscootr|p8flag=us|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "MegaMulani|t2c1flag=ca|t2c1pos=coach"
+        },
+        {
+            "team": "University of Wyoming",
+            "p1": "Solax10|p1flag=|pos1=",
+            "p2": "Blackhawk307|p2flag=|pos2=",
+            "p3": "Superstition|p3flag=|pos3=",
+            "p4": "Euphoria|p4flag=|pos4=",
+            "p5": "bobbycoolpop|p5flag=|pos5=",
+            "p6": "Lakare|p6flag=|pos6=",
+            "p7": "dogwhoclean|p7flag=|pos7="
+        },
+        {
+            "team": "WIDESWUNG",
+            "p1": "JSauls|p1flag=|pos1=",
+            "p2": "Blinded|p2flag=|pos2=",
+            "p3": "mangofoshow|p3flag=|pos3=",
+            "p4": "Soren|p4flag=|pos4=",
+            "p5": "Carbon|p5flag=|pos5=",
+            "p6": "iForbiddenn|p6flag=|pos6=",
+            "p7": "chloe|p7flag=|pos7="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "abrams hebrew jewish academy",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "the weird squad",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "abrams hebrew jewish academy",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "cratos",
+            "score2": "1",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "abrams hebrew jewish academy",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "mudkips body pillow",
+            "score2": "2",
+            "win2": "",
+            "key": "R6W1",
+            "team1": "abrams hebrew jewish academy",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "the weird squad",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "no evil",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "tba but its heat",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "no evil",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "tahs raiders",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "cratos",
+            "score2": "2",
+            "win2": "1",
+            "key": "R5W1",
+            "team1": "tba but its heat",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "cratos",
+            "score2": "0",
+            "win2": "",
+            "key": "R6D1",
+            "team1": "mudkips body pillow",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "mudkips body pillow",
+            "score2": "1",
+            "win2": "",
+            "key": "R7W1",
+            "team1": "abrams hebrew jewish academy",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,244 @@
+{
+    "tournament_info": [
+        {
+            "name": "Pioneer Cup - Season 1",
+            "shortname": "Season 1",
+            "image": "Pioneer_Cup_logo.png",
+            "series": "",
+            "organizer": "PandaTV",
+            "organizer-link": "http://www.panda.tv/",
+            "organizer2": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "China",
+            "format": "'''Group Stage''':<br>Round Robin<br>'''Playoffs''':<br>Single Elimination",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "",
+            "date": "",
+            "sdate": "2016-05-24",
+            "edate": "2016-06-05",
+            "liquipediatier": "{{TierText/5}}",
+            "web": "",
+            "stream": "",
+            "challonge": "",
+            "teamfirst": "veteran",
+            "teamsecond": "skg",
+            "teamthird": "mes",
+            "teamfourth": "ang",
+            "team_number": "8",
+            "team1": "",
+            "team2": "",
+            "team3": "",
+            "team4": "",
+            "team5": "",
+            "team6": "",
+            "team7": "",
+            "team8": "",
+            "previous": "",
+            "next": "Pioneer_Cup/Season_2{{!}}Season 2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Skadi's Gift",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn",
+            "c": "JumpCat"
+        },
+        {
+            "team": "",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "skg",
+            "score2": "5",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "veteran",
+            "score1": "5",
+            "win1": "1"
+        },
+        {
+            "team2": "skg",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "veteran",
+            "score1": "6",
+            "win1": "1"
+        },
+        {
+            "team2": "mes",
+            "score2": "6",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "ang",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": [
+        {
+            "key": "match1",
+            "team1": "veteran",
+            "games1": "3",
+            "team2": "hhrm",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "team1": "mes",
+            "games1": "3",
+            "team2": "lucky players",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "team1": "veteran",
+            "games1": "3",
+            "team2": "mes",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match4",
+            "team1": "lucky players",
+            "games1": "1",
+            "team2": "hhrm",
+            "games2": "3",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "team1": "veteran",
+            "games1": "3",
+            "team2": "lucky players",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "team1": "mes",
+            "games1": "3",
+            "team2": "hhrm",
+            "games2": "1",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "team1": "xteam",
+            "games1": "0",
+            "team2": "skg",
+            "games2": "5",
+            "winner": "2"
+        },
+        {
+            "key": "match2",
+            "team1": "ang",
+            "games1": "5",
+            "team2": "ash",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "team1": "xteam",
+            "games1": "0",
+            "team2": "ang",
+            "games2": "5",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "team1": "skg",
+            "games1": "5",
+            "team2": "ash",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "team1": "skg",
+            "games1": "3",
+            "team2": "ang",
+            "games2": "2",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "team1": "xteam",
+            "games1": "3",
+            "team2": "ash",
+            "games2": "2",
+            "winner": "1"
+        }
+    ]
+}

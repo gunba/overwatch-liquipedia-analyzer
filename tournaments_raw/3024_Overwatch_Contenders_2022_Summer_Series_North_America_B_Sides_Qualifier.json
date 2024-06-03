@@ -1,0 +1,162 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2|liquipediatiertype=Qualifier",
+            "series": "Overwatch Contenders",
+            "abbreviation": "OWC",
+            "shortname": "OWC 2022 SS: NA B-Sides Qualifier",
+            "name": "Overwatch Contenders 2022 Summer Series: North America B-Sides - Qualifier",
+            "tickername": "OWC 2022 SS: NA B-Sides Qualifier",
+            "image": "Overwatch Contenders Summer Series B-Sides allmode.png",
+            "organizer": "Blizzard",
+            "organizer-link": "http://www.blizzard.com",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "North America",
+            "format": "Double Elimination",
+            "prizepoolusd": "",
+            "sdate": "2022-07-26",
+            "edate": "2022-07-27",
+            "web": "https://overwatchleague.com/en-us/contenders/",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/NA-Summer-B-Qual/bracket",
+            "youtube": "overwatchcontenders",
+            "twitter": "owpathtopro",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "July 26, 2022 - 17:00 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|bearclaw gaming}}",
+            "opponent2": "{{TeamOpponent|sleepover party}}",
+            "map1": "{{Map|map=Oasis|winner=2|score1=1|score2=2|mode=Control}}",
+            "map2": "{{Map|map=Midtown|winner=2|score1=1|score2=2|mode=Hybrid}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 26, 2022 - 17:00 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|playing for access}}",
+            "opponent2": "{{TeamOpponent|solstice}}",
+            "map1": "{{Map|map=Lijiang Tower|winner=1|score1=2|score2=1|mode=Control}}",
+            "map2": "{{Map|map=King's Row|winner=1|score1=4|score2=3|mode=1}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "July 26, 2022 - 17:00 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|melonation}}",
+            "opponent2": "{{TeamOpponent|shikigami}}",
+            "map1": "{{Map|map=Nepal|winner=2|score1=1|score2=2|mode=Control}}",
+            "map2": "{{Map|map=King's Row|winner=1|score1=3|score2=2|mode=Hybrid}}",
+            "map3": "{{Map|map=Dorado|winner=1|score1=3|score2=2|mode=Escort}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "July 26, 2022 - 17:00 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|kryix}}",
+            "opponent2": "{{TeamOpponent|darkmode na}}",
+            "map1": "{{Map|map=Lijiang Tower|winner=1|score1=2|score2=1|mode=1}}",
+            "map2": "{{Map|map=King's Row|winner=2|score1=2|score2=3|mode=2}}",
+            "map3": "{{Map|map=Circuit Royal|winner=2|score1=1|score2=3|mode=2}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "July 26, 2022 - 17:45 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|sleepover party}}",
+            "opponent2": "{{TeamOpponent|playing for access}}",
+            "map1": "{{Map|map=Lijiang Tower|winner=2|score1=1|score2=2|mode=Control}}",
+            "map2": "{{Map|map=Midtown|winner=1|score1=4|score2=3|mode=Hybrid}}",
+            "map3": "{{Map|map=Watchpoint: Gibraltar|winner=1|score1=3|score2=2|mode=Escort}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "July 26, 2022 - 17:45 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|melonation}}",
+            "opponent2": "{{TeamOpponent|darkmode na}}",
+            "map1": "{{Map|map=Lijiang Tower|winner=2|score1=0|score2=2|mode=Control}}",
+            "map2": "{{Map|map=King's Row|winner=2|score1=0|score2=1|mode=Hybrid}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "July 27, 2022 - 17:00 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|sleepover party}}",
+            "opponent2": "{{TeamOpponent|darkmode na}}",
+            "map1": "{{Map|map=Lijiang Tower|winner=2|score1=0|score2=2|mode=Control}}",
+            "map2": "{{Map|map=Eichenwalde|winner=2|score1=2|score2=3|mode=Hybrid}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "July 26, 2022 - 17:45 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|bearclaw gaming}}",
+            "opponent2": "{{TeamOpponent|solstice}}",
+            "map1": "{{Map|map=Lijiang Tower|winner=1|score1=2|score2=0|mode=1}}",
+            "map2": "{{Map|map=King's Row|winner=1|score1=5|score2=4|mode=1}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "July 26, 2022 - 17:45 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|shikigami}}",
+            "opponent2": "{{TeamOpponent|kryix}}",
+            "map1": "{{Map|map=Lijiang Tower|winner=2|score1=1|score2=2|mode=Control}}",
+            "map2": "{{Map|map=Midtown|winner=2|score1=1|score2=2|mode=Hybrid}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "July 26, 2022 - 18:30 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|melonation}}",
+            "opponent2": "{{TeamOpponent|bearclaw gaming}}",
+            "map1": "{{Map|map=Lijiang Tower|winner=1|score1=2|score2=1|mode=Control}}",
+            "map2": "{{Map|map=King's Row|winner=1|score1=3|score2=2|mode=Hybrid}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "July 26, 2022 - 18:30 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|playing for access}}",
+            "opponent2": "{{TeamOpponent|kryix}}",
+            "map1": "{{Map|map=Lijiang Tower|winner=2|score1=1|score2=2|mode=Control}}",
+            "map2": "{{Map|map=King's Row|winner=2|score1=1|score2=2|mode=Hybrid}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "July 27, 2022 - 17:00 {{Abbr/PDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|melonation}}",
+            "opponent2": "{{TeamOpponent|kryix}}",
+            "map1": "{{Map|map=Ilios|winner=2|score1=0|score2=2|mode=Control}}",
+            "map2": "{{Map|map=Hollywood|winner=2|score1=3|score2=4|mode=Hybrid}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "July 27, 2022 - 17:45 {{Abbr/PDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|sleepover party|score=1}}",
+            "opponent2": "{{TeamOpponent|kryix|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "July 27, 2022 - 16:30 {{Abbr/PDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|darkmode na|score=2}}",
+            "opponent2": "{{TeamOpponent|kryix|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        }
+    ]
+}

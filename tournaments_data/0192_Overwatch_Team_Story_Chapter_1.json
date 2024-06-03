@@ -1,0 +1,1436 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch Team Story - Chapter 1",
+            "tickername": "Overwatch Team Story",
+            "shortname": "Chapter 1",
+            "image": "Overwatch Team Story - Chapter 1 logo.png",
+            "series": "Overwatch Team Story",
+            "icon": "team story icon.png",
+            "organizer": "zhanqi.tv",
+            "organizer-link": "https://www.zhanqi.tv/",
+            "organizer2": "",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "China",
+            "city": "Shanghai",
+            "format": "'''Group Stage''':<br>Dual Tournament<br>'''Playoffs''':<br>Double Elimination",
+            "prizepool": "700000",
+            "localcurrency": "cny",
+            "date": "",
+            "sdate": "2016-12-02",
+            "edate": "2017-01-14",
+            "liquipediatier": "{{TierText/2}}",
+            "web": "",
+            "stream": "http://ots.zhanqi.tv/",
+            "bracket": "http://ow.vpgame.com/tournament/939.html#/show=schedule",
+            "team_number": "16",
+            "previous": "",
+            "next": "Overwatch_Team_Story/Chapter_2{{!}}Chapter 2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "iG.Fire",
+            "p1": "linkin",
+            "p2": "YjjPP",
+            "p3": "Nai8",
+            "p4": "Roy",
+            "p5": "Tresor",
+            "p6": "KHeart",
+            "t2title": "Staff",
+            "t2c1": "Muzi",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "iG.Ice",
+            "p1": "lucio",
+            "p1link": "lucio (Chinese player)",
+            "p2": "XiaoJue",
+            "p3": "yaoyao",
+            "p4": "YouYou",
+            "p5": "JamLee",
+            "p6": "MMDD",
+            "t2title": "Staff",
+            "t2c1": "XiaoYao",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "WE.White",
+            "p1": "Frisky",
+            "p2": "Break",
+            "p3": "Yan",
+            "p4": "Neptune",
+            "p5": "FTcc",
+            "p6": "yin"
+        },
+        {
+            "team": "Oh My God",
+            "p1": "1SHEN",
+            "p2": "NUBI",
+            "p3": "Jiaozhu",
+            "p3flag": "cn",
+            "p4": "NEO",
+            "p5": "SuanNa1",
+            "p5flag": "cn",
+            "p6": "DrCheng",
+            "p6flag": "cn",
+            "t2title": "Staff",
+            "t2c1": "Baom1hua",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "Newbee",
+            "p1": "Kenny",
+            "p2": "Fool",
+            "p3": "Three3",
+            "p4": "Yakumo",
+            "p5": "Baymax",
+            "p6": "Masami"
+        },
+        {
+            "team": "NGA.Titan",
+            "p1": "ShaDowCat",
+            "p2": "Fury",
+            "p2link": "Cheng_Chao",
+            "p3": "LittleCat",
+            "p4": "RLE",
+            "p5": "Hysteria",
+            "p6": "Maps",
+            "p6link": "Maps (Chinese player)"
+        },
+        {
+            "team": "eStar Gaming",
+            "p1": "Day",
+            "p2": "Lin9",
+            "p2flag": "cn",
+            "p3": "KinPika",
+            "p3flag": "cn",
+            "p4": "930",
+            "p5": "LuoHan",
+            "p5flag": "cn",
+            "p6": "lWei",
+            "p6flag": "cn"
+        },
+        {
+            "team": "Star Horn Royal Club",
+            "p1": "emperor",
+            "p2": "Saury",
+            "p3": "Dark",
+            "p4": "S01d",
+            "p5": "Nata",
+            "p6": "yyyy",
+            "t2title": "Staff",
+            "t2c1": "Chen",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "ahq e-Sports Club",
+            "p1": "AfteR",
+            "p2": "Cowman",
+            "p3": "Danny",
+            "p4": "EDDIE",
+            "p5": "EricEnn",
+            "p6": "Krapy",
+            "t2title": "Staff",
+            "t2c1": "DPower",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "Team Celestial",
+            "p1": "Akun",
+            "p2": "S",
+            "p3": "over",
+            "p4": "Rookie",
+            "p5": "AmuM2m",
+            "p6": "mEm0ry"
+        },
+        {
+            "team": "SKG",
+            "p1": "bone",
+            "p2": "Jumpcat",
+            "p3": "highbee",
+            "p4": "flood",
+            "p5": "hanhan",
+            "p6": "tpor",
+            "t2title": "Staff",
+            "t2c1": "JumpCat",
+            "t2c1pos": "coach",
+            "t2c2": "ExTra",
+            "t2c2pos": "coach"
+        },
+        {
+            "team": "Vici Gaming",
+            "p1": "yumu",
+            "p2": "eagle",
+            "p3": "Diya",
+            "p4": "zmmmm",
+            "p5": "tanqiu",
+            "p6": "xbg"
+        },
+        {
+            "team": "Snake eSports",
+            "p1": "700",
+            "p2": "Simon",
+            "p2flag": "cn",
+            "p3": "HuaMao",
+            "p4": "Key",
+            "p5": "FateHolder",
+            "p6": "GuaGua",
+            "p6flag": "cn"
+        },
+        {
+            "team": "1246",
+            "p1": "Tian",
+            "p1link": "Shi Chen",
+            "p2": "BBcat",
+            "p3": "Billyoo",
+            "p4": "samsara",
+            "p5": "Luca",
+            "p6": "11520"
+        },
+        {
+            "team": "MyTh Club",
+            "p1": "DuoDuo",
+            "p1flag": "cn",
+            "p2": "KKsharp",
+            "p3": "RUOZHI",
+            "p3flag": "cn",
+            "p4": "chiAk1",
+            "p5": "NiuB",
+            "p5flag": "cn",
+            "p6": "LanDo"
+        },
+        {
+            "team": "SV-LYB",
+            "link": "Super Valiant Gaming",
+            "p1": "Kudan",
+            "p2": "evilV",
+            "p3": "RinG",
+            "p3flag": "cn",
+            "p4": "VolY",
+            "p4flag": "cn",
+            "p5": "echo",
+            "p5flag": "cn",
+            "p5link": "echo (Chinese player)",
+            "p6": "MAX",
+            "p6flag": "cn",
+            "p6link": "MAX (Chinese player)"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "December 03, 2016 - 12:00",
+            "date_timezone": "CET",
+            "opponent1": "NGA.Titan",
+            "opponent2": "WE.White",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Volskaya Industries",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "3",
+                "winner": ""
+            },
+            "map4": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map6": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "December 03, 2016 - 14:00",
+            "date_timezone": "CET",
+            "opponent1": "MyTh Club",
+            "opponent2": "1246",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "December 04, 2016 - 12:00",
+            "date_timezone": "CET",
+            "opponent1": "WE.White",
+            "opponent2": "1246",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "December 04, 2016 - 14:00",
+            "date_timezone": "CET",
+            "opponent1": "NGA.Titan",
+            "opponent2": "MyTh Club",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "December 04, 2016 - 14:00",
+            "date_timezone": "CET",
+            "opponent1": "1246",
+            "opponent2": "NGA.Titan",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "December 09, 2016 - 12:00",
+            "date_timezone": "CET",
+            "opponent1": "Vici Gaming",
+            "opponent2": "Newbee",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Volskaya Industries",
+                "mode": "Assault",
+                "score1": "",
+                "score2": "",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": "2"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "December 09, 2016 - 14:00",
+            "date_timezone": "CET",
+            "opponent1": "Snake eSports",
+            "opponent2": "iG.Ice",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "",
+                "score2": "",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "2"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "December 10, 2016 - 12:00",
+            "date_timezone": "CET",
+            "opponent1": "Newbee",
+            "opponent2": "iG.Ice",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "December 10, 2016 - 14:00",
+            "date_timezone": "CET",
+            "opponent1": "Vici Gaming",
+            "opponent2": "Snake eSports",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "December 10, 2016 - 16:00",
+            "date_timezone": "CET",
+            "opponent1": "iG.Ice",
+            "opponent2": "Vici Gaming",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "1",
+                "winner": ""
+            },
+            "map3": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map6": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "December 16, 2016 - 12:00",
+            "date_timezone": "CET",
+            "opponent1": "Team Skadi's Gift",
+            "opponent2": "Star Horn Royal Club",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "December 16, 2016 - 14:00",
+            "date_timezone": "CET",
+            "opponent1": "eStar Gaming",
+            "opponent2": "SV-LYB",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "December 17, 2016 - 12:00",
+            "date_timezone": "CET",
+            "opponent1": "Star Horn Royal Club",
+            "opponent2": "SV-LYB",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "December 17, 2016 - 14:00",
+            "date_timezone": "CET",
+            "opponent1": "Team Skadi's Gift",
+            "opponent2": "eStar Gaming",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "December 17, 2016 - 16:00",
+            "date_timezone": "CET",
+            "opponent1": "SV-LYB",
+            "opponent2": "eStar Gaming",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "1",
+                "winner": ""
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "December 23, 2016 - 12:00",
+            "date_timezone": "CET",
+            "opponent1": "iG.Fire",
+            "opponent1_score": 3,
+            "opponent2": "Oh My God",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "December 23, 2016 - 14:00",
+            "date_timezone": "CET",
+            "opponent1": "ahq e-Sports Club",
+            "opponent1_score": 1,
+            "opponent2": "Team Celestial",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "December 24, 2016 - 12:00",
+            "date_timezone": "CET",
+            "opponent1": "iG.Fire",
+            "opponent2": "Team Celestial",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "December 24, 2016 - 14:00",
+            "date_timezone": "CET",
+            "opponent1": "Oh My God",
+            "opponent2": "ahq e-Sports Club",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "December 24, 2016 - 16:00",
+            "date_timezone": "CET",
+            "opponent1": "iG.Fire",
+            "opponent2": "Oh My God",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "December 30, 2016 - 19:00",
+            "date_timezone": "CST",
+            "opponent1": "WE.White",
+            "opponent2": "iG.Ice",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 30, 2016 - 21:00",
+            "date_timezone": "CST",
+            "opponent1": "eStar Gaming",
+            "opponent2": "Team Celestial",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 31, 2016 - 19:00",
+            "date_timezone": "CST",
+            "opponent1": "Star Horn Royal Club",
+            "opponent2": "Oh My God",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Volskaya Industries",
+                "mode": "Assault",
+                "score1": "3",
+                "score2": "3",
+                "winner": ""
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "December 31, 2016 - 21:00",
+            "date_timezone": "CST",
+            "opponent1": "NGA.Titan",
+            "opponent2": "Newbee",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "6",
+                "score2": "5",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "January 6, 2017 - 21:00",
+            "date_timezone": "CST",
+            "opponent1": "WE.White",
+            "opponent2": "Team Celestial",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "January 7, 2017 - 19:00",
+            "date_timezone": "CST",
+            "opponent1": "Star Horn Royal Club",
+            "opponent2": "Newbee",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "January 13, 2017 - 15:30",
+            "date_timezone": "CST",
+            "opponent1": "WE.White",
+            "opponent2": "Star Horn Royal Club",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Volskaya Industries",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "January 6, 2017 - 19:00",
+            "date_timezone": "CST",
+            "opponent1": "iG.Ice",
+            "opponent2": "eStar Gaming",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score20": "",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "January 7, 2017 - 21:00",
+            "date_timezone": "CST",
+            "opponent1": "Oh My God",
+            "opponent2": "NGA.Titan",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "TBA",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": "1"
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "January 8, 2017 - 19:00",
+            "date_timezone": "CST",
+            "opponent1": "Newbee",
+            "opponent2": "iG.Ice",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "1",
+                "winner": ""
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "January 8, 2017 - 21:00",
+            "date_timezone": "CST",
+            "opponent1": "Team Celestial",
+            "opponent2": "Oh My God",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "January 13, 2017 - 18:00",
+            "date_timezone": "CST",
+            "opponent1": "Newbee",
+            "opponent2": "Team Celestial",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "January 14, 2017 - 15:30",
+            "date_timezone": "CST",
+            "opponent1": "WE.White",
+            "opponent2": "Team Celestial",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "January 14, 2017 - 18:00",
+            "date_timezone": "CST",
+            "opponent1": "Star Horn Royal Club",
+            "opponent2": "WE.White",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "name": "Duck Squad Brawl #1",
+            "shortname": "League Trolli Duck Squad Brawl",
+            "tickername": "League Trolli Duck Squad Brawl",
+            "icon": "LeagueTrolli.png",
+            "image": "LeagueTrolli.png",
+            "series": "League Trolli",
+            "organizer": "Duck Squad",
+            "organizer2": "League Trolli",
+            "sponsor": "[https://www.trolli.com/ Trolli]",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "100",
+            "date": "2022-12-18",
+            "twitter": "l8tency",
+            "web": "https://leaguetrolli.challonge.com/",
+            "twitch": "l8tency",
+            "discord": "9z6hfQfcz2",
+            "rulebook": "https://docs.google.com/document/d/13pY0DpQF8aeDoCcSkjqJpv0_UOIk5uZdEr-Zzt1LWTc/edit?usp=sharing",
+            "bracket": "https://leaguetrolli.challonge.com/z69dg4ro",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "The Broski's",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "Olympus Sparta",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "Odyssey Kronos",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "McLovers",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "ghasts",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "Team Lol",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "Gum Club",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "D\u0337\u033f\u0307o\u0338\u033f\u035dw\u0335\u0314\u0304n\u0336\u0352\u0315 \u0335\u0307\u0315I\u0335\u0313\u030fn\u0336\u0313\u0358 \u0334\u031b\u0313\u00d2\u0336\u034bh\u0337\u0309\u0301i\u0336\u0313\u0312\u01d2\u0338\u0310",
+            "p1": "KaBunga|pos1=tank|p1flag=us",
+            "p2": "Stunaep|pos2=dps|p2flag=us",
+            "p3": "Akua|pos3=dps|p3flag=us",
+            "p4": "Bagel|pos4=sup|p4flag=can",
+            "p5": "Shocker|pos5=sup|p5flag=us"
+        },
+        {
+            "team": "Scylla_",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "TEAM CBC",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "Letter League",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        },
+        {
+            "team": "Team Gambit",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|D\u0337\u033f\u0307o\u0338\u033f\u035dw\u0335\u0314\u0304n\u0336\u0352\u0315 \u0335\u0307\u0315I\u0335\u0313\u030fn\u0336\u0313\u0358 \u0334\u031b\u0313\u00d2\u0336\u034bh\u0337\u0309\u0301i\u0336\u0313\u0312\u01d2\u0338\u0310|score=1}}",
+            "opponent2": "{{TeamOpponent|scylla|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ghasts|score=0}}",
+            "opponent2": "{{TeamOpponent|team gambit|score=1}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gum club|score=1}}",
+            "opponent2": "{{TeamOpponent|team cbc|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team lol|score=1}}",
+            "opponent2": "{{TeamOpponent|letter league|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the broski's|score=0}}",
+            "opponent2": "{{TeamOpponent|D\u0337\u033f\u0307o\u0338\u033f\u035dw\u0335\u0314\u0304n\u0336\u0352\u0315 \u0335\u0307\u0315I\u0335\u0313\u030fn\u0336\u0313\u0358 \u0334\u031b\u0313\u00d2\u0336\u034bh\u0337\u0309\u0301i\u0336\u0313\u0312\u01d2\u0338\u0310|score=1}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|mclovers|score=0}}",
+            "opponent2": "{{TeamOpponent|team gambit|score=1}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|olympus sparta|score=1}}",
+            "opponent2": "{{TeamOpponent|gum club|score=0}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|odyssey kronos|score=1}}",
+            "opponent2": "{{TeamOpponent|team lol|score=0}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|D\u0337\u033f\u0307o\u0338\u033f\u035dw\u0335\u0314\u0304n\u0336\u0352\u0315 \u0335\u0307\u0315I\u0335\u0313\u030fn\u0336\u0313\u0358 \u0334\u031b\u0313\u00d2\u0336\u034bh\u0337\u0309\u0301i\u0336\u0313\u0312\u01d2\u0338\u0310|score=0}}",
+            "opponent2": "{{TeamOpponent|team gambit|score=2}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|olympus sparta|score=2}}",
+            "opponent2": "{{TeamOpponent|odyssey kronos|score=0}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team gambit|score=2}}",
+            "opponent2": "{{TeamOpponent|olympus sparta|score=0}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team lol|score=1}}",
+            "opponent2": "{{TeamOpponent|scylla|score=0}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gum club|score=1}}",
+            "opponent2": "{{TeamOpponent|ghasts|score=0}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|mclovers|score=1}}",
+            "opponent2": "{{TeamOpponent|team cbc|score=0}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the broski's|score=0}}",
+            "opponent2": "{{TeamOpponent|letter league|score=1}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team lol|score=1}}",
+            "opponent2": "{{TeamOpponent|gum club|score=0}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|mclovers|score=1}}",
+            "opponent2": "{{TeamOpponent|letter league|score=0}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|D\u0337\u033f\u0307o\u0338\u033f\u035dw\u0335\u0314\u0304n\u0336\u0352\u0315 \u0335\u0307\u0315I\u0335\u0313\u030fn\u0336\u0313\u0358 \u0334\u031b\u0313\u00d2\u0336\u034bh\u0337\u0309\u0301i\u0336\u0313\u0312\u01d2\u0338\u0310|score=2}}",
+            "opponent2": "{{TeamOpponent|team lol|score=0}}",
+            "optional": "R3M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|odyssey kronos|score=2}}",
+            "opponent2": "{{TeamOpponent|mclovers|score=0}}",
+            "optional": "R3M4="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|D\u0337\u033f\u0307o\u0338\u033f\u035dw\u0335\u0314\u0304n\u0336\u0352\u0315 \u0335\u0307\u0315I\u0335\u0313\u030fn\u0336\u0313\u0358 \u0334\u031b\u0313\u00d2\u0336\u034bh\u0337\u0309\u0301i\u0336\u0313\u0312\u01d2\u0338\u0310|score=2}}",
+            "opponent2": "{{TeamOpponent|odyssey kronos|score=0}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|olympus|score=1}}",
+            "opponent2": "{{TeamOpponent|D\u0337\u033f\u0307o\u0338\u033f\u035dw\u0335\u0314\u0304n\u0336\u0352\u0315 \u0335\u0307\u0315I\u0335\u0313\u030fn\u0336\u0313\u0358 \u0334\u031b\u0313\u00d2\u0336\u034bh\u0337\u0309\u0301i\u0336\u0313\u0312\u01d2\u0338\u0310|score=2}}",
+            "optional": "R5M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team gambit|score=2}}",
+            "opponent2": "{{TeamOpponent|D\u0337\u033f\u0307o\u0338\u033f\u035dw\u0335\u0314\u0304n\u0336\u0352\u0315 \u0335\u0307\u0315I\u0335\u0313\u030fn\u0336\u0313\u0358 \u0334\u031b\u0313\u00d2\u0336\u034bh\u0337\u0309\u0301i\u0336\u0313\u0312\u01d2\u0338\u0310|score=0}}",
+            "optional": "R6M1="
+        }
+    ]
+}

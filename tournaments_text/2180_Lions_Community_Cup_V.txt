@@ -1,0 +1,309 @@
+{{DISPLAYTITLE:Munich eSports Lions Community Cup V}}
+
+{{Infobox league 
+|name=Munich eSports Lions Community Cup V
+|shortname=Lions Cup V
+|image=Lions Cup painted.png
+|series=Munich eSports Lions Community Cup
+|icon=Lions Cup painted.png
+|organizer=Munich eSports e.V.
+|number=5
+|type=Online
+|country=Germany
+|format=Single Elimination
+|prizepoolusd=220
+|liquipediatier={{TierText/5}}
+|sdate=2021-04-24
+|edate=2021-04-25
+|web=
+|twitter=munich_esports
+|twitch=munich_esports
+|bracket=https://www.toornament.com/en_US/tournaments/4556468654902140928/stages/4556485721329541120/
+|team_number=11
+|previous=Lions Community Cup IIII
+|next=
+}}
+
+==Information==
+{{box|start}}
+====German Broadcast ([https://www.twitch.tv/munich_esports Munich eSports])====
+{{BroadcasterCard|lang=German
+|position=Commentator
+|b1=JLEPS|b1name=Jakob Schwinn|b1flag=de
+|b2=Zarin|b2name=Matthias Philippi|b2flag=de
+|b3=Juli4n|b3name=Julian Spies|b3flag=de
+|b4=KingRaptor|b4name=Maximilian Juchheim|b4flag=de
+|b5=Keksaeaeaeae|b5name=Sebastian Brandenburg|b5flag=de
+
+
+}}
+{{BroadcasterCard|lang=German
+|position=Substitute Commentator
+|b1=Stormraker|b1name=Valentin Liebl|b1flag=de
+}}
+{{BroadcasterCard|lang=German
+|position=Producer
+|b1=St34m |b1name=Marco Plewnia|b1flag=de
+}}
+{{box|end|padding=2em}}
+
+===Format===
+**Group Stage is Round Robin.
+**Final is Single Elimination.
+**Each match will be played in a First to 3 format.
+**Each round both teams ban one map and one hero.
+**The first map is determined by the lobby hosting team.
+**Following maps are decided by the loser of the previous map. The winner picks the side.
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=6|Available Maps
+|-
+![[Assault]]
+![[Control]]
+![[Escort]]
+![[Hybrid]]
+|-
+!1st set
+|''[[Control]] map''
+|width="130" rowspan=7|[[Hanamura]]<br><br>[[Volskaya Industries]]<br><br>[[Temple of Anubis]]
+|width="130" rowspan=7|[[Ilios]]<br><br>[[Lijiang Tower]]<br><br>[[Nepal]]<br><br>[[Oasis]]<br><br>[[Busan]]
+|width="130" rowspan=7|[[Junkertown]]<br><br>[[Dorado]]<br><br>[[Havana]]<br><br>[[Rialto]]<br><br>[[Route 66]]<br><br>[[Watchpoint: Gibraltar]]
+|width="130" rowspan=7|[[King's Row]]<br><br>[[Blizzard World]]<br><br>[[Eichenwalde]]<br><br>[[Hollywood]]<br><br>[[Numbani]]
+|-
+!2nd set
+|''[[Escort]] map''
+|-
+!3rd set
+|''[[Hybrid]] map''
+|-
+!4th set
+|''[[Assault]] map''
+|-
+!5th set
+|''[[Control]] map''
+|-
+!6th set
+|''[[Escort]] map''
+|-
+!7th set
+|''[[Hybrid]] map''
+|-
+|}
+
+==Prize Pool==
+{{prize pool start|localcurrency=eur|cutafter=4}}
+{{prize pool slot|place=1 |usdprize=188 |localprize=155 |Munich eSports |lastvs1=Munich eSports Nemesis |lastscore1=3 |lastvsscore1=0 |date1=2021-4-25 }}
+{{prize pool slot|place=2 |usdprize=80 |localprize=66 |Munich eSports Nemesis |lastvs1=Munich eSports |lastscore1=0 |lastvsscore1=3 |date1=2021-4-25 }}
+{{prize pool slot|place=3-4 |usdprize=0 |localprize=0 |Anadrol |lastvs1=Munich eSports Nemesis |lastscore1=2 |lastvsscore1=3 |date1=2021-4-25 }}
+{{prize pool slot|place=3-4 |usdprize=0 |localprize=0 |Phodon eSport |lastvs1=Munich eSports |lastscore1=0 |lastvsscore1=3 |date1=2021-4-25 }}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+<section begin="Participants"/>
+{{TeamCard columns start|cols=12}}
+{{TeamCard
+|team=Munich eSports
+|image=munich_esports_2021.png
+|p1=SSK|p1flag=de|pos1=dps
+|p2=Bliss|p2flag=de|pos2=dps|p2link=Bliss (German Player)
+|p3=MaDetho|p3flag=de|pos3=dps
+|p4=EgZo|p4flag=de|pos4=tank
+|p5=shan|p5flag=de|pos5=tank
+|p6=Awzey|p6flag=de|pos6=sup
+|p7=Kyuubi|p7flag=de|pos7=sup
+|p8=Organgeshadow|p8flag=de|pos8=sup
+|p9=TrqstMe|p9flag=de|pos9=flex
+|t2title=Staff
+|t2p1=Txzla|t2p1flag=de|t2pos1=coach
+|t2p2=SofiJonson|t2p2flag=ru|t2pos2=manager
+|placement=
+}}
+{{TeamCard
+|team=Munich eSports Academy
+|image=munich_esports_2021.png
+|p1=Juaro|p1flag=de|pos1=dps
+|p2=Yondaime|p2flag=de|pos2=dps
+|p3=Agy|p3flag=de|pos3=tank
+|p4=Guldraeber|p4flag=de|pos4=tank
+|p5=Xires|p5flag=de|pos5=sup
+|p6=AJKD|p6flag=de|pos6=sup
+
+|placement=
+}}
+{{TeamCard
+|team=Munich eSports C.A.M.
+|image=munich_esports_2021.png
+|p1=YoYoshi|p1flag=de|pos1=dps
+|p2=Nana|p2flag=de|pos2=dps
+|p3=Zornig|p3flag=de|pos3=dps
+|p4=Cruisu|p4flag=de|pos4=tank
+|p5=Cyb3rlilli|p5flag=de|pos5=tank
+|p6=Tsuga|p6flag=de|pos6=tank
+|p7=Momo|p7flag=de|pos7=flex
+|placement=
+}}
+{{TeamCard
+|team=Munich eSports Nemesis
+|image=munich_esports_2021.png
+|p1=DSA|p1flag=de|pos1=dps
+|p2=Ghettodoofy|p2flag=de|pos2=dps
+|p3=EvilArts|p3flag=de|pos3=tank
+|p4=Erikek|p4flag=es|pos4=tank
+|p5=Qualle|p5flag=de|pos5=sup
+|p6=Dizzel|p6flag=pt|pos6=sup
+|placement=
+}}
+{{TeamCard
+|team=Dortmund eSports Ravens
+|image=Dortmund_eSports_Ravens.png
+|p1=TBD|p1flag=de|pos1=dps
+|p2=TBD|p2flag=de|pos2=dps
+|p3=TBD|p3flag=de|pos3=dps
+|p4=TBD|p4flag=de|pos4=tank
+|p5=TBD|p5flag=de|pos5=tank
+|p6=TBD|p6flag=de|pos6=tank
+|p7=TBD|p7flag=de|pos7=sup
+|p8=TBD|p8flag=de|pos8=sup
+|p9=TBD|p9flag=de|pos9=sup
+|placement=
+}}
+{{TeamCard
+|team=KIT SC Sphinx
+|image=KIT SC Sphinx.png
+|p1=TBD|p1flag=de|pos1=dps
+|p2=TBD|p2flag=de|pos2=dps
+|p3=TBD|p3flag=de|pos3=dps
+|p4=TBD|p4flag=de|pos4=tank
+|p5=TBD|p5flag=de|pos5=tank
+|p6=TBD|p6flag=de|pos6=tank
+|p7=TBD|p7flag=de|pos7=sup
+|p8=TBD|p8flag=de|pos8=sup
+|p9=TBD|p9flag=de|pos9=sup
+|placement=
+}}
+{{TeamCard
+|team=FRSZ Gaming
+|image=
+|p1=TBD|p1flag=de|pos1=dps
+|p2=TBD|p2flag=de|pos2=dps
+|p3=TBD|p3flag=de|pos3=dps
+|p4=TBD|p4flag=de|pos4=tank
+|p5=TBD|p5flag=de|pos5=tank
+|p6=TBD|p6flag=de|pos6=tank
+|p7=TBD|p7flag=de|pos7=sup
+|p8=TBD|p8flag=de|pos8=sup
+|p9=TBD|p9flag=de|pos9=sup
+|placement=
+}}
+{{TeamCard
+|team=Phodon eSport
+|image=
+|p1=TBD|p1flag=de|pos1=dps
+|p2=TBD|p2flag=de|pos2=dps
+|p3=TBD|p3flag=de|pos3=dps
+|p4=TBD|p4flag=de|pos4=tank
+|p5=TBD|p5flag=de|pos5=tank
+|p6=TBD|p6flag=de|pos6=tank
+|p7=TBD|p7flag=de|pos7=sup
+|p8=TBD|p8flag=de|pos8=sup
+|p9=TBD|p9flag=de|pos9=sup
+|placement=
+}}
+{{TeamCard
+|team=Karate Kitten
+|image=
+|p1=TBD|p1flag=de|pos1=dps
+|p2=TBD|p2flag=de|pos2=dps
+|p3=TBD|p3flag=de|pos3=dps
+|p4=TBD|p4flag=de|pos4=tank
+|p5=TBD|p5flag=de|pos5=tank
+|p6=TBD|p6flag=de|pos6=tank
+|p7=TBD|p7flag=de|pos7=sup
+|p8=TBD|p8flag=de|pos8=sup
+|p9=TBD|p9flag=de|pos9=sup
+|placement=
+}}
+{{TeamCard
+|team=Nerf this!
+|image=
+|p1=TBD|p1flag=de|pos1=dps
+|p2=TBD|p2flag=de|pos2=dps
+|p3=TBD|p3flag=de|pos3=dps
+|p4=TBD|p4flag=de|pos4=tank
+|p5=TBD|p5flag=de|pos5=tank
+|p6=TBD|p6flag=de|pos6=tank
+|p7=TBD|p7flag=de|pos7=sup
+|p8=TBD|p8flag=de|pos8=sup
+|p9=TBD|p9flag=de|pos9=sup
+|placement=
+}}
+
+{{box|break|padding=2em}}
+{{box|end|padding=2em}}
+
+==Results==
+<section begin="Bracket"/>
+===={{HiddenSort|Bracket}}====
+{{Bracket|Bracket/4L2DS|id=BgA6OKBN7o
+
+<!-- Quarter-Finals -->
+|R1M1={{Match
+    |bestof=5
+	|date=April 25, 2021 - 14:00 {{Abbr/CET}}
+    |opponent1={{TeamOpponent|Phodon eSport|score=3}}
+    |opponent2={{TeamOpponent|Kit SC Sphinx|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+	|date=April 25, 2021 - 14:00 {{Abbr/CET}}
+    |opponent1={{TeamOpponent|Munich eSports Nemesis|score=3}}
+    |opponent2={{TeamOpponent|Munich eSports Academy|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Semi-Finals -->
+|R2M1={{Match
+	|date=April 25, 2021 - 16:00 {{Abbr/CET}}
+    |opponent1={{TeamOpponent|Munich eSports|score=3}}
+    |opponent2={{TeamOpponent|Phodon eSport|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+	|date=April 25, 2021 - 16:00 {{Abbr/CET}}
+    |opponent1={{TeamOpponent|Anadrol|score=2}}
+    |opponent2={{TeamOpponent|Munich eSports Nemesis|score=3}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Final -->
+|R3M1={{Match
+	|date=April 25, 2021 - 18:00 {{Abbr/CET}}
+    |opponent1={{TeamOpponent|Munich eSports|score=3}}
+    |opponent2={{TeamOpponent|Munich eSports Nemesis|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

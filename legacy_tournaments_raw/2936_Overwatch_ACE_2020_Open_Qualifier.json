@@ -1,0 +1,269 @@
+{
+    "tournament_info": [],
+    "team_cards": [
+        {
+            "team": "Watermelon Waddlers",
+            "p1": "Lethal|p1flag=|pos1=dps",
+            "p2": "Vytal|p2flag=sg|pos2=dps",
+            "p3": "Xenofly|p3flag=|pos3=tank",
+            "p4": "Step|p4flag=hk|pos4=tank",
+            "p5": "Yuris|p5flag=sg|pos5=sup",
+            "p6": "oPuTo|p6flag=|pos6=sup",
+            "p7": "Saviour|p7flag=sg|pos7=sub",
+            "c": "JohnGalt|cflag=",
+            "c2": "ccyrusss|c2flag="
+        },
+        {
+            "team": "Connect Gaming",
+            "p1": "badaim|p1flag=jp|pos1=dps",
+            "p2": "Nico|p2flag=jp|pos2=dps",
+            "p3": "KSG1912|p3flag=jp|pos3=tank",
+            "p4": "ask|p4flag=jp|pos4=tank",
+            "p5": "nekomaid|p5flag=jp|pos5=sup",
+            "p6": "W4KA|p6flag=jp|pos6=sup",
+            "c": "remono|cflag=jp"
+        },
+        {
+            "team": "Battle Angel",
+            "p1": "Anc1enT |p1flag=tw |pos1=dps",
+            "p2": "MaSu |p2flag=tw |pos2=dps",
+            "p3": "BATA |p3flag=tw |pos3=tank |p3link=BATA (Taiwanese player)",
+            "p4": "R3K |p4flag=hk |pos4=tank",
+            "p5": "CR2CUIQ |p5flag=tw |pos5=sup",
+            "p6": "RAYMOMO |p6flag=tw |pos6=sup",
+            "p7": "Ariana |p7flag= |pos7="
+        },
+        {
+            "team": "JayCoBird",
+            "p1": "TNV|p1flag=th|pos1=dps",
+            "p2": "XRS|p2flag=th|pos2=dps",
+            "p3": "AinzO|p3flag=th|pos3=tank",
+            "p4": "KallBun|p4flag=th|pos4=tank",
+            "p5": "TxQ4|p5flag=th|pos5=sup",
+            "p6": "Teaser|p6flag=th|pos6=sup",
+            "p7": "PaLee|p7flag=th|pos7=sup",
+            "c": "HeadHawk"
+        },
+        {
+            "team": "FES Bhava",
+            "link": "FES Academy Bhava",
+            "p1": "TsukuyomiX|p1flag=sg|pos1=dps",
+            "p2": "Xander|p2flag=sg|pos2=dps",
+            "p3": "Thomas|p3flag=hk|pos3=tank",
+            "p4": "Unknown|p4link=Unknon|p4flag=sg|pos4=tank",
+            "p5": "EzClap|p5flag=sg|pos5=sup",
+            "p6": "Overshake|p6flag=sg|pos6=sup",
+            "p7": "Ch3nlee|p7flag=id|pos7=sup",
+            "p8": "ShibayaSama|p8flag=th|pos8=sub",
+            "p9": "FafaB|p9flag=mm|pos9=sub"
+        },
+        {
+            "team": "RK House",
+            "p1": "Xeno|p1flag=sg|pos1=dps",
+            "p2": "gangnmstyle8|p2link=rib|p2flag=bd|pos2=dps",
+            "p3": "Ossyria|p3flag=sg|pos3=tank",
+            "p4": "HelioS|p4flag=sg|pos4=tank",
+            "p5": "Ayako|p5flag=sg|pos5=sup",
+            "p6": "Henk|p6flag=hk|pos6=sup",
+            "p7": "Kevkunnn|p7flag=mm|pos7=sup"
+        },
+        {
+            "team": "Ocean Park",
+            "p1": "DALI |p1flag=cn |pos1=",
+            "p2": "\u8702\u871c\u6ecb\u6ecb\u7cd6 |p2flag= |pos2=",
+            "p3": "\u6f88\u51e0 |p3flag= |pos3=",
+            "p4": "icedog |p4flag= |pos4=",
+            "p5": "M1dwinter |p5flag= |pos5=",
+            "p6": "HimGorZz |p6flag= |pos6="
+        },
+        {
+            "team": "Komodo Warriors",
+            "p1": "AntiClares |p1flag=id |pos1=",
+            "p2": "LycanWolf |p2flag= |pos2=",
+            "p3": "Lipstick |p3flag= |pos3=",
+            "p4": "Biscuit |p4flag= |pos4=",
+            "p5": "Koyo |p5flag= |pos5=",
+            "p6": "KORRYs |p6flag= |pos6=",
+            "p7": "AllLimited |p7flag= |pos7=",
+            "p8": "Nolori |p8flag= |pos8="
+        },
+        {
+            "team": "Valencia",
+            "p1": "AQua |p1flag=th |pos1=",
+            "p2": "flukky |p2flag=th |pos2=",
+            "p3": "OnlyYou |p3flag=th |pos3=",
+            "p4": "ItzPrince |p4flag=th |pos4=",
+            "p5": "KAIMU |p5flag=th |pos5=",
+            "p6": "penny |p6flag=th |pos6=",
+            "p7": "Fashion |p7flag=th |pos7=",
+            "p8": "NOOBGENJI |p8flag= |pos8="
+        },
+        {
+            "team": "Avoided SEA",
+            "p1": "gongza8888 |p1flag=th |pos1=",
+            "p2": "Neeberino |p2flag=sg |pos2=",
+            "p3": "DragZafk |p3flag= |pos3=",
+            "p4": "Jesz |p4flag= |pos4=",
+            "p5": "Cerise |p5flag= |pos5=",
+            "p6": "\u0e04\u0e27\u0e32\u0e22\u0e17\u0e30\u0e40\u0e25 |p6flag=th |pos6=",
+            "p7": "AshKane |p7flag=sg |pos7=",
+            "p8": "Monaxi\u00e1 |p8flag= |pos8="
+        },
+        {
+            "team": "KRTB (Kings Row Telephone Box \u570b\u738b\u5927\u9053\u96fb\u8a71\u4ead)",
+            "p1": "ASCII |p1flag=hk |pos1=",
+            "p2": "amcrazy |p2flag=hk |pos2=",
+            "p3": "chy1217 |p3flag=hk |pos3=",
+            "p4": "Melody0v0 |p4flag=hk |pos4=",
+            "p5": "CAR |p5flag= |pos5=",
+            "p6": "Ha3sTy88 |p6flag=hk |pos6=",
+            "p7": "\u65b9\u99ff |p7flag=hk |pos7=",
+            "p8": "poorism |p8flag=hk |pos8="
+        },
+        {
+            "team": "HYPERS",
+            "p1": "Yoshinori2k |p1flag=th |pos1=",
+            "p2": "SneakyTurtle |p2flag=th |pos2=",
+            "p3": "KHADI |p3flag= |pos3=",
+            "p4": "Ins8ne |p4flag=th |pos4=",
+            "p5": "ChickenKing7 |p5flag= |pos5=",
+            "p6": "Don1885 |p6flag= |pos6=",
+            "p7": "GrumpyCat |p7flag= |pos7="
+        },
+        {
+            "team": "FES Academy Riptide",
+            "p1": "Littleman |p1flag=nz |pos1=dps",
+            "p2": "yasu |p2flag=th |pos2=dps",
+            "p3": "FishFry |p3flag=vn |pos3=dps",
+            "p4": "SmilE |p4flag=id |pos4=tank",
+            "p5": "ItzNova |p5flag=us |pos5=tank",
+            "p6": "KuMa |p6flag=my |pos6=tank",
+            "p7": "Grandeesauto |p7flag=ph |pos7=sup",
+            "p8": "Thund4r |p8flag=my |pos8=sup"
+        },
+        {
+            "team": "Lolitron and Co.",
+            "p1": "misango |p1flag= |pos1=",
+            "p2": "ZEROTWO |p2flag= |pos2=",
+            "p3": "KillerDuck |p3flag= |pos3=",
+            "p4": "Flowsik |p4flag= |pos4=",
+            "p5": "jpixis |p5flag= |pos5=",
+            "p6": "MGX |p6flag= |pos6=",
+            "p7": "Lolitron |p7flag=ph |pos7="
+        },
+        {
+            "team": "DiamondPoggers",
+            "p1": "keoneo |p1flag=mo |pos1=",
+            "p2": "adriel |p2flag=sg |pos2=",
+            "p3": "PaperBag3000 |p3flag=sg |pos3=",
+            "p4": "shermaineeee |p4flag=sg |pos4=",
+            "p5": "Nabit |p5flag=sg |pos5=",
+            "p6": "IvanJKohFTW |p6flag=sg |pos6=",
+            "p7": "ShadowTitan |p7flag=sg |pos7=",
+            "p8": "Claire |p8link=Claire (Singaporean player)|p8flag=sg |pos8="
+        },
+        {
+            "team": "Team Hush",
+            "p1": "Naive |p1link=RuiMin| p1flag=tw |pos1=dps",
+            "p2": "Syntax |p2flag=tw |pos2=dps",
+            "p3": "EricYoo |p3flag=tw |pos3=dps",
+            "p4": "Future |p4flag=tw |pos4=tank",
+            "p5": "Jenne88 |p5flag=kr |pos5=tank",
+            "p6": "\u53c8\u60f3\u59b3\u4e86 |p6flag=tw |pos6=tank",
+            "p7": "YiWind |p7flag=hk |pos7=sup",
+            "p8": "AhBao |p8flag=tw |pos8=sup"
+        },
+        {
+            "team": "EZEKIEL",
+            "p1": "Abatory |p1flag=id |pos1=",
+            "p2": "Albert |p2flag=id |pos2=",
+            "p3": "Foxsprout |p3flag=id |pos3=",
+            "p4": "Haachama |p4flag= |pos4=",
+            "p5": "HimeUsagi |p5flag= |pos5=",
+            "p6": "Shuffle |p6flag= |pos6=",
+            "p7": "DeadLock |p7flag= |pos7="
+        },
+        {
+            "team": "WHOMEGALUL",
+            "p1": "yookiru |p1flag=sg |pos1=",
+            "p2": "omgitsvodka|p2flag= |pos2=",
+            "p3": "X978SRXT1395 |p3flag=th |pos3=",
+            "p4": "NerfWidoW |p4flag=kr |pos4=",
+            "p5": "Phant0mz |p5flag=hk |pos5=",
+            "p6": "NINSTOP |p6flag= |pos6=|p6link=NINSTOPPEE",
+            "p7": "strazio |p7flag= |pos7="
+        },
+        {
+            "team": "CONNECT GAMING Streamers",
+            "p1": "Rrmy|p1flag=jp|pos1=",
+            "p2": "Seana|p2flag=jp|pos2=",
+            "p3": "Max|p3flag=jp|pos3= |p3link=Max (Japanese player)",
+            "p4": "\u6714\u30e1|p4flag=jp|pos4=",
+            "p5": "sonic10|p5flag=jp|pos5=",
+            "p6": "mishelcat|p6flag=jp|pos6=",
+            "p7": "myna|p7flag=jp|pos7=",
+            "p8": "\u30ac\u30bb\u30ea\u83cc\u541b|p8flag=jp|pos8=",
+            "c": "|cflag="
+        },
+        {
+            "team": "MVP",
+            "link": "MVP (Indonesian team)",
+            "p1": "yoziPetra |p1flag=id |pos1=",
+            "p2": "Proxiezs |p2flag=id |pos2=",
+            "p3": "FuroFuroPi |p3flag=id |pos3=",
+            "p4": "TerngThana |p4flag=th |pos4=",
+            "p5": "Nyxnare |p5flag=id |pos5=",
+            "p6": "\u30bf\u30a4\u30d7 |p6flag= |pos6=",
+            "p7": "Alaska |p7flag= |pos7=",
+            "p8": "Pinkies |p8flag= |pos8="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "Valencia",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "Team Hush",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "Valencia",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Team Hush",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "Ocean Park",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Komodo Warriors",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "Ocean Park",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "FES Bhava",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "RK House",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

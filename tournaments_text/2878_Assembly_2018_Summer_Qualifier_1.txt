@@ -1,0 +1,231 @@
+{{Assembly Navbox}}
+{{DISPLAYTITLE:Assembly Summer 2018 - Qualifier 1}}
+{{Tabs static
+|name1=Main Event |link1=Assembly/2018/Summer
+|name2=Qualifier 1|link2=Assembly/2018/Summer/Qualifier 1
+|name3=Qualifier 2|link3=Assembly/2018/Summer/Qualifier 2
+|This=2
+}}
+{{Infobox league
+|liquipediatier=3|liquipediatiertype=Qualifier
+|series=Assembly
+|shortname=Summer 2018 Q1
+|name=Assembly Summer 2018 - Qualifier 1
+|image=Assembly_Summer_2018_logo2.png
+|icon=Assembly-icon.png
+|organizer=Assembly Organizing
+|organizer-link=http://www.assembly.org/asmorg
+|sponsor=[http://www8.hp.com/us/en/campaigns/gamingpcs/overview.html OMEN by HP]<br>[https://www.redbull.com/ Red Bull]
+|type=Online
+|country=Finland
+|format=Open Qualifiers<br>Single Elimination
+|prizepool=
+|localcurrency=
+|prizepoolusd=
+|date=2018-07-04
+|web=https://www.assembly.org/summer18
+|web2=http://tournaments.peliliiga.fi/summer18/tournaments/13
+|bracket=http://tournaments.peliliiga.fi/summer18/tournaments/overwatch-omen-by-hp-assembly-summer-2018-qualifier-1/brackets/index
+|twitter=assemblyparty
+|twitch=AssemblyOW
+|team_number=7
+}}
+
+==Information==
+===Format===
+* The Qualifiers are open for {{flag/fi}} Finnish teams only.
+* Single Elimination Bracket
+* Best of 3 Series
+
+===Map Pool===
+* The teams remove (veto) maps from the pool alternating turns (ABAB) until 3 maps are left.
+
+{| class="wikitable" style="text-align:center;"
+|-
+!width="460" colspan=5|Available Maps for '''Assembly Winter 2018'''
+|-
+![[Assault]]
+![[Control]]
+![[Escort]]
+![[Hybrid]]
+!'''Tiebreakers'''
+|-
+|width="130" |[[Temple of Anubis]]<br><br>[[Volskaya Industries]]
+|width="130" |[[Lijiang Tower]]<br><br>[[Oasis]]
+|width="130" |[[Rialto]]<br><br>[[Route 66]]<br><br>[[Watchpoint: Gibraltar]]
+|width="130" |[[Eichenwalde]]<br><br>[[King's Row]]
+|width="130" |[[Ilios]]<br><br>[[Nepal]]
+|-
+|}
+
+===Broadcast talent===
+====Finnish broadcast==== 
+{{BroadcasterCard
+|position=Commentator|lang=fi
+|b1=Tombha|b1name=Tomi Rinne|b1flag=fi
+|b2=ZeiZei|b2name=Juha-Pekka Joutsenlahti|b2flag=fi
+}}
+
+===Prize pool===
+{{prize pool start|noprize=y|points=qualified}}
+{{prize pool slot|place=1|points=q |link=Assembly/2018/Summer|nemesis (finnish team)|lastvs1= nyyrikki|lastscore1=2|lastvsscore1=0}}
+{{prize pool slot|place=2 |nyyrikki|lastvs1=nemesis (finnish team)|lastscore1=0|lastvsscore1=0}}
+{{prize pool slot|place=3-4
+|chilimonster gaming|lastvs1=nyyrikki|lastscore1=0|lastvsscore1=2
+|bob420-yes|lastvs2=nemesis (finnish team)|lastscore2=0|lastvsscore2=2
+}}
+{{prize pool slot|place=5-7
+|aces|lastvs1=chilimonster gaming|lastscore1=0|lastvsscore1=2
+|team noname|lastvs2=nemesis (finnish team)|lastscore2=0|lastvsscore2=2
+|tga polarity|lastvs3=bob420-yes|lastscore3=0|lastvsscore3=2
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=NYYRIKKI Esports
+|p1=BAITO|p1flag=fi|pos1=dps
+|p2=SKIPAH|p2flag=fi|pos2=dps
+|p3=Dommels|p3flag=fi|pos3=tank
+|p4=Lepadef|p4flag=fi|pos4=tank
+|p5=jönssoni|p5flag=fi|pos5=sup
+|p6=Brokkie|p6flag=fi|pos6=sup
+|c=twidi|cflag=fi
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ChiliMonster Gaming
+|image=Chilimonstergaming.png
+|p1=VirtiS|p1flag=fi|pos1=dps
+|p2=Kubix|p2flag=fi|pos2=dps
+|p3=dannyeL|p3flag=fi|pos3=flex
+|p4=J3rtsu|p4flag=fi|pos4=tank
+|p5=Mickji|p5flag=fi|pos5=sup
+|p6=ƁǍŊȂȂŊǰƗ|p6flag=fi|pos6=sup
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Aces
+|image=Ässät AcesLogo.png
+|p1=|p1flag=|pos1=dps
+|p2=|p2flag=|pos2=dps
+|p3=|p3flag=|pos3=flex
+|p4=|p4flag=|pos4=tank
+|p5=|p5flag=|pos5=sup
+|p6=|p6flag=|pos6=sup
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Nemesis
+|image=Team Nemesis2.png
+|link=Nemesis (Finnish team)
+|p1=Haxwaffels|p1flag=fi|pos1=dps
+|p2=Cali|p2flag=fi|pos2=flex
+|p3=Olu|p3flag=fi|pos3=flex
+|p4=Kouhia|p4flag=fi|pos4=tank
+|p5=Hepa|p5flag=fi|pos5=sup
+|p6=FaRmaS|p6flag=fi|pos6=sup
+|t2title=Staff
+|t2c1=Kuhnu|t2c1flag=fi|t2c1pos=manager
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team NoName
+|image=
+|p1=|p1flag=|pos1=dps
+|p2=|p2flag=|pos2=dps
+|p3=|p3flag=|pos3=flex
+|p4=|p4flag=|pos4=tank
+|p5=|p5flag=|pos5=sup
+|p6=|p6flag=|pos6=sup
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=bob420-yes
+|image=
+|p1=|p1flag=|pos1=dps
+|p2=|p2flag=|pos2=dps
+|p3=|p3flag=|pos3=flex
+|p4=|p4flag=|pos4=tank
+|p5=|p5flag=|pos5=sup
+|p6=|p6flag=|pos6=sup
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=TGA Polarity
+|image=TGA Polarity logo.png
+|p1=|p1flag=|pos1=dps
+|p2=|p2flag=|pos2=dps
+|p3=|p3flag=|pos3=flex
+|p4=|p4flag=|pos4=tank
+|p5=|p5flag=|pos5=sup
+|p6=|p6flag=|pos6=sup
+|c=|cflag=
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=wFPKAkmMnz
+<!-- QUARTERFINALS -->
+|R1D1team= nyyrikki|R1D1score= W|R1D1win=1
+|R1D2team= bye|R1D2score= |R1D2win=
+
+|R1D3team= aces|R1D3score= 0|R1D3win=
+|R1D4team= chilimonster gaming|R1D4score= 2|R1D4win=1
+
+|R1D5team= nemesis (finnish team)|R1D5score= 2|R1D5win=1
+|R1D6team= team noname|R1D6score= 0|R1D6win=
+
+|R1D7team= tga polarity|R1D7score= 0|R1D7win=
+|R1D8team= bob420-yes|R1D8score= 2|R1D8win=1
+
+<!-- SEMIFINALS -->
+|R2W1team= nyyrikki|R2W1score= 2|R2W1win=1
+|R2W2team= chilimonster gaming|R2W2score= 0|R2W2win=
+
+|R2W3team= nemesis (finnish team)|R2W3score= 2|R2W3win=1
+|R2W4team= bob420-yes|R2W4score= 0|R2W4win=
+
+<!-- FINALS -->
+|R3W1team= nyyrikki|R3W1score= 0|R3W1win=
+|R3W2team= nemesis (finnish team)|R3W2score= 2|R3W2win=1
+}}
+
+
+==Additional Info==
+===Streams===
+<!--{| class="sortable wikitable" style="text-align:center;"
+|-style="background-color:#f3f3f3;"
+|-
+!width="60"|Language
+|width="40"|{{flag/usuk}}
+|width="40"|{{flag/fi}}
+|-
+!rowspan=3|Stream
+|{{TwitchIcon|link=AssemblyOW}}
+|{{TwitchIcon|link=TombhaOnAir}} 
+|-
+|}-->
+
+===Announcements===
+*{{ExternalMediaLink
+|date=2018-06-20
+|link=https://www.assembly.org/summer18/esports/overwatch-omen-by-hp
+|title=OVERWATCH OMEN BY HP ASSEMBLY SUMMER 2018
+|by=Assembly
+}}
+*{{ExternalMediaLink
+|date=2018-06-20
+|link=http://tournaments.peliliiga.fi/summer18/pages/view/2
+|title=Assembly Summer 2018 Overwatch rules
+|by=Assembly
+}}
+
+==References==
+{{reflist}}

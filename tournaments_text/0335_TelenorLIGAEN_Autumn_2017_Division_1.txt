@@ -1,0 +1,136 @@
+{{DISPLAYTITLE:TelenorLIGAEN Autumn 2017 Division 1}}
+{{TelenorLIGAEN Navbox}}<br />
+{{tournament-stub}}
+{{tabs static
+|name1=Overview
+|link1=TelenorLIGAEN/Autumn 2017
+|name2=Division 1
+|link2=TelenorLIGAEN/Autumn 2017/Division 1
+|name3=Division 2
+|link3=TelenorLIGAEN/Autumn 2017/Division 2
+|name4=Division 3
+|link4=TelenorLIGAEN/Autumn 2017/Division 3
+|This=2
+}}<br />
+{{Infobox league
+|name=TelenorLIGAEN Autumn 2017 Division 1
+|abbreviation=TelenorLIGAEN
+|image=Telenorligaen.png
+|icon=Telenorligaen.png
+|series=
+|organizer=Gamer.no
+|organizer-link=http://www.gamer.no/
+|sponsor=[https://www.telenor.no Telenor]<br>[https://www.logitech.com Logitech]
+|type=Online
+|country=Norway
+|format=
+|prizepool=54,000
+|localcurrency=NOK
+|prizepoolusd=6,534
+|date=2017-11-19
+|liquipediatier={{TierText/3}}
+|web=https://www.gamer.no/turneringer/telenorligaen-overwatch-hosten-2017-sluttspill-1-divisjon/4367/
+|twitch=hansmeNt
+|youtube=
+|bracket=https://www.gamer.no/turneringer/telenorligaen-overwatch-hosten-2017-sluttspill-1-divisjon/4367/sluttspill/
+|team_number=4
+|teamfirst=Dynasty eSport
+|teamsecond=BX3 eSports Club
+|teamthird=The Gatekeepers
+|teamthird2=Epiphany Bolt
+}}
+
+'''TelenorLIGAEN''' is a [[:Category:Norway|Norwegian]] ''Overwatch'' league. Minimum 4/6 players has to be [[:Category:Norway|Norwagian]] citizens. Each season lasts half a year.
+
+==Prize Pool==
+54,000 kr {{Abbr/NOK}} ($6,534 {{Abbr/USD}}) are spread among the teams as seen below.
+{{prize pool start|localcurrency=nok}}
+{{prize pool slot|place=1|usdprize=3,630|localprize=30,000|dynasty esport|lastvs1=bx3 esports club|lastscore1=3|lastvsscore1=0}}
+{{prize pool slot|place=2|usdprize=2,178|localprize=18,000|bx3 esports club|lastvs1=dynasty esport|lastscore1=0|lastvsscore1=3}}
+{{prize pool slot|place=3-4|usdprize=726|localprize=6,000
+|the gatekeepers|lastvs1=bx3 esports club|lastscore1=2|lastvsscore1=3|date1=2017-11-19
+|epiphany bolt|lastvs2=dynasty esport|lastscore2=0|lastvsscore2=3|date2=2017-11-19}}
+{{Prize pool end}}
+''Conversion values taken from [http://www.xe.com xe.com] at 2017-11-19. 1 {{Abbr/NOK}} ≈ 0.121 {{Abbr/USD}}''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Dynasty eSport
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Epiphany Bolt
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=BX3 eSports Club
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=The Gatekeepers
+|p1=bulldoq|p1flag=no|pos1=dps
+|p2=Ingemar|p2flag=se|pos2=dps
+|p3=EpicMouse|p3flag=no|pos3=flex
+|p4=Kuruke|p4flag=no|pos4=tank
+|p5=Freddey|p5flag=no|pos5=sup
+|p6=nesty|p6flag=nl|pos6=sup
+|c=AskForMore|cflag=no
+}}
+{{box|end}}
+
+==Results==
+===Playoffs===
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=kc2b92NIzL
+<!-- SEMIFINALS -->
+|R1D1team=the gatekeepers|R1D1score=2|R1D1win=
+|R1D2team=bx3 esports club|R1D2score=3|R1D2win=1
+|R1G1details={{BracketMatchSummary 
+|date=November 19, 2017
+|finished=true
+}}
+
+|R1D3team=dynasty esport|R1D3score=3|R1D3win=1
+|R1D4team=epiphany bolt|R1D4score=0|R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=November 19, 2017
+|finished=true
+}}
+
+<!-- FINALS -->
+|R2W1team=bx3 esports club|R2W1score=0|R2W1win=
+|R2W2team=dynasty esport|R2W2score=3|R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=November 19, 2017
+|finished=true
+}}
+}}
+
+==Streams==
+*{{flag/no}} [https://www.twitch.tv/hansmeNt hansmeNt]
+*{{flag/no}} [http://sumo.tv2.no/sport/e-sport/telenorligaen/ TV2]
+
+==References==
+{{Reflist}}

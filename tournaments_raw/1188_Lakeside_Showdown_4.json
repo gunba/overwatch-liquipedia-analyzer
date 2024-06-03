@@ -1,0 +1,190 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "Lakeside Showdown 4",
+            "shortname": "Lakeside Showdown 4",
+            "tickername": "Lakeside Showdown 4",
+            "icon": "",
+            "image": "",
+            "series": "Lakeside Showdown",
+            "abbreviation": "LSSD",
+            "organizer": "kaiju corp",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Skokie",
+            "venue": "[https://www.ignitegaming.com/location/skokie Ignite Gaming Skokie]",
+            "format": "Round Robin<br>Double Elimination",
+            "prizepoolusd": "800",
+            "date": "2023-05-07",
+            "twitter": "kaijucorpgg",
+            "web": "https://kaijucorp.org",
+            "twitch": "willenglishiv",
+            "discord": "Ebrk3jrtX7",
+            "rulebook": "https://kaijucorp.org/Schedule-Rules-Overwatch-2-c78543d4479d413786e37b517053edb6",
+            "bracket": "https://challonge.com/LSSD4",
+            "team_number": "5",
+            "game": "overwatch2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Northwestern White",
+            "image": "Northwestern Esports.png",
+            "p1": "Soy|p1flag=us|pos1=dps",
+            "p2": "Majestic|p2flag=us|pos2=dps",
+            "p3": "Bizarre|p3flag=us|pos3=tank",
+            "p4": "Mazemel|p4flag=us|pos4=sup",
+            "p5": "OneTrick|p5flag=us|pos5=sup",
+            "p6": "Charybdis|p6flag=us|pos6=flex"
+        },
+        {
+            "team": "Northwestern Purple",
+            "image": "Northwestern Esports.png",
+            "p1": "Driice|p1flag=|pos1=dps",
+            "p2": "Caesar|p2flag=|pos2=dps",
+            "p3": "Etcher|p3flag=|pos3=tank",
+            "p4": "Azooreh|p4flag=|pos4=sup",
+            "p5": "CMajor|p5flag=|pos5=sup",
+            "p6": "SadNyanTwT|p6flag=|pos6=flex"
+        },
+        {
+            "team": "DePaul Varsity",
+            "image": "DePaul Esports.png",
+            "p1": "Zeyph|p1flag=|pos1=",
+            "p2": "Safin|p2flag=|pos2=",
+            "p3": "Echoloco|p3flag=|pos3=",
+            "p4": "Bucko|p4flag=|pos4=",
+            "p5": "Ubscure|p5flag=|pos5=",
+            "p6": "Creepz",
+            "p7": "Morals"
+        },
+        {
+            "team": "University of Chicago",
+            "p1": "TMM|p1flag=us|pos1=dps",
+            "p2": "Isack|p2flag=us|pos2=dps|p2link=Isack (American player)",
+            "p3": "malymilo|p3flag=us|pos3=dps",
+            "p4": "TheSilentJuan|p4flag=us|pos4=tank",
+            "p5": "Lore|p5flag=ch|pos5=sup",
+            "p6": "Substitute|p6flag=us|pos6=sup",
+            "p7": "Nix|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Illinois Institute of Technology Red",
+            "image": "Illinois Tech Esports allmode.png",
+            "p1": "Amp8|p1flag=|pos1=",
+            "p2": "TekkitKiller|p2flag=|pos2=",
+            "p3": "SolarNebula|p3flag=|pos3=",
+            "p4": "javc|p4flag=|pos4=",
+            "p5": "TheDestoyer|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|Northwestern Purple|score=0}}",
+            "opponent2": "{{TeamOpponent|University of Chicago|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Northwestern White|score=1}}",
+            "opponent2": "{{TeamOpponent|DePaul Varsity|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|University of Chicago|score=0}}",
+            "opponent2": "{{TeamOpponent|Northwestern White|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Illinois Institute of Technology Red|score=2}}",
+            "opponent2": "{{TeamOpponent|Northwestern Purple|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Northwestern White|score=2}}",
+            "opponent2": "{{TeamOpponent|Illinois Institute of Technology Red|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|DePaul Varsity|score=0}}",
+            "opponent2": "{{TeamOpponent|University of Chicago|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Illinois Institute of Technology Red|score=0}}",
+            "opponent2": "{{TeamOpponent|DePaul Varsity|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M7="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Northwestern Purple|score=1}}",
+            "opponent2": "{{TeamOpponent|Northwestern White|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M8="
+        },
+        {
+            "opponent1": "{{TeamOpponent|DePaul Varsity|score=2}}",
+            "opponent2": "{{TeamOpponent|Northwestern Purple|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M9="
+        },
+        {
+            "opponent1": "{{TeamOpponent|University of Chicago|score=2}}",
+            "opponent2": "{{TeamOpponent|Illinois Institute of Technology Red|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M10="
+        },
+        {
+            "opponent1": "{{TeamOpponent|DePaul Varsity|score=2}}",
+            "opponent2": "{{TeamOpponent|Illinois Institute of Technology Red|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|Northwestern White|score=0}}",
+            "opponent2": "{{TeamOpponent|University of Chicago|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Northwestern White|score=2}}",
+            "opponent2": "{{TeamOpponent|DePaul Varsity|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Northwestern White|score=1}}",
+            "opponent2": "{{TeamOpponent|University of Chicago|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        }
+    ]
+}

@@ -1,0 +1,415 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Youth Winner's Circle",
+            "shortname": "Youth Winner's Circle Fall 2022 Playoffs",
+            "tickername": "Youth Winner's Circle Playoffs",
+            "series": "Generation Esports",
+            "abbreviation": "GE",
+            "image": "Youth Winner's Circle lightmode.png",
+            "imagedark": "Youth Winner's Circle darkmode.png",
+            "organizer": "Generation Esports",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "350",
+            "date": "2022-11-28",
+            "edate": "2022-12-14",
+            "twitter": "joingenesports",
+            "web": "https://generationesports.com/",
+            "youtube": "UC4qtF91PT2qjmDv6xKTGraQ",
+            "facebook": "joingenesports",
+            "instagram": "joingenesports",
+            "discord": "DMkEjWj",
+            "rulebook": "https://help.generationesports.com/hc/en-us/articles/4412878322580-Youth-Winner-s-Circle-Fall-22-Overview",
+            "bracket": "https://app.generationesports.com/tournament/4ed54676-5bc0-4ad9-95bc-4f2719d94f4d",
+            "team_number": "",
+            "previous": "Youth Winner's Circle/2022/Summer {{!}} Summer 2022",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Ravens Esports",
+            "p1": "MagicMarker|p1flag=|pos1=",
+            "p2": "D0M1N0|p2flag=|pos2=",
+            "p3": "Easter|p3flag=|pos3=",
+            "p4": "zombie0520|p4flag=|pos4=",
+            "p5": "Oari|p5flag=|pos5=",
+            "p6": "Shocker|p6flag=|pos6=",
+            "p7": "W1N5T0N|p7flag=|pos7=",
+            "p8": "Passenger|p8flag=|pos8=",
+            "p9": "LittleLamp|p9flag=|pos9="
+        },
+        {
+            "team": "Northeast Magnet Griffins",
+            "p1": "MILLOW|p1flag=|pos1=",
+            "p2": "PerciusOdus|p2flag=|pos2=",
+            "p3": "CannedBread|p3flag=|pos3=",
+            "p4": "Voz|p4flag=|pos4=",
+            "p5": "ArrivingDawn|p5flag=|pos5=",
+            "p6": "WidowWonTwix|p6flag=|pos6=",
+            "p7": "JuiceboxJuls|p7flag=|pos7=",
+            "p8": "Ghostpants|p8flag=|pos8=",
+            "p9": "SWANKYPANTS|p9flag=|pos9="
+        },
+        {
+            "team": "Heritage Hall Chargers",
+            "p1": "braden23|p1flag=|pos1=",
+            "p2": "Lilquarrel|p2flag=|pos2=",
+            "p3": "charged15|p3flag=|pos3=",
+            "p4": "SilentSword|p4flag=|pos4=",
+            "p5": "Hidden|p5flag=|pos5=|p5link=Hidden (American player)",
+            "p6": "LtPresto|p6flag=|pos6=",
+            "p7": "sammy|p7flag=|pos7="
+        },
+        {
+            "team": "MCEA Elite Lions",
+            "p1": "thycoffee|p1flag=|pos1=",
+            "p2": "Hypno|p2flag=|pos2=",
+            "p3": "Slayer04SM|p3flag=|pos3=",
+            "p4": "devysk|p4flag=|pos4=",
+            "p5": "SwankyOrc|p5flag=|pos5=",
+            "p6": "Ameno",
+            "p7": "Redfox|p7link=Redfox (American player)",
+            "p8": "Hingedmage",
+            "p9": "Qwerty"
+        },
+        {
+            "team": "CBC Esports",
+            "p1": "EDoubleD|p1flag=|pos1=",
+            "p2": "Luma|p2flag=|pos2=",
+            "p3": "JAEKUB|p3flag=|pos3=",
+            "p4": "Joe45|p4flag=|pos4=",
+            "p5": "NADE|p5flag=|pos5=",
+            "p6": "Jello",
+            "p7": "Schmeep",
+            "p8": "EdibleCheese"
+        },
+        {
+            "team": "Elwood Knights",
+            "p1": "Monclover|p1flag=|pos1=",
+            "p2": "WholeWheat|p2flag=|pos2=",
+            "p3": "ArcticAlpacas|p3flag=|pos3=",
+            "p4": "GenjiMains|p4flag=|pos4=",
+            "p5": "Starlion|p5flag=|pos5=",
+            "p6": "ToastyRapids"
+        },
+        {
+            "team": "Wichita East",
+            "p1": "NukeUpTake|p1flag=|pos1=",
+            "p2": "Diva|p2flag=|pos2=",
+            "p3": "Asoulius|p3flag=|pos3=",
+            "p4": "Shiny|p4flag=|pos4=",
+            "p5": "CrepesRGud|p5flag=|pos5=",
+            "p6": "PastaClean",
+            "p7": "IAMGOOSE",
+            "p8": "Ozzy"
+        },
+        {
+            "team": "Livermore HS",
+            "p1": "AJTheGhost|p1flag=us|pos1=",
+            "p2": "Infekted|p2flag=|pos2=",
+            "p3": "Seonamjae|p3flag=|pos3=",
+            "p4": "ItsGambl3r|p4flag=|pos4=",
+            "p5": "Pando|p5flag=|pos5=",
+            "p6": "weird",
+            "p7": "tnecca",
+            "p8": "Hero|p8link=Hero (American Player)",
+            "p9": "Maphasy",
+            "p10": "spasebutt"
+        },
+        {
+            "team": "Spring Grove Rockets",
+            "p1": "KeeperOfLore|p1flag=|pos1=",
+            "p2": "Dogma|p2flag=|pos2=",
+            "p3": "youngazn|p3flag=|pos3=",
+            "p4": "UnkLegend|p4flag=|pos4=",
+            "p5": "Mi\u0141kMySheep|p5flag=|pos5=",
+            "p6": "Neru",
+            "p7": "LunaVixen",
+            "p8": "PsychoToes"
+        },
+        {
+            "team": "Skyline Thunderbirds",
+            "p1": "Cheesecurd|p1flag=|pos1=",
+            "p2": "Bonebasher50|p2flag=|pos2=",
+            "p3": "SKULLCRUSHER|p3flag=|pos3=",
+            "p4": "Nothuman|p4flag=|pos4=",
+            "p5": "LMISR712|p5flag=|pos5=",
+            "p6": "Torgus",
+            "p7": "Chewynator76"
+        },
+        {
+            "team": "BHS Varsity",
+            "p1": "FirstOlymp|p1flag=|pos1=",
+            "p2": "CoreBurst|p2flag=|pos2=",
+            "p3": "Shy|p3flag=|pos3=|p3link=Shy (American player)",
+            "p4": "Wooper|p4flag=|pos4=",
+            "p5": "SpecialEd|p5flag=|pos5=",
+            "p6": "IgnitE",
+            "p7": "ShadowCross",
+            "p8": "vye"
+        },
+        {
+            "team": "Lucio Fan Club",
+            "p1": "TheBigDream|p1flag=|pos1=",
+            "p2": "Grudgeieson|p2flag=|pos2=",
+            "p3": "ThePan|p3flag=|pos3=",
+            "p4": "theprobl3m|p4flag=|pos4=",
+            "p5": "SkyUwU|p5flag=|pos5=",
+            "p6": "TheStove",
+            "p7": "Giantaxe"
+        },
+        {
+            "team": "Steele Knights Esports",
+            "p1": "DRON3|p1flag=|pos1=",
+            "p2": "Mrfacestealr|p2flag=|pos2=",
+            "p3": "Minebattle|p3flag=|pos3=",
+            "p4": "Skeleton|p4flag=|pos4=",
+            "p5": "Kyber3D|p5flag=|pos5=",
+            "p6": "TaillessBeef",
+            "p7": "spyros"
+        },
+        {
+            "team": "Richardson High School",
+            "p1": "Tom|p1flag=|pos1=",
+            "p2": "Dakwal|p2flag=|pos2=",
+            "p3": "creg|p3flag=|pos3=",
+            "p4": "ColSand3rs|p4flag=|pos4=",
+            "p5": "Bunny|p5flag=|pos5=|p5link=Bunny (American player)",
+            "p6": "Senorbacon",
+            "p7": "RomanThe1954",
+            "p8": "Gigatortoise"
+        },
+        {
+            "team": "Big Birb and Friends",
+            "p1": "potatoistake|p1flag=|pos1=",
+            "p2": "ThiccDucc|p2flag=|pos2=",
+            "p3": "BirbHouse17|p3flag=|pos3=",
+            "p4": "Aetra|p4flag=|pos4=",
+            "p5": "SuperAsian|p5flag=|pos5=",
+            "p6": "jk0usei"
+        },
+        {
+            "team": "CC Esports",
+            "p1": "Dingo|p1flag=|pos1=",
+            "p2": "DaStuff|p2flag=|pos2=",
+            "p3": "moremen|p3flag=|pos3=",
+            "p4": "Gary|p4flag=|pos4=",
+            "p5": "Fiziks|p5flag=|pos5=",
+            "p6": "pocket",
+            "p7": "Fork",
+            "p8": "Xediees",
+            "p9": "Centaur"
+        },
+        {
+            "team": "ThunderRidge Blue Team",
+            "p1": "DrewsMash|p1flag=|pos1=",
+            "p2": "ceasefire915|p2flag=|pos2=",
+            "p3": "Tricky|p3flag=|pos3=",
+            "p4": "i4gotmyname3|p4flag=|pos4=",
+            "p5": "LITTLEMACK|p5flag=|pos5=",
+            "p6": "mushi"
+        },
+        {
+            "team": "BHS Bruins",
+            "p1": "FlexNinja|p1flag=|pos1=",
+            "p2": "banks0frome|p2flag=|pos2=",
+            "p3": "PenguMan|p3flag=|pos3=",
+            "p4": "evan|p4flag=|pos4=",
+            "p5": "v0rtex|p5flag=|pos5=",
+            "p6": "Rum73",
+            "p7": "DARNEDDUCKV2",
+            "p8": "Poofypenguin",
+            "p9": "Don|p9link=Don (American Collegiate Player)"
+        },
+        {
+            "team": "Atascocita HS",
+            "p1": "Fedora|p1flag=|pos1=",
+            "p2": "Obskiel|p2flag=|pos2=",
+            "p3": "Raptor75|p3flag=|pos3=",
+            "p4": "Nemesis|p4flag=|pos4=",
+            "p5": "Brick|p5flag=|pos5=",
+            "p6": "RomanGrapes"
+        },
+        {
+            "team": "The Bored Apes Team 1",
+            "p1": "Drake|p1flag=|pos1=|p1link=Drake (American Player)",
+            "p2": "Hexagonal|p2flag=|pos2=",
+            "p3": "Sapphire|p3flag=|pos3=",
+            "p4": "Flamingo|p4flag=|pos4=",
+            "p5": "Crayon|p5flag=|pos5=",
+            "p6": "neo|p6link=neo (American player)",
+            "p7": "Will"
+        },
+        {
+            "team": "AHS Wildcats",
+            "p1": "SPACEDOLPHIN|p1flag=|pos1=",
+            "p2": "kirby|p2flag=|pos2=|p2link=kirby (American player)",
+            "p3": "Willingdock|p3flag=|pos3=",
+            "p4": "Sphynxiepoo|p4flag=|pos4=",
+            "p5": "Franxxredh0t|p5flag=|pos5=",
+            "p6": "King57hearts",
+            "p7": "HolyToast",
+            "p8": "SP1R1TBO1",
+            "p9": "ShadowStorm9"
+        },
+        {
+            "team": "The Rail-Splitters",
+            "p1": "Corn|p1flag=|pos1=",
+            "p2": "Celestial|p2flag=|pos2=|p2link=Celestial (American player)",
+            "p3": "SkoolKnight4|p3flag=|pos3=",
+            "p4": "Boss05|p4flag=|pos4=",
+            "p5": "Evergreen|p5flag=|pos5=",
+            "p6": "Scoutklein",
+            "p7": "Kise",
+            "p8": "Bounybear",
+            "p9": "Bouncybear",
+            "p10": "Skyscreacher"
+        },
+        {
+            "team": "Steele Knights Esports",
+            "p1": "mustachman|p1flag=|pos1=",
+            "p2": "echo|p2flag=|pos2=|p2link=Echo (player)",
+            "p3": "KrustyxMiget|p3flag=|pos3=",
+            "p4": "ALTAIR|p4flag=|pos4=",
+            "p5": "MUSTACHEMAN|p5flag=|pos5=",
+            "p6": "Markle",
+            "p7": "W2Roger"
+        },
+        {
+            "team": "Lyons Lions",
+            "p1": "Fury|p1flag=|pos1=|p1link=Fury (American player)",
+            "p2": "GeezHarley|p2flag=|pos2=",
+            "p3": "JayRedAlvedo|p3flag=|pos3=",
+            "p4": "Milk|p4flag=|pos4=",
+            "p5": "highpulse|p5flag=|pos5=",
+            "p6": "Hamsterball"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "opponent1": "{{TeamOpponent|steele knights esports|score=1}}",
+            "opponent2": "{{TeamOpponent|the bored apes team 1|score=3}}",
+            "optional": "R1M8="
+        },
+        {
+            "opponent1": "{{TeamOpponent|spring grove rockets|score=3}}",
+            "opponent2": "{{TeamOpponent|lyons lions|score=1}}",
+            "optional": "R1M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|lucio fan club|score=3}}",
+            "opponent2": "{{TeamOpponent|ahs wildcats|score=0}}",
+            "optional": "R1M7="
+        },
+        {
+            "opponent1": "{{TeamOpponent|bhs varsity|score=3}}",
+            "opponent2": "{{TeamOpponent|the rail-splitters|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|richardson high school|score=3}}",
+            "opponent2": "{{TeamOpponent|atascocita hs|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|skyline thunderbirds|score=3}}",
+            "opponent2": "{{TeamOpponent|steele knights esports|score=1}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|thunderridge blue team|score=3}}",
+            "opponent2": "{{TeamOpponent|cc esports|score=0}}",
+            "optional": "R1M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent|bhs bruins|score=0}}",
+            "opponent2": "{{TeamOpponent|big birb and friends|score=3}}",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|northeast magnet griffins|score=3}}",
+            "opponent2": "{{TeamOpponent|big birb and friends|score=2}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|livermore hs|score=3}}",
+            "opponent2": "{{TeamOpponent|spring grove rockets|score=0}}",
+            "optional": "R2M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|elwood knights|score=3}}",
+            "opponent2": "{{TeamOpponent|bhs varsity|score=1}}",
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|mcea elite lions|score=1}}",
+            "opponent2": "{{TeamOpponent|the bored apes team 1|score=3}}",
+            "optional": "R2M8="
+        },
+        {
+            "opponent1": "{{TeamOpponent|ravens esports|score=W}}",
+            "opponent2": "{{TeamOpponent|thunderridge blue team|score=FF}}",
+            "optional": "R2M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent|cbc esports|score=0}}",
+            "opponent2": "{{TeamOpponent|lucio fan club|score=3}}",
+            "optional": "R2M7="
+        },
+        {
+            "opponent1": "{{TeamOpponent|heritage hall chargers|score=0}}",
+            "opponent2": "{{TeamOpponent|richardson high school|score=3}}",
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|wichita east|score=3}}",
+            "opponent2": "{{TeamOpponent|skyline thunderbirds|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|wichita east|score=0}}",
+            "opponent2": "{{TeamOpponent|northeast magnet griffins|score=3}}",
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|richardson high school|score=3}}",
+            "opponent2": "{{TeamOpponent|elwood knights|score=0}}",
+            "optional": "R3M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|livermore hs|score=3}}",
+            "opponent2": "{{TeamOpponent|ravens esports|score=0}}",
+            "optional": "R3M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|lucio fan club|score=3}}",
+            "opponent2": "{{TeamOpponent|the bored apes team 1|score=0}}",
+            "optional": "R3M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|northeast magnet griffins|score=0}}",
+            "opponent2": "{{TeamOpponent|richardson high school|score=3}}",
+            "optional": "R4M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|livermore hs|score=3}}",
+            "opponent2": "{{TeamOpponent|lucio fan club|score=0}}",
+            "optional": "R4M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|richardson high school|score=0}}",
+            "opponent2": "{{TeamOpponent|livermore hs|score=4}}",
+            "optional": "R5M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|northeast magnet griffins|score=4}}",
+            "opponent2": "{{TeamOpponent|lucio fan club|score=0}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

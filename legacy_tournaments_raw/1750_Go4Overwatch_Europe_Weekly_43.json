@@ -1,0 +1,246 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #43",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "43",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2017-03-26",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch_fr",
+            "twitch2": "castersnest",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-43/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "48",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "previous": "Go4Overwatch/Europe/Weekly/42{{!}}Go4 Europe Cup #42",
+            "next": "Go4Overwatch/Europe/Weekly/44{{!}}Go4 Europe Cup #44"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "x4ckers",
+            "image": "",
+            "p1": "DeadlyMich|p1flag=il",
+            "p2": "inferi|p2flag=il",
+            "p3": "h1day |p3flag=il",
+            "p4": "KAFEEEEEE|p4flag=il",
+            "p5": "ShonP|p5flag=il",
+            "p6": "fragon|p6flag=il"
+        },
+        {
+            "team": "ECV eSports",
+            "image": "",
+            "p1": "Vizyrion|p1flag=nl",
+            "p2": "Jig|p2flag=nl",
+            "p3": "Sensey|p3flag=nl",
+            "p4": "Vizility|p4flag=nl",
+            "p5": "Mahone|p5flag=nl",
+            "p6": "Sundays|p6flag=nl"
+        },
+        {
+            "team": "Copenhagen Flames",
+            "image": "",
+            "p1": "Hastr|p1flag=dk",
+            "p2": "Makaveli|p2flag=dk",
+            "p3": "naGGa|p3flag=dk",
+            "p4": "henningsen|p4flag=dk",
+            "p5": "Watio|p5flag=dk",
+            "p6": "Mauz|p6flag=dk",
+            "c": "Smokie|cflag=dk"
+        },
+        {
+            "team": "Por Definir",
+            "image": "",
+            "p1": "Saura|p1flag=",
+            "p2": "KRYP|p2flag=",
+            "p3": "Vinanrra|p3flag=",
+            "p4": "Shevatas|p4flag=",
+            "p5": "Woolridge|p5flag=es",
+            "p6": "Nightyz|p6flag="
+        },
+        {
+            "team": "Shooting Stars",
+            "image": "",
+            "p1": "Kao|p1flag=fr",
+            "p2": "Kyb|p2flag=fr|p2link=Kyb (French player)",
+            "p3": "Mess|p3flag=fr",
+            "p4": "Noomii  |p4flag=fr",
+            "p5": "Worss|p5flag=fr",
+            "p6": "ZyK  |p6flag=fr"
+        },
+        {
+            "team": "The Gatekeepers",
+            "image": "",
+            "p1": "bulldoq|p1flag=no",
+            "p2": "Pr0len|p2flag=no",
+            "p3": "EpicMouse|p3flag=no",
+            "p4": "Ouch|p4flag=no",
+            "p5": "STK|p5flag=nl",
+            "p6": "nesty|p6flag=nl"
+        },
+        {
+            "team": "ENCE eSports",
+            "image": "",
+            "p1": "BAITO|p1flag=fi",
+            "p2": "Desperado|p2flag=fi",
+            "p3": "Gare|p3flag=fi",
+            "p4": "lhcloudy|p4flag=fi",
+            "p5": "Trickwide|p5flag=fi",
+            "p6": "Ripa|p6flag=fi",
+            "c": "elfi|cflag=fi"
+        },
+        {
+            "team": "ex-Death Esport",
+            "image": "",
+            "p1": "Veteranjr|p1flag=fr",
+            "p2": "XEWER|p2flag=fr",
+            "p3": "Cyd|p3flag=fr",
+            "p4": "Ours2Rue|p4flag=fr",
+            "p5": "Jio|p5flag=fr",
+            "p6": "MoonL|p6flag=fr"
+        },
+        {
+            "team": "Red Reserve",
+            "image": "",
+            "p1": "Klanton|p1flag=",
+            "p2": "Caspere|p2flag=",
+            "p3": "eMIL|p3flag=",
+            "p4": "lateks|p4flag=",
+            "p5": "Luddee|p5flag=",
+            "p6": "Epzz|p6flag=",
+            "c": "d00mbr0s|cflag=se"
+        },
+        {
+            "team": "x6tence",
+            "image": "",
+            "p1": "st1w|p1flag=es",
+            "p2": "amAZbash|p2flag=fr",
+            "p3": "Dikker|p3flag=ru",
+            "p4": "Ginger  |p4flag=uk",
+            "p5": "Norgac|p5flag=ru",
+            "p6": "zeroxx00|p6flag=es"
+        },
+        {
+            "team": "b\u00f6da socken",
+            "image": "",
+            "p1": "Dennia  |p1flag=se",
+            "p2": "Leodeddz|p2flag=se",
+            "p3": "Pug  |p3flag=se",
+            "p4": "bock1  |p4flag=se",
+            "p5": "kangakanga  |p5flag=se",
+            "p6": "snillo  |p6flag=se"
+        },
+        {
+            "team": "Beefy Smash Doods",
+            "image": "",
+            "p1": "Ice|p1flag=fi",
+            "p2": "khave  |p2flag=dk",
+            "p3": "Jellis  |p3flag=uk",
+            "p4": "Spice  |p4flag=uk",
+            "p5": "Wally  |p5flag=dk",
+            "p6": "Zynisch  |p6flag=uk",
+            "c": "Odd|cflag=fr"
+        },
+        {
+            "team": "Alfa Squad",
+            "image": "",
+            "p1": "Perttu|p1flag=",
+            "p2": "Talisman|p2flag=",
+            "p3": "BigG00se|p3flag=fi",
+            "p4": "cheridormi|p4flag=fi",
+            "p5": "akke|p5flag=",
+            "p6": "Lalli|p6flag="
+        },
+        {
+            "team": "Epiphany Bolt",
+            "image": "",
+            "p1": "Nord|p1flag=no",
+            "p2": "Frost|p2flag=no",
+            "p3": "ZorroSeveN|p3flag=no",
+            "p4": "Leo|p4flag=no|p4link=Leo (Norwegian player)",
+            "p5": "Drodo|p5flag=au",
+            "p6": "haZeR|p6flag=",
+            "c": "Atlantis|cflag=no"
+        },
+        {
+            "team": "Team YP",
+            "image": "",
+            "p1": "Osnazeni |p1flag=fr",
+            "p2": "Yoshi |p2flag=fr",
+            "p3": "Valmaster |p3flag=fr",
+            "p4": "Hajaxa|p4flag=fr",
+            "p5": "Ninaa |p5flag=fr",
+            "p6": "Nightwane|p6flag=fr"
+        },
+        {
+            "team": "ex-Cyclone",
+            "image": "",
+            "p1": "destro|p1flag=bg",
+            "p2": "Davin |p2flag=fi",
+            "p3": "Crusade|p3flag=nl",
+            "p4": "Boombox  |p4flag=uk",
+            "p5": "mowzassa|p5flag=pt",
+            "p6": "poks |p6flag=fi",
+            "c": "iuKeEe|cflag=uk"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "ex-cyclone",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "x4ckers",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "ex-cyclone",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "x4ckers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ex-cyclone",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "x4ckers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ex-cyclone",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "x4ckers",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "x6tence",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "ence esports",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

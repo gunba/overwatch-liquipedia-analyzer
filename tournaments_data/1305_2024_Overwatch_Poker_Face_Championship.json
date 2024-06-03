@@ -1,0 +1,602 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "liquipediatiertype": "",
+            "name": "2024 Overwatch Poker Face Championship",
+            "abbreviation": "",
+            "shortname": "",
+            "tickername": "Overwatch Poker Face Championship",
+            "icon": "Poker Face 2023 notext lightmode.png",
+            "icondark": "Poker Face 2023 notext darkmode.png",
+            "image": "Poker Face 2023 lightmode.png",
+            "imagedark": "Poker Face 2023 darkmode.png",
+            "series": "",
+            "organizer": "Poker Face",
+            "organizer-link": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "kr",
+            "city": "<!--For offline tournaments only-->",
+            "venue": "<!--For offline tournaments only-->",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "prizepoolusd": "<!--Use if prize is in USD-->",
+            "localcurrency": "krw",
+            "prizepool": "1000000",
+            "sdate": "2024-05-17",
+            "edate": "2024-05-19",
+            "date": "<!--For one-day tournaments-->",
+            "twitter": "PokerFace_OW",
+            "instagram": "pokerface_ow",
+            "web": "https://chzzk.naver.com/b6db2f1a6855b6cd48864c05f7e0e2e5",
+            "twitch": "",
+            "discord": "ugjyWvGK",
+            "youtube": "",
+            "rulebook": "",
+            "bracket": "",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "\uc624\ubc84\uc6cc\uce58 \uacf5\ubb34\uc6d0",
+            "p1": "\uc0c8\ub4dc\ubcf4\uc774",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "\ud384\uc2a4\uc758\uc545\ub9c8",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "\ubab8\ubb44",
+            "pos3": "dps",
+            "p4": "MELLYA",
+            "pos4": "tank",
+            "p5": "\ud604\ube0c",
+            "p5flag": "kr",
+            "pos5": "sup",
+            "p6": "KIVIS",
+            "pos6": "sup"
+        },
+        {
+            "team": "LFT",
+            "p1": "Shock",
+            "pos1": "dps",
+            "p1link": "Shock (Korean player)",
+            "p2": "AZent",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "FodCarry",
+            "pos3": "dps",
+            "p4": "Farmer",
+            "p4flag": "kr",
+            "pos4": "tank",
+            "p5": "LilaC",
+            "p5flag": "kr",
+            "pos5": "sup",
+            "p6": "bayadere",
+            "p6flag": "kr",
+            "pos6": "sup"
+        },
+        {
+            "team": "OPJ",
+            "p1": "\ubc30\ucd98\uc2dd",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "SARAH",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "\uc2b9\uc548",
+            "p3flag": "kr",
+            "pos3": "tank",
+            "p4": "\ucc28\uc548",
+            "p4flag": "kr",
+            "pos4": "sup",
+            "p5": "\ud3fc\ubbf8\ucdfb\ub2e4\uc774",
+            "p5flag": "kr",
+            "pos5": "sup"
+        },
+        {
+            "team": "\uc988\uc0cc\uc874\uc9c0",
+            "p1": "Ruru",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "\uc2dc\uc2a4\ud134",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "bellaboo",
+            "pos3": "tank",
+            "p4": "TARO",
+            "pos4": "sup",
+            "p5": "\ub9d0\uce74\ub514\uc544",
+            "p5flag": "kr",
+            "pos5": "sup"
+        },
+        {
+            "team": "Venom",
+            "p1": "\ud604\uc7ac",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "DODO",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "SOLA",
+            "p3flag": "kr",
+            "pos3": "dps",
+            "p4": "ESTEBAN",
+            "p4flag": "kr",
+            "pos4": "tank",
+            "p5": "LAVENDER",
+            "p5flag": "kr",
+            "pos5": "sup",
+            "p6": "IMALONE",
+            "p6flag": "kr",
+            "pos6": "sup"
+        },
+        {
+            "team": "EXLU",
+            "p1": "Hidden",
+            "pos1": "dps",
+            "p2": "EHE",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "YaHo",
+            "pos3": "tank",
+            "p4": "LeGo",
+            "pos4": "sup",
+            "p5": "Vulture",
+            "pos5": "sup"
+        },
+        {
+            "team": "Homrun",
+            "p1": "Proven",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "F1nally",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "xanny",
+            "p3flag": "kr",
+            "pos3": "dps",
+            "p4": "RULER",
+            "pos4": "tank",
+            "p5": "Sp1nel",
+            "pos5": "sup",
+            "p6": "JINSUNG",
+            "pos6": "sup"
+        },
+        {
+            "team": "OneCoin",
+            "p1": "TOPDRAGON",
+            "pos1": "dps",
+            "p2": "JaeWoo",
+            "pos2": "dps",
+            "p3": "HEESUNG",
+            "pos3": "tank",
+            "p4": "Rose",
+            "pos4": "sup",
+            "p5": "CRESCENT",
+            "pos5": "sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "2",
+            "date": "2024-05-17",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "OneCoin|score=W",
+            "opponent2": "Venom|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2024-05-17",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\uc988\uc0cc\uc874\uc9c0|score=W",
+            "opponent2": "LFT|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2024-05-17",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Homrun|score=FF",
+            "opponent2": "\uc624\ubc84\uc6cc\uce58 \uacf5\ubb34\uc6d0|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2024-05-17",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "EXLU|score=W",
+            "opponent2": "OPJ|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "2024-05-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "OneCoin|score=W",
+            "opponent2": "\uc988\uc0cc\uc874\uc9c0|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2024-05-18",
+            "opponent1": "EXLU",
+            "opponent2": "\uc624\ubc84\uc6cc\uce58 \uacf5\ubb34\uc6d0",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2024-05-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "OneCoin",
+            "opponent2": "EXLU",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "128.09m",
+                "score2": "3.87m",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "2024-05-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "LFT|score=W",
+            "opponent2": "Venom|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "2024-05-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Homrun",
+            "opponent2": "OPJ",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "84.58m",
+                "score2": "70.53m",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "2024-05-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\uc624\ubc84\uc6cc\uce58 \uacf5\ubb34\uc6d0|score=W",
+            "opponent2": "LFT|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "2024-05-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\uc988\uc0cc\uc874\uc9c0",
+            "opponent2": "Homrun",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "101.49m",
+                "score2": "101.48m",
+                "winner": "1"
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "2024-05-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\uc624\ubc84\uc6cc\uce58 \uacf5\ubb34\uc6d0",
+            "opponent2": "\uc988\uc0cc\uc874\uc9c0",
+            "map1": {
+                "map": "Illios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "2024-05-19",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "EXLU",
+            "opponent2": "\uc624\ubc84\uc6cc\uce58 \uacf5\ubb34\uc6d0",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "89.77m",
+                "score2": "124.20m",
+                "winner": "2"
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "2024-05-19",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "OneCoin",
+            "opponent2": "\uc624\ubc84\uc6cc\uce58 \uacf5\ubb34\uc6d0",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "142.41m",
+                "score2": "3.80m",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "83.56m",
+                "score2": "67.61m",
+                "winner": "1"
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

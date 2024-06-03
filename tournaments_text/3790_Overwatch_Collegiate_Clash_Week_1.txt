@@ -1,0 +1,221 @@
+{{DISPLAYTITLE:Overwatch Collegiate Clash - Week 1}}
+{{Tabs static
+|name1=Week 1|link1=Overwatch_Collegiate_Clash/Week_1
+|name2=Week 2|link2=Overwatch_Collegiate_Clash/Week_2
+|name3=Week 3|link3=Overwatch_Collegiate_Clash/Week_3
+|name4=Week 4|link4=Overwatch_Collegiate_Clash/Week_4
+|name5=Week 5|link5=Overwatch_Collegiate_Clash/Week_5
+|name6=Week 6|link6=Overwatch_Collegiate_Clash/Week_6
+|name7=Week 7|link7=Overwatch_Collegiate_Clash/Week_7
+|name8=Championship Week|link8=Overwatch_Collegiate_Clash/Championship_Week
+|This=1}}
+{{Infobox league
+|name=Overwatch Collegiate Clash - Week 1 
+|image=Overwatch Collegiate Clash logo.png
+|shortname=Week 1
+|series=Overwatch Collegiate Clash
+|organizer=UMG Gaming
+|sponsor=[https://www.umggaming.com/ UMG]
+|type=Online
+|country=USA
+|format=Single Elimination 
+|date=2020-03-20
+|prizepoolusd=4,000
+|twitch=UMGGaming
+|bracket=https://www.umggaming.com/event/overwatch-collegiate-clash/page/bracket
+|liquipediatier=3|liquipediatiertype=Weekly
+|team_number=8
+}}
+
+===Format===
+* Single Elimination Bracket
+**Round 1 is {{abbr/Bo3}}.
+**Semifinals and Finals are {{abbr/Bo5}}.
+
+====English Broadcast====
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=LemonKiwi|b1flag=us|b1name=
+|b2=AskJoshy|b2flag=us|b2name=
+}}
+
+===Prize Pool===
+$4,000 {{Abbr/USD}}:
+{{prize pool start}}
+{{prize pool slot|place=1|usdprize=3,000|utah utes|lastvs1=mississippi state esports|lastscore1=3|lastvsscore1=0}}
+{{prize pool slot|place=2|usdprize=1,000|mississippi state esports|lastvs1=utah utes|lastscore1=0|lastvsscore1=3}}
+{{prize pool slot|place=3-4|usdprize=0
+|cu boulder|lastvs1=mississippi state esports|lastscore1=1|lastvsscore1=3
+|gmu patriots|lastvs2=utah utes|lastscore2=0|lastvsscore2=3
+}}
+{{prize pool slot|place=5-8|usdprize=0
+|wichita state|lastvs1=cu boulder|lastscore1=0|lastvsscore1=2
+|boise state university|lastvs2=mississippi state esports|lastscore2=1|lastvsscore2=2
+|unlv|lastvs3=utah utes|lastscore3=0|lastvsscore3=2
+|tamu maroon|lastvs4=gmu patriots|lastscore4=0|lastvsscore4=2
+}}
+{{prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|team=Wichita State University
+|p1=Glacier
+|p2=Ceed
+|p3=JWack
+|p4=JohnC9
+|p5=Vegeto
+|p6=Deadly
+|p7=Valstrax
+|c=Pineapple|clink=Pineapple (American coach)
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=CU Boulder
+|p1=Azea
+|p2=Blainoso
+|p3=Dusty
+|p4=Sifu
+|p5=Omegarubii
+|p6=Blisterinjay
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Boise State University
+|p1=Food
+|p2=Saladon
+|p3=Guac
+|p4=Pyroes
+|p5=Blue
+|p6=N3rdybird
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Mississippi State Esports
+|p1=Cob
+|p2=Jacq
+|p3=Ecology
+|p4=Flonson
+|p5=Gibusgod
+|p6=Warbeast122
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Utah Utes
+|p1=coolabc
+|p2=Coblart
+|p3=Pioneer
+|p4=Dog21
+|p5=Andy
+|p6=Hollow
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Rebel Gaming
+|p1=KEVINDURANT|p1flag=us
+|p2=wildwingbat|p2flag=us
+|p3=Rosay
+|p4=DrChowder
+|p5=Karma|p5link=Karma (American player)|p5flag=us
+|p6=Slamtaro|p6flag=us
+|p7=Guerra
+|p8=Ceejay
+|p9=Skin
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=GMU Patriots
+|p1=Ferocitys
+|p2=Initials
+|p3=BigBoyMcMatt
+|p4=OpyOpyOpyO
+|p5=Neuro
+|p6=EarlyB1rd
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=TAMU Maroon
+|p1=Braden Reed
+|p2=Spencer Cooke
+|p3=Nate Dunkley
+|p4=Matt Jemi
+|p5=Eddie K
+|p6=Samuel Shteyman
+|c=Cassy Dela Torre
+}}
+{{box|end|padding=2em}}
+
+==Results==
+{{Bracket|Bracket/8|id=RSHyKJIF3N
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=March 20, 2020
+    |opponent1={{TeamOpponent|Wichita St}}
+    |opponent2={{TeamOpponent|CU Boulder}}
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=4|winner=2}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=|score2=|winner=skip}}
+}}
+|R1M2={{Match
+    |date=March 20, 2020
+    |opponent1={{TeamOpponent|Boise St}}
+    |opponent2={{TeamOpponent|Mississippi State university}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=2|score2=3|winner=2}}
+}}
+|R1M3={{Match
+    |date=March 20, 2020
+    |opponent1={{TeamOpponent|Utah}}
+    |opponent2={{TeamOpponent|UNLV}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=0|winner=1}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=|score2=|winner=skip}}
+}}
+|R1M4={{Match
+    |date=March 20, 2020
+    |opponent1={{TeamOpponent|George Mason}}
+    |opponent2={{TeamOpponent|Texas A&M}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=0|winner=1}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=|score2=|winner=skip}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|bestof=5
+    |date=March 20, 2020
+    |opponent1={{TeamOpponent|CU Boulder}}
+    |opponent2={{TeamOpponent|Mississippi St}}
+    |map1={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=Horizon Lunar Colony|mode=Assault|score1=3|score2=4|winner=2}}
+    |map5={{Map|map=Busan|mode=Control|score1=|score2=|winner=skip}}
+}}
+|R2M2={{Match
+    |date=March 20, 2020
+    |opponent1={{TeamOpponent|Utah}}
+    |opponent2={{TeamOpponent|George Mason}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=2|score2=0|winner=1}}
+    |map4={{Map|map=Horizon Lunar Colony|mode=Assault|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Busan|mode=Control|score1=|score2=|winner=skip}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |date=March 20, 2020
+    |opponent1={{TeamOpponent|Mississippi St}}
+    |opponent2={{TeamOpponent|Utah}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Hanamura|mode=Assault|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+}}
+}}

@@ -1,0 +1,393 @@
+{
+    "tournament_info": [
+        {
+            "name": "HammerClash #8",
+            "shortname": "HC",
+            "image": "",
+            "icon": "",
+            "tickername": "HammerClash #8",
+            "organizer": "HammerKick",
+            "country": "Europe",
+            "type": "Online",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "prizepool": "200",
+            "localcurrency": "eur",
+            "date": "2023-07-09",
+            "liquipediatier": "5",
+            "twitter": "HammerKick_OW",
+            "twitch": "hammerkick",
+            "bracket": "https://play.toornament.com/fr/tournaments/6875309040910172160/stages/6875351251542474752/",
+            "rulebook": "https://play.toornament.com/fr/tournaments/6875309040910172160/rules",
+            "team_number": "14",
+            "previous": "HammerClash/7{{!}}#7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "MontQ Eternal",
+            "p1": "Friome|p1flag=fr|pos1=dps",
+            "p2": "zvhq|p2flag=fr|pos2=dps",
+            "p3": "Sinews|p3flag=au|pos3=tank",
+            "p4": "Zayano|p4flag=fr|pos4=sup",
+            "p5": "Desak|p5flag=fr|pos5=sup",
+            "p6": "TsuSHI|p6flag=fr|pos6=flex"
+        },
+        {
+            "team": "Lunarion Iris",
+            "p1": "Gwenkamol|p1flag=fr|pos1=dps",
+            "p2": "Ninooo|p2flag=hu|pos2=dps",
+            "p3": "Melrun|p3flag=fr|pos3=tank",
+            "p4": "BlacKawaii|p4flag=fr|pos4=sup",
+            "p5": "SuuperLow|p5flag=fr|pos5=sup",
+            "p6": "Azu|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "Little Gigantes",
+            "p1": "Versio|p1flag=fr|pos1=dps",
+            "p2": "Lumwalker|p2flag=fr|pos2=dps",
+            "p3": "Spacsee|p3flag=ch| pos3=tank",
+            "p4": "MineRabbit|p4flag=fr|pos4=sup",
+            "p5": "Minefine|p5flag=fr|pos5=sup",
+            "p6": "Kyo|pos6=sup|p6link=Kyo (French manager)",
+            "t2title": "Staff",
+            "t2c1": "Camchapo|t2c1flag=fr|t2c1pos=manager"
+        },
+        {
+            "team": "Les Golems Bien Trained",
+            "p1": "ThatCloudKid|p1flag=fr|pos1=dps",
+            "p2": "T\u00f8mmy|p2flag=fr|pos2=dps",
+            "p3": "Foxygene|p3flag=fr|pos3=tank",
+            "p4": "Deyy|p4flag=fr|pos4=sup",
+            "p5": "Lulutrim|p5flag=fr|pos5=sup"
+        },
+        {
+            "team": "Turbo Homies",
+            "p1": "Warglabidoo|p1flag=fr|pos1=dps",
+            "p2": "potinounou|p2flag=fr|pos2=dps",
+            "p3": "Terozz|p3flag=fr|pos3=tank",
+            "p4": "Podonova|p4flag=be|pos4=sup",
+            "p5": "Bak4ra|p5flag=fr|pos5=sup"
+        },
+        {
+            "team": "Team Schweppes",
+            "p1": "Stellios|pos1=dps",
+            "p2": "Matriera|p2flag=fr |pos2=dps",
+            "p3": "KroxZ |pos3=tank",
+            "p4": "Xerion|pos4=sup",
+            "p5": "GOGO|pos5=sup"
+        },
+        {
+            "team": "Team Epsilon",
+            "p1": "Mat|p1flag=ag|pos1=dps",
+            "p2": "Sygfrid|p2flag=gd|pos2=dps",
+            "p3": "EmmaUwU|p3flag=bm|pos3=tank",
+            "p4": "Marv|p4flag=fr|pos4=sup",
+            "p5": "Mojo|p5flag=cm|pos5=sup"
+        },
+        {
+            "team": "CUPID - FIFTY FIFTY",
+            "p1": "Avo|pos1=dps",
+            "p2": "Chako|p2flag=fr|pos2=dps",
+            "p3": "Kilaa|pos3=dps",
+            "p4": "Shyraa|pos4=tank",
+            "p5": "Reviewz|pos5=sup",
+            "p6": "Natlocks|pos6=sup",
+            "p7": "Zorfen|pos7=sup"
+        },
+        {
+            "team": "Colonel watsapp 3310",
+            "p1": "sax|p1flag=fr|pos1=dps",
+            "p2": "alex|p2flag=fr|pos2=dps",
+            "p3": "Leo|p3flag=fr|pos3=dps |p3link=Leo (French player)",
+            "p4": "majin|p4flag=fr|pos4=tank",
+            "p5": "Karbuno|p5flag=fr|pos5=sup",
+            "p6": "Mightybrig|p6flag=es|pos6=sup"
+        },
+        {
+            "team": "Overwashed|link=Overwashed (French team)",
+            "p1": "Sined|p1flag=fr|pos1=dps",
+            "p2": "Geegeek|p2flag=fr|pos2=dps",
+            "p3": "Starwinks|p3flag=fr|pos3=dps",
+            "p4": "Adril|p4flag=fr|pos4=tank",
+            "p5": "EGO|p5flag=de|pos5=tank |p5link= EGO (German player)",
+            "p6": "Kzr|p6flag=fr|pos6=sup",
+            "p7": "Majid|p7flag=fr|pos7=sup"
+        },
+        {
+            "team": "Zephyr",
+            "p1": "Sascha|p1flag=de|pos1=dps",
+            "p2": "Lukekek|p2flag=gb|pos2=dps",
+            "p3": "Actimel|p3flag=fr|pos3=tank",
+            "p4": "Mercyn|p4flag=cz|pos4=sup",
+            "p5": "Kattos|p5flag=cz|pos5=sup",
+            "p6": "Tibiscuit|p6flag=fr|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "TweeApollo|t2c1pos=manager|t2c1flag=no",
+            "t2c2": "DarthMurloc|t2c2pos=manager|t2c2flag=ru"
+        },
+        {
+            "team": "Sheer Hot",
+            "p1": "M3WS|pos1=dps",
+            "p2": "Wex|pos2=dps",
+            "p3": "NevsH200|p3flag=de|pos3=tank",
+            "p4": "Aleexia|p4flag=es|pos4=sup",
+            "p5": "Zoom|p5flag=fi|pos5=sup"
+        },
+        {
+            "team": "Dragon's Yokai",
+            "p1": "Evil|p1flag=fr|pos1=dps|p1link=Evil (French player)",
+            "p2": "Erso|p2flag=fr|pos2=dps",
+            "p3": "Allan|p3flag=fr|pos3=tank",
+            "p4": "EASTPACKMAN|p4flag=fr|pos4=sup",
+            "p5": "Hell|p5flag=fr|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Mat71|t2c1flag=fr|t2c1pos=manager"
+        },
+        {
+            "team": "P'tits Biloute",
+            "p1": "Mexa|p1flag=|pos1=",
+            "p2": "Clems|p2flag=|pos2=",
+            "p3": "Sonokais|p3flag=|pos3=",
+            "p4": "SpriFPV|p4flag=|pos4=",
+            "p5": "Black Elf|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Zephyr|score=2}}",
+            "opponent2": "{{TeamOpponent|Little Gigantes|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "opponent2": "{{TeamOpponent|Lunarion Iris|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Overwashed (French team)|score=1}}",
+            "opponent2": "{{TeamOpponent|Colonel watsapp 3310|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Turbo Homies|score=2}}",
+            "opponent2": "{{TeamOpponent|MontQ Eternal|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Les Golems Bien Trained|score=2}}",
+            "opponent2": "{{TeamOpponent|P'tits Biloute|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Team Epsilon|score=2}}",
+            "opponent2": "{{TeamOpponent|Dragon's Yokai|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|CUPID - FIFTY FIFTY|score=2}}",
+            "opponent2": "{{TeamOpponent|Zephyr|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=0}}",
+            "opponent2": "{{TeamOpponent|Colonel watsapp 3310|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Team Schweppes|score=2}}",
+            "opponent2": "{{TeamOpponent|Turbo Homies|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Les Golems Bien Trained|score=1}}",
+            "opponent2": "{{TeamOpponent|Team Epsilon|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|CUPID - FIFTY FIFTY|score=2}}",
+            "opponent2": "{{TeamOpponent|Colonel watsapp 3310|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Team Schweppes|score=2}}",
+            "opponent2": "{{TeamOpponent|Team Epsilon|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|CUPID - FIFTY FIFTY|score=0}}",
+            "opponent2": "{{TeamOpponent|Team Schweppes|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M1="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Dragon's Yokai|score=2}}",
+            "opponent2": "{{TeamOpponent|P'tits Biloute|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Overwashed (French team)|score=2}}",
+            "opponent2": "{{TeamOpponent|Lunarion Iris|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Zephyr|score=2}}",
+            "opponent2": "{{TeamOpponent|MontQ Eternal|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "opponent2": "{{TeamOpponent|Dragon's Yokai|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Les Golems Bien Trained|score=0}}",
+            "opponent2": "{{TeamOpponent|Overwashed (French team)|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Turbo Homies|score=0}}",
+            "opponent2": "{{TeamOpponent|Little Gigantes|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Zephyr|score=1}}",
+            "opponent2": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Overwashed (French team)|score=2}}",
+            "opponent2": "{{TeamOpponent|Little Gigantes|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Team Epsilon|score=0}}",
+            "opponent2": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Colonel watsapp 3310|score=0}}",
+            "opponent2": "{{TeamOpponent|Overwashed (French team)|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=0}}",
+            "opponent2": "{{TeamOpponent|Overwashed (French team)|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|CUPID - FIFTY FIFTY|score=0}}",
+            "opponent2": "{{TeamOpponent|Overwashed (French team)|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M2="
+        },
+        {
+            "date": "2023-07-09",
+            "opponent1": "{{TeamOpponent|Team Schweppes|score=2}}",
+            "opponent2": "{{TeamOpponent|Overwashed (French team)|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R7M1="
+        }
+    ]
+}

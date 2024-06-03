@@ -1,0 +1,197 @@
+{{DISPLAYTITLE:Munich eSports Lions Community Cup III}}
+{{Infobox league 
+|name=Munich eSports Lions Community Cup III
+|shortname=Lions Cup III
+|image=Lionscup.png
+|series=
+|icon=
+|organizer=Munich eSports e.V.
+|country=Germany
+|number=
+|type=Online
+|format=Single Elimination
+|prizepoolusd=243
+|liquipediatier={{TierText/5}}
+|sdate=2020-04-04
+|edate=2020-04-05
+|web=https://www.toornament.com/en_US/tournaments/3431474585519939584/information
+|twitter=munich_esports
+|twitch=munich_esports
+|bracket=https://www.toornament.com/en_US/tournaments/3431474585519939584/stages/3431490022680428544/
+|team_number=8
+|previous=
+|next=Lions Community Cup IIII
+}}
+
+==Information==
+===Format===
+*Single Elimination
+**At the start of the match and after each round, both teams get to ban a map out of the pool and a hero
+**Each match will be played in a First to 3 format.
+**The first map is determined by the lobby hosting team.
+**Following maps are decided by the loser of the previous map. The winner picks the side.
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=6|Available Maps
+|-
+![[Assault]]
+![[Control]]
+![[Escort]]
+![[Hybrid]]
+|-
+!1st set
+|''[[Control]] map''
+|width="130" rowspan=7|[[Hanamura]]<br><br>[[Volskaya Industries]]<br><br>[[Temple of Anubis]]
+|width="130" rowspan=7|[[Ilios]]<br><br>[[Lijiang Tower]]<br><br>[[Nepal]]<br><br>[[Oasis]]<br><br>[[Busan]]
+|width="130" rowspan=7|[[Junkertown]]<br><br>[[Dorado]]<br><br>[[Havana]]<br><br>[[Rialto]]<br><br>[[Route 66]]<br><br>[[Watchpoint: Gibraltar]]
+|width="130" rowspan=7|[[King's Row]]<br><br>[[Blizzard World]]<br><br>[[Eichenwalde]]<br><br>[[Hollywood]]<br><br>[[Numbani]]
+|-
+!2nd set
+|''[[Escort]] map''
+|-
+!3rd set
+|''[[Hybrid]] map''
+|-
+!4th set
+|''[[Assault]] map''
+|-
+!5th set
+|''[[Control]] map''
+|-
+!6th set
+|''[[Escort]] map''
+|-
+!7th set
+|''[[Hybrid]] map''
+|-
+|}
+
+==Prize Pool==
+{{prize pool start|localcurrency=eur|cutafter=4}}
+{{prize pool slot|place=1 |usdprize=170 |localprize=140 |WeWindows |lastvs1=March Marmots |lastscore1=3 |lastvsscore1=1 |date1=2020-4-5 }}
+{{prize pool slot|place=2 |usdprize=72 |localprize=60 |March Marmots |lastvs1=WeWindows |lastscore1=1 |lastvsscore1=3 |date1=2020-4-5 }}
+{{prize pool slot|place=3 |usdprize=0 |localprize=0 |Bayern Apex |lastvs1=March Marmots |lastscore1=2 |lastvsscore1=3 |date1=2020-4-5 }}
+{{prize pool slot|place=4 |usdprize=0 |localprize=0 |Munich eSports |lastvs1=Bayern Apex |lastscore1=0 |lastvsscore1=3 |date1=2020-4-5 }}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+<section begin="Participants"/>
+{{TeamCard columns start|cols=12}}
+{{TeamCard
+|team=WeWindows
+|image=Wewindows.png
+|p1=Hitori|p1flag=de|pos1=tank
+|p2=Tschosch|p2flag=de|pos2=tank
+|p3=TrqstMe|p3flag=de|pos3=dps
+|p4=MaDetho|p4flag=de|pos4=dps
+|p5=Gilix|p5flag=de|pos5=sup
+|p6=Antoncoco11|p6flag=de|pos6=sup
+|placement=1
+}}
+{{TeamCard
+|team=March Marmots
+|image=Marchmmmmmm.png
+|p1=stadam|p1flag=ch|pos1=tank
+|p2=Kioz0m|p2flag=ch|pos2=tank
+|p3=Jaden|p3flag=ch|pos3=dps
+|p4=cabzlock|p4flag=ch|pos4=dps
+|p5=Kiam|p5flag=ch|pos5=sup
+|p6=Lyolor|p6flag=de|pos6=sup
+|placement=2
+}}
+{{TeamCard
+|team=Bayern Apex
+|image=BayernApexS2.png
+|p1=EgZo|p1flag=de|pos1=tank
+|p2=moose|p2flag=de|pos2=tank
+|p3=SSK|p3flag=de|pos3=dps
+|p4=Darco|p4flag=de|pos4=dps
+|p5=Riot|p5flag=de|pos5=sup
+|p6=Awzey|p6flag=de|pos6=sup
+|placement=3
+}}
+{{TeamCard
+|team=Munich eSports
+|image=Munich eSports.png
+|p1=Iskrauno|p1flag=de|pos1=tank
+|p2=delta|p2flag=de|pos2=tank
+|p3=NineTwelve|p3flag=de|pos3=dps
+|p4=Phteven|p4flag=de|pos4=dps
+|p5=ByMySyde|p5flag=de|pos5=sup
+|p6=Zaza|p6flag=de|pos6=sup
+|placement=4
+}}
+{{TeamCard
+|team=ESUG JungBrutalGebihlded
+|image=ESUG Logo Large.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|placement=5-8
+}}
+{{TeamCard
+|team=KIT SC Sphinx
+|image=KIT-SC bw Logo.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|placement=5-8
+}}
+{{TeamCard
+|team=Kieler Rays
+|image=KielerRays.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|placement=5-8
+}}
+{{TeamCard
+|team=Engines Stuttgart
+|image=Engines stuttgart.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|placement=5-8
+}}
+{{box|break|padding=2em}}
+{{box|end|padding=2em}}
+
+==Results==
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=58QxrQeUJM
+<!-- ROUND OF 8 -->
+|R1D1team=WeWindows |R1D1score=3 |R1D1win=1
+|R1D2team=ESUG JungBrutalGebihlded |R1D2score=0 |R1D2win=
+|R1D3team=KIT SC Sphinx |R1D3score=0 |R1D3win=
+|R1D4team=Munich eSports |R1D4score=3 |R1D4win=1
+|R1D5team=March Marmots |R1D5score=3 |R1D5win=1
+|R1D6team=Kieler Rays |R1D6score=0 |R1D6win=
+|R1D7team=Bayern Apex |R1D7score=3 |R1D7win=1
+|R1D8team=Engines Stuttgart |R1D8score=0 |R1D8win=
+<!-- SEMIFINALSS -->
+|R2W1team=WeWindows |R2W1score=3 |R2W1win=1
+|R2W2team=Munich eSports |R2W2score=1 |R2W2win=
+|R2W3team=March Marmots |R2W3score=3 |R2W3win=1
+|R2W4team=Bayern Apex |R2W4score=2 |R2W4win=
+<!-- FINALS -->
+|R3W1team=WeWindows |R3W1score=3 |R3W1win=1
+|R3W2team=March Marmots |R3W2score=1 |R3W2win=
+<!-- 3RD PLACE (optional) -->
+|R3D1team=Bayern Apex |R3D1score=3 |R3D1win=1
+|R3D2team=Munich eSports |R3D2score=0 |R3D2win=
+}}

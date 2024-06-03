@@ -1,0 +1,245 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/5}}",
+            "series": "Mercy Cup",
+            "shortname": "Mercy Cup",
+            "name": "Mercy Cup 2017",
+            "image": "Mercy cup season 1 2017.jpg",
+            "icon": "",
+            "organizer": "RAID.gg",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Ireland",
+            "city": "Dublin",
+            "venue": "",
+            "format": "",
+            "prizepool": "100",
+            "localcurrency": "EUR",
+            "prizepoolusd": "113.35",
+            "sdate": "2017-12-16",
+            "edate": "2017-12-17",
+            "web": "https://www.facebook.com/events/358902851222075/",
+            "bracket": "https://battlefy.com/raid/mercy-cup-season-1/59ecd53ed91f7906706b98db/stage/5a3500f4bd23040360a52333/bracket/",
+            "twitter": "RaidGamingGG",
+            "twitch": "WatchRaid",
+            "facebook": "raidgg",
+            "youtube": "channel/UC1QtRq0hL_jWJdcK0XjfHJw",
+            "team_number": "7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Neglected Sausage Gamers",
+            "image": "",
+            "p1": "Chippy|p1flag=|",
+            "p2": "TheNobleDuck|p2flag=|",
+            "p3": "Lewis|p3flag=|",
+            "p4": "kasuuuu|p4flag=|",
+            "p5": "GarryM|p5flag=|",
+            "p6": "WolfishMagic|p6flag=|",
+            "c": "|cflag=",
+            "qualifier": ""
+        },
+        {
+            "team": "Spice Bags",
+            "image": "",
+            "p1": "Ducky|p1flag=ie|pos1=dps",
+            "p2": "Warro|p2flag=ie|pos2=dps",
+            "p3": "andy|p3flag=ie|pos3=flex|p3link=Andy Irish",
+            "p4": "DPSMercy|p4flag=ie|pos4=tank",
+            "p5": "wackobako|p5flag=ie|pos5=sup",
+            "p6": "Himeibubu|p6flag=fr|pos6=sup",
+            "p7": "casores|p7flag=nl|pos7=sub",
+            "p8": "Bae|p8flag=uk|pos8=sub",
+            "c": "FranticPhil|cflag=de",
+            "qualifier": ""
+        },
+        {
+            "team": "Team Grain",
+            "p1": "Unregistered|p1flag=ie|pos1=tank",
+            "p2": "FaithfulSoul|p2flag=ie|pos2=tank",
+            "p3": "ThatGuy8383|p3flag=ie|pos3=sup",
+            "p4": "ShadowlesS|p4flag=ie|pos4=dps",
+            "p5": "Wheat|p5flag=ie|pos5=dps",
+            "p6": "fuzz|p6flag=ie|pos6=sup",
+            "qualifier": ""
+        },
+        {
+            "team": "2 aim botters and 4 plebs",
+            "p1": "Krispy|p1flag=|pos1=",
+            "p2": "Trickedagain|p2flag=|pos2=",
+            "p3": "Default|p3flag=|pos3=",
+            "p4": "MattyH|p4flag=|pos4=",
+            "p5": "addzy|p5flag=|pos5=",
+            "p6": "Mewkie|p6flag=|pos6=",
+            "c": "|cflag=",
+            "qualifier": ""
+        },
+        {
+            "team": "Homicidal Jesters",
+            "image": "",
+            "p1": "Pooka|p1flag=|pos1=",
+            "p2": "Gbuz|p2flag=ie|pos2=",
+            "p3": "Vinny|p3flag=|pos3=",
+            "p4": "DangerNoodle|p4flag=|pos4=",
+            "p5": "Halpachino|p5flag=|pos5=",
+            "p6": "xRayzor|p6flag=|pos6=",
+            "c": "|cflag=",
+            "qualifier": ""
+        },
+        {
+            "team": "WizardNinja's",
+            "p1": "Archon|p1flag=|pos1=",
+            "p2": "RaidenGZT|p2flag=|pos2=",
+            "p3": "Sushiman|p3flag=|pos3=",
+            "p4": "Luis\u010aon95|p4flag=|pos4=",
+            "p5": "FuriousBantr|p5flag=|pos5=",
+            "p6": "GiantAxe|p6flag=|pos6=",
+            "p7": "Spud|p7flag=|pos7=",
+            "p8": "Ayke|p8flag=|pos8=",
+            "c": "|cflag=",
+            "qualifier": ""
+        },
+        {
+            "team": "MercyMainsBTW",
+            "image": "",
+            "p1": "B4RRY|p1flag=ie|pos1=",
+            "p2": "JavaJohn|p2flag=ie|pos2=",
+            "p3": "OROURKEIRE|p3flag=ie|pos3=",
+            "p4": "Czer|p4flag=uk|pos4=",
+            "p5": "Korvo|p5flag=ie|pos5=",
+            "p6": "meapeze|p6flag=ie|pos6=",
+            "qualifier": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "team grain",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "wizardninja's",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "neglected sausage gamers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "2 aim botters and 4 plebs",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "homicidal jesters",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "mercymainsbtw",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "spice bags",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "neglected sausage gamers",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "team grain",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "spice bags",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "homicidal jesters",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "spice bags",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "neglected sausage gamers",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "wizardninja's",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "2 aim botters and 4 plebs",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "mercymainsbtw",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "wizardninja's",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "homicidal jesters",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "mercymainsbtw",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D2",
+            "team1": "team grain",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team grain",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "homicidal jesters",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "team grain",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "neglected sausage gamers",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "team grain",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "spice bags",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

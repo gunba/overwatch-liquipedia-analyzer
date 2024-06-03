@@ -1,0 +1,223 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/4}}",
+            "series": "Le Retour des H\u00e9ros",
+            "abbreviation": "RDH",
+            "shortname": "Le Retour des H\u00e9ros",
+            "name": "Le Retour des H\u00e9ros",
+            "tickername": "Le Retour des H\u00e9ros",
+            "image": "Logo Retour-des-Heros.png",
+            "icon": "Logo Retour-des-Heros.png",
+            "organizer": "An4rchy",
+            "sponsor": "FullLife<br>[[Paris Eternal]]",
+            "type": "Online",
+            "country": "France",
+            "city": "Paris",
+            "venue": "ESPOT",
+            "twitch": "an4rchy_ow",
+            "format": "Swiss Rounds<br>Grand Finals",
+            "patch": "",
+            "epatch": "",
+            "localcurrency": "eur",
+            "prizepool": "1000",
+            "date": "2021-10-16",
+            "web": "",
+            "bracket": "https://play.toornament.com/fr/tournaments/5051762809182011392/stages/5052476715052220416/groups/5052476715857526821/#structure",
+            "youtube": "",
+            "twitter": "",
+            "team_number": "17",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "KFC",
+            "image": "",
+            "p1": "\u00c5ce|p1flag=ch|pos1=dps",
+            "p2": "Arca|p2flag=fr|pos2=dps",
+            "p3": "Julo|p3flag=fr|pos3=tank",
+            "p4": "Kex|p4flag=se|pos4=tank",
+            "p5": "Marked|p5flag=fi|pos5=sup",
+            "p6": "Pak|p6flag=fr|pos6=flex",
+            "p7": "eli|p7flag=uk|pos7=flex"
+        },
+        {
+            "team": "Pipibox",
+            "image": "",
+            "p1": "Zaouri|p1flag=fr|pos1=dps",
+            "p2": "White|p2flag=fr|pos2=dps|p2link=White (French player)",
+            "p3": "SoSucre|p3flag=fr|pos3=tank",
+            "p4": "Sairqo|p4flag=fr|pos4=tank",
+            "p5": "Lunio|p5flag=fr|pos5=tank",
+            "p6": "Flowy35|p6flag=fr|pos6=sup",
+            "p7": "Xerion|p7flag=fr|pos7=sup",
+            "p8": "Grdmot|p8flag=fr|pos8=sup"
+        },
+        {
+            "team": "Les ZinZins",
+            "image": "",
+            "p1": "Tsuna|p1flag=fr|pos1=flex",
+            "p2": "KayZzeR|p2flag=fr|pos2=flex",
+            "p3": "BenBest|p3flag=fr|pos3=flex",
+            "p4": "Poko|p4flag=fr|pos4=flex",
+            "p5": "FDGoD|p5flag=fr|pos5=flex",
+            "p6": "GetAmazed|p6flag=fr|pos6=flex"
+        },
+        {
+            "team": "Sacr\u00e9 bleu blanc rouge",
+            "image": "",
+            "p1": "Tsuyo|p1flag=fr|pos1=dps",
+            "p2": "Foxygene|p2flag=fr|pos2=dps",
+            "p3": "Teemo|p3flag=fr|pos3=tank",
+            "p4": "Hazox|p4flag=fr|pos4=tank",
+            "p5": "sStarb0i|p5flag=fr|pos5=sup",
+            "p6": "Anae|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "Sexiest Gaymers",
+            "image": "",
+            "p1": "FakeJake|p1flag=pl|pos1=dps",
+            "p2": "Avoria|p2flag=fr|pos2=dps",
+            "p3": "Izko|p3flag=fr|pos3=tank",
+            "p4": "Pancake|p4flag=fr|pos4=tank",
+            "p5": "MUP|p5flag=mt|pos5=sup",
+            "p6": "Grease|p6flag=ukni|pos6=sup"
+        },
+        {
+            "team": "OnCliqueACot\u00e9Virgule",
+            "image": "",
+            "p1": "GeneralDelta|p1flag=fr|pos1=dps",
+            "p2": "Alphaa|p2flag=fr|pos2=dps",
+            "p3": "Ar3s|p3flag=fr|pos3=tank",
+            "p4": "Seynox|p4flag=fr|pos4=tank",
+            "p5": "LBV|p5flag=fr|pos5=sup",
+            "p6": "Natlocks|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "FT - Mizuumi",
+            "image": "",
+            "p1": "PoussinRouge|p1flag=fr|pos1=dps",
+            "p2": "Core|p2flag=fr|pos2=dps",
+            "p3": "Ritter|p3flag=fr|pos3=tank",
+            "p4": "FreeFals|p4flag=fr|pos4=tank",
+            "p5": "Karbuno|p5flag=fr|pos5=sup",
+            "p6": "WolfsSilver|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "FT - Osiris",
+            "image": "",
+            "p1": "SlendX|p1flag=be|pos1=dps",
+            "p2": "Ronamin|p2flag=fr|pos2=dps",
+            "p3": "Tsif|p3flag=fr|pos3=tank",
+            "p4": "Susushi|p4flag=fr|pos4=tank",
+            "p5": "Wez|p5flag=be|pos5=sup",
+            "p6": "7even|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "DSC' Reported",
+            "image": "",
+            "p1": "Ko\u00e9 |p1flag=fr|pos1=dps",
+            "p2": "SachaTouille |p2flag=fr|pos2=tank",
+            "p3": "Skycraft |p3flag=fr|pos3=tank",
+            "p4": "Flambax |p4flag=fr|pos4=tank",
+            "p5": "Funnygastro |p5flag=fr|pos5=sup",
+            "p6": "NoahFPS |p6flag=fr|pos6=flex",
+            "p7": "Soumis1trick |p7flag=fr|pos7=flex",
+            "p8": "Eastpackman|p8flag=fr|pos8=flex"
+        },
+        {
+            "team": "MarioStarSoundEffect",
+            "image": "",
+            "p1": "RaisZer|p1flag=be|pos1=dps",
+            "p2": "Ragnaruu|p2flag=fr|pos2=dps",
+            "p3": "Marronfrui|p3flag=fr|pos3=tank",
+            "p4": "KeebZ|p4flag=fr|pos4=tank",
+            "p5": "Eudoxie|p5flag=fr|pos5=sup",
+            "p6": "Olddrim|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "COLISEUM",
+            "image": "",
+            "p1": "Chubz|p1flag=fr|pos1=tank",
+            "p2": "Tek36|p2flag=fr|pos2=tank",
+            "p3": "Noomi|p3flag=fr|pos3=dps",
+            "p4": "zYKK|p4flag=fr|pos4=dps",
+            "p5": "Izzy|p5flag=fr|pos5=sup",
+            "p6": "Ascoft|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "P\u00e9pitocratie",
+            "image": "",
+            "p1": "Stellios|p1flag=fr|pos1=dps",
+            "p2": "Matriera|p2flag=fr|pos2=dps",
+            "p3": "Xzukay|p3flag=fr|pos3=tank",
+            "p4": "SuperSaucisse|p4flag=fr|pos4=tank",
+            "p5": "HappyDJ|p5flag=fr|pos5=sup",
+            "p6": "Aiky|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Pipibox",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "Les ZinZins",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

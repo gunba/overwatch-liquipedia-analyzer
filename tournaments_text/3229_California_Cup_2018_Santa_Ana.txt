@@ -1,0 +1,107 @@
+{{DISPLAYTITLE:California Cup 2018 - Santa Ana}}
+{{tabs static
+|name1=Overview|link1=California_Cup/2018
+|name2=Santa Ana|link2=California_Cup/2018/Santa Ana
+|name3=Oakland|link3=California_Cup/2018/Oakland
+|This=2
+}}
+{{tabs static
+|name1=Main Event|link1=California_Cup/2018/Santa Ana
+|name2=Collegiate Clash|link2=California_Cup/2018/Santa Ana/Collegiate Clash
+}}
+{{Infobox league
+|name=California Cup - Santa Ana
+|image=California Cup logo.png
+|series=California Cup
+|shortname=California Cup - Santa Ana
+|tickername=California Cup - Santa Ana
+|organizer=Los Angeles Valiant
+|organizer2=San Francisco Shock
+|patch=1.29
+|type=offline
+|country=United States
+|city=Santa Ana
+|venue=Esports Arena Santa Ana
+|venuelink=https://web.archive.org/web/20190501225830/https://www.esportsarena.com/OrangeCounty/
+|prizepoolusd=
+|date=2018-10-20
+|liquipediatier=1|liquipediatiertype=Showmatch
+|twitch=lavaliant
+|game=overwatch
+|team_number=2
+|next=California_Cup/2018/Oakland{{!}}Oakland
+}}
+
+==Information==
+===Broadcast Talent===
+{{BroadcasterCard|lang=English
+|position=Host
+|b1=Jamerson
+}}
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=Bren
+|b2=Sideshow
+}}
+
+===Prize Pool===
+{{prize pool start|noprize=true}}
+{{prize pool slot|place=w |val|lastvs1=sfs|lastscore1=3|lastvsscore1=1}}
+{{prize pool slot|place=l |sfs|lastvs1=val|lastscore1=1|lastvsscore1=3}}
+{{prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4|height=290}}
+{{TeamCard
+|team=Los Angeles Valiant
+|p1=Agilities|pos1=dps
+|p2=Bunny|pos2=dps
+|p3=KariV|pos3=dps
+|p4=SPACE|pos4=flex
+|p5=Fate|pos5=tank
+|p6=Custa|pos6=sup
+|p7=Izayaki|pos7=sup
+|t2title=Staff
+|t2p1=Moon|t2pos1=head coach
+|t2p2=Stoop|t2pos2=assistant coach
+}}
+{{TeamCard
+|team=San Francisco Shock
+|p1=Architect|pos1=dps
+|p2=babybay|pos2=dps
+|p3=sinatraa|pos3=dps
+|p4=ChoiHyoBin|pos4=flex
+|p5=Nevix|pos5=flex
+|p6=super|pos6=tank
+|p7=smurf|pos7=tank
+|p8=moth|pos8=sup
+|p9=sleepy|pos9=sup
+|t2title=Staff
+|t2p1=Crusty|t2pos1=head coach
+|t2p2=Junkbuck|t2pos2=assistant coach
+|t2p3=NineK|t2pos3=assistant coach
+|t2p4=bikeage|t2pos4=manager
+}}
+{{TeamCard columns end}}
+
+==Results== 
+{{SingleMatch|id=Jt2BFpnHtc
+|{{Match
+    |bestof=5
+    |date=October 20, 2018 - 17:30 {{Abbr/PDT}}
+    |youtube=|twitch=LAValiant
+    |opponent1={{TeamOpponent|val}}
+    |opponent2={{TeamOpponent|sfs}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=Temple of Anubis|mode=Assault|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|vod=https://youtu.be/Fc-i5U8ORs0?t=14766
+}}
+}}
+
+==External Links==
+* {{flag/usuk}} [https://valiant.overwatchleague.com/en-us/news/la-valiant-sf-shock-present-overwatch-california-cup Los Angeles Valiant Announcement]
+* {{flag/usuk}} [https://shock.overwatchleague.com/en-us/news/sf-shock-and-la-valiant-announce-official-ow-california-cup San Francisco Shock Announcement]

@@ -1,0 +1,111 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "name": "Overwatch 2 AIS Esports Open Thailand",
+            "shortname": "AIS Esports Open Thailand",
+            "tickername": "AIS Esports Open Thailand",
+            "series": "AIS Esports",
+            "image": "",
+            "icon": "",
+            "organizer": "AIS Esports",
+            "organizer-link": "https://www.facebook.com/AiseSportsTournament",
+            "sponsor": "Secretlab",
+            "type": "Online",
+            "country": "Thailand",
+            "game": "overwatch2",
+            "prizepool": "50,000",
+            "localcurrency": "thb",
+            "sdate": "2022-12-04",
+            "edate": "2022-12-10",
+            "web": "https://aisesportsplatform.ais.co.th/tournament/detail/734",
+            "twitch": "AISeSports",
+            "youtube": "AISPLAYOfficial",
+            "facebook": "AiseSportsTournament",
+            "bracket": "https://aisesportsplatform.ais.co.th/tournament/bracket/734",
+            "discord": "ePWF9MyaHS",
+            "team_number": "276"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "winner": "",
+            "date": "December 8, 2022 - 20:00 {{Abbr/SGT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Team X7|score=3}}",
+            "opponent2": "{{TeamOpponent|Sunny16|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "winner": "",
+            "date": "December 8, 2022 - 20:00 {{Abbr/SGT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|MoonNight Esport|score=3}}",
+            "opponent2": "{{TeamOpponent|79 Copy Paste|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "winner": "",
+            "date": "December 8, 2022 - 22:00 {{Abbr/SGT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|DAF E-sport|score=1}}",
+            "opponent2": "{{TeamOpponent|Angelica Esport|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "winner": "",
+            "date": "December 8, 2022 - 22:00 {{Abbr/SGT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|No scrim|score=3}}",
+            "opponent2": "{{TeamOpponent|Disband Esports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "winner": "",
+            "date": "December 9, 2022 - 20:00 {{Abbr/SGT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Team X7|score=2}}",
+            "opponent2": "{{TeamOpponent|MoonNight Esport|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "winner": "",
+            "date": "December 9, 2022 - 22:00 {{Abbr/SGT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Angelica Esport|score=3}}",
+            "opponent2": "{{TeamOpponent|No scrim|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "winner": "",
+            "date": "December 10, 2022 - 20:00 {{Abbr/SGT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|MoonNight Esport|score=1}}",
+            "opponent2": "{{TeamOpponent|Angelica Esport|score=4}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        }
+    ]
+}

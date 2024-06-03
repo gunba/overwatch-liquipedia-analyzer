@@ -1,0 +1,154 @@
+{{DISPLAYTITLE:Tuwaiq Challenge: 6}}
+{{Infobox league
+|liquipediatier=5|liquipediatiertype=Weekly
+|name=Tuwaiq Challenge: 6
+|tickername=Tuwaiq Challenge: 6
+|icon=Tuwaiq Challenge allmode.png
+|image=Tuwaiq Challenge allmode.png
+|organizer=Tuwaiq Esports
+|game=overwatch2
+|type=Online
+|country=Middle East
+|format=Single Elimination
+|prizepoolusd=250
+|date=2023-07-19
+|bracket=https://play.toornament.com/en_US/tournaments/6914533722476765184/
+|web=https://twq.world/tc/
+|discord=pEf9g8uGJt
+|instagram=TuwaiqEC
+|twitter=TuwaiqEC
+|team_number=7
+|previous=Tuwaiq Challenge/5 {{!}} #5
+|next=
+}}
+
+==Information==
+===Format===
+* Single Elimination Bracket
+* Finals are {{Abbr/Bo3}}, all other matches are {{Abbr/Bo1}}
+
+===Prize Pool===
+{{TeamPrizePool
+|{{Slot|usdprize=250}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=ROC Esports
+|p1=Optx|p1flag=ae|pos1=dps
+|p2=Pawly|p2flag=|pos2=dps
+|p3=TVNT|p3flag=|pos3=tank
+|p4=AOY|p4flag=|pos4=sup
+|p5=Facator|p5flag=|pos5=sup
+|t2title=Staff
+|t2c1=Kayszan|t2c1pos=manager
+|t2c2=Lotsha|t2c2pos=manager
+|t2c3=Cointree|t2c3pos=manager
+}}
+{{TeamCard
+|team=THE VICIOUS
+|p1=djevel|p1flag=sa|pos1=tank
+|p2=Sadfitzy|p2flag=sa|pos2=sup
+|p3=FAHD|p3flag=|pos3=
+|p4=UPSET|p4flag=|pos4=
+|p5=kamsuri|p5flag=|pos5=
+}}
+{{TeamCard
+|team=saudi hurricane
+|p1=Miraculous|pos1=dps
+|p2=wacveri|p2flag=sa|pos2=dps
+|p3=ILOVEYOU|p3flag=sa|pos3=tank|p3link=ILOVEU
+|p4=YONKO|pos4=sup
+|p5=Musashi|p5flag=sa|pos5=sup
+|t2title=Staff
+|t2c1=Klinz|t2c1flag=sa|t2c1pos=manager
+|t2c2=Cointree|t2c2pos=manager
+}}
+{{TeamCard
+|team=basketball
+|p1=Tzero|p1flag=sa|pos1=dps
+|p2=Sparrow|p2flag=sa|pos2=dps|p2link=Sparrow (Saudi Arabian Player)
+|p3=Amdp|p3flag=sa|pos3=tank
+|p4=Rex|p4flag=sa|pos4=sup
+|p5=Marco|p5flag=|pos5=sup
+}}
+{{TeamCard
+|team=Opro
+|p1=Slom|p1flag=|pos1=
+|p2=Qtr|p2flag=|pos2=
+|p3=Guts|p3flag=|pos3=
+|p4=Sut|p4flag=|pos4=
+|p5=Onlyhim|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Question Mark|link=Question Mark (ME Team)
+|p1=PizzaLover|p1flag=cz|pos1=dps
+|p2=Kirk|p2flag=gb|pos2=dps
+|p3=Jewxl|p3flag=im|pos3=tank
+|p4=Mince|p4flag=|pos4=sup
+|p5=Tommy|p5flag=gb|pos5=sup
+}}
+{{TeamCard
+|team=Golden glory|link=Golden glory (ME Team)
+|p1=Rexer|p1flag=|pos1=
+|p2=Crypticns|p2flag=|pos2=
+|p3=Akoz|p3flag=|pos3=
+|p4=Leo2k|p4flag=|pos4=
+|p5=Orbeez|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2L1DH4L|id=OnYmVYqgcf
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=1
+	|date=July 19, 2023
+    |opponent1={{TeamOpponent|Saudi Hurricane}}
+    |opponent2={{TeamOpponent|Basketball}}
+	|map1={{Map|map=King's Row|mode=Hybrid|score1=4|score2=3|winner=1}}
+}}
+|R1M2={{Match
+	|date=July 19, 2023
+    |opponent1={{TeamOpponent|Golden glory (ME Team)}}
+    |opponent2={{TeamOpponent|Question Mark (ME Team)}}
+	|map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+}}
+|R1M3={{Match
+	|date=July 19, 2023
+    |opponent1={{TeamOpponent|Opro}}
+    |opponent2={{TeamOpponent|ROC Esports}}
+	|map1={{Map|map=King's Row|mode=Hybrid|score1=3|score2=4|winner=2}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|date=July 19, 2023
+    |opponent1={{TeamOpponent|THE VICIOUS}}
+    |opponent2={{TeamOpponent|Saudi Hurricane}}
+	|map1={{Map|map=Oasis|mode=Control|score1=2|score2=1|winner=1}}
+}}
+|R2M2={{Match
+	|date=July 19, 2023
+    |opponent1={{TeamOpponent|Golden glory (ME Team)}}
+    |opponent2={{TeamOpponent|ROC Esports}}
+	|map1={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|bestof=3
+	|date=July 19, 2023
+    |opponent1={{TeamOpponent|THE VICIOUS}}
+    |opponent2={{TeamOpponent|ROC Esports}}
+	|map1={{Map|map=Circuit Royal|mode=Escort|score1=0|score2=3|winner=2}}
+	|map2={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+}}
+}}
+
+==Additional Data==
+===Country Representation===
+{{Country representation}}

@@ -1,0 +1,265 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "The Hunting of BenQ Squad Series",
+            "name": "The Hunting of BenQ Squad Series #2",
+            "shortname": "The Hunting of BenQ Squad Series #2",
+            "tickername": "The Hunting of BenQ Squad Series #2",
+            "icon": "BenQ icon.png",
+            "image": "BenQ icon.png",
+            "abbreviation": "BenQ",
+            "organizer": "BenQ",
+            "organizer-link": "https://www.benq.com/en-us/index.html",
+            "type": "Online",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "prizepool": "270",
+            "localcurrency": "eur",
+            "date": "2022-07-10",
+            "discord": "https://discord.gg/bx34RgMwJ4",
+            "rulebook": "https://battlefy.com/benq-squad-series/\u20ac270-the-hunting-of-benq-squad-series-overwatch-6v6-2/62bc9fcf1eb2096002f27d36/info?infoTab=rules",
+            "bracket": "https://battlefy.com/benq-squad-series/%E2%82%AC270-the-hunting-of-benq-squad-series-overwatch-6v6-2/62bc9fcf1eb2096002f27d36/stage/62cacc975100531acaafe857/bracket/",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Munich eSports",
+            "image": "",
+            "p1": "Cookie084|p1flag=de|pos1=dps",
+            "p2": "hira|p2flag=es|pos2=dps",
+            "p3": "TrqstMe|p3flag=|pos3=tank",
+            "p4": "Ailiseu|p4flag=|pos4=tank",
+            "p5": "Bya|p5flag=cn|pos5=sup",
+            "p6": "Lv1Crook|p6flag=|pos6=sup",
+            "p7": "Abheek|p7flag=|pos7=sup",
+            "t2title": "Staff",
+            "t2p1": "Algos05|t2pos1=manager"
+        },
+        {
+            "team": "PipiBox",
+            "image": "",
+            "p1": "Zaouri|p1flag=FR|pos1=dps",
+            "p2": "Razorbake|p2flag=FR|pos2=dps",
+            "p3": "Lunio|p3flag=FR|pos3=tank",
+            "p4": "SoSucre|p4flag=FR|pos4=tank",
+            "p5": "Grdmot|p5flag=FR|pos5=sup",
+            "p6": "Xerion|p6flag=FR|pos6=sup"
+        },
+        {
+            "team": "Altiora Sequoia",
+            "image": "",
+            "p1": "Yuki|p1flag=uk|pos1=dps|p1link=Yuki (British Player)",
+            "p2": "Tobzi|p2flag=norway|pos2=dps",
+            "p3": "ADE|p3flag=spain|pos3=tank|p3link=ADE (Spanish Player)",
+            "p4": "DEAMONN|p4flag=australia|pos4=tank",
+            "p5": "HowtoWASD|p5flag=de|pos5=sup",
+            "p6": "Gilix|p6flag=de|pos6=sup"
+        },
+        {
+            "team": "Overwachos",
+            "image": "",
+            "p1": "sesuko|p1flag=es|pos1=",
+            "p2": "Aryll|p2flag=es|pos2=",
+            "p3": "TNK|p3flag=es|pos3=",
+            "p4": "SrFreezy|p4flag=es|pos4=",
+            "p5": "Ph\u00e4ge|p5flag=es|pos5=",
+            "p6": "Angrod|p6flag=es|pos6="
+        },
+        {
+            "team": "Frozen Sun",
+            "image": "Frozen Sun July2022.png",
+            "p1": "GluK|p1flag=ru|pos1=dps",
+            "p2": "kai41|p2flag=ru|pos2=dps",
+            "p3": "DjWhack03|p3flag=ru|pos3=tank",
+            "p4": "h0pe|p4flag=ru|pos4=tank",
+            "p5": "HpSka|p5flag=ru|pos5=sup",
+            "p6": "Paranid|p6flag=ru|pos6=sup",
+            "p7": "Barbarossa|p7flag=ru|pos7=sup",
+            "t2title": "Staff",
+            "t2p1": "OverlorD|t2p1flag=ru|t2pos1=coach",
+            "t2p2": "DarthMurloc|t2p2flag=ru|t2pos2=coach"
+        },
+        {
+            "team": "Mind Goblin",
+            "image": "",
+            "p1": "Shikaaree|p1flag=dk|pos1=dps",
+            "p2": "Wex|p2flag=ro|pos2=dps",
+            "p3": "Juuzo|p3flag=uk|pos3=tank",
+            "p4": "Theomatic|p4flag=za|pos4=tank",
+            "p5": "Tred|p5flag=uk|pos5=tank",
+            "p6": "Strebor|p6flag=uk|pos6=sup",
+            "p7": "yoham|p7flag=dk|pos7=sup",
+            "t2title": "Staff",
+            "t2p1": "S\u00f8eny|t2p1flag=fr|t2pos1=Manager",
+            "t2p2": "PnR|t2p2flag=sct|t2pos2=Coach"
+        },
+        {
+            "team": "Altiora Oak Tree",
+            "image": "",
+            "p1": "MaDetho|p1flag=de|pos1=dps",
+            "p2": "Senna|p2flag=gr|pos2=dps",
+            "p3": "Seagu|p3flag=de|pos3=tank",
+            "p4": "Chroo|p4flag=ee|pos4=tank",
+            "p5": "Oridt|p5flag=de|pos5=sup",
+            "p6": "Santyx|p6flag=uk|pos6=sup"
+        },
+        {
+            "team": "Dinoco Squad",
+            "image": "",
+            "p1": "Kagyu|p1flag=es|pos1=dps",
+            "p2": "Laggy|p2flag=es|pos2=dps",
+            "p3": "Vinu|p3flag=es|pos3=tank",
+            "p4": "\u0100\u0110\u0158\u00ce|p4flag=es|pos4=tank",
+            "p5": "ArchivoPDF|p5flag=es|pos5=sup",
+            "p6": "Bicil\u00f3n|p6flag=es|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "Ivhod|t2flag=es|pos1=manager"
+        },
+        {
+            "team": "Frog.",
+            "image": "",
+            "p1": "Kio|p1flag=fr|pos1=dps",
+            "p2": "Nezayy|p2flag=sct|pos2=dps",
+            "p3": "FakeJake|p3flag=uk|pos3=dps",
+            "p4": "Ashi|p4flag=fi|pos4=tank",
+            "p5": "Gass|p5flag=fi|pos5=tank",
+            "p6": "Aisaka|pos6=tank",
+            "p7": "Grease|p7flag=nir|pos7=sup",
+            "p8": "Myo|p8flag=ie|pos8=sup"
+        },
+        {
+            "team": "A51 Giga Chads",
+            "image": "",
+            "p1": "K4B4B|p1flag=|pos1=",
+            "p2": "mysft|p2flag=|pos2=",
+            "p3": "Silence|p3flag=|pos3=|p3link=Silence (A51 Giga Chads player)",
+            "p4": "Tsutto|p4flag=|pos4=",
+            "p5": "\u014a\u01feP\u0200\u0210\u0190\u014a\u0166\u015cOW|p5flag=|pos5=",
+            "p6": "Lama|p6flag=|pos6=",
+            "p7": "sanriomarzia|p7flag=|pos7="
+        },
+        {
+            "team": "PINDAMONHANGABENSE",
+            "image": "",
+            "p1": "Abby|p1flag=us|pos1=dps",
+            "p2": "CapCatanduba|p2flag=br|pos2=dps",
+            "p3": "Domingueira|p3flag=br|pos3=tank",
+            "p4": "Jgrico|p4flag=br|pos4=tank",
+            "p5": "MAGNUZERA|p5flag=br|pos5=sup",
+            "p6": "Mussurunga|p6flag=br|pos6=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|Frozen Sun|score=0}}",
+            "opponent2": "{{TeamOpponent|Frog.|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|A51 Giga Chads|score=0}}",
+            "opponent2": "{{TeamOpponent|Munich eSports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|PINDAMONHANGABENSE|score=0}}",
+            "opponent2": "{{TeamOpponent|Overwachos|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|DeleteFriend|score=1}}",
+            "opponent2": "{{TeamOpponent|Altiora Sequoia|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|Altiora Oak Tree|score=0}}",
+            "opponent2": "{{TeamOpponent|Frog.|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|Mind Goblin|score=0}}",
+            "opponent2": "{{TeamOpponent|Munich eSports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|PipiBox|score=1}}",
+            "opponent2": "{{TeamOpponent|Overwachos|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|Dinoco Squad|score=0}}",
+            "opponent2": "{{TeamOpponent|DeleteFriend|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|Frog.|score=0}}",
+            "opponent2": "{{TeamOpponent|Munich eSports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|PipiBox|score=0}}",
+            "opponent2": "{{TeamOpponent|DeleteFriend|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|Munich eSports|score=2}}",
+            "opponent2": "{{TeamOpponent|DeleteFriend|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "July 10, 2022",
+            "opponent1": "{{TeamOpponent|Frog.|score=2}}",
+            "opponent2": "{{TeamOpponent|PipiBox|score=1}}",
+            "map1": "{{Map|map=|score1=|score2=|finished=}}",
+            "map2": "{{Map|map=|score1=|score2=|finished=}}",
+            "map3": "{{Map|map=|score1=|score2=|finished=}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

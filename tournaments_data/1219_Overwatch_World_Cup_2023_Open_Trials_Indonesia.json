@@ -1,0 +1,1334 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch World Cup 2023 Indonesia Open Trials",
+            "image": "Overwatch World Cup 2023 allmode.png",
+            "series": "Overwatch World Cup",
+            "shortname": "World Cup 2023",
+            "tickername": "OWWC IDN Open Trials",
+            "icon": "Overwatch World Cup logo.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "WDG",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Indonesia",
+            "country2": "",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "game": "overwatch2",
+            "prizepoolusd": "2000",
+            "sdate": "2023-02-26",
+            "edate": "2023-02-27",
+            "liquipediatier": "4",
+            "blizzardtier": "owwc",
+            "web": "https://overwatchworldcup.com",
+            "twitter": "playoverwatch",
+            "youtube": "playoverwatch",
+            "twitch": "playoverwatch",
+            "team_number": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "BANG MESSI",
+            "p1": "Proxiezs",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "dps",
+            "p2": "speed75",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "dps",
+            "p3": "SJS",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "dps",
+            "p4": "Zeckrom",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "tank",
+            "p5": "Kriegz",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": "tank",
+            "p6": "Ch3nlee",
+            "p6flag": "id",
+            "p6team": "",
+            "pos6": "sup",
+            "p7": "Shrimp",
+            "p7flag": "id",
+            "p7team": "",
+            "pos7": "sup"
+        },
+        {
+            "team": "BELEKETEK",
+            "p1": "Outlaw",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "",
+            "p2": "Kurikaze",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "",
+            "p3": "jubi",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "",
+            "p4": "StarryLuna",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "",
+            "p5": "Chiiririn",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": "",
+            "p6": "BALMAIN",
+            "p6flag": "id",
+            "p6team": "",
+            "pos6": ""
+        },
+        {
+            "team": "CKSM",
+            "p1": "D34D4ngel",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "",
+            "p2": "skyline",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "",
+            "p3": "AzuraLapis",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "",
+            "p4": "IllyasvielYT",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "",
+            "p5": "KedzMan",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": ""
+        },
+        {
+            "team": "Talos",
+            "p1": "HamHam",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "tank",
+            "p2": "UncleDee",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "dps",
+            "p3": "Winter",
+            "p3link": "Winter (Indonesian player)",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "dps",
+            "p4": "KazutoAoi",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "dps",
+            "p5": "RunWithMe",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": "sup",
+            "p6": "livingdolls",
+            "p6flag": "id",
+            "p6team": "",
+            "pos6": "sup",
+            "p7": "croc0dile",
+            "p7flag": "id",
+            "p7team": "",
+            "pos7": "sup"
+        },
+        {
+            "team": "VeteranRok",
+            "p1": "VGARSZ",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "",
+            "p2": "DeScythe",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Faxter",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "",
+            "p4": "revwuzhere",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "",
+            "p5": "MValkyrieS",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": ""
+        },
+        {
+            "team": "Nerf Hanzong",
+            "p1": "FO0Dz",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "",
+            "p2": "Alegro",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "",
+            "p3": "PiePie",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "",
+            "p4": "RaijinViper",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "",
+            "p5": "Zelnyte",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": "",
+            "p6": "GAYSLAYER69",
+            "p6flag": "id",
+            "p6team": "",
+            "pos6": ""
+        },
+        {
+            "team": "winton",
+            "p1": "Illika",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "",
+            "p2": "Zavier",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Seonhan",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "",
+            "p4": "Bak0i",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "",
+            "p5": "BlankTap",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": ""
+        },
+        {
+            "team": "DAPA",
+            "p1": "CODENAME87",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "",
+            "p2": "AtlanticNova",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Abatory",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "",
+            "p4": "MyawNyaw",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "",
+            "p5": "Galihdc",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": "",
+            "p6": "Haineko",
+            "p6flag": "id",
+            "p6team": "",
+            "pos6": ""
+        },
+        {
+            "team": "Ikan Hiu Kuah Santan",
+            "p1": "Geecy",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "",
+            "p2": "zenolight",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "",
+            "p3": "Zinogre",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "",
+            "p4": "Albert",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "",
+            "p5": "TimePause",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": "",
+            "p6": "EugeneW",
+            "p6flag": "id",
+            "p6team": "",
+            "pos6": "",
+            "p7": "Nyxnare",
+            "p7flag": "id",
+            "p7team": "",
+            "pos7": ""
+        },
+        {
+            "team": "VL",
+            "p1": "f0rk",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "",
+            "p2": "Moolidia",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "",
+            "p3": "RIP",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "",
+            "p3link": "RIP (Indonesian Player)",
+            "p4": "velooxy",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "",
+            "p5": "Napkin",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": "",
+            "p6": "Hainoz3",
+            "p6flag": "id",
+            "p6team": "",
+            "pos6": "",
+            "p7": "SLAYERGUY455",
+            "p7flag": "id",
+            "p7team": "",
+            "pos7": ""
+        },
+        {
+            "team": "Rebellious",
+            "p1": "Jasound",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "",
+            "p2": "Momogi",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "",
+            "p3": "BoniValerie",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "",
+            "p4": "Lishux",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "",
+            "p5": "Soya",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": "",
+            "p6": "DoaIbu14",
+            "p6flag": "id",
+            "p6team": "",
+            "pos6": "",
+            "p7": "BigBoiRajang",
+            "p7flag": "id",
+            "p7team": "",
+            "pos7": "",
+            "p8": "Aio",
+            "p8flag": "id",
+            "p8team": "",
+            "pos8": ""
+        },
+        {
+            "team": "AVGV",
+            "p1": "BARIK",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "",
+            "p2": "surefour",
+            "p2link": "Surefour (Indonesian player)",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "",
+            "p3": "QVC",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "",
+            "p4": "BeeVaImpact",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "",
+            "p5": "fracra",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": ""
+        },
+        {
+            "team": "Sebulwatch",
+            "p1": "Rapoleon",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "dps",
+            "p2": "Cuupi",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "sup",
+            "p3": "Yazu",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "dps",
+            "p4": "MUSKEETERS",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "tank",
+            "p5": "Lanaya",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": "sup",
+            "p6": "orBitarium",
+            "p6flag": "id",
+            "p6team": "",
+            "pos6": "sup"
+        },
+        {
+            "team": "IDXCEL",
+            "p1": "Polaroid",
+            "p1flag": "id",
+            "p1team": "",
+            "pos1": "tank",
+            "p2": "Darian3155",
+            "p2flag": "id",
+            "p2team": "",
+            "pos2": "dps",
+            "p3": "dveS",
+            "p3flag": "id",
+            "p3team": "",
+            "pos3": "dps",
+            "p4": "GreenTea",
+            "p4flag": "id",
+            "p4team": "",
+            "pos4": "sup",
+            "p5": "FeLiX",
+            "p5flag": "id",
+            "p5team": "",
+            "pos5": "sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "BELEKETEK",
+            "opponent1_score": 2,
+            "opponent2": "CKSM",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Talos",
+            "opponent1_score": 2,
+            "opponent2": "VeteranRok",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "NERF HANZONG|score=W",
+            "opponent2": "winton|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "DAPA|score=W",
+            "opponent2": "bye|score=-",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ikan Hiu Kuah Santan",
+            "opponent1_score": 2,
+            "opponent2": "VL",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bye|score=-",
+            "opponent2": "BANG MESSI|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rebellious|score=W",
+            "opponent2": "AVGV|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sebulwatch",
+            "opponent1_score": 0,
+            "opponent2": "IDXCEL",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "BELEKETEK",
+            "opponent1_score": 2,
+            "opponent2": "Talos",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "NERF HANZONG",
+            "opponent1_score": 0,
+            "opponent2": "DAPA",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ikan Hiu Kuah Santan",
+            "opponent1_score": 0,
+            "opponent2": "BANG MESSI",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rebellious",
+            "opponent1_score": 1,
+            "opponent2": "IDXCEL",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "BELEKETEK",
+            "opponent1_score": 2,
+            "opponent2": "DAPA",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "BANG MESSI",
+            "opponent1_score": 2,
+            "opponent2": "IDXCEL",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "BELEKETEK",
+            "opponent1_score": 0,
+            "opponent2": "BANG MESSI",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "CKSM",
+            "opponent1_score": 2,
+            "opponent2": "VeteranRok",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M9="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "winton|score=W",
+            "opponent2": "bye|score=-",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M10="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bye|score=-",
+            "opponent2": "VL|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M11="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "AVGV|score=FF",
+            "opponent2": "Sebulwatch|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M12="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rebellious",
+            "opponent1_score": 0,
+            "opponent2": "CKSM",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ikan Hiu Kuah Santan|score=W",
+            "opponent2": "winton|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M6="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "NERF HANZONG",
+            "opponent1_score": 1,
+            "opponent2": "VL",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M7="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Talos",
+            "opponent1_score": 1,
+            "opponent2": "Sebulwatch",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M8="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "CKSM",
+            "opponent1_score": 0,
+            "opponent2": "Ikan Hiu Kuah Santan",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "VL",
+            "opponent1_score": 0,
+            "opponent2": "Sebulwatch",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "DAPA",
+            "opponent1_score": 0,
+            "opponent2": "Ikan Hiu Kuah Santan",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "IDXCEL|score=FF",
+            "opponent2": "Sebulwatch|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M4="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ikan Hiu Kuah Santan",
+            "opponent1_score": 2,
+            "opponent2": "Sebulwatch",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "BELEKETEK",
+            "opponent1_score": 1,
+            "opponent2": "Ikan Hiu Kuah Santan",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "BANG MESSI",
+            "opponent1_score": 3,
+            "opponent2": "Ikan Hiu Kuah Santan",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R7M1="
+        }
+    ]
+}

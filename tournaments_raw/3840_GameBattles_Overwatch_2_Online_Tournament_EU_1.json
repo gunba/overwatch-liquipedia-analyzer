@@ -1,0 +1,95 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Weekly",
+            "name": "GameBattles Overwatch 2 Online Tournament Europe #1",
+            "shortname": "5v5 Europe #1",
+            "tickername": "GameBattles Europe #1",
+            "icon": "GameBattles icon lightmode.png",
+            "icondark": "GameBattles icon darkmode.png",
+            "image": "GameBattles lightmode.png",
+            "imagedark": "GameBattles darkmode.png",
+            "organizer": "GameBattles",
+            "series": "GameBattles",
+            "abbreviation": "GB",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "prizepoolusd": "500",
+            "date": "2022-10-07",
+            "twitter": "gamebattles",
+            "discord": "gamebattles",
+            "facebook": "gamebattles",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500-europe-10-7/info",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500-europe-10-7/bracket",
+            "team_number": "4",
+            "next": "GameBattles_Overwatch_2_Online_Tournament/EU/2{{!}}#2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "AWW YEAH",
+            "p1": "KayZzeR|p1flag=|pos1=dps",
+            "p2": "Kaya|p2flag=|pos2=dps",
+            "p3": "Isack|p3flag=|pos3=tank",
+            "p4": "Abbs|p4flag=|pos4=sup",
+            "p5": "h9mpe|p5flag=|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Jaydasch|t2c1pos=manager"
+        },
+        {
+            "team": "Los Podrios Del DC",
+            "p1": "Sukry5|p1flag=|pos1=",
+            "p2": "BenjiT1|p2flag=|pos2=",
+            "p3": "Danituuu|p3flag=|pos3=",
+            "p4": "Nortini|p4flag=|pos4=",
+            "p5": "Xugador9|p5flag=|pos5="
+        },
+        {
+            "team": "Mind Goblin",
+            "p1": "Sardonyx|p1flag=uk|pos1=dps",
+            "p2": "Juuzo|p2flag=uk|pos2=dps",
+            "p3": "Theomatic|p3flag=za|pos3=tank",
+            "p4": "Tred|p4flag=uk|pos4=tank",
+            "p5": "Yoham|p5flag=dk|pos5=sup",
+            "p6": "Strebor|p6flag=uk|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "S\u00f8eny|t2c1pos=Manager",
+            "t2c2": "PnR|t2c2pos=coach|t2c2flag=sct",
+            "t2c3": "VisionPB|t2c3pos=coach|t2c3flag=uk"
+        },
+        {
+            "team": "Sis Love",
+            "p1": "qrxu|p1flag=de|pos1=dps",
+            "p2": "Curse|p2flag=de|pos2=dps",
+            "p3": "Seagu|p3flag=de|pos3=tank",
+            "p4": "Chroo|p4flag=ee|pos4=tank",
+            "p5": "AinzOoalGown|p5flag=de|pos5=sup",
+            "p6": "CaptainPrash|p6flag=uk|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "Regie|t2pos1=coach|t2p1flag=de",
+            "t2p2": "Optimus015|t2pos2=coach|t2p2flag=gb",
+            "t2p3": "Cointree|t2pos3=manager|t2p3flag=cn"
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "2022-10-07",
+            "opponent1": "{{TeamOpponent|aww yeah|score=W}}",
+            "opponent2": "{{TeamOpponent|los podrios del dc|score=L}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2022-10-07",
+            "opponent1": "{{TeamOpponent|mind goblin|score=W}}",
+            "opponent2": "{{TeamOpponent|sis love|score=L}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2022-10-07",
+            "opponent1": "{{TeamOpponent|aww yeah|score=W}}",
+            "opponent2": "{{TeamOpponent|mind goblin|score=L}}",
+            "optional": "R2M1="
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch France Monthly Final - June 2016",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch FR",
+            "sponsor": "[http://www.aocgaming.com/en/ AOC gaming]",
+            "shortname": "June",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2016-06-30",
+            "prizepoolusd": "",
+            "localcurrency": "eur",
+            "prizepool": "100",
+            "web": "http://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-france",
+            "twitch": "esl_overwatch",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-france-finale-juin-2016/",
+            "liquipediatier": "4|liquipediatiertype=Monthly",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamfourth": "",
+            "team_number": "8",
+            "map1": "King's Row",
+            "map2": "Numbani",
+            "map3": "Watchpoint: Gibraltar",
+            "map4": "Dorado",
+            "map5": "Hanamura",
+            "map6": "Temple of Anubis",
+            "map7": "Volskaya Industries",
+            "map8": "Nepal",
+            "map9": "Lijiang Tower",
+            "map10": "Hollywood",
+            "map11": "Ilios",
+            "map12": "Route 66"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Area",
+            "image": "",
+            "size": "",
+            "p1": "Exon |p1flag=fr",
+            "p2": "Hidan",
+            "p3": "Nuja",
+            "p4": "Platernity |p4flag=de",
+            "p5": "Tek36",
+            "p6": "Yggdrasil |p6flag=fr",
+            "qualifier": "June #1"
+        },
+        {
+            "team": "ChienFou",
+            "p1": "Jio |p1flag=fr",
+            "p2": "Brosaly |p2flag=fr",
+            "p3": "Xewer",
+            "p4": "Champixxx |p4flag=fr",
+            "p5": "Entarko |p5flag=fr",
+            "p6": "Cyd |p6flag=fr",
+            "qualifier": "June #2"
+        },
+        {
+            "team": "melty eSport Club",
+            "p1": "DeGuN",
+            "p2": "moonL",
+            "p3": "KabaL",
+            "p4": "NiCOgdh",
+            "p5": "Baud",
+            "p6": "Flippy",
+            "qualifier": "June #3"
+        },
+        {
+            "team": "MadCorps",
+            "image": "",
+            "size": "6",
+            "p1": "Sternz |p1flag=fr",
+            "p2": "Cellen |p2flag=fr",
+            "p3": "shadoopy |p3flag=fr",
+            "p4": "Guppy |p4flag=fr",
+            "p5": "Surya |p5flag=fr",
+            "p6": "WoRsS |p6flag=fr",
+            "qualifier": "June #4"
+        },
+        {
+            "team": "RedSkin",
+            "p1": "Hayko |p1flag=fr",
+            "p2": "Lehamegeon |p2flag=fr",
+            "p3": "Superplouk |p3flag=fr",
+            "p4": "Ythnk |p4flag=be",
+            "p5": "Lilbow |p5flag=fr",
+            "p6": "Hqrdest |p6flag=fr",
+            "qualifier": "June #5"
+        },
+        {
+            "team": "Team Goldrush",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "qualifier": "June #6"
+        },
+        {
+            "team": "Team Lipide",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "qualifier": "June #7"
+        },
+        {
+            "team": "GamersOrigin",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "qualifier": "June #8"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "team aera",
+            "score2": "1",
+            "win2": "0",
+            "key": "R1D1",
+            "team1": "madcorps",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "team aera",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "madcorps",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "redskin",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "melty",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

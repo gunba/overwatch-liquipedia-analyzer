@@ -1,0 +1,151 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "series": "",
+            "shortname": "Hallow's End",
+            "name": "Realm Hallow's End",
+            "image": "RSL-Logo-esports.jpg",
+            "organizer": "Realm",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Europe",
+            "city": "",
+            "venue": "",
+            "twitch": "",
+            "twitter": "",
+            "format": "",
+            "prizepool": "600",
+            "localcurrency": "eur",
+            "prizepoolusd": "627",
+            "date": "2016-10-29",
+            "web": "",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "RoX",
+            "p1": "clozz |p1flag=bl",
+            "p2": "Engh |p2flag=ru",
+            "p3": "FreeD |p3flag=ru",
+            "p4": "NLaaeR |p4flag=ru",
+            "p5": "pkmk |p5flag=ru",
+            "p6": "Txao |p6flag=ru",
+            "qualifier": ""
+        },
+        {
+            "team": "Ninjas With Attitude",
+            "p1": "Hafficool|p1flag=",
+            "p2": "hypoc|p2flag=",
+            "p3": "velan|p3flag=se",
+            "p4": "Realzx|p4flag=",
+            "p5": "Wat7|p5flag=",
+            "p6": "|p6flag=",
+            "qualifier": ""
+        },
+        {
+            "team": "mousesports",
+            "p1": "CWoosH|p1flag=",
+            "p2": "Divinius|p2flag=",
+            "p3": "BUR1X|p3flag=",
+            "p4": "Aseal|p4flag=",
+            "p5": "Finnsi|p5flag=",
+            "p6": "Logix|p6flag=",
+            "qualifier": ""
+        },
+        {
+            "team": "The Gatekeepers",
+            "p1": "Epzz|p1flag=",
+            "p2": "Akke|p2flag=",
+            "p3": "Dennia|p3flag=",
+            "p4": "Lalli|p4flag=",
+            "p5": "Flippy|p5flag=",
+            "p6": "|p6flag=",
+            "qualifier": ""
+        },
+        {
+            "team": "Nice Hamsters",
+            "p1": "Dante|p1flag=",
+            "p2": "Dice|p2flag=",
+            "p3": "weaselele|p3flag=",
+            "p4": "fazz|p4flag=",
+            "p5": "biOk|p5flag=",
+            "p6": "Matwoj|p6flag=",
+            "qualifier": ""
+        },
+        {
+            "team": "OW.QQ",
+            "p1": "matth |p1flag=pl",
+            "p2": "Tank117 |p2flag=pl",
+            "p3": "ghost |p3flag=pl |p3link=ghost (Polish player)",
+            "p4": "bartu\u015b |p4flag=pl",
+            "p5": "no1special |p5flag=pl",
+            "p6": "\u015blepajstos |p6flag=pl",
+            "qualifier": ""
+        },
+        {
+            "team": "Tribunal eSports e. V. White",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "qualifier": ""
+        },
+        {
+            "team": "Normandus",
+            "p1": "Haze",
+            "p2": "Norgac",
+            "p3": "Vulture |p3flag=ru |p3link=Vulture (Russian player)",
+            "p4": "Dikker",
+            "p5": "GunroX",
+            "p6": "Eterna",
+            "qualifier": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "normandus",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "mouz",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "gatekeepers",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "mouz",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ninjas with attitude",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "tornado rox",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "gatekeepers",
+            "score2": "0",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "mouz",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

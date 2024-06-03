@@ -1,0 +1,482 @@
+{
+    "tournament_info": [
+        {
+            "name": "MyTh Cup - Season 1",
+            "shortname": "",
+            "image": "",
+            "series": "",
+            "organizer": "HuyaTV",
+            "organizer-link": "http://www.huya.com/",
+            "organizer2": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "China",
+            "format": "'''Group Stage''':<br>Round Robin<br>'''Playoffs''':<br>Single Elimination",
+            "prizepool": "30,000",
+            "localcurrency": "cny",
+            "prizepoolusd": "4,500",
+            "date": "",
+            "sdate": "2016-11-10",
+            "edate": "2016-11-27",
+            "liquipediatier": "{{TierText/3}}",
+            "web": "",
+            "stream": "http://www.huya.com/1667361567",
+            "bracket": "http://ow.766.com/tour/match/4",
+            "teamfirst": "the meta",
+            "teamsecond": "newbee",
+            "teamthird": "shrc",
+            "teamfourth": "1246",
+            "team_number": "16",
+            "team1": "",
+            "team2": "",
+            "team3": "",
+            "team4": "",
+            "team5": "",
+            "team6": "",
+            "team7": "",
+            "team8": "",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "LaoYinBi",
+            "p1": "no1R|p1flag=cn",
+            "p2": "Pigff|p2flag=cn",
+            "p3": "Nicco|p3flag=cn",
+            "p4": "LolixSama|p4flag=cn",
+            "p5": "Duoduo|p5flag=cn",
+            "p6": "\u519b\u4e2d\u7eff\u82b1|p6flag=cn"
+        },
+        {
+            "team": "Newbee",
+            "link": "Newbee/Newbee",
+            "p1": "Three3|p1flag=cn",
+            "p2": "Masami|p2flag=cn",
+            "p3": "Kenny|p3flag=cn",
+            "p4": "Baymax|p4flag=cn",
+            "p5": "Fool|p5flag=cn",
+            "p6": "Yakumo|p6flag=cn"
+        },
+        {
+            "team": "MyTh Club",
+            "p1": "233333|p1flag=cn",
+            "p2": "LanDo|p2flag=cn",
+            "p3": "Drs|p3flag=cn",
+            "p4": "KKsharp|p4flag=cn",
+            "p5": "Kael|p5flag=cn",
+            "p6": "chiAk1|p6flag=cn",
+            "p7": "RUOZHI|p7flag=cn"
+        },
+        {
+            "team": "AG.Red",
+            "link": "All Gamers/AG.Red",
+            "image": "All Gamers logo.png",
+            "p1": "LK5|p1flag=cn",
+            "p2": "XiYiJi|p2flag=cn",
+            "p3": "TT|p3flag=cn",
+            "p4": "Awei|p4flag=cn",
+            "p5": "XAAA|p5flag=cn",
+            "p6": "DAN|p6flag=cn"
+        },
+        {
+            "team": "MVP Space",
+            "link": "MVP/MVP Space",
+            "p1": "Poro|p1flag=kr",
+            "p2": "Sylph|p2flag=kr",
+            "p3": "Daily|p3flag=kr",
+            "p4": "KuKi|p4flag=kr",
+            "p5": "Pelka|p5flag=kr",
+            "p6": "June|p6flag=kr"
+        },
+        {
+            "team": "The Meta",
+            "p1": "Libero|p1flag=kr",
+            "p2": "sayaplayer|p2flag=kr",
+            "p3": "Hoon|p3flag=kr",
+            "p4": "JaeTwo|p4flag=kr",
+            "p5": "Kris|p5flag=kr",
+            "p6": "EFFECT|p6flag=kr",
+            "p7": "NUS|p7flag=kr"
+        },
+        {
+            "team": "Vici Gaming",
+            "p1": "zmmmm|p1flag=cn",
+            "p2": "eagle|p2flag=cn",
+            "p3": "tanqiu|p3flag=cn",
+            "p4": "Diya|p4flag=cn",
+            "p5": "yumu|p5flag=cn",
+            "p6": "xbg|p6flag=cn"
+        },
+        {
+            "team": "Wukong Gaming",
+            "p1": "TROLL|p1flag=cn",
+            "p2": "MONSTER|p2flag=cn",
+            "p3": "MELODY|p3flag=cn",
+            "p4": "VIRO|p4flag=cn",
+            "p5": "HICKEY|p5flag=cn",
+            "p6": "GOZZIE|p6flag=cn"
+        },
+        {
+            "team": "Black Ananas",
+            "p1": "KevinKing|p1flag=cn",
+            "p2": "Ninja|p2flag=cn",
+            "p3": "Dec12th|p3flag=cn",
+            "p4": "east|p4flag=cn",
+            "p5": "AndyWind|p5flag=cn",
+            "p6": "STRAWBERRY|p6flag=cn"
+        },
+        {
+            "team": "Star Horn Royal Club",
+            "p1": "emperor|p1flag=cn",
+            "p2": "Saury|p2flag=cn",
+            "p3": "Dark|p3flag=cn",
+            "p4": "S01d|p4flag=cn",
+            "p5": "Nata|p5flag=cn",
+            "p6": "yyyy|p6flag=cn",
+            "c": "Chen|cflag=cn"
+        },
+        {
+            "team": "eStar Gaming",
+            "p1": "Day|p1flag=cn",
+            "p2": "KinPika|p2flag=cn",
+            "p3": "Lin9|p3flag=cn",
+            "p4": "INK|p4flag=cn|p4link=Luo Zhongyi",
+            "p5": "NccCc|p5flag=cn",
+            "p6": "lWei|p6flag=cn"
+        },
+        {
+            "team": "NGA.Titan",
+            "link": "NGA Club/NGA.Titan",
+            "p1": "Hysteria|p1flag=cn",
+            "p2": "Fury|p2flag=cn",
+            "p3": "ShaDowCat|p3flag=cn",
+            "p4": "RLE|p4flag=cn",
+            "p5": "LittleCat|p5flag=cn",
+            "p6": "Normann|p6flag=cn"
+        },
+        {
+            "team": "Oh My God",
+            "p1": "Jiaozhu|p1flag=cn",
+            "p2": "NEO|p2flag=cn",
+            "p3": "1SHEN|p3flag=cn",
+            "p4": "NUBI|p4flag=cn",
+            "p5": "SUANNA1|p5flag=cn",
+            "p6": "zzzzzzzz3|p6flag=cn",
+            "c": "Baom1hua|cflag=cn"
+        },
+        {
+            "team": "1246",
+            "p1": "Luca|p1flag=cn",
+            "p2": "Tian|p2flag=cn |p2link=Shi Chen",
+            "p3": "samsara|p3flag=cn",
+            "p4": "Billyoo|p4flag=cn",
+            "p5": "BBcat|p5flag=cn",
+            "p6": "11520|p6flag=cn",
+            "p7": "Zod|p7flag=cn"
+        },
+        {
+            "team": "WE.White",
+            "link": "World Elite/WE.White",
+            "p1": "Neptune|p1flag=cn",
+            "p2": "Break|p2flag=cn",
+            "p3": "Yan|p3flag=cn",
+            "p4": "Frisky|p4flag=cn",
+            "p5": "FTcc|p5flag=cn",
+            "p6": "yin|p6flag=cn"
+        },
+        {
+            "team": "iG.Ice",
+            "link": "Invictus_Gaming/iG.Ice",
+            "p1": "Lucio|p1flag=cn|p1link=Lucio (Chinese player)",
+            "p2": "yaoyao|p2flag=cn",
+            "p3": "JamLee|p3flag=cn",
+            "p4": "XiaoJue|p4flag=cn",
+            "p5": "YouYou|p5flag=cn",
+            "p6": "Phx|p6flag=cn",
+            "p7": "LaoX|p7flag=cn",
+            "c": "XiaoYao|cflag=cn"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "omg",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "newbee",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "the meta",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "newbee",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "the meta",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "newbee",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "shrc",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3D1",
+            "team1": "1246",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": [
+        {
+            "key": "match1",
+            "date": "",
+            "finished": "",
+            "team1": "ag.red",
+            "games1": "1",
+            "team2": "newbee",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match2",
+            "date": "",
+            "finished": "",
+            "team1": "newbee",
+            "games1": "1",
+            "team2": "lyb",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match3",
+            "date": "",
+            "finished": "",
+            "team1": "newbee",
+            "games1": "2",
+            "team2": "myth",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match4",
+            "date": "",
+            "finished": "",
+            "team1": "myth",
+            "games1": "0",
+            "team2": "lyb",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "date": "",
+            "finished": "",
+            "team1": "lyb",
+            "games1": "2",
+            "team2": "ag.red",
+            "games2": "1",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "date": "",
+            "finished": "",
+            "team1": "myth",
+            "games1": "2",
+            "team2": "ag.red",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "date": "",
+            "finished": "",
+            "team1": "wkg",
+            "games1": "0",
+            "team2": "mvp space",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match2",
+            "date": "",
+            "finished": "",
+            "team1": "wkg",
+            "games1": "0",
+            "team2": "vg",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match3",
+            "date": "",
+            "finished": "",
+            "team1": "the meta",
+            "games1": "2",
+            "team2": "vg",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match4",
+            "date": "",
+            "finished": "",
+            "team1": "mvp space",
+            "games1": "2",
+            "team2": "the meta",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "date": "",
+            "finished": "",
+            "team1": "wkg",
+            "games1": "0",
+            "team2": "the meta",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match6",
+            "date": "",
+            "finished": "",
+            "team1": "mvp space",
+            "games1": "2",
+            "team2": "vg",
+            "games2": "1",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "date": "",
+            "finished": "",
+            "team1": "nga.titan",
+            "games1": "0",
+            "team2": "estar",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match2",
+            "date": "",
+            "finished": "",
+            "team1": "estar",
+            "games1": "0",
+            "team2": "ba",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match3",
+            "date": "",
+            "finished": "",
+            "team1": "ba",
+            "games1": "1",
+            "team2": "shrc",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "date": "",
+            "finished": "",
+            "team1": "estar",
+            "games1": "0",
+            "team2": "shrc",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "date": "",
+            "finished": "",
+            "team1": "nga.titan",
+            "games1": "0",
+            "team2": "ba",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match6",
+            "date": "",
+            "finished": "",
+            "team1": "nga.titan",
+            "games1": "2",
+            "team2": "shrc",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "date": "",
+            "finished": "",
+            "team1": "we.white",
+            "games1": "1",
+            "team2": "1246",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match2",
+            "date": "",
+            "finished": "",
+            "team1": "ig.ice",
+            "games1": "0",
+            "team2": "omg",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match3",
+            "date": "",
+            "finished": "",
+            "team1": "1246",
+            "games1": "1",
+            "team2": "ig.ice",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "date": "",
+            "finished": "",
+            "team1": "we.white",
+            "games1": "2",
+            "team2": "ig.ice",
+            "games2": "1",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "date": "",
+            "finished": "",
+            "team1": "omg",
+            "games1": "2",
+            "team2": "we.white",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "date": "",
+            "finished": "",
+            "team1": "omg",
+            "games1": "2",
+            "team2": "1246",
+            "games2": "1",
+            "winner": "1"
+        }
+    ]
+}

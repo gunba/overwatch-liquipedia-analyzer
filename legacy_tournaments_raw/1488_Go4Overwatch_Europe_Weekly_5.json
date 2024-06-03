@@ -1,0 +1,98 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #5",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "5",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2016-07-03",
+            "prizepoolusd": "170",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "http://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-5/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "177",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "SG-1",
+            "image": "",
+            "p1": "Lazei |p1flag=fi",
+            "p2": "Seita",
+            "p3": "fragi",
+            "p4": "hymzi",
+            "p5": "mafu",
+            "p6": "zappis"
+        },
+        {
+            "team": "b.fly",
+            "image": "",
+            "p1": "Cappe",
+            "p2": "fischer",
+            "p3": "Happythermia",
+            "p4": "outc1der",
+            "p5": "teneya",
+            "p6": "velan"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "2stronk",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "natural selection",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "2stronk",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "natural selection",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "prets",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "b.fly",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "sg-1",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "b.fly",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "prets",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "2stronk",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

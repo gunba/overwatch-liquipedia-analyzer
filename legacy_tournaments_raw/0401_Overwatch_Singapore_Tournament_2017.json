@@ -1,0 +1,169 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch Singapore Tournament 2017",
+            "image": "Overwatch Singapore Tournament allmode.png",
+            "icon": "Overwatch Singapore Tournament allmode.png",
+            "organizer": "Zenway Productions",
+            "organizer-link": "http://zenwayproductions.com/",
+            "sponsor": "Logitech <br/> Samsung",
+            "type": "Offline",
+            "country": "Singapore",
+            "liquipediatier": "{{TierText/3}}",
+            "twitch": "zenwayproductions",
+            "twitter": "zenwaypdtns",
+            "facebook": "ZenwayProductions",
+            "youtube": "zenwayproductions",
+            "format": "'''Qualifiers:'''<br/> Double Elimination <br/> '''Finals:''' <br/> Single Elimination <br/>",
+            "localcurrency": "sgd",
+            "prizepool": "5,100",
+            "prizepoolusd": "3,611",
+            "date": "2017-04-01",
+            "web": "",
+            "bracket": "http://zenway.challonge.com/OWSGT_LogitechG_Finals",
+            "team_number": "8",
+            "map1": "Hanamura",
+            "map2": "Temple of Anubis",
+            "map3": "Volskaya Industries",
+            "map4": "Dorado",
+            "map5": "Route 66",
+            "map6": "Watchpoint: Gibraltar",
+            "map7": "Ilios",
+            "map8": "Lijiang Tower",
+            "map9": "Nepal",
+            "map10": "Oasis",
+            "map11": "Eichenwalde",
+            "map12": "Hollywood",
+            "map13": "King's Row",
+            "map14": "Numbani"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Avalon.HEXA",
+            "image": "AvalonLogo.png",
+            "p1": "eksdh0611|p1flag=sg",
+            "p2": "Labels|p2flag=sg",
+            "p3": "bry|p3flag= sg",
+            "p4": "kippani|p4flag= sg",
+            "p5": "KimHyunJun|p5flag= sg",
+            "p6": "Cryptic|p6flag= sg",
+            "qualifier": "[[Qualifier #1]]"
+        },
+        {
+            "team": "Imaginary Friends",
+            "image": "Imaginary Friends.png",
+            "p1": "mitch|p1flag=sg",
+            "p2": "marc|p2flag=sg",
+            "p3": "Chrispy|p3flag= sg",
+            "p4": "itskama|p4flag= sg",
+            "p5": "Gonealone|p5flag= sg",
+            "p6": "Sora|p6flag= sg",
+            "qualifier": "[[Qualifier #1]]"
+        },
+        {
+            "team": "ChaosTheory.Orion",
+            "image": "Chaos_Theory_logo.png",
+            "p1": "l0y|p1flag=sg",
+            "p2": "AJEN|p2flag=sg",
+            "p3": "AviK|p3flag= sg",
+            "p4": "Jervissss|p4flag= sg",
+            "p5": "Rageoftofu|p5flag= sg",
+            "p6": "Owl|p6flag= sg |p6link=Owl (Singaporean player)",
+            "qualifier": "[[Qualifier #1]]"
+        },
+        {
+            "team": "No Use Talking",
+            "image": "No Use Talking.png",
+            "p1": "v1sc0s1ty|p1flag=sg",
+            "p2": "CroNic|p2flag=sg",
+            "p3": "legendation|p3flag= sg",
+            "p4": "Twilights|p4flag= sg",
+            "p5": "Zaux|p5flag= sg",
+            "p6": "teTrik|p6flag= sg",
+            "qualifier": "[[Qualifier #1]]"
+        },
+        {
+            "team": "Unestablished.Juniors",
+            "image": "unestablishedlogo.png",
+            "p1": "UERevenant|p1flag=sg|p1link=User:RevenantTsY",
+            "p2": "Yuki |p2flag=sg|p2link=Yuki_(Singaporean_player)",
+            "p3": "fearLess|p3flag= sg",
+            "p4": "Teejay|p4flag= my",
+            "p5": "Legend|p5flag= sg",
+            "p6": "RebornZ|p6flag= sg",
+            "qualifier": "[[Qualifier #2]]"
+        },
+        {
+            "team": "Avalon.Tempo",
+            "image": "AvalonLogo.png",
+            "p1": "Doubted |p1flag=sg",
+            "p2": "Jia |p2flag=sg",
+            "p3": "RandomName69|p3flag=sg",
+            "p4": "Amzeyy |p4flag=sg",
+            "p5": "SuperNayr|p5flag=id",
+            "p6": "Sindrax|p6flag=sg",
+            "qualifier": "[[Qualifier #2]]"
+        },
+        {
+            "team": "Angelababy",
+            "image": "Angelababy.png",
+            "p1": "yizzie|p1flag=sg",
+            "p2": "k3n|p2flag=sg",
+            "p3": "MeePokBoy|p3flag= sg",
+            "p4": "Xexo|p4flag= sg",
+            "p5": "Patootie|p5flag= sg",
+            "p6": "Arcadia|p6flag= sg",
+            "qualifier": "[[Qualifier #2]]"
+        },
+        {
+            "team": "Elvellon",
+            "p1": "Zest|p1flag=sg",
+            "p2": "JUNGEUNJI|p2flag=sg",
+            "p3": "Pamyu|p3flag= sg",
+            "p4": "UEColbat|p4flag= sg",
+            "p5": "Nano|p5flag= sg",
+            "p6": "Vips|p6flag= sg",
+            "qualifier": "[[Qualifier #2]]"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "unestablished.juniors",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "avalon hexa",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "unestablished.juniors",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "avalon hexa",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "unestablished.juniors",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "avalon tempo",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "angelababy",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3D1",
+            "team1": "avalon hexa",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

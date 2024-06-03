@@ -1,0 +1,602 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch World Cup 2017 - Shanghai Qualifier",
+            "shortname": "World Cup 2017",
+            "tickername": "OWWC - Shanghai Qualifier",
+            "image": "Overwatch_World_Cup_2017.png",
+            "series": "Overwatch World Cup",
+            "icon": "",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "",
+            "sponsor": "[http://cn.unionpay.com/ China UnionPay]<br>[http://www.hpstore.cn/catalogsearch/result/?q=OMEN HP OMEN]<br>[https://www.t-mobile.com/ T-Mobile]",
+            "type": "offline",
+            "country": "China",
+            "city": "Shanghai",
+            "venue": "YUN SPACE Baoshan Venue",
+            "format": "'''Group Stage''':<br>Round Robin<br>'''Playoffs''':<br>Single Elimination",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "72,000",
+            "sdate": "2017-07-14",
+            "edate": "2017-07-16",
+            "liquipediatier": "1",
+            "liquipediatiertype": "Qualifier",
+            "blizzardpremier": "",
+            "web": "",
+            "stream": "",
+            "twitch": "playoverwatch",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "4",
+            "date": "July 14, 2017 - 14:00",
+            "date_timezone": "CST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "china",
+            "opponent2": "romania",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "vod": "https://www.twitch.tv/videos/159088776",
+            "overgg": "4721",
+            "pf": "29878",
+            "wl": "1580",
+            "optional": "M1="
+        },
+        {
+            "date": "July 14, 2017 - 15:30",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/159090186",
+            "opponent1": "hong kong",
+            "opponent2": "norway",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "overgg": "4724",
+            "pf": "29879",
+            "wl": "1581",
+            "optional": "M2="
+        },
+        {
+            "date": "July 15, 2017 - 14:00",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/167991638",
+            "opponent1": "china",
+            "opponent2": "norway",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "overgg": "4723",
+            "pf": "29880",
+            "wl": "1584",
+            "optional": "M3="
+        },
+        {
+            "date": "July 15, 2017 - 15:30",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/167992559",
+            "opponent1": "hong kong",
+            "opponent2": "romania",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "overgg": "4725",
+            "pf": "29881",
+            "wl": "1585",
+            "optional": "M4="
+        },
+        {
+            "date": "July 16, 2017 - 12:00",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/160582380",
+            "opponent1": "china",
+            "opponent2": "hong kong",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "overgg": "4726",
+            "pf": "29882",
+            "wl": "1588",
+            "optional": "M5="
+        },
+        {
+            "date": "July 16, 2017 - 13:30",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/160583118",
+            "opponent1": "norway",
+            "opponent2": "romania",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Volskaya Industries",
+                "mode": "Assault",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "overgg": "4727",
+            "pf": "29883",
+            "wl": "1589",
+            "optional": "M6="
+        },
+        {
+            "bestof": "4",
+            "date": "July 14, 2017 - 17:00",
+            "date_timezone": "CST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "france",
+            "opponent2": "argentina",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "vod": "https://www.twitch.tv/videos/159090568",
+            "overgg": "4728",
+            "pf": "29886",
+            "wl": "1582",
+            "optional": "M1="
+        },
+        {
+            "date": "July 14, 2017 - 18:30",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/159060172",
+            "opponent1": "denmark",
+            "opponent2": "thailand",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "overgg": "4729",
+            "pf": "29887",
+            "wl": "1583",
+            "optional": "M2="
+        },
+        {
+            "date": "July 15, 2017 - 17:00",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/167993289",
+            "opponent1": "france",
+            "opponent2": "thailand",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "overgg": "4730",
+            "pf": "29884",
+            "wl": "1586",
+            "optional": "M3="
+        },
+        {
+            "date": "July 15, 2017 - 18:30",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/167994773",
+            "opponent1": "denmark",
+            "opponent2": "argentina",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "overgg": "4731",
+            "pf": "29885",
+            "wl": "1587",
+            "optional": "M4="
+        },
+        {
+            "date": "July 16, 2017 - 15:00",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/160583904",
+            "opponent1": "france",
+            "opponent2": "denmark",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "8",
+                "score2": "7",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Volskaya Industries",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "overgg": "4732",
+            "pf": "29888",
+            "wl": "1590",
+            "optional": "M5="
+        },
+        {
+            "date": "July 16, 2017 - 16:30",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/160584504",
+            "opponent1": "thailand",
+            "opponent2": "argentina",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "overgg": "4733",
+            "pf": "29889",
+            "wl": "1591",
+            "optional": "M6="
+        },
+        {
+            "bestof": "5",
+            "date": "July 16, 2017 - 18:30",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/160585750",
+            "opponent1": "china",
+            "opponent2": "thailand",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "overgg": "4734",
+            "pf": "29890",
+            "wl": "1592",
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 16, 2017 - 20:00",
+            "date_timezone": "CST",
+            "vod": "https://www.twitch.tv/videos/160586726",
+            "opponent1": "france",
+            "opponent2": "norway",
+            "map1": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Horizon Lunar Colony",
+                "mode": "Assault",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "overgg": "4735",
+            "pf": "29891",
+            "wl": "1593",
+            "optional": "R1M2="
+        }
+    ]
+}

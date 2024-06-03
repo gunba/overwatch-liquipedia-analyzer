@@ -1,0 +1,124 @@
+{{Liquipedia links|counterstrike=WirForce_2016/Asian_Invitation|hearthstone=WirForce_Invitational/2016}}
+{{DISPLAYTITLE:WirForce Overwatch Invitational Powered by NVIDIA }}
+{{Infobox league
+|name=WirForce Overwatch Invitational
+|tickername=WirForce OW Invitational
+|image=Wirforce.jpeg
+|icon=WirForce_Icon.png
+|organizer=WirForce TW
+|organizer-link=http://wirforce.com.tw/
+|sponsor=[http://www.ahq.com.tw/ ahq-eSports Club] <br> [http://www.4gamers.com.tw/ 4Gamers] <br> [https://www.twitch.tv/ TwitchTv] <br>[http://tw.pikolive.com/ PikoLive ] <br> [http://www.nvidia.com.tw/page/home.html Nvidia TW] <br> [http://www.hyperxgaming.com/tw HyperX]<br> [http://www.gigabyte.tw/?f=g GIGABYTE]
+|type=Offline
+|country=Taiwan 
+|city=Taipei
+|venue=Taipei International Flora Exposition- EXPO Dome
+|series=
+|number=
+|format={{Abbr/Bo5}} Series
+|date=2016-11-12
+|web=http://wirforce.com.tw/hightlight.html
+|bracket=
+|prizepoolusd=3,140
+|prizepool=100,000
+|localcurrency=twd
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamfourth=
+|team_number=2
+|previous=
+|next=
+|liquipediatier={{TierText/3}}
+}}
+
+'''[[WirForce/Overwatch_Invitational_2016|WirForce Overwatch Invitational]]''' is an Overwatch competiton organized by NVIDIA TW.
+
+==Information==
+===Prize Pool===
+$ 120,000 {{Abbr/TWD}} (~$3,835 {{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start|localcurrency=twd}}
+{{prize pool slot|place=w |usdprize=3,140.11 |localprize=100,000 |nvidia black |lastvs1=nvidia green|lastscore1=3 |lastvsscore1=1}}
+{{prize pool slot|place=l |usdprize=0 |localprize=0 |nvidia green |lastvs1=nvidia black |lastscore1=1 |lastvsscore1=3}}
+{{Prize pool end}}
+
+===Format===
+*All matches are Bo5.
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCardMix
+|team=NVIDIA Green
+|image=Wirforce.jpeg
+|p1=Zonda |p1flag=tw|p1team=ahq s
+|p2=HolidayCow  |p2flag=tw|p2team=stay frosty
+|p3=LazyTitan |p3flag=tw|p3team=ahq s
+|p4=Baconjack  |p4flag=tw|p4team=stay frosty
+|p5=Cassis |p5flag=tw|p5team=stay frosty
+|p6=Xargon |p6flag=tw|p6team=ahq s
+|qualifier='''Invited'''
+}}
+{{box|break|padding=2em}}
+{{TeamCardMix
+|team=NVIDIA Black
+|image=Wirforce.jpeg
+|p1=S1nkler|p1flag=tw|p1team=stay frosty
+|p2=EDIBOSS|p2flag=tw |p2team=ahq |p2link=EDDIE
+|p3=Yik|p3flag=tw|p3team=stay frosty
+|p4=Gura|p4flag=tw|p4team=ahq s
+|p5=KMoMo|p5flag=tw|p5team=stay frosty
+|p6=Danny|p6flag=tw|p6team=ahq s
+|qualifier='''Invited'''
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/2|2SETeamBracket|type=team|id=v8xQDYY5R1
+<!-- FINALS -->
+|R1D1team=nvidia green |R1D1score=1 |R1D1win=
+|R1D2team=nvidia black |R1D2score=3 |R1D2win=2
+|R1G1details={{BracketMatchSummary
+|date=November 12, 2016 - 15:00 {{Abbr/TST}}
+|finished=true
+|stream=
+|winner=
+|match1={{Match/old
+|map=Nepal
+|controlwin1=2 |controlwin2=1 |controlwin3=1 |controlwin4=2 |controlwin5=2
+|win=2
+}}
+|match2={{Match/old
+|map=Numbani
+|team1side=D  |team2side=A  |team2checkpoints=4/3 |team1time=
+|team1side2=A |team2side2=D |team1checkpoints=3/3 |team2time=
+|win=2
+}}
+|match3={{Match/old
+|map=Route 66
+|team1side=A  |team2side=D  |team1checkpoints=0/3 |team1time=
+|team1side2=D |team2side2=A |team2checkpoints=0/3 |team2time=
+|win=1
+}}
+|match4={{Match/old
+|map=Volskaya Industries
+|team1side=A  |team2side=D  |team1checkpoints=1/2 |team1time=
+|team1side2=D |team2side2=A |team2checkpoints=2/2 |team2time=5:13
+|win=2
+}}
+|match5={{Match/old
+|map=
+|controlwin1= |controlwin2= |controlwin3= |controlwin4= |controlwin5=
+|team1side=  |team2side=  |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=
+}}
+}}
+}}
+
+==Additional Content==
+===Streams===
+* {{flag/tw}} [https://www.twitch.tv/4gamers_01 4Gamers]
+
+==References==
+{{Reflist}}

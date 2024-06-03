@@ -1,0 +1,73 @@
+{
+    "tournament_info": [
+        {
+            "name": "SteelSeries Overwatch Team Association - Season 1",
+            "shortname": "Season 1",
+            "image": "Overwatch_Team_Association_logo.png",
+            "series": "OTA",
+            "organizer": "Matchwind",
+            "organizer-link": "http://www.matchwind.com/",
+            "organizer2": "",
+            "sponsor": "[https://steelseries.com/ SteelSeries]",
+            "type": "Online",
+            "country": "China",
+            "format": "'''Group Stage''':<br>Round Robin<br>'''Playoffs''':<br>Single Elimination",
+            "prizepool": "6,720",
+            "localcurrency": "cny",
+            "prizepoolusd": "1,008",
+            "date": "",
+            "sdate": "2016-06-11",
+            "edate": "2016-06-13",
+            "liquipediatier": "{{TierText/4}}",
+            "web": "http://www.matchwind.com/",
+            "stream": "http://www.panda.tv/526134",
+            "challonge": "",
+            "teamfirst": "salamander",
+            "teamsecond": "doit",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "21",
+            "team1": "",
+            "team2": "",
+            "team3": "",
+            "team4": "",
+            "team5": "",
+            "team6": "",
+            "team7": "",
+            "team8": "",
+            "previous": "",
+            "next": "Overwatch Team Association/Season 2{{!}}Season 2"
+        }
+    ],
+    "team_cards": [],
+    "legacy_match_cards": [
+        {
+            "team2": "Doit",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "GT",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Doit",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "IFaith",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Doit",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "Salamander",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

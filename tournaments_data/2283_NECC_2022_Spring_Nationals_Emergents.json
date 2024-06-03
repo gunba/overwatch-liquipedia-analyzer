@@ -1,0 +1,835 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "NECC",
+            "abbreviation": "NECC",
+            "name": "NECC - 2022 Nationals - Emergents Division",
+            "tickername": "NECC 2022 Nationals Emergents Division",
+            "image": "NECC 2021 lightmode.png",
+            "imagedark": "NECC 2021 darkmode.png",
+            "organizer": "National Esports Collegiate Conference",
+            "sponsor": "[https://collegiatesmg.com/ CSMG]",
+            "type": "Online",
+            "country": "United States",
+            "country2": "Canada",
+            "game": "overwatch",
+            "prizepoolusd": "5000",
+            "sdate": "2022-05-24",
+            "edate": "2022-05-26",
+            "twitter": "neccgames",
+            "twitch": "necc_esports",
+            "twitch2": "necc2",
+            "youtube": "channel/UCJ7SpyS-00CYxdkBadshxjQ",
+            "website": "https://neccgames.com/landing/index",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Howard CC Dragons",
+            "p1": "Optimal",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Paulito",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Toggling",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "ChimpMilk",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Rosanto",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "reysaku",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "BigBodyTank",
+            "p7flag": "",
+            "pos7": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Emergents Yellow|Emergents Yellow]]",
+            "placement": "3-4"
+        },
+        {
+            "team": "Carrol University",
+            "p1": "ktm6060",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Si1ent",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "LittleDuck",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "TheRedTea",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Clinesaucer",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Laskerdoo",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Pez",
+            "p7flag": "",
+            "pos7": "",
+            "p8": "Grimmreaper",
+            "p8flag": "",
+            "pos8": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Emergents Cyan|Emergents Cyan]]",
+            "placement": "1"
+        },
+        {
+            "team": "Marywood University",
+            "p1": "LongTreeMan",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "JAYCOUNTY39",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "SpoopyGamr",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "TweMicroBee",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "TomatoTony",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Corhex",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "cannedsteam",
+            "p7flag": "",
+            "pos7": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Emergents Yellow|Emergents Yellow]]",
+            "placement": "5-8"
+        },
+        {
+            "team": "New England College",
+            "p1": "COIN",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "shadowstorm",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Jet",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Party",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Nilin",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Angelday",
+            "p6flag": "",
+            "pos6": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Emergents Yellow|Emergents Yellow]]",
+            "placement": "3-4"
+        },
+        {
+            "team": "Carthage College",
+            "p1": "Donut",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "DEEKAY",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Sycoxpreds",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Sam38083",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Nancakez",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "HubbBubb",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Galahad",
+            "p7flag": "",
+            "pos7": "",
+            "p8": "LunarSynergy",
+            "p8flag": "",
+            "pos8": "",
+            "p9": "CrazyMage",
+            "p9flag": "",
+            "pos9": "",
+            "p10": "WestOff",
+            "p10flag": "",
+            "pos10": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Emergents Cyan|Emergents Cyan]]",
+            "placement": "2"
+        },
+        {
+            "team": "Kings College",
+            "p1": "aircraft20",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Link",
+            "p2flag": "",
+            "pos2": "",
+            "p2link": "Link (Kings Player)",
+            "p3": "Faintest",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Virgio",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Pmczyk",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Tpnunivacc",
+            "p6flag": "",
+            "pos6": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Emergents Yellow|Emergents Yellow]]",
+            "placement": "2"
+        },
+        {
+            "team": "Concordia Wisconsin",
+            "p1": "Pectus",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Duckinator",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "SoFresh",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "JoMaRo",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Kaneem",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Ludba",
+            "p6flag": "",
+            "pos6": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Emergents Cyan|Emergents Cyan]]",
+            "placement": "3-4"
+        },
+        {
+            "team": "Baker University",
+            "p1": "Oliktalv",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Velocity",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Julius",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Bluebadger",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "CoolVolcano",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Killuaxgon01",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Jarrell",
+            "p7flag": "",
+            "pos7": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Emergents Cyan|Emergents Cyan]]",
+            "placement": "3-4"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "opponent1": "howard cc dragons",
+            "opponent1_score": 3,
+            "opponent2": "concordia wisconsin",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "new england college",
+            "opponent1_score": 0,
+            "opponent2": "carthage college",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "howard cc dragons",
+            "opponent1_score": 3,
+            "opponent2": "carthage college",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "concordia wisconsin",
+            "opponent1_score": 3,
+            "opponent2": "new england college",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "carthage college",
+            "opponent1_score": 1,
+            "opponent2": "concordia wisconsin",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "opponent1": "carrol university",
+            "opponent1_score": 3,
+            "opponent2": "baker university",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "marywood university",
+            "opponent1_score": 3,
+            "opponent2": "kings college",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "carrol university",
+            "opponent1_score": 3,
+            "opponent2": "marywood university",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "baker university",
+            "opponent1_score": 1,
+            "opponent2": "kings college",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "marywood university",
+            "opponent1_score": 3,
+            "opponent2": "kings college",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "7",
+            "opponent1": "howard cc dragons",
+            "opponent1_score": 4,
+            "opponent2": "marywood university",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map6": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map7": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "carrol university",
+            "opponent1_score": 0,
+            "opponent2": "concordia wisconsin",
+            "opponent2_score": 4,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map6": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map7": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "howard cc dragons",
+            "opponent1_score": 4,
+            "opponent2": "concordia wisconsin",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map6": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map7": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        }
+    ]
+}

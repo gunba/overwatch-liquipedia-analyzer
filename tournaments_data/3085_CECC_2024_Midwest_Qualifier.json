@@ -1,0 +1,1254 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "liquipediatiertype": "Qualifier",
+            "series": "Collegiate Esports Commissioners Cup",
+            "abbreviation": "CECC",
+            "name": "CECC 2024 Midwest Qualifier",
+            "shortname": "2024 Midwest Qualifier",
+            "tickername": "CECC 2024 Midwest Qualifier",
+            "image": "CECC Midwest 2023 allmode.png",
+            "organizer": "Collegiate Sports Management Group",
+            "organizer-link": "https://collegiatesmg.com/esportsu/",
+            "type": "Online",
+            "country": "United States",
+            "game": "overwatch2",
+            "format": "",
+            "prizepoolusd": "",
+            "sdate": "2023-09-23",
+            "edate": "2023-09-24",
+            "twitch": "esportsu",
+            "twitter": "esportsugaming",
+            "instagram": "esportsugaming",
+            "youtube": "channel/UCzRyKrjzuJASvkVVIds131A",
+            "web": "https://collegiatesmg.com/cecc/",
+            "discord": "esportsu",
+            "rulebook": "https://docs.google.com/document/d/1cXc1dSlkR2w9Gq7IvGRC7TgdZtS4EtUY/edit",
+            "bracket": "https://battlefy.com/csmgesportsu/cecc-midwest-region-qualifiers-overwatch-2/64f73ebe7b91053f5b80a1a6/info?infoTab=details",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Maryville University",
+            "p1": "k1ng",
+            "pos1": "dps",
+            "p2": "TR33",
+            "pos2": "dps",
+            "p3": "Vision",
+            "pos3": "dps",
+            "p4": "False",
+            "pos4": "tank",
+            "p5": "Danteh",
+            "pos5": "tank",
+            "p6": "Joobi",
+            "pos6": "sup",
+            "p7": "syrus",
+            "pos7": "sup",
+            "p8": "squid",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "iced",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Miami University",
+            "p1": "BoneSaw",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Wintur",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "BaByBackside",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "AceAlfonzo",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Ztrack",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "Pootrscootr",
+            "p6flag": "us",
+            "pos6": "tank",
+            "p7": "Shocker",
+            "p7flag": "us",
+            "pos7": "sup",
+            "p8": "KaBunga",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "Fahzix",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "Coe College",
+            "p1": "Neeko",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Kellydud",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "RaiLgun",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "vee",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p4link": "Vee (American Player)",
+            "p5": "earf",
+            "p5flag": "",
+            "pos5": "sup"
+        },
+        {
+            "team": "Northwood University",
+            "p1": "Dynasty",
+            "pos1": "dps",
+            "p2": "Haven",
+            "pos2": "dps",
+            "p2link": "Haven (American Player)",
+            "p3": "DevilWood",
+            "p3flag": "uk",
+            "pos3": "dps",
+            "p4": "s9mm",
+            "pos4": "dps",
+            "p5": "cowman711",
+            "pos5": "tank",
+            "p6": "SZNS",
+            "pos6": "tank",
+            "p7": "mikeyy",
+            "pos7": "tank",
+            "p8": "Vega",
+            "pos8": "sup",
+            "p9": "Boat",
+            "pos9": "sup",
+            "t2title": "Staff",
+            "t2c1": "Faustus",
+            "t2c1pos": "coach",
+            "t2c2": "Tubesock",
+            "t2c2pos": "team manager"
+        },
+        {
+            "team": "Wichita State",
+            "p1": "Pride",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "WidowWonTrix",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Wish",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "FlffyButDdly",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "TW877",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "Pineapple",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p6link": "Pineapple (American player)",
+            "p7": "Hanbei",
+            "pos7": "sup",
+            "p8": "Dampley",
+            "p8flag": "us",
+            "pos8": "sup",
+            "p9": "dingus",
+            "p9flag": "us",
+            "pos9": ""
+        },
+        {
+            "team": "Illinois Blue",
+            "p1": "Factual",
+            "p1flag": "us",
+            "pos1": "",
+            "p2": "GuGuB1rd",
+            "p2flag": "cn",
+            "pos2": "",
+            "p3": "DidntUcMe",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "Shining",
+            "p4flag": "cn",
+            "pos4": "",
+            "p5": "Invalid",
+            "p5flag": "us",
+            "pos5": "",
+            "p6": "Gavin145",
+            "p6flag": "us",
+            "pos6": "",
+            "p7": "Cryopup",
+            "p7flag": "us",
+            "pos7": "",
+            "p8": "massivepoop",
+            "p8flag": "us",
+            "pos8": ""
+        },
+        {
+            "team": "Illinois Orange",
+            "p1": "SillyPhil49",
+            "pos1": "dps",
+            "p2": "Exojay",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Chopper",
+            "pos3": "dps",
+            "p4": "Arcticshadow",
+            "p4flag": "us",
+            "pos4": "dps",
+            "p5": "zhulander",
+            "pos5": "tank",
+            "p6": "Honesty",
+            "pos6": "tank",
+            "p6link": "Danny (Polish Player)",
+            "p7": "marble",
+            "pos7": "sup",
+            "p8": "Surg",
+            "p8flag": "us",
+            "pos8": "sup",
+            "t2title": "Substitutes",
+            "t2p1": "cancel",
+            "t2p1pos": "tank",
+            "t2p2": "Khrimzon",
+            "t2p2pos": "tank",
+            "t2p3": "Th0r",
+            "t2p3pos": "sup"
+        },
+        {
+            "team": "University of Missouri",
+            "p1": "BackStabBud",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Gambit",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "PingAnXiLe",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "clairvoyant",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "ashli",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "TommySalami",
+            "p6flag": "us",
+            "pos6": "sup",
+            "t2title": "Substitutes",
+            "t2p1": "Krinkle",
+            "t2p1flag": "us",
+            "t2p1pos": "sub"
+        },
+        {
+            "team": "Ball State Black",
+            "p1": "AppleMan",
+            "p1flag": "us",
+            "pos1": "",
+            "p2": "Krow",
+            "p2flag": "us",
+            "pos2": "",
+            "p3": "jabobers",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "Bearzombie",
+            "p4flag": "us",
+            "pos4": "",
+            "p5": "CashlessDr",
+            "p5flag": "us",
+            "pos5": ""
+        },
+        {
+            "team": "Ball State Red",
+            "p1": "Spencer",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "UcantCghost",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "NINJACURLYFRY",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "Manwe",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Yakester",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "RavenStrider",
+            "p6flag": "us",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Otta",
+            "t2cflag": "ca",
+            "t2c1pos": "Coach"
+        },
+        {
+            "team": "Illinois Wesleyan",
+            "p1": "WaVy",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Exo",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Kuzuryu",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Andrew",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p4link": "Andrew (American Player)",
+            "p5": "Mookie",
+            "p5flag": "us",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "B1G",
+            "t2c1flag": "us",
+            "t2c1pos": "coach",
+            "t2c2": "dekuscrub",
+            "t2c2pos": "manager",
+            "t2c3": "kurtis",
+            "t2c3pos": "manager"
+        },
+        {
+            "team": "Wisconsin-River Falls",
+            "p1": "DrMeatball",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Sparky",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "\u00d0\u00e5\u00fc\u011f\u0125\u0163\u0115\u0159",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "AgentNein",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "DISCORDK1TTN",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "maple",
+            "p6flag": "",
+            "pos6": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "September 23, 2023 - 17:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "miami university|score=W",
+            "opponent2": "coe college|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "September 23, 2023 - 18:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "maryville university",
+            "opponent1_score": 3,
+            "opponent2": "miami university",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "September 23, 2023 - 19:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "miami university",
+            "opponent1_score": 3,
+            "opponent2": "coe college",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "September 23, 2023 - 17:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "wichita state university",
+            "opponent1_score": 3,
+            "opponent2": "illinois blue",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "September 23, 2023 - 18:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "northwood university",
+            "opponent1_score": 3,
+            "opponent2": "wichita state",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "September 23, 2023 - 19:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "wichita state",
+            "opponent1_score": 3,
+            "opponent2": "illinois blue",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "September 23, 2023 - 17:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "university of missouri",
+            "opponent1_score": 3,
+            "opponent2": "ball state black",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "September 23, 2023 - 18:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illinois orange",
+            "opponent1_score": 3,
+            "opponent2": "university of missouri",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "September 23, 2023 - 19:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "university of missouri",
+            "opponent1_score": 3,
+            "opponent2": "ball state black",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "September 23, 2023 - 17:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illinois wesleyan",
+            "opponent1_score": 3,
+            "opponent2": "uw-river falls",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "September 23, 2023 - 18:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ball state red",
+            "opponent1_score": 0,
+            "opponent2": "illinois wesleyan",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "September 23, 2023 - 19:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ball state red",
+            "opponent1_score": 3,
+            "opponent2": "uw-river falls",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "September 24, 2023 - 15:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "maryville university",
+            "opponent1_score": 3,
+            "opponent2": "wichita state",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "September 24, 2023 - 15:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illinois wesleyan",
+            "opponent1_score": 3,
+            "opponent2": "university of missouri",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "September 24, 2023 - 15:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "northwood university",
+            "opponent1_score": 3,
+            "opponent2": "miami university",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "September 24, 2023 - 15:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illinois orange",
+            "opponent1_score": 3,
+            "opponent2": "ball state red",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "September 24, 2023 - 16:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "maryville university",
+            "opponent1_score": 3,
+            "opponent2": "illinois wesleyan",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "September 24, 2023 - 16:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "esportsu",
+            "opponent1": "northwood university|score=",
+            "opponent2": "illinois orange|score=",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "September 24, 2023 - 17:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "esportsu",
+            "opponent1": "maryville university|score=",
+            "opponent2": "northwood university|score=",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "September 24, 2023 - 17:00",
+            "date_timezone": "CDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illinois wesleyan|score=FF",
+            "opponent2": "illinois orange|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "RxMTP="
+        }
+    ]
+}

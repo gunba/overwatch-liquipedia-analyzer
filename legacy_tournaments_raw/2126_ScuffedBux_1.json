@@ -1,0 +1,270 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "ScuffedBux",
+            "shortname": "SB #1",
+            "name": "ScuffedBux 1",
+            "image": "",
+            "icon": "",
+            "organizer": "Scuffed Cast",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Europe",
+            "twitter": "ScuffedBux",
+            "discord": "5srBpAj",
+            "prizepool": "250",
+            "localcurrency": "eur",
+            "prizepoolusd": "270",
+            "sdate": "2020-02-28",
+            "edate": "2020-02-29",
+            "web": "https://battlefy.com/scuffed-cast/scuffedbux/5e4ea511b083e110668b0cca/info?infoTab=details",
+            "rulebook": "https://docs.google.com/document/d/1XI05TKNSqoGtiZbSLAcDMzcflC7MbiHJvognC3tivT4/edit",
+            "team_number": "16",
+            "bracket": "https://battlefy.com/scuffed-cast/scuffedbux/5e4ea511b083e110668b0cca/stage/5e5652e96bd3c874dea3ede5/bracket/",
+            "previous": "",
+            "next": "ScuffedBux/2 {{!}} SB #2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Sheer Cold",
+            "image": "Sheer Cold logo.png",
+            "p1": "Shade|p1flag=|pos1=Tank",
+            "p2": "Alex2704|p2flag=|pos2=Tank",
+            "p3": "sycamore|p3flag=|pos3=Dps",
+            "p4": "Backbone|p4flag=|pos4=Dps",
+            "p5": "sucrax|p5flag=|pos5=Sup",
+            "p6": "ANJ|p6flag=|pos6=Sup",
+            "t2title": "Staff",
+            "t2p1": "Lick|t2pos1=coach",
+            "t2p2": "BuckyBear|t2pos2=manager"
+        },
+        {
+            "team": "Olympians",
+            "image": "Olympians logo.png",
+            "p1": "Liam|p1flag=ie|pos1=Tank",
+            "p2": "Knasen|p2flag=se|pos2=Tank",
+            "p3": "Grathen|p3flag=ie|pos3=Dps",
+            "p4": "FlexG|p4flag=ie|pos4=Dps",
+            "p5": "Frayu1600|p5flag=it|pos5=Sup",
+            "p6": "Coomber|p6flag=uk|pos6=Sup",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "ggGoNext",
+            "image": "",
+            "p1": "Minimi|p1flag=au|pos1=Tank",
+            "p2": "Ball|p2flag=uk|pos2=Tank",
+            "p3": "L\u020aGHTBRINGER|p3flag=us|pos3=Dps|p3link=Lightbringer",
+            "p4": "AvAtAr|p4flag=gr|pos4=Dps",
+            "p5": "h9mpe|p5flag=se|pos5=Sup",
+            "p6": "TSorcerer|p6flag=ru|pos6=Sup",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "Ex Oblivione",
+            "image": "Ex Oblivione 2020 logo.png",
+            "p1": "Phi|p1flag=|pos1=dps",
+            "p2": "Clowd|p2flag=|pos2=dps",
+            "p3": "Ido|p3flag=no|pos3=dps",
+            "p4": "Mesic|p4flag=|pos4=tank",
+            "p5": "Rene|p5flag=|pos5=tank",
+            "p6": "Jarew|p6flag=uk|pos6=tank",
+            "p7": "Karra|p7flag=|pos7=sup",
+            "p8": "Slay|p8flag=|pos8=sup",
+            "t2title": "Staff",
+            "t2p1": "illy|t2pos1=manager",
+            "t2p2": "Kevh|t2pos2=manager"
+        },
+        {
+            "team": "Banshee Esports",
+            "image": "Banshee logo.png",
+            "p1": "hades2417|p1flag=be|pos1=Tank",
+            "p2": "Zeorm|p2flag=fr|pos2=Tank",
+            "p3": "Feez|p3flag=uk|pos3=Dps",
+            "p4": "Bijuu|p4flag=dk|pos4=Dps",
+            "p5": "PledPlers|p5flag=ax|pos5=Sup",
+            "p6": "Watery|p6flag=fi|pos6=Sup",
+            "p7": "Floss|p7flag=uk|pos7=tank",
+            "c": "Deewa|cflag=es"
+        },
+        {
+            "team": "OTPog",
+            "image": "",
+            "p1": "Bunny|p1flag=ir|pos1=|p1link=Bunny (Iranian player)",
+            "p2": "Torbj\u00f6rn|p2flag=|pos2=",
+            "p3": "bame1Fan1|p3flag=dk|pos3=",
+            "p4": "LewisS|p4flag=|pos4=",
+            "p5": "Buttonsie|p5flag=uk|pos5=",
+            "p6": "Kaju|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "HSL Academy",
+            "p1": "Julo|p1flag=fr|pos1=Tank",
+            "p2": "Vendetta|p2flag=ie|pos2=Tank",
+            "p3": "Ediz|p3flag=de|pos3=Dps",
+            "p4": "Linnou|p4flag=|pos4=Dps",
+            "p5": "Barotz|p5flag=fr|pos5=Sup",
+            "p6": "Lucer|p6flag=nl|pos6=Sup",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "ROAR Esports",
+            "image": "Roar Esports.png",
+            "p1": "Maltteee|p1flag=se|pos1=Tank",
+            "p2": "Neddy|p2flag=uk|pos2=Tank",
+            "p3": "Braven|p3flag=ir|pos3=Dps",
+            "p4": "Eli|p4flag=uk|pos4=Dps",
+            "p5": "RK|p5flag=de|pos5=Sup",
+            "p6": "Cloud|p6flag=uk|pos6=Sup|p6link=Cloud (British player)",
+            "c": "Sin|cflag=",
+            "m": "Kendar|mflag="
+        },
+        {
+            "team": "Red Pandas",
+            "image": "",
+            "p1": "NLuuk|p1flag=|pos1=",
+            "p2": "Zupo|p2flag=|pos2=",
+            "p3": "Conrad|p3flag=|pos3=",
+            "p4": "Snaps|p4flag=|pos4=",
+            "p5": "HARV\u01c3|p5flag=|pos5=",
+            "p6": "Yikes|p6flag=|pos6=",
+            "p7": "RectaTangent|p7flag=|pos7=",
+            "p8": "poloski|p8flag=|pos8="
+        },
+        {
+            "team": "Re-Taka",
+            "image": "",
+            "p1": "|p1flag=|pos1=Tank",
+            "p2": "|p2flag=|pos2=Tank",
+            "p3": "|p3flag=|pos3=Dps",
+            "p4": "|p4flag=|pos4=Dps",
+            "p5": "|p5flag=|pos5=Sup",
+            "p6": "|p6flag=|pos6=Sup",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "Cats legacy acdm",
+            "image": "",
+            "p1": "\u041c\u043a\u043a\u0442\u0412\u043a\u043a\u0442|p1flag=|pos1=",
+            "p2": "Kimari|p2flag=|pos2=",
+            "p3": "Hammond|p3flag=|pos3=",
+            "p4": "TheVK|p4flag=|pos4=",
+            "p5": "Spark|p5flag=|pos5=|p5link=Spark (European player)",
+            "p6": "BooM|p6flag=|pos6="
+        },
+        {
+            "team": "Yokai Academy",
+            "image": "",
+            "p1": "Enz|p1flag=|pos1=",
+            "p2": "Alex|p2flag=|pos2=Tank|p2link=Alex (British player)",
+            "p3": "Melon|p3flag=us|pos3=Dps|p3link=Melon (American player)",
+            "p4": "Slade|p4flag=|pos4=",
+            "p5": "Yoham|p5flag=dk|pos5=Sup",
+            "p6": "Quiet|p6flag=pt|pos6=Sup"
+        },
+        {
+            "team": "Sharks In Suits",
+            "image": "",
+            "p1": "jigyme123|p1flag=|pos1=",
+            "p2": "JustAHiPPi|p2flag=|pos2=",
+            "p3": "Sarcastic|p3flag=|pos3=",
+            "p4": "Toph|p4flag=|pos4=",
+            "p5": "Mikko|p5flag=|pos5=",
+            "p6": "EnjoySilence|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "Vox Nihili",
+            "image": "Vox Nihili Logo.png",
+            "p1": "NKZ|p1flag=nl|pos1=Tank",
+            "p2": "MrAkiSlays2|p2flag=dk|pos2=Tank",
+            "p3": "Pingu|p3flag=se|pos3=Dps",
+            "p4": "Edinn|p4flag=fi|pos4=Dps",
+            "p5": "Froakie|p5flag=uk|pos5=Sup|p5link=Froakie (British Player)",
+            "p6": "Nat|p6flag=fr|pos6=Sup",
+            "p7": "BAITO|p7flag=|pos7=sub",
+            "m": "Xandie|mflag=pl"
+        },
+        {
+            "team": "Los muertos",
+            "image": "",
+            "p1": "Svarron|p1flag=Russia|pos1=Tank",
+            "p2": "R4SPUT1N|p2flag=Russia|pos2=Tank",
+            "p3": "Kudesn1k|p3flag=Russia|pos3=Dps",
+            "p4": "Loio|p4flag=Russia|pos4=Dps",
+            "p5": "Tofu|p5flag=Russia|pos5=Sup",
+            "p6": "Leopan73|p6flag=Russia|pos6=Sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc|t2p1flag=ru|t2pos1=manager"
+        },
+        {
+            "team": "ReformedOTP",
+            "image": "",
+            "p1": "|p1flag=|pos1=Tank",
+            "p2": "|p2flag=|pos2=Tank",
+            "p3": "|p3flag=|pos3=Dps",
+            "p4": "|p4flag=|pos4=Dps",
+            "p5": "|p5flag=|pos5=Sup",
+            "p6": "|p6flag=|pos6=Sup",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Re-Taka",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "Red Pandas",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ROAR Esports",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "Banshee Esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Olympians",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "ggGoNext",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Olympians",
+            "score2": "1",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "Sheer Cold",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Ex Oblivione",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "ggGoNext",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

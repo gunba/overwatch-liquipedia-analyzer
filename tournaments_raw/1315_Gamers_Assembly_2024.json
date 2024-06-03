@@ -1,0 +1,262 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "Gamers Assembly 2024",
+            "shortname": "Gamers Assembly 2024",
+            "tickername": "Gamers Assembly 2024",
+            "image": "Gamers Assembly allmode.png",
+            "organizer": "Gamers Assembly",
+            "series": "Gamers Assembly",
+            "type": "Offline",
+            "country": "France",
+            "city": "Poitiers",
+            "venue": "Parc des Expositions de Poitiers",
+            "venuelink": "https://www.parcexpo-grandpoitiers.fr/",
+            "game": "overwatch2",
+            "format": "Round Robin<br>Double Elimination",
+            "localcurrency": "eur",
+            "prizepool": "2660",
+            "sdate": "2024-03-30",
+            "edate": "2024-03-31",
+            "twitter": "GamersAssembly",
+            "facebook": "GamersAssembly",
+            "instagram": "Gamers_Assembly",
+            "discord": "eYEcK5kCP5",
+            "youtube": "@gamersassembly",
+            "twitch": "Gamers_Assembly",
+            "web": "https://ga2024.gamers-assembly.net/tournois/overwatch-2-gamers-assembly-festival-edition-2024",
+            "rulebook": "https://backoffice.gamers-assembly.net/sites/default/files/tournament/GA2024_-_Reglement_-_Overwatch_v2.1.pdf",
+            "bracket": "https://play.toornament.com/en_GB/tournaments/7470895107034251264/stages/7655863235477110784/",
+            "team_number": "19",
+            "previous": "Gamers_Assembly/2023{{!}}2023"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "A-Square Tengu",
+            "p1": "Jodan|p1flag=fr|pos1=dps",
+            "p2": "Kabe|p2flag=fr|pos2=dps|p2link=Kabe (French player)",
+            "p3": "Lars|p3flag=de|pos3=tank",
+            "p4": "Neliozu|p4flag=de|pos4=sup",
+            "p5": "KZR|p5flag=fr|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Mat71|t2c1flag=fr|t2c1pos=manager",
+            "t2c2": "Loaw|t2c2flag=fr|t2c2pos=coach"
+        },
+        {
+            "team": "BrasKC",
+            "p1": "AINZSHALL|p1flag=|pos1=",
+            "p2": "NyR\u00f8x|p2flag=fr|pos2=",
+            "p3": "RAC|p3flag=|pos3=",
+            "p4": "Timinihappy|p4flag=|pos4=",
+            "p5": "flyzzos|p5flag=fr|pos5="
+        },
+        {
+            "team": "Dangereux Gamin Ki Prend Xylophone",
+            "p1": "Pak|pos1=dps",
+            "p2": "Dip|pos2=dps",
+            "p3": "KroxZ|pos3=tank",
+            "p4": "Xerion|pos4=sup",
+            "p5": "GOGO|pos5=sup"
+        },
+        {
+            "team": "Dragon's Homies",
+            "p1": "Warglabidoo|p1flag=fr|pos1=dps",
+            "p2": "b4x|p2flag=fr|pos2=dps",
+            "p3": "Terozz|p3flag=fr|pos3=tank",
+            "p4": "Bak4ra|p4flag=fr|pos4=sup",
+            "p5": "Podonova|p5flag=be|pos5=sup"
+        },
+        {
+            "team": "Dragon's Soul",
+            "p1": "TsuSHI|p1flag=fr|pos1=dps",
+            "p2": "Tomasa|p2flag=fr|pos2=dps",
+            "p3": "Reyxia|p3flag=fr|pos3=tank",
+            "p4": "Pizzasaur|p4flag=cn|pos4=sup",
+            "p5": "Spyboon|p5flag=fr|pos5=sup"
+        },
+        {
+            "team": "GG - Aise",
+            "p1": "Contro|p1flag=|pos1=dps",
+            "p2": "HyAKu|p2flag=|pos2=dps",
+            "p3": "mahtolle|p3flag=|pos3=tank",
+            "p4": "Goldinho|p4flag=|pos4=sup",
+            "p5": "NonoP33|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Homira",
+            "p1": "Artifact|p1flag=fr|pos1=",
+            "p2": "Fhr3Dom|p2flag=fr|pos2=",
+            "p3": "Gaspard|p3flag=fr|pos3=",
+            "p4": "Nex\u00f8|p4flag=fr|pos4=",
+            "p5": "Vetarius|p5flag=fr|pos5="
+        },
+        {
+            "team": "PCS Cooking",
+            "p1": "Rozo|p1flag=fr|pos1=dps",
+            "p2": "Shull|p2flag=fr|pos2=dps",
+            "p3": "Pyroles|p3flag=fr|pos3=tank",
+            "p4": "RooThoRn|p4flag=fr|pos4=sup",
+            "p5": "Jinje|p5flag=fr|pos5=sup"
+        },
+        {
+            "team": "Pegasy",
+            "p1": "Hippy|p1flag=fr|pos1=dps|p1link=Hippy (French player)",
+            "p2": "Neil\u00e9rua|p2flag=fr|pos2=dps",
+            "p3": "Drovix|p3flag=fr|pos3=tank",
+            "p4": "AstroFlox|p4flag=fr|pos4=sup",
+            "p5": "Core|p5flag=fr|pos5=sup"
+        },
+        {
+            "team": "tut tut",
+            "p1": "TurboSmooth|p1flag=fr|pos1=dps",
+            "p2": "SkyLlag|p2flag=fr|pos2=dps",
+            "p3": "Izko|p3flag=fr|pos3=tank",
+            "p4": "AzBlue|p4flag=fr|pos4=sup",
+            "p5": "Azzo|p5flag=fr|pos5=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "March 31, 2024 - 09:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dragon's Soul|score=3}}",
+            "opponent2": "{{TeamOpponent|BrasKC|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "March 31, 2024 - 09:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Pegasy|score=3}}",
+            "opponent2": "{{TeamOpponent|Homira|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "March 31, 2024 - 10:30 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dangereux Gamin Ki Prend Xylophone|score=3}}",
+            "opponent2": "{{TeamOpponent|Dragon's Soul|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "March 31, 2024 - 10:30 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|PCS Cooking|score=0}}",
+            "opponent2": "{{TeamOpponent|Dragon's Homies|score=3}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "March 31, 2024 - 10:30 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|A-Square Tengu|score=3}}",
+            "opponent2": "{{TeamOpponent|Pegasy|score=0}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "March 31, 2024 - 10:30 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|tut tut|score=2}}",
+            "opponent2": "{{TeamOpponent|GG - Aise|score=3}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "March 31, 2024 - 12:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dangereux Gamin Ki Prend Xylophone|score=3}}",
+            "opponent2": "{{TeamOpponent|Dragon's Homies|score=0}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "March 31, 2024 - 12:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|A-Square Tengu|score=3}}",
+            "opponent2": "{{TeamOpponent|GG - Aise|score=0}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "March 31, 2024 - 14:30 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dangereux Gamin Ki Prend Xylophone|score=3}}",
+            "opponent2": "{{TeamOpponent|A-Square Tengu|score=0}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "March 31, 2024 - 10:30 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dragon's Soul|score=3}}",
+            "opponent2": "{{TeamOpponent|Homira|score=2}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "March 31, 2024 - 10:30 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Pegasy|score=3}}",
+            "opponent2": "{{TeamOpponent|BrasKC|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "March 31, 2024 - 12:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|PCS Cooking|score=3}}",
+            "opponent2": "{{TeamOpponent|Dragon's Soul|score=0}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "March 31, 2024 - 12:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|tut tut|score=3}}",
+            "opponent2": "{{TeamOpponent|Pegasy|score=1}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "March 31, 2024 - 14:30 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|GG - Aise|score=0}}",
+            "opponent2": "{{TeamOpponent|PCS Cooking|score=3}}",
+            "optional": "R3M3="
+        },
+        {
+            "date": "March 31, 2024 - 14:30 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dragon's Homies|score=3}}",
+            "opponent2": "{{TeamOpponent|tut tut|score=0}}",
+            "optional": "R3M4="
+        },
+        {
+            "date": "March 31, 2024 - 16:00 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|PCS Cooking|score=2}}",
+            "opponent2": "{{TeamOpponent|Dragon's Homies|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "March 31, 2024 - 17:30 {{Abbr/CEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|A-Square Tengu}}",
+            "opponent2": "{{TeamOpponent|Dragon's Homies}}",
+            "map1": "{{Map|map=Antarctic Peninsula|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Para\u00edso|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Suravasa|mode=Flashpoint|score1=3|score2=0|winner=1}}",
+            "optional": "R5M2="
+        },
+        {
+            "date": "March 31, 2024 - 20:00 {{Abbr/CEST}}",
+            "bestof": "7",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dangereux Gamin Ki Prend Xylophone}}",
+            "opponent2": "{{TeamOpponent|A-Square Tengu}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Midtown|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "map3": "{{Map|map=Suravasa|mode=Flashpoint|score1=3|score2=1|winner=1}}",
+            "map4": "{{Map|map=Colosseo|mode=Push|score1=136.47m|score2=27.24m|winner=1}}",
+            "optional": "R6M1="
+        }
+    ]
+}

@@ -1,0 +1,541 @@
+{{Want_to_Help
+|issue=missing flags on teamcards
+|fix=add flagg
+|date=20191122
+}}
+{{JToFC_Navbox}}
+
+{{DISPLAYTITLE:Jayne's Tournament of Future Champions - December NA}}
+{{tabs static
+|name1=Main Event|link1=Jayne's Tournament of Future Champions/2
+|name2=Qualifier|link2=Jayne's Tournament of Future Champions/2/Qualifier
+|This=1
+}}
+{{Infobox league
+|name=Jayne's Tournament of Future Champions - December NA
+|image=TFC Logo.png
+|series=Tournament of Future Champions
+|abbreviation=TFC
+|shortname=Jayne's TFC 2
+|tickername=Jayne's TFC - December NA
+|icon=TFC 50x50.png
+|organizer=Jayne
+|patch=1.30
+|sponsor=
+|type=Online
+|country=North America
+|format=Single Elimination
+|prizepoolusd=1,800
+|date=2018-12-01
+|liquipediatier=4
+|web=
+|bracket=https://challonge.com/mkyxee3u
+|twitch=jayne
+|team_number=16
+|previous=Jayne's Tournament of Future Champions/1 {{!}} October NA
+|next=Jayne's Tournament of Future Champions/3/NA {{!}} January NA
+}}
+
+==Information==
+===Format===
+* Single Elimination
+* All matches {{Abbr/Bo3}}
+** Finals {{Abbr/Bo5}}
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=Jayne|b1name=Justin Conroy|b1flag=ca
+|b2=LemonKiwi|b2name=Jennifer Pichette|b2flag=ca
+}}
+
+===Final Results===
+{{prize pool start }}
+{{prize pool slot|place=1 |usdprize=800|second wind|lastvs1=path to poverty|lastscore1=3|lastvsscore1=1}}
+{{prize pool slot|place=2 |usdprize=500|path to poverty|lastvs1=second wind|lastscore1=1|lastvsscore1=3}}
+{{prize pool slot|place=3-4 |usdprize=250
+|first generation|lastvs1=second wind|lastscore1=1|lastvsscore1=2
+|skyfoxes|lastvs2=path to poverty|lastscore2=1|lastvsscore2=2
+}}
+{{prize pool slot|place=5-8|usdprize=0
+|alpha kappa|lastvs1=second wind|lastscore1=0|lastvsscore1=2
+|clarity|lastvs2=skyfoxes|lastscore2=1|lastvsscore2=2
+|kungarna|lastvs3=path to poverty|lastscore3=0|lastvsscore3=2
+|mirage|lastvs4=first generation|lastscore4=1|lastvsscore4=2
+}}
+{{prize pool slot|place=9-16|usdprize=0
+|oracle gaming gold|lastvs1=second wind|lastscore1=0|lastvsscore1=2
+|relapse|lastvs2=alpha kappa|lastscore2=0|lastvsscore2=2
+|underwater squad|lastvs3=first generation|lastscore3=1|lastvsscore3=2
+|horizon zenith|lastvs4=mirage|lastscore4=1|lastvsscore4=2
+|young guns|lastvs5=skyfoxes|lastscore5=1|lastvsscore5=2
+|who?|lastvs6=clarity|lastscore6=1|lastvsscore6=2
+|livid (north american team)|lastvs7=kungarna|lastscore7=0|lastvsscore7=2
+|chicken contendies|lastvs8=path to poverty|lastscore8=1|lastvsscore8=2
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Second Wind
+|p1=金木犀|p1flag=|pos1=
+|p2=Beowulf|p2flag=|pos2=
+|p3=CarCar|p3flag=us|pos3=
+|p4=ritkakise|p4flag=|pos4=
+|p5=basquiat|p5flag=|pos5=
+|p6=Akawa|p6flag=ca|pos6=
+|t2title=Staff
+|t2p1=maid|t2pos1=coach
+|t2p2=Flubby|t2pos2=coach
+|t2p3=Wheats|t2pos3=coach
+|t2p4=Justin|t2pos4=manager
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Skyfoxes
+|p1=Verbo|p1flag=|pos1=
+|p2=Felty|p2flag=us|pos2=
+|p3=Snow|p3flag=ethiopia|pos3=|p3link=Snow (Mikias Yohannes)
+|p4=iRemiix|p4flag=|pos4=
+|p5=Moopey|p5flag=|pos5=
+|p6=zombs|p6flag=|pos6=
+|p7=xRetzi|p7flag=|pos7=
+|p8=k1ng|p8flag=us|pos8=
+|t2title=Staff
+|t2p1=Bosco|t2pos1=Coach
+|t2p2=jcb|t2pos2=Coach
+|t2p3=Faustus|t2pos3=Coach
+|t2p4=iNsaNe|t2pos4=Coach|t2p4flag=kr
+|t2p5=Lutional|t2pos5=Translator
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Kungarna
+|p1=Duplicate|p1flag=us|pos1=
+|p2=Pika|p2flag=|pos2=
+|p3=Sinker|p3flag=|pos3=
+|p4=Wub|p4flag=|pos4=
+|p5=Mohr|p5flag=|pos5=
+|p6=Insomniaq|p6flag=|pos6=
+|p7=ItsOnyx|p7flag=us|pos7=
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=First Generation
+|p1=Tensa|p1flag=|pos1=
+|p2=Wavey|p2flag=ca|pos2=
+|p3=Zaprey|p3flag=|pos3=
+|p4=nomy|p4flag=|pos4=
+|p5=naGGa|p5flag=|pos5=
+|p6=rob420|p6flag=|pos6=
+|p7=hooey|p7flag=|pos7=
+|c=blizzard|cflag=us|clink=Blizzard (coach)
+|c2=byZenith|c2flag=us
+|c3=Choco|c3flag=au
+|c4=The|c4flag=us
+|c5=Calyoon|c5flag=us
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Mirage Sport Électronique
+|p1=Chayne|p1flag=|pos1=
+|p2=Shuh|p2flag=france|pos2=
+|p3=Carter|p3flag=us|pos3=
+|p4=Hobbs|p4flag=|pos4=
+|p5=Ojee|p5flag=|pos5=
+|p6=Pizzademon|p6flag=us|pos6=
+|t2title=Staff
+|t2p1=Jsr|t2pos1=coach
+|t2p2=Rusto|t2pos2=coach|t2p2flag=us
+|t2p3=Sheep|t2pos3=coach|t2p3flag=ca|t2p3link=Sheep (Canadian Player)
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Path to Poverty
+|p1=Jolfe|p1flag=us|pos1=
+|p2=HotDate|p2flag=us|pos2=
+|p3=BigALL|p3flag=us|pos3=
+|p4=Dove|p4flag=us|pos4=
+|p5=Anghell1c|p5flag=us|pos5=
+|p6=UltraViolet|p6flag=us|pos6=
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Clarity
+|p1=emJuly|p1flag=us|pos1=
+|p2=Owl|p2flag=us|pos2=|p2link=Owl (American player)
+|p3=Troll|p3flag=us|p3link=troll_(American_player)
+|p4=Odd|p4flag=us|pos4=
+|p5=ultimawep|p5flag=|pos5=
+|p6=Amadien|p6flag=us|pos6=
+|p7=Nox|p7flag=us|pos7=
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Relapse
+|p1=Boostio|p1flag=|pos1=
+|p2=Borg|p2flag=us|pos2=
+|p3=Fix|p3flag=|pos3=
+|p4=KingHydron|p4flag=|pos4=
+|p5=speedily|p5flag=us|pos5=
+|p6=kellth|p6flag=us|pos6=
+|p7=Tobias|p7flag=us|pos7=
+|p8=Foreshadow|p8flag=kr|pos8=
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Alpha Kappa
+|p1=Mango|p1flag=us|pos1=
+|p2=Hope|p2flag=tw|pos2=
+|p3=Arc|p3flag=us|pos3=
+|p4=Chopt|p4flag=us|pos4=
+|p5=Mixo|p5flag=us|pos5=
+|p6=Lisugau|p6flag=us|pos6=
+|p7=M0rbid|p7flag=ca|pos7=
+|c=|cflag=
+|qualifier=[[Jayne%27s_Tournament_of_Future_Champions/2/Qualifier|Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Who?
+|image=WHO_Logo.jpg
+|p1=SCOPE|p1flag=gt|pos1=
+|p2=Doserino|p2flag=us|pos2=
+|p3=Mac|p3flag=|pos3=
+|p4=Fofey|p4flag=us|pos4=
+|p5=Glace|p5flag=ua|pos5=
+|p6=Valentine|p6flag=us|pos6=|p6link=Valentine (American Player)
+|c=|cflag=
+|qualifier=[[Jayne%27s_Tournament_of_Future_Champions/2/Qualifier|Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Chicken Contendies
+|p1=GiG|p1flag=|pos1=tank
+|p2=BAJR|p2flag=ca|pos2=tank
+|p3=harbleu|p3flag=|pos3=dps
+|p4=Tanner|p4flag=|pos4=dps
+|p5=Zholik|p5flag=|pos5=sup
+|p6=Berd|p6flag=|pos6=sup
+|c=|cflag=
+|qualifier=[[Jayne%27s_Tournament_of_Future_Champions/2/Qualifier|Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Horizon Zenith
+|p1=Bokk6|p1flag=co|pos1=
+|p2=Seedro|p2flag=|pos2=
+|p3=Clutch|p3flag=|pos3=
+|p4=metafour|p4flag=|pos4=
+|p5=JBright|p5flag=us|pos5=
+|p6=Aero|p6flag=|pos6=
+|c=|cflag=
+|qualifier=[[Jayne%27s_Tournament_of_Future_Champions/2/Qualifier|Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Underwater Squad
+|p1=VitaCoco|p1flag=|pos1=
+|p2=iCy|p2flag=ca|pos2=
+|p3=Peebimitsu|p3flag=|pos3=
+|p4=Lefaa|p4flag=us|pos4=
+|p5=Kevin|p5flag=ca|pos5=
+|p6=Reptile|p6flag=mexico|pos6=
+|p7=ichor|p7flag=us|pos7=
+|c=|cflag=
+|qualifier=[[Jayne%27s_Tournament_of_Future_Champions/2/Qualifier|Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=LiviD
+|link=LiviD (North American team)
+|p1=ĐunKZ|p1flag=ca|pos1=sup
+|p2=AntoL|p2flag=ca|pos2=sup
+|p3=salty|p3flag=us|pos3=flex
+|p4=Bow|p4flag=ca|pos4=tank|p4link=Bow_(american_player)
+|p5=Saturn|p5flag=us|pos5=dps
+|p6=Rocker|p6flag=us|pos6=dps
+|c=|cflag=
+|qualifier=[[Jayne%27s_Tournament_of_Future_Champions/2/Qualifier|Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Young Guns
+|p1=Lovebot|p1flag=ca|pos1=
+|p2=Nime|p2flag=us|pos2=
+|p3=Javion|p3flag=tt|pos3=
+|p4=kc!|p4flag=|pos4=
+|p5=Yugi|p5flag=ca|pos5=
+|p6=Majesty|p6flag=|pos6=
+|p7=guru|p7flag=|pos7=
+|c=|cflag=
+|qualifier=[[Jayne%27s_Tournament_of_Future_Champions/2/Qualifier|Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Oracle Gaming Gold
+|p1=Dimes|p1flag=|pos1=
+|p2=PraiseTheSun|p2flag=us|pos2=
+|p3=AloofAndrew|p3flag=us|pos3=
+|p4=C3realKilla|p4flag=us|pos4=
+|p5=Insane|p5flag=us|pos5=
+|p6=Drake|p6flag=|pos6=
+|c=|cflag=
+|qualifier=[[Jayne%27s_Tournament_of_Future_Champions/2/Qualifier|Qualifier]]
+}}
+{{box|end|padding=2em}}
+
+==Results==
+{{LegacyBracket|Bracket/16|16SETeamBracket|type=team|id=xQayW0IWlC
+<!-- ROUND OF 16 -->
+|R1D1team=second wind |R1D1score=2 |R1D1win=1
+|R1D2team=oracle gaming gold |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=1
+|map2=|map2score=|map2win=1
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=relapse |R1D3score=0 |R1D3win=
+|R1D4team=alpha kappa |R1D4score=2 |R1D4win=1
+|R1G2details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=2
+|map2=|map2score=|map2win=2
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=first generation |R1D5score=2 |R1D5win=1
+|R1D6team=underwater squad |R1D6score=1 |R1D6win=
+|R1G3details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=1
+|map2=|map2score=|map2win=2
+|map3=|map3score=|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+|R1D7team=mirage |R1D7score=2 |R1D7win=1
+|R1D8team=horizon zenith |R1D8score=1 |R1D8win=
+|R1G4details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=1
+|map2=|map2score=|map2win=2
+|map3=|map3score=|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+|R1D9team=skyfoxes |R1D9score=2 |R1D9win=1
+|R1D10team=young guns |R1D10score=1 |R1D10win=
+|R1G5details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=1
+|map2=|map2score=|map2win=2
+|map3=|map3score=|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+|R1D11team=clarity |R1D11score=2 |R1D11win=1
+|R1D12team=who? |R1D12score=1 |R1D12win=
+|R1G6details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=1
+|map2=|map2score=|map2win=2
+|map3=|map3score=|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+|R1D13team=kungarna |R1D13score=2 |R1D13win=1
+|R1D14team=livid (north american team) |R1D14score=0 |R1D14win=
+|R1G7details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=1
+|map2=|map2score=|map2win=1
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D15team=path to poverty |R1D15score=2 |R1D15win=1
+|R1D16team=chicken contendies |R1D16score=0 |R1D16win=
+|R1G8details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=1
+|map2=|map2score=|map2win=2
+|map3=|map3score=|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+<!-- QUARTERFINALS -->
+|R2W1team=second wind |R2W1score=2 |R2W1win=1
+|R2W2team=alpha kappa |R2W2score=0 |R2W2win=
+|R2G1details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=1
+|map2=|map2score=|map2win=1
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W3team=first generation |R2W3score=2 |R2W3win=1
+|R2W4team=mirage |R2W4score=1 |R2W4win=
+|R2G2details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=2
+|map2=|map2score=|map2win=1
+|map3=|map3score=|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+|R2W5team=skyfoxes |R2W5score=2 |R2W5win=1
+|R2W6team=clarity |R2W6score=1 |R2W6win=
+|R2G3details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=1
+|map2=|map2score=|map2win=2
+|map3=|map3score=|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+|R2W7team=kungarna |R2W7score=0 |R2W7win=
+|R2W8team=path to poverty |R2W8score=2 |R2W8win=1
+|R2G4details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=2
+|map2=|map2score=|map2win=2
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R3W1team=second wind |R3W1score=2 |R3W1win=1
+|R3W2team=first generation |R3W2score=1 |R3W2win=
+|R3G1details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=1
+|map2=|map2score=|map2win=2
+|map3=|map3score=|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+|R3W3team=skyfoxes |R3W3score=1 |R3W3win=
+|R3W4team=path to poverty |R3W4score=2 |R3W4win=1
+|R3G2details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=2
+|map2=|map2score=|map2win=1
+|map3=|map3score=|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R4W1team=second wind |R4W1score=3 |R4W1win=1
+|R4W2team=path to poverty |R4W2score=1 |R4W2win=
+|R4G1details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+
+==Showmatch==
+{{#vardefine:tournament_name|Jayne's Tournament of Future Champions 2 - Showmatch}}
+===Participants===
+{{show match|date=2018-12-01|prizepoolusd=0|name=Jayne's Tournament of Future Champions 2 - Showmatch}}
+{{box|start|padding=2em}}
+{{TeamCard|lpdb_prefix=Showmatch
+|team=Second Wind
+|image=
+|p1=CarCar
+|p2=Frill
+|p3=Akawa |p3flag=ca
+|p4=MirroR
+|p5=frdwnr
+|p6=HaKu
+|c= |cteam=
+}}
+{{box|break|padding=2em}}
+{{TeamCard|lpdb_prefix=Showmatch
+|team=Path to Poverty
+|image=Path_to_Poverty_logo.png
+|p1=BigALL |p1flag=us
+|p2=Anghell1c |p2flag=us
+|p3=UltraViolet |p3flag=us
+|p4=Jolfe |p4flag=us 
+|p5=HotDate |p5flag=us
+|p6=Dove |p6flag=us
+|c=
+}}
+{{box|end}}
+
+===Format===
+* '''Showmatch:'''
+* {{Abbr/Bo1}} Showmatch
+* Top Two Teams Chosen
+* Experimental Hero Ban is in Place
+
+{{box|end}}
+
+{{box|start|padding=2em}}
+
+===Prize Pool===
+{{prize pool start|noprize=y|tournament name=Jayne's Tournament of Future Champions 2 - Showmatch|lpdb_prefix=Showmatch}}
+{{prize pool slot|place=w |second wind |lastvs1=path to poverty |lastscore1=1 |lastvsscore1=0 }}
+{{prize pool slot|place=l |path to poverty |lastvs1=second wind |lastscore1=0 |lastvsscore1=1 }}
+{{prize pool end}}
+{{box|end}}
+
+==External links==
+*{{flag/usuk}} [https://docs.google.com/document/d/1g-RuXhhVqjeAhb805DhW1p-XwSPNI7ktSAKpdiDBmS0/edit Official Rules]
+
+==References==
+{{reflist}}

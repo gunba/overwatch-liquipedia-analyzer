@@ -1,0 +1,755 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "EPIC.LAN 41",
+            "shortname": "EPIC.LAN 41",
+            "tickername": "EPIC.LAN 41",
+            "icon": "EPIC.LAN 2021 icon allmode.png",
+            "image": "EPIC.LAN 2021 lightmode.png",
+            "organizer": "EPIC.LAN",
+            "organizer-link": "https://tournaments.epiclan.co.uk",
+            "type": "Offline",
+            "country": "United Kingdom",
+            "city": "Kettering",
+            "venue": "[https://www.epiclan.co.uk/epic41/venue] Kettering Conference Centre",
+            "game": "overwatch2",
+            "format": "Round Robin<br>Double Elimination",
+            "localcurrency": "GBP",
+            "prizepool": "1250",
+            "sdate": "2024-02-23",
+            "edate": "2024-02-24",
+            "twitter": "epiclan",
+            "web": "https://tournaments.epiclan.co.uk/tournaments/epic41-overwatch2/",
+            "discord": "epiclan",
+            "youtube": "epiclanuk",
+            "facebook": "epiclan",
+            "twitch": "EPICLAN4",
+            "rulebook": "https://tournaments.epiclan.co.uk/tournaments/epic41-overwatch2/rules",
+            "bracket": "https://tournaments.epiclan.co.uk/tournaments/epic41-overwatch2/matches",
+            "team_number": "7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "721 Ignite",
+            "p1": "MrVon",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "Blizzardstar",
+            "p2flag": "ie",
+            "pos2": "dps",
+            "p3": "Totally",
+            "p3flag": "se",
+            "pos3": "tank",
+            "p4": "Santyx",
+            "p4flag": "uk",
+            "pos4": "sup",
+            "p5": "jSketchy",
+            "p5flag": "uk",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "mentally_boomed",
+            "t2c1flag": "uk",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "Banbury Barbarians",
+            "p1": "NoReg",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "Colbey",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "Sealze",
+            "p3flag": "uk",
+            "pos3": "tank",
+            "p4": "NWP",
+            "p4flag": "uk",
+            "pos4": "sup",
+            "p5": "Vik",
+            "p5flag": "uk",
+            "pos5": "sup",
+            "p6": "Monsoon",
+            "p6flag": "uk",
+            "pos6": "flex",
+            "t2title": "Staff",
+            "t2c1": "Alivemonstor",
+            "t2c1flag": "uk",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "Esports Organisation",
+            "p1": "Duckie",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "Saphira16",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "Aisaka",
+            "pos3": "tank",
+            "p4": "Knowledge",
+            "p4flag": "uk",
+            "pos4": "sup",
+            "p5": "Georgester",
+            "p5flag": "uk",
+            "pos5": "sup",
+            "p6": "DWC",
+            "p6flag": "uk",
+            "pos6": "sup"
+        },
+        {
+            "team": "Golira Esports",
+            "p1": "Rift",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p1link": "Rift (British player)",
+            "p2": "pink",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p2link": "pink (British player)",
+            "p3": "Lukeboy",
+            "p3flag": "uk",
+            "pos3": "dps",
+            "p4": "Jjpt90",
+            "p4flag": "uk",
+            "pos4": "tank",
+            "p5": "ruler",
+            "p5flag": "uk",
+            "pos5": "sup",
+            "p6": "Horrocks",
+            "p6flag": "uk",
+            "pos6": "sup",
+            "p7": "Yuki",
+            "p7flag": "uk",
+            "pos7": "sup",
+            "p7link": "Yuki (british player)"
+        },
+        {
+            "team": "GrillMasters",
+            "p1": "Condi",
+            "pos1": "dps",
+            "p1team": "Sheer Cold",
+            "p2": "W1ll",
+            "pos2": "dps",
+            "p3": "Skytorr",
+            "pos3": "tank",
+            "p3team": "Sheer Cold",
+            "p4": "Strebor",
+            "pos4": "sup",
+            "p4team": "Sheer Cold",
+            "p5": "Yoham",
+            "pos5": "sup",
+            "p5team": "Sheer Cold",
+            "t2title": "Staff",
+            "t2c1": "Cointree",
+            "t2c1pos": "manager",
+            "t2c1team": "Twisted Minds"
+        },
+        {
+            "team": "The KingFish",
+            "p1": "sxj",
+            "pos1": "dps",
+            "p1team": "Hypnos",
+            "p2": "Lukstar",
+            "p2flag": "dk",
+            "pos2": "dps",
+            "p3": "DEAMONN",
+            "p3flag": "ukni",
+            "pos3": "tank",
+            "p4": "CaptainPrash",
+            "pos4": "sup",
+            "p4team": "Supershy",
+            "p5": "Tekuno",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Ashh",
+            "t2c1pos": "manager",
+            "t2c1team": "Ex Oblivione"
+        },
+        {
+            "team": "Warwick Hookers",
+            "p1": "Meta1",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "Jaynine",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "Rosden",
+            "p3flag": "uk",
+            "pos3": "tank",
+            "p4": "Cheeselord",
+            "p4flag": "uk",
+            "pos4": "sup",
+            "p5": "Thrall",
+            "p5flag": "uk",
+            "pos5": "sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "2024-02-24 - 10:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "721 Ignite",
+            "opponent1_score": 3,
+            "opponent2": "Warwick Hookers",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2024-02-24 - 10:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "The KingFish",
+            "opponent1_score": 3,
+            "opponent2": "Banbury Barbarians",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2024-02-24 - 10:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Golira Esports",
+            "opponent1_score": 3,
+            "opponent2": "Esports Organisation",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2024-02-24 - 11:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "GrillMasters",
+            "opponent1_score": 3,
+            "opponent2": "721 Ignite",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2024-02-24 - 11:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "The KingFish",
+            "opponent1_score": 3,
+            "opponent2": "Golira Esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2024-02-24 - 13:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "GrillMasters",
+            "opponent1_score": 1,
+            "opponent2": "The KingFish",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "2024-02-24 - 11:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Banbury Barbarians",
+            "opponent1_score": 2,
+            "opponent2": "Esports Organisation",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "2024-02-24 - 13:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "721 Ignite|score=W",
+            "opponent2": "Esports Organisation|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "2024-02-24 - 13:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Golira Esports",
+            "opponent1_score": 3,
+            "opponent2": "Warwick Hookers",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "2024-02-24 - 14:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "721 Ignite",
+            "opponent1_score": 0,
+            "opponent2": "Golira Esports",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "2024-02-24 - 16:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "GrillMasters",
+            "opponent1_score": 3,
+            "opponent2": "Golira Esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "7",
+            "date": "2024-02-24 - 20:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "The KingFish|score=",
+            "opponent2": "GrillMasters|score=",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "6",
+                "score2": "5",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "131.97m",
+                "score2": "131.96m",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map6": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map7": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

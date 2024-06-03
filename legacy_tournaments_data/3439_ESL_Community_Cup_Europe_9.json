@@ -1,0 +1,114 @@
+{
+    "tournament_info": [
+        {
+            "name": "ESL Community Cup #9 Europe",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "ESL Community Cup Europe",
+            "shortname": "9",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2016-04-17",
+            "prizepoolusd": "",
+            "web": "http://play.eslgaming.com/overwatch/",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "http://play.eslgaming.com/overwatch/europe/overwatch/open/community-cup-9-europe/rankings/",
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "3",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "4-25",
+            "image": "",
+            "size": "",
+            "p1": "Anak ",
+            "p1flag": "by",
+            "p2": "Arty ",
+            "p2flag": "ua",
+            "p3": "Dikker ",
+            "p3flag": "ru",
+            "p4": "GunroX ",
+            "p4flag": "ua",
+            "p5": "Rubikon ",
+            "p5flag": "ru",
+            "p6": "kensi ",
+            "p6flag": "ua"
+        },
+        {
+            "team": "NoHeaven",
+            "image": "",
+            "size": "",
+            "p1": "Adrenaline ",
+            "p1flag": "it",
+            "p2": "Ambushino ",
+            "p2flag": "it",
+            "p3": "Hinu ",
+            "p3flag": "it",
+            "p4": "LinK ",
+            "p4flag": "it",
+            "p5": "Lollao ",
+            "p5flag": "it",
+            "p6": "Carnifex ",
+            "p6flag": "it"
+        },
+        {
+            "team": "MIX6",
+            "image": "",
+            "size": "",
+            "p1": "BuHorPaduHa ",
+            "p1flag": "ru",
+            "p2": "Chrollo ",
+            "p2flag": "ru",
+            "p3": "DeadlyMouse ",
+            "p3flag": "ru",
+            "p4": "Fyzu ",
+            "p4flag": "ru",
+            "p5": "SilencedDoom ",
+            "p5flag": "ru",
+            "p6": "clozz ",
+            "p6flag": "by"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "mix6",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "4-25",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "noheaven",
+            "score2": "2",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "4-25",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

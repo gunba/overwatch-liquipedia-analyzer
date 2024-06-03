@@ -1,0 +1,509 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Hammer Cup #1",
+            "shortname": "Hammer Cup #1",
+            "tickername": "Hammer Cup #1",
+            "icon": "Hammer Cup.png",
+            "image": "Hammer Cup.png",
+            "series": "Hammer Cup",
+            "abbreviation": "#1",
+            "organizer": "smgJJ",
+            "sponsor": "[https://www.verykuai.com/ VeryKuai]",
+            "type": "Online",
+            "country": "China",
+            "game": "overwatch2",
+            "format": "'''Group Stage''': Round Robin<br/>'''Playoffs''': Double Elimination",
+            "localcurrency": "cny",
+            "prizepool": "2500",
+            "sdate": "2023-03-24",
+            "edate": "2023-04-23",
+            "rulebook": "",
+            "bracket": "",
+            "bilibili": "82356297",
+            "team_number": "49",
+            "next": "Hammer_Cup/2 {{!}} Hammer Cup #2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "\u7f8e\u56fd\u7bee\u7403\u6821\u961f",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Ammo",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Team KK",
+            "p1": "EnD3r|p1flag=cn|pos1=dps",
+            "p2": "HASU|p2flag=cn|pos2=dps",
+            "p3": "k0trol|p3flag=cn|pos3=tank",
+            "p4": "Jay|p4flag=cn|pos4=sup",
+            "p5": "colors|p5flag=cn|pos5=sup"
+        },
+        {
+            "team": "\u56f4\u7089\u716e\u9152",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Ouyue Esport",
+            "p1": "ECC|p1flag=cn|pos1=dps",
+            "p2": "SOOJIN|p2flag=cn|pos2=dps",
+            "p3": "ZZ2|p3flag=us|pos3=tank|p3link=Spike",
+            "p4": "HK3|p4flag=HK|pos4=tank",
+            "p5": "DMS|p4flag=|pos4=sup",
+            "p6": "Salvation|p5flag=CN|pos5=sup",
+            "p7": "Sa1nt|p6flag=cn|pos6=sup|p6link=Xi Guofei",
+            "t2title": "Staff",
+            "t2c1": "HK3|t2c1flag=hk|t2c1pos=manager",
+            "t2c2": "Ninibaby|t2c2flag=cn|t2c2pos=manager"
+        },
+        {
+            "team": "\u5609\u5e74\u534e\u68a6\u4e4b\u961f",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "\u902e\u54e5\u961f",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "\u83dc\u9e1f\u8054\u76df",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "\u8d70\u75af\u72c2",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "AT70S",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "RRO",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "\u6700\u9ad8\u57ce",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "X-Gaming",
+            "p1": "Linabell|p1flag=cn|pos1=dps",
+            "p2": "SkyShow|p2flag=cn|pos2=dps",
+            "p3": "Zeal|p3flag=cn|pos3=tank|p3link=Zeal (Chinese Player)",
+            "p4": "Enrik|p4flag=cn|pos4=tank",
+            "p5": "B3cky|p5flag=cn|pos5=sup",
+            "p6": "saya|p6flag=cn|pos6=sup",
+            "p7": "M1ka|p7flag=cn|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Sci_M3|t2c1flag=cn|t2c1pos=coach",
+            "t2c2": "Cointree|t2c2flag=hk|t2c2pos=manager"
+        },
+        {
+            "team": "NGU-A",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "GGWP",
+            "p1": "Hit|p1flag=kr|pos1=dps",
+            "p2": "Yoppin|p2flag=|pos2=dps",
+            "p3": "Krystal|p3flag=|pos3=dps",
+            "p4": "M0CHA|p4flag=|pos4=tank",
+            "p5": "karma|p5flag=kr|pos5=sup|p5link=karma (Korean player)",
+            "p6": "Raindrop|p6flag=|pos6=sup"
+        },
+        {
+            "team": "\u6c99\u9996\u963f\u76d0\u961f",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "April 14, 2023 - 21:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u7f8e\u56fd\u7bee\u7403\u6821\u961f|score=0}}",
+            "opponent2": "{{TeamOpponent|Ammo|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 14, 2023 - 18:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Team KK}}",
+            "opponent2": "{{TeamOpponent|\u56f4\u7089\u716e\u9152}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 14, 2023 - 19:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ouyue Esport}}",
+            "opponent2": "{{TeamOpponent|\u5609\u5e74\u534e\u68a6\u4e4b\u961f}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=Blizzard World|mode=hybrid|score1=4|score2=3|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "April 14, 2023 - 19:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u902e\u54e5\u961f|score=2}}",
+            "opponent2": "{{TeamOpponent|\u83dc\u9e1f\u8054\u76df|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "April 14, 2023 - 20:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u8d70\u75af\u72c2}}",
+            "opponent2": "{{TeamOpponent|AT70S}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Hollywood|mode=hybrid|score1=4|score2=3|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "April 14, 2023 - 20:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|RRO|score=2}}",
+            "opponent2": "{{TeamOpponent|\u6700\u9ad8\u57ce|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "April 14, 2023 - 21:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|X-Gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|NGU-A|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "April 14, 2023 - 21:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|GGWP|score=2}}",
+            "opponent2": "{{TeamOpponent|\u6c99\u9996\u963f\u76d0\u961f|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "April 15, 2023 - 18:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ammo|score=0}}",
+            "opponent2": "{{TeamOpponent|Team KK|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 15, 2023 - 18:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ouyue Esport|score=2}}",
+            "opponent2": "{{TeamOpponent|\u902e\u54e5\u961f|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "April 15, 2023 - 19:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u8d70\u75af\u72c2|score=1}}",
+            "opponent2": "{{TeamOpponent|RRO|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "April 15, 2023 - 19:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|X-Gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|GGWP|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "April 15, 2023 - 20:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Team KK|score=2}}",
+            "opponent2": "{{TeamOpponent|Ouyue Esport|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "April 15, 2023 - 21:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|RRO|score=1}}",
+            "opponent2": "{{TeamOpponent|X-Gaming|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "April 22, 2023 - 20:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Team KK|score=0}}",
+            "opponent2": "{{TeamOpponent|X-Gaming|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M1="
+        },
+        {
+            "date": "April 16, 2023 - 18:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u7f8e\u56fd\u7bee\u7403\u6821\u961f|score=3}}",
+            "opponent2": "{{TeamOpponent|\u56f4\u7089\u716e\u9152|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M9="
+        },
+        {
+            "date": "April 16, 2023 - 19:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u5609\u5e74\u534e\u68a6\u4e4b\u961f|score=3}}",
+            "opponent2": "{{TeamOpponent|\u83dc\u9e1f\u8054\u76df|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M10="
+        },
+        {
+            "date": "April 16, 2023 - 21:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|AT70S|score=2}}",
+            "opponent2": "{{TeamOpponent|\u6700\u9ad8\u57ce|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M11="
+        },
+        {
+            "date": "April 16, 2023 - 22:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|NGU-A|score=3}}",
+            "opponent2": "{{TeamOpponent|\u6c99\u9996\u963f\u76d0\u961f|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M12="
+        },
+        {
+            "date": "April 21, 2023 - 19:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|GGWP|score=3}}",
+            "opponent2": "{{TeamOpponent|\u7f8e\u56fd\u7bee\u7403\u6821\u961f|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "April 21, 2023 - 19:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u8d70\u75af\u72c2|score=1}}",
+            "opponent2": "{{TeamOpponent|\u5609\u5e74\u534e\u68a6\u4e4b\u961f|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "April 21, 2023 - 20:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u902e\u54e5\u961f|score=3}}",
+            "opponent2": "{{TeamOpponent|\u6700\u9ad8\u57ce|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "April 21, 2023 - 18:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ammo|score=3}}",
+            "opponent2": "{{TeamOpponent|NGU-A|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "April 21, 2023 - 21:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|GGWP|score=3}}",
+            "opponent2": "{{TeamOpponent|\u5609\u5e74\u534e\u68a6\u4e4b\u961f|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "April 21, 2023 - 21:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u902e\u54e5\u961f|score=0}}",
+            "opponent2": "{{TeamOpponent|Ammo|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "April 22, 2023 - 18:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ouyue Esport|score=0}}",
+            "opponent2": "{{TeamOpponent|GGWP|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "April 22, 2023 - 18:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|RRO|score=0}}",
+            "opponent2": "{{TeamOpponent|Ammo|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "April 22, 2023 - 21:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|GGWP|score=3}}",
+            "opponent2": "{{TeamOpponent|Ammo|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "April 23, 2023 - 19:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Team KK|score=1}}",
+            "opponent2": "{{TeamOpponent|GGWP|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M2="
+        },
+        {
+            "bestof": "7",
+            "date": "April 23, 2023 - 21:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|X-Gaming|score=3}}",
+            "opponent2": "{{TeamOpponent|GGWP|score=4}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map6": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map7": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R7M1="
+        }
+    ]
+}

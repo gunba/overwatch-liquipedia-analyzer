@@ -1,0 +1,262 @@
+{
+    "tournament_info": [
+        {
+            "name": "Good Gaming Overwatch NA Series 11",
+            "shortname": "11",
+            "image": "Goodgaming logo.png",
+            "series": "Good Gaming Overwatch NA Series",
+            "organizer": "Good Gaming",
+            "organizer-link": "https://www.good-gaming.com/",
+            "sponsor": "",
+            "type": "Online",
+            "country": "USA",
+            "format": "Single Elimination",
+            "date": "2017-03-24",
+            "prizepoolusd": "500",
+            "web": "https://www.good-gaming.com/",
+            "twitch": "",
+            "bracket": "https://www.good-gaming.com/tournament/results/189",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "9"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Toronto Esports",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Ego Check",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "never lucky",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "MATTER",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "UNCC",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Liberum Tempus",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "D'Eichenwalde",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Brasil Gaming House Red",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Silver Sanction",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "silver sanction",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "never lucky",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "uncc",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "liberum tempus",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "ego check",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "d'eichenwalde",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "toronto esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "matter",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D15",
+            "team1": "brasil gaming house red",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "uncc",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "never lucky",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "ego check",
+            "score2": "1",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "liberum tempus",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "toronto esports",
+            "score2": "1",
+            "win2": "1",
+            "key": "R2W5",
+            "team1": "d'eichenwalde",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "brasil gaming house red",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "matter",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "ego check",
+            "score2": "1",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "never lucky",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "matter",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W3",
+            "team1": "toronto esports",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "toronto esports",
+            "score2": "1",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "ego check",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "matter",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "never lucky",
+            "score1": "1",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

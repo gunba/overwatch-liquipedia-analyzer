@@ -1,0 +1,433 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Dragons Community Open Tournament #3",
+            "shortname": "Dragons Community Open Tournament #3",
+            "tickername": "Dragons Community Open Tournament #3",
+            "icon": "Dragons Esport overwatch allmode.png",
+            "image": "Dragons Esport overwatch allmode.png",
+            "organizer": "Dragons Esport",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "France",
+            "format": "Double Elimination",
+            "prizepool": "100",
+            "localcurrency": "eur",
+            "date": "2023-12-17",
+            "twitter": "Dragons_OW",
+            "discord": "DragonsEsport",
+            "youtube": "@dragons_esport",
+            "rulebook": "https://drive.google.com/file/d/1EqC4RrVd2oeVbfrmvm7qXyJLL40jDEkH",
+            "bracket": "https://play.toornament.com/fr/tournaments/7327623734265602048/",
+            "team_number": "14"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dragon's Homies",
+            "p1": "Warglabidoo|p1flag=fr|pos1=dps",
+            "p2": "TheCloudKid|p2flag=fr|pos2=dps",
+            "p3": "Terozz|p3flag=fr|pos3=tank",
+            "p4": "Otakaw|p4flag=fr|pos4=sup",
+            "p5": "Bak4ra|p5flag=fr|pos5=sup"
+        },
+        {
+            "team": "AT Lotus",
+            "p1": "Pitchoune816|p1flag=fr|pos1=dps",
+            "p2": "Lawood|p2flag=fr|pos2=dps",
+            "p3": "Dr.dadou|p3flag=fr|pos3=dps",
+            "p4": "Langou|p4flag=fr|pos4=tank",
+            "p5": "Adrix|p5flag=fr|pos5=sup",
+            "p6": "MisterPeter|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "Brawl Party",
+            "p1": "Sined|p1flag=fr|pos1=dps",
+            "p2": "tiagolini|p2flag=pt|pos2=dps",
+            "p3": "Blackpink|p3flag=ch|pos3=tank",
+            "p4": "Schef|p4flag=nl|pos4=sup",
+            "p5": "Laubee|p5flag=nl|pos5=sup",
+            "p6": "jayp7|p6flag=no|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "turtleeeee|t2c1flag=no|t2c1pos=manager",
+            "t2c2": "FDD|t2c2flag=fr|t3c2pos=manager"
+        },
+        {
+            "team": "Funny fellas",
+            "p1": "wys|p1flag=gb|pos1=dps",
+            "p2": "Asaru|p2flag=fr|pos2=dps",
+            "p3": "ShuYuji|p3flag=kz|pos3=tank",
+            "p4": "Dockiy|p4flag=de|pos4=sup",
+            "p5": "Johnowich|p5flag=dk|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "turtleeeee|t2c1flag=no|t2c1pos=manager"
+        },
+        {
+            "team": "DsP / Helix",
+            "p1": "Havok|p1flag=|pos1=dps",
+            "p2": "Rizoko|p2flag=|pos2=dps",
+            "p3": "Benjiro|p3flag=|pos3=tank",
+            "p4": "Perseus|p4flag=|pos4=sup",
+            "p5": "Flayzer|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Wrath Esport",
+            "p1": "Away|p1flag=|pos1=dps",
+            "p2": "Aureeeeld|p2flag=|pos2=dps",
+            "p3": "Supersaucisse|p3flag=|pos3=tank",
+            "p4": "Sadppy|p4flag=|pos4=sup",
+            "p5": "Lyo|p5flag=|pos5=sup"
+        },
+        {
+            "team": "sharp knife",
+            "p1": "Another1|p1flag=fi|pos1=dps",
+            "p2": "Trippi|p2flag=nl|pos2=dps",
+            "p3": "Ossi|p3flag=fi|pos3=tank",
+            "p4": "Baxter|p4flag=dk|pos4=supp",
+            "p5": "Verit|p5flag=fi|pos5=supp",
+            "t2title": "Staff",
+            "t2c1": "Timosoini|t2c1flag=fi|t2c1pos=coach",
+            "t2c2": "Baxter|t2c2flag=dk|t2c2pos=manager",
+            "t2c3": "Ossi|t2c3flag=fi|t2c3pos=manager",
+            "t2c4": "FDD|t2c4flag=fr|t2c4pos=manager"
+        },
+        {
+            "team": "GG - Aise",
+            "p1": "Hyaku|p1flag=|pos1=dps",
+            "p2": "Kathannas|p2flag=|pos2=dps",
+            "p3": "Controw|p3flag=|pos3=dps",
+            "p4": "CuteWolf|p4flag=|pos4=tank",
+            "p5": "Giorno|p5flag=|pos5=sup",
+            "p6": "Nonop33|p6flag=|pos6=sup",
+            "p7": "Mahtolle|p7flag=|pos7=flex"
+        },
+        {
+            "team": "DSC' Ares",
+            "p1": "czaKes|p1flag=fr|pos1=dps",
+            "p2": "Hydree|p2flag=fr|pos2=dps",
+            "p3": "Quasar|p3flag=fr|pos3=dps",
+            "p4": "Mojo|p4flag=fr|pos4=tank",
+            "p5": "Tauxic|p5flag=fr|pos5=sup",
+            "p6": "Cripto|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "Supershy",
+            "p1": "alexey|pos1=dps",
+            "p2": "Zorrow|pos2=dps",
+            "p3": "FakeJake|p3flag=pl|pos3=dps",
+            "p4": "Willys07|p4flag=se|pos4=tank",
+            "p5": "Hitori|p5flag=de|pos5=tank",
+            "p6": "Podonova|p6flag=be|pos6=support",
+            "p7": "Alpha|p7flag=gb|pos7=support|p7link=Alpha (British player)",
+            "p8": "CaptainPrash|p8flag=gb|pos8=support",
+            "t2title": "Staff",
+            "t2c1": "Loyn|t2c1flag=fr|t2c1pos=coach",
+            "t2c2": "Cointree|t2c2flag=hk|t2c2pos=coach|t2c2team=Twisted Minds",
+            "t2c3": "Predo|t2c3flag=de|t2c3pos=coach"
+        },
+        {
+            "team": "Laziers of Oz",
+            "p1": "DarthMurloc|p1flag=ru|pos1=dps",
+            "p2": "Kisara|p2flag=ru|pos2=dps",
+            "p3": "Woodsfrank|p3flag=ru|pos3=tank",
+            "p4": "Yato|p4flag=ru|pos4=sup",
+            "p5": "\u041c\u044f\u0442\u043d\u044b\u0439\u0427\u0430\u0439|p5flag=ru|pos5=sup"
+        },
+        {
+            "team": "DSP / Sector Zero",
+            "p1": "basaka|p1flag=|pos1=dps",
+            "p2": "Shuka|p2flag=|pos2=dps",
+            "p3": "Madworld|p3flag=|pos3=tank",
+            "p4": "Astan|p4flag=|pos4=sup",
+            "p5": "Dylan.|p5flag=|pos5=sup"
+        },
+        {
+            "team": "BOLLmeiN",
+            "p1": "Krico|p1flag=|pos1=dps",
+            "p2": "Ziggy|p2flag=|pos2=dps",
+            "p3": "mainichi|p3flag=|pos3=tank",
+            "p4": "KOfe|p4flag=|pos4=sup",
+            "p5": "Nosebleed|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Tomb raider ps1",
+            "p1": "Alcazik|p1flag=|pos1=dps",
+            "p2": "Azkaal|p2flag=|pos2=dps",
+            "p3": "Vipercross|p3flag=|pos3=tank",
+            "p4": "ConanTheD|p4flag=|pos4=sup",
+            "p5": "Arsenik|p5flag=|pos5=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Laziers of Oz|score=2}}",
+            "opponent2": "{{TeamOpponent|AT Lotus|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Tomb Raider ps1|score=0}}",
+            "opponent2": "{{TeamOpponent|Dragon's Homies|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Brawl Party|score=2}}",
+            "opponent2": "{{TeamOpponent|DSP Sector Zero|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|sharp knife|score=2}}",
+            "opponent2": "{{TeamOpponent|BOLLmeiN|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Supershy|score=2}}",
+            "opponent2": "{{TeamOpponent|DsP Helix|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|DSC' Ares|score=0}}",
+            "opponent2": "{{TeamOpponent|Funny Fellas|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Wrath Esport|score=2}}",
+            "opponent2": "{{TeamOpponent|Laziers of Oz|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dragon's Homies|score=1}}",
+            "opponent2": "{{TeamOpponent|Brawl Party|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|GG - Aise|score=0}}",
+            "opponent2": "{{TeamOpponent|sharp knife|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Supershy|score=2}}",
+            "opponent2": "{{TeamOpponent|Funny fellas|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Wrath Esport|score=0}}",
+            "opponent2": "{{TeamOpponent|Brawl Party|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|sharp knife|score=2}}",
+            "opponent2": "{{TeamOpponent|Supershy|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Brawl Party|score=2}}",
+            "opponent2": "{{TeamOpponent|sharp knife|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M1="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|DSC' Ares|score=2}}",
+            "opponent2": "{{TeamOpponent|DsP Helix|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|DSP Sector Zero|score=2}}",
+            "opponent2": "{{TeamOpponent|Tomb Raider ps1|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "bestof": "1",
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dragon's Homies|score=1}}",
+            "opponent2": "{{TeamOpponent|DSC' Ares|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "bestof": "1",
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Laziers of Oz|score=1}}",
+            "opponent2": "{{TeamOpponent|BOLLmeiN|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "bestof": "1",
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Funny fellas|score=1}}",
+            "opponent2": "{{TeamOpponent|DSP Sector Zero|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M7="
+        },
+        {
+            "bestof": "1",
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|GG - Aise|score=1}}",
+            "opponent2": "{{TeamOpponent|AT Lotus|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M8="
+        },
+        {
+            "bestof": "1",
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dragon's Homies|score=1}}",
+            "opponent2": "{{TeamOpponent|Laziers of Oz|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "bestof": "1",
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Funny fellas|score=1}}",
+            "opponent2": "{{TeamOpponent|GG - Aise|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "1",
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Supershy|score=1}}",
+            "opponent2": "{{TeamOpponent|Dragon's Homies|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M3="
+        },
+        {
+            "bestof": "1",
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Wrath Esport|score=0}}",
+            "opponent2": "{{TeamOpponent|Funny fellas|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M4="
+        },
+        {
+            "bestof": "1",
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Supershy|score=1}}",
+            "opponent2": "{{TeamOpponent|Funny Fellas|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|sharp knife|score=0}}",
+            "opponent2": "{{TeamOpponent|Supershy|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M2="
+        },
+        {
+            "date": "2023-12-17",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Brawl Party|score=0}}",
+            "opponent2": "{{TeamOpponent|Supershy|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R7M1="
+        }
+    ]
+}

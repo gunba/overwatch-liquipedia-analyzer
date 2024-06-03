@@ -1,0 +1,155 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Qualifier",
+            "name": "NECC Fall 2022 Overwatch Playoffs - Navigators East",
+            "shortname": "NECC Fall 2022 Overwatch Playoffs - Navigators East",
+            "tickername": "",
+            "icon": "NECC 2021 lightmode.png",
+            "image": "NECC 2021 lightmode.png",
+            "organizer": "NECC",
+            "type": "Online",
+            "country": "United States",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "sdate": "2022-11-17",
+            "edate": "2022-12-08",
+            "twitter": "neccgames",
+            "twitch": "necc_esports",
+            "youtube": "@NECC_esports",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Clark Obsidian",
+            "p1": "DerpDragon|p1flag=us|pos1=dps",
+            "p2": "Nuggie|p2flag=us|pos2=dps",
+            "p3": "Valenlord|p3flag=us|pos3=tank",
+            "p4": "Kamba|p4flag=us|pos4=sup",
+            "p5": "GreenMemes|p5flag=us|pos5=sup",
+            "t2title": "Coaches",
+            "t2c1": "Spark|t2c1flag=us|t2pos1=Coach|t2c1link=Spark (American coach)",
+            "t2c2": "Shifty|t2c2flag=us|t2pos2=Assistant Coach",
+            "placement": "2"
+        },
+        {
+            "team": "Catawba Blue",
+            "p1": "BushidoHenz",
+            "p2": "Lucky",
+            "p3": "Darknessdoge",
+            "p4": "natedawg",
+            "p5": "Slezkin",
+            "p6": "BigZach",
+            "placement": "1"
+        },
+        {
+            "team": "Midway University",
+            "p1": "Yeagerr",
+            "p2": "MythGamez",
+            "p3": "HolyCaliburn",
+            "p4": "Savanna",
+            "p5": "madirenae",
+            "p6": "HumanTM",
+            "p7": "Kie917",
+            "p8": "EMAN03",
+            "placement": "4"
+        },
+        {
+            "team": "Rio Grande",
+            "p1": "Ghoul |p6link=Ghoul (American)",
+            "p2": "CallMeMassie",
+            "p3": "Theory03",
+            "p4": "MadPuppy9566",
+            "p5": "Anonymouse",
+            "p6": "zappy123",
+            "placement": "3"
+        },
+        {
+            "team": "Champlain Teal",
+            "p1": "TreeckoRalts",
+            "p2": "SteveShack",
+            "p3": "Zemmiphobia",
+            "p4": "Duncanqwe",
+            "p5": "DrunknYetti",
+            "p6": "melon|p6link=melon (Collegiate_Player)",
+            "placement": "5"
+        },
+        {
+            "team": "SUNY Oneonta",
+            "p1": "TheDramaKing",
+            "p2": "Hoya",
+            "p3": "Shattered",
+            "p4": "Greenbird15",
+            "p5": "Uiee",
+            "p6": "THEIRONTACO",
+            "p7": "intruder",
+            "p8": "SilverSlush",
+            "placement": "6"
+        },
+        {
+            "team": "Defiance College",
+            "p1": "MemeMan42069",
+            "p2": "Orpheus",
+            "p3": "Arc",
+            "p4": "Dottoe1",
+            "p5": "sparngle",
+            "p6": "StoopKidd15",
+            "p7": "GasemYpassem",
+            "p8": "Coralraven",
+            "placement": "7"
+        },
+        {
+            "team": "Clark Chromatic",
+            "p1": "DigiPhoenix|p1flag=us|pos1=dps",
+            "p2": "r1chard|p2flag=us|pos2=dps",
+            "p3": "ConnorEsport|p3flag=us|pos3=tank",
+            "p4": "Athlas|p4flag=ca|pos4=sup",
+            "p5": "Jackaboy|p5flag=us|pos5=sup",
+            "t2title": "Substitute",
+            "t2p1": "Minever|t2p1flag=us|t2pos1=dps",
+            "t3title": "Coaches",
+            "t3c1": "Spark|t3c1flag=us|t3pos1=Coach|t3c1link=Spark (American coach)",
+            "t3c2": "Shifty|t3c2flag=us|t3pos2=Assistant Coach",
+            "placement": "8"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "",
+            "opponent1": "{{TeamOpponent|clark university obsidian|score=3}}",
+            "opponent2": "{{TeamOpponent|clark university chromatic|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|university of rio grande|score=3}}",
+            "opponent2": "{{TeamOpponent|champlain college teal|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|catawba college blue|score=3}}",
+            "opponent2": "{{TeamOpponent|defiance college|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|midway university|score=3}}",
+            "opponent2": "{{TeamOpponent|suny oneonta|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|clark university obsidian|score=3}}",
+            "opponent2": "{{TeamOpponent|university of rio grande|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|catawba college blue|score=3}}",
+            "opponent2": "{{TeamOpponent|midway university|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|clark university obsidian|score=1}}",
+            "opponent2": "{{TeamOpponent|catawba college blue|score=4}}",
+            "optional": "R3M1="
+        }
+    ]
+}

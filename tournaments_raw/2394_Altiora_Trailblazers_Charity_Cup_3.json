@@ -1,0 +1,144 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Altiora Trailblazers Charity Cup #3",
+            "shortname": "Altiora Trailblazers Charity Cup #3",
+            "tickername": "Altiora Trailblazers Charity Cup #3",
+            "image": "Altiora 2022 lightmode.png",
+            "imagedark": "Altiora 2022 darkmode.png",
+            "icon": "Altiora 2022 lightmode.png",
+            "icondark": "Altiora 2022 darkmode.png",
+            "organizer": "Altiora",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "prizepoolusd": "400",
+            "sdate": "2023-05-26",
+            "edate": "2023-05-28",
+            "twitter": "Altiora_Gaming",
+            "discord": "altiora",
+            "twitch": "Altiora_Gaming",
+            "rulebook": "https://altiora.gg/wp-content/uploads/2023/05/Altiora-Trailblazers-Overwatch-Handbook-v3.pdf",
+            "bracket": "https://www.communitygaming.io/tournament/altiora-trailblazers-may",
+            "team_number": "5",
+            "previous": "Altiora_Trailblazers_Charity_Cup/2 {{!}} Altiora Trailblazer Charity Cup #2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dani's Dippers",
+            "p1": "Spectr|p1flag=us|pos1=dps",
+            "p2": "konata3212|p2flag=uk|pos2=dps",
+            "p3": "BallinDani|p3flag=ie|pos3=tank",
+            "p4": "emarasu|p4flag=ie|pos4=sup",
+            "p5": "ruarc|p5flag=ie|pos5=sup"
+        },
+        {
+            "team": "WHIPLASH",
+            "p1": "Mini|p1flag=uk|pos1=dps|p1link=Mini (British player)",
+            "p2": "senna|p2flag=nl|pos2=dps",
+            "p3": "m5ri|p3flag=us|pos3=tank",
+            "p4": "pandi|p4flag=de|pos4=sup",
+            "p5": "shush|p5flag=mx|pos5=sup|p5link=shush (Mexican Player)"
+        },
+        {
+            "team": "Sheer Hot",
+            "p1": "Aka|p1flag=es|pos1=dps",
+            "p2": "capeachy|p2flag=es|pos2=dps",
+            "p3": "Saker|p3flag=es|pos3=tank",
+            "p4": "aleexia|p4flag=es|pos4=sup",
+            "p5": "zoru|p5flag=es|pos5=sup"
+        },
+        {
+            "team": "Gods Among You",
+            "p1": "nyoom|p1flag=uk|pos1=",
+            "p2": "Sketchi|p2flag=uk|pos2=",
+            "p3": "Flappy|p3flag=uk|pos3=",
+            "p4": "cjlessthan3|p4flag=ie|pos4=",
+            "p5": "X1ma|p5flag=tr|pos5="
+        },
+        {
+            "team": "The Plague",
+            "p1": "RianneTV|p1flag=nl|pos1=",
+            "p2": "Epylrata|p2flag=de|pos2=",
+            "p3": "BlackIce|p3flag=uk|pos3=",
+            "p4": "JunkerQueenSimp|p4flag=de|pos4=",
+            "p5": "MiniMina|p5flag=de|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-05-26",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|The Plague|score=0}}",
+            "opponent2": "{{TeamOpponent|Dani's Dippers|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M1="
+        },
+        {
+            "date": "2023-05-26",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|WHIPLASH|score=2}}",
+            "opponent2": "{{TeamOpponent|Gods Among You|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M2="
+        },
+        {
+            "date": "2023-05-26",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=}}",
+            "opponent2": "{{LiteralOpponent|BYE|score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M3="
+        },
+        {
+            "date": "2023-05-27",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|WHIPLASH|score=2}}",
+            "opponent2": "{{TeamOpponent|Dani's Dippers|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M4="
+        },
+        {
+            "date": "2023-05-27",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "opponent2": "{{TeamOpponent|Gods Among You|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M5="
+        },
+        {
+            "date": "2023-05-28",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|WHIPLASH|score=2}}",
+            "opponent2": "{{TeamOpponent|Sheer Hot|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M6="
+        },
+        {
+            "date": "2023-05-28",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dani's Dippers|score=2}}",
+            "opponent2": "{{TeamOpponent|Gods Among You|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M7="
+        }
+    ]
+}

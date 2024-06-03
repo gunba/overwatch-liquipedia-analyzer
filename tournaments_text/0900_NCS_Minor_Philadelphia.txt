@@ -1,0 +1,144 @@
+{{DISPLAYTITLE:NCS Minor - Overwatch: Philadelphia}}
+{{Infobox league
+|name=NCS Minor - Overwatch: Philadelphia
+|image=NCS logo.png
+|series=Nerd Street Gamers
+|abbreviation=NCS
+|shortname=NCS Minor - Philadelphia
+|tickername=NCS Minor - Philadelphia
+|icon=NCS icon.png
+|organizer=N3rd Street Gamers
+|organizer-link=http://nsg.gg/
+|type=Offline
+|country=United States
+|city=Philadelphia
+|venue=[https://www.localhost.gg/philadelphia/ Localhost Arena Philadelphia]
+|format=Swiss Tournament<br>Single Elimination
+|prizepoolusd=2,500
+|date=2019-05-25
+|liquipediatier=4
+|web=https://lobby.gg/event/5c7960d7a4bf164967b2488f/fusion-overwatch-minor
+|twitter=N3rdStGamers
+|bracket=https://challonge.com/NCSPHLOW525
+|rulebook=https://docs.google.com/document/d/1JKr-LR2YemNUZRZsfue8JTsi9Uv3DC3aDjyLsxZMuwo/edit#heading=h.4d34og8
+|twitch=
+|team_number=3
+|previous=
+|next=
+}}
+
+==Information==
+===Format===
+* Swiss Tournament
+** All matches {{Abbr/Bo3}}
+* Playoffs: Single Elimination
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=Nekkra|b1name=Rosemary Kelley|b1flag=us
+|b2=punsandbuns|b2name=Christian Gillespie|b2flag=us
+}}
+
+===Prize Pool===
+$ 2,500 {{Abbr/USD}} is spread among the teams as seen below:
+{{prize pool start |cutafter=4}}
+{{prize pool slot|place=1|usdprize=1,750|gg go next|lastvs1=magna ventus|lastscore1=3|lastvsscore1=0|date1=2019-05-25}}
+{{prize pool slot|place=2|usdprize=750|magna ventus|lastvs1=gg go next|lastscore1=0|lastvsscore1=3|date1=2019-05-25}}
+{{prize pool slot|place=3|usdprize=0|visable confusion|lastvs1=magna ventus|lastscore1=0|lastvsscore1=2|date1=2019-05-25}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=GG Go Next 
+|image=
+|p1=Aeko|p1flag=us|pos1=dps
+|p2=Javion|p2flag=tt|pos2=dps
+|p3=Retnuh|p3flag=us|pos3=tank
+|p4=Carn|p4flag=us|pos4=tank
+|p5=Günther|p5flag=us|pos5=support
+|p6=THORNE|p6flag=us|pos6=support
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Magna Ventus 
+|image=
+|p1=Holiday|p1flag=us|pos1=dps
+|p2=Hkeybroke|p2flag=us|pos2=dps
+|p3=Garmmz|p3flag=us|pos3=tank
+|p4=JCB|p4flag=us|pos4=tank
+|p5=Omikse|p5flag=us|pos5=sup|p5link=Eski
+|p6=Adduuuh|p6flag=us|pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Visable Confusion
+|image=
+|p1=AlphaOmega|p1flag=us|pos1=dps
+|p2=Crusæ|p2flag=us|pos2=dps
+|p3=Hackcam|p3flag=us|pos3=tank
+|p4=TrapLogic|p4flag=us|pos4=tank
+|p5=Lannox|p5flag=us|pos5=support
+|p6=Fubarsnafu1|p6flag=us|pos6=support
+}}
+{{box|end|padding=2em}}
+
+==Results==
+===Group Stage===
+{{box|start|padding=2em}}
+{{GroupTableLeague
+|title=Group A|width=500px|show_g=true |diff=true
+|pbg1=seedup|pbg2=up|pbg3=up
+|edate=May 25, 2019 - 22:01 {{Abbr/EEST}}
+|bg1=seedup|team1=gg go next
+|bg2=up|team2=magna ventus
+|bg3=up|team3=visable confusion
+}}
+{{box|break|padding=2em}}
+{{Matchlist|id=RbtxpN7vQd
+|M1header=May 25, 2019
+|M1={{Match
+    |bestof=3
+    |date=May 25, 2019 - 20:00{{Abbr/EEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|gg go next|score=2}}
+    |opponent2={{TeamOpponent|visable confusion|score=0}}
+}}
+|M2header=
+|M2={{Match
+    |date=May 25, 2019 - 21:00 {{Abbr/EEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|magna ventus|score=0}}
+    |opponent2={{TeamOpponent|gg go next|score=2}}
+}}
+|M3header=
+|M3={{Match
+    |date=May 25, 2019 - 22:00 {{Abbr/EEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|visable confusion|score=0}}
+    |opponent2={{TeamOpponent|magna ventus|score=2}}
+}}
+}}
+{{box|end}}
+
+===Playoffs===
+{{Bracket|Bracket/2L1D|id=wzcAAw1NJ3
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=3
+    |opponent1={{TeamOpponent|magna ventus|score=2}}
+    |opponent2={{TeamOpponent|visable confusion|score=0}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |opponent1={{TeamOpponent|gg go next|score=3}}
+    |opponent2={{TeamOpponent|magna ventus|score=0}}
+}}
+}}
+
+==References==
+{{reflist}}

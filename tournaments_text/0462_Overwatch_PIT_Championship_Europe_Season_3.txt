@@ -1,0 +1,396 @@
+{{OWPITChamp Navbox}}
+{{DISPLAYTITLE:Overwatch PIT Championship - Europe Season 3}}
+{{Infobox league
+|name=Overwatch PIT Championship - Europe Season 3
+|shortname=OW PIT - EU S3
+|image=Overwatch PIT Championshiplogo.png
+|icon=Overwatch_PIT_Championshiplogo_small.png
+|series=owpitchamp
+|abbreviation=OW PIT 
+|tickername=OW PIT - EU S3
+|organizer=The One Game Agency
+|organizer-link=http://www.onegame.gg/
+|sponsor=[http://www.amd.com AMD] <br> [http://www.sapphiretech.com Sapphire] <br> [https://www.hyperxgaming.com HyperX] <br> [https://gfuel.com/ GFuel] <br> [http://www.aoc.com/ AOC Gaming] <br> [http://www.needforseatusa.com/ Needforseat] <br> [https://www.strafe.com/ Strafe]
+|patch=1.24
+|epatch=
+|type=Online
+|country=Europe
+|format=Double Elimination
+|prizepool=
+|localcurrency=
+|prizepoolusd=10,000
+|sdate=2018-05-31
+|edate=2018-06-09
+|liquipediatier={{TierText/3}}
+|web=http://overwatchpit.com/
+|twitter=overwatchpit
+|bracket=http://overwatchpit.com/schedule/
+|twitch=overwatchpit
+|youtube=channel/UCpT3k46qiCOcNjIqmovWPtw
+|team_number=8
+}}
+{{TOClimit|3}}
+
+==About==
+===Format===
+*'''Double Elimination
+** All games '''Best-of-five'''
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator|lang=English
+|b1=Bruenj|b1name=Alex Mihai Brumboiu |b1flag=ro
+|b2=Heurix
+}}
+
+==Prize Pool==
+$10,000 {{Abbr/USD}} are spread among the teams as seen below:
+{{prize pool start|cutafter=4}}
+{{prize pool slot|place=1 |usdprize=4,500 |eagle gaming |lastvs1=6nakes |lastscore1= 3|lastvsscore1= 0|date1=2018-06-09}}
+{{prize pool slot|place=2 |usdprize=2,500 |6nakes |lastvs1=eagle gaming|lastscore1= 0|lastvsscore1= 3|date1=2018-06-09}}
+{{prize pool slot|place=3 |usdprize=1,800 |cis hope|lastvs1=6nakes|lastscore1= 1|lastvsscore1= 3|date1=2018-06-09}}
+{{prize pool slot|place=4 |usdprize=1,200 |team singularity |lastvs1=cis hope|lastscore1=1 |lastvsscore1=3 |date1=2018-06-08
+}}
+{{prize pool slot|place=5-6|usdprize=0|date=2018-06-07
+|koord narwhals |lastvs1=team singularity|lastscore1=0 |lastvsscore1=3
+|northern lights |lastvs2=cis hope|lastscore2=0 |lastvsscore2=3
+}}
+{{prize pool slot|place=7-8|usdprize=0|date=2018-06-02
+|samsung morningstars blue|lastvs1=koord narwhals|lastscore1= 2|lastvsscore1= 3
+|birb bois|lastvs2= cis hope|lastscore2= 0 |lastvsscore2= 3
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=6nakes
+|image=6nakes logo.png
+|notes=2
+|p1=Asking|p1flag=fr|pos1=dps
+|p2=Nesh|pos2=dps
+|p3=Hayko|pos3=flex
+|p4=ChrisTFer|pos4=tank
+|p5=Kodak|p5flag=de|pos5=sup
+|p6=khave|p6flag=dk|pos6=sup
+|p7=awkward|pos7=sup
+|c=KDG|cflag=kr
+|c2=GizmomcS
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Singularity
+|link=Team Singularity/Team Singularity
+|p1=FahL|p1flag=|pos1=dps
+|p2=Obling|p2flag=|pos2=dps
+|p3=Molf1g|p3flag=|pos3=flex
+|p4=Nerfdd|p4flag=|pos4=tank
+|p5=Mono|p5flag=|pos5=sup
+|p6=Lind|p6flag=|pos6=sup
+|c=Sindustries|cflag=dk
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Eagle Gaming
+|p1=Leaf|p1flag=|pos1=dps
+|p2=Hqrdest|p2flag=|pos2=dps
+|p3=NiCOgdh|p3flag=|pos3=flex
+|p4=SuperPlouk|p4flag=|pos4=tank
+|p5=HyP|p5flag=|pos5=sup
+|p6=Lilbow|p6flag=|pos6=sup
+|c=moonL|cflag=
+|c2=Féfé 
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=CIS Hope
+|p1=Kensi|p1flag=|pos1=dps
+|p2=uNFixed|p2flag=|pos2=dps
+|p3=Txao|p3flag=|pos3=flex
+|p4=Sharyk|p4flag=|pos4=tank
+|p5=Engh|p5flag=|pos5=sup
+|p6=Mayn|p6flag=|pos6=sup
+|c=iLka|cflag=gr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Birb Bois
+|image=Birb Bois Logo.png
+|p1=Adi|p1flag=de |pos1=dps
+|p2=Massie|p2flag=de |pos2=dps
+|p3=Vinanrra|p3flag=es |pos3=tank
+|p4=Wat7|p4flag=at |pos4=tank
+|p5=michr|p5flag=de |pos5=sup
+|p6=Veineless|p6flag=de |pos6=sup
+|c=Losty|cflag=de
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Samsung MorningStars Blue
+|p1=Najiny|p1flag=it|pos1=dps
+|p2=thebigone|p2flag=it|pos2=dps
+|p3=DragonEddy|p3flag=it|pos3=tank
+|p4=LUFT|p4flag=ch|pos4=tank
+|p5=DNCE|p5flag=|pos5=sup
+|p6=Linepro|p6flag=es|pos6=sup
+|c=Nightslayer|cflag=it
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Northern Lights
+|image=Northern Lights logo.png
+|notes=1
+|p1=Invision|pos1=dps
+|p2=Riverboat|p2flag=tr|pos2=dps
+|p3=Kotetsu|p3flag=hu|pos3=flex
+|p4=Meza|pos4=tank
+|p5=Forsak3n|pos5=sup
+|p6=Zekor|pos6=sup
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Koord Narwhals
+|image=Koord Narwhals Logo.png
+|p1=Jellis|p1flag=uk|pos1=dps
+|p2=ksp|p2flag=uk|pos2=dps
+|p3=ottr|p3flag=se|pos3=tank
+|p4=corn|p4flag=nl|pos4=tank
+|p5=EmmaWinston|p5flag=fr|pos5=sup
+|p6=joinvoicepls|p6flag=nl|pos6=sup
+|c=Quinze|cflag=ca
+}}
+{{box|end}}
+
+{{note|1|[[Northern Lights]] announce their new lineup.  [[Veineless]] cannot play for his new team since he already played for [[Birb Bois]] in this tournament, [[Forsak3n]] steps in.<ref name="new northern lights">[https://twitter.com/NorthernLightOW/status/1004091835055312896?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fwww.over.gg%2F8428%2Feuropean-open-champs-northern-lights-announce-new-roster We are happy to announce our new roster:]</ref>}}
+{{note|2|[[Kodak]] rejoins [[6nakes]], and [[awkward]] leaves.<ref name="6nakes roster changes">[https://twitter.com/6nakesOW/status/1004376305272590337 Kodak rejoins 6nakes]</ref>}}
+
+==Results==
+{{LegacyBracket|Bracket/8U4L2DSL1D|8DETeamBracket|type=team|id=GVsIb1KmzX
+<!-- QUARTERFINALS -->
+|R1D1team= samsung morningstars blue|R1D1score= 0|R1D1win=
+|R1D2team= northern lights|R1D2score= 3|R1D2win=1
+|R1G1details={{BracketMatchSummary
+|date=May 31, 2018 - 18:00 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|vod=
+|map1= Ilios|map1score= 0-2|map1win=2
+|map2= Eichenwalde|map2score= 1-3|map2win=2
+|map3= Temple of Anubis|map3score= 3-4|map3win=2
+|overgg=8355
+|pf=50834
+|wl=
+}}
+|R1D3team= eagle gaming|R1D3score= 3|R1D3win=1
+|R1D4team= koord narwhals|R1D4score= 0|R1D4win=
+|R1G2details={{BracketMatchSummary
+|date=May 31, 2018 - 20:15 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|vod=
+|map1= Lijiang Tower|map1score= 2-0|map1win=1
+|map2= Numbani|map2score= 4-3|map2win=1
+|map3= Hanamura|map3score= 2-1|map3win=1
+|overgg=8356
+|pf=50835
+|wl=
+}}
+|R1D5team= cis hope|R1D5score=2 |R1D5win=
+|R1D6team= 6nakes|R1D6score=3 |R1D6win=1
+|R1G3details={{BracketMatchSummary
+|date=June 1, 2018 - 18:00 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|vod=
+|map1= Lijiang Tower|map1score=2-0|map1win=1
+|map2= Numbani|map2score=0-2 |map2win=2
+|map3=Hanamura |map3score=3-2 |map3win=1
+|map4= Dorado|map4score=1-2 |map4win=2
+|map5=Ilios |map5score=0-2 |map5win=2
+|overgg=8357
+|pf=50836
+|wl=
+}}
+|R1D7team= birb bois|R1D7score=2 |R1D7win=
+|R1D8team= team singularity|R1D8score=3 |R1D8win=1
+|R1G4details={{BracketMatchSummary
+|date=June 1, 2018 - 20:15 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|vod=
+|map1=Ilios |map1score=1-2 |map1win=2
+|map2=Eichenwalde |map2score=5-4 |map2win=1
+|map3=Temple of Anubis |map3score=3-4 |map3win=2
+|map4=Route 66 |map4score=3-2 |map4win=1
+|map5=Lijiang Tower |map5score=0-2 |map5win=2
+|overgg=8358
+|pf=50837
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R2W1team= northern lights|R2W1score=0 |R2W1win=
+|R2W2team= eagle gaming|R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary
+|date=June 6, 2018 - 18:00 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|vod=
+|map1= Lijiang Tower|map1score=0-2 |map1win=2
+|map2=Numbani |map2score=0-3 |map2win=2
+|map3=Hanamura |map3score=2-4 |map3win=2
+|overgg=8374
+|pf=50840
+|wl=
+}}
+|R2W3team=6nakes |R2W3score=3 |R2W3win=1
+|R2W4team=singularity |R2W4score=1 |R2W4win=
+|R2G2details={{BracketMatchSummary
+|date=June 6, 2018 - 20:15 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|vod=
+|map1=Ilios |map1score=2-1 |map1win=1
+|map2=Eichenwalde |map2score=1-2 |map2win=2
+|map3= Temple of Anubis|map3score= 3-2|map3win=1
+|map4= Route 66|map4score= 2-1|map4win=1
+|map5= |map5score= |map5win=
+|overgg=8375
+|pf=50841
+|wl=
+}}
+<!-- WINNER'S FINALS -->
+|R4W1team=eagle gaming |R4W1score=3 |R4W1win=1
+|R4W2team= 6nakes |R4W2score=1 |R4W2win=
+|R4G1details={{BracketMatchSummary
+|date=June 8, 2018 - 20:15 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|map1=Ilios |map1score=2-0 |map1win=1
+|map2=Eichenwalde |map2score=1-2 |map2win=2
+|map3=Hanamura |map3score=2-1 |map3win=1
+|map4=Route 66 |map4score=3-2 |map4win=1
+|overgg=8378
+|pf=50845
+|wl=
+}}
+<!-- LOSER'S ROUND 1 -->
+|R1D9team= samsung morningstars blue|R1D9score= 2|R1D9win=
+|R1D10team= koord narwhals|R1D10score= 3|R1D10win=1
+|R1G5details={{BracketMatchSummary
+|date=June 2, 2018 - 16:00 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|vod=
+|map1= Nepal|map1score= 0-2|map1win=2
+|map2= Numbani|map2score= 3-4|map2win=2
+|map3= Hanamura|map3score= 3-2|map3win=1
+|map4= Dorado|map4score= 3-1|map4win=1
+|map5= Ilios|map5score= 0-2|map5win=2
+|overgg=8376
+|pf=50838
+|wl=
+}}
+|R1D11team= cis hope|R1D11score= 3|R1D11win=1
+|R1D12team=birb bois |R1D12score= 0|R1D12win=
+|R1G6details={{BracketMatchSummary
+|date=June 2, 2018 - 18:15 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|vod=
+|map1= Ilios|map1score= 2-0|map1win=1
+|map2= Eichenwalde |map2score= 2-1 |map2win=1
+|map3= Temple of Anubis |map3score= 5-5 |map3win=draw
+|map4= Oasis|map4score= 2-0|map4win=1
+|overgg=8377
+|pf=50839
+|wl=
+}}
+<!-- LOSER'S ROUND 2 -->
+|R2D1team= singularity |R2D1score=3 |R2D1win=1
+|R2W5team= koord narwhals|R2W5score=0 |R2W5win=
+|R2G3details={{BracketMatchSummary
+|date=June 7, 2018 - 18:00 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|map1=Ilios |map1score=2-1 |map1win=1
+|map2=Eichenwalde |map2score=5-4 |map2win=1
+|map3=Temple of Anubis |map3score=4-3 |map3win=1
+|map4=Route 66 |map4score= |map4win=skip
+|map5=Lijiang Tower |map5score= |map5win=skip
+|overgg=8380
+|pf=50842
+|wl=
+}}
+|R2D2team= northern lights |R2D2score=0 |R2D2win=
+|R2W6team= cis hope |R2W6score=3 |R2W6win=1
+|R2G4details={{BracketMatchSummary
+|date=June 7, 2018 - 20:15 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|map1=Lijiang Tower |map1score=0-2 |map1win=2
+|map2=Numbani |map2score=0-1 |map2win=2
+|map3=Hanamura |map3score=3-4 |map3win=2
+|map4=Dorado |map4score= |map4win=skip
+|map5=Ilios |map5score= |map5win=skip
+|overgg=8379
+|pf=50843
+|wl=
+}}
+<!-- LOSER'S ROUND 3 -->
+|R3W1team=singularity |R3W1score=1 |R3W1win=
+|R3W2team=cis hope |R3W2score=3 |R3W2win=1
+|R3G1details={{BracketMatchSummary
+|date=June 8, 2018 - 18:00 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|map1=Lijiang Tower |map1score=2-1 |map1win=1
+|map2=Numbani |map2score=4-5 |map2win=2
+|map3=Hanamura |map3score=2-3 |map3win=2
+|map4=Dorado |map4score=3-4 |map4win=2
+|map5= |map5score= |map5win=
+|overgg=8382
+|pf=50844
+|wl=
+}}
+<!-- LOSER'S FINALS -->
+|R4D1team=6nakes |R4D1score= 3|R4D1win=1
+|R4W3team=cis hope |R4W3score= 1|R4W3win=
+|R4G2details={{BracketMatchSummary
+|date=June 9, 2018 - 16:00 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|map1= Lijiang Tower|map1score= 2-0|map1win=1
+|map2= Numbani|map2score= 3-1|map2win=1
+|map3= Hanamura|map3score=4-5 |map3win=2
+|map4=Dorado |map4score=2-1 |map4win=1
+|map5= |map5score= |map5win=
+|overgg=8381
+|pf=50846
+|wl=
+}}
+<!-- GRAND FINALS -->
+|R5W1team=eagle gaming |R5W1score=3 |R5W1win=1
+|R5W2team=6nakes |R5W2score=0 |R5W2win=
+|R5G1details={{BracketMatchSummary
+|date=June 9, 2018 - 17:50 {{Abbr/CEST}}
+|twitch=Overwatch Pit
+|finished=true
+|map1=Ilios |map1score=2-1 |map1win=1
+|map2=Eichenwalde |map2score=2-1 |map2win=1
+|map3=Temple of Anubis |map3score=6-5 |map3win=1
+|map4=Route 66 |map4score= |map4win=skip
+|map5=Lijiang Tower |map5score= |map5win=skip
+|overgg=8383
+|pf=50847
+|wl=
+}}
+}}
+
+==External Links==
+*{{flag/usuk}} [http://overwatchpit.com/overwatchpit-season-3/ Official Announcement]
+
+==References==
+{{Reflist}}

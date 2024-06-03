@@ -1,0 +1,272 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Monthly Final - November 2016",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "November",
+            "organizer": "ESL",
+            "format": "Single Elimination",
+            "type": "Online",
+            "country": "Europe",
+            "date": "2016-12-12",
+            "prizepoolusd": "993",
+            "localcurrency": "eur",
+            "prizepool": "900",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/november-2016-finals/rankings/",
+            "liquipediatier": "4",
+            "liquipediatiertype": "Monthly",
+            "team_number": "4",
+            "map1": "King's Row",
+            "map2": "Numbani",
+            "map3": "Watchpoint: Gibraltar",
+            "map4": "Dorado",
+            "map5": "Hanamura",
+            "map6": "Temple of Anubis",
+            "map7": "Volskaya Industries",
+            "map8": "Nepal",
+            "map9": "Lijiang Tower",
+            "map10": "Hollywood",
+            "map11": "Ilios",
+            "map12": "Route 66",
+            "map13": "Eichenwalde"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Fragsters",
+            "image": "Fragsters logo.png",
+            "p1": "Lind",
+            "p1flag": "dk",
+            "p2": "Kellex",
+            "p2flag": "dk",
+            "p3": "K1nnex",
+            "p3flag": "dk",
+            "p4": "Danii",
+            "p4flag": "dk",
+            "p5": "Nerfdd",
+            "p5flag": "dk",
+            "p6": "Cizti",
+            "p6flag": "dk"
+        },
+        {
+            "team": "Normandus",
+            "image": "",
+            "p1": "Haze",
+            "p2": "Norgac",
+            "p3": "Qu4d",
+            "p3flag": "ua",
+            "p4": "Dikker",
+            "p5": "GunroX",
+            "p6": "Eterna"
+        },
+        {
+            "team": "The Chavs",
+            "p1": "ChrisTFer ",
+            "p1flag": "uk",
+            "p2": "Sev_ ",
+            "p2flag": "uk",
+            "p3": "Shazardous ",
+            "p3flag": "fi",
+            "p4": "Snizzlenose ",
+            "p4flag": "se",
+            "p5": "fischer ",
+            "p5flag": "dk",
+            "p6": "tomzeY ",
+            "p6flag": "hu",
+            "t2title": "Staff",
+            "t2p1": "cals",
+            "t2pos1": "coach",
+            "t2p1flag": "uk"
+        },
+        {
+            "team": "OW.QQ",
+            "p1": "no1special",
+            "p1flag": "",
+            "p2": "matth",
+            "p2flag": "",
+            "p3": "\u015blepajstos",
+            "p3flag": "",
+            "p4": "ghost",
+            "p4flag": "",
+            "p4link": "ghost (Polish player)",
+            "p5": "Bartu\u015b",
+            "p5flag": "",
+            "p6": "Tank117",
+            "p6flag": ""
+        },
+        {
+            "team": "nerdRage",
+            "image": "NerdRage.png",
+            "p1": "Fletchh",
+            "p1flag": "gb",
+            "p2": "Ginger",
+            "p2flag": "gb",
+            "p3": "KingJasey",
+            "p3flag": "gb",
+            "p4": "Deansy",
+            "p4flag": "gb",
+            "p5": "RUDIAK",
+            "p5flag": "",
+            "p6": "SUSPC7",
+            "p6flag": "",
+            "p7": "EmoUsedHM01",
+            "p7flag": "gb"
+        },
+        {
+            "team": "EURONICS Gaming",
+            "p1": "MeToR",
+            "p1flag": "at",
+            "pos1": " ",
+            "p1link": "",
+            "p2": "Casores",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Sepi",
+            "p3flag": "fi",
+            "pos3": "",
+            "p4": "Feverish",
+            "p4flag": "dk",
+            "pos4": "",
+            "p5": "Petruskoff",
+            "p5flag": "fi",
+            "pos5": "",
+            "p6": "Ged",
+            "p6flag": "uk",
+            "pos6": "",
+            "p7": "arcaneee",
+            "p7flag": "se",
+            "pos7": "",
+            "t2title": "Staff",
+            "t2p1": "Kn0xX",
+            "t2pos1": "manager",
+            "t2p1flag": "de"
+        },
+        {
+            "team": "GamersOrigin",
+            "p1": "Poko",
+            "p2": "Leaf",
+            "p3": "HyP",
+            "p4": "Narwak",
+            "p5": "Kolsti",
+            "p6": "Noki",
+            "t2title": "Staff",
+            "t2p1": "daemoN",
+            "t2pos1": "coach"
+        },
+        {
+            "team": "Oslo Lions",
+            "p1": "Iko ",
+            "p1flag": "no",
+            "p2": "Invision ",
+            "p2flag": "no",
+            "p3": "Fresh ",
+            "p3flag": "no",
+            "p4": "Decod ",
+            "p4flag": "no",
+            "p5": "iPN ",
+            "p5flag": "no",
+            "p6": "Aateigen ",
+            "p6flag": "no",
+            "t2title": "Staff",
+            "t2p1": "Art",
+            "t2pos1": "coach"
+        },
+        {
+            "team": "ALTERNATE aTTaX",
+            "p1": "NexX",
+            "p2": "Bossvoice",
+            "p3": "Flow",
+            "p3flag": "de",
+            "p4": "cRNKz",
+            "p5": "Talyz",
+            "p6": "nil ",
+            "p6flag": "fi"
+        },
+        {
+            "team": "Team Vitality",
+            "p1": "Flash0or",
+            "p2": "neptuNo ",
+            "p2flag": "es",
+            "p3": "iuKeEe",
+            "p4": "Hexis",
+            "p4flag": "",
+            "p5": "Riskin",
+            "p5flag": "",
+            "p6": "ChipSa"
+        },
+        {
+            "team": "Team Exoplan",
+            "image": "Team Exoplan allmode.png",
+            "p1": "CoreySG9",
+            "p1flag": "uk",
+            "p2": "HaWxz",
+            "p2flag": "de",
+            "p3": "IDK",
+            "p3flag": "pl",
+            "p3link": "IDK (Polish player)",
+            "p4": "KvN",
+            "p4flag": "de",
+            "p5": "Petruskoff",
+            "p5flag": "fi",
+            "p6": "TruNerd",
+            "p6flag": "uk"
+        }
+    ],
+    "match_cards": [
+        {
+            "opponent1": "EURONICS Gaming|score=W",
+            "opponent2": "ALTERNATE aTTaX|score=L",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "OW.QQ|score=W",
+            "opponent2": "Team Vitality|score=L",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "Team Exoplan|score=L",
+            "opponent2": "Oslo Lions|score=W",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "Fragsters|score=W",
+            "opponent2": "nerdRage|score=L",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "EURONICS Gaming|score=L",
+            "opponent2": "The Chavs|score=W",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "GamersOrigin|score=L",
+            "opponent2": "OW.QQ|score=W",
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "Oslo Lions|score=L",
+            "opponent2": "Normandus|score=W",
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "Fragsters|score=L",
+            "opponent2": "The Chavs|score=W",
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "OW.QQ|score=W",
+            "opponent2": "Normandus|score=L",
+            "optional": "R3M2="
+        },
+        {
+            "opponent1": "The Chavs|score=W",
+            "opponent2": "OW.QQ|score=L",
+            "optional": "R4M1="
+        }
+    ]
+}

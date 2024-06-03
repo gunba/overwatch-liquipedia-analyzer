@@ -1,0 +1,145 @@
+{{Infobox league
+|liquipediatier=4
+|name=Esports Players Club Overwatch 2 Tournament
+|shortname=Esports Players Club Tournament
+|tickername=Esports Players Club Tournament
+|icon=
+|image=
+|imagedark=
+|organizer=Esports Players Club
+|organizer-link=https://www.esportsplayersclub.com/
+|series=
+|abbreviation=
+|sponsor=
+|type=Offline
+|country=United States
+|city=Tampa
+|venue=[https://www.esportsplayersclub.com/ Esports Players Club Tampa]
+|game=overwatch2
+|prizepoolusd=500
+|date=2022-11-12
+|twitter=
+|web=https://www.esportsplayersclub.com/
+|twitch=
+|twitch2=
+|discord=
+|youtube=
+|bracket=https://challonge.com/espcow2022nov
+|team_number=5
+}}
+
+==Information==
+===Format===
+*All matches are {{Abbr/Bo3}}
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=500}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Cute Capybaras
+|image=
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+}}
+{{TeamCard
+|team=ZERO
+|link=ZERO (team)
+|image=
+|p1=Hotchief|p1flag=us|pos1=
+|p2=Scop3|p2flag=us|pos2=
+|p3=AxeX01|p3flag=us|pos3=
+|p4=Cloud|p4link=Cloud (American Player)|p4flag=us|pos4=
+|p5=xThiefx|p5flag=us|pos5=
+|p6=|p6flag=|pos6=
+}}
+{{TeamCard
+|team=For The Family
+|image=
+|p1=CapShotz|p1flag=us|pos1=
+|p2=JFawkes|p2flag=us|pos2=
+|p3=JCreed|p3flag=us|pos3=
+|p4=Cryptic|p4link=Cryptic (American Player)|p4flag=us|pos4=
+|p5=Kazzra|p5flag=us|pos5=
+|p6=|p6flag=|pos6=
+}}
+{{TeamCard
+|team=Saint Leo Esports
+|image=
+|p1=ComplexCisco|p1flag=us|pos1=
+|p2=Mitchell|p2flag=us|pos2=
+|p3=xxViperxx78|p3flag=us|pos3=
+|p4=Cranberry|p4flag=us|pos4=
+|p5=Name|p5flag=us|pos5=
+|p6=|p6flag=|pos6=
+}}
+{{TeamCard
+|team=Team Solo Queue
+|image=
+|p1=Farfice|p1flag=us|pos1=
+|p2=CheleMarie|p2flag=us|pos2=
+|p3=SoulSplitter|p3flag=us|pos3=
+|p4=GoodComms|p4flag=us|pos4=
+|p5=Roogie|p5flag=us|pos5=
+|p6=|p6flag=us|pos6=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2L1DH2LU2L2D|id=zMoMPPZrnj
+
+<!-- Upper Bracket Quarterfinals -->
+|R1M1={{Match
+    |bestof=3
+    |opponent1={{TeamOpponent|saint leo esports|score=2}}
+    |opponent2={{TeamOpponent|team solo queue|score=0}}
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R2M1={{Match
+    |opponent1={{TeamOpponent|zero|score=2}}
+    |opponent2={{TeamOpponent|saint leo esports|score=1}}
+}}
+|R2M2={{Match
+    |opponent1={{TeamOpponent|for the family|score=0}}
+    |opponent2={{TeamOpponent|cute capybaras|score=2}}
+}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match
+    |opponent1={{TeamOpponent|zero|score=0}}
+    |opponent2={{TeamOpponent|cute capybaras|score=2}}
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R2M3={{Match
+    |opponent1={{TeamOpponent|for the family|score=2}}
+    |opponent2={{TeamOpponent|team solo queue|score=1}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match
+    |opponent1={{TeamOpponent|saint leo esports|score=1}}
+    |opponent2={{TeamOpponent|for the family|score=2}}
+}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match
+    |opponent1={{TeamOpponent|zero|score=2}}
+    |opponent2={{TeamOpponent|for the family|score=1}}
+}}
+
+<!-- Grand Final -->
+|R5M1={{Match
+    |opponent1={{TeamOpponent|cute capybaras|score=2}}
+    |opponent2={{TeamOpponent|zero|score=0}}
+}}
+}}

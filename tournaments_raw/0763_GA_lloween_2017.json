@@ -1,0 +1,159 @@
+{
+    "tournament_info": [
+        {
+            "name": "GA'lloween 2017",
+            "shortname": "GA'lloween 2017",
+            "image": "Gamers Assembly.png",
+            "series": "Gamers Assembly",
+            "abbreviation": "GAW",
+            "icon": "Gamersassemblyow.png",
+            "tickername": "GAW 17",
+            "organizer": "Gamers Assembly",
+            "type": "Online",
+            "country": "France",
+            "format": "Single Round Robin<br>Double Elimination",
+            "game": "overwatch",
+            "localcurrency": "eur",
+            "prizepool": "900",
+            "sdate": "2017-11-11",
+            "edate": "2017-11-12",
+            "liquipediatier": "4",
+            "web": "https://halloween.gamers-assembly.net/",
+            "twitch": "",
+            "bracket": "https://www.toornament.com/tournaments/818627636115234816/stages/907137819234156544/?_locale=fr",
+            "bracket2": "https://www.toornament.com/tournaments/818627636115234816/stages/910447386560528384/?_locale=fr",
+            "team_number": "14",
+            "previous": "GA'lloween/2016 {{!}} GAW 16",
+            "next": "GA'lloween/2018 {{!}} GAW 18"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Arcaneum Gaming",
+            "p1": "CO2 |p1flag=fr",
+            "p2": "Mojo|p2flag=fr",
+            "p3": "Potaxe|p3flag=fr",
+            "p4": "Poupouli |p4flag=fr",
+            "p5": "slayz|p5flag=fr",
+            "p6": "Burbz|p6flag=fr"
+        },
+        {
+            "team": "B'orKs",
+            "p1": "ElFalvio|p1flag=fr",
+            "p2": "Daeno|p2flag=fr",
+            "p3": "Kroops|p3flag=fr",
+            "p4": "Ylaff|p4flag=fr",
+            "p5": "Fledge|p5flag=fr",
+            "p6": "TaryGame|p6flag=fr"
+        },
+        {
+            "team": "Falcons Poitou-Charentes",
+            "p1": "Izzy|p1flag= |pos1=sup",
+            "p2": "Nuja|p2flag= |pos2=flex",
+            "p3": "Hidan|p3flag= |pos3=flex",
+            "p4": "Tek36|p4flag= |pos4=flex",
+            "p5": "HyP|p5flag= |pos5=sup",
+            "p6": "Joueur 6|p6flag=fr"
+        },
+        {
+            "team": "Gamers League",
+            "p1": "Dokut\u0101|p1flag=fr",
+            "p2": "SazRaijin|p2flag=fr",
+            "p3": "Azbuzzy|p3flag=fr",
+            "p4": "Bibouch|p4flag=fr",
+            "p5": "Paraleom|p5flag=fr",
+            "p6": "Manoxi|p6flag=fr"
+        },
+        {
+            "team": "Mojojojo Squad",
+            "p1": "Noomi|p1flag=fr",
+            "p2": "GetAmazed|p2flag=fr",
+            "p3": "Kyb|p3flag=fr|p3link=Kyb (French player) |pos3=sup",
+            "p4": "zYKK |p4flag=fr",
+            "p5": "Astikko|p5flag=fr",
+            "p6": "Leaf|p6flag=fr |pos6=flex"
+        },
+        {
+            "team": "orKs Black",
+            "p1": "YggDrasille|p1flag=fr",
+            "p2": "Claymore|p2flag=fr",
+            "p3": "Soow|p3flag=fr",
+            "p4": "Zabu|p4flag=fr",
+            "p5": "Elshyre|p5flag=fr",
+            "p6": "wSerious|p6flag=fr"
+        },
+        {
+            "team": "orKs White",
+            "p1": "KingKongBudy|p1flag=fr",
+            "p2": "Ulti|p2flag=fr",
+            "p3": "Nonex|p3flag=fr",
+            "p4": "Schroubi|p4flag=fr",
+            "p5": "Dekest|p5flag=fr",
+            "p6": "Bombiman|p6flag=fr"
+        },
+        {
+            "team": "Pour Barric",
+            "p1": "Semper|p1flag=fr",
+            "p2": "Frogglol|p2flag=fr",
+            "p3": "A!m|p3flag=fr",
+            "p4": "Zoun|p4flag=fr",
+            "p5": "Storm|p5flag=fr",
+            "p6": "SHT|p6flag=fr"
+        },
+        {
+            "team": "RedWorld Gaming",
+            "p1": "Hagjer|p1flag=fr",
+            "p2": "Osnazeni|p2flag=fr",
+            "p3": "Skeiider|p3flag=fr",
+            "p4": "Ezel|p4flag=fr",
+            "p5": "NoluZz|p5flag=fr",
+            "p6": "T\u00f8mmy|p6flag=fr"
+        },
+        {
+            "team": "Rocketo Puncho",
+            "p1": "Adurnam|p1flag=fr",
+            "p2": "Zensu|p2flag=fr",
+            "p3": "Piotreza|p3flag=fr",
+            "p4": "\u0191oxygene|p4flag=fr",
+            "p5": "Teemo|p5flag=fr",
+            "p6": "TonyTruand|p6flag=fr"
+        },
+        {
+            "team": "Spartans",
+            "p1": "John|p1flag=fr",
+            "p2": "Tyraelasylum|p2flag=fr",
+            "p3": "Lurius|p3flag=fr",
+            "p4": "padleton|p4flag=fr",
+            "p5": "Astelan|p5flag=fr",
+            "p6": "Turpinlemur|p6flag=fr"
+        },
+        {
+            "team": "Stone",
+            "p1": "JuniorJo|p1flag=fr",
+            "p2": "Utopia|p2flag=fr",
+            "p3": "Spidi|p3flag=fr",
+            "p4": "AthmoS|p4flag=fr",
+            "p5": "Toaddd|p5flag=fr",
+            "p6": "Japive|p6flag=fr"
+        },
+        {
+            "team": "Team Loco",
+            "p1": "Hikar|p1flag=fr",
+            "p2": "Clad0r|p2flag=fr",
+            "p3": "Payhache|p3flag=fr",
+            "p4": "Darkrasta|p4flag=fr",
+            "p5": "Igvar|p5flag=fr",
+            "p6": "Alm\u00e9ria|p6flag=fr"
+        },
+        {
+            "team": "Team Loco Omega",
+            "p1": "Jilou|p1flag=fr",
+            "p2": "Wasp|p2flag=fr",
+            "p3": "Roghy|p3flag=fr",
+            "p4": "Medl'R|p4flag=fr",
+            "p5": "Robsoul|p5flag=fr",
+            "p6": "Fafa|p6flag=fr"
+        }
+    ],
+    "match_cards": []
+}

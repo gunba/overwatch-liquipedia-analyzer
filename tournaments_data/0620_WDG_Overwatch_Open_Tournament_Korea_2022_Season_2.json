@@ -1,0 +1,508 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "name": "OVERWATCH OPEN TOURNAMENT 2022 Season 2",
+            "shortname": "OPENTOURNAMENT 2022 S2",
+            "series": "OPENTEST",
+            "abbreviation": "OPENTEST",
+            "tickername": "OPENTEST 2022 S2",
+            "image": "Overwatch OPENTOURNAMENT.png",
+            "icon": "Opentest icon.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "WDG",
+            "organizer2-link": "https://twitter.com/wrdngameleague",
+            "sponsor": "[https://ko.roccat.org/ ROCCAT]<br>[https://www.dongsuh.co.kr/2017/02_products/01_brand_view.asp?idx=10 Maxim T.O.P]",
+            "type": "Online/Offline",
+            "country": "South Korea",
+            "location": "Seoul",
+            "format": "Single Elimination",
+            "prizepoolusd": "1,397.33",
+            "prizepool": "2,000,000",
+            "localcurrency": "krw",
+            "sdate": "2022-10-15",
+            "edate": "2022-10-23",
+            "web": "https://www.wara.gg/bbs/board.php?bo_table=official&wr_id=168",
+            "twitter": "opentests",
+            "twitch": "overwatchkr",
+            "youtube": "channel/UCW3Cd4nva2VYEPfuR9P37jg",
+            "facebook": "WDGofficial",
+            "streams": "https://tv.naver.com/wrdngame",
+            "bracket": "https://www.wara.gg/bbs/board.php?bo_table=official&wr_id=168",
+            "discord": "SyRCq8sZMm",
+            "team_number": "54"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Elpis",
+            "p1": "ZeSin",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "S1gnature",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "wayne",
+            "p3flag": "kr",
+            "pos3": "tank",
+            "p4": "GLA002",
+            "p4flag": "kr",
+            "pos4": "tank ",
+            "p4link": "Scout",
+            "p5": "Label",
+            "p5flag": "kr",
+            "pos5": "sup",
+            "p6": "osir1s",
+            "p6flag": "kr",
+            "pos6": "sup",
+            "qualifier": "Group 2"
+        },
+        {
+            "team": "LAST DANCE",
+            "p1": "\ud53c\uc758\uce7c\ub0a0",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "\ubc14\ubca8\ub85c\uc6b0",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "\uacb0\uc18d\uc740\ub098\uc758\ubb34\uae30",
+            "p3flag": "kr",
+            "pos3": "tank",
+            "p4": "\uacf0\uac19\uc740\uc5ec\uc6b0\uba85\uac00",
+            "p4flag": "kr",
+            "pos4": "tank",
+            "p5": "\uaf2c\ubb3c\uc774\ub294\uaf2c\ubb3c\uaf2c\ubb3c",
+            "p5flag": "kr",
+            "pos5": "sup",
+            "p6": "Godfather",
+            "p6flag": "kr",
+            "pos6": "sup",
+            "qualifier": "Group 3"
+        },
+        {
+            "team": "WGS Phoenix",
+            "p1": "kspoa",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "IMP",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "Cane",
+            "p3flag": "kr",
+            "pos3": "tank",
+            "p4": "AweWatch",
+            "p4flag": "kr",
+            "pos4": "sup",
+            "p5": "freshman",
+            "p5flag": "kr",
+            "pos5": "sup ",
+            "p5link": "khd",
+            "p6": "\ud638\uc6d0\uc774\ub450\ub9c8\ub9ac\uce58\ud0a8",
+            "p6flag": "kr",
+            "pos6": "sup ",
+            "p6link": "Exy",
+            "t2title": "Staff",
+            "t2c1": "\ub300\ud1b5\ub839",
+            "t2c1pos": "head coach ",
+            "t2c1link": "Romics",
+            "t2c2": "Cane",
+            "t2c2flag": "kr",
+            "t2c2pos": "coach",
+            "t2c3": "presia",
+            "t2c3flag": "kr",
+            "t2c3pos": "manager",
+            "t3title": "Substitute",
+            "t3p1": "SNOW",
+            "t3p1flag": "kr",
+            "t3pos1": "sup ",
+            "t3p1link": "SNOW (Korean player)",
+            "t3p2": "CARU",
+            "t3p2flag": "kr",
+            "t3pos2": "sup",
+            "qualifier": "Group 5"
+        },
+        {
+            "team": "An Elite",
+            "p1": "Perr",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "Doux",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "Scarlett",
+            "p3flag": "kr",
+            "pos3": "dps",
+            "p4": "akcheon",
+            "p4flag": "kr",
+            "pos4": "tank",
+            "p5": "pressure",
+            "p5flag": "kr",
+            "pos5": "tank",
+            "p6": "RaiN",
+            "p6flag": "kr",
+            "pos6": "sup",
+            "p7": "Highly",
+            "p7flag": "kr",
+            "pos7": "sup",
+            "p8": "AD3LA",
+            "p8flag": "kr",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "INSIGHT",
+            "t2c1pos": "head coach",
+            "t2c2": "YUL",
+            "t2c2flag": "kr",
+            "t2c2pos": "coach",
+            "t2c3": "Malkadia",
+            "t2c3flag": "kr",
+            "t2c3pos": "coach",
+            "t2c4": "SBUK",
+            "t2c4flag": "kr",
+            "t2c4pos": "manager",
+            "qualifier": "Group 6"
+        },
+        {
+            "team": "Team LALAPALOOZA",
+            "p1": "ABY",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "\uc8fd\uc790\uc5d0\uc694",
+            "p2flag": "kr",
+            "pos2": "dps ",
+            "p2link": "RUFF",
+            "p3": "JCUBE",
+            "p3flag": "kr",
+            "pos3": "tank",
+            "p4": "MELLYA",
+            "p4flag": "kr",
+            "pos4": "tank",
+            "p5": "TARO",
+            "p5flag": "kr",
+            "pos5": "sup",
+            "p6": "Flirting",
+            "p6flag": "kr",
+            "pos6": "sup",
+            "c": "",
+            "cflag": "kr",
+            "qualifier": "Group 7"
+        },
+        {
+            "team": "\uba15\uba15\uc774\uc640 \uce5c\uad6c\ub4e4",
+            "p1": "Mulan",
+            "p1flag": "kr",
+            "pos1": "dps",
+            "p2": "VEXCI",
+            "p2flag": "kr",
+            "pos2": "dps",
+            "p3": "\ud0dc\uc0b0\uc774\uac00\ubb58\ub354\ud574\uc918",
+            "p3flag": "kr",
+            "pos3": "tank",
+            "p4": "\ubb38\uc11c\uc9c4",
+            "p4flag": "kr",
+            "pos4": "tank",
+            "p5": "tean",
+            "p5flag": "kr",
+            "pos5": "sup",
+            "p6": "Lup1ne",
+            "p6flag": "kr",
+            "pos6": "sup",
+            "qualifier": "Group 8"
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "October 22, 2022 - 16:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "wgs phoenix|score=W",
+            "opponent2": "\uba15\uba15\uc774\uc640 \uce5c\uad6c\ub4e4|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "October 22, 2022 - 16:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "overwatchkr",
+            "opponent1": "Team LALAPALOOZA",
+            "opponent2": "An Elite",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "October 22, 2022 - 17:10",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "overwatchkr",
+            "opponent1": "LAST DANCE",
+            "opponent2": "Elpis",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "October 22, 2022 - 18:15",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "overwatchkr",
+            "opponent1": "jngk",
+            "opponent2": "Club Of Cowards",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "62.32",
+                "score2": "97.76",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "October 23, 2022 - 16:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "overwatchkr",
+            "opponent1": "wgs phoenix",
+            "opponent2": "An Elite",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "October 23, 2022 - 17:30",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "overwatchkr",
+            "opponent1": "Elpis",
+            "opponent2": "Club Of Cowards",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "October 23, 2022 - 19:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "overwatchkr",
+            "opponent1": "wgs phoenix",
+            "opponent2": "club of cowards",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "99.22m",
+                "score2": "66.42m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

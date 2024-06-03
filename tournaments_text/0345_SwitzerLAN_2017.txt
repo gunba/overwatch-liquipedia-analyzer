@@ -1,0 +1,276 @@
+{{DISPLAYTITLE:SwitzerLAN 2017}}
+{{SwitzerLAN Navbox}}
+{{Infobox league
+|liquipediatier=3
+|series=Switzerlan
+|name=SwitzerLAN 2017
+|shortname=SwitzerLAN 2017
+|tickername=SwitzerLAN 2017
+|image=swizerlan.jpg
+|icon=Switzerlan_std.jpg
+|abbreviation=SwitzerLAN
+|organizer=SwitzerLAN
+|organizer-link=https://switzerlan.ch/
+|type=Offline
+|city=Bern
+|country=Switzerland
+|sponsor=Cisco<br>Mifcom
+|format=Round Robin<br>Single Elimination
+|localcurrency=chf
+|prizepool=2550
+|sdate=2017-10-14
+|edate=2017-10-16
+|web=https://switzerlan.ch/
+|twitter=switzerlanCH
+|discord=AwJb9mF
+|bracket=https://16.eevent.ch/turnier/?do=verlauf&id=73
+|team_number=20
+|game=overwatch
+}}
+
+
+==Overview==
+'''SwitzerLAN''' is an annual lan tournament organized by SwitzerLAN.
+
+==Information==
+===Format===
+*Round Robin group stage to determine seeding
+*Double Elimination Bracket
+*First Round and Lower Bracket Rounds are {{Abbr/Ft2}}, Upper Bracket Rounds and Lower Bracket Final are {{Abbr/Ft3}}
+
+==Prize Pool==
+{{TeamPrizePool|localcurrency=chf|import=true
+|{{Slot|localprize=1500}}
+|{{Slot|localprize=750}}
+|{{Slot|localprize=300}}
+|{{Slot|}}
+}}
+
+==Top 8 teams==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Servette Geneva eSports
+|p1=Nadir|p1flag=ch|pos1=dps
+|p2=Aisey|p2flag=ch|pos2=dps
+|p3=Helv|p3flag=ch|pos3=tank
+|p4=exTen|p4flag=ch|pos4=tank
+|p5=Neaph|p5flag=ch|pos5=sup
+|p6=Pyroenil|p6flag=ch|pos6=sup
+}}
+{{TeamCard
+|team=SPG eSports
+|p1=AbaddonOW|p1flag=ch|pos1=dps
+|p2=Shinoda|p2flag=ch|pos2=dps
+|p3=Mimi7|p3flag=ch|pos3=tank
+|p4=bogur|p4flag=ch|pos4=tank
+|p5=R3M1X|p5flag=ch|pos5=sup
+|p6=Mcjohn1|p6flag=ch|pos6=sup
+}}
+{{TeamCard
+|team=Lausanne-Sport Esports
+|p1=mjK|p1flag=ch|pos1=dps
+|p2=Jacquard|p2flag=ch|pos2=dps
+|p3=Khirya|p3flag=ch|pos3=tank
+|p4=Kiba|p4flag=ch|pos4=tank
+|p5=Flow|p5flag=ch|pos5=sup
+|p6=Torrix|p6flag=ch|pos6=sup
+}}
+{{TeamCard
+|team=SNRG NeverLate
+|p1=Gintoki113|p1flag=ch|pos1=dps
+|p2=Xcloud|p2flag=ch|pos2=dps
+|p3=Tankio|p3flag=ch|pos3=tank
+|p4=Honey|p4flag=ch|pos4=tank
+|p5=Chuechli|p5flag=ch|pos5=sup
+|p6=Sh0ckou|p6flag=ch|pos6=sup
+}}
+{{TeamCard
+|team=mYinsanity
+|p1=iZnoGoud|p1flag=ch|pos1=dps
+|p2=NiceTry|p2flag=ch|pos2=dps
+|p3=WingsOfTurtle|p3flag=ch|pos3=tank
+|p4=Rayven|p4flag=ch|pos4=tank
+|p5=Sawchuk|p5flag=ch|pos5=sup
+|p6=NiV|p6flag=ch|pos6=sup
+}}
+{{TeamCard
+|team=Synergy Esports
+|p1=Vinyl|p1flag=ch|pos1=dps
+|p2=Sharper|p2flag=ch|pos2=dps
+|p3=AtlasCH|p3flag=ch|pos3=tank
+|p4=SecheY|p4flag=ch|pos4=tank
+|p5=Lekica|p5flag=ch|pos5=sup
+|p6=Sk0rpi0n|p6flag=ch|pos6=sup
+}}
+{{TeamCard
+|team=SNRG Diversity
+|p1=Djinn|p1flag=ch|pos1=dps
+|p2=Percussorem|p2flag=ch|pos2=dps
+|p3=DejaCH|p3flag=ch|pos3=tank
+|p4=Zsines|p4flag=ch|pos4=tank
+|p5=BeFroz3n|p5flag=ch|pos5=sup
+|p6=Weeedi|p6flag=ch|pos6=sup
+}}
+{{TeamCard
+|team=Insane Gaming
+|p1=Hadorn|p1flag=ch|pos1=dps
+|p2=Terador|p2flag=ch|pos2=dps
+|p3=Abragabranth|p3flag=ch|pos3=tank
+|p4=Zamur|p4flag=ch|pos4=tank
+|p5=Minder|p5flag=ch|pos5=sup
+|p6=Tyu|p6flag=ch|pos6=sup
+}}
+{{TeamCard columns end}}
+
+==Top 8 Results==
+{{Bracket|Bracket/8U4L2DSL1D|id=XA2JxLo2pj
+
+<!-- Upper Bracket Quarterfinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=2017-10-14
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Servette Geneva eSports|score=2}}
+    |opponent2={{TeamOpponent|SNRG Diversity|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |date=2017-10-14
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|mYinsanity|score=2}}
+    |opponent2={{TeamOpponent|Synergy Esports|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M3={{Match
+    |date=2017-10-14
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Insane Gaming|score=0}}
+    |opponent2={{TeamOpponent|SPG eSports|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M4={{Match
+    |date=2017-10-14
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|SNRG NeverLate|score=0}}
+    |opponent2={{TeamOpponent|Lausanne-Sport Esports|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R2M1={{Match
+	|bestof=5
+    |date=2017-10-15
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Servette Geneva eSports|score=3}}
+    |opponent2={{TeamOpponent|mYinsanity|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+	|bestof=5
+    |date=2017-10-15
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|SPG eSports|score=3}}
+    |opponent2={{TeamOpponent|Lausanne-Sport Esports|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match
+	|bestof=5
+    |date=2017-10-16
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Servette Geneva eSports|score=0}}
+    |opponent2={{TeamOpponent|SPG eSports|score=3}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M5={{Match
+    |date=2017-10-14
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|SNRG Diversity|score=0}}
+    |opponent2={{TeamOpponent|Synergy Esports|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M6={{Match
+    |date=2017-10-14
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Insane Gaming|score=0}}
+    |opponent2={{TeamOpponent|SNRG NeverLate|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R2M3={{Match
+    |date=2017-10-15
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Lausanne-Sport Esports|score=2}}
+    |opponent2={{TeamOpponent|Synergy Esports|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M4={{Match
+    |date=2017-10-15
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|mYinsanity|score=0}}
+    |opponent2={{TeamOpponent|SNRG NeverLate|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match
+    |date=2017-10-15
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Lausanne-Sport Esports|score=2}}
+    |opponent2={{TeamOpponent|SNRG NeverLate|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match
+	|bestof=5
+    |date=2017-10-16
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Lausanne-Sport Esports|score=0}}
+    |opponent2={{TeamOpponent|Servette Geneva eSports|score=3}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R5M1={{Match
+	|bestof=5
+    |date=2017-10-16
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|SPG eSports|score=2}}
+    |opponent2={{TeamOpponent|Servette Geneva eSports|score=3}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

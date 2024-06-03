@@ -1,0 +1,1399 @@
+{
+    "tournament_info": [
+        {
+            "name": "European Community Cup",
+            "shortname": "European Community Cup",
+            "tickername": "European Community Cup",
+            "image": "European Community Cup lightmode.png",
+            "abbreviation": "ECC",
+            "icon": "European Community Cup lightmode.png",
+            "organizer": "An4rchy",
+            "organizer-link": "https://twitter.com/an4rchy_ow",
+            "type": "Online",
+            "country": "Europe",
+            "prizepool": "2000",
+            "localcurrency": "eur",
+            "format": "Round Robin<br>Double Elimination",
+            "sdate": "2022-02-05",
+            "edate": "2022-04-10",
+            "liquipediatier": "4",
+            "bracket": "https://play.toornament.com/fr/tournaments/5576841047760150528/",
+            "rulebook": "https://docs.google.com/document/d/1TRsbQ3LYYNA95htRMXTTxHTUiEM3yPafNlW3DsE2B90/edit",
+            "twitter": "an4rchy_ow",
+            "twitch": "an4rchy_ow",
+            "twitch2": "reflashprod",
+            "discord": "mgSBv5GbpR",
+            "team_number": "64",
+            "game": "overwatch"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Lzard's Fans",
+            "p1": "Chihiro",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Eclipse",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Sined",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Arzo",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "Wolfsilver",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "p6": "Lzard",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Mat71",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Frost Tails eSport",
+            "p1": "Kilaa",
+            "pos1": "dps",
+            "p2": "LukStar",
+            "p2flag": "dk",
+            "pos2": "dps",
+            "p3": "KroxZ",
+            "pos3": "tank",
+            "p4": "Booga",
+            "p4flag": "uk",
+            "pos4": "tank",
+            "p5": "Natlocks",
+            "pos5": "sup",
+            "p6": "reviewz",
+            "pos6": "sup",
+            "p7": "Levitate",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "YounaCha",
+            "t2c1pos": "manager",
+            "t2c2": "Tarteg",
+            "t2c2pos": "coach"
+        },
+        {
+            "team": "Bong Hitters",
+            "p1": "WMaimone",
+            "pos1": "dps",
+            "p2": "KayZzeR",
+            "pos2": "dps",
+            "p3": "Blur",
+            "pos3": "tank",
+            "p4": "Isack",
+            "pos4": "tank",
+            "p5": "ANJ",
+            "pos5": "support",
+            "p6": "Slay",
+            "pos6": "support"
+        },
+        {
+            "team": "Sexiest Gaymers",
+            "p1": "FakeJake",
+            "p1flag": "pl",
+            "pos1": "dps",
+            "p2": "Yuki",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p2link": " Yuki (British player)",
+            "p3": "jopi",
+            "p3flag": "fr",
+            "pos3": "dps",
+            "p4": "Andr3w",
+            "p4flag": "it",
+            "pos4": "tank",
+            "p5": "Izko",
+            "p5flag": "fr",
+            "pos5": "tank",
+            "p6": "CaptainPrash",
+            "pos6": "sup",
+            "p7": "Mup",
+            "p7flag": "ba",
+            "pos7": "sup"
+        },
+        {
+            "team": "Frenchi Gogolitos",
+            "p1": "Geegeek",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Livs",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Ritter",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Dydark",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "Happydj",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "p6": "Proxy",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "p7": "Racklix",
+            "p7flag": "fr",
+            "pos7": "sup"
+        },
+        {
+            "team": "Altera Orion",
+            "p1": "NisPuk",
+            "p1flag": "de",
+            "pos1": "dps",
+            "p2": "nuttynanza",
+            "p2flag": "gb",
+            "pos2": "dps",
+            "p3": "TimPlayz",
+            "p3flag": "de",
+            "pos3": "tank",
+            "p4": "EGO",
+            "p4flag": "de",
+            "pos4": "tank",
+            "p4link": "EGO (German player)",
+            "p5": "HowtoWASD",
+            "p5flag": "de",
+            "pos5": "sup",
+            "p6": "Natsuki",
+            "p6flag": "nl",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "GoldenEagle",
+            "t2c1flag": "be",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "FT Cyanide",
+            "p1": "Mokin",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Hippy",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p2link": "Hippy (French player)",
+            "p3": "Justin374",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Rubine",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "Core",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "p6": "M3lkiway",
+            "p6flag": "fr",
+            "pos6": "sup"
+        },
+        {
+            "team": "Fun et HD",
+            "p1": "GeneralDelta",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Zaouri",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Sairqo",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Kwyseurx",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "Xerion",
+            "pos5": "sup",
+            "p6": "Ender",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "p7": "Sidoux",
+            "p7flag": "fr",
+            "pos7": "sup"
+        },
+        {
+            "team": "Th3 Avengers",
+            "p1": "Condi",
+            "pos1": "dps",
+            "p2": "kio",
+            "pos2": "dps",
+            "p3": "Staunag",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Deamonn",
+            "p4flag": "nz",
+            "pos4": "tank",
+            "p5": "R3flect",
+            "pos5": "sup",
+            "p6": "Singularity",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "Bily",
+            "p7flag": "",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Cuffy",
+            "t2c1flag": "uk",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "SoenyFC",
+            "p1": "\u00c5ce",
+            "pos1": "dps",
+            "p2": "SnoorlaxZ",
+            "p2flag": "is",
+            "pos2": "dps",
+            "p3": "Wex",
+            "pos3": "dps",
+            "p4": "Saar",
+            "pos4": "tank",
+            "p5": "Shyraa",
+            "pos5": "tank",
+            "p6": "Lusid",
+            "p6flag": "se",
+            "pos6": "tank",
+            "p7": "Soax",
+            "pos7": "sup",
+            "p8": "Futhark",
+            "p8flag": "is",
+            "pos8": "sup",
+            "p9": "Hib06",
+            "p9flag": "fr",
+            "pos9": "sup",
+            "t2title": "Staff",
+            "t2c1": "Regiegab",
+            "t2c1pos": "coach",
+            "t2c2": "Optimus015",
+            "t2c2pos": "coach",
+            "t2c3": "S\u00f8eny",
+            "t2c3flag": "uk",
+            "t2c3pos": "manager"
+        },
+        {
+            "team": "TT TeaNotCoffee",
+            "p1": "cocobongo",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Izana",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Cr0mnycs",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Aky",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "Minefine",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "p6": "Cheeseman",
+            "p6flag": "fr",
+            "pos6": "sup"
+        },
+        {
+            "team": "Toboo",
+            "p1": "Clemk",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "FrozenPeon",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Valou",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Ayovas",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "\u010cr\u012fs",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "p6": "Karospik",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Teemo",
+            "t2c1pos": "coach"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "April 9, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Th3 Avengers",
+            "opponent1_score": 2,
+            "opponent2": "Toboo",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "April 9, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bong hitters",
+            "opponent1_score": 2,
+            "opponent2": "Toboo",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "April 9, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bong hitters",
+            "opponent1_score": 2,
+            "opponent2": "Th3 Avengers",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "April 09, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "FT Cyanide",
+            "opponent1_score": 1,
+            "opponent2": "TT TeaNotCoffee",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "April 09, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sexiest Gaymers",
+            "opponent1_score": 2,
+            "opponent2": "TT TeaNotCoffee",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "April 09, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sexiest Gaymers",
+            "opponent1_score": 2,
+            "opponent2": "FT Cyanide",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "April 09, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Fun et HD|score=FF",
+            "opponent2": "SoenyFC|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "April 09, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Frost Tails eSport",
+            "opponent1_score": 2,
+            "opponent2": "SoenyFC",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "April 09, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Frost Tails eSport",
+            "opponent1_score": 2,
+            "opponent2": "Fun et HD",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "April 09, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Altera Orion",
+            "opponent1_score": 2,
+            "opponent2": "Lzard's Fans",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "April 09, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Frenchi Gogolitos",
+            "opponent1_score": 2,
+            "opponent2": "Lzard's Fans",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "April 09, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Frenchi Gogolitos",
+            "opponent1_score": 0,
+            "opponent2": "Altera Orion",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "April 09, 2022 - 14:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Frenchi Gogolitos",
+            "opponent1_score": 2,
+            "opponent2": "toboo",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 09, 2022 - 14:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Th3 Avengers",
+            "opponent1_score": 2,
+            "opponent2": "Lzard's Fans",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 09, 2022 - 14:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SoenyFC",
+            "opponent1_score": 2,
+            "opponent2": "FT Cyanide",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "April 09, 2022 - 14:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "TT TeaNotCoffee",
+            "opponent1_score": 0,
+            "opponent2": "Fun et HD",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "April 09, 2022 - 18:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bong Hitters",
+            "opponent1_score": 2,
+            "opponent2": "Frenchi Gogolitos",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 09, 2022 - 18:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Altera Orion",
+            "opponent1_score": 0,
+            "opponent2": "Th3 Avengers",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "April 09, 2022 - 18:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sexiest Gaymers",
+            "opponent1_score": 1,
+            "opponent2": "SoenyFC",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "April 09, 2022 - 18:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Frost Tails eSport",
+            "opponent1_score": 2,
+            "opponent2": "Fun et HD",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "April 10, 2022 - 14:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bong Hitters",
+            "opponent1_score": 2,
+            "opponent2": "Th3 Avengers",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "April 10, 2022 - 14:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SoenyFC",
+            "opponent1_score": 0,
+            "opponent2": "Frost Tails eSport",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "April 10, 2022 - 15:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bong Hitters",
+            "opponent1_score": 1,
+            "opponent2": "Frost Tails eSport",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        },
+        {
+            "date": "April 09, 2022 - 19:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Altera Orion",
+            "opponent1_score": 2,
+            "opponent2": "TT TeaNotCoffee",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "April 09, 2022 - 19:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Frenchi Gogolitos",
+            "opponent1_score": 2,
+            "opponent2": "FT Cyanide",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "April 09, 2022 - 19:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Fun et HD",
+            "opponent1_score": 2,
+            "opponent2": "Lzard's Fans",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "April 09, 2022 - 19:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sexiest Gaymers",
+            "opponent1_score": 2,
+            "opponent2": "toboo",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "date": "April 10, 2022 - 14:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Altera Orion",
+            "opponent1_score": 2,
+            "opponent2": "Frenchi Gogolitos",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "April 10, 2022 - 14:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Fun et HD",
+            "opponent1_score": 2,
+            "opponent2": "Sexiest Gaymers",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M6="
+        },
+        {
+            "date": "April 10, 2022 - 15:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SoenyFC",
+            "opponent1_score": 2,
+            "opponent2": "Altera Orion",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M3="
+        },
+        {
+            "date": "April 10, 2022 - 15:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Th3 Avengers",
+            "opponent1_score": 1,
+            "opponent2": "Fun et HD",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M4="
+        },
+        {
+            "date": "April 10, 2022 - 16:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SoenyFC",
+            "opponent1_score": 2,
+            "opponent2": "Fun et HD",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "April 10, 2022 - 17:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bong Hitters",
+            "opponent1_score": 2,
+            "opponent2": "SoenyFC",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M2="
+        },
+        {
+            "date": "April 10, 2022 - 18:00",
+            "date_timezone": "CET",
+            "bestof": "5",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Frost Tails Esport",
+            "opponent1_score": 3,
+            "opponent2": "Bong Hitters",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M1="
+        }
+    ]
+}

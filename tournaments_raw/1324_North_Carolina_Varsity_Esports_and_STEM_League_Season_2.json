@@ -1,0 +1,119 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "VESL",
+            "shortname": "VESL Season 2: Finals",
+            "name": "VESL Season 2: State Finals",
+            "tickername": "VESL Season 2: Finals",
+            "image": "VESL 2023 allmode.png",
+            "icon": "VESL 2023 allmode.png",
+            "organizer": "VESL",
+            "organizer-link": "",
+            "sponsor": "[https://www.uncg.edu UNCG] <br> [https://www.liveoakbank.com/ LiveOakBank] <br> Tepper Sports",
+            "format": "Single Elimination",
+            "game": "overwatch2",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Greensboro, NC",
+            "venue": "Novant Health Fieldhouse",
+            "venuelink": "https://www.greensborocoliseum.com/venues/detail/the-fieldhouse",
+            "prizepoolusd": "17250",
+            "date": "2024-02-18",
+            "website": "https://vesl.gg/",
+            "rules": "https://docs.google.com/document/u/1/d/e/2PACX-1vQePZT5fzMRQuBJBxVzUHfOHoiDIbxYHGjaosTMEgL9CWGnMbEdAM5szzluiSoMt_7JZzYS-r3d-opZ/pub",
+            "twitch": "veslgg",
+            "youtube": "@VESLGG",
+            "twitter": "veslgg",
+            "facebook": "stiegleredtech",
+            "instagram": "vesl.gg/",
+            "tiktok": "@veslgg",
+            "team_number": "4"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Panther Creek Team A",
+            "p1": "\u0110\u0206\u013f\u020a\u010a\u0202\u0166\u0206|p1flag=us|pos1=dps",
+            "p2": "towor|p2flag=us|pos2=tank",
+            "p3": "MeldonJr|p3flag=us|pos3=tank",
+            "p4": "AntarcticaBa|p4flag=us|pos4=sup",
+            "p5": "Acelotl|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Regional|Regional Finals]]"
+        },
+        {
+            "team": "Palisades High School",
+            "p1": "speed|p1flag=us|pos1=dps",
+            "p2": "melody |p2flag=us|pos2=dps",
+            "p3": "rhino|p3flag=us|pos3=tank",
+            "p4": "rin|p4flag=us|pos4=sup",
+            "p5": "AJ|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Regional|Regional Finals]]"
+        },
+        {
+            "team": "Green Hope Team A",
+            "p1": "hryounki|p1flag=us|pos1=dps",
+            "p2": "Oblivion|p2flag=us|pos2=tank|p2link=Oblivion (American Player)",
+            "p3": "SpicyPepper|p3flag=us|pos3=tank",
+            "p4": "overotak|p4flag=us|pos4=sup",
+            "p5": "Plore|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Regional|Regional Finals]]"
+        },
+        {
+            "team": "Sun Valley Team C",
+            "p1": "DayzGamer08|p1flag=us|pos1=dps",
+            "p2": "mayday117|p2flag=us|pos2=tank",
+            "p3": "Rexadon05|p3flag=us|pos3=tank",
+            "p4": "Hatsu|p4flag=us|pos4=sup",
+            "p5": "2xbowie|p5flag=us|pos5=sup",
+            "qualifier": "[[North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Regional|Regional Finals]]"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "",
+            "youtube": "veslgg|twitch=veslgg",
+            "opponent1": "{{TeamOpponent|Panther Creek Team A}}",
+            "opponent2": "{{TeamOpponent|Palisades High School}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=Suravasa|mode=Flashpoint|score1=|score2=|winner=1}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "veslgg|twitch=veslgg",
+            "opponent1": "{{TeamOpponent|Green Hope Team A}}",
+            "opponent2": "{{TeamOpponent|Sun Valley Team C}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=Suravasa|mode=Flashpoint|score1=|score2=|winner=1}}",
+            "optional": "R1M2="
+        },
+        {
+            "bestof": "7",
+            "date": "",
+            "youtube": "veslgg|twitch=veslgg",
+            "opponent1": "{{TeamOpponent|Panther Creek Team A }}",
+            "opponent2": "{{TeamOpponent|Green Hope Team A }}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=New Junk City|mode=Flashpoint|score1=|score2=|winner=1}}",
+            "map4": "{{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=1}}",
+            "optional": "R2M1="
+        },
+        {
+            "bestof": "7",
+            "date": "",
+            "youtube": "veslgg|twitch=veslgg",
+            "opponent1": "{{TeamOpponent|Palisades High School}}",
+            "opponent2": "{{TeamOpponent|Sun Valley Team C}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=Suravasa|mode=Flashpoint|score1=|score2=|winner=1}}",
+            "map4": "{{Map|map=Esperan\u00e7a|mode=Push|score1=|score2=|winner=1}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

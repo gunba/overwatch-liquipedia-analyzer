@@ -1,0 +1,196 @@
+{{DISPLAYTITLE:CECC West Qualifier}}
+{{Collegiate Esports Commissioners Cup navbox}}
+{{Tabs static
+|name1=Midwest Qualifier|link1=CECC/2022/Midwest
+|name2=Southeast Qualifier|link2=CECC/2022/Southeast
+|name3=Southwest Qualifier|link3=CECC/2022/Southwest
+|name4=Northeast Qualifier|link4=CECC/2022/Northeast
+|name5=West Qualifier|link5=CECC/2022/West
+|name6=Mid-Atlantic Qualifier|link6=CECC/2022/Mid-Atlantic
+|name7=Last Chance Qualifier|link7=CECC/2022/Last Chance
+|name8=Finals|link8=CECC/2022
+}}
+{{Infobox league
+|liquipediatier=3|liquipediatiertype=Qualifier
+|series=Collegiate Esports Commissioners Cup
+
+|abbreviation=CECC
+|name=CECC West Qualifier
+|shortname=2022 West Qualifier
+|tickername=CECC West Qualifier
+|icon=CECCLogo-2.png
+|image=CECCLogo-2.png
+|organizer=Collegiate Esports Management Group
+|type=Online
+|country=United States
+|format=Double Elimination
+|sdate=2022-04-09
+|edate=2022-04-10
+|twitter=Ceccevents
+|web=https://collegiatesmg.com/
+|twitch=EsportsU
+|rulebook=https://drive.google.com/file/d/15KGZZs9GMMR0nuul8CxnIDBE92rdADDR/view?usp=sharing
+|team_number=5
+}}
+
+The '''CECC West Qualifier''' was an online regional qualifier in the 2021-22 CECC season, with the winner qualifying for the national finals.
+
+==Information==
+===Format===
+'''Day 1:''' 5 teams compete in a round robin, first to three format, with the top 4 moving on to the bracket stage.
+
+'''Day 2:''' 4 remaining teams compete in a single elimination bracket.
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Host
+|b1=Pauly Hype|b1name= Paul Santoro|b1flag=us
+}}
+{{BroadcasterCard|lang=
+|position=Commentator
+|b1=Septilence |b1flag= |b1name=
+|b2=TheN3rdyBird |b2flag=USA |b2name=
+}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=7|'''Map Pool'''
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=6|Available Maps
+|-
+![[Control]]
+![[Hybrid]]
+![[Assault]]
+![[Escort]]
+|-
+!1st set
+|''[[Control]] map''
+|width="130" rowspan=5|
+*[[Busan]]
+*[[Ilios]]
+*[[Lijiang Tower]]
+|width="130" rowspan=5|
+*[[Blizzard World]]
+*[[Hollywood]]
+*[[King's Row]]
+|width="130" rowspan=5|
+*[[Hanamura]]
+*[[Volskaya Industries]]
+*[[Temple of Anubis]]
+|width="130" rowspan=5|
+*[[Havana]]
+*[[Rialto]]
+*[[Route 66]]
+|-
+!2nd set
+|''[[Escort]] map''
+|-
+!3rd set
+|''[[Hybrid]] map''
+|-
+!4th set
+|''[[Assault]] map''
+|}
+
+
+==Prize Pool==
+The winner qualifies for [[Collegiate Esports Commissioners Cup|CECC Finals]] as seen below:
+{{prize pool start|cutafter=4|points=qualified}}
+{{prize pool slot|place=1|points=q|usdprize=750|UCSD Varsity Overwatch|lastvs1=|lastscore1=3|lastvsscore1=0|date=}}
+{{prize pool slot|place=2|points=0|usdprize=500|University of Hawaii|lastvs1=|lastscore1=|lastvsscore1=|date=}}
+{{prize pool slot|place=3-4|points=0|usdprize=0
+|Oregon State Esports|lastvs1=|lastscore1=|lastvsscore1=|date1=
+|Neumont Llamas|lastvs2=|lastscore2=|lastvsscore2=|date2=
+}}
+{{prize pool slot|place=5|points=0|usdprize=0|Sacramento State|lastvs1=|lastscore1=|lastvsscore1=|date=}}
+{{Prize pool end}}
+<section end="Prize Pool"/>
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=UCSD Varsity Overwatch
+|image=
+|p1=Przncess|p1flag=us|pos1=dps
+|p2=Pakko|p2flag=us|pos2=dps
+|p3=Rho|p3flag=us|pos3=tank
+|p4=Bog|p4flag=us|pos4=tank
+|p5=Hing3d|p5flag=us|pos5=sup
+|p6=Minefan006|p6lag=kr|pos6=sup
+|qualifier=University of California, San Diego
+}}
+{{TeamCard
+|team=University of Hawaii
+|image=
+|p1=Sey|p1flag=USA|pos1=dps
+|p2=Akamai|p2flag=USA|pos2=dps
+|p3=Mathdealer|p3flag=USA|pos3=tank
+|p4=Napotis|p4flag=USA|pos4=tank
+|p5=Rivergawd|p5flag=USA|pos5=sup
+|p6=BananaLumpia|p6flag=USA|pos6=sup
+|qualifier=University of Hawaiʻi at Mānoa
+}}
+{{TeamCard
+|team=Oregon State Esports
+|image=
+|p1=|p1flag=USA|pos1=dps
+|p2=|p2flag=USA|pos2=dps
+|p3=|p3flag=USA|pos3=tank
+|p4=|p4flag=USA|pos4=tank
+|p5=|p5flag=USA|pos5=sup
+|p6=|p6flag=USA|pos6=sup
+|qualifier=Oregon State University
+}}
+{{TeamCard
+|team=Neumont Llamas
+|image=
+|p1=|p1flag=|pos1=dps
+|p2=|p2flag=|pos2=dps
+|p3=|p3flag=|pos3=tank
+|p4=|p4flag=|pos4=tank
+|p5=|p5flag=|pos5=sup
+|p6=|p6flag=|pos6=sup
+|qualifier=Neumont College of Computer Science
+}}
+{{TeamCard
+|team=Sacramento State
+|image=
+|p1=|p1flag=USA|pos1=dps
+|p2=|p2flag=USA|pos2=dps
+|p3=|p3flag=USA|pos3=tank
+|p4=|p4flag=USA|pos4=tank
+|p5=|p5flag=USA|pos5=sup
+|p6=|p6flag=USA|pos6=sup
+|qualifier=California State University, Sacramento
+}}
+{{TeamCard columns end}}
+
+==Round Robin==
+<section begin="Round Robin"/>
+{{box|start|padding=2em}}
+{{GroupTableStart| Round Robin |width=420px|hide=false}}
+{{GroupTableSlot| {{Team|UCSD Varsity Overwatch}} |place=1|win_m=4|lose_m=0|win_r=12|tie_r=0|lose_r=0|bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|University of Hawaii}} |place=2|win_m=2|lose_m=2|win_r=6|tie_r=0|lose_r=6|bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|Oregon State Esports}} |place=3|win_m=2|lose_m=2|win_r=6|tie_r=0|lose_r=6|bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|Neumont Llamas}} |place=4|win_m=1|lose_m=3|win_r=3|tie_r=0|lose_r=9|bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|Sacramento State}} |place=5|win_m=1|lose_m=3|win_r=3|tie_r=0|lose_r=9|bg=down|show_p=false}}
+{{GroupTableEnd}}
+{{box|break|padding=2em}}
+<section end="Round Robin"/>
+
+==Finals Bracket==
+
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=hloP24K6lB
+<!-- SEMIFINALS -->
+|R1D1team=UCSD Varsity Overwatch |R1D1score=3 |R1D1win=1
+|R1D2team=Neumont Llamas |R1D2score=0 |R1D2win=
+
+|R1D3team=University of Hawaii |R1D3score=W |R1D3win=1
+|R1D4team=Oregon State Esports |R1D4score=L |R1D4win=
+<!-- FINALS -->
+|R2W1team=UCSD Varsity Overwatch |R2W1score=3 |R2W1win=1
+|R2W2team=University of Hawaii |R2W2score=0 |R2W2win=
+
+}}

@@ -1,0 +1,152 @@
+{
+    "tournament_info": [
+        {
+            "name": "Japan e-Sports Championships 2017",
+            "tickername": "JeSC 2017",
+            "image": "",
+            "icon": "",
+            "organizer": "JeSPA",
+            "organizer-link": "http://jespa.org/",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "Japan",
+            "city": "Tokyo",
+            "venue": "TOYOSU PIT",
+            "liquipediatier": "{{TierText/3}}",
+            "format": "Playoffs ({{Abbr/Bo3}})",
+            "sdate": "2017-02-25",
+            "edate": "2017-02-26",
+            "team_number": "6",
+            "prizepool": "\u00a5420,000",
+            "localccurency": "jpy",
+            "prizepoolusd": "3,695",
+            "web": "http://jespa.org/",
+            "bracket": "https://challonge.com/jespa_2ndFinal_OW",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "map4": "",
+            "map5": "",
+            "map6": "",
+            "map7": "",
+            "next": "Japan e-Sports Championships/2018{{!}}2018"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Flourish",
+            "image": "",
+            "p1": "ALPHARDUNrnO |p1flag=jp|pos1=dps",
+            "p2": "cyxie |p2flag=jp|pos2=dps",
+            "p3": "Flying |p3flag=jp|pos3=flex",
+            "p4": "pat1 |p4flag=jp|pos4=tank",
+            "p5": "\u3055\u3070\u3052\u30fc |p5flag=jp|pos5=support",
+            "p6": "SYACHI |p6flag=jp|pos6=support",
+            "c": "|cflag="
+        },
+        {
+            "team": "Rascal Jester MaVeNick",
+            "image": "",
+            "p1": "SaltyKiss |p1flag=jp|pos1=dps",
+            "p2": "Sasa |p2flag=jp|pos2=dps",
+            "p3": "pon |p3flag=jp|pos3=flex",
+            "p4": "Holon |p4flag=jp|pos4=tank",
+            "p5": "Shiki |p5flag=jp|pos5=support",
+            "p6": "kanna |p6flag=jp|pos6=support",
+            "c": "|cflag="
+        },
+        {
+            "team": "DeToNator.BLACK",
+            "image": "",
+            "p1": "delave |p1flag=jp",
+            "p2": "Scarfaze |p2flag=jp",
+            "p3": "ShootingStar |p3flag=jp",
+            "p4": "space |p4flag=jp|link4=space (Japanese player)",
+            "p5": "siorin |p5flag=jp",
+            "p6": "rayu |p6flag=jp",
+            "c": "|cflag="
+        },
+        {
+            "team": "Yoshimoto Family",
+            "image": "",
+            "p1": "Unleash |p1flag=jp|pos1=dps",
+            "p2": "ClutchFi |p2flag=jp|pos2=dps",
+            "p3": "Sally |p3flag=jp|pos3=flex",
+            "p4": "\u3061\u307e\u3061\u3093 |p4flag=jp|pos4=tank",
+            "p5": "Pealish |p5flag=jp|pos5=support",
+            "p6": "Yone |p6flag=jp|pos6=support",
+            "c": "|cflag="
+        },
+        {
+            "team": "CrestGaming.Blitz",
+            "image": "Crest Gaminglogo.png",
+            "link": "Crest Gaming.Blitz",
+            "p1": "\u3051\u3093\u3082\u307b\u308d\u308d |p1flag=jp|pos1=dps",
+            "p2": "\u305f\u304b\u3057\uff53\uff53 |p2flag=jp|pos2=dps",
+            "p3": "mame11 |p3flag=jp|pos3=flex",
+            "p4": "AngelDu5t |p4flag=jp|pos4=tank",
+            "p5": "MatoChan|p5flag=jp|pos5=support",
+            "p6": "Mystique |p6flag=jp|pos6=support",
+            "c": "|cflag="
+        },
+        {
+            "team": "CYCLOPS OSAKA",
+            "image": "",
+            "p1": "Leiden|p1flag=jp|pos1=dps",
+            "p2": "Bep |p2flag=jp|pos2=dps",
+            "p3": "moonside |p3flag=jp|pos3=flex",
+            "p4": "tbnPeltor |p4flag=jp|pos4=tank",
+            "p5": "Hexbell |p5flag=jp|pos5=support",
+            "p6": "Ryoya|p6flag=jp|pos6=support",
+            "c": "|cflag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "detonator.black",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "flourish",
+            "score1": "2",
+            "win1": "0"
+        },
+        {
+            "team2": "yoshimoto family",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "rascal jester mavenick",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "flourish",
+            "score2": "1",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "crestgaming.blitz",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "rascal jester mavenick",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D2",
+            "team1": "cyclops osaka",
+            "score1": "2",
+            "win1": "0"
+        },
+        {
+            "team2": "cyclops osaka",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "crestgaming.blitz",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

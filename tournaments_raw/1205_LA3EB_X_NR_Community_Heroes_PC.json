@@ -1,0 +1,69 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "LA3EB X NR Community Heroes PC Playoffs",
+            "tickername": "LA3EB X NR Community Heroes PC Playoffs",
+            "shortname": "Community Heroes PC Playoffs",
+            "image": "",
+            "icon": "",
+            "series": "NR Community",
+            "organizer": "NR Community\t|organizer-link=https://www.instagram.com/nr_comm/",
+            "organizer2": "LA3EB Esports\t|organizer2-link=https://esports.la3eb.com/",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Middle East",
+            "format": "Single Elimination",
+            "prizepool": "5000",
+            "localcurrency": "sar",
+            "date": "2023-04-06",
+            "web": "",
+            "discord": "overnr",
+            "discord2": "W6FR4wz5J2",
+            "telegram": "OverwatchNR",
+            "instagram": "nr_comm",
+            "instagram2": "la3ebcom",
+            "twitter": "la3ebcom",
+            "twitch": "la3eb_esports",
+            "bracket": "https://esports.la3eb.com/tournaments/la3eb-community-heroes-pc-playoffs",
+            "team_number": "2",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "yooo",
+            "p1": "someone|p1flag=ae|pos1=dps|p1link=someone (Emirati Player)",
+            "p2": "Ir1s|p2flag=kw|pos2=dps|p2link=Ir1s (Kuwaiti Player)",
+            "p3": "TVNT|pos3=tank",
+            "p4": "YONKO|p4flag=sa|pos4=sup",
+            "p5": "inviktonizer|p5flag=kw|pos5=sup",
+            "qualifier": "[https://esports.la3eb.com/tournaments/la3eb-community-heroes-pc-qualifier-1 Qualifier #1]"
+        },
+        {
+            "team": "ROC Esports",
+            "p1": "Qlm|pos1=dps",
+            "p2": "Sazuri|pos2=dps",
+            "p3": "Optx|p3flag=ae|pos3=dps",
+            "p4": "BlackSwordz|pos4=tank",
+            "p5": "Lotsha|p5flag=sa|pos5=tank",
+            "p6": "AOY|pos6=sup",
+            "p7": "Facator|pos7=sup",
+            "qualifier": "[https://esports.la3eb.com/tournaments/la3eb-community-heroes-pc-qualifier-2 Qualifier #2]"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "April 6, 2023 - 22:00 {{Abbr/AST}}",
+            "twitch": "la3eb_esports",
+            "vod": "",
+            "opponent1": "{{TeamOpponent|yooo}}",
+            "opponent2": "{{TeamOpponent|ROC Esports}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Circuit Royal|mode=Escort|score1=6|score2=5|winner=1}}",
+            "map3": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}"
+        }
+    ]
+}

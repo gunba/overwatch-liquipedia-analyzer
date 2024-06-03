@@ -1,0 +1,143 @@
+{{for|the 2017 European tournament|Overwatch Arena/Season 1}}
+{{Infobox league
+|liquipediatier={{TierText/4}}
+|series=arena
+|abbreviation=Overwatch Arena
+|shortname=Overwatch Arena
+|name=Overwatch Arena
+|tickername=Overwatch Arena
+|image=Overwatch Arena logo.jpg
+|organizer=MyArena
+|organizer-link=https://www.facebook.com/MyArenaTH
+|sponsor=
+|type=Online
+|country=Thailand
+|city=
+|venue=
+|format=Single Elimination
+|prizepool=10,000
+|localcurrency=thb
+|prizepoolusd=288
+|sdate=2016-09-02
+|edate=2016-09-07
+|web=
+|bracket=
+|youtube=
+|twitch=
+|team_number=39
+}}
+
+==About==
+===Format===
+*'''Playoffs''': Single Elimination
+**Grand Finals are {{Abbr/Bo3}}. All other matches are {{Abbr/Bo1}}.
+
+==Prize Pool==
+฿10,000 {{Abbr/THB}} (≃$288 {{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=thb|cutafter=4}}
+{{prize pool slot |place=1 |usdprize=173|localprize=6,000|underdog.ow|lastvs1=undying - gsv esport|lastscore1=2 |lastvsscore1=0 }}
+{{prize pool slot |place=2 |usdprize=86|localprize=3,000|undying - gsv esport|lastvs1=underdog.ow|lastscore1=0 |lastvsscore1=2 }}
+{{prize pool slot|place=3|usdprize=29|localprize=1,000 |solid |lastvs1=watch n' learn |lastscore1=1 |lastvsscore1=0 }}
+{{prize pool slot|place=4|usdprize=0|localprize=0 |watch n' learn |lastvs1=solid |lastscore1=0 |lastvsscore1=1 }}
+{{Prize pool end}}
+''Conversion values taken from [https://www.exchange-rates.org/Rate/USD/THB/09-07-2016 exchange-rates.org] at 2016-09-07. 1 {{Abbr/USD}} ≈ 34.6506 {{Abbr/THB}}''
+
+==Top 4==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Underdog.OW
+|image=Underdog Logo.png
+|p1=Vall |p1flag=th |pos1=dps
+|p2=NutsuruSama |p2flag=th |pos2=dps
+|p3=headhawk |p3flag=th |pos3=tank
+|p4=Bozo |p4flag=th |pos4=tank
+|p5=Samuel |p5flag=th |pos5=sup
+|p6=YUT |p6flag=th |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Undying - GSV Esport
+|image=Undying GSV E-sport logo.png
+|p1=nowzaa |p1flag=th |pos1=dps
+|p2=Raciel |p2flag=th |pos2=dps
+|p3=SOVERREIGN |p3flag=th |pos3=tank
+|p4=oPonkotsuo |p4flag=th |pos4=tank
+|p5=XIIXV |p5flag=th |pos5=sup
+|p6=theGoat |p6flag=th |pos6=sup
+|p7=Artmasster |p7flag=th |pos7=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Solid
+|image=Solid logo.png
+|p1=Kefka |p1flag=th |pos1=dps
+|p2=Safefyz |p2flag=th |pos2=dps
+|p3=Teetawat |p3flag=th |pos3=tank
+|p4=ATLAS |p4flag=th |pos4=tank
+|p5=Fironia |p5flag=th |pos5=sup
+|p6=BBQ |p6flag=th |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Watch N' Learn
+|image=Watch N' Learn logo.png
+|p1=Dzzie |p1flag=th |pos1=dps
+|p2=GuN |p2flag=th |pos2=dps
+|p3=Skywalker |p3flag=th |pos3=tank
+|p4=lVNlI3105ln0 |p4flag=th |pos4=tank
+|p5=Berserker |p5flag=th |pos5=sup
+|p6=DvaOnline |p6flag=th |pos6=sup
+}}
+{{box|end}}
+
+==Results (Top 4)==
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=0aAqzWlWv3
+<!-- SEMIFINALS -->
+|R1D1team=solid |R1D1score=0 |R1D1win=
+|R1D2team=undying - gsv esport |R1D2score=1 |R1D2win=1
+|R1G1details={{BracketMatchSummary 
+|date=September 6, 2016
+|finished=true
+|map1=|map1score=|map1win=
+|vod=https://youtu.be/5LqmRQ7aum0
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=underdog.ow |R1D3score=1 |R1D3win=1
+|R1D4team=watch n' learn |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=September 6, 2016
+|finished=true
+|map1=|map1score=|map1win=
+|vod=https://youtu.be/5LqmRQ7aum0
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R2W1team=undying - gsv esport |R2W1score=0 |R2W1win=
+|R2W2team=underdog.ow |R2W2score=2 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=September 7, 2016
+|finished=true
+|vod=https://youtu.be/YyVXLDO0X7Q
+|map1=|map1score=|map1win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- 3RD PLACE (optional) -->
+|R2D1team=solid |R2D1score=1 |R2D1win=1
+|R2D2team=watch n' learn |R2D2score=0 |R2D2win=
+|R2G2details={{BracketMatchSummary 
+|date=September 7, 2016
+|finished=true
+|map1=|map1score=|map1win=
+|overgg=
+|pf=
+|wl=
+}}
+}}

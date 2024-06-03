@@ -1,0 +1,277 @@
+{{Infobox league
+|liquipediatier=4
+|liquipediatiertype=
+|name=2024 Overwatch Poker Face Championship
+|abbreviation=
+|shortname=
+|tickername=Overwatch Poker Face Championship
+|icon=Poker Face 2023 notext lightmode.png
+|icondark=Poker Face 2023 notext darkmode.png
+|image=Poker Face 2023 lightmode.png
+|imagedark=Poker Face 2023 darkmode.png
+|series=
+|organizer=Poker Face
+|organizer-link=
+|sponsor=
+|type=Online
+|country=kr
+|city=<!--For offline tournaments only-->
+|venue=<!--For offline tournaments only-->
+|game=overwatch2
+|format=Double Elimination
+|prizepoolusd=<!--Use if prize is in USD-->
+|localcurrency=krw
+|prizepool=1000000
+|sdate=2024-05-17
+|edate=2024-05-19
+|date=<!--For one-day tournaments-->
+|twitter=PokerFace_OW
+|instagram=pokerface_ow
+|web=https://chzzk.naver.com/b6db2f1a6855b6cd48864c05f7e0e2e5
+|twitch=
+|discord=ugjyWvGK
+|youtube=
+|rulebook=
+|bracket=
+|team_number=8
+}}
+
+==Information==
+===Format===
+* Double Elimination
+** All matches ''(excl. Grand Finals)'' are {{Ft|2}}
+** Grand Finals are {{Ft|3}}
+* Players who competed in {{LeagueIconSmall/owl}} [[Overwatch League]] or {{LeagueIconSmall/owcs}} [[Overwatch_Champions_Series/2024/Asia/Stage_1/Korea|OWCS Korea]] are ineligible to participate
+* Players with good performance will be invited to join {{TeamIcon|poker face}} [[Poker Face Academy]]
+
+===Prize Pool===
+{{TeamPrizePool|localcurrency=krw
+|{{Slot|localprize=600000}}
+|{{Slot|localprize=200000}}
+|{{Slot|localprize=100000}}
+|{{Slot|localprize=100000}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4|height=220}}
+{{TeamCard
+|team=오버워치 공무원
+|p1=새드보이|p1flag=kr|pos1=dps
+|p2=펄스의악마|p2flag=kr|pos2=dps
+|p3=몸뭄|pos3=dps
+|p4=MELLYA|pos4=tank
+|p5=현브|p5flag=kr|pos5=sup
+|p6=KIVIS|pos6=sup
+}}
+{{TeamCard
+|team=LFT
+|p1=Shock|pos1=dps|p1link=Shock (Korean player)
+|p2=AZent|p2flag=kr|pos2=dps
+|p3=FodCarry|pos3=dps
+|p4=Farmer|p4flag=kr|pos4=tank
+|p5=LilaC|p5flag=kr|pos5=sup
+|p6=bayadere|p6flag=kr|pos6=sup
+}}
+{{TeamCard
+|team=OPJ
+|p1=배춘식|p1flag=kr|pos1=dps
+|p2=SARAH|p2flag=kr|pos2=dps
+|p3=승안|p3flag=kr|pos3=tank
+|p4=차안|p4flag=kr|pos4=sup
+|p5=폼미췻다이|p5flag=kr|pos5=sup
+}}
+{{TeamCard
+|team=즈샌존지
+|p1=Ruru|p1flag=kr|pos1=dps
+|p2=시스턴|p2flag=kr|pos2=dps
+|p3=bellaboo|pos3=tank
+|p4=TARO|pos4=sup
+|p5=말카디아|p5flag=kr|pos5=sup
+}}
+{{TeamCard
+|team=Venom
+|p1=현재|p1flag=kr|pos1=dps
+|p2=DODO|p2flag=kr|pos2=dps
+|p3=SOLA|p3flag=kr|pos3=dps
+|p4=ESTEBAN|p4flag=kr|pos4=tank
+|p5=LAVENDER|p5flag=kr|pos5=sup
+|p6=IMALONE|p6flag=kr|pos6=sup
+}}
+{{TeamCard
+|team=EXLU
+|p1=Hidden|pos1=dps
+|p2=EHE|p2flag=kr|pos2=dps
+|p3=YaHo|pos3=tank
+|p4=LeGo|pos4=sup
+|p5=Vulture|pos5=sup
+}}
+{{TeamCard
+|team=Homrun
+|p1=Proven|p1flag=kr|pos1=dps
+|p2=F1nally|p2flag=kr|pos2=dps
+|p3=xanny|p3flag=kr|pos3=dps
+|p4=RULER|pos4=tank
+|p5=Sp1nel|pos5=sup
+|p6=JINSUNG|pos6=sup
+}}
+{{TeamCard
+|team=OneCoin
+|p1=TOPDRAGON|pos1=dps
+|p2=JaeWoo|pos2=dps
+|p3=HEESUNG|pos3=tank
+|p4=Rose|pos4=sup
+|p5=CRESCENT|pos5=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+<!-- Generate a bracket from https://liquipedia.net/overwatch/index.php?title=Special:RunQuery/BracketCopyPaste, find bracket names at https://liquipedia.net/commons/Liquipedia:BracketRegister -->
+{{Bracket|Bracket/8U4L2DSL1D|id=1kYUk14OW5
+
+<!-- Upper Bracket Quarterfinals -->
+|R1M1={{Match
+    |bestof=2
+    |date=2024-05-17
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|OneCoin|score=W}}
+    |opponent2={{TeamOpponent|Venom|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |date=2024-05-17
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|즈샌존지|score=W}}
+    |opponent2={{TeamOpponent|LFT|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M3={{Match
+    |date=2024-05-17
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Homrun|score=FF}}
+    |opponent2={{TeamOpponent|오버워치 공무원|score=W}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M4={{Match
+    |date=2024-05-17
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|EXLU|score=W}}
+    |opponent2={{TeamOpponent|OPJ|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R2M1={{Match
+    |date=2024-05-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|OneCoin|score=W}}
+    |opponent2={{TeamOpponent|즈샌존지|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+    |date=2024-05-18
+    |opponent1={{TeamOpponent|EXLU}}
+    |opponent2={{TeamOpponent|오버워치 공무원}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=skip}}
+}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match
+    |date=2024-05-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|OneCoin}}
+    |opponent2={{TeamOpponent|EXLU}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=New Queen Street|mode=Push|score1=128.09m|score2=3.87m|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M5={{Match
+    |date=2024-05-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|LFT|score=W}}
+    |opponent2={{TeamOpponent|Venom|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M6={{Match
+    |date=2024-05-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Homrun}}
+    |opponent2={{TeamOpponent|OPJ}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Esperança|mode=Push|score1=84.58m|score2=70.53m|winner=1}}
+    |map3={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=2|winner=1}}
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R2M3={{Match
+    |date=2024-05-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|오버워치 공무원|score=W}}
+    |opponent2={{TeamOpponent|LFT|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M4={{Match
+    |date=2024-05-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|즈샌존지}}
+    |opponent2={{TeamOpponent|Homrun}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=New Queen Street|mode=Push|score1=101.49m|score2=101.48m|winner=1}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match
+    |date=2024-05-18
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|오버워치 공무원}}
+    |opponent2={{TeamOpponent|즈샌존지}}
+    |map1={{Map|map=Illios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match
+    |date=2024-05-19
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|EXLU}}
+    |opponent2={{TeamOpponent|오버워치 공무원}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Esperança|mode=Push|score1=89.77m|score2=124.20m|winner=2}}
+}}
+
+<!-- Grand Final -->
+|R5M1={{Match
+    |date=2024-05-19
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|OneCoin}}
+    |opponent2={{TeamOpponent|오버워치 공무원}}
+    |map1={{Map|map=Nepal|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Route 66|mode=Escort|score1=3|score2=4|winner=2}}
+    |map3={{Map|map=Esperança|mode=Push|score1=142.41m|score2=3.80m|winner=1}}
+	|map4={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=1|winner=1}}
+	|map5={{Map|map=New Queen Street|mode=Push|score1=83.56m|score2=67.61m|winner=1}}
+}}
+}}
+==References==
+{{Reflist}}

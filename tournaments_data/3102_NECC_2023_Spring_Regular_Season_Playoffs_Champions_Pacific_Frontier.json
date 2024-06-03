@@ -1,0 +1,454 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "liquipediatiertype": "Qualifier",
+            "series": "NECC",
+            "name": "NECC - 2023 Spring Regular Season Playoffs - Champions Pacific Frontier",
+            "tickername": "NECC Champions Pacific Frontier Playoffs",
+            "image": "NECC 2021 lightmode.png",
+            "imagedark": "NECC 2021 darkmode.png",
+            "organizer": "National Esports Collegiate Conference",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "sdate": "2023-04-20",
+            "edate": "2023-05-04",
+            "twitter": "neccgames",
+            "twitch": "necc_esports",
+            "twitch2": "necc2",
+            "youtube": "channel/UCJ7SpyS-00CYxdkBadshxjQ",
+            "website": "https://neccgames.com/landing/index",
+            "bracket": "https://docs.google.com/spreadsheets/d/1G2TsROrX2QMuH-srKj1nTPGJclYGidjLOWXHPJzJpZQ/edit#gid=2129954081",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Colorado Mesa Maroon",
+            "p1": "B38GLE",
+            "p2": "Badger",
+            "p2link": "Badger (Colorado Mesa Maroon player)",
+            "p3": "Absent",
+            "p4": "Noley",
+            "p5": "Headhunter",
+            "placement": ""
+        },
+        {
+            "team": "Ottawa University",
+            "p1": "Flores",
+            "p2": "Demitri",
+            "p3": "Tyrell",
+            "p4": "Hotdogbaby96",
+            "p5": "Tokki",
+            "p6": "N1qht",
+            "p7": "Alezzan",
+            "placement": ""
+        },
+        {
+            "team": "Rogers State Red",
+            "p1": "Ripsie",
+            "p2": "Ale7k",
+            "p3": "MrNutCracker",
+            "p4": "Hadwad",
+            "p5": "RaceAceTM",
+            "p6": "C1NDROM3",
+            "p7": "RayvenRyder",
+            "p8": "CallmeNano",
+            "p9": "Bushfulbro19",
+            "p10": "bastionwins",
+            "placement": ""
+        },
+        {
+            "team": "University of New Mexico",
+            "p1": "Faraday",
+            "p2": "Kurama",
+            "p3": "Shan",
+            "p4": "C6H1206",
+            "p5": "Keegater",
+            "p6": "Brighthammer",
+            "placement": ""
+        },
+        {
+            "team": "MSOE Red",
+            "p1": "Pasa",
+            "p2": "Shatteredaxe",
+            "p3": "Corg1",
+            "p4": "MuckBlizrd",
+            "p5": "aidenholc",
+            "p6": "Rattler",
+            "placement": ""
+        },
+        {
+            "team": "UC Davis Gold",
+            "p1": "SmokeytheMae",
+            "p2": "Avarice",
+            "p3": "Tesla",
+            "p4": "Laststand",
+            "p5": "Iconic",
+            "p6": "Acessayshi",
+            "p7": "GrimM",
+            "placement": ""
+        },
+        {
+            "team": "WashU",
+            "p1": "Whales",
+            "p2": "Dusk",
+            "p3": "Aarpyy",
+            "p4": "nloloew",
+            "p5": "Azure ",
+            "p5link": "Azure (WashU player)",
+            "p6": "Manny",
+            "p7": "YaBoiTarek",
+            "p8": "BigLeech",
+            "placement": ""
+        },
+        {
+            "team": "Calgary Black",
+            "p1": "\u00e6stheticsock",
+            "p1flag": "ca",
+            "p1team": "",
+            "pos1": "dps",
+            "p2": "Phy",
+            "p2flag": "ca",
+            "p2team": "",
+            "pos2": "dps",
+            "p3": "Zen\u043ex",
+            "p3flag": "ca",
+            "p3team": "",
+            "pos3": "dps",
+            "p4": "nave",
+            "p4flag": "ca",
+            "p4team": "",
+            "pos4": "tank",
+            "p5": "sawk",
+            "p5flag": "ca",
+            "p5team": "",
+            "pos5": "sup",
+            "p6": "SpudRug",
+            "p6flag": "ca",
+            "p6team": "",
+            "pos6": "sup",
+            "p7": "SINNER!",
+            "p7flag": "ca",
+            "p7team": "",
+            "pos7": "sup",
+            "p8": "HumbleGreek",
+            "p8flag": "ca",
+            "p8team": "",
+            "pos8": "sup",
+            "placement": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "April 20, 2023 - 21:00",
+            "date_timezone": "EDT",
+            "opponent1": "Ottawa Braves",
+            "opponent1_score": 3,
+            "opponent2": "Colorado Mesa University",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 20, 2023 - 21:30",
+            "date_timezone": "EDT",
+            "opponent1": "Rogers State Red",
+            "opponent1_score": 0,
+            "opponent2": "University of New Mexico",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Busan",
+                "mode": "control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "escort",
+                "score1": "5",
+                "score2": "6",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 20, 2023 - 21:30",
+            "date_timezone": "EDT",
+            "opponent1": "MSOE Red",
+            "opponent1_score": 3,
+            "opponent2": "EaUCD Gold",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "April 24, 2023 - 22:00",
+            "date_timezone": "EDT",
+            "opponent1": "WashU Esports",
+            "opponent1_score": 2,
+            "opponent2": "CESU Black",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Oasis",
+                "mode": "control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "April 27, 2023 - 21:00",
+            "date_timezone": "EDT",
+            "opponent1": "Ottawa Braves",
+            "opponent1_score": 3,
+            "opponent2": "University of New Mexico",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "May 1, 2023 - 23:00",
+            "date_timezone": "EDT",
+            "opponent1": "MSOE Red",
+            "opponent1_score": 3,
+            "opponent2": "CESU Black",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "escort",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "May 4, 2023 - 21:30",
+            "date_timezone": "EDT",
+            "opponent1": "Ottawa Braves",
+            "opponent1_score": 0,
+            "opponent2": "MSOE Red",
+            "opponent2_score": 4,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Havana",
+                "mode": "escort",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

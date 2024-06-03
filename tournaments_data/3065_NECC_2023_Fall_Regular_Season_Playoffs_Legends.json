@@ -1,0 +1,770 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "liquipediatiertype": "Qualifier",
+            "series": "NECC",
+            "name": "NECC - 2023 Fall Regular Season Playoffs - Legends Division",
+            "tickername": "NECC Legends Playoffs",
+            "image": "NECC 2021 lightmode.png",
+            "imagedark": "NECC 2021 darkmode.png",
+            "organizer": "National Esports Collegiate Conference",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "500",
+            "sdate": "2023-11-15",
+            "edate": "2023-12-07",
+            "twitter": "neccgames",
+            "twitch": "necc_esports",
+            "twitch2": "necc2",
+            "youtube": "channel/UCJ7SpyS-00CYxdkBadshxjQ",
+            "website": "https://necc.gg/",
+            "bracket": "https://necc.leagueos.gg/league/seasons/FmpPv3c7TRGeJxRVtpmk/stages/euugq1vtS8bByTVuODeL",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Maryville University",
+            "p1": "k1ng",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "TR33",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Vision",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "False",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Danteh",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "Joobi",
+            "pos6": "sup",
+            "p7": "squid",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "iced",
+            "t2c1pos": "Manager",
+            "qualifier": "Group A",
+            "placement": "1"
+        },
+        {
+            "team": "Fisher Men",
+            "p1": "Love",
+            "pos1": "dps",
+            "p2": "Snowl",
+            "pos2": "dps",
+            "p3": "Atl2s",
+            "pos3": "dps",
+            "p3flag": "se",
+            "p4": "Luka",
+            "pos4": "tank",
+            "p5": "Avani",
+            "pos5": "tank",
+            "p6": "Unread",
+            "pos6": "sup",
+            "p6link": "Unread (American Player)",
+            "p7": "Skier",
+            "pos7": "sup",
+            "p7flag": "us",
+            "p8": "Goose",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "Tensa",
+            "t2c1pos": "coach",
+            "t2c2": "p0int",
+            "t2c2pos": "manager",
+            "t2c3": "ducklover",
+            "t2c3pos": "manager",
+            "qualifier": "Group A",
+            "placement": "2"
+        },
+        {
+            "team": "Sun Devils",
+            "link": "Arizona State University",
+            "p1": "Jman",
+            "pos1": "dps",
+            "p2": "Anhoo",
+            "pos2": "dps",
+            "p3": "Aurora",
+            "pos3": "tank",
+            "p4": "Scylla",
+            "pos4": "sup",
+            "p5": "Anghell1c",
+            "pos5": "sup",
+            "p6": "zPanthr",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "PROJEK",
+            "pos7": "flex",
+            "t2title": "Staff",
+            "t2c1": "PROJEK",
+            "t2c1pos": "general manager",
+            "t2c2": "Timber",
+            "t2c2flag": "us",
+            "t2c2pos": "assistant manager",
+            "qualifier": "Group A",
+            "placement": "3"
+        },
+        {
+            "team": "UT Dallas",
+            "p1": "P3t9l",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Kashir",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "STAS1S",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "durpee",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Mallarad",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Doyi",
+            "p6flag": "il",
+            "pos6": "sup",
+            "t2title": "Substitutes",
+            "t2p1": "Fone",
+            "t2p1flag": "us",
+            "t2p1pos": "dps",
+            "t2p2": "Stryten",
+            "t2p2flag": "us",
+            "t2p2pos": "dps",
+            "t2p3": "Puggo",
+            "t2p3flag": "us",
+            "t2p3pos": "tank",
+            "t3title": "Staff",
+            "t3c1": "BanthaPoodoo",
+            "t3c1flag": "in",
+            "t3c1pos": "head coach",
+            "t3c2": "Iszhtar",
+            "t3c2flag": "us",
+            "t3c2pos": "assistant coach",
+            "t3c3": "mango",
+            "t3c3flag": "us",
+            "t3c3pos": "analyst",
+            "t3c3link": "mango (American Coach)",
+            "t3c4": "MinniePwn",
+            "t3c4pos": "general manager",
+            "qualifier": "Group A",
+            "placement": "4"
+        },
+        {
+            "team": "Fisher Wisps",
+            "link": "Fisher College",
+            "p1": "LukeWarm",
+            "pos1": "dps",
+            "p2": "Rokit",
+            "pos2": "dps",
+            "p3": "Forgotten",
+            "pos3": "dps",
+            "p4": "Kabe",
+            "pos4": "dps",
+            "p5": "Raikker",
+            "pos5": "tank",
+            "p6": "Iron",
+            "pos6": "tank",
+            "p7": "Grapes",
+            "pos7": "sup",
+            "p8": "Momentum",
+            "pos8": "sup",
+            "p9": "Neb",
+            "pos9": "sup",
+            "p10": "Abbs",
+            "pos10": "sup",
+            "t2title": "Staff",
+            "t2c1": "Tensa",
+            "t2c1pos": "coach",
+            "t2c2": "p0int",
+            "t2c2pos": "manager",
+            "t2c3": "Ducklover",
+            "t2c3pos": "manager",
+            "qualifier": "Group B",
+            "placement": "1"
+        },
+        {
+            "team": "Northwood University",
+            "p1": "Dynasty",
+            "pos1": "dps",
+            "p2": "Haven",
+            "p2link": "Haven (American Player)",
+            "pos2": "dps",
+            "p3": "DevilWood",
+            "pos3": "dps",
+            "p4": "s9mm",
+            "pos4": "dps",
+            "p5": "cowman711",
+            "pos5": "tank",
+            "p6": "SZNS",
+            "pos6": "tank",
+            "p7": "mikeyy",
+            "pos7": "tank",
+            "p8": "Vega",
+            "pos8": "sup",
+            "p9": "Boat",
+            "pos9": "sup",
+            "p10": "Landon",
+            "pos10": "sup",
+            "t2title": "Staff",
+            "t2c1": "Faustus",
+            "t2c1pos": "coach",
+            "t2c2": "Tubesock",
+            "t2c2pos": "manager",
+            "qualifier": "Group B",
+            "placement": "2"
+        },
+        {
+            "team": "Bryant & Stratton",
+            "p1": "Slater",
+            "pos1": "dps",
+            "p2": "Manually",
+            "pos2": "dps",
+            "p3": "Cyber",
+            "pos3": "tank",
+            "p4": "Gymical",
+            "pos4": "sup",
+            "p5": "Prota",
+            "pos5": "sup",
+            "qualifier": "Group B",
+            "placement": "3"
+        },
+        {
+            "team": "Converse University",
+            "p1": "HaMmEr",
+            "pos1": "dps",
+            "p2": "Garchomp",
+            "pos2": "dps",
+            "p3": "Gnja2012",
+            "pos3": "tank",
+            "p4": "StillKIWI",
+            "pos4": "sup",
+            "p5": "Chance",
+            "pos5": "sup",
+            "p5link": "Chance (American Player)",
+            "p6": "Orion",
+            "pos6": "sup",
+            "qualifier": "Group B",
+            "placement": "4"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "2023-11-15 - 20:20",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "maryville university",
+            "opponent2": "converse university",
+            "map1": {
+                "map": "Unknown Map",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Unknown Map",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Unknown Map",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-11-15 - 21:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "northwood university",
+            "opponent2": "arizona state",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-11-15 - 20:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher college",
+            "opponent2": "ut dallas",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-11-15 - 20:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher men",
+            "opponent2": "bryant & stratton college virginia",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-11-16 - 20:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "maryville university",
+            "opponent2": "northwood university",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-11-16 - 20:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher college",
+            "opponent2": "fisher men",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-11-30 - 20:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "necc_esports",
+            "comment": "Casters: {{player|Bullskunk|flag=us}} & {{player|ManofClass|flag=nl}}",
+            "opponent1": "maryville university",
+            "opponent2": "fisher college",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "68.98m",
+                "score2": "60.16m",
+                "winner": "1"
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "2023-11-16 - 20:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "converse university",
+            "opponent2": "arizona state",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "2023-11-16 - 20:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ut dallas|score=L",
+            "opponent2": "bryant & stratton college virginia|score=W",
+            "map1": {
+                "map": "",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "Flashpoint",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "Push",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "2023-11-29 - 20:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher men",
+            "opponent2": "arizona state",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "2023-11-29 - 20:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "northwood university",
+            "opponent2": "bryant & stratton college virginia",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "2023-11-30 - 20:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher men",
+            "opponent1_score": 3,
+            "opponent2": "northwood university",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "true"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "true"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "true"
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "2023-12-06 - 20:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fisher college",
+            "opponent1_score": 3,
+            "opponent2": "fisher men",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "2023-12-07 - 20:30",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "necc_esports",
+            "comment": "Casters: {{player|Bullskunk|flag=us}} & {{player|ManofClass|flag=nl}}",
+            "opponent1": "maryville university",
+            "opponent2": "fisher college",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "140.31m",
+                "score2": "51.54m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map6": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

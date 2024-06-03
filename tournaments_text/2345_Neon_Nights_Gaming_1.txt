@@ -1,0 +1,148 @@
+{{DISPLAYTITLE:Neon Nights Gaming #1}}
+{{Tabs static
+|name1=Overview|link1=Neon Nights Gaming/1
+}}
+{{Infobox league
+|liquipediatier=5
+|liquipediatiertype=
+|name=Neon Nights Gaming #1
+|shortname=Neon Nights Gaming 1
+|tickername=Neon Nights Gaming #1
+|icon=Neon Nights Gaming Icon allmode.png
+|image=Neon Nights Gaming allmode.png
+|series=
+|abbreviation=NNG
+|organizer=Neon Nights
+|organizer-link=
+|sponsor=
+|type=Online
+|country=usca
+|game=overwatch2
+|format=Single Elimination
+|prizepoolusd=100
+|localcurrency=
+|prizepool=
+|date=2023-10-07
+|discord=https://discord.gg/3AznG3BNqw
+|team_number=4
+|next=Neon_Nights_Gaming/2{{!}}Neon Nights Gaming #2
+}}
+
+==Information==
+*<!--Rules, including "best of" number of maps, and tournament format-->
+*
+*
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=
+|position=Producer
+|b1=ItsSleepy |b1flag=ca |b1name=
+|b2=Mizakiopia |b2flag=us |b2name=
+}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=7|'''Map Pool'''
+|-
+![[Control]]
+![[Hybrid]]
+![[Push]]
+![[Escort]]
+|-
+|width="130" rowspan=5|
+*[[Lijiang Tower]]
+|width="130" rowspan=5|
+*[[Numbani]]
+*[[King's Row]]
+|width="130" rowspan=5|
+*[[New Queen Street]]
+|width="130" rowspan=5|
+*[[Junkertown]]
+|}
+
+===Prize Pool===
+{{TeamPrizePool
+|{{Slot|usdprize=100}}
+
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Team Pineapple
+|p1=shisui|p1flag=usca|pos1=
+|p2=Shrimps21|p2flag=usca|pos2=
+|p3=force|p3flag=usca|pos3=
+|p4=vex|p4flag=usca|pos4=
+|p5=stimmywimmy|p5flag=usca|pos5=
+}}
+{{TeamCard
+|team=Team Banana
+|p1=Inquisitor|p1flag=usca|pos1=
+|p2=SLurking|p2flag=usca|pos2=
+|p3=dooby|p3flag=usca|pos3=
+|p4=dvrk_blade|p4flag=usca|pos4=
+|p5=SlayingBeast|p5flag=usca|pos5=
+}}
+{{TeamCard
+|team=Team Kiwi
+|p1=Korodai|p1flag=usca|pos1=
+|p2=adlynn00|p2flag=usca|pos2=
+|p3=Jfsp|p3flag=usca|pos3=
+|p4=Outlander|p4flag=usca|pos4=
+|p5=ProZach|p5flag=usca|pos5=
+}}
+{{TeamCard
+|team=Team Peach
+|p1=Sky5niper|p1flag=us|pos1=
+|p2=Narcoma|p2flag=usca|pos2=
+|p3=CTEHUEY|p3flag=usca|pos3=
+|p4=Magnus|p4flag=usca|pos4=
+|p5=Maverick23|p5flag=usca|pos5=
+}}
+
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/4|id=wK2LW7onEm
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=5
+    |date=2023-10-07
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Team Peach|score=3}}
+    |opponent2={{TeamOpponent|Team Pineapple|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |date=2023-10-07
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Team Kiwi|score=0}}
+    |opponent2={{TeamOpponent|Team Banana|score=3}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |date=2023-10-07
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Team Peach|score=3}}
+    |opponent2={{TeamOpponent|Team Banana|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}
+<!-- Generate a bracket from https://liquipedia.net/overwatch/index.php?title=Special:RunQuery/BracketCopyPaste, find bracket names at https://liquipedia.net/commons/Liquipedia:BracketRegister -->

@@ -1,0 +1,86 @@
+{
+    "tournament_info": [
+        {
+            "name": "Taiwan vs Japan Competition",
+            "image": "",
+            "series": "",
+            "organizer": "OverWatch TW",
+            "organizer-link": "https://playoverwatch.com/zh-tw",
+            "format": "Showmatch",
+            "type": "Offline",
+            "country": "Taiwan",
+            "date": "2016-05-28",
+            "prizepoolusd": "3,835",
+            "prizepool": "120,000",
+            "localcurrency": "twd",
+            "liquipediatier": "{{TierText/3}}",
+            "web": "https://playoverwatch.com/zh-tw/blog/20138571",
+            "twitch": "",
+            "twitch2": "",
+            "bracket": "",
+            "teamfirst": "taiwan",
+            "teamsecond": "DeToNator",
+            "team_number": "2",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "DeToNator",
+            "image": "",
+            "p1": "delave |p1flag=jp",
+            "p2": "siorin |p2flag=jp",
+            "p3": "XQQ |p3flag=jp",
+            "p4": "SPYGEA |p4flag=jp",
+            "p5": "StylishNoob |p5flag=jp",
+            "p6": "yamatoN |p6flag=jp",
+            "qualifier": "'''Invited'''"
+        },
+        {
+            "team": "Taiwan",
+            "image": "Flag_of_Taiwan.svg",
+            "p1": "Xargon|p1flag=tw",
+            "p2": "Lilgho|p2flag=tw",
+            "p3": "Zonda|p3flag=tw",
+            "p4": "Gura|p4flag=tw",
+            "p5": "BabyNie|p5flag=tw",
+            "p6": "Danny|p6flag=tw",
+            "qualifier": "'''Invited'''"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "date": "May 28, 2016",
+            "finished": "true",
+            "vodgame1": "",
+            "vodgame2": "https://go.twitch.tv/videos/69137532",
+            "vodgame3": "https://go.twitch.tv/videos/69138392",
+            "vodgame4": "https://go.twitch.tv/videos/69138678",
+            "stream": "",
+            "winner": "2",
+            "match1": "{{Match/old",
+            "map": "Watchpoint: Gibraltar",
+            "team1side": "",
+            "team2side": "",
+            "team1checkpoints": "",
+            "team1time": "",
+            "team1side2": "",
+            "team2side2": "",
+            "team2checkpoints": "",
+            "team2time": "",
+            "team2": "taiwan",
+            "score2": "5",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "detonator",
+            "score1": "3",
+            "win1": "2"
+        }
+    ],
+    "match_maps": []
+}

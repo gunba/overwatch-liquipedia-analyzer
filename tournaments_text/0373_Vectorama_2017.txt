@@ -1,0 +1,211 @@
+{{DISPLAYTITLE: Vectorama 2017}}
+{{Infobox league
+|name=Vectorama 2017
+|image=Vectorama logo.png
+|icon=Vectorama logo.png
+|organizer=Vectorama
+|organizer-link=http://www.vectorama.info/
+|sponsor=[http://esportsm.fi/ ESPORTSM.fi]
+|type=Offline
+|country=Finland
+|city=Oulu
+|venue=[http://www.ouka.fi/oulu/liikunta-ja-ulkoilu/oulun-jaahalli/ Oulun jäähalli]
+|prizepool=2,210
+|localcurrency=eur
+|prizepoolusd=2,599
+|format=Group Stage ({{Abbr/Bo3}})<br /> Single-Elimination Bracket ({{Abbr/Bo5}})
+|game=overwatch
+|sdate=2017-06-09 |edate= 2017-06-10
+|web=https://tournaments.vectorama.info/tournaments/view/esportsm-fi-2017-overwatch-1-osakilpailu
+|teamfirst=  |teamsecond=   |teamthird= |teamthird2=
+|team_number=5
+|liquipediatier={{TierText/3}}
+}}
+
+==About==
+
+==Prize Pool==
+€2,000 {{Abbr/EUR}} (~$2,599{{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=eur|points=seed}}
+{{prize pool slot|place=1|usdprize=0|localprize=0|points=[[ESPORTSM.fi/2017/Finals|SM 2017 OW Finals]] |ence esports|lastvs1=helsinki reds |lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot|place=2|usdprize=1,242|localprize=1,110|points=0|helsinki reds|lastvs1=ence esports |lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot|place=3 |usdprize=615|localprize=550|points=0|rynnäkköviikset|wdl1=2/-/2 |date1=}}
+{{prize pool slot|place=4 |usdprize=615|localprize=550|points=0|aces|wdl1=1/-/3 |date1=}}
+{{prize pool slot|place=5|usdprize=0|localprize=0|points=0|nerf gaming|wdl1=0/-/4 |date1=}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Aces
+|p1=MrHamster|p1flag=fi
+|p2=Ronski|p2flag=fi
+|p3=Tipi|p3flag=fi
+|p4=Ashieli|p4flag=fi
+|p5=Desolator|p5flag=fi
+|p6=KarvaRausku|p6flag=fi
+|c=|cflag=fi
+|qualifier=Invited
+}}
+{{TeamCard
+|team=ENCE eSports
+|p1=Trickwide|p1flag=fi
+|p2=Ripa|p2flag=fi
+|p3=BAITO|p3flag=fi
+|p4=Lhcloudy|p4flag=fi
+|p5=Cali|p5flag=fi
+|p6=Rck|p6flag=fi
+|c=|cflag=fi
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Helsinki REDS
+|p1=Ruape|p1flag=fi
+|p2=BBR|p2flag=fi
+|p3=Kryma|p3flag=fi
+|p4=prettyWise|p4flag=fi
+|p5=Exceed|p5flag=fi
+|p6=Woomera|p6flag=fi
+|c=|cflag=fi
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Nerf Gaming
+|p1=tonder|p1flag=fi
+|p2=Fluestra|p2flag=fi
+|p3=Kepa|p3flag=fi
+|p4=Nitro|p4flag=fi|p4link=Nitro (Finnish player)
+|p5=Sadisti|p5flag=fi
+|p6=tappomasa666|p6flag=fi
+|c=|cflag=fi
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Rynnäkköviikset
+|p1=nNeco|p1flag=fi
+|p2=Kauko|p2flag=fi
+|p3=Pave|p3flag=fi
+|p4=Love|p4flag=fi|p4link=Love (Finnish player)
+|p5=Zagaz|p5flag=fi
+|p6=Fishir|p6flag=fi
+|c=|cflag=fi
+|qualifier=Invited
+}}
+{{TeamCard columns end}}
+
+==Results==
+===Group Stage===
+===={{HiddenSort|Group}}====
+{{GroupTableStart| Group |width=425px
+|date=
+|stream=
+|lrthread=
+|finished=
+|vod1=
+|vod2=
+|vod3=
+|vod4=
+|vod5=
+}}
+{{GroupTableSlot| {{Team|ence esports}} |place=1|win_m=4|tie_m=0|lose_m=0|win_r=8|lose_r=0|diff=+8|bg=up}} 
+{{GroupTableSlot| {{Team|helsinki reds}} |place=2|win_m=3|tie_m=0|lose_m=1|win_r=6|lose_r=3|diff=+3|bg=up}}
+{{GroupTableSlot| {{Team|rynnäkköviikset}} |place=3|win_m=2|tie_m=0|lose_m=2|win_r=5|lose_r=4|diff=+1|bg=down}}
+{{GroupTableSlot| {{Team|aces}} |place=4|win_m=1|tie_m=0|lose_m=3|win_r=6|lose_r=2|diff=-4|bg=down}}
+{{GroupTableSlot| {{Team|nerf gaming}} |place=5|win_m=0|tie_m=0|lose_m=4|win_r=0|lose_r=8|diff=-8|bg=down}}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=r2dnP8uWTS|title=Group A matches |width=425px
+|match1={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=aces|games1=2
+|team2=nerf gaming|games2=0
+|winner=1
+}}
+|match2={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=helsinki reds|games1=0
+|team2=ence esports|games2=2
+|winner=2
+}}
+|match3={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=aces|games1=0
+|team2=rynnäkköviikset|games2=2
+|winner=2
+}}
+|match4={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=helsinki reds|games1=2
+|team2=nerf gaming|games2=0
+|winner=1
+}}
+|match5={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=aces|games1=0
+|team2=helsinki reds|games2=2
+|winner=2
+}}
+|match6={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=ence esports|games1=2
+|team2=rynnäkköviikset|games2=0
+|winner=1
+}}
+|match7={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=aces|games1=0
+|team2=ence esports|games2=2
+|winner=2
+}}
+|match8={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=nerf gaming|games1=0
+|team2=rynnäkköviikset|games2=2
+|winner=2
+}}
+|match9={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=nerf gaming|games1=0
+|team2=ence esports|games2=2
+|winner=2
+}}
+|match10={{MatchMaps
+|stream=
+|date=
+|finished=true
+|team1=rynnäkköviikset|games1=1
+|team2=helsinki reds|games2=2
+|winner=2
+}}
+}}
+
+===Playoffs===
+{{LegacyBracket|Bracket/2|2SETeamBracket|type=team|id=T4N5ht7B8W
+<!-- FINALS -->
+|R1D1team=ence esports |R1D1score=3 |R1D1win=1
+|R1D2team=helsinki reds |R1D2score=0 |R1D2win=
+}}
+
+==Additional Content==
+===Streams===
+* {{flag/fi}} [https://www.twitch.tv/vectorama Vectorama]
+==References==
+{{Reflist}}

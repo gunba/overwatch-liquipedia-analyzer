@@ -1,0 +1,183 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "-1",
+            "liquipediatiertype": "Weekly",
+            "name": "GameBattles 3v3 Elimination Europe #6",
+            "shortname": "3v3 Europe #5",
+            "tickername": "GameBattles 3v3 EU #6",
+            "icon": "GameBattles icon lightmode.png",
+            "icondark": "GameBattles icon darkmode.png",
+            "image": "GameBattles lightmode.png",
+            "imagedark": "GameBattles darkmode.png",
+            "organizer": "GameBattles",
+            "series": "GameBattles",
+            "abbreviation": "GB",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "prizepoolusd": "250",
+            "date": "2023-01-11",
+            "twitter": "gamebattles",
+            "discord": "gamebattles",
+            "facebook": "gamebattles",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3--250--europe-565/info",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3--250--europe-565/bracket",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "winner": "1",
+            "date": "2023-01-11",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "RQS Esports|score=L",
+            "opponent2": "Team Random|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "winner": "2",
+            "date": "2023-01-11",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "?_?|score=W",
+            "opponent2": "Team ErsLauRav|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "winner": "2",
+            "date": "2023-01-11",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Nsjre|score=W",
+            "opponent2": "Team Random|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "winner": "1",
+            "date": "2023-01-11",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "?_?|score=W",
+            "opponent2": "sonder's money crew|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "winner": "1",
+            "date": "2023-01-11",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Nsjre|score=L",
+            "opponent2": "?_?|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "tournament_info": [
+        {
+            "name": "GosuGamers Overwatch Weekly EU #15",
+            "image": "",
+            "series": "GosuGamers EU",
+            "shortname": "15",
+            "organizer": "GosuGamers",
+            "country": "Europe",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "type": "Online",
+            "date": "2016-07-09",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "1,117",
+            "twitch": "gosugamers",
+            "twitch2": "",
+            "twitch3": "",
+            "gosugamers": "http://www.gosugamers.net/overwatch/tournaments/11174-gosugamers-overwatch-weeklies-eu-july/3105-gosugamers-overwatch-weeklies-eu/11176-gosugamers-overwatch-weekly-eu-15",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "48",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Prets",
+            "image": "",
+            "size": "",
+            "p1": "Clozz",
+            "p2": "BuHorPaduHa  |p2flag=ru",
+            "p3": "SilentDoom  |p3flag=ru",
+            "p4": "NLaaeR",
+            "p5": "Mistakes |p5flag=cz",
+            "p6": "Fyzu"
+        },
+        {
+            "team": "WEUNITED",
+            "image": "",
+            "size": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": ""
+        },
+        {
+            "team": "ANOX",
+            "image": "",
+            "size": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": ""
+        },
+        {
+            "team": "Rogue",
+            "image": "",
+            "size": "",
+            "p1": "aKm",
+            "p2": "Winz",
+            "p3": "KnOxXx",
+            "p4": "uNKOE",
+            "p5": "TviQ",
+            "p6": "Reinforce"
+        },
+        {
+            "team": "Creation eSports",
+            "image": "",
+            "size": "",
+            "p1": "Numlocked",
+            "p2": "BromaS",
+            "p3": "Draceus",
+            "p4": "art1er",
+            "p5": "LiNkzr",
+            "p6": "ToxikeN",
+            "c": "Shifty|cflag=us"
+        },
+        {
+            "team": "REUNITED",
+            "image": "",
+            "size": "",
+            "p1": "Morte",
+            "p2": "Shadez",
+            "p3": "Kruise",
+            "p4": "Winghaven",
+            "p5": "uNFixed",
+            "p6": "Vallutaja"
+        },
+        {
+            "team": "2sTroNk",
+            "image": "",
+            "size": "",
+            "p1": "Ruster |p1flag=de",
+            "p2": "Mineral",
+            "p3": "EISSFELDT",
+            "p4": "Tseini",
+            "p5": "Manneten |p5flag=se",
+            "p6": "Zave",
+            "c": "mkL|cflag="
+        },
+        {
+            "team": "SG-1",
+            "image": "",
+            "size": "",
+            "p1": "hymzi",
+            "p2": "zappis",
+            "p3": "mafu",
+            "p4": "Fragi",
+            "p5": "Seita",
+            "p6": "Lazei |p6flag=fi"
+        },
+        {
+            "team": "Misfits",
+            "image": "",
+            "size": "",
+            "p1": "Zaprey",
+            "p2": "SoOn",
+            "p3": "Kryw",
+            "p4": "skipjack",
+            "p5": "Nevix",
+            "p6": "Zebbosai"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "2stronk",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "creation",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "misfits",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "creation",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "rogue",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "creation",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "weunited",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "2stronk",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "reunited",
+            "score2": "1",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "sg-1",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "reunited",
+            "score2": "1",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "sg-1",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "reunited",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "creation",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "reunited",
+            "score2": "3",
+            "win2": "1",
+            "key": "R5W1",
+            "team1": "rogue",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

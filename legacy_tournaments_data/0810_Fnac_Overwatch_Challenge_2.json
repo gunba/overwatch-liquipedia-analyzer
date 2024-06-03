@@ -1,0 +1,151 @@
+{
+    "tournament_info": [
+        {
+            "name": "Fnac - Overwatch Challenge 2",
+            "shortname": "Overwatch Challenge 2",
+            "image": "Omenfnacowchallenge2logo.png",
+            "series": "",
+            "abbreviation": "",
+            "tickername": "Overwatch Challenge 2",
+            "organizer": "GamersMedia",
+            "organizer-link": "http://www.gamersmedia.pt/",
+            "sponsor": "[http://www.fnac.pt/ FNAC] <br> [http://www8.hp.com/pt/pt/campaigns/gaming/ Omen by HP] <br> [http://www.intel.com Intel]",
+            "type": "Offline",
+            "country": "Portugal",
+            "city": "Lisbon",
+            "format": "",
+            "prizepool": "2,500",
+            "localcurrency": "eur",
+            "prizepoolusd": "2,655",
+            "date": "2017-03-19",
+            "liquipediatier": "{{TierText/4}}",
+            "web": "",
+            "twitter": "",
+            "bracket": "",
+            "twitch": "gamersmedia",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "4"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "For The Win eSports",
+            "image": "",
+            "p1": "didex",
+            "p1flag": "",
+            "p2": "kiler4fun",
+            "p2flag": "",
+            "p3": "san alex",
+            "p3flag": "pt",
+            "p4": "Rod",
+            "p4flag": "pt",
+            "p5": "Sprynger",
+            "p5flag": "pt",
+            "p6": "Ins",
+            "p6flag": "pt",
+            "c": "GizmomcS",
+            "cflag": "pt",
+            "qualifier": "[[Fnac Overwatch Challenge/2/Qualifier 1|Qualifier #1 - Seed 1]]"
+        },
+        {
+            "team": "HEXAGONE eSports",
+            "p1": "Difis",
+            "p1flag": "pt",
+            "p2": "Faky",
+            "p2flag": "pt",
+            "p3": "MeiDay",
+            "p3flag": "pt",
+            "p4": "supercookie",
+            "p4flag": "pt",
+            "p5": "limede",
+            "p5flag": "pt",
+            "p6": "Walhao",
+            "p6flag": "pt",
+            "qualifier": "[[Fnac Overwatch Challenge/2/Qualifier 1|Qualifier #1 - Seed 2]]"
+        },
+        {
+            "team": "k1ck eSports Club",
+            "p1": "riis3d",
+            "p1flag": "pt",
+            "p2": "LUNrgn",
+            "p2flag": "pt",
+            "p3": "Addicted",
+            "p3flag": "pt",
+            "p4": "Horthic",
+            "p4flag": "pt",
+            "p5": "Okami",
+            "p5flag": "pt",
+            "p6": "Phatt",
+            "p6flag": "pt",
+            "qualifier": "[[Fnac Overwatch Challenge/2/Qualifier 2|Qualifier #2 - Seed 1]]"
+        },
+        {
+            "notes": "1",
+            "team": "Grow uP Gaming",
+            "p1": "Etherann",
+            "p1flag": "pt",
+            "p2": "Tomoh",
+            "p2flag": "pt",
+            "p3": "scofield",
+            "p3flag": "pt",
+            "p4": "Viriato",
+            "p4flag": "pt",
+            "p5": "WEST",
+            "p5flag": "pt",
+            "p6": "RatskilleR",
+            "p6flag": "pt",
+            "qualifier": "[[Fnac Overwatch Challenge/2/Qualifier 2|Qualifier #2 - Seed 2]]"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "hexagone esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "for the win esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "k1ck",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "for the win esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "hexagone esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "grow up gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "grow up gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "k1ck",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "k1ck",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "for the win esports",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

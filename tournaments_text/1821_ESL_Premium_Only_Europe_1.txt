@@ -1,0 +1,144 @@
+{{DISPLAYTITLE:ESL Premium Only Europe Cup: 1}}
+{{ESL Premium Only Navbox}}
+{{Infobox league
+|name=ESL Premium Only Europe Cup: 1
+|tickername=Premium Only Europe Cup: 1
+|image=
+|icon=
+|series=
+|shortname=
+|organizer=
+|format=
+|type=Online
+|country=Europe
+|sdate=2017-01-17
+|edate=2017-01-17
+|prizepoolusd=284
+|localcurrency=eur
+|prizepool=250
+|web=https://play.eslgaming.com/overwatch/europe/overwatch/major/premium-only-cup-1-europe/
+|twitch=
+|twitch2=
+|twitch3=
+|bracket=
+|liquipediatier=5
+|teamfirst=solar
+|teamsecond=maru llc
+|teamthird=dynasty esport
+|teamthird2=
+|team_number=5
+|map1=
+|map2=
+|map3=
+}}
+
+==Overview==
+===Format===
+
+* Playoffs
+** Single-Elimination Bracket
+** Quarter finals will be {{Abbr/Bo1}} 
+** Semi finals will be {{Abbr/Bo3}}
+**Grand finals will be {{Abbr/Bo5}}
+
+===Prize Pool===
+650 ({{Abbr/EUR}}) are spread among the top 2 teams as seen below::
+{{prize pool start |localcurrency=eur}}
+{{prize pool slot |place=1 |usdprize=284|localprize=250|solar|lastvs1=maru llc|lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot |place=2 |usdprize=0|maru llc|lastvs1=solar|lastscore1=0|lastvsscore1=3 }}
+{{prize pool slot |place=3 |usdprize=0|dynasty esport|lastvs1=epok team}}
+{{prize pool slot |place=4 |usdprize=0 |epok team|lastvs1=dynasty esport
+}}
+{{prize pool slot |place=5-8 |usdprize=0 
+|team forsaken|lastvs1=solar
+}}
+{{prize pool end}}
+
+==Participants==
+{{box|start|padding=2em}}
+{{TeamCard
+|team=SOLAR
+|image=
+|p1=Kuro |p1flag=bg
+|p2=Nightroar |p2flag=bg
+|p3=ottr |p3flag=se
+|p4=vani |p4flag=se
+|p5=Vloyy |p5flag=se
+|p6=Shock |p6flag=hr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Dynasty Esport
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5= |p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=epok team
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5= |p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Forsaken
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5= |p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Maru LLC
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5= |p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{box|end|padding=2em}}
+
+==Results==
+
+===Play offs===
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=CmGimG6KWI
+<!-- QUARTERFINALS -->
+|R1D1team=epok team |R1D1score=W |R1D1win=1
+|R1D2team=bye|R1D2score=- |R1D2win=
+|R1D3team=team forsaken|R1D3score=0 |R1D3win=
+|R1D4team=solar|R1D4score= 2|R1D4win=1
+
+|R1D5team=maru llc|R1D5score=W |R1D5win=1
+|R1D6team=bye|R1D6score=- |R1D6win=
+
+|R1D7team=bye |R1D7score=- |R1D7win=
+|R1D8team=dynasty esport|R1D8score=W |R1D8win=1
+
+<!-- SEMIFINALS -->
+|R2W1team=epok team |R2W1score=0 |R2W1win=
+|R2W2team=solar |R2W2score=2 |R2W2win=1
+|R2W3team=maru llc |R2W3score=2 |R2W3win=1
+|R2W4team=dynasty esport |R2W4score=0 |R2W4win=
+<!-- FINALS -->
+|R3W1team=solar |R3W1score=3 |R3W1win=1
+|R3W2team=maru llc |R3W2score=0 |R3W2win=
+<!-- 3RD PLACE (optional) -->
+|R3D1team=dynasty esport |R3D1score=2 |R3D1win=1
+|R3D2team=epok team |R3D2score=0 |R3D2win=
+
+}}

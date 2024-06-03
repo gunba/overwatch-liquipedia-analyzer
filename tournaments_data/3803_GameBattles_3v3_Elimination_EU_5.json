@@ -1,0 +1,78 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "-1",
+            "liquipediatiertype": "Weekly",
+            "name": "GameBattles 3v3 Elimination Europe #5",
+            "shortname": "3v3 Europe #5",
+            "tickername": "GameBattles 3v3 EU #5",
+            "icon": "GameBattles icon lightmode.png",
+            "icondark": "GameBattles icon darkmode.png",
+            "image": "GameBattles lightmode.png",
+            "imagedark": "GameBattles darkmode.png",
+            "organizer": "GameBattles",
+            "series": "GameBattles",
+            "abbreviation": "GB",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "prizepoolusd": "250",
+            "date": "2022-12-11",
+            "twitter": "gamebattles",
+            "discord": "gamebattles",
+            "facebook": "gamebattles",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3--250--europe-565/info",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3--250--europe-565/bracket",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "winner": "Team Random",
+            "date": "2022-12-11",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "RQS ESPORTS|score=L",
+            "opponent2": "Team Random|score=W",
+            "optional": "R1M1="
+        },
+        {
+            "winner": "?_?",
+            "date": "2022-12-11",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "?_?|score=W",
+            "opponent2": "Team ErsLauRav|score=L",
+            "optional": "R1M2="
+        },
+        {
+            "winner": "Nsjre",
+            "date": "2022-12-11",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Nsjre|score=W",
+            "opponent2": "Team Random|score=L",
+            "optional": "R2M1="
+        },
+        {
+            "winner": "?_?",
+            "date": "2022-12-11",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "?_?|score=W",
+            "opponent2": "sonder's money crew|score=L",
+            "optional": "R2M2="
+        },
+        {
+            "winner": "?_?",
+            "date": "2022-12-11",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Nsjre|score=L",
+            "opponent2": "?_?|score=W",
+            "optional": "R3M1="
+        }
+    ]
+}

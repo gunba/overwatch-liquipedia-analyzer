@@ -1,0 +1,402 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch Collegiate Homecoming 2021 - Group Stage",
+            "shortname": "OWCH 2021 Groups",
+            "image": "Overwatch Collegiate Homecoming.png",
+            "icon": "Overwatch Collegiate 2021 icon allmode.png",
+            "series": "Overwatch Collegiate Homecoming",
+            "abbreviation": "OWCH",
+            "tickername": "Overwatch Collegiate Homecoming Groups",
+            "organizer": "Blizzard",
+            "sponsor": "Coca-Cola",
+            "country": "North America",
+            "type": "Online",
+            "venue": "",
+            "format": "",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "",
+            "sdate": "2021-11-12",
+            "edate": "2021-11-13",
+            "liquipediatier": "2",
+            "liquipediatiertype": "Qualifier",
+            "web": "https://overwatchleague.com/en-us/collegiate",
+            "youtube": "overwatchcontenders",
+            "twitter": "owpathtopro",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/OWC-Hoco-FA21/info",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/OWC-Hoco-FA21/rules",
+            "previous": "",
+            "next": "",
+            "team_number": "32"
+        }
+    ],
+    "team_cards": [],
+    "legacy_match_cards": [
+        {
+            "team2": "ucsc",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "Illinois State University",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "ucsc",
+            "score2": "-",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "Illinois State University",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "cu boulder",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "ucla esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "ucla esports",
+            "score2": "-",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "ucsc",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "ucsc",
+            "score2": "-",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "Illinois State University",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bay state",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "northeastern esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bay state",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "northeastern esports",
+            "score1": "-",
+            "win1": ""
+        },
+        {
+            "team2": "mizzou esports",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "unt esports",
+            "score1": "-",
+            "win1": ""
+        },
+        {
+            "team2": "mizzou esports",
+            "score2": "-",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "northeastern esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "northeastern esports",
+            "score2": "-",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "bay state",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "waterloo warriors",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ut dallas comets",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "winthrop eagles",
+            "score2": "-",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "ut dallas comets",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "waterloo warriors",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "illini esports orange",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "illini esports orange",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "winthrop eagles",
+            "score1": "-",
+            "win1": ""
+        },
+        {
+            "team2": "illini esports orange",
+            "score2": "-",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "ut dallas comets",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bellevue university",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "uci esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "converse esports",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "uci esports",
+            "score1": "-",
+            "win1": ""
+        },
+        {
+            "team2": "bellevue university",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "uoft overwatch",
+            "score1": "-",
+            "win1": ""
+        },
+        {
+            "team2": "bellevue university",
+            "score2": "-",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "uci esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "uci esports",
+            "score2": "W",
+            "win2": "1",
+            "score21": "-",
+            "score22": "W",
+            "key": "R3W1",
+            "team1": "converse esports",
+            "score1": "-",
+            "win1": ""
+        },
+        {
+            "team2": "redhawks",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "northwood university",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "waldorf university",
+            "score2": "-",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "northwood university",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "redhawks",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "university of florida",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "waldorf university",
+            "score2": "-",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "university of florida",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "university of florida",
+            "score2": "-",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "northwood university",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "maryville university",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "boise state university",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "maryville university",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "boise state university",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "carnegie mellon university",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "uw-stout esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "uw-stout esports",
+            "score2": "-",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "boise state university",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "boise state university",
+            "score2": "-",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "maryville university",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "ohio state university",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "hu storm",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "psu lions",
+            "score2": "-",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "hu storm",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "ohio state university",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "uw esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "uw esports",
+            "score2": "-",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "psu lions",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "psu lions",
+            "score2": "-",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "hu storm",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "lourdes esports",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "utah utes",
+            "score1": "-",
+            "win1": ""
+        },
+        {
+            "team2": "lourdes esports",
+            "score2": "-",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "scad bees",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "highlander gaming",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "utah utes",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "utah utes",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "lourdes esports",
+            "score1": "-",
+            "win1": ""
+        },
+        {
+            "team2": "utah utes",
+            "score2": "W",
+            "win2": "",
+            "score21": "W",
+            "score22": "-",
+            "key": "R3W1",
+            "team1": "scad bees",
+            "score1": "-",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

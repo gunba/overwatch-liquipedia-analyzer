@@ -1,0 +1,432 @@
+{
+    "tournament_info": [
+        {
+            "name": "Alienware Monthly Melee: April Qualifier",
+            "tickername": "",
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "image": "Alienware monthly meleelogo.png",
+            "series": "Alienware Monthly Melee",
+            "shortname": "April Qualifier",
+            "icon": "Alienware_logo_small.png",
+            "organizer": "Alienware",
+            "format": "Double Elimination",
+            "type": "Online",
+            "patch": "",
+            "country": "USA",
+            "date": "2017-04-14",
+            "prizepoolusd": "",
+            "web": "",
+            "twitch": "curse",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "",
+            "team_number": "11"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Counter Logic Gaming",
+            "image": "",
+            "p1": "Miso",
+            "p2": "Hydration",
+            "p3": "waffletastic",
+            "p4": "iShiny",
+            "p5": "Mikado",
+            "p6": "The",
+            "c": "Cuddles|cflag=uk"
+        },
+        {
+            "team": "Rise Nation",
+            "image": "",
+            "p1": "Desro",
+            "p2": "Locke",
+            "p3": "Spirit",
+            "p4": "xRetzi",
+            "p5": "Midnight",
+            "p6": "Phaz",
+            "c": "Winlogon|cflag=ca"
+        },
+        {
+            "team": "Gale Force eSports",
+            "image": "",
+            "p1": "wgb",
+            "p2": "Boink |p2flag=us",
+            "p3": "Muma  |p3flag=us",
+            "p4": "Bani |p4flag=ca",
+            "p5": "CLOCKWORK",
+            "p6": "Shrugger",
+            "c": "|cflag="
+        },
+        {
+            "team": "Denial eSports",
+            "image": "",
+            "p1": "xQc",
+            "p2": "zza",
+            "p3": "Gingerpop|p3flag=us",
+            "p4": "Dahun|p4flag=us",
+            "p5": "Danteh|p5flag=us",
+            "p6": "Silkthread|p6flag=us",
+            "c": "Jer Kit |cflag=ca",
+            "c2": "Sovereign|c2link=Sovereign (American coach)"
+        },
+        {
+            "team": "EnVision eSports",
+            "image": "",
+            "p1": "Tseini",
+            "p2": "Fire|p2flag=us",
+            "p3": "Fahzix|p3flag=us",
+            "p4": "McGravy|p4flag=us",
+            "p5": "Kophee|p5flag=us",
+            "p6": "Darksma|p6flag=us",
+            "c": "Packing10|cflag=us"
+        },
+        {
+            "team": "Tempo Storm NA",
+            "image": "",
+            "p1": "DreamKazper",
+            "p2": "Mini",
+            "p3": "hooey",
+            "p4": "Jkw",
+            "p5": "Cosi",
+            "p6": "TiG",
+            "c": "Novx|cflag=us"
+        },
+        {
+            "team": "Rockets Esports",
+            "image": "Rockets_Esportslogo.png",
+            "p1": "Cloneman16|p1flag=us",
+            "p2": "Far|p2flag=us",
+            "p3": "Deadly|p3flag=us",
+            "p4": "Majesty|p4flag=ca",
+            "p5": "moth|p5flag=us",
+            "p6": "ultimawep",
+            "t2title": "Staff",
+            "t2p1": "BestStudent|t2pos1=coach|t2p1flag=us",
+            "t2p2": "Bloxi|t2pos2=analyst"
+        },
+        {
+            "team": "You guys get paid?",
+            "image": "Yggp eyes logo.png",
+            "p1": "PsychoWaffle",
+            "p2": "Moffitt",
+            "p3": "SPACE|p3flag=us",
+            "p4": "Beasthalo|p4flag=us",
+            "p5": "MrSquishee|p5flag=ca",
+            "p6": "KSF|p6flag=us"
+        },
+        {
+            "team": "East Wind",
+            "image": "",
+            "p1": "Kayuun",
+            "p2": "Peebimitsu",
+            "p3": "Goliath|p3flag=us",
+            "p4": "Elkiea|p4flag=us",
+            "p5": "Corey|p5flag=us",
+            "p6": "Dcop"
+        },
+        {
+            "team": "Brasil Gaming House",
+            "image": "",
+            "p1": "liko",
+            "p2": "dudu",
+            "p3": "murizzz",
+            "p4": "neil",
+            "p5": "alemao",
+            "p6": "krk",
+            "c": "baba1u |cflag=br"
+        },
+        {
+            "team": "Toronto Esports",
+            "image": "",
+            "p1": "Mac|p1flag=us",
+            "p2": "Cynic|p2flag=uk",
+            "p3": "Jaru|p3flag=us",
+            "p4": "Snow|p4flag=us|p4link=Snow (American player)",
+            "p5": "NotE|p5flag=ca",
+            "p6": "Onigod|p6flag=",
+            "c": "DatsVile|cflag=ca"
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|clg|score=W}}",
+            "opponent2": "{{TeamOpponent|BYE}}",
+            "winner": "1",
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 14, 2017 - 21:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|denial esports|score=2}}",
+            "opponent2": "{{TeamOpponent|envision esports|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "overgg": "3378/denial-vs-envision-overwatch-monthly-melee-april-2017-qual-ub-r1",
+            "pf": "24179/Denial-eSports-vs-EnVision-eSports/",
+            "map1": "{{Map|map=Oasis|mode=Control|score1=3|score2=0|winner=1}}",
+            "map2": "{{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 14, 2017 - 21:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|tempo storm na|score=2}}",
+            "opponent2": "{{TeamOpponent|rockets esports|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "overgg": "3379/tempo-vs-rockets-overwatch-monthly-melee-april-2017-qual-ub-r1",
+            "pf": "24180/Tempo-Storm-NA-vs-Rockets-Esports/",
+            "map1": "{{Map|map=Nepal|mode=Control|score1=3|score2=1|winner=1}}",
+            "map2": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=1|winner=1}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|gale force esports|score=W}}",
+            "opponent2": "{{TeamOpponent|BYE}}",
+            "winner": "1",
+            "optional": "R1M4="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|you guys get paid?|score=W}}",
+            "opponent2": "{{TeamOpponent|BYE}}",
+            "winner": "1",
+            "optional": "R1M5="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|BYE}}",
+            "opponent2": "{{TeamOpponent|east wind|score=W}}",
+            "winner": "2",
+            "optional": "R1M6="
+        },
+        {
+            "date": "April 14, 2017 - 21:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|brasil gaming house|score=2}}",
+            "opponent2": "{{TeamOpponent|toronto esports|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "overgg": "3381/toronto-vs-brasil-g-h-overwatch-monthly-melee-april-2017-qual-ub-r1",
+            "pf": "24182/Brasil-Gaming-House-vs-Toronto-Esports/",
+            "map1": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=3|score2=1|winner=1}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|rise nation|score=W}}",
+            "opponent2": "{{TeamOpponent|BYE}}",
+            "winner": "1",
+            "optional": "R1M8="
+        },
+        {
+            "date": "April 14, 2017 - 23:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|clg|score=0}}",
+            "opponent2": "{{TeamOpponent|denial|score=2}}",
+            "winner": "2",
+            "stream": "",
+            "overgg": "3386/clg-vs-denial-overwatch-monthly-melee-april-2017-qual-ub-r2",
+            "pf": "24239/Counter-Logic-Gaming-vs-Denial-eSports/",
+            "map1": "{{Map|map=Oasis|mode=Control|score1=0|score2=3|winner=2}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 14, 2017 - 22:30 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|tempo storm na|score=2}}",
+            "opponent2": "{{TeamOpponent|gale force esports|score=1}}",
+            "winner": "1",
+            "stream": "",
+            "overgg": "3387/tempo-vs-gfe-overwatch-monthly-melee-april-2017-qual-ub-r2",
+            "pf": "24240/Tempo-Storm-NA-vs-Gale-Force-eSports/",
+            "map1": "{{Map|map=Hollywood|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=Nepal|mode=Control|score1=0|score2=3|winner=2}}",
+            "map3": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "April 14, 2017 - 22:30 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|you guys get paid?|score=0}}",
+            "opponent2": "{{TeamOpponent|east wind|score=2}}",
+            "winner": "2",
+            "stream": "",
+            "overgg": "3380/ew-vs-yggp-overwatch-monthly-melee-april-2017-qual-ub-r2",
+            "pf": "24181/You-guys-get-paid-vs-EasT-Wind/",
+            "map1": "{{Map|map=Nepal|mode=Control|score1=2|score2=3|winner=2}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "April 14, 2017 - 22:30 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|brasil gaming house|score=0}}",
+            "opponent2": "{{TeamOpponent|rise nation|score=2}}",
+            "winner": "2",
+            "stream": "",
+            "overgg": "3405/brasil-g-h-vs-rise-overwatch-monthly-melee-april-2017-qual-ub-r2",
+            "pf": "24241/Brasil-Gaming-House-vs-Rise-Nation/",
+            "map1": "{{Map|map=Hollywood|mode=Hybrid|score1=0|score2=1|winner=2}}",
+            "map2": "{{Map|map=Lijiang Tower|mode=Control|score1=0|score2=3|winner=2}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "April 15, 2017 - 00:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|denial|score=2}}",
+            "opponent2": "{{TeamOpponent|tempo storm na|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "overgg": "3390/denial-vs-tempo-overwatch-monthly-melee-april-2017-qual-ub-sf",
+            "pf": "24247/Denial-eSports-vs-Tempo-Storm-NA/",
+            "map1": "{{Map|map=Oasis|mode=Control|score1=3|score2=0|winner=1}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "April 15, 2017 - 01:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|east wind|score=2}}",
+            "opponent2": "{{TeamOpponent|rise nation|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "overgg": "3391/ew-vs-rise-overwatch-monthly-melee-april-2017-qual-ub-sf",
+            "pf": "24248/EasT-Wind-vs-Rise-Nation/",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=3|score2=2|winner=1}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "April 14, 2017 - 02:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|denial|score=2}}",
+            "opponent2": "{{TeamOpponent|east wind|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "overgg": "3392/denial-vs-tbd-overwatch-monthly-melee-april-2017-quals-ubf",
+            "pf": "24257/Denial-eSports-vs-EasT-Wind/",
+            "map1": "{{Map|map=Oasis|mode=Control|score1=3|score2=2|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=4|score2=3|winner=1}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|envision esports|score=W}}",
+            "opponent2": "{{TeamOpponent|BYE}}",
+            "winner": "1",
+            "optional": "R1M9="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|rockets esports|score=W}}",
+            "opponent2": "{{TeamOpponent|BYE}}",
+            "winner": "1",
+            "optional": "R1M10="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|BYE}}",
+            "opponent2": "{{TeamOpponent|BYE}}",
+            "optional": "R1M11="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|toronto esports|score=W}}",
+            "opponent2": "{{TeamOpponent|BYE}}",
+            "winner": "1",
+            "optional": "R1M12="
+        },
+        {
+            "date": "April 14, 2017 - 23:15 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|brasil gaming house|score=0}}",
+            "opponent2": "{{TeamOpponent|envision esports|score=1}}",
+            "winner": "2",
+            "stream": "",
+            "overgg": "3396/brasil-g-h-vs-envision-overwatch-monthly-melee-april-2017-qual-lb-r1",
+            "pf": "24244/Brasil-Gaming-House-vs-EnVision-eSports/",
+            "map1": "{{Map|map=Numbani|mode=Hybrid|score1=0|score2=1|winner=2}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "April 14, 2017 - 23:15 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|you guys get paid?|score=1}}",
+            "opponent2": "{{TeamOpponent|rockets esports|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "overgg": "3394/yggp-vs-rockets-overwatch-monthly-melee-april-2017-qual-lb-r1",
+            "pf": "24245/You-guys-get-paid-vs-Rockets-Esports/",
+            "map1": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=1|winner=1}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|gale force esports|score=W}}",
+            "opponent2": "{{TeamOpponent|BYE}}",
+            "winner": "1",
+            "optional": "R2M7="
+        },
+        {
+            "date": "April 15, 2017 - 00:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|clg|score=1}}",
+            "opponent2": "{{TeamOpponent|toronto esports|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "overgg": "3393/clg-vs-toronto-overwatch-monthly-melee-april-2017-qual-lb-r1",
+            "pf": "24246/Counter-Logic-Gaming-vs-Toronto-Esports/",
+            "map1": "{{Map|map=Dorado|mode=Escort|score1=1|score2=0|winner=1}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "April 15, 2017 - 00:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|envision esports|score=0}}",
+            "opponent2": "{{TeamOpponent|you guys get paid?|score=1}}",
+            "winner": "2",
+            "stream": "",
+            "overgg": "3397/envision-vs-yggp-overwatch-monthly-melee-april-2017-qual-lb-r2",
+            "pf": "24249/EnVision-eSports-vs-You-guys-get-paid/",
+            "map1": "{{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=3|winner=2}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "April 15, 2017 - 00:30 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|gale force esports|score=0}}",
+            "opponent2": "{{TeamOpponent|clg|score=1}}",
+            "winner": "2",
+            "stream": "",
+            "overgg": "3398/gfe-vs-clg-overwatch-monthly-melee-april-2017-qual-lb-r2",
+            "pf": "24250/Gale-Force-eSports-vs-Counter-Logic-Gaming/",
+            "map1": "{{Map|map=Temple of Anubis|mode=Assault|score1=1|score2=2|winner=2}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "April 15, 2017 - 02:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|rise nation|score=1}}",
+            "opponent2": "{{TeamOpponent|you guys get paid?|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "overgg": "3399/rise-vs-yggp-overwatch-monthly-melee-april-2017-quals-lb-r3",
+            "pf": "24251/-vs-You-guys-get-paid/",
+            "map1": "{{Map|map=Hollywood|mode=Hybrid|score1=4|score2=3|winner=1}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "April 15, 2017 - 01:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|tempo storm na|score=1}}",
+            "opponent2": "{{TeamOpponent|clg|score=0}}",
+            "winner": "1",
+            "stream": "",
+            "overgg": "3400/tempo-vs-clg-overwatch-monthly-melee-april-2017-qual-lb-r3",
+            "pf": "24252/Tempo-Storm-NA-vs-Counter-Logic-Gaming/",
+            "map1": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=5|score2=4|winner=1}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "April 15, 2017 - 03:00 {{Abbr/CEST}} |finished=true",
+            "opponent1": "{{TeamOpponent|rise nation|score=1}}",
+            "opponent2": "{{TeamOpponent|tempo storm na|score=2}}",
+            "winner": "2",
+            "stream": "",
+            "overgg": "3401/tempo-vs-tbd-overwatch-monthly-melee-april-2017-quals-lb-r4",
+            "pf": "24258/Rise-Nation-vs-Tempo-Storm-NA/",
+            "map1": "{{Map|map=Hollywood|mode=Hybrid|score1=1|score2=0|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=4|score2=5|winner=2}}",
+            "map3": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=3|winner=2}}",
+            "optional": "R5M2="
+        }
+    ]
+}

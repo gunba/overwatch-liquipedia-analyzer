@@ -1,0 +1,431 @@
+{{DISPLAYTITLE:NACE Starleague Spring 2023 Varsity Premier - East 1}}
+{{NACE Starleague navbox}}
+{{Tabs static
+|name1=East 1|link1=NACE Starleague/2023/Spring/Varsity/East 1
+|name2=East 2|link2=NACE Starleague/2023/Spring/Varsity/East 2
+|name3=East 3|link3=NACE Starleague/2023/Spring/Varsity/East 3
+|name4=East 4|link4=NACE Starleague/2023/Spring/Varsity/East 4
+|name5=East 5|link5=NACE Starleague/2023/Spring/Varsity/East 5
+|name6=East 6|link6=NACE Starleague/2023/Spring/Varsity/East 6
+|name7=West-Central|link7=NACE Starleague/2023/Spring/Varsity/West-Central
+|name8=Last Chance Qualifier|link8=NACE Starleague/2023/Spring/Varsity/Last Chance Qualifier
+|name9=Playoffs|link9=NACE Starleague/2023/Spring/Varsity
+}}
+{{Infobox league
+|liquipediatier=3|liquipediatiertype=Qualifier
+|series=NACE Starleague
+|abbreviation=NACE
+|name=NACE Starleague Spring 2023 Varsity Premier - East 1
+|shortname=NACE Starleague Spring 2023 Varsity Premier - East 1
+|tickername=NACE Varsity East 1
+|image=NACE Starleague lightmode.png
+|imagedark=NACE Starleague darkmode.png
+|organizer=National Association of Collegiate Esports
+|organizer-link=https://nacesports.org/
+|organizer2=Playfly Esports
+|organizer2-link=https://playfly.com/esports/
+|sponsor=[https://www.extra-life.org/ Extra Life]<br>[https://www.monsterenergy.com/us/en Monster Energy]
+|type=Online
+|country=North America
+|game=overwatch2
+|prizepoolusd=
+|sdate=2023-01-31
+|edate=2023-03-25
+|twitter=nacestarleague
+|web=https://nacesports.org
+|twitch=nacestarleague
+|twitch2=
+|discord=
+|youtube=
+|rulebook=https://drive.google.com/file/d/1MnMZwglbsVAZwLnIS7liaAxoq4ghv40_/view
+|bracket=https://nsl.leaguespot.gg/seasons/dabaf295-9209-408b-bcd5-2492214d5a28
+|team_number=8
+}}
+
+==Information==
+===Production===
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Broadcast Coordinator
+|b1=KhazixMayJump
+}}
+{{box|end}}
+
+===Format===
+*Round-robin format
+*Winner qualifies for Playoffs
+*Second and third place teams qualify for Last Chance Qualifier
+
+==Prize Pool==
+{{TeamPrizePool|qualifies1=NACE Starleague/2023/Spring/Varsity|qualifies1name=Playoffs|qualifies2=NACE Starleague/2023/Spring/Varsity/Last Chance Qualifier|qualifies2name=Last Chance Qualifier|prizesummary=false|import=false
+|{{Slot|qualified1=true|{{Opponent|blinn esports|lastvs=rit esports|lastvsscore=3-0}}}}
+|{{Slot|qualified2=true|{{Opponent|rit esports|lastvs=blinn esports|lastvsscore=0-3}}}}
+|{{Slot|qualified2=true|{{Opponent|ontario tech esports|lastvs=rit esports|lastvsscore=1-3|date=2023-03-21}}}}
+|{{Slot|{{Opponent|stony brook esports|wdl=4/3}}}}
+|{{Slot|{{Opponent|ksu wildcats|wdl=3/4}}}}
+|{{Slot|dq=true|{{Opponent|truett mcconnell university|wdl=2/5}}}}
+|{{Slot|dq=true|{{Opponent|tmu esports|wdl=0/7}}}}
+|{{Slot|dnp=true|{{Opponent|utd esports}}}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=<s>Truett McConnell</s>
+|link=Truett McConnell University
+|p1=GIJoeMeerkat|p1flag=|pos1=dps
+|p2=Impulssi|p2flag=|pos2=dps
+|p3=cUwUtie|p3flag=|pos3=tank
+|p4=Kiwi|p4link=Kiwi (American Player)|p4flag=|pos4=sup
+|p5=TheGreeneDude|p5flag=|pos5=sup
+|p6=BrokenMythos|p6flag=|pos6=
+|inotes={{NoteBig
+|n1=[[Truett McConnell University]] is disqualified in Round 5.
+}}
+}}
+{{TeamCard
+|team=<s>UT Dallas</s>
+|link=UTD Esports
+|p1=STAS1S|p1flag=us|pos1=dps
+|p2=P3t9L|p2flag=|pos2=dps
+|p3=Kashir|p3flag=|pos3=dps
+|p4=Lueyyy|p4flag=|pos4=tank
+|p5=abdala|p5flag=|pos5=tank
+|p6=Doyi|p6flag=il|pos6=sup
+|p7=Mallarad|p7flag=us|pos7=sup
+|p8=Savior|p8link=Savior (American player)|p8flag=us|pos8=sup
+|p9=Nitai|p9flag=us|pos9=flex
+|p10=durpee|p10flag=us|pos10=flex
+|t2title=Staff
+|t2c1=MinniePwn|t2c1pos=manager
+|t2c2=Bani|t2c2pos=head coach
+|t2c3=BanthaPoodoo|t2c3flag=in|t2c3pos=assistant coach
+|t2c4=DJBlanket|t2c4flag=us|t2c4pos=assistant coach
+|inotes={{NoteBig
+|n1=[[UTD Esports]] drops out in Week 1.
+}}
+}}
+{{TeamCard
+|team=Stony Brook University
+|link=Stony Brook Esports
+|p1=Shoota|p1flag=|pos1=dps
+|p2=Nezuko|p2flag=|pos2=dps
+|p3=Jhin|p3flag=|pos3=tank
+|p4=Haze|p4link=Haze (American Player)|p4flag=|pos4=sup
+|p5=Uziverse|p5flag=|pos5=sup
+}}
+{{TeamCard
+|team=<s>Toronto Metropolitan</s>
+|link=Toronto Metropolitan University
+|p1=PlebW|p1flag=ca|pos1=dps
+|p2=DirtySockZ|p2flag=|pos2=dps
+|p3=Apoth|p3flag=|pos3=dps
+|p4=Solo|p4flag=|pos4=tank
+|p5=Siddie|p5flag=|pos5=sup
+|p6=Kvn|p6flag=can|pos6=sup
+|p7=Michelle|p7flag=|pos7=sup|p7link=Michelle (Canadian Player)
+|inotes={{NoteBig
+|n1=[[TMU Esports]] is disqualified in Round 5.
+}}
+}}
+{{TeamCard
+|team=RIT
+|link=Rochester Institute of Technology
+|p1=Chocomann|p1flag=|pos1=dps
+|p2=Essull|p2flag=us|pos2=dps
+|p3=BlueJay|p3flag=|pos3=tank
+|p4=LiamHeliam29|p4flag=|pos4=sup
+|p5=Actual|p5flag=|pos5=sup
+}}
+{{TeamCard
+|team=Blinn College
+|p1=Swef|p1flag=us|pos1=dps
+|p2=Vader|p2flag=us|pos2=dps|p2link=Vader (American Player)
+|p3=Gnja2012|p3flag=us|pos3=tank
+|p4=Azukari|p4flag=us|pos4=tank
+|p5=Hutch|p5flag=us|pos5=sup
+|p6=KnuckleBunni|p6flag=us|pos6=sup
+|t2title=Staff
+|t2c1=KyleMurto|t2c1flag=us|t2c1pos=Coach
+|t2c2=CrazyHobo|t2c2flag=us|t2c2pos=manager
+}}
+{{TeamCard
+|team=Ontario Tech University
+|p1=Slypher|p1flag=ca|pos1=dps
+|p2=Fantome|p2flag=|pos2=dps
+|p3=Reps4Jesus|p3flag=|pos3=dps
+|p4=Nachotime|p4flag=ca|pos4=tank
+|p5=Kalcium|p5flag=ca|pos5=sup
+|p6=Otta|p6flag=|pos6=sup
+}}
+{{TeamCard
+|team=Kansas State University
+|p1=Glowsea|p1flag=|pos1=dps
+|p2=ItsPapaTY|p2flag=|pos2=dps
+|p3=crashtnt|p3flag=|pos3=tank
+|p4=FATHOM|p4flag=|pos4=sup
+|p5=TheArbiter|p5flag=|pos5=sup
+|p6=north|p6flag=|pos6=flex
+}}
+{{TeamCard columns end}}
+
+==Results==
+==={{Stage|Group Stage}}===
+{{box|start}}
+{{GroupTableLeague|title=East Region #1|width=450px|diff=true
+|tiebreaker1=series|tiebreaker2=h2h series
+|pbg1=up|pbg2=stayup|pbg3=stayup|pbg4=down|pbg5=down|pbg6=down|pbg7=down|pbg8=down
+|win_p=2|walkover_win=3
+|round1edate=February 7, 2023 - 18:00 {{Abbr/EST}}|round2edate=February 14, 2023 - 18:00 {{Abbr/EST}}|round3edate=February 21, 2023 - 18:00 {{Abbr/EST}}|round4edate=February 28, 2023 - 18:00 {{Abbr/EST}}|round5edate=March 7, 2023 - 18:00 {{Abbr/EST}}|round6edate=March 14, 2023 - 18:00 {{Abbr/EDT}}|round7edate=March 21, 2023 - 18:00 {{Abbr/EDT}}
+|sdate=January 31, 2023|edate=March 21, 2023 - 18:00 {{Abbr/EDT}}
+|team1=truett mcconnell|round5dq1=true|round5bg1=down
+|team2=utd esports|round1dq2=true|round1bg2=down
+|team3=stony brook esports|round7bg3=down
+|team4=tmu esports|round5dq4=true|round5bg4=down
+|team5=rit esports|round6bg5=stayup
+|team6=blinn esports|round6bg6=up
+|team7=ontario tech esports|round7bg7=stayup
+|team8=ksu wildcats|round6bg8=down
+|tournament=NACE Starleague/2023/Spring/Varsity/East 1
+}}
+{{box|break|padding=2em}}
+{{CrossTableLeague
+|single=true|sdate=January 31, 2023|edate=March 21, 2023|tournament=NACE Starleague/2023/Spring/Varsity/East 1
+|team1=truett mcconnell
+|team2=utd esports
+|team3=stony brook esports
+|team4=tmu esports
+|team5=rit esports
+|team6=blinn esports
+|team7=ontario tech esports
+|team8=ksu wildcats
+}}
+{{box|end}}
+
+====Matches====
+{{box|start|padding=2em}}
+{{Matchlist|id=Q1ubxzHgKQ|title=Round 1
+|M1={{Match
+    |bestof=5
+    |date=January 31, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|truett mcconnell university|score=W}}
+    |opponent2={{TeamOpponent|utd esports|score=FF}}
+}}
+|M2={{Match
+    |date=January 31, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|stony brook esports|score=}}
+    |opponent2={{TeamOpponent|tmu esports|score=}}
+	|map1={{Map|map=Control|mode=Control|score1=2|score2=0|winner=1}}
+	|map2={{Map|map=Hybrid|mode=Hybrid|score1=3|score2=2|winner=1}}
+	|map3={{Map|map=Escort|mode=Escort|score1=2|score2=1|winner=1}}
+}}
+|M3={{Match
+    |date=February 8, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|rit esports|score=0}}
+    |opponent2={{TeamOpponent|blinn esports|score=3}}
+}}
+|M4={{Match
+    |date=January 31, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ontario tech esports|score=}}
+    |opponent2={{TeamOpponent|ksu wildcats|score=}}
+	|map1={{Map|map=Control|mode=Control|score1=2|score2=1|winner=1}}
+	|map2={{Map|map=Hybrid|mode=Hybrid|score1=4|score2=5|winner=2}}
+	|map3={{Map|map=Escort|mode=Escort|score1=3|score2=2|winner=1}}
+	|map4={{Map|map=Push|mode=Push|score1=1|score2=0|winner=1}}
+}}
+}}
+{{box|break|padding=2em}}
+{{Matchlist|id=ToboOkWWpI|title=Round 2
+|M1={{Match
+    |bestof=5
+    |date=February 7, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|utd esports|score=FF}}
+    |opponent2={{TeamOpponent|stony brook esports|score=W}}
+}}
+|M2={{Match
+    |date=February 7, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=nacestarleague
+    |opponent1={{TeamOpponent|blinn esports|score=3}}
+    |opponent2={{TeamOpponent|truett mcconnell university|score=0}}
+}}
+|M3={{Match
+    |date=February 7, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|tmu esports|score=0}}
+    |opponent2={{TeamOpponent|ksu wildcats|score=3}}
+}}
+|M4={{Match
+    |date=February 7, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|rit esports|score=3}}
+    |opponent2={{TeamOpponent|ontario tech esports|score=2}}
+}}
+}}
+{{box|break|padding=2em}}
+{{Matchlist|id=xDceQZZZBr|title=Round 3
+|M1={{Match
+    |bestof=5
+    |date=February 14, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|blinn esports|score=W}}
+    |opponent2={{TeamOpponent|utd esports|score=FF}}
+}}
+|M2={{Match
+    |date=February 14, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ksu wildcats|score=0}}
+    |opponent2={{TeamOpponent|stony brook esports|score=3}}
+}}
+|M3={{Match
+    |date=February 14, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|truett mcconnell university|score=FF}}
+    |opponent2={{TeamOpponent|ontario tech esports|score=W}}
+}}
+|M4={{Match
+    |date=February 14, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|tmu esports|score=0}}
+    |opponent2={{TeamOpponent|rit esports|score=3}}
+}}
+}}
+{{box|break|padding=2em}}
+{{Matchlist|id=jdK4iXqsBn|title=Round 4
+|M1={{Match
+    |bestof=5
+    |date=February 21, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ksu wildcats|score=W}}
+    |opponent2={{TeamOpponent|utd esports|score=FF}}
+}}
+|M2={{Match
+    |date=February 21, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=nacestarleague
+    |opponent1={{TeamOpponent|blinn esports|score=3}}
+    |opponent2={{TeamOpponent|ontario tech esports|score=0}}
+}}
+|M3={{Match
+    |date=February 21, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|rit esports|score=3}}
+    |opponent2={{TeamOpponent|stony brook esports|score=0}}
+}}
+|M4={{Match
+    |date=February 21, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|truett mcconnell university|score=W}}
+    |opponent2={{TeamOpponent|tmu esports|score=FF}}
+}}
+}}
+{{box|break|padding=2em}}
+{{Matchlist|id=jO4dfOx2Xd|title=Round 5
+|M1={{Match
+    |bestof=5
+    |date=February 28, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|utd esports|score=FF}}
+    |opponent2={{TeamOpponent|ontario tech esports|score=W}}
+}}
+|M2={{Match
+    |date=February 28, 2023 - 21:00 {{Abbr/EST}}
+    |youtube=|twitch=nacestarleague
+    |opponent1={{TeamOpponent|ksu wildcats|score=0}}
+    |opponent2={{TeamOpponent|rit esports|score=3}}
+}}
+|M3={{Match
+    |date=February 28, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|blinn esports|score=W}}
+    |opponent2={{TeamOpponent|tmu esports|score=FF}}
+}}
+|M4={{Match
+    |date=February 28, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|stony brook esports|score=W}}
+    |opponent2={{TeamOpponent|truett mcconnell university|score=FF}}
+}}
+}}
+{{box|break|padding=2em}}
+{{Matchlist|id=xVmeYuqXmY|title=Round 6
+|M1={{Match
+    |bestof=5
+    |date=March 7, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|rit esports|score=W}}
+    |opponent2={{TeamOpponent|utd esports|score=FF}}
+}}
+|M2={{Match
+    |date=March 7, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|tmu esports|score=FF}}
+    |opponent2={{TeamOpponent|ontario tech esports|score=W}}
+}}
+|M3={{Match
+    |date=March 7, 2023 - 19:00 {{Abbr/EST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|truett mcconnell university|score=FF}}
+    |opponent2={{TeamOpponent|ksu wildcats|score=W}}
+}}
+|M4={{Match
+    |date=March 7, 2023 - 20:00 {{Abbr/EST}}
+    |youtube=|twitch=nacestarleague
+    |opponent1={{TeamOpponent|blinn esports|score=3}}
+    |opponent2={{TeamOpponent|stony brook esports|score=0}}
+}}
+}}
+{{box|break|padding=2em}}
+{{Matchlist|id=wN0GSdYogT|title=Round 7
+|M1={{Match
+    |bestof=5
+    |date=March 14, 2023 - 19:00 {{Abbr/EDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|tmu esports|score=W}}
+    |opponent2={{TeamOpponent|utd esports|score=FF}}
+}}
+|M2={{Match
+    |date=March 14, 2023 - 19:00 {{Abbr/EDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|rit esports|score=W}}
+    |opponent2={{TeamOpponent|truett mcconnell university|score=FF}}
+}}
+|M3={{Match
+    |date=March 14, 2023 - 19:00 {{Abbr/EDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ontario tech esports|score=3}}
+    |opponent2={{TeamOpponent|stony brook esports|score=1}}
+}}
+|M4={{Match
+    |date=March 7, 2023 - 19:00 {{Abbr/EDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ksu wildcats|score=0}}
+    |opponent2={{TeamOpponent|blinn esports|score=3}}
+}}
+}}
+{{box|end}}
+
+==={{Stage|Conference Championship}}===
+{{Bracket|Bracket/2L1D|id=3Vr8uu6tG9
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=5
+    |date=March 21, 2023 - 21:00 {{Abbr/EDT}}
+    |youtube=|twitch=nacestarleague
+    |opponent1={{TeamOpponent|ontario tech esports|score=1}}
+    |opponent2={{TeamOpponent|rit esports|score=3}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |date=March 25, 2023 - 17:00 {{Abbr/EDT}}
+    |youtube=|twitch=nacestarleague
+    |opponent1={{TeamOpponent|blinn esports|score=3}}
+    |opponent2={{TeamOpponent|rit esports|score=0}}
+}}
+}}

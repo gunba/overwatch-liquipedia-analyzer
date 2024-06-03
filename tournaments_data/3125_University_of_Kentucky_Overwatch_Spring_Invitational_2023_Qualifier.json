@@ -1,0 +1,1444 @@
+{
+    "tournament_info": [
+        {
+            "name": "University of Kentucky Overwatch Spring Invitational 2023 Qualifier",
+            "shortname": "UKY Esports Spring Invitational 23 Qualifier",
+            "tickername": "Univ. of Kentucky Spring Invitational Qualifier",
+            "image": "UKY Esports Overwatch Spring 2023 Invitational allmode.png",
+            "icon": "Kentucky Esports allmode.png",
+            "organizer": "University of Kentucky",
+            "sponsor": "",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "United States",
+            "format": "Swiss",
+            "sdate": "2023-02-22",
+            "edate": "2023-03-15",
+            "liquipediatier": "4",
+            "liquipediatiertype": "Qualifier",
+            "discord": "ukyesports",
+            "rules": "https://docs.google.com/document/d/1wVfl0iQSKoChjOwG-o-Sx58BGjP4zAm-9IVRjBl_Zio",
+            "twitter": "ukyesports",
+            "team_number": "30"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Ball State University",
+            "p1": "ManweAinur ",
+            "p1flag": "us",
+            "p1link": "Manwe",
+            "p2": "Spencer ",
+            "p2flag": "us",
+            "p3": "RavenStrider ",
+            "p3flag": "us",
+            "p4": "Yakester ",
+            "p4flag": "us",
+            "p5": "NINJACURLYFRY ",
+            "p5flag": "us"
+        },
+        {
+            "team": "Blinn Esports",
+            "p1": "Swef",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Vader",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p2link": "Vader (American Player)",
+            "p3": "Gnja2012",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Azukari",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Hutch",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "KnuckleBunni",
+            "p6flag": "us",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "KyleMurto",
+            "t2c1flag": "us",
+            "t2c1pos": "Coach",
+            "t2c2": "CrazyHobo",
+            "t2c2flag": "us",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "Centre College",
+            "p1": "ADAMAH ",
+            "p1flag": "us",
+            "p2": "BlakuBlaku ",
+            "p2flag": "us",
+            "p3": "Carp ",
+            "p3flag": "us",
+            "p4": "ChonkyGhost ",
+            "p4flag": "us",
+            "p5": "DoodooBoodoo ",
+            "p5flag": "us",
+            "p6": "Galvanijo ",
+            "p6flag": "us",
+            "p7": "JeliMain ",
+            "p7flag": "us",
+            "p8": "Runner ",
+            "p8flag": "us ",
+            "p8link": "Runner (Collegiate player)",
+            "p9": "Toonie03 ",
+            "p9flag": "us",
+            "p10": "VEcToR ",
+            "p10flag": "cn",
+            "p11": "whosjames ",
+            "p11flag": "us"
+        },
+        {
+            "team": "Columbia International University",
+            "p1": "Areris ",
+            "p1flag": "us",
+            "p2": "HowsYourDay ",
+            "p2flag": "us",
+            "p3": "Kiseki ",
+            "p3flag": "us",
+            "p4": "MrWinter ",
+            "p4flag": "us",
+            "p4link": "Winter (American Player)",
+            "p5": "Sabbatical ",
+            "p5flag": "us",
+            "p6": "Z3ST ",
+            "p6flag": "us"
+        },
+        {
+            "team": "Converse University",
+            "link": "Converse Esports",
+            "p1": "Chance ",
+            "p1flag": "us ",
+            "p1link": "Chance_(American Player)",
+            "p2": "Garchomp ",
+            "p2flag": "us",
+            "p3": "Grapha ",
+            "p3flag": "gr",
+            "p4": "HaMmEr ",
+            "p4flag": "us",
+            "p5": "Orion ",
+            "p5flag": "us",
+            "p6": "Qwickzzz ",
+            "p6flag": "us",
+            "p7": "StillKIWI ",
+            "p7flag": "us"
+        },
+        {
+            "team": "Cumberland University",
+            "p1": "Dominator171 ",
+            "p1flag": "us",
+            "p2": "Gill ",
+            "p2flag": "us",
+            "p3": "HemlocK ",
+            "p3flag": "us",
+            "p4": "Killa ",
+            "p4flag": "us",
+            "p5": "LeonMaster ",
+            "p5flag": "us",
+            "p6": "MattR ",
+            "p6flag": "us",
+            "p7": "tamaki ",
+            "p7flag": "us"
+        },
+        {
+            "team": "Eastern Kentucky University",
+            "p1": "Arkos ",
+            "p1flag": "us",
+            "p2": "Azathoph ",
+            "p2flag": "us",
+            "p3": "CanMan ",
+            "p3flag": "us",
+            "p4": "doctorTumult ",
+            "p4flag": "us",
+            "p5": "GARUSSAA ",
+            "p5flag": "us",
+            "p6": "Gaviix ",
+            "p6flag": "us",
+            "p7": "Iceknight180 ",
+            "p7flag": "us",
+            "p8": "Kipper ",
+            "p8flag": "us",
+            "p9": "Kit ",
+            "p9flag": "us",
+            "p10": "Maggardo ",
+            "p10flag": "us",
+            "p11": "M\u014dtherDuck ",
+            "p11flag": "us",
+            "p12": "RacerRick ",
+            "p12flag": "us",
+            "p13": "Top5shot ",
+            "p13flag": "us"
+        },
+        {
+            "team": "Fisher College White",
+            "p1": "Matrix ",
+            "p1flag": "us ",
+            "p1link": "Matrix (Collegiate player)",
+            "p2": "Mias ",
+            "p2flag": "us",
+            "p3": "Plum ",
+            "p3flag": "us",
+            "p4": "silentjozef ",
+            "p4flag": "us",
+            "p5": "SmileGarden ",
+            "p5flag": "us"
+        },
+        {
+            "team": "Kennesaw State University",
+            "p1": "chorox ",
+            "p1flag": "us",
+            "p2": "dyuhr ",
+            "p2flag": "us",
+            "p3": "Hoody ",
+            "p3flag": "us",
+            "p4": "LetsPlayRevo ",
+            "p4flag": "us",
+            "p5": "Mdawg ",
+            "p5flag": "us",
+            "p6": "Radimir ",
+            "p6flag": "us",
+            "p7": "Shottle ",
+            "p7flag": "us"
+        },
+        {
+            "team": "Kennesaw State Academy",
+            "p1": "camsky ",
+            "p1flag": "us",
+            "p2": "clash ",
+            "p2flag": "us",
+            "p3": "Coach ",
+            "p3flag": "us",
+            "p4": "doofault ",
+            "p4flag": "us",
+            "p5": "Kezn ",
+            "p5flag": "us",
+            "p6": "PrototypeR ",
+            "p6flag": "us",
+            "p7": "W0WW0W ",
+            "p7flag": "us"
+        },
+        {
+            "team": "Louisiana State University",
+            "p1": "LuckyDragon5 ",
+            "p1flag": "us ",
+            "pos1": "dps",
+            "p2": "DaRat ",
+            "p2flag": "us ",
+            "pos2": "dps",
+            "p3": "Eho0t ",
+            "p3flag": "us ",
+            "pos3": "tank",
+            "p4": "Fuji ",
+            "p4flag": "us ",
+            "pos4": "sup",
+            "p5": "BassRhythm ",
+            "p5flag": "us ",
+            "pos5": "sup",
+            "p6": "Splash ",
+            "p6flag": "us ",
+            "p6pos": "flex"
+        },
+        {
+            "team": "Maryville University",
+            "p1": "TR33 ",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "k1ng ",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "False ",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "mikeyy ",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "joobi ",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "syrus ",
+            "p6flag": "us",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "iced",
+            "t2c1flag": "us",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "Miami University of Ohio",
+            "link": "Redhawks",
+            "p1": "KaBunga ",
+            "p1flag": "us",
+            "p2": "Shocker ",
+            "p2flag": "us",
+            "p3": "Bonesaw ",
+            "p3flag": "us",
+            "p4": "skrtle ",
+            "p4flag": "us",
+            "p5": "Fahzix ",
+            "p5flag": "us",
+            "p6": "Jaybird ",
+            "p6flag": "us",
+            "p7": "CGS ",
+            "p7flag": "us"
+        },
+        {
+            "team": "Murray State University",
+            "p1": "Brodo ",
+            "p1flag": "us",
+            "p2": "Cherrybuni ",
+            "p2flag": "us",
+            "p3": "Dakkon ",
+            "p3flag": "us",
+            "p4": "HORIZON ",
+            "p4flag": "us",
+            "p5": "myreath ",
+            "p5flag": "us",
+            "p6": "sknid ",
+            "p6flag": "us",
+            "p7": "TheChief ",
+            "p7flag": "us"
+        },
+        {
+            "team": "Northeastern University",
+            "p1": "Frisco ",
+            "p1flag": "us ",
+            "p1link": "Frisco (Collegiate player)",
+            "p2": "Hedwig ",
+            "p2flag": "us",
+            "p3": "Neatz ",
+            "p3flag": "us",
+            "p4": "Qghop ",
+            "p4flag": "us",
+            "p5": "SCL33 ",
+            "p5flag": "us",
+            "p6": "Timid ",
+            "p6flag": "us",
+            "p7": "Woah ",
+            "p7flag": "us",
+            "t2title": "Staff",
+            "t2c1": "Temporal",
+            "t2c1pos": "coach",
+            "inotes": "{{NoteBig",
+            "n1": "'''Northeastern University''' replace '''University of St. Thomas''' who withdrew during Week 1. They are given two losses for Rounds 1 and 2."
+        },
+        {
+            "team": "Syracuse University",
+            "p1": "ayzer ",
+            "p1flag": "us",
+            "p2": "Canid ",
+            "p2flag": "us",
+            "p3": "Law ",
+            "p3flag": "us",
+            "p4": "Nanami ",
+            "p4flag": "us",
+            "p5": "Viscous ",
+            "p5flag": "us"
+        },
+        {
+            "team": "Ohio State University Scarlet",
+            "link": "Ohio State University",
+            "p1": "Eski ",
+            "p1flag": "us",
+            "p2": "Farthy ",
+            "p2flag": "us",
+            "p3": "Lava ",
+            "p3flag": "us",
+            "p4": "Nami ",
+            "p4flag": "us",
+            "p5": "Performance ",
+            "p5flag": "us",
+            "p6": "Sockdolager ",
+            "p6flag": "us"
+        },
+        {
+            "team": "Ohio State University Gray",
+            "p1": "Kaibyo ",
+            "p1flag": "us",
+            "p2": "Majotto ",
+            "p2flag": "us",
+            "p3": "Orangutan ",
+            "p3flag": "us",
+            "p4": "Potatoess ",
+            "p4flag": "us",
+            "p5": "Santa143 ",
+            "p5flag": "us",
+            "p6": "skyph ",
+            "p6flag": "us",
+            "p7": "lyum ",
+            "p7flag": "us"
+        },
+        {
+            "team": "Tennessee Tech University",
+            "p1": "Chicken178 ",
+            "p1flag": "us",
+            "p2": "iCarlyDies ",
+            "p2flag": "us",
+            "p3": "KGGhost ",
+            "p3flag": "us",
+            "p4": "Lumo ",
+            "p4flag": "us",
+            "p5": "Ruff ",
+            "p5flag": "us",
+            "p6": "Spenker ",
+            "p6flag": "us",
+            "p7": "xEquanox ",
+            "p7flag": "us"
+        },
+        {
+            "team": "University of Cincinnati Black",
+            "p1": "Firehound2 ",
+            "p1flag": "us",
+            "p2": "irrational ",
+            "p2flag": "us",
+            "p3": "JO3Y ",
+            "p3flag": "us",
+            "p4": "KADN148 ",
+            "p4flag": "us",
+            "p5": "Lightning ",
+            "p5flag": "us",
+            "p6": "Puffer ",
+            "p6flag": "us",
+            "p7": "StiffTee ",
+            "p7flag": "us",
+            "p8": "Zekthesnek ",
+            "p8flag": "us"
+        },
+        {
+            "team": "University of Cincinnati Red",
+            "p1": "Andog ",
+            "p1flag": "us",
+            "p2": "Chu ",
+            "p2flag": "us ",
+            "p2link": "Chu (American player)",
+            "p3": "Er6ick ",
+            "p3flag": "us",
+            "p4": "Nacho ",
+            "p4flag": "us",
+            "p5": "Phase ",
+            "p5flag": "us",
+            "p6": "Reginald ",
+            "p6flag": "us",
+            "p7": "Zshrimpman ",
+            "p7flag": "us"
+        },
+        {
+            "team": "University of Kentucky Blue",
+            "p1": "Andy ",
+            "p1flag": "us ",
+            "p1link": "Andy (American Player)",
+            "p2": "aspectcisco ",
+            "p2flag": "us",
+            "p3": "Butters ",
+            "p3flag": "us",
+            "p4": "Hele ",
+            "p4flag": "us",
+            "p5": "madjack272 ",
+            "p5flag": "us",
+            "p6": "MyzuX ",
+            "p6flag": "us"
+        },
+        {
+            "team": "University of Kentucky Gold",
+            "p1": "Amino ",
+            "p1flag": "us",
+            "p2": "BrandinoB ",
+            "p2flag": "us",
+            "p3": "NH ",
+            "p3flag": "us",
+            "p4": "mzkoops24 ",
+            "p4flag": "us",
+            "p5": "perilune ",
+            "p5flag": "us",
+            "p6": "PhatDragon ",
+            "p6flag": "us",
+            "p7": "QueenArrow ",
+            "p7flag": "us",
+            "p8": "renzawa ",
+            "p8flag": "us",
+            "p9": "mysterio ",
+            "p9flag": "us"
+        },
+        {
+            "team": "University of Kentucky White",
+            "p1": "BROWON88 ",
+            "p1flag": "us",
+            "p2": "croaker ",
+            "p2flag": "us",
+            "p3": "Millennium ",
+            "p3flag": "us",
+            "p4": "Nitro2408 ",
+            "p4flag": "us",
+            "p5": "NotWilson ",
+            "p5flag": "us",
+            "p6": "Pcnurick ",
+            "p6flag": "us",
+            "p7": "Trukip ",
+            "p7flag": "us"
+        },
+        {
+            "team": "University of Kentucky Black",
+            "p1": "Albert ",
+            "p1flag": "us",
+            "p2": "b00berry ",
+            "p2flag": "us",
+            "p3": "DoctorChimi ",
+            "p3flag": "us",
+            "p4": "Klaus ",
+            "p4flag": "us ",
+            " p4link": "Klaus (Collegiate player)",
+            "p5": "parodygamer ",
+            "p5flag": "us"
+        },
+        {
+            "team": "University of Oklahoma",
+            "p1": "Blade ",
+            "p1flag": "us",
+            "p2": "JeffyJA ",
+            "p2flag": "us",
+            "p3": "Lugo ",
+            "p3flag": "us",
+            "p4": "Quinn ",
+            "p4flag": "us",
+            "p5": "Revan ",
+            "p5flag": "us",
+            "p6": "Woobly ",
+            "p6flag": "us"
+        },
+        {
+            "team": "University of South Florida",
+            "p1": "Abood ",
+            "p1flag": "us",
+            "p2": "Bebop ",
+            "p2flag": "us",
+            "p3": "commanderhuy ",
+            "p3flag": "us",
+            "p4": "DerkTheTerk ",
+            "p4flag": "us",
+            "p5": "Kirito ",
+            "p5flag": "us",
+            "p6": "Kynto ",
+            "p6flag": "us",
+            "p7": "Lebam ",
+            "p7flag": "us",
+            "p8": "ravilenvna ",
+            "p8flag": "us",
+            "p9": "Sockyy ",
+            "p9flag": "us"
+        },
+        {
+            "team": "Washington State University",
+            "p1": "MrLickens ",
+            "p1flag": "us",
+            "p2": "Noam ",
+            "p2flag": "us",
+            "p3": "peeboy ",
+            "p3flag": "us",
+            "p4": "summ ",
+            "p4flag": "us",
+            "p5": "The\u2260Maven ",
+            "p5flag": "us",
+            "p6": "WIP ",
+            "p6flag": "us ",
+            "p6link": " WIP (Player)"
+        },
+        {
+            "team": "Western Kentucky University A",
+            "p1": "eVade ",
+            "p1flag": "us",
+            "p2": "Hassadiddy ",
+            "p2flag": "us",
+            "p3": "javierdude ",
+            "p3flag": "us",
+            "p4": "\u013f\u0114DZ\u0114P\u015c\u01c3 ",
+            "p4flag": "us",
+            "p5": "noodle ",
+            "p5flag": "us",
+            "p6": "Tyler ",
+            "p6flag": "us ",
+            "p6link": "Tyler (American Player)"
+        },
+        {
+            "team": "Western Kentucky University B",
+            "p1": "awesomelee ",
+            "p1flag": "us",
+            "p2": "CasualTrippp ",
+            "p2flag": "us",
+            "p3": "Grabajeytuba ",
+            "p3flag": "us",
+            "p4": "Roach ",
+            "p4flag": "us",
+            "p5": "strawberry ",
+            "p5flag": "us"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "",
+            "opponent1": "auburn university",
+            "opponent1_score": 2,
+            "opponent2": "murray state university",
+            "opponent2_score": 0,
+            "optional": "M1="
+        },
+        {
+            "opponent1": "ball state esports",
+            "opponent1_score": 2,
+            "opponent2": "syracuse university",
+            "opponent2_score": 0,
+            "optional": "M2="
+        },
+        {
+            "opponent1": "blinn esports",
+            "opponent1_score": 2,
+            "opponent2": "ohio state university gray",
+            "opponent2_score": 0,
+            "optional": "M3="
+        },
+        {
+            "opponent1": "redhawks",
+            "opponent1_score": 2,
+            "opponent2": "western kentucky university a",
+            "opponent2_score": 1,
+            "optional": "M4="
+        },
+        {
+            "opponent1": "centre college",
+            "opponent1_score": 0,
+            "opponent2": "tennessee tech university",
+            "opponent2_score": 2,
+            "optional": "M5="
+        },
+        {
+            "opponent1": "ciu rams",
+            "opponent1_score": 2,
+            "opponent2": "university of cincinnati black",
+            "opponent2_score": 0,
+            "optional": "M6="
+        },
+        {
+            "opponent1": "converse esports",
+            "opponent1_score": 2,
+            "opponent2": "university of cincinnati red",
+            "opponent2_score": 0,
+            "optional": "M7="
+        },
+        {
+            "opponent1": "cumberland university",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky black",
+            "opponent2_score": 0,
+            "optional": "M8="
+        },
+        {
+            "opponent1": "eastern kentucky university",
+            "opponent1_score": 0,
+            "opponent2": "university of kentucky blue",
+            "opponent2_score": 2,
+            "optional": "M9="
+        },
+        {
+            "opponent1": "western kentucky university b",
+            "opponent1_score": 0,
+            "opponent2": "university of kentucky gold",
+            "opponent2_score": 2,
+            "optional": "M10="
+        },
+        {
+            "opponent1": "fisher college white",
+            "opponent1_score": 0,
+            "opponent2": "university of kentucky white",
+            "opponent2_score": 2,
+            "optional": "M11="
+        },
+        {
+            "opponent1": "ksu academy",
+            "opponent1_score": 0,
+            "opponent2": "ou crimson",
+            "opponent2_score": 2,
+            "optional": "M12="
+        },
+        {
+            "opponent1": "ksu esports",
+            "opponent1_score": 2,
+            "opponent2": "usf gold",
+            "opponent2_score": 0,
+            "optional": "M13="
+        },
+        {
+            "opponent1": "maryville esports",
+            "opponent1_score": 2,
+            "opponent2": "washington state university",
+            "opponent2_score": 0,
+            "optional": "M14="
+        },
+        {
+            "opponent1": "esports lsu",
+            "opponent1_score": 2,
+            "opponent2": "northeastern esports",
+            "opponent2_score": 0,
+            "optional": "M15="
+        },
+        {
+            "opponent1": "ohio state university|score=",
+            "opponent2": "bye|score=",
+            "optional": "M16="
+        },
+        {
+            "bestof": "",
+            "opponent1": "redhawks",
+            "opponent1_score": 2,
+            "opponent2": "murray state university",
+            "opponent2_score": 0,
+            "optional": "M1="
+        },
+        {
+            "opponent1": "maryville esports",
+            "opponent1_score": 2,
+            "opponent2": "western kentucky university a",
+            "opponent2_score": 0,
+            "optional": "M2="
+        },
+        {
+            "opponent1": "esports lsu",
+            "opponent1_score": 2,
+            "opponent2": "washington state university",
+            "opponent2_score": 0,
+            "optional": "M3="
+        },
+        {
+            "opponent1": "ball state esports",
+            "opponent1_score": 2,
+            "opponent2": "ohio state university gray",
+            "opponent2_score": 0,
+            "optional": "M4="
+        },
+        {
+            "opponent1": "ksu academy",
+            "opponent1_score": 0,
+            "opponent2": "usf gold",
+            "opponent2_score": 2,
+            "optional": "M5="
+        },
+        {
+            "opponent1": "fisher college white",
+            "opponent1_score": 0,
+            "opponent2": "ou crimson",
+            "opponent2_score": 2,
+            "optional": "M6="
+        },
+        {
+            "opponent1": "western kentucky university b",
+            "opponent1_score": 0,
+            "opponent2": "university of kentucky white",
+            "opponent2_score": 2,
+            "optional": "M7="
+        },
+        {
+            "opponent1": "eastern kentucky university",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky gold",
+            "opponent2_score": 0,
+            "optional": "M8="
+        },
+        {
+            "opponent1": "cumberland university",
+            "opponent1_score": 0,
+            "opponent2": "university of kentucky blue",
+            "opponent2_score": 2,
+            "optional": "M9="
+        },
+        {
+            "opponent1": "converse esports",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky black",
+            "opponent2_score": 0,
+            "optional": "M10="
+        },
+        {
+            "opponent1": "ciu rams",
+            "opponent1_score": 2,
+            "opponent2": "university of cincinnati black",
+            "opponent2_score": 0,
+            "optional": "M11="
+        },
+        {
+            "opponent1": "centre college",
+            "opponent1_score": 1,
+            "opponent2": "university of cincinnati red",
+            "opponent2_score": 2,
+            "optional": "M12="
+        },
+        {
+            "opponent1": "auburn university",
+            "opponent1_score": 2,
+            "opponent2": "syracuse university",
+            "opponent2_score": 0,
+            "optional": "M13="
+        },
+        {
+            "opponent1": "blinn esports",
+            "opponent1_score": 0,
+            "opponent2": "ohio state university",
+            "opponent2_score": 2,
+            "optional": "M14="
+        },
+        {
+            "opponent1": "ksu esports",
+            "opponent1_score": 2,
+            "opponent2": "northeastern esports",
+            "opponent2_score": 0,
+            "optional": "M15="
+        },
+        {
+            "opponent1": "tennessee tech university|score=",
+            "opponent2": "bye|score=",
+            "optional": "M16="
+        },
+        {
+            "bestof": "",
+            "opponent1": "blinn esports",
+            "opponent1_score": 2,
+            "opponent2": "usf gold",
+            "opponent2_score": 0,
+            "optional": "M1="
+        },
+        {
+            "opponent1": "university of cincinnati red",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky gold",
+            "opponent2_score": 0,
+            "optional": "M2="
+        },
+        {
+            "opponent1": "eastern kentucky university",
+            "opponent1_score": 0,
+            "opponent2": "university of cincinnati black",
+            "opponent2_score": 2,
+            "optional": "M3="
+        },
+        {
+            "opponent1": "ciu rams",
+            "opponent1_score": 2,
+            "opponent2": "cumberland university",
+            "opponent2_score": 0,
+            "optional": "M4="
+        },
+        {
+            "opponent1": "centre college",
+            "opponent1_score": 2,
+            "opponent2": "syracuse university",
+            "opponent2_score": 0,
+            "optional": "M5="
+        },
+        {
+            "opponent1": "ohio state university gray",
+            "opponent1_score": 2,
+            "opponent2": "western kentucky university b",
+            "opponent2_score": 0,
+            "optional": "M6="
+        },
+        {
+            "opponent1": "university of kentucky black",
+            "opponent1_score": 0,
+            "opponent2": "fisher college white",
+            "opponent2_score": 2,
+            "optional": "M7="
+        },
+        {
+            "opponent1": "northeastern esports",
+            "opponent1_score": 2,
+            "opponent2": "ksu academy",
+            "opponent2_score": 0,
+            "optional": "M8="
+        },
+        {
+            "opponent1": "washington state university",
+            "opponent1_score": 2,
+            "opponent2": "murray state university",
+            "opponent2_score": 0,
+            "optional": "M9="
+        },
+        {
+            "opponent1": "maryville esports",
+            "opponent1_score": 2,
+            "opponent2": "ou crimson",
+            "opponent2_score": 0,
+            "optional": "M10="
+        },
+        {
+            "opponent1": "esports lsu",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky white",
+            "opponent2_score": 1,
+            "optional": "M11="
+        },
+        {
+            "opponent1": "ksu esports",
+            "opponent1_score": 1,
+            "opponent2": "university of kentucky blue",
+            "opponent2_score": 2,
+            "optional": "M12="
+        },
+        {
+            "opponent1": "converse esports",
+            "opponent1_score": 2,
+            "opponent2": "tennessee tech university",
+            "opponent2_score": 0,
+            "optional": "M13="
+        },
+        {
+            "opponent1": "ball state esports",
+            "opponent1_score": 2,
+            "opponent2": "ohio state university",
+            "opponent2_score": 0,
+            "optional": "M14="
+        },
+        {
+            "opponent1": "redhawks|score=",
+            "opponent2": "bye|score=",
+            "optional": "M15="
+        },
+        {
+            "opponent1": "western kentucky university a|score=",
+            "opponent2": "bye|score=",
+            "optional": "M16="
+        },
+        {
+            "bestof": "",
+            "opponent1": "blinn esports",
+            "opponent1_score": 2,
+            "opponent2": "cumberland university",
+            "opponent2_score": 1,
+            "optional": "M1="
+        },
+        {
+            "opponent1": "university of cincinnati red",
+            "opponent1_score": 2,
+            "opponent2": "university of cincinnati black",
+            "opponent2_score": 0,
+            "optional": "M2="
+        },
+        {
+            "opponent1": "eastern kentucky university",
+            "opponent1_score": 0,
+            "opponent2": "usf gold",
+            "opponent2_score": 2,
+            "optional": "M3="
+        },
+        {
+            "opponent1": "ciu rams",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky gold",
+            "opponent2_score": 0,
+            "optional": "M4="
+        },
+        {
+            "opponent1": "western kentucky university a",
+            "opponent1_score": 2,
+            "opponent2": "murray state university",
+            "opponent2_score": 0,
+            "optional": "M5="
+        },
+        {
+            "opponent1": "western kentucky university b",
+            "opponent1_score": 0,
+            "opponent2": "northeastern esports",
+            "opponent2_score": 2,
+            "optional": "M6="
+        },
+        {
+            "opponent1": "ohio state university gray",
+            "opponent1_score": 0,
+            "opponent2": "washington state university",
+            "opponent2_score": 2,
+            "optional": "M7="
+        },
+        {
+            "opponent1": "centre college",
+            "opponent1_score": 2,
+            "opponent2": "fisher college white",
+            "opponent2_score": 0,
+            "optional": "M8="
+        },
+        {
+            "opponent1": "ksu academy",
+            "opponent1_score": 2,
+            "opponent2": "syracuse university",
+            "opponent2_score": 0,
+            "optional": "M9="
+        },
+        {
+            "opponent1": "ou crimson",
+            "opponent1_score": 0,
+            "opponent2": "redhawks",
+            "opponent2_score": 2,
+            "optional": "M10="
+        },
+        {
+            "opponent1": "maryville esports",
+            "opponent1_score": 2,
+            "opponent2": "ball state esports",
+            "opponent2_score": 0,
+            "optional": "M11="
+        },
+        {
+            "opponent1": "ohio state university",
+            "opponent1_score": 2,
+            "opponent2": "tennessee tech university",
+            "opponent2_score": 0,
+            "optional": "M12="
+        },
+        {
+            "opponent1": "ksu esports",
+            "opponent1_score": 2,
+            "opponent2": "esports lsu",
+            "opponent2_score": 0,
+            "optional": "M13="
+        },
+        {
+            "opponent1": "university of kentucky blue",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky white",
+            "opponent2_score": 0,
+            "optional": "M14="
+        },
+        {
+            "opponent1": "converse esports|score=",
+            "opponent2": "bye|score=",
+            "optional": "M15="
+        },
+        {
+            "opponent1": "university of kentucky black|score=",
+            "opponent2": "bye|score=",
+            "optional": "M16="
+        },
+        {
+            "bestof": "",
+            "opponent1": "usf gold",
+            "opponent1_score": 2,
+            "opponent2": "washington state university",
+            "opponent2_score": 0,
+            "optional": "M1="
+        },
+        {
+            "opponent1": "university of kentucky white",
+            "opponent1_score": 0,
+            "opponent2": "northeastern esports",
+            "opponent2_score": 2,
+            "optional": "M2="
+        },
+        {
+            "opponent1": "centre college",
+            "opponent1_score": 1,
+            "opponent2": "ou crimson",
+            "opponent2_score": 2,
+            "optional": "M3="
+        },
+        {
+            "opponent1": "university of cincinnati black",
+            "opponent1_score": 0,
+            "opponent2": "western kentucky university a",
+            "opponent2_score": 2,
+            "optional": "M4="
+        },
+        {
+            "opponent1": "ciu rams",
+            "opponent1_score": 2,
+            "opponent2": "tennessee tech university",
+            "opponent2_score": 0,
+            "optional": "M5="
+        },
+        {
+            "opponent1": "eastern kentucky university",
+            "opponent1_score": 2,
+            "opponent2": "fisher college white",
+            "opponent2_score": 0,
+            "optional": "M6="
+        },
+        {
+            "opponent1": "cumberland university",
+            "opponent1_score": 2,
+            "opponent2": "syracuse university",
+            "opponent2_score": 1,
+            "optional": "M7="
+        },
+        {
+            "opponent1": "ohio state university gray",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky gold",
+            "opponent2_score": 0,
+            "optional": "M8="
+        },
+        {
+            "opponent1": "university of kentucky black",
+            "opponent1_score": 2,
+            "opponent2": "ksu academy",
+            "opponent2_score": 0,
+            "optional": "M9="
+        },
+        {
+            "opponent1": "murray state university",
+            "opponent1_score": 2,
+            "opponent2": "western kentucky university b",
+            "opponent2_score": 0,
+            "optional": "M10="
+        },
+        {
+            "opponent1": "university of cincinnati red",
+            "opponent1_score": 1,
+            "opponent2": "blinn esports",
+            "opponent2_score": 2,
+            "optional": "M11="
+        },
+        {
+            "opponent1": "ohio state university",
+            "opponent1_score": 2,
+            "opponent2": "esports lsu",
+            "opponent2_score": 0,
+            "optional": "M12="
+        },
+        {
+            "opponent1": "ksu esports",
+            "opponent1_score": 0,
+            "opponent2": "ball state esports",
+            "opponent2_score": 2,
+            "optional": "M13="
+        },
+        {
+            "opponent1": "maryville esports",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky blue",
+            "opponent2_score": 1,
+            "optional": "M14="
+        },
+        {
+            "opponent1": "converse esports",
+            "opponent1_score": 2,
+            "opponent2": "redhawks",
+            "opponent2_score": 0,
+            "optional": "M15="
+        },
+        {
+            "bestof": "",
+            "opponent1": "centre college",
+            "opponent1_score": 0,
+            "opponent2": "washington state university",
+            "opponent2_score": 2,
+            "optional": "M1="
+        },
+        {
+            "opponent1": "usf gold",
+            "opponent1_score": 2,
+            "opponent2": "western kentucky university a",
+            "opponent2_score": 0,
+            "optional": "M2="
+        },
+        {
+            "opponent1": "university of cincinnati black",
+            "opponent1_score": 0,
+            "opponent2": "northeastern esports",
+            "opponent2_score": 2,
+            "optional": "M3="
+        },
+        {
+            "opponent1": "tennessee tech university",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky white",
+            "opponent2_score": 1,
+            "optional": "M4="
+        },
+        {
+            "opponent1": "ciu rams",
+            "opponent1_score": 2,
+            "opponent2": "ou crimson",
+            "opponent2_score": 0,
+            "optional": "M5="
+        },
+        {
+            "opponent1": "cumberland university",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky gold",
+            "opponent2_score": 0,
+            "optional": "M6="
+        },
+        {
+            "opponent1": "syracuse university",
+            "opponent1_score": 0,
+            "opponent2": "ohio state university gray",
+            "opponent2_score": 2,
+            "optional": "M7="
+        },
+        {
+            "opponent1": "university of kentucky black",
+            "opponent1_score": 0,
+            "opponent2": "murray state university",
+            "opponent2_score": 2,
+            "optional": "M8="
+        },
+        {
+            "opponent1": "eastern kentucky university",
+            "opponent1_score": 1,
+            "opponent2": "ksu academy",
+            "opponent2_score": 2,
+            "optional": "M9="
+        },
+        {
+            "opponent1": "fisher college white",
+            "opponent1_score": 2,
+            "opponent2": "western kentucky university b",
+            "opponent2_score": 0,
+            "optional": "M10="
+        },
+        {
+            "opponent1": "ball state esports",
+            "opponent1_score": 0,
+            "opponent2": "esports lsu",
+            "opponent2_score": 2,
+            "optional": "M11="
+        },
+        {
+            "opponent1": "ohio state university",
+            "opponent1_score": 2,
+            "opponent2": "university of cincinnati red",
+            "opponent2_score": 0,
+            "optional": "M12="
+        },
+        {
+            "opponent1": "ksu esports",
+            "opponent1_score": 0,
+            "opponent2": "blinn esports",
+            "opponent2_score": 2,
+            "optional": "M13="
+        },
+        {
+            "opponent1": "converse esports",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky blue",
+            "opponent2_score": 0,
+            "optional": "M14="
+        },
+        {
+            "opponent1": "maryville esports",
+            "opponent1_score": 2,
+            "opponent2": "redhawks",
+            "opponent2_score": 1,
+            "optional": "M15="
+        },
+        {
+            "bestof": "",
+            "opponent1": "washington state university",
+            "opponent1_score": 0,
+            "opponent2": "ou crimson",
+            "opponent2_score": 2,
+            "optional": "M1="
+        },
+        {
+            "opponent1": "cumberland university",
+            "opponent1_score": 0,
+            "opponent2": "tennessee tech university",
+            "opponent2_score": 2,
+            "optional": "M2="
+        },
+        {
+            "opponent1": "ksu esports",
+            "opponent1_score": 2,
+            "opponent2": "western kentucky university a",
+            "opponent2_score": 0,
+            "optional": "M3="
+        },
+        {
+            "opponent1": "ohio state university gray",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky white",
+            "opponent2_score": 0,
+            "optional": "M4="
+        },
+        {
+            "opponent1": "northeastern esports",
+            "opponent1_score": 2,
+            "opponent2": "university of cincinnati red",
+            "opponent2_score": 0,
+            "optional": "M5="
+        },
+        {
+            "opponent1": "eastern kentucky university",
+            "opponent1_score": 2,
+            "opponent2": "murray state university",
+            "opponent2_score": 1,
+            "optional": "M6="
+        },
+        {
+            "opponent1": "university of cincinnati black",
+            "opponent1_score": 2,
+            "opponent2": "fisher college white",
+            "opponent2_score": 0,
+            "optional": "M7="
+        },
+        {
+            "opponent1": "centre college",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky black",
+            "opponent2_score": 0,
+            "optional": "M8="
+        },
+        {
+            "opponent1": "university of kentucky gold",
+            "opponent1_score": 2,
+            "opponent2": "ksu academy",
+            "opponent2_score": 0,
+            "optional": "M9="
+        },
+        {
+            "opponent1": "syracuse university",
+            "opponent1_score": 0,
+            "opponent2": "western kentucky university b",
+            "opponent2_score": 2,
+            "optional": "M10="
+        },
+        {
+            "opponent1": "redhawks",
+            "opponent1_score": 0,
+            "opponent2": "university of kentucky blue",
+            "opponent2_score": 2,
+            "optional": "M11="
+        },
+        {
+            "opponent1": "esports lsu",
+            "opponent1_score": 0,
+            "opponent2": "usf gold",
+            "opponent2_score": 2,
+            "optional": "M12="
+        },
+        {
+            "opponent1": "blinn esports",
+            "opponent1_score": 0,
+            "opponent2": "ball state esports",
+            "opponent2_score": 2,
+            "optional": "M13="
+        },
+        {
+            "opponent1": "ohio state university",
+            "opponent1_score": 0,
+            "opponent2": "ciu rams",
+            "opponent2_score": 2,
+            "optional": "M14="
+        },
+        {
+            "opponent1": "converse esports",
+            "opponent1_score": 0,
+            "opponent2": "maryville esports",
+            "opponent2_score": 2,
+            "optional": "M15="
+        },
+        {
+            "bestof": "",
+            "opponent1": "syracuse university",
+            "opponent1_score": 0,
+            "opponent2": "university of kentucky gold",
+            "opponent2_score": 2,
+            "optional": "M1="
+        },
+        {
+            "opponent1": "ohio state university gray",
+            "opponent1_score": 2,
+            "opponent2": "eastern kentucky university",
+            "opponent2_score": 0,
+            "optional": "M2="
+        },
+        {
+            "opponent1": "washington state university",
+            "opponent1_score": 2,
+            "opponent2": "western kentucky university a",
+            "opponent2_score": 1,
+            "optional": "M3="
+        },
+        {
+            "opponent1": "cumberland university",
+            "opponent1_score": 0,
+            "opponent2": "ou crimson",
+            "opponent2_score": 2,
+            "optional": "M4="
+        },
+        {
+            "opponent1": "ksu esports",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky black",
+            "opponent2_score": 0,
+            "optional": "M5="
+        },
+        {
+            "opponent1": "university of cincinnati red",
+            "opponent1_score": 2,
+            "opponent2": "fisher college white",
+            "opponent2_score": 0,
+            "optional": "M6="
+        },
+        {
+            "opponent1": "northeastern esports",
+            "opponent1_score": 2,
+            "opponent2": "tennessee tech university",
+            "opponent2_score": 0,
+            "optional": "M7="
+        },
+        {
+            "opponent1": "usf gold",
+            "opponent1_score": 2,
+            "opponent2": "murray state university",
+            "opponent2_score": 0,
+            "optional": "M8="
+        },
+        {
+            "opponent1": "esports lsu",
+            "opponent1_score": 2,
+            "opponent2": "centre college",
+            "opponent2_score": 0,
+            "optional": "M9="
+        },
+        {
+            "opponent1": "university of kentucky blue",
+            "opponent1_score": 2,
+            "opponent2": "university of cincinnati black",
+            "opponent2_score": 1,
+            "optional": "M10="
+        },
+        {
+            "opponent1": "redhawks",
+            "opponent1_score": 2,
+            "opponent2": "university of kentucky white",
+            "opponent2_score": 0,
+            "optional": "M11="
+        },
+        {
+            "opponent1": "ksu academy",
+            "opponent1_score": 2,
+            "opponent2": "western kentucky university b",
+            "opponent2_score": 0,
+            "optional": "M12="
+        },
+        {
+            "opponent1": "ciu rams",
+            "opponent1_score": 0,
+            "opponent2": "ball state esports",
+            "opponent2_score": 2,
+            "optional": "M13="
+        },
+        {
+            "opponent1": "converse esports",
+            "opponent1_score": 2,
+            "opponent2": "blinn esports",
+            "opponent2_score": 0,
+            "optional": "M14="
+        },
+        {
+            "opponent1": "maryville esports",
+            "opponent1_score": 2,
+            "opponent2": "ohio state university",
+            "opponent2_score": 0,
+            "optional": "M15="
+        }
+    ]
+}

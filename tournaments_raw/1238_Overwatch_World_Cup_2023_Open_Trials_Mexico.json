@@ -1,0 +1,395 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch World Cup 2023 Mexico Open Trials",
+            "image": "Overwatch World Cup 2023 allmode.png",
+            "series": "Overwatch World Cup",
+            "shortname": "World Cup 2023",
+            "tickername": "OWWC MEX Open Trials",
+            "icon": "Overwatch World Cup logo.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "LigaACE",
+            "organizer2-link": "https://ligaaceesports.com/",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Mexico",
+            "country2": "",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "game": "overwatch2",
+            "prizepoolusd": "2000",
+            "sdate": "2023-02-16",
+            "edate": "2023-02-25",
+            "liquipediatier": "4",
+            "blizzardtier": "owwc",
+            "web": "https://overwatchworldcup.com",
+            "twitter": "playoverwatch",
+            "youtube": "playoverwatch",
+            "twitch": "playoverwatch",
+            "team_number": "53",
+            "bracket": "https://challonge.com/OWCTMX"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Changos Bomberos",
+            "p1": "Hubert|p1flag=mx|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "The Hunters Gaming",
+            "p1": "HazySqu4sh|p1flag=mx|p1team=|pos1=dps",
+            "p2": "Shadosnt|p2flag=mx|p2team=|pos2=dps",
+            "p3": "SparkChief|p3flag=mx|p3team=|pos3=tank|p3link=Spark",
+            "p4": "Iassa|p4flag=mx|p4team=|pos4=sup",
+            "p5": "Soulnic|p5flag=mx|p5team=|pos5=sup"
+        },
+        {
+            "team": "Ames",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Panquecitos",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Gallos con Tenis",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Delirium",
+            "p1": "File|p1flag=|p1team=|pos1=",
+            "p2": "IncreibleSrS|p2flag=|p2team=|pos2=",
+            "p3": "Francesco|p3flag=|p3team=|pos3=",
+            "p4": "DanilOWO|p4flag=|p4team=|pos4=",
+            "p5": "Marshall|p5flag=|p5team=|pos5=",
+            "p6": "RuloRulzZ|p6flag=|p6team=|pos6="
+        },
+        {
+            "team": "Tomorrow x Together",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Supreme Royale",
+            "p1": "Reebu|p1flag=mx|p1team=|pos1=dps",
+            "p2": "Borego|p2flag=mx|p2team=|pos2=dps",
+            "p3": "Cl4ptr4p|p3flag=mx|p3team=|pos3=tank",
+            "p4": "Poyo|p4flag=mx|p4team=|pos4=sup",
+            "p5": "Ghost|p5flag=mx|p5team=|pos5=sup"
+        },
+        {
+            "team": "Los Pachipanas",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Rabochesimps",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Bing Chilling",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Grindhouse",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Fearless",
+            "link": "Fearless (Mexican team)",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Quetzal Dragons",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Midnight",
+            "link": "Midnight (team)",
+            "p1": "Chobilux|p1flag=mx|p1team=|pos1=dps",
+            "p2": "Crafter|p2flag=mx|p2team=|pos2=dps",
+            "p3": "Castled|p3flag=mx|p3team=|pos3=tank",
+            "p4": "Hysteria|p4flag=mx|p4team=|pos4=tank|p4link=Hysteria (Mexican Player)",
+            "p5": "Sopa|p5flag=mx|p5team=|pos5=sup",
+            "p6": "Mazapan|p6flag=mx|p6team=|pos6=sup",
+            "p7": "Budget|p7flag=mx|p7team=|pos7=flex"
+        },
+        {
+            "team": "Los Valedores",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|changos bomberos|score=0}}",
+            "opponent2": "{{TeamOpponent|the hunters gaming|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ames|score=2}}",
+            "opponent2": "{{TeamOpponent|panquecitos|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gallos con tenis|score=0}}",
+            "opponent2": "{{TeamOpponent|delirium|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|tomorrow x together|score=0}}",
+            "opponent2": "{{TeamOpponent|supreme royale|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "February 19, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the hunters gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|ames|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "February 19, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|delirium|score=0}}",
+            "opponent2": "{{TeamOpponent|supreme royale|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "February 25, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "overwatchcontenders|twitch=",
+            "opponent1": "{{TeamOpponent|the hunters gaming|score=}}",
+            "opponent2": "{{TeamOpponent|supreme royale|score=}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Circuit Royal|mode=Escort|score1=1|score2=0|winner=1}}",
+            "map3": "{{Map|map=Colosseo|mode=Push|score1=104.14m|score2=35.75m|winner=1}}",
+            "optional": "R6M1="
+        },
+        {
+            "bestof": "3",
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|los pachipanas|score=0}}",
+            "opponent2": "{{TeamOpponent|rabochesimps|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bing chilling|score=2}}",
+            "opponent2": "{{TeamOpponent|grindhouse|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fearless (mexican team)|score=2}}",
+            "opponent2": "{{TeamOpponent|quetzal dragons|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|midnight|score=2}}",
+            "opponent2": "{{TeamOpponent|los valedores|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "February 18, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gallos con tenis|score=2}}",
+            "opponent2": "{{TeamOpponent|rabochesimps|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "February 18, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|tomorrow x together|score=0}}",
+            "opponent2": "{{TeamOpponent|bing chilling|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "February 18, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|changos bomberos|score=2}}",
+            "opponent2": "{{TeamOpponent|fearless (mexican team)|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "February 18, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|panquecitos|score=0}}",
+            "opponent2": "{{TeamOpponent|midnight|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "February 19, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gallos con tenis|score=0}}",
+            "opponent2": "{{TeamOpponent|bing chilling|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "February 19, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|changos bomberos|score=1}}",
+            "opponent2": "{{TeamOpponent|midnight|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "February 19, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ames|score=0}}",
+            "opponent2": "{{TeamOpponent|bing chilling|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "February 19, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|delirium|score=0}}",
+            "opponent2": "{{TeamOpponent|midnight|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "February 19, 2023 - 19:15 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bing chilling|score=1}}",
+            "opponent2": "{{TeamOpponent|midnight|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "bestof": "5",
+            "date": "February 25, 2023 - 18:30 {{Abbr/CT}}",
+            "youtube": "overwatchcontenders|twitch=",
+            "opponent1": "{{TeamOpponent|supreme royale|score=}}",
+            "opponent2": "{{TeamOpponent|midnight|score=}}",
+            "map1": "{{Map|map=Antarctic Peninsula|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Circuit Royal|mode=Escort|score1=1|score2=2|winner=2}}",
+            "map3": "{{Map|map=Esperan\u00e7a|mode=Push|score1=22.27m|score2=127.10m|winner=2}}",
+            "optional": "R6M2="
+        },
+        {
+            "date": "February 25, 2023 - 20:00 {{Abbr/CT}}",
+            "youtube": "overwatchcontenders|twitch=",
+            "opponent1": "{{TeamOpponent|the hunters gaming|score=}}",
+            "opponent2": "{{TeamOpponent|midnight|score=}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Circuit Royal|mode=Escort|score1=4|score2=5|winner=2}}",
+            "map3": "{{Map|map=Esperan\u00e7a|mode=Push|score1=24.64m|score2=112.46m|winner=2}}",
+            "optional": "R7M1="
+        }
+    ]
+}

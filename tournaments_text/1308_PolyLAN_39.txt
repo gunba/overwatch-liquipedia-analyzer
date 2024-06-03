@@ -1,0 +1,211 @@
+{{DISPLAYTITLE:PolyLAN 39}}
+{{PolyLAN Navbox}}
+{{Infobox league
+|liquipediatier=4
+|series=Poly
+|abbreviation=PolyLAN
+|name=PolyLAN39
+|shortname=PolyLAN39
+|tickername=PolyLAN39
+|icon=PolyLAN lightmode.png
+|icondark=PolyLAN darkmode.png
+|image=PolyLAN lightmode.png
+|imagedark=PolyLAN darkmode.png
+|organizer=PolyLAN
+|organizer-link=https://polylan.ch
+|sponsor=[http://www.cisco.ch/ Cisco]<br>[http://www.epfl.ch/ EPFL]
+|type=Offline
+|country=Switzerland
+|city=Lausanne
+|venue=Beaulieu Lausanne
+|venuelink=https://beaulieu-lausanne.com/en/
+|format=Swiss<br>Double Elimination
+|game=overwatch2
+|prizepool=1210
+|localcurrency=chf
+|sdate=2024-05-10
+|edate=2024-05-11
+|twitter=polylan
+|web=https://polylan.ch
+|twitch=Lutti
+|rulebook=https://docs.google.com/document/d/1FUAhfSGvjNJLfCFZnO0HVl-yjJwX2zE7-bqm1yEsaME/edit?usp=sharing
+|team_number=7
+}}
+{{Tabs static
+|name1=Overview|link1=PolyLAN/39
+|name2=Group Stage|link2=PolyLAN/39/Group_Stage
+}}
+
+==Information==
+'''PolyLAN 39''' is a LAN event in Switzerland, offering tournaments in various esport titles. It is organised by students of the EPFL (École Polytechnique Fédérale de Lausanne).
+
+===Format===
+*'''Group Stage''': ''May 10<sup>th</sup>''
+**6 Swiss rounds
+**{{Bgcolortext|up|Top 4}} teams advance to '''Playoffs'''
+**All matches are {{Abbr/Bo3}}
+*'''Playoffs:''' ''May 10<sup>th</sup> - 11<sup>th</sup>''
+**Double elimination bracket
+**All matches ''(excl. Grand Finals)'' are {{Abbr/Bo3}}
+**Grand Finals are {{Abbr/Bo5}}
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=French
+|position=Commentator
+|b1=Lutti
+|b2=Tsunadida|b2flag=ch
+}}
+
+===Prize Pool===
+{{TeamPrizePool|localcurrency=chf|tournament1=PolyLAN/39/Group_Stage|tournament2=#Playoffs
+|{{Slot|localprize=600}}
+|{{Slot|localprize=360}}
+|{{Slot|localprize=250}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4|height=200}}
+{{TeamCard
+|team=CRS
+|p1=AREŠ|p1flag=ma|pos1=dps
+|p2=VinceCarter|p2flag=ch|pos2=dps
+|p3=Flankrisa|p3flag=ch|pos3=tank
+|p4=Horus|p4flag=ch|pos4=sup
+|p5=Lumi|p5flag=ch|pos5=sup|p5link=Lumi (Swiss player)
+}}
+{{TeamCard
+|team=Dragon's Aura
+|p1=Akynna|p1flag=fr|pos1=dps
+|p2=Shevaking|p2flag=fr|pos2=dps
+|p3=Geodri|p3flag=fr|pos3=tank
+|p4=Dosan|p4flag=fr|pos4=sup
+|p5=Dypsax|p5flag=fr|pos5=sup
+}}
+{{TeamCard
+|team=Kaamelott
+|p1=Antakle|p1flag=|pos1=dps
+|p2=Guenievre|p2flag=|pos2=dps
+|p3=Vanglume|p3flag=|pos3=tank
+|p4=Perceval_|p4flag=|pos4=sup
+|p5=Gajah|p5flag=|pos5=
+|p6=Vorlox|p6flag=|pos6=
+}}
+{{TeamCard
+|team=SrPissCheck
+|p1=Hêv|pos1=dps
+|p2=yhui|p2flag=ch|pos2=dps
+|p3=Swak0o|p3flag=ch|pos3=tank
+|p4=Yukei|p4flag=ch|pos4=sup
+|p5=eden|p5flag=fr|pos5=sup
+}}
+{{TeamCard
+|team=Lausanne-Sport Esports
+|p1=Cryogenic|p1flag=ch|pos1=dps
+|p2=Črįs|p2flag=ch|pos2=dps
+|p3=Izumo|p3flag=ch|pos3=tank
+|p4=Fall0x|p4flag=ch|pos4=sup
+|p5=R3M1X|p5flag=ch|pos5=sup
+}}
+{{TeamCard
+|team=PIPU SPORT éLéCTRONIK
+|p1=ZeRo|p1flag=ch|pos1=dps
+|p2=Aloha|p2flag=ch|pos2=dps
+|p3=MisterFish|p3flag=ch|pos3=tank
+|p4=Rexo|p4flag=fr|pos4=tank
+|p5=Anxious|p5flag=ch|pos5=sup
+|p6=Drini|p6flag=ch|pos6=sup
+}}
+{{TeamCard
+|team=Turban Turtles
+|p1=fixer40|p1flag=ch|pos1=dps
+|p2=Kankan|p2flag=ch|pos2=dps
+|p3=Timeforschoo|p3flag=ch|pos3=tank
+|p4=wlag|p4flag=ch|pos4=sup
+|p5=Lavenna|p5flag=ch|pos5=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+==={{Stage|Group Stage}}===
+{{#section:PolyLAN/39/Group_Stage|Standings}}
+* <span style="line-height:24px">&nbsp;''[[PolyLAN/39/Group_Stage|Click here for detailed results of the '''Group Stage''' matches.]]''</span>
+
+==={{Stage|Playoffs}}===
+{{Bracket|Bracket/4U2L1D|id=xOb03VyakW
+
+<!-- Upper Bracket Semifinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=2024-05-10 - 17:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Lausanne-Sport Esports|score=2}}
+    |opponent2={{TeamOpponent|Turban Turtles|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |date=2024-05-10 - 17:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|SrPissCheck|score=2}}
+    |opponent2={{TeamOpponent|PIPU SPORT éLéCTRONIK|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Final -->
+|R2M1={{Match
+    |date=2024-05-10 - 20:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Lausanne-Sport Esports}}
+    |opponent2={{TeamOpponent|SrPissCheck}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=4|winner=2}}
+    |map3={{Map|map=Suravasa|mode=Flashpoint|score1=3|score2=1|winner=1}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R1M3={{Match
+    |date=2024-05-10 - 20:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|PIPU SPORT éLéCTRONIK|score=2}}
+    |opponent2={{TeamOpponent|Turban Turtles|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Final -->
+|R2M2={{Match
+    |date=2024-05-11 - 10:00 {{Abbr/CEST}}
+    |youtube=|twitch=Lutti
+    |opponent1={{TeamOpponent|PIPU SPORT éLéCTRONIK}}
+    |opponent2={{TeamOpponent|SrPissCheck}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Suravasa|mode=Flashpoint|score1=1|score2=3|winner=2}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|bestof=5
+    |date=2024-05-11 - 15:30 {{Abbr/CEST}}
+    |youtube=|twitch=Lutti
+    |opponent1={{TeamOpponent|Lausanne-Sport Esports|score=3}}
+    |opponent2={{TeamOpponent|SrPissCheck}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Suravasa|mode=Flashpoint|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Esperança|mode=Push|score1=142.41m|score2=0.00m|winner=1}}
+	|comment={{Team|Lausanne-Sport Esports}} has a winners' bracket map advantage of 1.
+}}
+}}
+
+==Additional Information==
+===Country Representation===
+{{Country representation}}
+
+==References==
+{{Reflist}}

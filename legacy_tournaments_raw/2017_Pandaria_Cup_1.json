@@ -1,0 +1,186 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "Pandaria Cup",
+            "shortname": "PC #1",
+            "name": "Pandaria Cup 1",
+            "image": "Pandaria Esport logo.png",
+            "icon": "",
+            "organizer": "Pandaria Esport",
+            "sponsor": "",
+            "type": "Online",
+            "country": "France",
+            "twitter": "EsportPandaria",
+            "discord": "ppPyDRT",
+            "prizepool": "55",
+            "localcurrency": "eur",
+            "prizepoolusd": "48",
+            "date": "2019-05-11",
+            "web": "http://www.pandaria-esport.fr/",
+            "rulebook": "https://drive.google.com/file/d/1w3G5UQAUReu8MsK2M8aZY3OOLluZBm7a/view",
+            "team_number": "9",
+            "bracket": "https://esportsquare.net/tournament/YhVfysAweau1#DIV_TAB_RECAP_3606",
+            "previous": "",
+            "next": "Pandaria_Cup/2 {{!}} MC #2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Asgard Legend",
+            "image": "AsgardLegendslogo.png",
+            "p1": "Alexor|p1flag=fr|pos1=",
+            "p2": "nachos|p2flag=fr|pos2=",
+            "p3": "Relaxx|p3flag=fr|pos3=",
+            "p4": "Azzo|p4flag=fr|pos4=",
+            "p5": "Zerka|p5flag=fr|pos5=",
+            "p6": "toaddd|p6flag=fr|pos6=",
+            "p7": "sstarb0i|p7flag=fr|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "DramaTeam",
+            "image": "",
+            "p1": "Ravenchip|p1flag=fr|pos1=",
+            "p2": "Raxsore|p2flag=fr|pos2=",
+            "p3": "Juan-Luis|p3flag=fr|pos3=",
+            "p4": "Niz69|p4flag=fr|pos4=",
+            "p5": "Chorus|p5flag=fr|pos5=",
+            "p6": "Slolix|p6flag=fr|pos6=",
+            "p7": "Nialoshaar|p7flag=fr|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "GGs (go goats)",
+            "image": "",
+            "p1": "Sinni|p1flag=fr|pos1=",
+            "p2": "dutchman|p2flag=nl|pos2=",
+            "p3": "Ravzn|p3flag=eu|pos3=",
+            "p4": "chico|p4flag=uk|pos4=",
+            "p5": "Rayan|p5flag=fr|pos5=",
+            "p6": "RK|p6flag=de|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "Helvetiks",
+            "image": "Helvetiks logo.png",
+            "p1": "Azure|p1link=Azure (Swiss Player)|p1flag=ch|pos1=",
+            "p2": "Phinarel|p2flag=ch|pos2=",
+            "p3": "Carti|p3flag=ch|pos3=",
+            "p4": "Arrioss|p4flag=ch|pos4=",
+            "p5": "KratoZ|p5flag=ch|pos5=",
+            "p6": "Yipman|p6flag=ch|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "Neuch Esport",
+            "image": "",
+            "p1": "jpximi|p1flag=ch|pos1=",
+            "p2": "Wlag|p2flag=ch|pos2=",
+            "p3": "GOJITA|p3flag=ch|pos3=",
+            "p4": "Aidokyx|p4flag=ch|pos4=",
+            "p5": "Flashou|p5flag=ch|pos5=",
+            "p6": "Djinn|p6flag=ch|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "Pandaria eSport Black",
+            "image": "Pandaria Black logo.png",
+            "p1": "Chopey|p1flag=fr|pos1=",
+            "p2": "SuM4tra|p2flag=fr|pos2=",
+            "p3": "mahaw|p3flag=fr|pos3=",
+            "p4": "iSoka|p4flag=fr|pos4=",
+            "p5": "MrRedZ|p5flag=fr|pos5=",
+            "p6": "Mareaucanard|p6flag=fr|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "SYMBIOZ",
+            "image": "",
+            "p1": "mka|p1flag=fr|pos1=",
+            "p2": "LeRfiO|p2flag=fr|pos2=",
+            "p3": "FuturGames29|p3flag=fr|pos3=",
+            "p4": "TurnAroundp4|p4flag=fr|pos4=",
+            "p5": "Nyva|p5flag=fr|pos5=",
+            "p6": "MALICIAWELS|p6flag=fr|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "Tillandsia",
+            "image": "",
+            "p1": "DawZ|p1flag=fr|pos1=",
+            "p2": "UnStrafeAble|p2flag=fr|pos2=",
+            "p3": "SkrriPoucPouc|p3flag=fr|pos3=",
+            "p4": "plz go goats|p4flag=fr|pos4=",
+            "p5": "RAFF|p5flag=fr|pos5=",
+            "p6": "FuckSansou|p6flag=fr|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        },
+        {
+            "team": "VenomS5",
+            "image": "",
+            "p1": "zappeur|p1flag=fr|pos1=",
+            "p2": "Sylver4ever|p2flag=fr|pos2=",
+            "p3": "SirKryw|p3flag=fr|pos3=",
+            "p4": "Striker|p4link=Striker (French Player)|p4flag=fr|pos4=",
+            "p5": "MonTrose|p5flag=fr|pos5=",
+            "p6": "Adiguez|p6flag=fr|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "tillandsia",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "venoms5",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "dramateam",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "symbioz",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "ggs (go goats)",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "asgard legend",
+            "score2": "2",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "ggs (go goats)",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "symbioz",
+            "score2": "1",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "neuch esport",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

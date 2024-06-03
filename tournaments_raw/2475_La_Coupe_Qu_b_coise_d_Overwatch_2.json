@@ -1,0 +1,206 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "liquipediatiertype": "",
+            "name": "La Coupe Qu\u00e9b\u00e9coise d'Overwatch 2",
+            "shortname": "OWQC Coupe 2",
+            "tickername": "OWQC Coupe 2",
+            "icon": "ow_qc_dpressed_rakoons.png",
+            "image": "ow_qc_dpressed_rakoons.png",
+            "abbreviation": "OWQC",
+            "organizer": "Overwatch QC",
+            "organizer-link": "https://discord.gg/ce7cGNz3",
+            "type": "Online",
+            "country": "Canada",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "localcurrency": "CAD",
+            "prizepool": "250",
+            "date": "2024-03-23",
+            "twitch": "overwatch_qc",
+            "discord": "owqc",
+            "rulebook": "https://play.toornament.com/fr/tournaments/7647667816366874624/rules",
+            "bracket": "https://play.toornament.com/fr/tournaments/7647667816366874624/",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Wumpus Wave",
+            "p1": "AMADOU|p1flag=ca|pos1=dps",
+            "p2": "Ryan|p2flag=us|pos2=dps|p2link=Ryan (American player)",
+            "p3": "PINN4CLE|p3flag=ca|pos3=tank",
+            "p4": "eggcellent|pos4=sup",
+            "p5": "Sleepai|p5flag=ca|pos5=sup",
+            "p6": "Jammm|p6flag=us|p6pos=flex",
+            "t2title": "Staff",
+            "t2c1": "Niann03|t2c1flag=pr|t2c1pos=manager",
+            "qualifier": "Swiss Stage",
+            "placement": "1"
+        },
+        {
+            "team": "Retirement Home",
+            "p1": "Rakuna|p1flag=ca|pos1=dps",
+            "p2": "FlameHimself|p2flag=ca|pos2=dps",
+            "p3": "Mathelite|p3flag=ca|pos3=tank",
+            "p4": "Morlock|p4flag=ca|pos4=sup",
+            "p5": "Marqui8|p5flag=ca|pos5=sup",
+            "p6": "Smawl|p6flag=ca|pos6=flex",
+            "t2title": "Staff",
+            "t2c1": "Smawl|t2c1flag=ca|t2c1pos=coach",
+            "qualifier": "Swiss Stage",
+            "placement": "2"
+        },
+        {
+            "team": "Yo tes qui",
+            "p1": "Holo|p1flag=ca|pos1=dps",
+            "p2": "Aniki|p2flag=ca|pos2=dps",
+            "p3": "Bleu|p3flag=ca|pos3=tank",
+            "p4": "R0dackt|p4flag=ca|pos4=sup",
+            "p5": "Broomsniffer|p5flag=ca|pos5=sup",
+            "qualifier": "Swiss Stage",
+            "placement": "3"
+        },
+        {
+            "team": "Feed&co.",
+            "p1": "Herocreep|p1flag=ca|pos1=",
+            "p2": "Frofrodon|p2flag=ca|pos2=",
+            "p3": "YannSpace|p3flag=ca|pos3=",
+            "p4": "Suis|p4flag=ca|pos4=",
+            "p5": "Pointlaisse|p5flag=ca|pos5=",
+            "p6": "Barnab\u00e9|p6flag=ca|pos6=",
+            "qualifier": "Swiss Stage",
+            "placement": "4"
+        },
+        {
+            "team": "B\u00fbcherons",
+            "p1": "Delay|p1flag=ca|pos1=",
+            "p2": "Balmolok|p2flag=ca|pos2=",
+            "p3": "Mizukii|p3flag=ca|pos3=",
+            "p4": "Kashirama|p4flag=ca|pos4=",
+            "p5": "Naghynie|p5flag=ca|pos5=",
+            "p6": "Shad0wkingqc|p6flag=ca|pos6=",
+            "p7": "tsukuyomi|p7flag=ca|pos7=",
+            "qualifier": "Swiss Stage",
+            "placement": "5"
+        },
+        {
+            "team": "HealthyGreens",
+            "p1": "KekeLand|p1flag=ca|pos1=dps",
+            "p2": "HeroVanklet|p2flag=ca|pos2=dps",
+            "p3": "Tengokyuu|p3flag=ca|pos3=tank",
+            "p4": "Xamo|p4flag=ca|pos4=sup",
+            "p5": "Duupsie|p5flag=ca|pos5=sup",
+            "qualifier": "Swiss Stage",
+            "placement": "6"
+        },
+        {
+            "team": "Travis Crotte",
+            "p1": "Pr3DaToR|p1flag=ca|pos1=dps",
+            "p2": "flayer|p2flag=ca|pos2=dps",
+            "p3": "Aura|p3flag=ca|pos3=tank",
+            "p4": "UltimeBoloss|p4flag=ca|pos4=sup",
+            "p5": "APVS|p5flag=ca|pos5=sup",
+            "qualifier": "Swiss Stage",
+            "placement": "7"
+        },
+        {
+            "team": "Otaku",
+            "p1": "Noxobee|p1flag=ca|pos1=",
+            "p2": "boutbout|p2flag=ca|pos2=",
+            "p3": "Jarlaxle|p3flag=ca|pos3=",
+            "p4": "winds444|p4flag=ca|pos4=",
+            "p5": "XCharlo|p5flag=ca|pos5=",
+            "qualifier": "Swiss Stage",
+            "placement": "8"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "March  23, 2024 - 14:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Wumpus Wave|score=3}}",
+            "opponent2": "{{TeamOpponent|Otaku|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "March  23, 2024 - 14:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Feed&co.|score=3}}",
+            "opponent2": "{{TeamOpponent|B\u00fbcherons|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "March  23, 2024 - 14:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Yo tes qui|score=3}}",
+            "opponent2": "{{TeamOpponent|Travis Crotte|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "March  23, 2024 - 14:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Retirement Home|score=3}}",
+            "opponent2": "{{TeamOpponent|HealthyGreens|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "March  23, 2024 - 15:15 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Wumpus Wave|score=3}}",
+            "opponent2": "{{TeamOpponent|Feed&co.|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "March  23, 2024 - 15:15 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Yo tes qui|score=3}}",
+            "opponent2": "{{TeamOpponent|Retirement Home|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "March  23, 2024 - 16:30 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Wumpus Wave|score=4}}",
+            "opponent2": "{{TeamOpponent|Yo tes qui|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        }
+    ]
+}

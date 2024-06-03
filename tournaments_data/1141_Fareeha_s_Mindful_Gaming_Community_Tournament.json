@@ -1,0 +1,702 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "",
+            "name": "Fareeha's Mindful Gaming Community Tournament",
+            "shortname": "Fareeha's Mindful Gaming Community Tournament",
+            "tickername": "Fareeha's Mindful Gaming Community Tournament",
+            "image": "",
+            "icon": "",
+            "organizer": "Fareeha",
+            "organizer-link": "https://twitter.com/AskFareeha",
+            "sponsor": "[https://www.excedrin.com/products Excedrin]",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "1000",
+            "date": "2023-11-17",
+            "twitter": "AskFareeha",
+            "twitch": "Fareeha",
+            "discord": "overwatchopendivision",
+            "rulebook": "https://paidiagaming.com/tournament/fareehas-mindful-gaming-community-tournament-654c5fe77693a8bfd44329b8/rules",
+            "bracket": "https://paidiagaming.com/tournament/fareehas-mindful-gaming-community-tournament-654c5fe77693a8bfd44329b8/overview",
+            "team_number": "14"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Teamspeak",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Silly Lil Gamers",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "UABESA Astra",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Timeless Oasis",
+            "p1": "Paradox355",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Layla",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p2link": "Layla (American player)",
+            "p3": "Bame1",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Chrono",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "MayLu",
+            "p5flag": "us",
+            "pos5": "sup"
+        },
+        {
+            "team": "Rough Diamonds",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Team Caster Curse",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "The Goobers",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Olocoons",
+            "p1": "MyDadAbsent",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Fadedshiba",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Wizz",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Cala",
+            "p4flag": "",
+            "pos4": "sup",
+            "p5": "nvalid",
+            "p5flag": "",
+            "pos5": "sup"
+        },
+        {
+            "team": "3rd Point Team",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "RedGoose Esports",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Team Tinfoils",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Goon Squad",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "The Pep Rally",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Hawks",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "November 17, 2023 - 14:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "teamspeak",
+            "opponent1_score": 0,
+            "opponent2": "silly lil gamers",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 17, 2023 - 14:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "uabesa astra",
+            "opponent1_score": 0,
+            "opponent2": "timeless oasis",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "November 17, 2023 - 14:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "rough diamonds",
+            "opponent1_score": 2,
+            "opponent2": "team caster curse",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "November 17, 2023 - 14:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "the goobers",
+            "opponent1_score": 0,
+            "opponent2": "olocoons",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "November 17, 2023 - 14:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "3rd point team",
+            "opponent1_score": 2,
+            "opponent2": "redgoose esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "November 17, 2023 - 14:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team tinfoils",
+            "opponent1_score": 0,
+            "opponent2": "goon squad",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "November 17, 2023 - 15:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "the pep rally",
+            "opponent1_score": 2,
+            "opponent2": "silly lil gamers",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 17, 2023 - 15:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "timeless oasis",
+            "opponent1_score": 2,
+            "opponent2": "rough diamonds",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "November 17, 2023 - 15:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "olocoons",
+            "opponent1_score": 2,
+            "opponent2": "3rd point team",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "November 17, 2023 - 15:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "hawks",
+            "opponent1_score": 2,
+            "opponent2": "goon squad",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "November 17, 2023 - 16:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "the pep rally",
+            "opponent1_score": 0,
+            "opponent2": "timeless oasis",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "November 17, 2023 - 16:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "olocoons",
+            "opponent1_score": 2,
+            "opponent2": "hawks",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "November 17, 2023 - 17:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "Fareeha",
+            "opponent1": "timeless oasis",
+            "opponent1_score": 0,
+            "opponent2": "olocoons",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        }
+    ]
+}

@@ -1,0 +1,533 @@
+{
+    "tournament_info": [
+        {
+            "name": "China-Korea Megagame - Chinese Qualifier",
+            "shortname": "",
+            "image": "China-korea_megagame.png",
+            "series": "China-Korea Megagame",
+            "abbreviation": "CN-KR Megagame",
+            "icon": "China-korea megagame logo small.png",
+            "organizer": "HuyaTV",
+            "organizer-link": "http://www.huya.com/",
+            "organizer2": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "China",
+            "format": "'''Group Stage''':<br>Round Robin<br>'''Playoffs''':<br>Single Elimination",
+            "prizepool": "60,000",
+            "localcurrency": "cny",
+            "prizepoolusd": "9,000",
+            "sdate": "2016-08-03",
+            "edate": "2016-09-01",
+            "liquipediatier": "{{TierText/3}}",
+            "web": "",
+            "stream": "http://www.huya.com/overwatch",
+            "bracket": "http://en.game-tournaments.com/overwatch/china-korea-megagame/chinese-playoff",
+            "challonge": "",
+            "teamfirst": "nga",
+            "teamsecond": "newbee",
+            "teamthird": "wildest dog",
+            "teamfourth": "yl",
+            "team_number": "16",
+            "team1": "",
+            "team2": "",
+            "team3": "",
+            "team4": "",
+            "team5": "",
+            "team6": "",
+            "team7": "",
+            "team8": "",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dawn Raid",
+            "link": "Dawn Raid/Dawn Raid",
+            "p1": "Lawliet|p1flag=cn",
+            "p2": "Breeze|p2flag=cn",
+            "p3": "Yzzzzzz|p3flag=cn",
+            "p4": "shuaishuai|p4flag=cn",
+            "p5": "Nightmoon|p5flag=cn",
+            "p6": "Word|p6flag=cn"
+        },
+        {
+            "team": "Yi Cheng",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "Metaphysic e-Sports",
+            "p1": "Yoooo|p1flag=cn",
+            "p2": "Eva|p2flag=cn",
+            "p3": "Y1ngYang|p3flag=cn",
+            "p4": "28|p4flag=cn",
+            "p5": "Mail|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "Unknown Fleet",
+            "p1": "LazyMax|p1flag=cn",
+            "p2": "Eric|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "NGA Club",
+            "link": "NGA Club/NGA Club",
+            "p1": "ShaDowCat|p1flag=cn",
+            "p2": "Fury|p2flag=cn|p2link=Cheng Chao",
+            "p3": "LittleCat|p3flag=cn",
+            "p4": "AcyOrt|p4flag=cn",
+            "p5": "Hysteria|p5flag=cn",
+            "p6": "Maps|p6flag=cn |p6link=Maps (Chinese player)"
+        },
+        {
+            "team": "Wildest Dog",
+            "p1": "ASDJB|p1flag=cn",
+            "p2": "Wind|p2flag=cn",
+            "p3": "\u4e95\u661f\u90a6|p3flag=cn",
+            "p4": "lxppp|p4flag=cn",
+            "p5": "\u8001\u74dc|p5flag=cn",
+            "p6": "LLK|p6flag=cn"
+        },
+        {
+            "team": "Snake eSports",
+            "p1": "HuaMao|p1flag=cn",
+            "p2": "Pangge|p2flag=cn",
+            "p3": "FateHolder|p3flag=cn",
+            "p4": "Izaya|p4flag=cn",
+            "p5": "700|p5flag=cn",
+            "p6": "Key|p6flag=cn"
+        },
+        {
+            "team": "Calabash Bro",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "LGD Gaming",
+            "p1": "AeoluS|p1flag=cn",
+            "p2": "Hickey|p2flag=cn",
+            "p3": "SyldaStrd|p3flag=cn",
+            "p4": "GetlefT|p4flag=cn",
+            "p5": "Goodbully|p5flag=cn",
+            "p6": "ChaoS|p6flag=cn"
+        },
+        {
+            "team": "Team YL",
+            "p1": "sby|p1flag=cn",
+            "p2": "DoubleGod|p2flag=cn",
+            "p3": "MuMo|p3flag=cn",
+            "p4": "YiWai|p4flag=cn",
+            "p5": "DEIDI|p5flag=cn",
+            "p6": "Locus|p6flag=cn|p6link=Locus (Chinese player)"
+        },
+        {
+            "team": "MSC",
+            "p1": "Jin|p1flag=cn",
+            "p2": "Neko|p2flag=cn|p2link=Neko (Chinese player)",
+            "p3": "Rocky|p3flag=cn",
+            "p4": "Sarl|p4flag=cn",
+            "p5": "Zodiac|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "UN",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "Newbee",
+            "p1": "Kenny|p1flag=cn",
+            "p2": "Baymax|p2flag=cn",
+            "p3": "Fool|p3flag=cn",
+            "p4": "OldZZZ|p4flag=cn",
+            "p5": "Hibiki|p5flag=cn",
+            "p6": "Dream|p6flag=cn|p6link=Dream (Chinese player)"
+        },
+        {
+            "team": "MyTh Club",
+            "image": "MyTh Club logo.png",
+            "p1": "rEspawN|p1flag=cn",
+            "p2": "chiAk1|p2flag=cn",
+            "p3": "LDStarbucks|p3flag=cn",
+            "p4": "Donkey|p4flag=cn",
+            "p5": "Mortal|p5flag=cn",
+            "p6": "Kael|p6flag=cn"
+        },
+        {
+            "team": "MDZZ",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "Wukong Gaming",
+            "p1": "feiye|p1flag=cn",
+            "p2": "panda|p2flag=cn",
+            "p3": "xiaofan|p3flag=cn",
+            "p4": "doubao|p4flag=cn",
+            "p5": "jiangnan|p5flag=cn",
+            "p6": "mumu|p6flag=cn"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "date": "August 31, 2016 - 19:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team2": "wildest dog",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "dr",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "date": "August 31, 2016 - 20:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team2": "nga",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D3",
+            "team1": "ag.red",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "August 31, 2016 - 21:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team2": "wkg",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D5",
+            "team1": "yl",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "August 31, 2016 - 22:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team2": "newbee",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D7",
+            "team1": "msc",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "September 1, 2016 - 19:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team2": "nga",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2W1",
+            "team1": "wildest dog",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "September 1, 2016 - 20:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team2": "newbee",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2W3",
+            "team1": "yl",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "date": "September 1, 2016 - 22:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team2": "newbee",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R3W1",
+            "team1": "nga",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "date": "September 1, 2016 - 21:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team2": "yl",
+            "score2": "1",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R3D1",
+            "team1": "wildest dog",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": [
+        {
+            "key": "match1",
+            "date": "August 3, 2016 - 19:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "mes",
+            "games1": "0",
+            "team2": "dr",
+            "games2": "3",
+            "winner": "2"
+        },
+        {
+            "key": "match2",
+            "date": "August 3, 2016 - 20:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "yi cheng",
+            "games1": "3",
+            "team2": "unknown fleet",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "date": "August 10, 2016 - 21:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "mes",
+            "games1": "1",
+            "team2": "yi cheng",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "date": "August 11, 2016 - 19:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "dr",
+            "games1": "3",
+            "team2": "unknown fleet",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "date": "August 18, 2016 - 20:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "mes",
+            "games1": "3",
+            "team2": "unknown fleet",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "date": "August 18, 2016 - 21:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "dr",
+            "games1": "2",
+            "team2": "yi cheng",
+            "games2": "1",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "date": "August 3, 2016 - 21:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "nga",
+            "games1": "3",
+            "team2": "calabash bro",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "date": "August 4, 2016 - 19:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "wildest dog",
+            "games1": "2",
+            "team2": "snake",
+            "games2": "1",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "date": "August 11, 2016 - 20:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "nga",
+            "games1": "3",
+            "team2": "wildest dog",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match4",
+            "date": "August 11, 2016 - 21:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "calabash bro",
+            "games1": "0",
+            "team2": "snake",
+            "games2": "3",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "date": "August 24, 2016 - 19:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "nga",
+            "games1": "3",
+            "team2": "snake",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "date": "August 24, 2016 - 20:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "calabash bro",
+            "games1": "0",
+            "team2": "wildest dog",
+            "games2": "3",
+            "winner": "2"
+        },
+        {
+            "key": "match1",
+            "date": "August 4, 2016 - 20:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "msc",
+            "games1": "1",
+            "team2": "yl",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match2",
+            "date": "August 4, 2016 - 20:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "lgd",
+            "games1": "3",
+            "team2": "un",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "date": "August 17, 2016 - 19:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "msc",
+            "games1": "2",
+            "team2": "lgd",
+            "games2": "1",
+            "winner": "1"
+        },
+        {
+            "key": "match4",
+            "date": "August 17, 2016 - 20:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "yl",
+            "games1": "3",
+            "team2": "un",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "date": "August 24, 2016 - 21:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "msc",
+            "games1": "3",
+            "team2": "un",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "date": "August 25, 2016 - 19:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "yl",
+            "games1": "3",
+            "team2": "lgd",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "date": "August 10, 2016 - 19:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "myth",
+            "games1": "1",
+            "team2": "mdzz",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match2",
+            "date": "August 10, 2016 - 20:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "wkg",
+            "games1": "1",
+            "team2": "newbee",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match3",
+            "date": "August 17, 2016 - 21:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "myth",
+            "games1": "0",
+            "team2": "wkg",
+            "games2": "3",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "date": "August 18, 2016 - 19:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "mdzz",
+            "games1": "0",
+            "team2": "newbee",
+            "games2": "3",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "date": "August 25, 2016 - 20:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "myth",
+            "games1": "0",
+            "team2": "newbee",
+            "games2": "3",
+            "winner": "2"
+        },
+        {
+            "key": "match6",
+            "date": "August 25, 2016 - 21:00 {{Abbr/CST}}",
+            "finished": "true",
+            "team1": "mdzz",
+            "games1": "0",
+            "team2": "wkg",
+            "games2": "3",
+            "winner": "2"
+        }
+    ]
+}

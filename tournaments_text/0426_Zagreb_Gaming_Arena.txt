@@ -1,0 +1,210 @@
+{{Infobox league
+|name=Zagreb Gaming Arena
+|shortname=Zagreb Gaming Arena
+|image=ZGA.png
+|organizer=Croatia Music Week
+|organizer-link=http://www.croatiamusicweek.hr/events/overwatch/
+|sponsor=[http://www.croatiamusicweek.hr/events/overwatch/ Croatia Music Week]
+|platform=PC
+|series=
+|type=Offline
+|country=Croatia
+|city=Zagreb
+|format=Double Elimination
+|game=overwatch
+|prizepool=1,000
+|localcurrency=eur
+|prizepoolusd=1,040
+|date=2017-01-03
+|liquipediatier={{TierText/3}}
+|web=http://www.croatiamusicweek.hr/events/overwatch/
+|twitch=
+|youtube=
+|bracket=https://battlefy.com/hcl/zagreb-gaming-arena/586adbb499d23a6d09d434ae/info
+|team_number=7
+|teamfirst=acertas
+|teamsecond=team hop
+|teamthird=trokutizam
+|teamthird2=pr0pal1c3
+|previous=
+|next=
+}}
+
+==Information==
+===Location===
+Arena Zagreb, Zagreb, Croatia.
+
+===Prize Pool===
+€1000 {{Abbr/EUR}} (~$ {{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start|localcurrency=eur}}
+{{prize pool slot|place=1|localprize=500 |usdprize=520 |acertas |lastvs1=team hop e-sport crew|lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot|place=2|localprize=300 |usdprize=298 |team hop e-sport crew |lastvs1=acertas|lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot|place=3-4|localprize=100|usdprize=104
+|pr0pal1c3 |lastvs1=acertas |lastscore1=0 |lastvsscore1=2
+|trokutizam |lastvs2=team hop |lastscore2=0 |lastvsscore2=2
+}}
+{{prize pool slot|place=5-6|usdprize=0
+|five bros |lastvs1= |lastscore1=0 |lastvsscore1=2
+|cyber team |lastvs2=trokutizam |lastscore2=0 |lastvsscore2=2}}
+{{prize pool slot|place=7 |usdprize=0 |klousars  |lastvs1=|lastscore1= |lastvsscore1= }}
+{{Prize pool end}}
+''Converted USD prizes are based on the currency exchange rate (taken from [http://xe.com xe.com]) on January 3, 2017: 1 EUR = 1.04 USD.''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Acertas Gaming
+|p1=sprEEEzy |p1flag=hr
+|p2=SkrakZ |p2flag=hr
+|p3=sfcMedo |p3flag=hr
+|p4=kinko|p4flag=hr
+|p5=aRxEs |p5flag=hr
+|p6=Walkindallas |p6flag=hr
+}}
+{{TeamCard
+|team=Cyber Team
+|p1= |p1flag=hr
+|p2= |p2flag=hr
+|p3= |p3flag=hr
+|p4= |p4flag=hr
+|p5= |p5flag=hr
+|p6= |p6flag=hr
+}}
+{{TeamCard
+|team=Five Bros
+|p1=Lux |p1flag=hr|p1link=Lux (hr player)
+|p2=Tami |p2flag=hr
+|p3=Dawa |p3flag=hr
+|p4=FRancescino |p4flag=hr
+|p5=Nyima |p5flag=hr
+|p6=Ivo-bio |p6flag=hr
+}}
+{{TeamCard
+|team=Team HoP e-Sport Crew
+|p1=CucuC|p1flag=hu
+|p2=Alien |p2flag=hu
+|p3=hykleri|p3flag=hu
+|p4=stati |p4flag=hu
+|p5=Konti |p5flag=hu
+|p6=Res1st |p6flag=hu
+}}
+{{TeamCard
+|team=Kloušars
+|p1=Aki |p1flag=hr
+|p2=CROKJustice |p2flag=hr
+|p3=Light |p3link=Light (Croatian Player)|p3flag=hr
+|p4=Vice |p4flag=hr
+|p5=MofoLoco |p5flag=hr
+|p6=Kira |p6flag=hr
+}}
+{{TeamCard
+|team=Pr0pal1c3
+|p1= |p1flag=hr
+|p2= |p2flag=hr
+|p3= |p3flag=hr
+|p4= |p4flag=hr
+|p5= |p5flag=hr
+|p6= |p6flag=hr
+}}
+{{TeamCard
+|team=Trokutizam
+|p1=neLo|p1flag=hr
+|p2=bexx|p2flag=hr
+|p3=Stickz|p3flag=hr
+|p4=med1cz|p4flag=hr
+|p5=Scharko|p5flag=hr
+|p6=Sakurama|p6flag=hr
+}}
+{{TeamCard columns end}}
+
+==Results==
+===Group Stage===
+{{box|start|padding=2em}}
+===={{HiddenSort|Group A}}====
+{{GroupTableStart| Group A |date= |show_p=false|width=350px}}
+{{GroupTableSlot|{{Team|acertas}} |place=1|win_m=2|lose_m=0|bg=up }}
+{{GroupTableSlot|{{Team|team hop}} |place=2|win_m=2|lose_m=1|bg=up }}
+{{GroupTableSlot|{{Team|klousars}} |place=3|win_m=1|lose_m=2|bg=down }}
+{{GroupTableSlot|{{Team|five bros}} |place=4|win_m=0|lose_m=2|bg=down }}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=KL7l7GAP0Y |title=Group A Matches |width=350px
+|match1={{MatchMaps
+|team1=klousars|games1=0
+|team2=team hop|games2=2
+|winner=2
+}}
+|match2={{MatchMaps
+|team1=acertas|games1=2
+|team2=five bros|games2=0
+|winner=1
+}}
+|match3={{MatchMaps
+|team1=team hop|games1=0
+|team2=acertas|games2=2
+|winner=2
+}}
+|match4={{MatchMaps
+|team1=five bros|games1=0
+|team2=klousars|games2=2
+|winner=2
+}}
+|match5={{MatchMaps
+|team1=team hop|games1=2
+|team2=klousars|games2=0
+|winner=1
+}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Group B}}====
+{{GroupTableStart| Group B |date= |show_p=false|width=350px}}
+{{GroupTableSlot|{{Team|trokutizam}} |place=1|win_m=2|lose_m=0|bg=up }}
+{{GroupTableSlot|{{Team|pr0pal1c3}} |place=2|win_m=2|lose_m=1|bg=up }}
+{{GroupTableSlot|{{Team|cyber team}} |place=3|win_m=0|lose_m=2|bg=down }}
+
+{{GroupTableEnd}}
+{{LegacyMatchList|id=Qfe4KcDA6M |title=Group B Matches |width=350px
+|match1={{MatchMaps
+|team1=trokutizam |games1=2
+|team2=pr0pal1c3 |games2=0
+|winner=1
+}}
+|match2={{MatchMaps
+|team1=pr0pal1c3 |games1=2
+|team2=cyber team |games2=1
+|winner=1
+}}
+|match3={{MatchMaps
+|team1=trokutizam |games1=2
+|team2=cyber team |games2=0
+|winner=1
+}}
+|match4={{MatchMaps
+|team1=pr0pal1c3|games1=
+|team2literal=BYE |games2=
+|winner=1
+}}
+}}
+{{box|break|padding=2em}}
+{{box|end|padding=2em}}
+
+===Playoffs===
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=5lkOfUpKFd
+|column-width=200
+<!-- SEMIFINALS -->
+|R1D1team=acertas |R1D1score=2 |R1D1win=1
+|R1D2team=pr0pal1c3 |R1D2score=0 |R1D2win=
+
+|R1D3team=trokutizam |R1D3score=0 |R1D3win=
+|R1D4team=team hop |R1D4score=2 |R1D4win=1
+<!-- FINALS -->
+|R2W1team=acertas |R2W1score=3 |R2W1win=1
+|R2W2team=team hop |R2W2score=0 |R2W2win=
+}}
+
+==External links==
+*{{flag/uk}} [http://www.croatiamusicweek.hr/events/overwatch/ Official announcement]
+
+==References==
+{{Reflist}}

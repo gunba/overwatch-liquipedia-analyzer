@@ -1,0 +1,557 @@
+{{DISPLAYTITLE:Uniliga - Winter 2020 - Relegation}}
+{{Liquipedia links|rocketleague=Uniliga/Winter/2020/League_Play}}
+{{Uniliga navbox}}
+{{Tabs static
+|name1=Overview
+|link1=Uniliga/Winter_2020
+|name2=1st League
+|link2=Uniliga/Winter_2020/1st_League
+|name3=2nd League
+|link3=Uniliga/Winter_2020/2nd_League
+|name4=Wildcard
+|link4=Uniliga/Winter_2020/Wildcard
+|name5=Relegation
+|link5=Uniliga/Winter_2020/Relegation
+|This=5
+}}
+{{Infobox league
+|name=Uniliga - Winter 2020 - Relegation
+|shortname=Uniliga Winter '20 Relegation
+|image=University eSports Germany.png
+|series=uniliga
+|abbreviation=Uniliga
+|icon=Uniliga_icon.png
+|tickername=Uniliga Relegation
+|organizer=University eSports Germany
+|organizer-link=https://uniliga.gg
+|sponsor=[https://de.msi.com MSI Deutschland]<br>[https://studitemps.de/ Studitemps]
+|country=Germany
+|type=Online
+|format=Double Elimination
+|prizepool=
+|prizepoolusd=
+|sdate=2021-01-13
+|edate=2021-01-31
+|liquipediatier=4|liquipediatiertype=Qualifier
+|web=http://uniliga.gg/ow/
+|twitch=uniligagg
+|twitch2=uniligagg2
+|bracket=https://www.toornament.com/en_US/tournaments/3869459870080851968/stages/3877674649900113920/
+|rulebook=https://www.uniliga.gg/ow-regelwerk/
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=12
+|previous=Uniliga/Summer_2020/1st_League {{!}} Uniliga Summer '20
+|next=
+}}{{Upcoming matches tournament|Uniliga/Winter 2020/1st League/Relegation}}
+
+==About==
+
+===Information===
+*All players must be students at a German university.
+*Each team must have a minimum of 6 and a maximum of 12 players.
+
+===Format===
+*Single Elimination
+**Bottom four (4) teams from the [[Uniliga/Winter 2020/1st League|1st League]] will be placed in the bracket as seeds #1-#4.
+**Top eight (8) teams from the [[Uniliga/Winter 2020/2nd League|2nd League]] wil be placed in the bracket as seeds #5-#12.
+**Seeds #1-#8 start in the Upper Bracket, seeds #9-#12 start in the Lower Bracket.
+**All matches will be played in a First-to-3 series.
+**Top four (4) teams will qualify for the 1st League in the next season.
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=6|'''Playoffs'''
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=4|Available Maps for '''Playoffs'''
+|-
+![[Control]]
+![[Hybrid]]
+![[Escort]]
+![[Assault]]
+|-
+!1st map
+|''[[Control]] map''
+|width="130" rowspan=9|
+*[[Oasis]]
+*[[Ilios]]
+*[[Lijiang Tower]]
+|width="130" rowspan=9|
+*[[Eichenwalde]]
+*[[King's Row]]
+*[[Numbani]]
+|width="130" rowspan=9|
+*[[Havana]]
+*[[Route 66]]
+*[[Rialto]]
+|width="130" rowspan=9|
+*[[Hanamura]]
+*[[Temple of Anubis]]
+*[[Volskaya Industries]]
+|-
+!2nd map
+|''[[Hybrid]] map''
+|-
+!3rd map
+|''[[Escort]] map''
+|-
+!4th map
+|''[[Assault]] map''
+|-
+!5th map
+|''[[Control]] map''
+|-
+!6th map
+|''[[Hybrid]] map''
+|-
+!7th map
+|''[[Escort]] map''
+|-
+!8th map
+|''[[Control]] map''
+|-
+!9th map
+|''[[Escort]] map''
+|-
+!width="160"  colspan=2|Tiebreaker
+|width="160" colspan=4|{{Abbr/Bo3}} on [[Busan]].
+|}
+
+===Broadcast Talent===
+{{box|start}}
+{{BroadcasterCard|lang=German
+|position=Commentator
+|b1=JLEPS      |b1name=Jakob Schwinn      |b1flag=de
+|b2=KenZ|b2name=Luke  |b2flag=de
+|b3=Darman|b3name=Daniel Kentsch|b3flag=de
+}}
+{{box|end|padding=2em}}
+
+==Prize Pool==
+{{prize pool start|noprize=true|cutafter=4|points=seed|qualifiedseed=1st League}}
+{{prize pool slot |place=1-2 |points=1st League
+|victorious mainz |lastvs1=content |lastscore1=3 |lastvsscore1=1 |date1=2021-01-30
+|baltic bite |lastvs2=kit sc sphinx |lastscore2=3 |lastvsscore2=0 |date2=2021-01-30
+}}
+{{prize pool slot |place=3-4 |points=1st League
+|dg infinite |lastvs1=kit sc sphinx |lastscore1=3 |lastvsscore1=0 |date1=2021-01-31
+|esug jungbrutalgebihlded |walkoverfrom2=content |date2=2021-01-31
+}}
+{{prize pool slot |place=5-6 <!--Loser Losers' Bracket Round 3-->
+|kit sc sphinx |lastvs1=dg infinite |lastscore1=0 |lastvsscore1=3 |date1=2021-01-31
+|content |walkoverto2=esug jungbrutalgebihlded |date2=2021-01-31
+}}
+{{prize pool slot |place=7-8 <!--Loser Losers' Bracket Round 2-->
+|euwue x-rays |lastvs1=dg infinite |lastscore1=0 |lastvsscore1=3 |date1=2021-01-30
+|egt dracoons |lastvs2=esug jungbrutalgebihlded |lastscore2=2 |lastvsscore2=3 |date2=2021-01-27
+}}
+{{prize pool slot |place=9-12 <!--Loser Losers' Bracket Round 1-->
+|uni mannheim crusaders |lastvs1=euwue x-rays |lastscore1=0 |lastvsscore1=3 |date1=2021-01-20
+|agent p |lastvs2=dg infinite |lastscore2=0 |lastvsscore2=3 |date2=2021-01-20
+|siegen bisons |lastvs3=esug jungbrutalgebihlded |lastscore3=0 |lastvsscore3=3 |date3=2021-01-20
+|1.ecf tryh4rtm4nn |lastvs4=egt dracoons |lastscore4=1 |lastvsscore4=3 |date4=2021-01-20
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Victorious 
+|image=Victorious Mainz 2020.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|p9=|p9flag=
+|qualifier=[[Uniliga/Winter 2020/1st League|1st League Bottom 4]]
+|placement=7
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/1st League|name=Uniliga Winter '20}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=KIT SC Sphinx
+|image=KIT-SC bw Logo.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|p9=|p9flag=
+|qualifier=[[Uniliga/Winter 2020/1st League|1st League Bottom 4]]
+|placement=8
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/1st League|name=Uniliga Winter '20}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ESUG JungBrutalGebihlded
+|image=ESUG Logo Large.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=[[Uniliga/Winter 2020/1st League|1st League Bottom 4]]
+|placement=9
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/1st League|name=Uniliga Winter '20}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=eUwUe X-Rays
+|image=EUwUe X-Rays.png
+|p1=Lerogan|p1flag=de|pos1=tank|captain=yes
+|p2=SheshBesh|p2flag=de|pos2=tank
+|p3=Fibre|p3flag=de|pos3=tank
+|p4=Caipi|p4flag=de|pos4=dps
+|p5=Gollo|p5flag=de|pos5=dps
+|p6=Whitewolf|p6flag=de|pos6=dps
+|p7=Firebolt2222|p7flag=de|pos7=sup
+|p8=Pudding|p8flag=de|pos8=sup
+|p9=Rektbekka|p9flag=de|pos9=sup
+|p10=Kampfhamster|p10flag=de|pos10=sup
+|p11=Wolfix|p11flag=de|pos11=flex
+|p12=Tobi|p12flag=de|pos12=flex|p12link=Tobi (German player)
+|qualifier=[[Uniliga/Winter 2020/1st League|1st League Bottom 4]]
+|placement=10
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/1st League|name=Uniliga Winter '20}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Baltic Bite
+|image=Baltic Bite.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=[[Uniliga/Winter 2020/2nd League|2nd League Top 4]]
+|placement=1-2
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/2nd League|name=Uniliga Winter '20}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=content
+|image=Content.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=[[Uniliga/Winter 2020/2nd League|2nd League Top 4]]
+|placement=1-2
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/2nd League|name=Uniliga Winter '20}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=DG Infinite
+|image=DG Infinite.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=[[Uniliga/Winter 2020/2nd League|2nd League Top 4]]
+|placement=3-4
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/2nd League|name=Uniliga Winter '20}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=1.ECF TryH4rtm4nn
+|image=1. Esport Club Frankfurt.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=[[Uniliga/Winter 2020/2nd League|2nd League Top 4]]
+|placement=3-4
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/2nd League|name=Uniliga Winter '20}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Agent P
+|image=Agent P.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=[[Uniliga/Winter 2020/2nd League|2nd League Top 8]]
+|placement=5-6
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/2nd League|name=Uniliga Winter '20}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=EGT Dracoons
+|image=EGT Dracoons.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=[[Uniliga/Winter 2020/2nd League|2nd League Top 8]]
+|placement=5-6
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/2nd League|name=Uniliga Winter '20}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Siegen Bisons
+|image=Siegen Bisons Logo.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=[[Uniliga/Winter 2020/2nd League|2nd League Top 8]]
+|placement=7-8
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/2nd League|name=Uniliga Winter '20}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Uni Mannheim Crusaders
+|image=Uni Mannheim Crusaders Logo.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=[[Uniliga/Winter 2020/2nd League|2nd League Top 8]]
+|placement=7-8
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Winter 2020/2nd League|name=Uniliga Winter '20}}
+}}
+{{box|end|padding=2em}}
+
+{{Roster changes start}}
+{{Roster changes end}}
+
+==Bracket==
+{{Bracket|Bracket/8-2Q-U-8L2D-2Q|id=1Uh726kARG
+
+<!-- Upper Bracket Round 1 -->
+|R1M1={{Match
+    |date=January 13, 2021 - 20:00 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|victorious mainz|score=3}}
+    |opponent2={{TeamOpponent|dg infinite|score=2}}
+    |winner=1
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Nepal|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Rialto|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=Volskaya Industries|mode=Assault|score1=3|score2=2|winner=1}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+}}
+|R1M2={{Match
+    |date=January 14, 2021 - 20:00 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|euwue x-rays|score=2}}
+    |opponent2={{TeamOpponent|content|score=3}}
+    |winner=2
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Rialto|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=Volskaya Industries|mode=Assault|score1=1|score2=2|winner=2}}
+    |map5={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+}}
+|R1M3={{Match
+    |date=January 13, 2021 - 20:30 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|kit sc sphinx|score=3}}
+    |opponent2={{TeamOpponent|1.ecf tryh4rtm4nn|score=0}}
+    |winner=1
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=5|score2=4|winner=1}}
+    |map3={{Map|map=Havana|mode=Escort|score1=2|score2=1|winner=1}}
+}}
+|R1M4={{Match
+    |date=January 16, 2021 - 14:00 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|esug jungbrutalgebihlded|score=0}}
+    |opponent2={{TeamOpponent|baltic bite|score=3}}
+    |winner=2
+    |comment=The match had to be replayed because rules were not followed.
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=1|score2=2|winner=2}}
+}}
+
+<!-- Upper Bracket Round 2 -->
+|R3M1={{Match
+    |date=January 30, 2021 - 19:30 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|victorious mainz|score=3}}
+    |opponent2={{TeamOpponent|content|score=1}}
+    |winner=1
+    |twitch=uniligagg
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Havana|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Volskaya Industries|mode=Assault|score1=2|score2=1|winner=1}}
+}}
+|R3M2={{Match
+    |date=January 30, 2021 - 18:00 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|kit sc sphinx|score=0}}
+    |opponent2={{TeamOpponent|baltic bite|score=3}}
+    |winner=2
+    |twitch=uniligagg
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=2|score2=3|winner=2}}
+}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M5={{Match
+    |date=January 20, 2021 - 20:00 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|euwue x-rays|score=3}}
+    |opponent2={{TeamOpponent|uni mannheim crusaders|score=0}}
+    |winner=1
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Havana|mode=Escort|score1=1|score2=0|winner=1}}
+}}
+|R1M6={{Match
+    |date=January 20, 2021 - 20:00 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|dg infinite|score=3}}
+    |opponent2={{TeamOpponent|agent p|score=0}}
+    |winner=1
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=Rialto|mode=Escort|score1=1|score2=0|winner=1}}
+}}
+|R1M7={{Match
+    |date=January 20, 2021 - 20:30 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|esug jungbrutalgebihlded|score=3}}
+    |opponent2={{TeamOpponent|siegen bisons|score=0}}
+    |winner=1
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=Havana|mode=Escort|score1=4|score2=3|winner=1}}
+}}
+|R1M8={{Match
+    |date=January 20, 2021 - 20:00 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|1.ecf tryh4rtm4nn|score=1}}
+    |opponent2={{TeamOpponent|egt dracoons|score=3}}
+    |winner=2
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Havana|mode=Escort|score1=0|score2=3|winner=2}}
+    |map4={{Map|map=Hanamura|mode=Assault|score1=2|score2=3|winner=2}}
+}}
+
+<!-- Lower Bracket Round 2 -->
+|R2M1={{Match
+    |date=January 30, 2021 - 18:00 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|euwue x-rays|score=0}}
+    |opponent2={{TeamOpponent|dg infinite|score=3}}
+    |winner=2
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Numbani|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Rialto|mode=Escort|score1=2|score2=3|winner=2}}
+}}
+|R2M2={{Match
+    |date=January 27, 2021 - 20:00 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|esug jungbrutalgebihlded|score=3}}
+    |opponent2={{TeamOpponent|egt dracoons|score=2}}
+    |winner=1
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=3|score2=4|winner=2}}
+    |map4={{Map|map=Temple of Anubis|mode=Assault|score1=2|score2=1|winner=1}}
+    |map5={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+}}
+
+<!-- Lower Bracket Round 3 -->
+|R3M3={{Match
+    |date=January 31, 2021 - 18:00 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|kit sc sphinx|score=0}}
+    |opponent2={{TeamOpponent|dg infinite|score=3}}
+    |winner=2
+    |twitch=uniligagg
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Rialto|mode=Escort|score1=0|score2=1|winner=2}}
+}}
+|R3M4={{Match
+    |date=January 31, 2021 - 19:30 {{Abbr/CET}} |finished=true
+    |opponent1={{TeamOpponent|content|score=FF}}
+    |opponent2={{TeamOpponent|esug jungbrutalgebihlded|score=W}}
+    |winner=2
+    |twitch=uniligagg
+    |comment=[[content]] forfeit after not being able to field enough players.
+    |overgg=
+    |pf=
+    |wl=
+}}
+}}
+
+==Additional Content==

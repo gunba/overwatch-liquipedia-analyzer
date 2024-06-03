@@ -1,0 +1,202 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "DreamHack",
+            "shortname": "Dallas 2019",
+            "name": "DreamHack Dallas 2019",
+            "image": "DreamHack Dallas 2019.png",
+            "icon": "DH-star.png",
+            "organizer": "DreamHack",
+            "type": "Offline",
+            "game": "Overwatch",
+            "country": "United States",
+            "city": "Dallas",
+            "venue": "[http://www.dallasconventioncenter.com/attendees/transportation-and-parking Kay Bailey Hutchison Convention Center]",
+            "twitter": "DreamHack",
+            "instagram": "DreamHack",
+            "facebook": "DreamHack",
+            "prizepoolusd": "3,600",
+            "sdate": "2019-05-31",
+            "edate": "2019-06-02",
+            "web": "https://dreamhack.com/dallas",
+            "rulebook": "",
+            "team_number": "9",
+            "bracket": "https://battlefy.com/dreamhack-dallas-2019/dhdal19-overwatch-byoc/5c886a2d542faf032c3b988f/stage/5cf1a90ab7a3b0031ed79d94/bracket/"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "RAM RANCH",
+            "p1": "YankyWolf |p1flag=us|pos1=dps",
+            "p2": "Kashir |p2flag=|pos2=dps",
+            "p3": "Tengoku |p3flag=us|pos3=tank",
+            "p4": "Spades |p4flag=us|pos4=tank",
+            "p5": "Lep |p5flag=|pos5=sup",
+            "p6": "Joe |p6flag=|pos6=sup"
+        },
+        {
+            "team": "I.C.U.P.",
+            "p1": "Char1ie |p1flag=usa |pos1=tank",
+            "p2": "Fosmanx |p2flag=usa |pos2=tank",
+            "p3": "Pure |p3flag=usa |pos3=dps",
+            "p4": "Freed0m |p4flag=usa |pos4=dps",
+            "p5": "Hyung |p5flag=usa |pos5=sup",
+            "p6": "Fix |p6flag=usa |pos6=sup"
+        },
+        {
+            "team": "Sinai Villagers",
+            "p1": "LeaF |p1flag=cn |pos1=tank",
+            "p2": "Buzz |p2flag=usa |pos2=tank",
+            "p3": "Senpai |p3flag=usa |pos3=dps",
+            "p4": "ZeaL |p4flag=usa |pos4=dps",
+            "p5": "Tree |p5flag=usa |pos5= sup",
+            "p6": "WolfWind |p6flag=usa |pos6=sup",
+            "c": "Dandy |cflag=ca"
+        },
+        {
+            "team": "Diamond Dogs",
+            "p1": "Kamina |p1flag=|pos1=",
+            "p2": "Framesh1ft |p2flag=|pos2=",
+            "p3": "NyCShadow|p3flag=|pos3=",
+            "p4": "Rev\u00e1n |p4flag=|pos4=",
+            "p5": "Totoro |p5flag=|pos5=",
+            "p6": "sKY |p6flag=|pos6= |p6link=SKY (American player)",
+            "p7": "Brodadtv |p7flag=|pos7="
+        },
+        {
+            "team": "Memes Before Dreams",
+            "p1": "chromakode |p1flag=|pos1=",
+            "p2": "Andariel |p2flag=|pos2=",
+            "p3": "CJIA |p3flag=|pos3=",
+            "p4": "Crash0verid3 |p4flag=|pos4=",
+            "p5": "number5 |p5flag=|pos5=",
+            "p6": "nibbalizer |p6flag=|pos6="
+        },
+        {
+            "team": "angrykate",
+            "p1": "Quechubo |p1flag=|pos1=",
+            "p2": "Wolfe1 |p2flag=|pos2=",
+            "p3": "CalvinJJ |p3flag=|pos3=",
+            "p4": "M1337 |p4flag=|pos4=",
+            "p5": "Maker |p5flag=|pos5=",
+            "p6": "Modifier |p6flag=|pos6="
+        },
+        {
+            "team": "Stroke Asylum: Wardens",
+            "p1": "TonyFetacini |p1flag=|pos1=",
+            "p2": "Kuno |p2flag=|pos2=",
+            "p3": "KPD |p3flag=|pos3=",
+            "p4": "SubzeroTX |p4flag=|pos4=",
+            "p5": "Stroke |p5flag=|pos5=",
+            "p6": "Skittles |p6flag=|pos6="
+        },
+        {
+            "team": "ELECTRIC",
+            "p1": "wtime |p1flag=|pos1=",
+            "p2": "werk |p2flag=|pos2=",
+            "p3": "Frost |p3link=Frost (NA player) |p3flag=|pos3=",
+            "p4": "ApexPlatypus |p4flag=|pos4=",
+            "p5": "MystikMaple|p5flag=|pos5=",
+            "p6": "BeccaBoo729 |p6flag=|pos6="
+        },
+        {
+            "team": "Tha Pack UwU",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|electric|score=2}}",
+            "opponent2": "{{TeamOpponent|tha pack uwu|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|ram ranch|score=2}}",
+            "opponent2": "{{TeamOpponent|electric|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|diamond dogs|score=2}}",
+            "opponent2": "{{TeamOpponent|memes before dreams|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|i.c.u.p.|score=2}}",
+            "opponent2": "{{TeamOpponent|stroke asylum: wardens|score=0}}",
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|sinai village|score=2}}",
+            "opponent2": "{{TeamOpponent|angrykate|score=0}}",
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "5",
+            "opponent1": "{{TeamOpponent|ram ranch|score=3}}",
+            "opponent2": "{{TeamOpponent|diamond dogs|score=0}}",
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|i.c.u.p.|score=3}}",
+            "opponent2": "{{TeamOpponent|sinai village|score=0}}",
+            "optional": "R3M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|ram ranch|score=1}}",
+            "opponent2": "{{TeamOpponent|i.c.u.p.|score=3}}",
+            "optional": "R5M1="
+        },
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|angrykate|score=2}}",
+            "opponent2": "{{TeamOpponent|tha pack uwu|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|stroke asylum: wardens|score=0}}",
+            "opponent2": "{{TeamOpponent|angrykate|score=2}}",
+            "optional": "R2M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|memes before dreams|score=0}}",
+            "opponent2": "{{TeamOpponent|electric|score=2}}",
+            "optional": "R2M6="
+        },
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|diamond dogs|score=2}}",
+            "opponent2": "{{TeamOpponent|angrykate|score=0}}",
+            "optional": "R3M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|sinai village|score=2}}",
+            "opponent2": "{{TeamOpponent|electric|score=0}}",
+            "optional": "R3M4="
+        },
+        {
+            "bestof": "5",
+            "opponent1": "{{TeamOpponent|diamond dogs|score=0}}",
+            "opponent2": "{{TeamOpponent|sinai village|score=3}}",
+            "optional": "R4M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|ram ranch|score=3}}",
+            "opponent2": "{{TeamOpponent|sinai village|score=0}}",
+            "optional": "R5M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|i.c.u.p.|score=3}}",
+            "opponent2": "{{TeamOpponent|ram ranch|score=0}}",
+            "optional": "R6M1="
+        }
+    ]
+}

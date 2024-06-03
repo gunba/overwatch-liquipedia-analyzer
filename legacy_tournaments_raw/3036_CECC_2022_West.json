@@ -1,0 +1,112 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "Collegiate Esports Commissioners Cup",
+            "abbreviation": "CECC",
+            "name": "CECC West Qualifier",
+            "shortname": "2022 West Qualifier",
+            "tickername": "CECC West Qualifier",
+            "icon": "CECCLogo-2.png",
+            "image": "CECCLogo-2.png",
+            "organizer": "Collegiate Esports Management Group",
+            "type": "Online",
+            "country": "United States",
+            "format": "Double Elimination",
+            "sdate": "2022-04-09",
+            "edate": "2022-04-10",
+            "twitter": "Ceccevents",
+            "web": "https://collegiatesmg.com/",
+            "twitch": "EsportsU",
+            "rulebook": "https://drive.google.com/file/d/15KGZZs9GMMR0nuul8CxnIDBE92rdADDR/view?usp=sharing",
+            "team_number": "5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "UCSD Varsity Overwatch",
+            "image": "",
+            "p1": "Przncess|p1flag=us|pos1=dps",
+            "p2": "Pakko|p2flag=us|pos2=dps",
+            "p3": "Rho|p3flag=us|pos3=tank",
+            "p4": "Bog|p4flag=us|pos4=tank",
+            "p5": "Hing3d|p5flag=us|pos5=sup",
+            "p6": "Minefan006|p6lag=kr|pos6=sup",
+            "qualifier": "University of California, San Diego"
+        },
+        {
+            "team": "University of Hawaii",
+            "image": "",
+            "p1": "Sey|p1flag=USA|pos1=dps",
+            "p2": "Akamai|p2flag=USA|pos2=dps",
+            "p3": "Mathdealer|p3flag=USA|pos3=tank",
+            "p4": "Napotis|p4flag=USA|pos4=tank",
+            "p5": "Rivergawd|p5flag=USA|pos5=sup",
+            "p6": "BananaLumpia|p6flag=USA|pos6=sup",
+            "qualifier": "University of Hawai\u02bbi at M\u0101noa"
+        },
+        {
+            "team": "Oregon State Esports",
+            "image": "",
+            "p1": "|p1flag=USA|pos1=dps",
+            "p2": "|p2flag=USA|pos2=dps",
+            "p3": "|p3flag=USA|pos3=tank",
+            "p4": "|p4flag=USA|pos4=tank",
+            "p5": "|p5flag=USA|pos5=sup",
+            "p6": "|p6flag=USA|pos6=sup",
+            "qualifier": "Oregon State University"
+        },
+        {
+            "team": "Neumont Llamas",
+            "image": "",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=tank",
+            "p5": "|p5flag=|pos5=sup",
+            "p6": "|p6flag=|pos6=sup",
+            "qualifier": "Neumont College of Computer Science"
+        },
+        {
+            "team": "Sacramento State",
+            "image": "",
+            "p1": "|p1flag=USA|pos1=dps",
+            "p2": "|p2flag=USA|pos2=dps",
+            "p3": "|p3flag=USA|pos3=tank",
+            "p4": "|p4flag=USA|pos4=tank",
+            "p5": "|p5flag=USA|pos5=sup",
+            "p6": "|p6flag=USA|pos6=sup",
+            "qualifier": "California State University, Sacramento"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Neumont Llamas",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "UCSD Varsity Overwatch",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "Oregon State Esports",
+            "score2": "L",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "University of Hawaii",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "University of Hawaii",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "UCSD Varsity Overwatch",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

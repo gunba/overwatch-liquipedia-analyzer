@@ -1,0 +1,266 @@
+{{DISPLAYTITLE:HammerClash #4}}
+
+{{Want_to_Help
+|issue=missing roster, flags and positions on teamcards
+|fix=add roster, flags and positions
+|date=20240101
+}}
+
+{{HammerClash_Navbox}}
+{{Infobox league
+|name=HammerClash #4
+|shortname=HC #4
+|series=HammerClash
+|image=
+|icon=
+|tickername=HammerClash #4
+|organizer=HammerKick
+|country=Europe
+|type=Online
+|format=Double Elimination
+|game=overwatch2
+|prizepool=150
+|localcurrency=eur
+|date=2022-04-30
+|liquipediatier=5
+|twitter=HammerKick_OW
+|twitch=hammerkick
+|bracket=https://play.toornament.com/fr/tournaments/5629143420009480192/stages/5629153998258921472/
+|rulebook=https://play.toornament.com/fr/tournaments/5629143420009480192/rules
+|team_number=8
+|previous=HammerClash/2{{!}}#2
+|next=HammerClash/5{{!}}#5
+}}
+
+==Information==
+===Format===
+*Double Elimination Bracket
+** All matches are {{Abbr/Ft2}}
+*All maps in the competitive map pool available. First pick per coin toss, after that maps are chosen by the loser of the previous map.
+
+
+==Prize Pool==
+{{TeamPrizePool|import=true|localcurrency=eur
+|{{Slot|localprize=100}}
+|{{Slot|localprize=50}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Pipibox Reported
+|p1=lelouch|pos1=
+|p2=soumis1trick|p2flag=|pos2=
+|p3=sachatouille|p3flag=|pos3=
+|p4=koe|p4flag=|pos4=
+|p5=EASTPACKMAN|p5flag=fr|pos5=dps
+}}
+{{TeamCard
+|team=Chimu
+|p1=Kuraki|p1flag=fi|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+
+{{TeamCard
+|team=PipiBox
+|image=
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+
+{{TeamCard
+|team=Orion|link=Orion (team)
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+
+{{TeamCard
+|team=Dogogo
+|p1=TurboSmooth|p1flag=fr|pos1=dps
+|p2=Tsuyo|pos2=dps
+|p3=GrouinK|pos3=tank
+|p4=AzBlue|p4flag=fr|pos4=sup
+|p5=GOGO|pos5=sup
+}}
+{{TeamCard
+|team=Les Gros Biceps
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Les Nounours Pailletés
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=MindMoon
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/8U4L2DSL1D|id=YHipcD0eIQ
+
+<!-- Upper Bracket Quarterfinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|PipiBox|score=2}}
+    |opponent2={{TeamOpponent|MindMoon|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Les Nounours Pailletés|score=W}}
+    |opponent2={{TeamOpponent|Les Gros Biceps|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M3={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Chimu|score=2}}
+    |opponent2={{TeamOpponent|Pipibox Reported|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M4={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Dogogo|score=2}}
+    |opponent2={{TeamOpponent|Orion|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R2M1={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|PipiBox|score=2}}
+    |opponent2={{TeamOpponent|Les Nounours Pailletés|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Chimu|score=1}}
+    |opponent2={{TeamOpponent|Dogogo|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|PipiBox|score=1}}
+    |opponent2={{TeamOpponent|Dogogo|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M5={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Les Gros Biceps|score=W}}
+    |opponent2={{TeamOpponent|MindMoon|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M6={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Orion|score=0}}
+    |opponent2={{TeamOpponent|PipiBox Reported|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R2M3={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Chimu|score=W}}
+    |opponent2={{TeamOpponent|Les Gros Biceps|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M4={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Les Nounours Pailletés|score=0}}
+    |opponent2={{TeamOpponent|Pipibox Reported|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Chimu|score=W}}
+    |opponent2={{TeamOpponent|Pipibox Reported|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Pipibox|score=1}}
+    |opponent2={{TeamOpponent|Chimu|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R5M1={{Match
+    |date=2022-04-30
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Dogogo|score=1}}
+    |opponent2={{TeamOpponent|Chimu|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

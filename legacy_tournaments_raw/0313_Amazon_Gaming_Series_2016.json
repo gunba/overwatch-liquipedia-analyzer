@@ -1,0 +1,123 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "series": "amazon gaming series",
+            "abbreviation": "AGS",
+            "name": "Amazon Gaming Series",
+            "image": "Amazon Gaming Series.jpg",
+            "icon": "Amazon Gaming Serieslogo small.png",
+            "organizer": "Amazon",
+            "organizer2": "ESL",
+            "sponsor": "[https://www.amazon.fr/b?ie=UTF8&node=10561196031 Intel]<br>[https://www.amazon.fr/b?node=10572668031 ASUS ROG]<br>[https://www.amazon.fr/b?ie=UTF8&node=9895533031 Microsoft Windows 10]",
+            "type": "Online",
+            "country": "Europe",
+            "format": "Single-Elimination Bracket",
+            "prizepool": "10,000",
+            "localcurrency": "eur",
+            "prizepoolusd": "11,345",
+            "date": "2016-06-25",
+            "gosugamers": "",
+            "web": "http://play.eslgaming.com/overwatch/europe/overwatch/major/amazon-gaming-series-en/",
+            "bracket": "http://play.eslgaming.com/overwatch/europe/overwatch/major/amazon-gaming-series-finals-europe/rankings/",
+            "twitch": "esl_france",
+            "teamfirst": "misfits",
+            "teamsecond": "creation esports",
+            "teamthird": "reunited",
+            "teamthird2": "rogue",
+            "team_number": "4",
+            "map1": "Temple of Anubis",
+            "map2": "Hanamura",
+            "map3": "Volskaya Industries",
+            "map4": "Watchpoint: Gibraltar",
+            "map5": "Dorado",
+            "map6": "Route 66",
+            "map7": "Lijiang Tower",
+            "map8": "Ilios",
+            "map9": "Nepal",
+            "map10": "King's Row",
+            "map11": "Numbani",
+            "map12": "Hollywood"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "REUNITED",
+            "image": "",
+            "size": "",
+            "p1": "uNFixed",
+            "p2": "Winghaven",
+            "p3": "TwoEasy",
+            "p4": "Morte",
+            "p5": "vallutaja",
+            "p6": "Kruise",
+            "qualifier": "[[Amazon_Gaming_Series/2016/Qualifier_1|Qualifier #1]]"
+        },
+        {
+            "team": "Misfits",
+            "notes": "1",
+            "image": "Misfits_logo.png",
+            "imagesize": "",
+            "p1": "Kryw",
+            "p2": "Nevix",
+            "p3": "Zebbosai",
+            "p4": "Zaprey |p4flag=dk",
+            "p5": "skipjack |p5flag=de",
+            "p6": "SoOn",
+            "qualifier": "[[Amazon_Gaming_Series/2016/Qualifier_1|Qualifier #1]]"
+        },
+        {
+            "team": "Creation eSports",
+            "image": "",
+            "imagesize": "",
+            "p1": "Draceus |p1flag=se",
+            "p2": "art1er |p2flag=ge",
+            "p3": "LiNkz |p3flag=fi",
+            "p4": "ToxikeN|p4flag=es",
+            "p5": "BromaS |p5flag=es",
+            "p6": "numlocked |p6flag=uk",
+            "c": "Shifty|cflag=us",
+            "qualifier": "[[Amazon_Gaming_Series/2016/Qualifier_2|Qualifier #2]]"
+        },
+        {
+            "team": "Rogue",
+            "p1": "TviQ",
+            "p2": "KnOxXx",
+            "p3": "Reinforce",
+            "p4": "winz",
+            "p5": "aKm",
+            "p6": "uNKOE",
+            "qualifier": "[[Amazon_Gaming_Series/2016/Qualifier_2|Qualifier #2]]"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "creation esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "misfits",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "creation esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "misfits",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

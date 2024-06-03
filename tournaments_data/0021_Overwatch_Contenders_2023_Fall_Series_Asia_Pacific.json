@@ -1,0 +1,796 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2",
+            "blizzardtier": "owc",
+            "series": "Overwatch Contenders",
+            "abbreviation": "OWC",
+            "shortname": "OWC 2023 Fall Series: APAC",
+            "name": "Overwatch Contenders 2023 Fall Series: Asia Pacific",
+            "tickername": "Contenders APAC Fall Series",
+            "image": "Overwatch Contenders 2023 allmode.png",
+            "organizer": "Blizzard",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Asia-Pacific",
+            "format": "Double Elimination",
+            "prizepoolusd": "20000",
+            "sdate": "2023-09-11",
+            "edate": "2023-10-04",
+            "web": "https://www.overwatchleague.com/en-us/pathtopro",
+            "youtube": "overwatchcontenders",
+            "youtube2": "@overwatchesportsKR",
+            "twitch": "overwatchcontenders",
+            "twitch2": "overwatchesportskr",
+            "twitch3": "wdgesportsjp",
+            "twitter": "owpathtopro",
+            "twitter2": "owesports_kr",
+            "team_number": "8",
+            "previous": "Overwatch Contenders/2023/Summer Series/Asia Pacific {{!}} 2023 Summer Series",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Heaven Sent",
+            "p1": "zeruhh",
+            "pos1": "dps",
+            "p2": "Ironman",
+            "pos2": "dps",
+            "p3": "CLEAR",
+            "pos3": "tank",
+            "p4": "Abbs",
+            "pos4": "sup",
+            "p5": "Pummy",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "friednoodle04",
+            "t2c1flag": "cn",
+            "t2c1pos": "coach",
+            "t2c2": "ilovechaewon",
+            "t2c2flag": "ph",
+            "t2c2pos": "analyst",
+            "t2c3": "junseo",
+            "t2c3pos": "manager",
+            "t2c4": "debit",
+            "t2c4pos": "manager",
+            "t2c5": "Cointree",
+            "t2c5pos": "manager",
+            "t3title": "Substitutes",
+            "t3p1": "Salty",
+            "t3p1pos": "tank",
+            "t3p1link": "Salty (American Player)",
+            "t3p2": "A2GIS",
+            "t3p2pos": "tank",
+            "t3p3": "Ayako",
+            "t3p3pos": "sup",
+            "qualifier": "[[WDG/Overwatch Open Tournament/Southeast Asia/2023/Fall|WDG Open Southeast Asia Fall]]",
+            "placementicon": "{{LeagueIconSmall/wdg}}",
+            "placement": "1"
+        },
+        {
+            "team": "DAF",
+            "p1": "Ace",
+            "pos1": "dps",
+            "p1link": "Ace (Thai player)",
+            "p2": "HyVision",
+            "pos2": "dps",
+            "p3": "Yoshinori2k",
+            "pos3": "dps",
+            "p4": "R3K",
+            "pos4": "tank",
+            "p5": "Dank",
+            "pos5": "tank",
+            "p6": "IBaNG",
+            "pos6": "sup",
+            "p7": "PaLee",
+            "pos7": "sup",
+            "p8": "oPuTo",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "mush2oom",
+            "t2c1pos": "coach",
+            "t2c2": "rXis",
+            "t2c2pos": "manager",
+            "t3title": "Substitutes",
+            "t3p1": "Kallbun",
+            "t3p1pos": "tank",
+            "qualifier": "[[WDG/Overwatch Open Tournament/Southeast Asia/2023/Fall|WDG Open Southeast Asia Fall]]",
+            "placementicon": "{{LeagueIconSmall/wdg}}",
+            "placement": "2"
+        },
+        {
+            "team": "4EyedFreak",
+            "p1": "XP7",
+            "pos1": "dps",
+            "p2": "speed75",
+            "pos2": "dps",
+            "p3": "Rui",
+            "pos3": "tank",
+            "p3link": "Yunko",
+            "p4": "Overshake",
+            "pos4": "sup",
+            "p5": "BERL1N",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "blueice",
+            "t2c1pos": "coach",
+            "t2c2": "MegaMulani",
+            "t2c2pos": "coach",
+            "t2c3": "Lian",
+            "t2c3pos": "manager",
+            "t2c4": "MsPxneapple",
+            "t2c4flag": "us",
+            "t2c4pos": "manager",
+            "t3title": "Substitutes",
+            "t3p1": "UN1TE",
+            "t3p1pos": "dps",
+            "t3p2": "silent",
+            "t3p2pos": "dps",
+            "t3p3": "Proxiezs",
+            "t3p3pos": "dps",
+            "t3p4": "Fantasy",
+            "t3p4pos": "tank",
+            "t3p5": "GeminiX",
+            "t3p5pos": "sup",
+            "qualifier": "[[WDG/Overwatch Open Tournament/Southeast Asia/2023/Fall|WDG Open Southeast Asia Fall]]",
+            "placementicon": "{{LeagueIconSmall/wdg}}",
+            "placement": "3"
+        },
+        {
+            "team": "Fade",
+            "link": "Fade (Thai team)",
+            "p1": "ShakeIt",
+            "pos1": "dps",
+            "p2": "HYE",
+            "pos2": "dps",
+            "p3": "Kairen",
+            "p3flag": "th",
+            "pos3": "tank",
+            "p4": "HAJIMA",
+            "p4flag": "th",
+            "pos4": "sup",
+            "p5": "MSCG",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Pouppeep",
+            "t2c1flag": "th",
+            "t2c1pos": "manager",
+            "t3title": "Substitutes",
+            "t3p1": "ong10",
+            "t3p1pos": "dps",
+            "t3p2": "CHONLEE",
+            "t3p2pos": "sup",
+            "t3p3": "Personate",
+            "t3p3pos": "sup",
+            "qualifier": "[[WDG/Overwatch Open Tournament/Southeast Asia/2023/Fall|WDG Open Southeast Asia Fall]]",
+            "placementicon": "{{LeagueIconSmall/wdg}}",
+            "placement": "4"
+        },
+        {
+            "team": "VARREL",
+            "p1": "Nico",
+            "pos1": "dps",
+            "p2": "Mihawk",
+            "pos2": "dps",
+            "p3": "qki",
+            "pos3": "dps",
+            "p4": "KSG",
+            "pos4": "tank",
+            "p5": "plankton",
+            "pos5": "tank",
+            "p6": "Qloud",
+            "pos6": "sup",
+            "p7": "mint",
+            "pos7": "sup",
+            "p7link": "mint (Japanese player)",
+            "t2title": "Staff",
+            "t2c1": "\uff30\uff21\uff29\uff2e",
+            "t2c1pos": "head coach",
+            "t2c2": "Taiga",
+            "t2c2pos": "manager",
+            "qualifier": "[[WDG/Overwatch Open Tournament/East Asia/2023/Fall|WDG Open East Fall]]",
+            "placementicon": "{{LeagueIconSmall/wdg}}",
+            "placement": "1"
+        },
+        {
+            "team": "SixBlow",
+            "p1": "TQQ",
+            "pos1": "dps",
+            "p2": "Rrmy",
+            "pos2": "dps",
+            "p3": "Max",
+            "pos3": "tank",
+            "p3link": "Max (Japanese player)",
+            "p4": "Sakume",
+            "pos4": "sup",
+            "p5": "kiru01",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "MyNa",
+            "t2c1pos": "manager",
+            "t3title": "Substitutes",
+            "t3p1": "gaseri",
+            "t3p1flag": "jp",
+            "t3p1pos": "dps",
+            "qualifier": "[[WDG/Overwatch Open Tournament/East Asia/2023/Fall|WDG Open East Fall]]",
+            "placementicon": "{{LeagueIconSmall/wdg}}",
+            "placement": "2"
+        },
+        {
+            "team": "NGU-K",
+            "p1": "Hope",
+            "pos1": "dps",
+            "p2": "Kame",
+            "pos2": "dps",
+            "p3": "Tomato",
+            "pos3": "tank",
+            "p4": "MaoLi",
+            "pos4": "sup",
+            "p5": "Remedy",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "LnlD",
+            "t2c1pos": "coach",
+            "t2c2": "Figureout",
+            "t2c2pos": "coach",
+            "t2c2flag": "cn",
+            "t2c3": "JPG",
+            "t2c3pos": "manager",
+            "t2c4": "Cointree",
+            "t2c4pos": "manager",
+            "t3title": "Substitutes",
+            "t3p1": "faaaariii",
+            "t3p1pos": "dps",
+            "t3p2": "Lilko",
+            "t3p2pos": "dps",
+            "t3p3": "RAYMOMO",
+            "t3p3pos": "sup",
+            "t3p4": "Chai",
+            "t3p4pos": "sup",
+            "qualifier": "[[WDG/Overwatch Open Tournament/East Asia/2023/Fall|WDG Open East Fall]]",
+            "placementicon": "{{LeagueIconSmall/wdg}}",
+            "placement": "3"
+        },
+        {
+            "team": "Invincible",
+            "p1": "Daisy",
+            "pos1": "dps",
+            "p2": "Undersea",
+            "pos2": "dps",
+            "p3": "Leonopteryx",
+            "pos3": "tank",
+            "p4": "MasDog",
+            "pos4": "tank",
+            "p5": "BL1NK",
+            "p5pos": "sup",
+            "p6": "KIVIS",
+            "p6pos": "sup",
+            "t2title": "Staff",
+            "t2c1": "Ares",
+            "t2c1pos": "coach",
+            "t2c1link": "Ares (Korean coach)",
+            "t3title": "Substitutes",
+            "t3p1": "NHZ",
+            "t3p1pos": "sup",
+            "qualifier": "[[WDG/Overwatch Open Tournament/East Asia/2023/Fall|WDG Open East Fall]]",
+            "placementicon": "{{LeagueIconSmall/wdg}}",
+            "placement": "4"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "September 11, 2023 - 17:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "SixBlow",
+            "opponent2": "4EyedFreak",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "vod": "https://youtu.be/1ohsX90EtH8?si=F_SlrpobY-qdOwjy",
+            "optional": "R1M1="
+        },
+        {
+            "date": "September 11, 2023 - 18:30",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "Heaven Sent",
+            "opponent2": "Invincible",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/mfowUM0PwyQ?si=7_wyr11OYrDKKemy",
+            "optional": "R1M2="
+        },
+        {
+            "date": "September 12, 2023 - 17:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "VARREL",
+            "opponent2": "Fade (Thai team)",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/krFfcMC1bXQ?si=rzAeJVe_rQ-ufJ-E",
+            "optional": "R1M3="
+        },
+        {
+            "date": "September 12, 2023 - 18:30",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "DAF",
+            "opponent2": "NGU-K",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "128.11m",
+                "score2": "45.68m",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/h_jqMbF1kDQ?si=akrYYB4x6etR_cjB",
+            "optional": "R1M4="
+        },
+        {
+            "date": "September 11, 2023 - 20:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "4EyedFreak",
+            "opponent2": "Heaven Sent",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "vod": "https://youtu.be/YxGWzmw7NEM?si=5R9eJjUKZ6eDl03e",
+            "optional": "R2M1="
+        },
+        {
+            "date": "September 12, 2023 - 20:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "VARREL",
+            "opponent2": "DAF",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "90.75m",
+                "score2": "90.74m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "vod": "https://youtu.be/wvuhbPffNCY?si=dF7oFm7c6WJe7KjD",
+            "optional": "R2M2="
+        },
+        {
+            "date": "September 22, 2023 - 20:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "heaven sent",
+            "opponent2": "DAF",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "46.49m",
+                "score2": "128.09m",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "vod": "https://youtu.be/pmykvHFU56k?si=OVDRpKDsDgay5zmP",
+            "optional": "R4M1="
+        },
+        {
+            "date": "September 22, 2023 - 17:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "SixBlow",
+            "opponent2": "Invincible",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "vod": "https://youtu.be/HPFjLhpCXCU?si=zTRJjfJ3hecsRH4x",
+            "optional": "R1M5="
+        },
+        {
+            "date": "September 22, 2023 - 18:30",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "Fade (Thai team)",
+            "opponent2": "NGU-K",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "vod": "https://youtu.be/ZQ3kaToPb18?si=Q1DjPr2KEbrm5nH_",
+            "optional": "R1M6="
+        },
+        {
+            "date": "September 23, 2023 - 17:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "VARREL",
+            "opponent2": "Invincible",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "142.41m",
+                "score2": "51.22m",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/PDUTeL-JM_c?si=Ww50FgRs4UMcGFTs",
+            "optional": "R2M3="
+        },
+        {
+            "date": "September 23, 2023 - 18:30",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "4eyedfreak",
+            "opponent2": "NGU-K",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "94.70m",
+                "score2": "83.35m",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/gMskZzbzrY4?si=zdIhN8_1h7I0mIZF",
+            "optional": "R2M4="
+        },
+        {
+            "date": "September 23, 2023 - 20:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "VARREL",
+            "opponent2": "4eyedfreak",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/ChrqSMAz7Dg?si=pDQRaH7-skseyPDK",
+            "optional": "R3M1="
+        },
+        {
+            "date": "October 4, 2023 - 17:00",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "heaven sent",
+            "opponent2": "VARREL",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "14.63m",
+                "score2": "139.49m",
+                "winner": "2"
+            },
+            "vod": "https://youtu.be/Q1Yd3miZhDg?si=CXFhBOINBa-maaWh",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "7",
+            "date": "October 4, 2023 - 18:45",
+            "date_timezone": "KST",
+            "youtube": "overwatchcontenders",
+            "twitch": "overwatchcontenders",
+            "opponent1": "DAF",
+            "opponent2": "VARREL",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "66.42m",
+                "score2": "57.03m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map6": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "vod": "https://youtu.be/ckipPoFBoVA?si=aPg2_lBb5YQh3RXc",
+            "optional": "R5M1="
+        }
+    ]
+}

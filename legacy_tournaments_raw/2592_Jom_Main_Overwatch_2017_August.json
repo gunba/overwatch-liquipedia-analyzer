@@ -1,0 +1,186 @@
+{
+    "tournament_info": [
+        {
+            "name": "Jom Main! Overwatch Online Tournament: August",
+            "image": "jommainoverwatch.jpg",
+            "series": "Jom Main! Overwatch",
+            "organizer": "Midnight Gaming",
+            "sponsor": "",
+            "platform": "PC",
+            "country": "SEA",
+            "type": "Online",
+            "format": "Single elimination",
+            "prizepool": "600",
+            "localcurrency": "MYR",
+            "prizepoolusd": "141",
+            "sdate": "2017-08-26",
+            "edate": "2017-08-27",
+            "liquipediatier": "5|liquipediatiertype=Monthly",
+            "web": "https://battlefy.com/midnight-gaming/jom-main-overwatch-august-2017/59946deeecfc56032a4822ad/info?infoTab=details",
+            "twitch": "midnightgamingonline",
+            "youtube": "",
+            "bracket": "https://battlefy.com/midnight-gaming/jom-main-overwatch-august-2017/59946deeecfc56032a4822ad/stage/59946eb79f91e703359cd538/bracket/",
+            "team_number": "8",
+            "previous": "Jom Main Overwatch/2017/July{{!}}July",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Chaos Theory",
+            "image": "",
+            "p1": "AJEN |p1flag=sg |pos1=",
+            "p2": "Av1K |p2flag=sg |pos2=",
+            "p3": "Cup |p3flag=sg |pos3=",
+            "p4": "patootie |p4flag=sg |pos4=",
+            "p5": "Sindrax |p5flag=sg |pos5=",
+            "p6": "Vampyrette |p6flag=sg |pos6="
+        },
+        {
+            "team": "Alacrity",
+            "image": "Alacrity logo.png",
+            "p1": "TakoRyxnn |p1flag=sg |pos1=",
+            "p2": "iNyX |p2flag=sg |pos2=",
+            "p3": "Evaneris |p3flag=sg |pos3=",
+            "p4": "iShen |p4flag=sg |pos4=",
+            "p5": "FANE |p5flag=sg |pos5=",
+            "p6": "Novus |p6flag=sg |pos6="
+        },
+        {
+            "team": "God.eM",
+            "image": "God em logo.png",
+            "p1": "Zath |p1flag=sg |pos1=",
+            "p2": "seogsa |p2flag=sg |pos2=",
+            "p3": "Maybekaikai |p3flag=sg |pos3=",
+            "p4": "Vas |p4flag=sg |pos4=",
+            "p5": "boycy |p5flag=sg |pos5=",
+            "p6": "Show |p6flag=sg |pos6="
+        },
+        {
+            "team": "SG Unis Boleh",
+            "image": "",
+            "p1": "MonsterAmp |p1flag=sg |pos1=",
+            "p2": "zhien |p2flag=sg |pos2=",
+            "p3": "hilmo |p3flag=sg |pos3=",
+            "p4": "Angelfall |p4flag=sg |pos4=",
+            "p5": "JohnGalt |p5flag=sg |pos5=",
+            "p6": "Korzz |p6flag= |pos6="
+        },
+        {
+            "team": "Godspeed Gaming",
+            "image": "Godspeed_Gaming_logo.png",
+            "p1": "Magix |p1flag=sg |pos1=",
+            "p2": "yihao |p2flag= |pos2=",
+            "p3": "CZwc |p3flag=sg |pos3=",
+            "p4": "Byte |p4flag= |pos4=",
+            "p5": "Thoth |p5flag=sg |pos5=",
+            "p6": "Galaxik |p6flag=sg |pos6="
+        },
+        {
+            "team": "Ice Hippo Gaming Esports",
+            "image": "",
+            "p1": "Ako |p1flag=my |pos1=",
+            "p2": "farrisalyas |p2flag= |pos2=",
+            "p3": "DopeInder |p3flag= |pos3=",
+            "p4": "DPSMercy |p4flag=my |pos4=",
+            "p5": "Tsumurf |p5flag=my |pos5=",
+            "p6": "|p6flag= |pos6="
+        },
+        {
+            "team": "SoloQ Gaming",
+            "image": "SoloQ Gaming logo.png",
+            "p1": "HamakazeMY |p1flag=my |pos1=",
+            "p2": "MercyFalls |p2flag=my |pos2=",
+            "p3": "Omnidyne |p3flag=my |pos3=",
+            "p4": "TheNameSiRR |p4flag=my |pos4=",
+            "p5": "Gosu |p5flag=my |pos5=",
+            "p6": "Bionimic |p6flag= |pos6="
+        },
+        {
+            "team": "Sirius",
+            "image": "",
+            "p1": "RoboNinja |p1flag=my |pos1=",
+            "p2": "Althiemer |p2flag=my |pos2=",
+            "p3": "heliscout |p3flag=my |pos3=",
+            "p4": "Doxlan |p4flag=my |pos4=",
+            "p5": "raijinshi |p5flag=my |pos5=",
+            "p6": "Bonzomi |p6flag=my |pos6=",
+            "p7": "MuffinMonster |p7flag=my |pos7="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "chaos theory",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "godspeed gaming",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "soloq gaming",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "god.em",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "sg unis boleh",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "sirius",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "alacrity",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "ice hippo gaming esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "god.em",
+            "score2": "4",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "chaos theory",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "alacrity",
+            "score2": "4",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "sg unis boleh",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "alacrity",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "chaos theory",
+            "score1": "4",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

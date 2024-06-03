@@ -1,0 +1,161 @@
+{{DISPLAYTITLE:GameBattles 3v3 Elimination Europe #2}}
+{{GameBattles navbox}}
+{{Tabs static
+|link1=GameBattles_3v3 Elimination/NA/2|name1=NA
+|link2=GameBattles_3v3 Elimination/EU/2|name2=EU
+}}
+{{Infobox league
+|liquipediatier=-1|liquipediatiertype=Weekly
+|name=GameBattles 3v3 Elimination Europe #2
+|shortname=3v3 Europe #2
+|tickername=GameBattles 3v3 EU #2
+|icon=GameBattles icon lightmode.png
+|icondark=GameBattles icon darkmode.png
+|image=GameBattles lightmode.png
+|imagedark=GameBattles darkmode.png
+|organizer=GameBattles
+|series=GameBattles
+|abbreviation=GB
+|sponsor=
+|type=Online
+|country=Europe
+|game=overwatch2
+|prizepoolusd=250
+|date=2022-10-23
+|twitter=gamebattles
+|discord=gamebattles
+|facebook=gamebattles
+|rulebook=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3-250-eu11/info
+|bracket=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3-250-eu11/bracket
+|team_number=9
+}}
+
+==Information==
+===Format===
+*All matches are {{Abbr/Ft2}}
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=200}}
+|{{Slot|usdprize=50}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard|players=3
+|team=SAE : DramaTeam
+|p1=Erso|p1flag=|pos1=
+|p2=Osef|p2flag=|pos2=
+|p3=Raxsore|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=xbox pros
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=jon's disciples v2
+|p1=Sauna|p1flag=|pos1=
+|p2=Exorath|p2flag=|pos2=
+|p3=Vestola|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=Isay
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=murlocraketen
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=Team Random
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=santanclub445
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=BWA
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=Lausanne Bonito
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2L1DH2LH4L|id=FK13mapmRe
+
+<!-- Round 1 -->
+|R1M1={{Match
+    |bestof=3
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|lausanne bonito|score=W}}
+    |opponent2={{TeamOpponent|bwa|score=L}}
+}}
+
+<!-- Quarterfinals -->
+|R2M1={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|sae : dramateam|score=W}}
+    |opponent2={{TeamOpponent|lausanne bonito|score=L}}
+}}
+|R2M2={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|murlocraketen|score=W}}
+    |opponent2={{TeamOpponent|isay|score=L}}
+}}
+|R2M3={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|jon's disciples v2|score=W}}
+    |opponent2={{TeamOpponent|team random|score=L}}
+}}
+|R2M4={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|santanclub445|score=L}}
+    |opponent2={{TeamOpponent|xbox pros|score=W}}
+}}
+
+<!-- Semifinals -->
+|R3M1={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|sae : dramateam|score=W}}
+    |opponent2={{TeamOpponent|murlocraketen|score=L}}
+}}
+|R3M2={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|jon's disciples v2|score=W}}
+    |opponent2={{TeamOpponent|xbox pros|score=L}}
+}}
+
+<!-- Grand Final -->
+|R4M1={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|sae : dramateam|score=W}}
+    |opponent2={{TeamOpponent|jon's disciples v2|score=L}}
+}}
+}}

@@ -1,0 +1,173 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "",
+            "name": "Acer Pro Challenge - Qualifier #2",
+            "image": "",
+            "icon": "",
+            "organizer": "Acer",
+            "organizer2": "aAa",
+            "sponsor": "",
+            "country": "Europe",
+            "type": "Online",
+            "format": "Single-Elimination Bracket",
+            "prizepool": "",
+            "prizepoolusd": "",
+            "date": "2016-06-21",
+            "challonge": "https://challonge.com/ACPQ2",
+            "gosugamers": "",
+            "web": "",
+            "twitch": "",
+            "team_number": "14"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "SG-1",
+            "p1": "hymzi |p1flag=fi",
+            "p2": "Seita |p2flag=fi",
+            "p3": "Lazei |p3flag=fi",
+            "p4": "mafu |p4flag=fi",
+            "p5": "Fragi |p5flag=fi",
+            "p6": "zappis |p6flag=fi"
+        },
+        {
+            "team": "OWKings",
+            "p1": "ADETONIAN",
+            "p2": "Oksii",
+            "p3": "twidi",
+            "p4": "michr",
+            "p5": "ryb",
+            "p6": "OLBAA"
+        },
+        {
+            "team": "Team WASP",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag="
+        },
+        {
+            "team": "NoNameYet",
+            "p1": "Hidan |p1flag=fr",
+            "p2": "Tek36 |p2flag=fr",
+            "p3": "Exon |p3flag=fr",
+            "p4": "Platernity |p4flag=de",
+            "p5": "Nuja |p5flag=fr",
+            "p6": "XSOO |p6flag=fr"
+        },
+        {
+            "team": "TL|link=TL (French team)",
+            "p1": "Sxnpo |p1flag=fr",
+            "p2": "Task |p2flag=fr",
+            "p3": "Daturha |p3flag=fr",
+            "p4": "Nokiad |p4flag=fr",
+            "p5": "BenBest |p5flag=fr",
+            "p6": "Naluu |p6flag=fr"
+        },
+        {
+            "team": "faloufs",
+            "p1": "Cryogenian |p1flag=fr",
+            "p2": "Asox |p2flag=fr",
+            "p3": "jumbi |p3flag=fr",
+            "p4": "Chubzyo |p4flag=fr",
+            "p5": "WAAZ |p5flag=fr",
+            "p6": "zz |p6flag="
+        },
+        {
+            "team": "2sTroNk",
+            "p1": "Tseini |p1flag=",
+            "p2": "EISSFELDT |p2flag=de",
+            "p3": "Ruster |p3flag=de",
+            "p4": "Zave |p4flag=se",
+            "p5": "Manneten |p5flag=se",
+            "p6": "Mineral |p6flag=se"
+        },
+        {
+            "team": "Chupipandi",
+            "p1": "longas |p1flag=es",
+            "p2": "cHoi |p2flag=es",
+            "p3": "sensiK  |p3flag=es",
+            "p4": "Foxt |p4flag=es",
+            "p5": "Pescanova |p5flag=es",
+            "p6": "lork |p6flag=es"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "faloufs",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "sg-1",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "tl (french team)",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "nonameyet",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "team wasp",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "owkings",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "chupipandi",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "2stronk",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "nonameyet",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "sg-1",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "2stronk",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "owkings",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "2stronk",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "sg-1",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

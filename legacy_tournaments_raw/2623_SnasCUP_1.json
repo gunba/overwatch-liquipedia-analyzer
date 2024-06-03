@@ -1,0 +1,285 @@
+{
+    "tournament_info": [
+        {
+            "name": "SnasCUP1",
+            "shortname": "SnasCUP1",
+            "image": "SnasCUP logo.png",
+            "series": "SnasCUP",
+            "abbreviation": "SnasCUP",
+            "tickername": "SnasCUP1",
+            "organizer": "SnasGG",
+            "organizer-link": "https://twitter.com/snasgg",
+            "sponsor": "[http://www.redcomputer.es/ Red Computer]",
+            "type": "Online",
+            "country": "Spain",
+            "city": "Madrid",
+            "format": "'''Playoffs''':<br>Double Elimination<br>",
+            "game": "overwatch",
+            "prizepool": "90",
+            "localcurrency": "eur",
+            "prizepoolusd": "96",
+            "sdate": "2016-11-19",
+            "edate": "2016-11-20",
+            "liquipediatier": "5|liquipediatiertype=Monthly",
+            "web": "http://www.snasgg.com/",
+            "bracket": "https://challonge.com/snascup1",
+            "twitch": "regorsnas",
+            "teamfirst": "NoName!",
+            "teamsecond": "R2K OW",
+            "teamthird": "InSane Overwatch",
+            "teamthird2": "Escuadr\u00f3n Suicida",
+            "team_number": "16",
+            "previous": "",
+            "next": "SnasCUP/2{{!}}SnasCUP2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dragon Tempest",
+            "p1": "Ale7Tom |p1flag=es",
+            "p2": "Soler90 |p2flag=es",
+            "p3": "AntiTY |p3flag=es",
+            "p4": "INSAN3X |p4flag=es",
+            "p5": "BUNER |p5flag=es",
+            "p6": "KuramaQ |p6flag=es"
+        },
+        {
+            "team": "Unchainerds",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "Arkangeles",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "FucEmilia",
+            "p1": "MiguelTB |p1flag=es",
+            "p2": "Sumeragi |p2flag=es",
+            "p3": "Davu |p3flag=es",
+            "p4": "KawaiiCookie |p4flag=es",
+            "p5": "Choomox |p5flag=es",
+            "p6": "quietwalker |p6flag=es"
+        },
+        {
+            "team": "R2K Overhawk",
+            "p1": "Suja|p1flag=es",
+            "p2": "Skorje|p2flag=es",
+            "p3": "Romero|p3flag=es",
+            "p4": "Jideon|p4flag=es",
+            "p5": "Shedrick|p5flag=es",
+            "p6": "Destroyer97|p6flag=es",
+            "c": "Suja|cflag=es"
+        },
+        {
+            "team": "Without Club",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "NoName!",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "Team Ravioli",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "Squirrels Team",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "Dont focus Roadhog",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "Escuadr\u00f3n Suicida",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "Exploxion Gaming",
+            "p1": "Ciclon |p1flag=es",
+            "p2": "Scuareps |p2flag=es",
+            "p3": "NoSFeR|p3flag=es",
+            "p4": "KaosKun |p4flag=es",
+            "p5": "panic3 |p5flag=es",
+            "p6": "PainZretx |p6flag=es"
+        },
+        {
+            "team": "Crownerds",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "InSane",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "Fuego Cruzado",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        },
+        {
+            "team": "BarBrothers",
+            "p1": "|p1flag=es",
+            "p2": "|p2flag=es",
+            "p3": "|p3flag=es",
+            "p4": "|p4flag=es",
+            "p5": "|p5flag=es",
+            "p6": "|p6flag=es"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "barbrother",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "dragon tempest",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "barbrothers",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "dragon tempest",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "insane",
+            "score2": "1",
+            "win2": "0",
+            "key": "R4W1",
+            "team1": "dragon tempest",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "insane",
+            "score2": "0",
+            "win2": "",
+            "key": "R6W1",
+            "team1": "noname!",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "fuego cruzado",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D17",
+            "team1": "unchainerds",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "crownerds",
+            "score2": "1",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "barbrothers",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "crownerds",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "unchainerds",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "r2k overhawk",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "dragon tempest",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "r2k overhawk",
+            "score2": "2",
+            "win2": "1",
+            "key": "R5W1",
+            "team1": "escuadr\u00f3n suicida",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "r2k overhawk",
+            "score2": "2",
+            "win2": "1",
+            "key": "R6D1",
+            "team1": "insane",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "r2k overhawk",
+            "score2": "3",
+            "win2": "",
+            "key": "R7W1",
+            "team1": "noname!",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

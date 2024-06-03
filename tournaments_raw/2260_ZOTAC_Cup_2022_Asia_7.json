@@ -1,0 +1,174 @@
+{
+    "tournament_info": [],
+    "team_cards": [
+        {
+            "team": "DKFanClub",
+            "p1": "bedtimestory|p1flag=us|pos1=dps",
+            "p2": "GreenBean17|p2flag=us|pos2=dps",
+            "p3": "Today|p3flag=us|pos3=tank",
+            "p4": "CLEAR|p4flag=jp|pos4=tank",
+            "p5": "Distortion|p5flag=us|pos5=sup",
+            "p6": "Otters|p6flag=gr|pos6=sup"
+        },
+        {
+            "team": "\uc2ac\uae30\ub85c\uc6b4\uc624\ub958\ub3d9\uc0dd\ud65c",
+            "p1": "Yoppin|p1flag=kr|pos1=dps",
+            "p2": "K4K4|p2flag=kr|pos2=dps",
+            "p3": "\uc300\uaddc|p3flag=kr|pos3=tank",
+            "p4": "DADA|p4flag=kr|pos4=sup",
+            "p5": "freshman|p5flag=kr|pos5=sup |p5link=khd",
+            "p6": "Unick|p6flag=kr|pos6=",
+            "p7": "Nev2r|p7flag=kr|pos7="
+        },
+        {
+            "team": "\uc0c1\uac1c\ub9dd\uac1c\ud6c4\ud6c4",
+            "p1": "infiniteray|p1flag=kr|pos1=",
+            "p2": "Vision|p2flag=kr|pos2= |p2link=Vision (Korean player)",
+            "p3": "vexera|p3flag=kr|pos3= |p3link=Sierra",
+            "p4": "JeHyeon|p4flag=kr|pos4=",
+            "p5": "Vancouver|p5flag=kr|pos5=",
+            "p6": "SeungAn|p6flag=kr|pos6="
+        },
+        {
+            "team": "PINDAMONHANGABENSE",
+            "p1": "Magnuzera|p1flag=BR|pos1=sup",
+            "p2": "Mussurunga|p2flag=BR|pos2=sup",
+            "p3": "Abby|p3flag=US|pos3=dps",
+            "p4": "Capcatanduba|p4flag=BR|pos4=dps",
+            "p5": "Domingueira|p5flag=BR|pos5=tank",
+            "p6": "Jgrico|p6flag=BR|pos6=tank"
+        },
+        {
+            "team": "Ohhh that ZaZa",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent||score=}}",
+            "opponent2": "{{TeamOpponent||score=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        }
+    ]
+}

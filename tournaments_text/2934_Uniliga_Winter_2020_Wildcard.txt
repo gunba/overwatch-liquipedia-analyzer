@@ -1,0 +1,228 @@
+{{DISPLAYTITLE:Uniliga - Winter 2020 - Wildcard Tournament}}
+{{Liquipedia links|rocketleague=Uniliga/Winter/2020/League_Play}}
+{{Uniliga navbox}}
+{{Tabs static
+|name1=Overview
+|link1=Uniliga/Winter_2020
+|name2=1st League
+|link2=Uniliga/Winter_2020/1st_League
+|name3=2nd League
+|link3=Uniliga/Winter_2020/2nd_League
+|name4=Wildcard
+|link4=Uniliga/Winter_2020/Wildcard
+|name5=Relegation
+|link5=Uniliga/Winter_2020/Relegation
+|This=4
+}}
+{{Infobox league
+|name=Uniliga - Winter 2020 - Wildcard Tournament
+|shortname=Uniliga Winter '20 WCT
+|image=University eSports Germany.png
+|series=uniliga
+|abbreviation=Uniliga
+|icon=Uniliga_icon.png
+|tickername=Uniliga Wildcard
+|organizer=University eSports Germany
+|organizer-link=https://uniliga.gg
+|sponsor=[https://de.msi.com MSI Deutschland]<br>[https://studitemps.de/ Studitemps]
+|country=Germany
+|type=Online
+|format=Double Elimination
+|patch=
+|prizepool=
+|prizepoolusd=
+|sdate=2020-10-11
+|edate=2020-10-11
+|liquipediatier=4|liquipediatiertype=Qualifier
+|web=http://uniliga.gg/ow/
+|twitch=uniligagg
+|twitch2=uniligagg2
+|bracket=https://www.toornament.com/en_US/tournaments/3869459870080851968/stages/3877660294162784256/
+|rulebook=https://www.uniliga.gg/ow-regelwerk/
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=
+|previous=Uniliga/Summer_2020/Wildcard {{!}} Uniliga Summer '20
+|next=
+}}{{Upcoming matches tournament|Uniliga/Winter 2020/Wildcard}}
+
+==About==
+
+===Information===
+*All players must be students at a German university.
+*Each team must have a minimum of 6 and a maximum of 12 players.
+*Winners will qualify for the 1st League of the Uniliga.
+*Losers will play in the 2nd League of the Uniliga.
+
+===Format===
+*Double Elimination
+**Top two (2) seeds start in the upper bracket finals.
+**Bottom three (3) seeds start in the lower bracket.
+*Qualifying Slots depend on accepted invites for the 1st League.
+*Matches are played in a First-to-3 format.
+*All maps in active in competitive play are allowed.
+*First map is decided by tournament administration.
+*All other maps are picked by the loser previous map.
+*Map types are played in this order: 1. Control, 2. Escort, 3. Hybrid, 4. Assault.
+**This repeats if necessary.
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=German
+|position=Commentator
+|b1=Zarin      |b1name=Matthias Philippi |b1flag=de
+|b2=JLEPS|b2name=Jakob Schwinn    |b2flag=de
+}}
+
+==Prize Pool==
+{{prize pool start|noprize=true|points=qualified|cutafter=3|qualifiedseed=[[Uniliga/Winter 2020/1st League|1st League]]}}
+{{prize pool slot|place=1 |points=[[Uniliga/Winter 2020/1st League|1st League]]
+|kit sc sphinx |lastvs1=victorious mainz |lastscore1=3 |lastvsscore1=0 |date1=
+}}
+{{prize pool slot|place=2-3 |points=[[Uniliga/Winter 2020/1st League|1st League]]
+|victorious mainz |lastvs1=dg infinite |lastscore1=3 |lastvsscore1=0 |date1=
+|euwue x-rays |lastvs2=uni mannheim crusaders |lastscore2=3 |lastvsscore2=0 |date2=
+}}
+{{prize pool slot|place=4-5 |points=[[Uniliga/Winter 2020/2nd League|2nd League]]
+|dg infinite |lastvs1=victorious mainz |lastscore1=0 |lastvsscore1=3 |date1=
+|uni mannheim crusaders |lastvs2=euwue x-rays |lastscore2=0 |lastvsscore2=3 |date2=
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=KIT SC Sphinx
+|image=KIT-SC bw Logo.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|placement=9
+|qualifier=[[Uniliga/Summer 2020/1st League|Summer '20 - 1st League]]
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Summer 2020/1st League|name=Uniliga Summer '20 - 1st League}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Victorious Mainz
+|image=Victorious Mainz 2020.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|placement=2
+|qualifier=[[Uniliga/Summer 2020/2nd League|Summer '20 - 2nd League]]
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Summer 2020/2nd League|name=Uniliga Summer '20 - 2nd League}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Uni Mannheim Crusaders
+|image=Uni Mannheim Crusaders Logo.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=Mannheim
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=DG Infinite
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=Düsseldorf
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=eUwUe X-Rays
+|image=EUwUe X-Rays.png
+|p1=Lerogan|p1flag=de|captain=yes
+|p2=SheshBesh|p2flag=de
+|p3=Gollo|p3flag=de
+|p4=Caipi|p4flag=de
+|p5=Firebolt2222|p5flag=de
+|p6=Rektbekka|p6flag=de
+|p7=Kampfhamster|p7flag=de
+|p8=Pudding|p8flag=de
+|p9=Fibre|p9flag=de
+|p10=Elli|p10flag=de
+|p11=Wolfix|p11flag=de
+|p12=Tobi|p12flag=de|p12link=Tobi (German player)
+|qualifier=Würzburg
+}}
+{{box|end|padding=2em}}
+
+{{Roster changes start}}
+{{Roster changes end}}
+
+==Results==
+{{LegacyBracket|Bracket/2-1Q-U-4-2Q|3Qual-2DE3LTeamBracket|type=team|id=DuYsL49Kha
+|column-width=210
+<!-- Upper Bracket Final -->
+|R1D1team=kit sc sphinx |R1D1score=3 |R1D1win=1
+|R1D2team=victorious mainz |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=October 11, 2020 - 13:00 {{Abbr/CEST}}
+|twitch=uniligagg
+|finished=true
+|map1=Lijiang Tower|map1score=2-1|map1win=1
+|map2=Rialto|map2score=1-0|map2win=1
+|map3=King's Row|map3score=3-2|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+<!-- Lower Bracket Semi-Finals -->
+|R1D3team=victorious mainz |R1D3score=3 |R1D3win=1
+|R1D4team=dg infinite |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=October 11, 2020 - 15:30 {{Abbr/CEST}}
+|twitch=uniligagg
+|finished=true
+|map1=Busan|map1score=2-0|map1win=1
+|map2=Route 66|map2score=2-1|map2win=1
+|map3=King's Row|map3score=5-4|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=uni mannheim crusaders |R1D5score=0 |R1D5win=
+|R1D6team=euwue x-rays |R1D6score=3 |R1D6win=1
+|R1G3details={{BracketMatchSummary 
+|date=October 11, 2020 - 14:15 {{Abbr/CEST}}
+|twitch=uniligagg
+|finished=true
+|map1=Busan|map1score=1-2|map1win=2
+|map2=Route 66|map2score=0-3|map2win=2
+|map3=King's Row|map3score=1-3|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+<!-- QUALIFIED TEAMS -->
+|Q1team=kit sc sphinx|Q1win=1 
+|Q2team=victorious mainz|Q2win=1 
+|Q3team=euwue x-rays|Q3win=1 
+}}
+
+==Additional Content==

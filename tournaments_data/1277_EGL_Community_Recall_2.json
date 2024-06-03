@@ -1,0 +1,823 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "EGL Community Recall #2",
+            "shortname": "Community Recall 2",
+            "tickername": "EGL Community Recall #2",
+            "icon": "EGL allmode.png",
+            "image": "EGL Community Recall lightmode.png",
+            "imagedark": "EGL Community Recall darkmode.png",
+            "organizer": "EGL",
+            "series": "Esports Gaming League",
+            "abbreviation": "EGL",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepool": "1000",
+            "localcurrency": "eur",
+            "date": "2023-01-14",
+            "twitter": "EGL",
+            "web": "https://egl.tv",
+            "facebook": "EGLgg",
+            "instagram": "EGLtv",
+            "discord": "eglgg",
+            "youtube": "eglpro",
+            "twitch": "egl",
+            "rulebook": "https://egl.tv/tournament/7492",
+            "bracket": "https://egl.tv/tournament/7492/matches",
+            "team_number": "53",
+            "previous": "EGL_Community_Recall/1 {{!}} #1",
+            "next": "EGL_Community_Recall/3 {{!}} #3"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Fancy Fellas",
+            "p1": "Juuzo",
+            "pos1": "dps",
+            "p2": "sxj",
+            "pos2": "dps",
+            "p3": "Tred",
+            "pos3": "tank",
+            "p4": "Theomatic",
+            "pos4": "tank",
+            "p5": "yoham",
+            "pos5": "sup",
+            "p6": "Strebor",
+            "pos6": "sup"
+        },
+        {
+            "team": "Berlin-Brandenburg Esports",
+            "p1": "Tricky",
+            "p1flag": "dk",
+            "pos1": "dps",
+            "p2": "kuah",
+            "p2flag": "dk",
+            "pos2": "dps",
+            "p3": "Snazzy",
+            "p3flag": "se",
+            "pos3": "tank",
+            "p4": "Jack",
+            "p4flag": "uk",
+            "pos4": "tank",
+            "p5": "Hazel",
+            "p5flag": "uk",
+            "pos5": "sup",
+            "p6": "FNGUK",
+            "p6flag": "uk",
+            "pos6": "sup",
+            "p7": "pandi",
+            "p7flag": "de",
+            "pos7": "sup",
+            "p7link": "pandi (German Player)",
+            "t2title": "Staff",
+            "t2c1": "littleblits",
+            "t2c1flag": "nl",
+            "t2c1pos": "Manager",
+            "t2c2": "loyn",
+            "t2c2flag": "fr",
+            "t2c2pos": "Coach",
+            "t2c3": "Predo",
+            "t2c3flag": "de",
+            "t2c3pos": "Coach"
+        },
+        {
+            "team": "Super cool team",
+            "p1": "Amaterasu",
+            "p1flag": "ru",
+            "pos1": "dps",
+            "p2": "alexey",
+            "pos2": "dps",
+            "p3": "Taschi",
+            "p3flag": "ru",
+            "pos3": "dps",
+            "p4": "ShuYuji",
+            "p4flag": "ru",
+            "pos4": "tank",
+            "p5": "Txao",
+            "pos5": "tank",
+            "p6": "sslsodox",
+            "p6flag": "ru",
+            "pos6": "sup",
+            "p7": "Andreyko",
+            "pos7": "sup"
+        },
+        {
+            "team": "C9H13N Adderall",
+            "p1": "esta",
+            "p1flag": "uk",
+            "pos1": "tank",
+            "p2": "TommeX",
+            "p2flag": "ee",
+            "pos2": "sup",
+            "p3": "R3flect",
+            "pos3": "sup",
+            "p4": "kuri43",
+            "p4flag": "de",
+            "pos4": "",
+            "p5": "Seb",
+            "p5flag": "uk",
+            "pos5": "tank",
+            "p6": "Sonder",
+            "p6flag": "ax",
+            "pos6": "dps",
+            "p7": "N33llio",
+            "p7flag": "uk",
+            "pos7": "sup",
+            "p8": "Scraine",
+            "p8flag": "se",
+            "pos8": "dps",
+            "p9": "RubADD",
+            "p9flag": "se",
+            "pos9": "dps"
+        },
+        {
+            "team": "Bro Love",
+            "p1": "W1ll",
+            "pos1": "dps",
+            "p2": "LukStar",
+            "p2flag": "dk",
+            "pos2": "dps",
+            "p3": "Chroo",
+            "pos3": "tank",
+            "p4": "Ori",
+            "p4flag": "de",
+            "pos4": "sup",
+            "p5": "Gilix",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2p1": "Grace",
+            "t2pos1": "manager"
+        },
+        {
+            "team": "Everfrost Ares",
+            "p1": "unto",
+            "p1flag": "fi",
+            "pos1": "dps",
+            "p2": "kurama",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "Depsi",
+            "p3flag": "fi",
+            "pos3": "tank",
+            "p4": "Zoom",
+            "p4flag": "fi",
+            "pos4": "sup",
+            "p5": "Helmerdrake",
+            "p5flag": "se",
+            "pos5": "sup",
+            "p6": "oops",
+            "p6flag": "fr",
+            "pos6": "sup"
+        },
+        {
+            "team": "AddFriend",
+            "p1": "Curse",
+            "p1flag": "de",
+            "pos1": "dps",
+            "p2": "MaDetho",
+            "p2flag": "de",
+            "pos2": "dps",
+            "p3": "Seagu",
+            "p3flag": "de",
+            "pos3": "tank",
+            "p4": "nurettin",
+            "p4flag": "de",
+            "pos4": "tank",
+            "p5": "Romanato",
+            "p5flag": "de",
+            "pos5": "sup",
+            "p6": "Boring",
+            "p6flag": "de",
+            "pos6": "sup",
+            "p7": "Thunder",
+            "p7flag": "de",
+            "pos7": "sup",
+            "p7link": "Thunder (German player)",
+            "p8": "sleek",
+            "p8flag": "de",
+            "pos8": ""
+        },
+        {
+            "team": "Krosse Krabbe GmbH",
+            "p1": "Proudless",
+            "p1flag": "de",
+            "pos1": "tank",
+            "p2": "rephid",
+            "pos2": "sup",
+            "p3": "Vinnie",
+            "p3flag": "de",
+            "pos3": "",
+            "p4": "Fitnessnando",
+            "p4flag": "de",
+            "pos4": "",
+            "p5": "rydah",
+            "p5flag": "de",
+            "pos5": ""
+        },
+        {
+            "team": "Retired Old Men",
+            "p1": "Ads",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "jix",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "Skytorr",
+            "pos3": "tank",
+            "p4": "Mellun",
+            "pos4": "tank",
+            "p5": "Yanba",
+            "pos5": "sup",
+            "p6": "silent",
+            "p6flag": "uk",
+            "pos6": "sup",
+            "p6link": "silent (British Player)",
+            "p7": "Horrocks",
+            "p7flag": "uk",
+            "pos7": "sup"
+        },
+        {
+            "team": "Clown9",
+            "p1": "Glebabase",
+            "p1flag": "ru",
+            "pos1": "dps",
+            "p2": "reboot",
+            "p2flag": "ru",
+            "pos2": "dps",
+            "p3": "ReYaN",
+            "p3flag": "ru",
+            "pos3": "tank",
+            "p4": "Lapo4ka",
+            "p4flag": "ru",
+            "pos4": "sup",
+            "p5": "Jebaited",
+            "p5flag": "ru",
+            "pos5": "sup",
+            "p6": "Artmagic",
+            "p6flag": "cy",
+            "pos6": ""
+        },
+        {
+            "team": "Random Mix Name",
+            "p1": "Yoko",
+            "pos1": "dps",
+            "p2": "qrxu",
+            "pos2": "dps",
+            "p3": "Love",
+            "pos3": "dps",
+            "p4": "kraandop",
+            "pos4": "tank",
+            "p5": "ANJ",
+            "pos5": "sup",
+            "p6": "sucrax",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Handsa",
+            "t2c1flag": "fr",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "Good Clients",
+            "p1": "Zown",
+            "p1flag": "de",
+            "pos1": "dps",
+            "p2": "surge",
+            "p2flag": "de",
+            "pos2": "dps",
+            "p3": "Tilip",
+            "p3flag": "de",
+            "pos3": "tank",
+            "p4": "Hitori",
+            "p4flag": "de",
+            "pos4": "tank",
+            "p5": "IVOXY",
+            "p5flag": "de",
+            "pos5": "sup",
+            "p6": "LucaEnrico",
+            "p6flag": "de",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "JuJu",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "MWaimone",
+            "p1": "WMaimone",
+            "pos1": "dps",
+            "p2": "cookie084",
+            "pos2": "dps",
+            "p3": "Vestola",
+            "pos3": "tank",
+            "p4": "Khenail",
+            "pos4": "sup",
+            "p5": "Bya",
+            "pos5": "sup"
+        },
+        {
+            "team": "Chillington",
+            "p1": "Backbone",
+            "pos1": "dps",
+            "p2": "phi",
+            "pos2": "dps",
+            "p3": "SparkR",
+            "pos3": "dps",
+            "p4": "Hadi",
+            "pos4": "tank",
+            "p5": "Skairipa",
+            "pos5": "sup",
+            "p6": "kronus",
+            "pos6": "sup"
+        },
+        {
+            "team": "AWW YEAH",
+            "p1": "Kaya",
+            "pos1": "dps",
+            "p2": "Ken",
+            "pos2": "dps",
+            "p3": "Isak",
+            "pos3": "tank",
+            "p4": "Abbs",
+            "pos4": "sup",
+            "p5": "GreysonX",
+            "p5flag": "ru",
+            "pos5": "sup",
+            "p6": "h9mpe",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Jaydasch",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Alternate Untitled",
+            "p1": "Goldblooded",
+            "p1flag": "de",
+            "pos1": "",
+            "p2": "TheWeevil",
+            "p2flag": "uk",
+            "pos2": "",
+            "p3": "Schef",
+            "p3flag": "nl",
+            "pos3": "",
+            "p4": "Zupo",
+            "p4flag": "de",
+            "pos4": "",
+            "p5": "SterbeGern",
+            "p5flag": "de",
+            "pos5": "",
+            "p6": "MeleeOnly",
+            "p6flag": "uk",
+            "pos6": "",
+            "p7": "uncailloudur",
+            "p7flag": "fr",
+            "pos7": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-01-14",
+            "opponent1": "fancy fellas",
+            "opponent1_score": 2,
+            "opponent2": "berlin brandenburg esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-01-14",
+            "opponent1": "super cool team",
+            "opponent1_score": 2,
+            "opponent2": "c9h13n adderall",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-01-14",
+            "opponent1": "bro love",
+            "opponent1_score": 0,
+            "opponent2": "everfrost ares",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-01-14",
+            "opponent1": "addfriend",
+            "opponent1_score": 2,
+            "opponent2": "krosse krabbe gmbh",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-01-14",
+            "opponent1": "retired old men",
+            "opponent1_score": 0,
+            "opponent2": "clown9",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "2023-01-14",
+            "opponent1": "random mix name",
+            "opponent1_score": 2,
+            "opponent2": "good clients",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "2023-01-14",
+            "opponent1": "mwaimone",
+            "opponent1_score": 2,
+            "opponent2": "chillington",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "2023-01-14",
+            "opponent1": "aww yeah",
+            "opponent1_score": 2,
+            "opponent2": "Alternate Untitled",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "date": "2023-01-14",
+            "opponent1": "fancy fellas",
+            "opponent1_score": 1,
+            "opponent2": "super cool team",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-01-14",
+            "opponent1": "everfrost ares",
+            "opponent1_score": 0,
+            "opponent2": "addfriend",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-01-14",
+            "opponent1": "clown9",
+            "opponent1_score": 0,
+            "opponent2": "random mix name",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "2023-01-14",
+            "opponent1": "mwaimone",
+            "opponent1_score": 2,
+            "opponent2": "aww yeah",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "5",
+            "date": "January 14, 2023 - 19:00",
+            "date_timezone": "CET",
+            "twitch": "egl",
+            "opponent1": "super cool team",
+            "opponent1_score": 3,
+            "opponent2": "addfriend",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "January 14, 2023 - 20:00",
+            "date_timezone": "CET",
+            "twitch": "egl",
+            "opponent1": "random mix name",
+            "opponent1_score": 1,
+            "opponent2": "mwaimone",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "January 14, 2023 - 21:00",
+            "date_timezone": "CET",
+            "twitch": "egl",
+            "opponent1": "super cool team",
+            "opponent1_score": 0,
+            "opponent2": "mwaimone",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        }
+    ]
+}

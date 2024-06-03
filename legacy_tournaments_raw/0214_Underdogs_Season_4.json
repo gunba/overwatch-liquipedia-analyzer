@@ -1,0 +1,276 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "series": "",
+            "name": "Underdogs Season 4",
+            "image": "UnderdogsOverwatch.jpeg",
+            "icon": "",
+            "organizer": "",
+            "organizer2": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Europe",
+            "format": "'''Group Stage''':<br>Dual Tournament<br>'''Playoffs''':<br>Single Elimination",
+            "prizepool": "",
+            "prizepoolusd": "2,000",
+            "sdate": "2016-12-11",
+            "edate": "2016-12-18",
+            "challonge": "https://challonge.com/UDOWSaison4Qualifier",
+            "twitch": "ogamingoverwatch",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "8",
+            "map1": "Watchpoint: Gibraltar",
+            "map2": "Volskaya Industries",
+            "map3": "Hanamura",
+            "map4": "Dorado",
+            "map5": "Nepal",
+            "map6": "Hollywood",
+            "map7": "Lijiang Tower",
+            "map8": "Route 66",
+            "map9": "King's Row",
+            "map10": "Numbani"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Vitality",
+            "p1": "Flash0or",
+            "p2": "neptuNo |p2flag=es",
+            "p3": "iuKeEe",
+            "p4": "Hexis|p4flag=",
+            "p5": "Riskin|p5flag=",
+            "p6": "ChipSa",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "The Chavs",
+            "p1": "ChrisTFer |p1flag=uk",
+            "p2": "Sev_ |p2flag=uk",
+            "p3": "Shazardous |p3flag=fi",
+            "p4": "Snizzlenose |p4flag=se",
+            "p5": "fischer |p5flag=dk",
+            "p6": "tomzeY |p6flag=hu",
+            "c": "cals |cflag=uk",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "TORNADO ROX",
+            "p1": "clozz |p1flag=bl",
+            "p2": "Engh |p2flag=ru",
+            "p3": "FreeD |p3flag=ru",
+            "p4": "NLaaeR |p4flag=ru",
+            "p5": "pkmk |p5flag=ru",
+            "p6": "Txao |p6flag=ru",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "GamersOrigin",
+            "p1": "Narwak",
+            "p2": "Leaf",
+            "p3": "Hyp",
+            "p4": "Noki",
+            "p5": "Poko",
+            "p6": "Kolsti",
+            "c": "daemoN |cflag=fr",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Slav Squad",
+            "p1": "Anak|p1flag=",
+            "p2": "sharyk|p2flag=",
+            "p3": "Nesh|p3flag=",
+            "p4": "Arty|p4flag=",
+            "p5": "Rubikon|p5flag=",
+            "p6": "kensi|p6flag=",
+            "qualifier": "Qualified"
+        },
+        {
+            "team": "Helsinki REDS",
+            "p1": "Ruape |p1flag=fi",
+            "p2": "Exceed|p2flag=fi",
+            "p3": "Woomera|p3flag=fi",
+            "p4": "BBR |p4flag=fi",
+            "p5": "prettyWise|p5flag=fi",
+            "p6": "Effix|p6flag=fi",
+            "qualifier": "Qualified"
+        },
+        {
+            "team": "S2gods",
+            "p1": "crems |p1flag=se",
+            "p2": "kangakanga",
+            "p3": "nvc|p3flag=se",
+            "p4": "GIRUGIRU|p4flag=uk",
+            "p5": "immortal|p5flag=de",
+            "p6": "HBFS|p6flag=",
+            "qualifier": "Qualified"
+        },
+        {
+            "team": "Death eSport",
+            "p1": "Veteranjr",
+            "p2": "XEWER|p2flag=fr",
+            "p3": "OURS2RUE|p3flag=fr",
+            "p4": "Umbra|p4link=Umbra (Swedish player)|p4flag=se",
+            "p5": "Cyd|p5flag=fr",
+            "p6": "Jio|p6flag=fr",
+            "c": "First|cflag=fr",
+            "qualifier": "Qualified"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "date": "December 18, 2016 - 19:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team2": "team vitality",
+            "score2": "-",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "gamersorigin",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "date": "December 18, 2016 - 20:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team2": "slav squad",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D3",
+            "team1": "tornado rox",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "December 18, 2016 -  21:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team2": "tornado rox",
+            "score2": "3",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2W1",
+            "team1": "gamersorigin",
+            "score1": "2",
+            "win1": ""
+        }
+    ],
+    "match_maps": [
+        {
+            "key": "match1",
+            "date": "December 11, 2016 - 19:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team1": "the chavs",
+            "games1": "2",
+            "team2": "slav squad",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "date": "December 11, 2016 - 20:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team1": "gamersorigin",
+            "games1": "2",
+            "team2": "death esport",
+            "games2": "1",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "date": "December 11, 2016 - 21:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team1": "the chavs",
+            "games1": "0",
+            "team2": "gamersorigin",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "date": "December 11, 2016 - 22:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team1": "slav squad",
+            "games1": "2",
+            "team2": "death esport",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "date": "December 11, 2016 - 23:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team1": "the chavs",
+            "games1": "1",
+            "team2": "slav squad",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match1",
+            "date": "December 15, 2016 - 19:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team1": "tornado rox",
+            "games1": "2",
+            "team2": "helsinki reds",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "date": "December 15, 2016 - 20:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team1": "team vitality",
+            "games1": "1",
+            "team2": "s2gods",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match3",
+            "date": "December 15, 2016 - 21:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team1": "tornado rox",
+            "games1": "2",
+            "team2": "s2gods",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match4",
+            "date": "December 15, 2016 - 22:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team1": "helsinki reds",
+            "games1": "0",
+            "team2": "team vitality",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "date": "December 15, 2016 - 23:00  {{Abbr/CET}}",
+            "stream": "ogamingoverwatch",
+            "finished": "true",
+            "team1": "s2gods",
+            "games1": "0",
+            "team2": "team vitality",
+            "games2": "2",
+            "winner": "2"
+        }
+    ]
+}

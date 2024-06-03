@@ -1,0 +1,153 @@
+{{Infobox league
+|name=Overwatch 2 Beta Bash
+|tickername=Overwatch 2 Beta Bash
+|shortname=Overwatch 2 Beta Bash
+|image=Overwatch 2 full lightmode.png
+|imagedark=Overwatch 2 full darkmode.png
+|icon=Overwatch 2 lightmode.png
+|series=
+|organizer=Blizzard Entertainment
+|country=North America
+|type=Online
+|game=overwatch2
+|beta=true
+|format=
+|date=2022-04-27
+|liquipediatier=3|liquipediatiertype=Showmatch
+|web=https://playoverwatch.com/
+|youtube=overwatchleague
+|twitter=playoverwatch
+|twitch=playoverwatch
+|team_number=2
+}}
+
+'''Overwatch 2 Beta Bash''' is an event organized by Blizzard Entertainment to begin the ''[[Overwatch 2]]'' beta. It is the first ''Overwatch 2'' event.
+
+==Information==
+*Showmatches of streamer teams
+
+===Broadcast Talent===
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Host
+|b1=Mr X
+|b2=Soe
+}}
+{{BroadcasterCard
+|position=Commentator
+|b1=Uber
+|b2=LemonKiwi
+}}
+{{box|break}}
+{{BroadcasterCard|lang=English
+|position=Producer
+|b1=JAY
+}}
+{{BroadcasterCard|lang=English
+|position=Replay Operator
+|b1=Ink
+}}
+{{BroadcasterCard|lang=English
+|position=Observer Director
+|b1=Cinzya
+}}
+{{box|break}}
+{{BroadcasterCard|lang=English
+|position=Observer
+|b1=Reef
+|b2=Benvigllow
+}}
+{{box|end}}
+
+==Match 1==
+{{TeamPrizePool|prizesummary=false
+|{{Slot|w=true|{{Opponent|future ghosts|lastvs=x gon' give it to ya|lastvsscore=2-0}}}}
+|{{Slot|l=true|{{Opponent|x gon' give it to ya|lastvs=future ghosts|lastvsscore=0-2}}}}
+}}
+
+{{box|start|padding=2em}}
+===Participants===
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=2}}
+{{TeamCard|players=5
+|team=X Gon' Give it to Ya
+|p1=Seagull|pos1=flex
+|p2=Pokimane|pos2=dps|p2flag=ca
+|p3=xQc|pos3=tank|p3team=Luminosity
+|p4=Adept|pos4=sup|p4flag=us
+|p5=AnneMunition|pos5=flex|p5flag=us
+}}
+{{TeamCard|players=5
+|team=Future Ghosts
+|p1=Fareeha|pos1=dps|p1flag=ca
+|p2=Super|pos2=dps
+|p3=Emongg|pos3=tank|p3team=sfs
+|p4=Aspen|pos4=sup|p4team=dice gaming
+|p5=Ovileemay|pos5=sup|p5flag=us
+}}
+{{TeamCard columns end}}
+{{box|break|padding=2em}}
+
+===Result===
+{{LegacySingleMatch|id=RQEBJ426Yl|width=550
+|team1=X Gon' Give it to Ya |score1=0
+|team2=Future Ghosts |score2=2
+|win=2
+|details={{BracketMatchSummary 
+|date=April 27, 2022 - 11:00 {{Abbr/PDT}}
+|twitch=playoverwatch
+|youtube=overwatchleague
+|finished=true
+|map1=New Queen Street|map1score=25.20m-121.77m|map1win=2
+|map2=Midtown|map2score=3-4|map2win=2
+|map3=Dorado|map3score=|map3win=skip
+|vod=https://www.youtube.com/watch?v=YShqi6uhU-w
+}}
+}}
+{{box|end}}
+
+==Match 2==
+{{TeamPrizePool|prizesummary=false
+|{{Slot|w=true|{{Opponent|drops team|lastvs=beta bashers|lastvsscore=2-0}}}}
+|{{Slot|l=true|{{Opponent|beta bashers|lastvs=drops team|lastvsscore=0-2}}}}
+}}
+
+{{box|start|padding=2em}}
+===Participants===
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=2}}
+{{TeamCard|players=5
+|team=Beta Bashers
+|p1=Deku|pos1=dps|p1flag=us
+|p2=Jay3|pos2=dps|p2team=fla
+|p3=Emongg|pos3=tank|p3team=sfs
+|p4=Aspen|pos4=sup|p4team=dice gaming
+|p5=Echoflexx|pos5=sup|p5flag=us
+}}
+{{TeamCard|players=5
+|team=Drops Team
+|p1=Fitzyhere|pos1=dps|p1flag=us
+|p2=Somjuu|pos2=dps|p2flag=us
+|p3=Flats|pos3=tank|p3flag=us|p3team=fla
+|p4=mL7|pos4=sup|p4flag=ro
+|p5=EeveeA|pos5=sup|p5flag=us
+}}
+{{TeamCard columns end}}
+{{box|break|padding=2em}}
+===Result===
+{{LegacySingleMatch|id=8Ag3Gl0zUj|width=550
+|team1=beta bashers |score1=0
+|team2=drops team |score2=2
+|win=2
+|details={{BracketMatchSummary 
+|date=April 27, 2022 - 12:00 {{Abbr/PDT}}
+|twitch=playoverwatch
+|youtube=overwatchleague
+|finished=true
+|map1=Circuit Royal|map1score=0-3|map1win=2
+|map2=Colosseo|map2score=1.47m-140.00m|map2win=2
+|map3=King's Row|map3score=|map3win=skip
+|vod=https://www.youtube.com/watch?v=YShqi6uhU-w
+}}
+}}
+{{box|end}}

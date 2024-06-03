@@ -1,0 +1,95 @@
+{
+    "tournament_info": [
+        {
+            "name": "ESL Community Cup #2 North America",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "ESL Community Cup North America",
+            "shortname": "2",
+            "organizer": "ESL",
+            "country": "North America",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2016-03-12",
+            "prizepoolusd": "",
+            "web": "https://play.eslgaming.com/overwatch/",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/north-america/overwatch/open/community-cup-2-north-america/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "team tiny rick",
+            "teamsecond": "no demise",
+            "teamthird": "1shot",
+            "team_number": "3",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "previous": "ESL/Community_Cup/North_America/1{{!}}#1"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Tiny Rick",
+            "image": "",
+            "size": "",
+            "p1": "Emperic |p1flag=us",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "No Demise",
+            "image": "",
+            "size": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "1SHOT eSports",
+            "image": "",
+            "size": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "team tiny rick",
+            "score2": "",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "no demise",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "team tiny rick",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "no demise",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

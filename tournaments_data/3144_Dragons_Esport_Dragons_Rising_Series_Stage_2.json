@@ -1,0 +1,1368 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "liquipediatiertype": "Qualifier",
+            "name": "Dragons Rising Series - Stage 2",
+            "shortname": "DRS Stage 2",
+            "tickername": "Dragons Rising Series - Stage 2",
+            "icon": "Dragons Esport overwatch allmode.png",
+            "image": "Dragons Esport overwatch allmode.png",
+            "organizer": "Dragons Esport",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "France",
+            "format": "Round Robin<br>Double Elimination",
+            "sdate": "2024-05-13",
+            "edate": "2024-06-16",
+            "twitter": "dragons__esport",
+            "discord": "DragonsEsport",
+            "youtube": "@dragons_esport",
+            "rulebook": "https://drive.google.com/file/d/1Eyo-xuXZvk3-2XqIlKtqSQ9aYiODRH_C",
+            "bracket": "https://play.toornament.com/fr/tournaments/7605803034715078656/stages/7794836149390974976/",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dragon's Homies",
+            "p1": "B4x",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Warglabidoo",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Terozz",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Villroy",
+            "p4flag": "se",
+            "pos4": "sup",
+            "p5": "Jasi",
+            "p5flag": "se",
+            "pos5": "sup",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "1"
+        },
+        {
+            "team": "Dragon's Soul",
+            "p1": "Versio",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Tomasa",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Reyxia",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Ko\u00e9",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p6": "Spyboon",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "p5": "Pizzasaur",
+            "p5flag": "cn",
+            "pos5": "sup",
+            "p7": "Gryfouille",
+            "p7flag": "fr",
+            "pos7": "sup",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "2"
+        },
+        {
+            "team": "GG Pas Mal",
+            "p1": "Hyaku",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "TsuSHI",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Kabetaijin",
+            "p3flag": "fr",
+            "pos3": "dps",
+            "p4": "Kiz",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "Goldinho",
+            "p5flag": "fr",
+            "pos5": "tank",
+            "p6": "Noheen",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "p7": "Zockyr",
+            "p7flag": "fr",
+            "pos7": "sup",
+            "p8": "Tix",
+            "p8flag": "fr",
+            "pos8": "sup",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "3"
+        },
+        {
+            "team": "CRS",
+            "p1": "Zombie",
+            "p1flag": "it",
+            "pos1": "dps",
+            "p2": "itsalpha.",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "gamma_monkeyd",
+            "p3flag": "ma",
+            "pos3": "dps",
+            "p4": "crsloulo",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "Lumos",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "p6": "tanguylaraclur",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "4"
+        },
+        {
+            "team": "Dragon's Vanguard",
+            "p1": "ByTweek",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Zelef",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Dagobert",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Lenkwyn",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "Izumo",
+            "p5flag": "fr",
+            "pos5": "tank",
+            "p6": "Chfouss",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "p7": "Ghasghar",
+            "p7flag": "fr",
+            "pos7": "sup",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "5-6"
+        },
+        {
+            "team": "OVF",
+            "p1": "Hyperxionu",
+            "p1flag": "fr",
+            "pos1": "",
+            "p2": "da\u00efjiro",
+            "p2flag": "fr",
+            "pos2": "",
+            "p3": "Damocles",
+            "p3flag": "fr",
+            "pos3": "",
+            "p4": "Trysha",
+            "p4flag": "fr",
+            "pos4": "",
+            "p5": "Searat",
+            "p5flag": "fr",
+            "pos5": "",
+            "p6": "Nine",
+            "p6flag": "fr",
+            "pos6": "",
+            "p7": "ts7",
+            "p7flag": "fr",
+            "pos7": "",
+            "p8": "Jiro",
+            "p8flag": "fr",
+            "pos8": "",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "5-6"
+        },
+        {
+            "team": "UED Wolves",
+            "p1": "Marley96",
+            "p1flag": "de",
+            "pos1": "",
+            "p2": "ADHDva",
+            "p2flag": "de",
+            "pos2": "",
+            "p3": "kraftas",
+            "p3flag": "de",
+            "pos3": "",
+            "p4": "Fireside",
+            "p4flag": "de",
+            "pos4": "",
+            "p5": "B4ddy",
+            "p5flag": "de",
+            "pos5": "",
+            "p6": "Boring",
+            "p6flag": "de",
+            "pos6": "",
+            "p7": "Hiddenl1ght",
+            "p7flag": "de",
+            "pos7": "",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "7-8"
+        },
+        {
+            "team": "BlueGenji Fox",
+            "p1": "Ketzyo",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "XVI",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Riky13",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "TISSI",
+            "p4flag": "fr",
+            "pos4": "sup",
+            "p5": "Stocky",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Goldinho",
+            "t2c1flag": "fr",
+            "t2c1pos": "coach",
+            "t2c2": "HyAKu",
+            "t2c2flag": "fr",
+            "t2c2pos": "coach",
+            "t2c3": "Bounty",
+            "t2c3flag": "fr",
+            "t2c3pos": "manager",
+            "t2c4": "wuidor",
+            "t2c4flag": "fr",
+            "t2c4pos": "manager",
+            "t3title": "Substitute",
+            "t3p1": "spoke",
+            "t3p1flag": "fr",
+            "t3pos1": "tank",
+            "t3p2": "Lawood",
+            "t3p2flag": "fr",
+            "t3pos2": "sup",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "7-8"
+        },
+        {
+            "team": "Wrath Academy",
+            "p1": "Risu",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Aureeeeld",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Zuluck",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Mathournax",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "p6": "Nara",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "9"
+        },
+        {
+            "team": "AT - Lotus",
+            "p1": "Pitchoune816",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Dr.dadou",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Langou",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "MisterPeter",
+            "p4flag": "fr",
+            "pos4": "sup",
+            "p5": "ADRIX",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "p6": "Falagraf",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "10-12"
+        },
+        {
+            "team": "GG - OVA",
+            "p1": "Krokmoz",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Karasuu",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Fiegmund",
+            "p4flag": "fr",
+            "pos4": "sup",
+            "p5": "Taco-Bell01",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "10-12"
+        },
+        {
+            "team": "YDA 4K",
+            "p1": "BrawNie",
+            "p1flag": "fr",
+            "pos1": "",
+            "p2": "Hden",
+            "p2flag": "fr",
+            "pos2": "",
+            "p3": "Ikrooze",
+            "p3flag": "fr",
+            "pos3": "",
+            "p4": "Pastis",
+            "p4flag": "fr",
+            "pos4": "",
+            "p5": "Z3tilx",
+            "p5flag": "fr",
+            "pos5": "",
+            "qualifier": "[[Dragons_Rising_Series_Stage 1|Stage 1]]",
+            "placement": "13-15"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "2024-05-23",
+            "opponent1": "Dragon's Homies|score=W",
+            "opponent2": "YDA 4K|score=FF",
+            "optional": "M1="
+        },
+        {
+            "date": "",
+            "opponent1": "CRS",
+            "opponent2": "Wrath Academy",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M2="
+        },
+        {
+            "date": "2024-05-19 - 20:00",
+            "date_timezone": "CEST",
+            "opponent1": "Dragon's Vanguard",
+            "opponent2": "Bluegenji Fox",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "mvp": "Chfouss",
+            "optional": "M3="
+        },
+        {
+            "date": "",
+            "opponent1": "Dragon's Homies",
+            "opponent2": "Wrath Academy",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M4="
+        },
+        {
+            "date": "2024-05-23",
+            "opponent1": "YDA 4K|score=FF",
+            "opponent2": "Bluegenji Fox|score=W",
+            "optional": "M5="
+        },
+        {
+            "date": "",
+            "opponent1": "CRS",
+            "opponent2": "Dragon's Vanguard",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M6="
+        },
+        {
+            "date": "2024-06-02 - 21:00",
+            "date_timezone": "CEST",
+            "opponent1": "Dragon's Homies",
+            "opponent2": "Bluegenji Fox",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M7="
+        },
+        {
+            "date": "",
+            "opponent1": "Wrath Academy",
+            "opponent2": "Dragon's Vanguard",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M8="
+        },
+        {
+            "date": "2024-05-23",
+            "opponent1": "YDA 4K|score=FF",
+            "opponent2": "CRS|score=W",
+            "optional": "M9="
+        },
+        {
+            "date": "2024-05-30 - 20:00",
+            "date_timezone": "CEST",
+            "opponent1": "Dragon's Homies",
+            "opponent2": "Dragon's Vanguard",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "mvp": "",
+            "optional": "M10="
+        },
+        {
+            "date": "",
+            "opponent1": "Bluegenji Fox",
+            "opponent2": "CRS",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M11="
+        },
+        {
+            "date": "2024-05-23",
+            "opponent1": "Wrath Academy|score=W",
+            "opponent2": "YDA 4K|score=FF",
+            "optional": "M12="
+        },
+        {
+            "date": "",
+            "opponent1": "Dragon's Homies",
+            "opponent2": "CRS",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M13="
+        },
+        {
+            "date": "2024-05-23",
+            "opponent1": "Dragon's Vanguard|score=W",
+            "opponent2": "YDA 4K|score=FF",
+            "optional": "M14="
+        },
+        {
+            "date": "",
+            "opponent1": "Bluegenji Fox",
+            "opponent2": "Wrath Academy",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M15="
+        },
+        {
+            "bestof": "5",
+            "date": "2024-05-30 - 21:00",
+            "date_timezone": "CEST",
+            "opponent1": "Dragon's Soul|score=W",
+            "opponent2": "AT - Lotus|score=FF",
+            "optional": "M1="
+        },
+        {
+            "date": "2024-05-29",
+            "opponent1": "GG Pas Mal|score=W",
+            "opponent2": "GG - OVA|score=FF",
+            "optional": "M2="
+        },
+        {
+            "date": "",
+            "opponent1": "UED Wolves",
+            "opponent2": "OVF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M3="
+        },
+        {
+            "date": "2024-05-29",
+            "opponent1": "Dragon's Soul|score=W",
+            "opponent2": "GG - OVA|score=FF",
+            "optional": "M4="
+        },
+        {
+            "date": "2024-05-30",
+            "opponent1": "AT - Lotus|score=FF",
+            "opponent2": "OVF|score=W",
+            "optional": "M5="
+        },
+        {
+            "date": "",
+            "opponent1": "GG Pas Mal",
+            "opponent2": "UED Wolves",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M6="
+        },
+        {
+            "date": "2024-05-31 - 21:00",
+            "date_timezone": "CEST",
+            "opponent1": "OVF",
+            "opponent2": "Dragon's Soul",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "Hirox",
+            "optional": "M7="
+        },
+        {
+            "date": "2024-05-29",
+            "opponent1": "GG - OVA|score=FF",
+            "opponent2": "UED Wolves|score=W",
+            "optional": "M8="
+        },
+        {
+            "date": "2024-05-30",
+            "opponent1": "AT - Lotus|score=FF",
+            "opponent2": "GG Pas Mal|score=W",
+            "optional": "M9="
+        },
+        {
+            "date": "",
+            "opponent1": "Dragon's Soul",
+            "opponent2": "UED Wolves",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M10="
+        },
+        {
+            "date": "",
+            "opponent1": "OVF",
+            "opponent2": "GG Pas Mal",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M11="
+        },
+        {
+            "date": "2024-05-29",
+            "opponent1": "GG - OVA|score=FF",
+            "opponent2": "AT - Lotus|score=W",
+            "optional": "M12="
+        },
+        {
+            "date": "",
+            "opponent1": "Dragon's Soul",
+            "opponent2": "GG Pas Mal",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "mvp": "",
+            "optional": "M13="
+        },
+        {
+            "date": "2024-05-29 - 21:30",
+            "date_timezone": "CEST",
+            "opponent1": "AT - Lotus",
+            "opponent2": "UED Wolves",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "King's Row",
+                "mode": "hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "mvp": "Kraftas",
+            "optional": "M14="
+        },
+        {
+            "date": "2024-05-29",
+            "opponent1": "OVF|score=W",
+            "opponent2": "GG - OVA|score=FF",
+            "optional": "M15="
+        },
+        {
+            "bestof": "3",
+            "opponent1": "{{LiteralOpponent|2<sup>nd</sup> Group B}}",
+            "opponent2": "{{LiteralOpponent|3<sup>rd</sup> Group A}}",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{LiteralOpponent|2<sup>nd</sup> Group A}}",
+            "opponent2": "{{LiteralOpponent|3<sup>rd</sup> Group B}}",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{LiteralOpponent|1<sup>st</sup> Group A}}",
+            "opponent2": "",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{LiteralOpponent|1<sup>st</sup> Group B}}",
+            "opponent2": "",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "",
+            "opponent2": "",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "opponent1": "",
+            "opponent2": "",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "",
+            "opponent2": "",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "",
+            "opponent2": "",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "",
+            "opponent2": "",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "opponent1": "",
+            "opponent2": "",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

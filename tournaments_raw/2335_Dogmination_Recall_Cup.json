@@ -1,0 +1,221 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Dogmination Recall Cup Season 1",
+            "shortname": "Dogmination Recall Cup Season 1",
+            "tickername": "Dogmination Recall Cup Season 1",
+            "image": "Dogmination Recall Cup lightmode.png",
+            "imagedark": "Dogmination Recall Cup darkmode.png",
+            "icon": "Dogmination 2021 allmode.png",
+            "organizer": "Dogmination",
+            "type": "Online",
+            "country": "Central America",
+            "country2": "South America",
+            "country3": "Spain",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "localcurrency": "eur",
+            "prizepool": "100",
+            "sdate": "2023-11-04",
+            "edate": "2023-11-05",
+            "twitter": "DogminationOrg",
+            "twitch": "Dogmination",
+            "discord": "nuUmXdUxb4",
+            "rulebook": "https://battlefy.com/dogmination/dogmination-recall-cup-season-1/650049fee5349a34210d5da9/info?infoTab=rules",
+            "bracket": "https://battlefy.com/dogmination/dogmination-recall-cup-season-1/650049fee5349a34210d5da9/stage/6515a01a35de99604d2984c2/bracket/",
+            "team_number": "8",
+            "previous": "Dogmination Summer Cup",
+            "next": "Holiday Cup"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Sheer Hot",
+            "p1": "Othax|pos1=dps",
+            "p2": "Aka|p2flag=es|pos2=dps",
+            "p3": "M3WS|pos3=dps",
+            "p4": "Erikek|pos4=tank",
+            "p5": "Crabby|p5flag=es|pos5=tank",
+            "p6": "SolmyR|p6flag=es|pos6=tank",
+            "p7": "Aleexia|p7flag=es||pos7=sup",
+            "p8": "Pnda|p8flag=es|pos8=sup"
+        },
+        {
+            "team": "Pingus",
+            "p1": "Xzodyal|pos1=dps",
+            "p2": "Bones|pos2=dps",
+            "p3": "Conde|p3flag=es|p3team=|pos3=dps",
+            "p4": "ADE|p4flag=es|p4team=|pos4=tank|p4link=ADE (Spanish Player)",
+            "p5": "Khenail|pos5=sup",
+            "p6": "Haya|p6flag=es|p6team=|pos6=sup",
+            "p7": "SrFreezy|pos7=sup"
+        },
+        {
+            "team": "Dogmination",
+            "p1": "DazedReox|p1flag=es|pos1=dps",
+            "p2": "deinial|p2flag=es|pos2=dps",
+            "p3": "janjpj|p3flag=es|pos3=dps",
+            "p4": "Davidenzo|p4flag=es|pos4=tank",
+            "p5": "Potroclo|p5flag=es|pos5=tank",
+            "p6": "Cairngorm|p6flag=ecu|pos6=sup",
+            "p7": "Akan|p7flag=es|pos7=sup",
+            "p8": "Zoru|p8flag=es|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "R3dder|t2c1flag=pr|t2c1pos=coach",
+            "t2c2": "Laggy|t2c2pos=general manager"
+        },
+        {
+            "team": "Inquisici\u00f3n Espa\u00f1ola",
+            "p1": "Amsukiw|p1flag=es|pos1=dps",
+            "p2": "Yuki|p2flag=es|pos2=dps|p2link=Yuki (Spanish Player)",
+            "p3": "Marc|p3flag=es|pos3=dps|p3link=Marc (Spanish Player)",
+            "p4": "Adri|p4flag=es|pos4=tank",
+            "p5": "Mighty|p5flag=es|pos5=sup",
+            "p6": "Agapito|p6flag=es|pos6=sup"
+        },
+        {
+            "team": "Nocturn Red",
+            "p1": "SullymanXD|p1flag=es|pos1=dps",
+            "p2": "Opa1x|p2flag=es|pos2=dps",
+            "p3": "L4zY|p3flag=es|pos3=tank",
+            "p4": "Rodry|p4flag=es|pos4=sup",
+            "p5": "Polo|p5flag=es|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "JouJou|t2c1flag=es|t2c1pos=manager",
+            "t2c2": "Ivhod|t2c2flag=es|t2c2pos=manager"
+        },
+        {
+            "team": "Las Guerreras de Cristo",
+            "p1": "Myro|p1flag=es|pos1=dps",
+            "p2": "Nebu|p2flag=es|pos2=dps",
+            "p3": "Dele|p3flag=es|pos3=tank",
+            "p4": "Gu1llem|p4flag=es|pos4=sup",
+            "p5": "Gisaninzz|p5flag=es|pos5=sup",
+            "p6": "Paolette|pos6=sup",
+            "p7": "ErrorTerror|p7flag=pt|pos7=sup"
+        },
+        {
+            "team": "Loud Gaming",
+            "p1": "Blind1800s|p1flag=mx|pos1=dps",
+            "p2": "neverdead|p2flag=co|pos2=dps",
+            "p3": "Slowy|p3flag=mx|pos3=dps",
+            "p4": "Vee|p4flag=mx|pos4=tank|p4link=Vee (Mexican player)",
+            "p5": "Reacher|p5flag=sv|pos5=sup",
+            "p6": "Eito|p6flag=mx|pos6=sup",
+            "p7": "Sukvna|p7flag=mx|pos7=sup",
+            "p8": "Katie|p8flag=mx|pos8=sup"
+        },
+        {
+            "team": "YZNSA PANZA",
+            "p1": "PEDROS\u0202NCHEZ|p1flag=es|pos1=dps",
+            "p2": "System|p2flag=es|pos2=dps",
+            "p3": "LaParca|p3flag=es|pos3=dps",
+            "p4": "PatataTime|p4flag=es|pos4=tank",
+            "p5": "V\u00e1nagandr|p5flag=es|pos5=sup",
+            "p6": "muertes13|p6flag=es|pos6=sup",
+            "p7": "Turbokebab|p7flag=es|pos7=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "",
+            "date": "November 4, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "opponent2": "{{TeamOpponent|YZNSA PANZA|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 4, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Inquisici\u00f3n Espa\u00f1ola|score=2}}",
+            "opponent2": "{{TeamOpponent|Nocturn Red|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "November 4, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|PINGUS|score=2}}",
+            "opponent2": "{{TeamOpponent|Loud Gaming|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "November 4, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dogmination|score=2}}",
+            "opponent2": "{{TeamOpponent|Las Guerreras de Cristo|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "November 4, 2023 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=1}}",
+            "opponent2": "{{TeamOpponent|Inquisici\u00f3n Espa\u00f1ola|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 4, 2023 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|PINGUS|score=2}}",
+            "opponent2": "{{TeamOpponent|Dogmination|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "November 5, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Inquisici\u00f3n Espa\u00f1ola|score=1}}",
+            "opponent2": "{{TeamOpponent|PINGUS|score=2}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "November 4, 2023 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|YZNSA PANZA|score=0}}",
+            "opponent2": "{{TeamOpponent|Nocturn Red|score=2}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "November 4, 2023 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Loud Gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|Las Guerreras de Cristo|score=0}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "November 4, 2023 - 21:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dogmination|score=2}}",
+            "opponent2": "{{TeamOpponent|Nocturn Red|score=0}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "November 4, 2023 - 21:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=2}}",
+            "opponent2": "{{TeamOpponent|Loud Gaming|score=0}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "November 5, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dogmination|score=2}}",
+            "opponent2": "{{TeamOpponent|Sheer Hot|score=1}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "November 5, 2023 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Inquisici\u00f3n Espa\u00f1ola|score=2}}",
+            "opponent2": "{{TeamOpponent|Dogmination|score=0}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "November 5, 2023 - 21:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|PINGUS|score=3}}",
+            "opponent2": "{{TeamOpponent|Inquisici\u00f3n Espa\u00f1ola|score=0}}",
+            "optional": "R5M1="
+        }
+    ]
+}

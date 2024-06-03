@@ -1,0 +1,124 @@
+{
+    "tournament_info": [
+        {
+            "name": "Pacific Challenge",
+            "image": "Pacific Challenge logo.png",
+            "shortname": "Pacific Challenge",
+            "icon": "Pacific Challenge logo.png",
+            "organizer": "NEU",
+            "organizer-link": "https://www.whatsneu.com/",
+            "type": "Offline",
+            "country": "South Korea",
+            "city": "Incheon",
+            "venuelink": "https://www.p-city.com/",
+            "venue": "Paradise City",
+            "date": "2018-12-28",
+            "liquipediatier": "1",
+            "liquipediatiertype": "Showmatch",
+            "game": "overwatch",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Seoul Dynasty",
+            "p1": "FITS",
+            "pos1": "dps",
+            "p2": "Fleta",
+            "pos2": "dps",
+            "p3": "Munchkin",
+            "pos3": "dps",
+            "p4": "Michelle",
+            "pos4": "flex",
+            "p5": "zunba",
+            "pos5": "flex",
+            "p6": "Fissure",
+            "pos6": "tank",
+            "p7": "Marve1",
+            "pos7": "tank",
+            "p8": "Jecse",
+            "pos8": "sup",
+            "p9": "tobi",
+            "pos9": "sup",
+            "p10": "ryujehong",
+            "pos10": "sup",
+            "t2title": "Staff",
+            "t2c1": "KDG",
+            "t2c1pos": "head coach",
+            "t2c2": "Changgoon",
+            "t2c2pos": "assistant coach",
+            "t2c3": "WhyNot",
+            "t2c3pos": "assistant coach"
+        },
+        {
+            "team": "Guangzhou Charge",
+            "p1": "Eileen",
+            "pos1": "dps",
+            "p2": "Happy",
+            "pos2": "dps",
+            "p3": "Kyb",
+            "pos3": "dps",
+            "p4": "nero",
+            "pos4": "dps",
+            "p5": "HOTBA",
+            "pos5": "flex",
+            "p6": "Rio",
+            "pos6": "tank",
+            "p7": "Chara",
+            "pos7": "sup",
+            "p8": "OnlyWish",
+            "pos8": "sup",
+            "p9": "Shu",
+            "pos9": "sup",
+            "p10": "Rise",
+            "pos10": "sup",
+            "t2title": "Staff",
+            "t2p1": "J1N",
+            "t2pos1": "head coach",
+            "t2p2": "TyDolla",
+            "t2pos2": "assistant coach",
+            "t2p3": "Sungwoo",
+            "t2pos3": "assistant coach",
+            "t2p4": "bsuh",
+            "t2pos4": "manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "4",
+            "date": "December 28, 2018 - 21:00",
+            "date_timezone": "PST",
+            "vod": "https://www.twitch.tv/videos/355758494?t=14m55s",
+            "opponent1": "seo",
+            "opponent2": "gzc",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Hanamura",
+                "mode": "Assault",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            }
+        }
+    ]
+}

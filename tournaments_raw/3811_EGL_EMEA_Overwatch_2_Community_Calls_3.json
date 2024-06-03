@@ -1,0 +1,325 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "name": "EGL EMEA Overwatch 2 Community Calls #3",
+            "shortname": "EMEA Community Calls 3",
+            "tickername": "EGL EMEA Community Calls #3",
+            "icon": "EGL allmode.png",
+            "image": "Overwatch 2 Community Calls lightmode.png",
+            "imagedark": "Overwatch 2 Community Calls darkmode.png",
+            "organizer": "EGL",
+            "series": "Esports Gaming League",
+            "abbreviation": "EGL",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepool": "150",
+            "localcurrency": "eur",
+            "date": "2022-11-26",
+            "twitter": "EGL",
+            "web": "https://egl.tv",
+            "facebook": "EGLgg",
+            "instagram": "EGLtv",
+            "discord": "eglgg",
+            "youtube": "eglpro",
+            "twitch": "egl",
+            "rulebook": "https://egl.tv/tournament/7412",
+            "bracket": "https://egl.tv/tournament/7412/matches",
+            "team_number": "16",
+            "previous": "EGL_EMEA_Overwatch_2_Community_Calls/2{{!}}#2",
+            "next": "EGL_EMEA_Overwatch_2_Community_Calls/4{{!}}#4"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "skill-less",
+            "p1": "Nsane|p1flag=es|pos1=",
+            "p2": "Frostty|p2flag=es|pos2=",
+            "p3": "Navarrx|p3flag=es|pos3=",
+            "p4": "Arley|p4flag=es|pos4=",
+            "p5": "Azulito|p5flag=es|pos5=",
+            "p6": "SadlyAizz|p6flag=es|pos6="
+        },
+        {
+            "team": "C9H13N Adderall",
+            "p1": "Sonder|p1flag=ax|pos1=",
+            "p2": "TommeX|p2flag=ee|pos2=",
+            "p3": "Seb|p3flag=uk|pos3=",
+            "p4": "N33llio|p4flag=uk|pos4=",
+            "p5": "Staunag|p5flag=fr|pos5=",
+            "p6": "Scraine|p6flag=se|pos6=",
+            "p7": "fate|p7flag=uk|pos7=|p7link=fate (British Player)"
+        },
+        {
+            "team": "Fen's Frogas",
+            "p1": "RustyThunder|p1flag=uk|pos1=",
+            "p2": "Fen|p2flag=uk|pos2=",
+            "p3": "goldfish|p3flag=uk|pos3=",
+            "p4": "ChoiceIsMe|p4flag=uk|pos4=",
+            "p5": "TissueBaker|p5flag=nl|pos5="
+        },
+        {
+            "team": "MRG Freelancers",
+            "p1": "MoodyRat|p1flag=fi|pos1=",
+            "p2": "FFaith|p2flag=fi|pos2=",
+            "p3": "Karhu|p3flag=fi|pos3=",
+            "p4": "icesebq|p4flag=pl|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "HG I-Sports Amber",
+            "p1": "Meikky|p1flag=de|pos1=",
+            "p2": "VinEuro|p2flag=de|pos2=",
+            "p3": "KTX|p3flag=de|pos3=",
+            "p4": "Deshi|p4flag=de|pos4=",
+            "p5": "Plankton|p5flag=de|pos5=|p5link=Plankton (German player)"
+        },
+        {
+            "team": "Reformed Project",
+            "p1": "Hitori|p1flag=de|pos1=",
+            "p2": "Akku|p2flag=de|pos2=",
+            "p3": "Shadou|p3flag=nl|pos3=",
+            "p4": "HappySloth|p4flag=nl|pos4=",
+            "p5": "zorro7|p5flag=no|pos5=",
+            "p6": "Mizu|p6flag=de|pos6=",
+            "p7": "blays|p7flag=de|pos7="
+        },
+        {
+            "team": "Outsiderss",
+            "p1": "Artmagic|p1flag=cy|pos1=",
+            "p2": "reboot|p2flag=ru|pos2=",
+            "p3": "Lapo4ka|p3flag=ru|pos3=",
+            "p4": "Glebabase|p4flag=ru|pos4=",
+            "p5": "Jebaited|p5flag=ru|pos5=",
+            "p6": "AYAYA|p6flag=ru|pos6=",
+            "p7": "Andreyko|p7flag=ru|pos7=",
+            "p8": "Amaterasu|p8flag=ru|pos8=",
+            "p9": "ReYaN|p9flag=ru|pos9=",
+            "p10": "anxiee|p10flag=ru|pos10="
+        },
+        {
+            "team": "Fancy Fellas",
+            "p1": "PnR|p1flag=scotland|pos1=tank",
+            "p2": "Condi|p2flag=ZA|pos2=dps",
+            "p3": "Juuzo|p3flag=UK|pos3=dps",
+            "p4": "yoham|p4flag=dk|pos4=support",
+            "p5": "Strebor|p5flag=UK|pos5=support",
+            "t2title": "Staff",
+            "t2c1": "PnR|t2c1pos=coach|t2c1flag=sct",
+            "t2c2": "VisionPB|t2c2pos=coach|t2c2flag=uk",
+            "t2c3": "Zorfen|t2c3pos= manager"
+        },
+        {
+            "team": "RVNS Esports",
+            "p1": "Saker|p1flag=esp|pos1=Tank",
+            "p2": "Sumi|p2flag=esp|pos2=DPS",
+            "p3": "Laka|p3flag=esp|pos3=DPS",
+            "p4": "SrFreezy|p4flag=esp|pos4=Support",
+            "p5": "Gavi|p5flag=esp|pos5=Support"
+        },
+        {
+            "team": "GoodClients",
+            "p1": "IVOXY|p1flag=de|pos1=",
+            "p2": "Zown|p2flag=de|pos2=",
+            "p3": "KUNAI|p3flag=de|pos3=",
+            "p4": "Kanlze|p4flag=se|pos4=",
+            "p5": "iCaV|p5flag=pl|pos5=",
+            "p6": "evo|p6flag=de|pos6="
+        },
+        {
+            "team": "Vulpine Esports",
+            "p1": "Chaotic|p1flag=gb|pos1=Tank",
+            "p2": "DevilWood|p2flag=gb|pos2=DPS",
+            "p3": "Dodo|p3flag=de|pos3=DPS",
+            "p4": "DirtMaster|p4flag=no|pos4=Support",
+            "p5": "Teme|p5flag=fi|pos5=Support",
+            "t2title": "Staff",
+            "t2c1": "Mince|t2c1flag=nz|t2c1pos=manager"
+        },
+        {
+            "team": "721",
+            "p1": "Nut|p1flag=ie|pos1=",
+            "p2": "MrVon|p2flag=uk|pos2=",
+            "p3": "PureIrish|p3flag=ie|pos3=",
+            "p4": "gcb|p4flag=uk|pos4=",
+            "p5": "Hikari|p5flag=fr|pos5=|p5link=Hikari (French player)",
+            "p6": "Dino|p6flag=ukni|pos6=|p6link=Dino (Northern Irish player)"
+        },
+        {
+            "team": "SENTIK Ravens",
+            "p1": "Brad36G|p1flag=uk|pos1=",
+            "p2": "MrBlueSky455|p2flag=uk|pos2=",
+            "p3": "Ryujin|p3flag=uk|pos3=",
+            "p4": "ANG3LW1NGZ|p4flag=uk|pos4=",
+            "p5": "Koen|p5flag=uk|pos5="
+        },
+        {
+            "team": "Stop Skipping Scrims",
+            "p1": "Willys07|p1flag=se|pos1=",
+            "p2": "skitsa|p2flag=de|pos2=",
+            "p3": "THRST|p3flag=no|pos3=",
+            "p4": "Jin|p4flag=de|pos4=|p4link=Jin (German player)",
+            "p5": "JCaesarP|p5flag=pl|pos5=",
+            "p6": "Pnda|p6flag=es|pos6="
+        },
+        {
+            "team": "FanBehaviour",
+            "p1": "HappySloth|p1flag=nl|pos1=",
+            "p2": "Kio|p2flag=fr|pos2=",
+            "p3": "Mordekhai|p3flag=fr|pos3=",
+            "p4": "Erikek|p4flag=|pos4=",
+            "p5": "\u00c5ce|p5flag=ch|pos5="
+        },
+        {
+            "team": "Everfrost Ares",
+            "p1": "Depsi|p1flag=fi|pos1=",
+            "p2": "Zoom|p2flag=fi|pos2=",
+            "p3": "Helmerdrake|p3flag=se|pos3=",
+            "p4": "Zorrow|pos4=dps",
+            "p5": "Olli|p5flag=fi|pos5=",
+            "p6": "unto|p6flag=fi|pos6=",
+            "p7": "Merc|p7flag=se|pos7="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|skill-less|score=0}}",
+            "opponent2": "{{TeamOpponent|c9h13n adderall|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|fen's frogas|score=2}}",
+            "opponent2": "{{TeamOpponent|mrg freelancers|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|hg i-sports amber|score=0}}",
+            "opponent2": "{{TeamOpponent|reformed project|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|Outsiderss|score=0}}",
+            "opponent2": "{{TeamOpponent|fancy fellas|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|rvns esports|score=2}}",
+            "opponent2": "{{TeamOpponent|goodclients|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|vulpine esports|score=0}}",
+            "opponent2": "{{TeamOpponent|721|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|sentik ravens|score=0}}",
+            "opponent2": "{{TeamOpponent|stop skipping scrims|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|fanbehaviour|score=2}}",
+            "opponent2": "{{TeamOpponent|everfrost ares|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|c9h13n adderall|score=2}}",
+            "opponent2": "{{TeamOpponent|fen's frogas|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|reformed project|score=0}}",
+            "opponent2": "{{TeamOpponent|fancy fellas|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|rvns esports|score=1}}",
+            "opponent2": "{{TeamOpponent|721|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|stop skipping scrims|score=1}}",
+            "opponent2": "{{TeamOpponent|fanbehaviour|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|c9h13n adderall|score=0}}",
+            "opponent2": "{{TeamOpponent|fancy fellas|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|721|score=1}}",
+            "opponent2": "{{TeamOpponent|fanbehaviour|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "5",
+            "date": "2022-11-26",
+            "opponent1": "{{TeamOpponent|fancy fellas|score=3}}",
+            "opponent2": "{{TeamOpponent|fanbehaviour|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        }
+    ]
+}

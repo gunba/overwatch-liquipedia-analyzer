@@ -1,0 +1,75 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "shortname": "Asus GamesFest",
+            "name": "Asus GamesFest",
+            "image": "",
+            "icon": "",
+            "organizer": "Asus",
+            "series": "",
+            "tickername": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Europe",
+            "twitch": "",
+            "format": "",
+            "localcurrency": "AED",
+            "prizepool": "22,000",
+            "prizepoolusd": "5,037",
+            "date": "2016-12-16",
+            "web": "http://www.agents.gg/fireteam/",
+            "bracket": "https://battlefy.com/esportsarena/agents-fireteam/587d7f290a18f73403867f2a/stage/587d8008a0bd324603064c5d/bracket/1",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [],
+    "legacy_match_cards": [
+        {
+            "team2": "da squad",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "two shots one kill",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "yalla esports black",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "two shots one kill",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "yalla esports black",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "wmm",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "yalla esports red",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "wmm",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

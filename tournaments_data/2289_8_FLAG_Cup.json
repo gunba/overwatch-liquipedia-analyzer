@@ -1,0 +1,723 @@
+{
+    "tournament_info": [
+        {
+            "name": "8.Flag Cup",
+            "image": "",
+            "series": "",
+            "abbreviation": "8.Flag Cup",
+            "shortname": "",
+            "tickername": "8.FLAG Cup",
+            "icon": "",
+            "organizer": "Chen",
+            "organizer2": "\u795e\u5947\u9646\u592b\u4eba",
+            "sponsor": "[http://zowie.benq.com/ ZOWIE GEAR]",
+            "sponsor2": "[[Muzi]]",
+            "patch": "",
+            "country": "China",
+            "type": "Online",
+            "game": "overwatch2",
+            "city": "",
+            "venue": "",
+            "format": "Double Elimination",
+            "prizepool": "2,500",
+            "localcurrency": "CNY",
+            "prizepoolusd": "379",
+            "sdate": "2022-04-30",
+            "edate": "2022-05-04",
+            "liquipediatier": "5",
+            "web": "",
+            "weibo": "6209810133",
+            "stream": "https://live.bilibili.com/719085",
+            "twitch": "",
+            "bracket": "https://challonge.com/493ru1p8",
+            "team_number": "10",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "\u5357\u6751\u8c03\u67e5\u5175\u56e2",
+            "image": "",
+            "p1": "Kaneki",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Jimmy",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "XRAY",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Kyo",
+            "p4flag": "",
+            "pos4": "sup ",
+            "p4link": "Kong Chunting",
+            "p5": "Yveltal",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Minsea",
+            "p6flag": "cn",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2p1": "",
+            "t2pos1": "",
+            "t2p2": "",
+            "t2pos2": "",
+            "qualifier": ""
+        },
+        {
+            "team": "\u91cd\u65b0\u505a\u4eba",
+            "image": "",
+            "p1": "MYKaylee",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "n1ghtg0d",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "October02",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "ShowCheng",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "800",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "Kodomo",
+            "p6flag": "",
+            "pos6": "tank",
+            "p7": "Salvation",
+            "p7flag": "",
+            "pos7": "sup",
+            "p8": "Century",
+            "p8flag": "",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2p1": "",
+            "t2pos1": "",
+            "t2p2": "",
+            "t2pos2": "",
+            "qualifier": ""
+        },
+        {
+            "team": "Jason\u7684\u56db\u4e2a\u966a\u73a9",
+            "image": "",
+            "p1": "Blacklily",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Flicker",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "jwj",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "pressure",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "M0CHA",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "Mightylord",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "BLX",
+            "p7flag": "",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2p1": "LnlD",
+            "t2pos1": "coach",
+            "t2p2": "",
+            "t2pos2": "",
+            "qualifier": ""
+        },
+        {
+            "team": "X-Gaming",
+            "p1": "SkyShow",
+            "p1flag": "cn",
+            "pos1": "dps",
+            "p2": "OGN",
+            "p2flag": "cn",
+            "pos2": "dps",
+            "p3": "Hit",
+            "p3flag": "kr",
+            "pos3": "dps",
+            "p4": "Hanmoe",
+            "p4flag": "cn",
+            "pos4": "tank",
+            "p5": "Enr1k",
+            "p5flag": "cn",
+            "pos5": "tank",
+            "p6": "\u738b\u516b",
+            "p6flag": "cn",
+            "pos6": "sup",
+            "p7": "Foxzz",
+            "p7flag": "cn",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2p1": "",
+            "t2pos1": "",
+            "t2p2": "",
+            "t2pos2": "",
+            "qualifier": ""
+        },
+        {
+            "team": "Heroes Return",
+            "image": "",
+            "p1": "Collapsar",
+            "p1flag": "cn",
+            "pos1": "dps",
+            "p2": "AAAA",
+            "p2flag": "cn",
+            "pos2": "dps",
+            "p3": "DRQYX",
+            "p3flag": "cn",
+            "pos3": "dps",
+            "p4": "Kiwa",
+            "p4flag": "cn",
+            "pos4": "tank",
+            "p5": "GANDI",
+            "p5flag": "cn",
+            "pos5": "sup",
+            "p6": "River",
+            "p6flag": "cn",
+            "pos6": "sup",
+            "p7": "Corsini",
+            "p7flag": "cn",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2p1": "",
+            "t2pos1": "",
+            "t2p2": "",
+            "t2pos2": "",
+            "qualifier": ""
+        },
+        {
+            "team": "Team Inherit",
+            "players": "5",
+            "p1": "Shayu",
+            "p1flag": "cn",
+            "pos1": "dps",
+            "p2": "Limpid",
+            "p2flag": "cn",
+            "pos2": "dps",
+            "p3": "wyr",
+            "p3flag": "cn",
+            "pos3": "tank",
+            "p4": "Qiq",
+            "p4flag": "cn",
+            "pos4": "sup",
+            "p5": "\u6a58\u53c8\u9752",
+            "p5flag": "cn",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2p1": "",
+            "t2pos1": "",
+            "t2p2": "",
+            "t2pos2": "",
+            "qualifier": ""
+        },
+        {
+            "team": "JayCoBird",
+            "image": "",
+            "p1": "Ace",
+            "p1flag": "",
+            "pos1": "dps ",
+            "p1link": "Ace (Thai player)",
+            "p2": "JayCo",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Yoshinori2k",
+            "p3flag": "th",
+            "pos3": "dps",
+            "p4": "Lumi",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "R3K",
+            "p5flag": "hk",
+            "pos5": "tank",
+            "p6": "TxQ4",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "PaLee",
+            "p7flag": "",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2p1": "",
+            "t2pos1": "",
+            "t2p2": "",
+            "t2pos2": "",
+            "qualifier": ""
+        },
+        {
+            "team": "Becky\u5bb6\u65cf",
+            "image": "",
+            "p1": "Yukinoshita",
+            "p1flag": "cn",
+            "pos1": "dps",
+            "p2": "Sauna",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "hira",
+            "p3flag": "cn",
+            "pos3": "dps",
+            "p4": "Fallen",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Heybye",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "B3cky",
+            "p6flag": "cn",
+            "pos6": "sup",
+            "p7": "Bya",
+            "p7flag": "cn",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2p1": "",
+            "t2pos1": "",
+            "t2p2": "",
+            "t2pos2": "",
+            "qualifier": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "April 30, 2022 - 21:30",
+            "date_timezone": "CST",
+            "opponent1": "Becky\u5bb6\u65cf",
+            "opponent2": "\u5357\u6751\u8c03\u67e5\u5175\u56e2",
+            "map1": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "50.62m",
+                "score2": "128.10m",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 30, 2022 - 20:00",
+            "date_timezone": "CST",
+            "opponent1": "JayCoBird",
+            "opponent2": "X-Gaming",
+            "map1": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "119.00m",
+                "score2": "68.29m",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "128.10m",
+                "score2": "0.00m",
+                "winner": "1"
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "May 1, 2022 - 20:00",
+            "date_timezone": "CST",
+            "opponent1": "\u6700\u9ad8\u68c0",
+            "opponent2": "\u5357\u6751\u8c03\u67e5\u5175\u56e2",
+            "map1": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "24.49m",
+                "score2": "139.47m",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 30, 2022 - 20:30",
+            "date_timezone": "CST",
+            "opponent1": "Heroes Return",
+            "opponent2": "Jason\u7684\u56db\u4e2a\u966a\u73a9",
+            "map1": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "78.17m",
+                "score2": "78.16m",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "May 1, 2022 - 21:00",
+            "date_timezone": "CST",
+            "opponent1": "\u91cd\u65b0\u505a\u4eba",
+            "opponent2": "JayCoBird",
+            "map1": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "128.10m",
+                "score2": "0.00m",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "April 30, 2022 - 21:00",
+            "date_timezone": "CST",
+            "opponent1": "Team Inherit",
+            "opponent2": "MyTh Club",
+            "map1": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "87.73m",
+                "score2": "57.18m",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "65.97m",
+                "score2": "90.94m",
+                "winner": "2"
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "May 2, 2022 - 20:00",
+            "date_timezone": "CST",
+            "opponent1": "\u5357\u6751\u8c03\u67e5\u5175\u56e2",
+            "opponent2": "Jason\u7684\u56db\u4e2a\u966a\u73a9",
+            "map1": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "117.02m",
+                "score2": "20.59m",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "May 2, 2022 - 22:00",
+            "date_timezone": "CST",
+            "opponent1": "\u91cd\u65b0\u505a\u4eba",
+            "opponent2": "MyTh Club",
+            "map1": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "128.10m",
+                "score2": "0.56m",
+                "winner": "1"
+            },
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "5",
+            "date": "May 3, 2022 - 20:00",
+            "date_timezone": "CST",
+            "opponent1": "\u5357\u6751\u8c03\u67e5\u5175\u56e2",
+            "opponent2": "\u91cd\u65b0\u505a\u4eba",
+            "map1": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "130.42m",
+                "score2": "37.38m",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "121.58m",
+                "score2": "13.58m",
+                "winner": "1"
+            },
+            "optional": "R5M1="
+        },
+        {
+            "date": "May 1, 2022 - 23:00",
+            "date_timezone": "CST",
+            "opponent1": "Team Inherit",
+            "opponent2": "Becky\u5bb6\u65cf",
+            "map1": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "64.77m",
+                "score2": "86.45m",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "May 1, 2022 - 22:00",
+            "date_timezone": "CST",
+            "opponent1": "Heroes Return",
+            "opponent2": "X-Gaming",
+            "map1": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "65.97m",
+                "score2": "74.42m",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "May 2, 2022 - 20:45",
+            "date_timezone": "CST",
+            "opponent1": "JayCoBird",
+            "opponent2": "Becky\u5bb6\u65cf",
+            "map1": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "100.45m",
+                "score2": "41.30m",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "54.97m",
+                "score2": "54.98m",
+                "winner": "2"
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "May 2, 2022 - 20:45",
+            "date_timezone": "CST",
+            "opponent1": "\u6700\u9ad8\u68c0|score=FF",
+            "opponent2": "X-Gaming|score=W",
+            "optional": "R2M6="
+        },
+        {
+            "date": "May 3, 2022 - 21:45",
+            "date_timezone": "CST",
+            "opponent1": "Jason\u7684\u56db\u4e2a\u966a\u73a9",
+            "opponent2": "Becky\u5bb6\u65cf",
+            "map1": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "122.25m",
+                "score2": "57.18m",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R3M3="
+        },
+        {
+            "date": "May 3, 2022 - 21:00",
+            "date_timezone": "CST",
+            "opponent1": "MyTh Club",
+            "opponent2": "X-Gaming",
+            "map1": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "54.26m",
+                "score2": "70.95m",
+                "winner": "2"
+            },
+            "optional": "R3M4="
+        },
+        {
+            "date": "May 4, 2022 - 20:00",
+            "date_timezone": "CST",
+            "opponent1": "Jason\u7684\u56db\u4e2a\u966a\u73a9",
+            "opponent2": "X-Gaming",
+            "map1": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "76.30m",
+                "score2": "59.31m",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R4M1="
+        },
+        {
+            "bestof": "5",
+            "date": "May 4, 2022 - 20:45",
+            "date_timezone": "CST",
+            "opponent1": "\u91cd\u65b0\u505a\u4eba",
+            "opponent2": "Jason\u7684\u56db\u4e2a\u966a\u73a9",
+            "map1": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "100.87m",
+                "score2": "65.51m",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "94.56m",
+                "score2": "24.91m",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R5M2="
+        },
+        {
+            "bestof": "5",
+            "date": "May 4, 2022 - 21:30",
+            "date_timezone": "CST",
+            "opponent1": "\u5357\u6751\u8c03\u67e5\u5175\u56e2",
+            "opponent2": "\u91cd\u65b0\u505a\u4eba",
+            "map1": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "87.88m",
+                "score2": "87.89m",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "139.48m",
+                "score2": "0.00m",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R6M1="
+        }
+    ]
+}

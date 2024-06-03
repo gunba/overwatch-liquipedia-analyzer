@@ -1,0 +1,142 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "Jack Link's Wild Side Rumble",
+            "shortname": "Jack Link's Wild Side Rumble",
+            "icon": "Jack Link's Wild Side Rumble allmode.png",
+            "image": "Jack Link's Wild Side Rumble allmode.png",
+            "organizer": "The Gaming Stadium",
+            "organizer2": "Overwatch Tranquility",
+            "sponsor": "Jack Links",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepool": "3000",
+            "prizepoolusd": "2200",
+            "localcurrency": "CAD",
+            "sdate": "2022-11-18",
+            "edate": "2022-11-19",
+            "twitter": "GamingStadiumCS",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Citrus",
+            "p1": "Danny|p1flag=us|pos1=dps|p1link=Danny (American Player)",
+            "p2": "Biblical|p2flag=us|pos2=dps",
+            "p3": "Zeb|p3flag=|pos3=tank",
+            "p4": "zman|p4flag=|pos4=sup",
+            "p5": "Floomfie|p5flag=us|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "BlueSandwich|t2c1pos=coach",
+            "t2c2": "Eponine|t2c2flag=us|t2c2pos=manager"
+        },
+        {
+            "team": "Rizz Academy",
+            "p1": "chime|p1flag=|pos1=dps",
+            "p2": "Pummy|p2flag=|pos2=dps",
+            "p3": "Infekted|p3flag=|pos3=tank",
+            "p4": "Hanbei|p4flag=|pos4=sup",
+            "p5": "MagicM8Ball|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Altiora",
+            "p1": "TAP|p1flag=|pos1=dps",
+            "p2": "Bizz|p2flag=|pos2=dps",
+            "p3": "Crimson|p3flag=|pos3=tank",
+            "p4": "Schipp|p4flag=|pos4=tank",
+            "p5": "Halo|p5flag=|pos5=sup",
+            "p6": "Soames|p6flag=|pos6=sup"
+        },
+        {
+            "team": "Kryix",
+            "p1": "Rymazing|p1flag=|pos1=dps",
+            "p2": "Dynasty|p2flag=|pos2=dps",
+            "p3": "scissors|p3flag=us|pos3=dps",
+            "p4": "Stryder|p4flag=|pos4=tank",
+            "p5": "Elk|p5flag=|pos5=sup",
+            "p6": "Karova|p6flag=|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Matrix|t2c1pos=head coach",
+            "t2c2": "Micro|t2c2pos=assistant coach|t2c2link=Micro (American Coach)",
+            "t2c3": "Shyam|t2c3pos=assistant coach",
+            "t2c4": "Chanyoung67|t2c4pos=analyst",
+            "t2c5": "LilLucio|t2c5pos=manager",
+            "t2c6": "CrazyHobo|t2c6pos=manager"
+        },
+        {
+            "team": "The Weird Squad",
+            "p1": "SuperGomez|p1flag=co|pos1=dps",
+            "p2": "Emmeryn|p2flag=|pos2=dps",
+            "p3": "Baz|p3flag=us|pos3=tank",
+            "p4": "Lunacy|p4flag=us|pos4=tank",
+            "p5": "redex|p5flag=|pos5=sup",
+            "p6": "Dhillon|p6flag=|pos6=sup",
+            "p7": "OneTwo|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Mystics: Vanguard",
+            "p1": "Punkz|p1flag=|pos1=dps",
+            "p2": "X103CY|p2flag=|pos2=dps|p2link=xten",
+            "p3": "Seur|p3flag=|pos3=tank",
+            "p4": "PurpleSalmon|p4flag=|pos4=sup",
+            "p5": "Braisel|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Gambit",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=sup",
+            "p5": "|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Better Buddies",
+            "p1": "|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=dps",
+            "p3": "|p3flag=|pos3=tank",
+            "p4": "|p4flag=|pos4=sup",
+            "p5": "|p5flag=|pos5=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "",
+            "opponent1": "{{TeamOpponent|kryix|score=3}}",
+            "opponent2": "{{TeamOpponent|the weird squad|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|better buddies|score=0}}",
+            "opponent2": "{{TeamOpponent|citrus|score=3}}",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|rizz academy|score=3}}",
+            "opponent2": "{{TeamOpponent|mystics: vanguard|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|altiora|score=3}}",
+            "opponent2": "{{TeamOpponent|gambit|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|kryix|score=3}}",
+            "opponent2": "{{TeamOpponent|citrus|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|rizz academy|score=3}}",
+            "opponent2": "{{TeamOpponent|altiora|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|kryix|score=3}}",
+            "opponent2": "{{TeamOpponent|rizz academy|score=1}}",
+            "optional": "R3M1="
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "Oceanic Summer Series",
+            "abbreviation": "Oceanic Summer Series",
+            "icon": "Full Circle Esports icon.png",
+            "shortname": "",
+            "name": "Oceanic Summer Series: Wildcard Qualifier",
+            "image": "Oceanic_Summer_Series_by_FCE_logo_transparent.png",
+            "imagedark": "Oceanic Summer Series by FCE darkmode.png",
+            "organizer": "Full Circle Esports",
+            "organizer-link": "http://fullcircleesports.com/",
+            "sponsor": "",
+            "country": "North America",
+            "type": "Online",
+            "twitch": "heroesleaguetv",
+            "twitter": "FullCircle_ES",
+            "facebook": "FullCircleEsports",
+            "youtube": "heroesleaguetv",
+            "format": "Swiss",
+            "date": "2017-02-12",
+            "web": "http://fullcircleesports.com/",
+            "team_number": "6",
+            "map1": "Hanamura",
+            "map2": "Temple of Anubis",
+            "map3": "Volskaya Industries",
+            "map4": "Dorado",
+            "map5": "Route 66",
+            "map6": "Watchpoint: Gibraltar",
+            "map7": "Ilios",
+            "map8": "Lijiang Tower",
+            "map9": "Nepal",
+            "map10": "Oasis",
+            "map11": "Eichenwalde",
+            "map12": "Hollywood",
+            "map13": "King's Row",
+            "map14": "Numbani"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "The Unprofessionals",
+            "p1": "Addy |p1flag=au",
+            "p2": "Calthos |p2flag=au",
+            "p3": "Kanda |p3flag=au",
+            "p4": "Sloth |p4flag=au",
+            "p5": "Zapso |p5flag=au",
+            "p6": "allo |p6flag=nz",
+            "qualifier": "Circuit Point"
+        },
+        {
+            "team": "1000 Degree Knife",
+            "image": "",
+            "p1": "Hazkem |p1flag=au",
+            "p2": "Knellery |p2flag=au",
+            "p3": "Laugiethegod |p3flag=au",
+            "p4": "Phoxine |p4flag=au",
+            "p5": "Snexwang |p5flag=au",
+            "p6": "ghost |p6flag=au|p6link= ghost (Australian player)",
+            "qualifier": "Circuit Point"
+        },
+        {
+            "team": "Defuse",
+            "image": "",
+            "p1": "BORRIS |p1flag=au",
+            "p2": "Nathan |p2flag=au",
+            "p3": "Neferhor |p3flag=au",
+            "p4": "StunneR |p4flag=au",
+            "p5": "Swilko |p5flag=au",
+            "p6": "TBRVanguard |p6flag=au",
+            "p7": "Tommoa|p7flag=au",
+            "p8": "patersoN|p8flag=au",
+            "qualifier": "Circuit Point"
+        },
+        {
+            "team": "Wumbology",
+            "image": "",
+            "p1": "Absence |p1flag=au",
+            "p2": "Baeza |p2flag=au",
+            "p3": "JayD |p3flag=au",
+            "p4": "Park |p4flag=au",
+            "p5": "William |p5flag=au",
+            "p6": "Zeano |p6flag=au",
+            "p7": "faithless|p7flag=au",
+            "p8": "goobs|p8flag=au",
+            "qualifier": "Circuit Point"
+        },
+        {
+            "team": "Ebin",
+            "image": "",
+            "p1": "Arko |p1flag=au",
+            "p2": "B4ne |p2flag=au",
+            "p3": "Bachu |p3flag=nz",
+            "p4": "Birdy |p4flag=nz",
+            "p5": "Macyn |p5flag=au",
+            "p6": "Malekieth |p6flag=au",
+            "p7": "MrSaigoon|p7flag=au",
+            "p8": "Satiric|p8flag=au",
+            "p9": "Vitannia|p9flag=au",
+            "qualifier": "Circuit Point"
+        },
+        {
+            "team": "Ascendancy",
+            "image": "",
+            "p1": "Fractured |p1flag=au",
+            "p2": "Implicit |p2flag=nz",
+            "p3": "Lyv |p3flag=nz",
+            "p4": "Yentel |p4flag=nz",
+            "p5": "Yifang |p5flag=nz",
+            "p6": "venom |p6flag=nz",
+            "p7": "Ronstrosity |p7flag=au",
+            "p8": "NageCicolas |p8flag=au",
+            "p9": "N00TN00T |p9flag=au",
+            "qualifier": "Circuit Point"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "1000 degree knife",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "the unprofessionals",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "wumbology",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "defuse",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ascendancy",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ebin",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

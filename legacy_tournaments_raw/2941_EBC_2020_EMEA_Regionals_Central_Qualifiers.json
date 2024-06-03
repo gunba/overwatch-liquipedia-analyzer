@@ -1,0 +1,367 @@
+{
+    "tournament_info": [
+        {
+            "name": "EBC EMEA Regionals Central Qualifiers",
+            "shortname": "EMEA Central Qualifiers",
+            "image": "EMEA_Central.png",
+            "series": "ebc",
+            "abbreviation": "EMEA Regionals",
+            "icon": "",
+            "tickername": "EBC Central Quali",
+            "organizer": "EBC",
+            "organizer-link": "https://ebc.gg",
+            "sponsor": "",
+            "country": "Europe",
+            "type": "Online",
+            "format": "Double Elimination",
+            "prizepool": "",
+            "prizepoolusd": "",
+            "sdate": "2020-07-11",
+            "edate": "2020-07-12",
+            "liquipediatier": "4|liquipediatiertype=Qualifier",
+            "web": "https://ebc.gg/",
+            "twitch": "EBC_gg",
+            "bracket": "https://battlefy.com/ebc/emea-regionals-central-qualifers/5ee65f05a1bbf1117de4ecfb/stage/5f08a0ba64b798593b035461/bracket/",
+            "rulebook": "https://docs.google.com/document/d/1Dxf1H216MFv27Shs4dJQ4WIup0SMA7NL75J5XeEE9yg/edit#heading=h.bk2mq2hgcbj4",
+            "team_number": "13",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Ender Dragons",
+            "image": "Ender Dragons.png"
+        },
+        {
+            "team": "OTPog"
+        },
+        {
+            "team": "Angry Titans",
+            "p1": "Love|p1flag=se|pos1=dps",
+            "p2": "Bombiman|p2flag=fr|pos2=dps",
+            "p3": "KroxZ|p3flag=|pos3=tank",
+            "p4": "Knasen|p4flag=|pos4=tank",
+            "p5": "Doggo|p5flag=|pos5=sup",
+            "p6": "sstarb0i|p6flag=|pos6=sup",
+            "t2title": "Staff",
+            "t2c": "Scrivzy|t2cflag=ie",
+            "t2c2": "Tarteg|t2c2flag=fr",
+            "t2c3": "Bulle|t2c3flag=fr",
+            "t2c4": "SweepzFr|t2c4flag=fr",
+            "t2c5": "YounaCha|t2c5flag=fr|t2c5pos=Manager"
+        },
+        {
+            "team": "EchoZ Esport",
+            "image": "EchoZ Esport.png"
+        },
+        {
+            "team": "Chlor Shock"
+        },
+        {
+            "team": "Juicy Hobbits"
+        },
+        {
+            "team": "SNVJ"
+        },
+        {
+            "team": "Event Horizon"
+        },
+        {
+            "team": "Team Smile"
+        },
+        {
+            "team": "Peaky!"
+        },
+        {
+            "team": "Nightowls"
+        },
+        {
+            "team": "klawwGang!",
+            "image": "klawwGang!.png",
+            "p1": "Juuzo|p1flag=gb|pos1=Tank",
+            "p2": "Vazer|p2flag=de|pos2=Tank",
+            "p3": "TheHolyPig|p3flag=gb|pos3=DPS",
+            "p4": "MaDetho|p4flag=de|pos4=DPS",
+            "p5": "Gilix|p5flag=de|pos5=Support",
+            "p6": "keyzer|p6flag=de|pos6=Support",
+            "p7": "Natlocks|p7flag=fr|pos7=Support"
+        },
+        {
+            "team": "Red Pandas"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ender dragons",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "team smile",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "event horizon",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "red pandas",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "echoz esport",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "klawwgang",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "chlor shock",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "otpog",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "peaky!",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "snvj",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "angry titans",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "nightowls",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D15",
+            "team1": "juicy hobbits",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "event horizon",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "ender dragons",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "klawwgang",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "echoz esport",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "snvj",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "otpog",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "juicy hobbits",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "angry titans",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "echoz esport",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "ender dragons",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "angry titans",
+            "score2": "1",
+            "win2": "",
+            "key": "R4W3",
+            "team1": "otpog",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "otpog",
+            "score2": "2",
+            "win2": "1",
+            "key": "R6W1",
+            "team1": "echoz esport",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D17",
+            "team1": "team smile",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "red pandas",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D19",
+            "team1": "chlor shock",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D21",
+            "team1": "peaky!",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D23",
+            "team1": "nightowls",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "team smile",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "juicy hobbits",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "red pandas",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D2",
+            "team1": "snvj",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "peaky!",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D3",
+            "team1": "klawwgang",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "nightowls",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D4",
+            "team1": "event horizon",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "red pandas",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "juicy hobbits",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "nightowls",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W3",
+            "team1": "klawwgang",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "juicy hobbits",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "ender dragons",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "klawwgang",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D2",
+            "team1": "angry titans",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "angry titans",
+            "score2": "2",
+            "win2": "1",
+            "key": "R5W1",
+            "team1": "juicy hobbits",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "angry titans",
+            "score2": "2",
+            "win2": "1",
+            "key": "R6D1",
+            "team1": "echoz esport",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "angry titans",
+            "score2": "2",
+            "win2": "1",
+            "key": "R7W1",
+            "team1": "otpog",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

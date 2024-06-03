@@ -1,0 +1,360 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "EGL Community Recall #4",
+            "shortname": "Community Recall 4",
+            "tickername": "EGL Community Recall #4",
+            "icon": "EGL allmode.png",
+            "image": "EGL Community Recall lightmode.png",
+            "imagedark": "EGL Community Recall darkmode.png",
+            "organizer": "EGL",
+            "series": "Esports Gaming League",
+            "abbreviation": "EGL",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepool": "1000",
+            "localcurrency": "eur",
+            "date": "2023-03-11",
+            "twitter": "EGL",
+            "web": "https://egl.tv",
+            "facebook": "EGLgg",
+            "instagram": "EGLtv",
+            "discord": "eglgg",
+            "youtube": "eglpro",
+            "twitch": "egl",
+            "rulebook": "https://egl.tv/tournament/7497",
+            "bracket": "https://egl.tv/tournament/7497/matches",
+            "team_number": "",
+            "previous": "EGL_Community_Recall/3 {{!}} #3",
+            "next": "EGL_Community_Recall/5 {{!}} #5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "MG",
+            "link": "MG (team)",
+            "p1": "sxj|pos1=dps",
+            "p2": "Juuzo|pos2=dps",
+            "p3": "Theomatic|pos3=tank",
+            "p4": "Tred|pos4=tank",
+            "p5": "Strebor|pos5=sup",
+            "p6": "yoham|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "PnR|t2c1pos=coach",
+            "t2c2": "Pathfinder|t2c2flag=fr|t2c2pos=manager"
+        },
+        {
+            "team": "the real 115",
+            "p1": "Speedyboy|p1flag=sa|pos1=",
+            "p2": "KORZ|p2flag=sa|pos2=",
+            "p3": "xDARKNESS|p3flag=sa|pos3=",
+            "p4": "nagato|p4flag=sa|pos4=",
+            "p5": "Taimou|p5flag=sa|pos5=|p5link=Taimou (Saudi Arabian Player)",
+            "p6": "SKEHAHFFK|p6flag=sa|pos6=",
+            "p7": "RKM|p7flag=sa|pos7=",
+            "p8": "MZXSA|p8flag=sa|pos8="
+        },
+        {
+            "team": "Clown9",
+            "p1": "reboot|p1flag=ru|pos1=dps",
+            "p2": "Glebabase|p2flag=ru|pos2=dps",
+            "p3": "anxiee|p3flag=ru|pos3=dps",
+            "p4": "ReYaN|p4flag=ru|pos4=tank",
+            "p5": "Lapo4ka|p5flag=ru|pos5=sup",
+            "p6": "Jebaited|p6flag=ru|pos6=sup",
+            "p7": "Artmagic|p7flag=cy|pos7="
+        },
+        {
+            "team": "Gass T3 is not a job",
+            "p1": "nexty|p1flag=no|pos1=dps",
+            "p2": "sivaartt|p2flag=uk|pos2=dps",
+            "p3": "Yuki|p3flag=uk|pos3=dps|p3link=Yuki (British Player)",
+            "p4": "Gass|p4flag=fi|pos4=tank",
+            "p5": "Booga|p5flag=uk|pos5=tank",
+            "p6": "Aisaka|pos6=tank",
+            "p7": "Lynrax|p7flag=se|pos7=sup",
+            "p8": "Horrocks|p8flag=uk|pos8=sup"
+        },
+        {
+            "team": "DZDZDZDZ",
+            "p1": "TheHolyPig|p1flag=|pos1=dps",
+            "p2": "yoko|p2flag=|pos2=dps",
+            "p3": "Chasetorch|p3flag=|pos3=tank",
+            "p4": "sobek|p4flag=|pos4=sup",
+            "p5": "y0001|p5flag=uk|pos5=sup"
+        },
+        {
+            "team": "721 Acad",
+            "p1": "Blizzardstar|p1flag=uk|pos1=dps",
+            "p2": "Scarr|p2flag=uk|pos2=dps",
+            "p3": "Akeu|p3flag=se|pos3=dps",
+            "p4": "TotallyAGirl|p4flag=se|pos4=tank",
+            "p5": "KEITH|p5flag=wls|pos5=tank",
+            "p6": "Buhens|p6flag=lv|pos6=sup",
+            "p7": "Santyx|p7flag=uk|pos7=sup",
+            "p8": "Guts|p8flag=uk|pos8=sup",
+            "p9": "CaptainPrash|p9flag=|pos9=sup",
+            "p10": "ick|p10flag=de|pos10="
+        },
+        {
+            "team": "DafranApprovedPlayers",
+            "p1": "THRST|p1flag=no|pos1=dps",
+            "p2": "TurboSmooth|p2flag=fr|pos2=dps",
+            "p3": "NevsH200|p3flag=de|pos3=tank",
+            "p4": "AzBlue|p4flag=fr|pos4=sup",
+            "p5": "majid|p5flag=fr|pos5=sup",
+            "p6": "Symaphi|p6flag=de|pos6="
+        },
+        {
+            "team": "Destined Chaos",
+            "p1": "GingerR\u00e6fill|p1flag=is|pos1=",
+            "p2": "sasa|p2flag=is|pos2=|p2link=sasa (Icelandic Player)",
+            "p3": "Polo|p3flag=es|pos3=|p3link=Polo (Spanish Player)",
+            "p4": "Waynon|p4flag=de|pos4=",
+            "p5": "Cynthia|p5flag=uk|pos5=",
+            "p6": "Nauzeous|p6flag=uk|pos6="
+        },
+        {
+            "team": "AddFriend",
+            "p1": "Curse|p1flag=de|pos1=dps",
+            "p2": "Madetho|p2flag=de|pos2=dps",
+            "p3": "Sleek|p3flag=de|pos3=dps",
+            "p4": "Cora|p4flag=de|pos4=tank",
+            "p5": "Thunder|p5flag=de|pos5=sup|p5link=Thunder (German player)",
+            "p6": "Nurettin|p6flag=de|pos6=sup",
+            "p7": "Romanato|p7flag=de|pos7=sup"
+        },
+        {
+            "team": "Pixies",
+            "p1": "Anata|p1flag=uk|pos1=dps",
+            "p2": "FilthyDunder|p2flag=se|pos2=dps",
+            "p3": "Tobito|p3flag=dk|pos3=dps",
+            "p4": "Votic|p4flag=uk|pos4=dps",
+            "p5": "PandaBoy|p5flag=fi|pos5=tank",
+            "p6": "Seila|p6flag=uk|pos6=tank",
+            "p7": "COBBA|p7flag=uk|pos7=sup",
+            "p8": "Kermi|p8flag=fi|pos8=sup",
+            "p9": "Lawrence|p9flag=ro|pos9=sup",
+            "p10": "Libi|p10flag=fi|pos10=sup",
+            "t2title": "Staff",
+            "t2c1": "Kermi|t2c1flag=fi|t2c1pos=coach",
+            "t2c2": "Kermi|t2c2flag=fi|t2c2pos=manager"
+        },
+        {
+            "team": "Weraj",
+            "p1": "EFFORT|pos1=dps|p1link=EFF0RT",
+            "p2": "dreamweaver|p2flag=uk|pos2=dps",
+            "p3": "Jarew|pos3=tank",
+            "p4": "Tommy|p4flag=uk|pos4=sup",
+            "p5": "Gilix|pos5=sup"
+        },
+        {
+            "team": "!Play Gangnam Style",
+            "p1": "Kio|p1flag=fr|pos1=dps",
+            "p2": "Pendrix|p2flag=ch|pos2=dps",
+            "p3": "Lusid|p3flag=se|pos3=tank",
+            "p4": "GrouinK|p4flag=fr|pos4=tank",
+            "p5": "HappySloth|p5flag=nl|pos5=sup",
+            "p6": "R3flect|p6flag=no|pos6=sup",
+            "p7": "Gilix|p7flag=de|pos7=sup",
+            "p8": "Ducklover|p8flag=de|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Ducklover|t2c1pos=Manager"
+        },
+        {
+            "team": "Everfrost Ares",
+            "p1": "Zorrow|pos1=dps",
+            "p2": "NWD|p2flag=de|pos2=dps",
+            "p3": "unto|p3flag=fi|pos3=dps",
+            "p4": "kurama|p4flag=uk|pos4=dps",
+            "p5": "Depsi|p5flag=fi|pos5=tank",
+            "p6": "oops|p6flag=fr|pos6=sup",
+            "p7": "Zoom|p7flag=fi|pos7=sup",
+            "p8": "Helmerdrake|p8flag=se|pos8=sup",
+            "p9": "Merc|p9flag=se|pos9=sup"
+        },
+        {
+            "team": "Space.jp",
+            "p1": "Xomyachok|p1flag=ru|pos1=tank",
+            "p2": "Getrush|p2flag=ru|pos2=dps",
+            "p3": "kai|p3flag=ru|pos3=dps|p3link=kai (Russian Player)",
+            "p4": "Fekaso|p4flag=ru|pos4=sup",
+            "p5": "nmie|p5flag=ru|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Jeraziah|t2c1flag=ru|t2c1pos=coach",
+            "t2c2": "TzArkan|t2c2flag=ru|t2c2pos=coach",
+            "t2c3": "DarthMurloc|t2c3flag=ru|t2c3pos=manager"
+        },
+        {
+            "team": "C9H13N Adderall",
+            "p1": "Scraine|p1flag=se|pos1=dps",
+            "p2": "Sonder|p2flag=ax|pos2=dps",
+            "p3": "esta|p3flag=uk|pos3=tank",
+            "p4": "Staunag|p4flag=fr|pos4=tank",
+            "p5": "TommeX|p5flag=ee|pos5=sup",
+            "p6": "R3flect|p6flag=no|pos6=sup",
+            "p7": "N33llio|p7flag=uk|pos7=sup",
+            "p8": "kuri43|p8flag=de|pos8=",
+            "p9": "Faeytei|p9flag=uk|pos9=",
+            "p10": "Termbar|p10flag=uk|pos10="
+        },
+        {
+            "team": "Stop Skipping Scrims",
+            "p1": "Stenis|p1flag=se|pos1=dps",
+            "p2": "ShadedMike|p2flag=no|pos2=dps",
+            "p3": "Tobzi|p3flag=no|pos3=dps",
+            "p4": "xzodyal|p4flag=es|pos4=dps",
+            "p5": "gucci|p5flag=fi|pos5=dps",
+            "p6": "Willys07|p6flag=se|pos6=tank",
+            "p7": "JCaesarP|p7flag=uk|pos7=tank",
+            "p8": "Pnda|p8flag=es|pos8=sup",
+            "p9": "jupitr|p9flag=se|pos9=sup",
+            "p10": "psych|p10flag=se|pos10="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "March 11, 2023 - 17:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|mg|score=2}}",
+            "opponent2": "{{TeamOpponent|the real 115|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "March 11, 2023 - 17:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|clown9|score=2}}",
+            "opponent2": "{{TeamOpponent|gass t3 is not a job|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "March 11, 2023 - 17:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|dzdzdzdz|score=2}}",
+            "opponent2": "{{TeamOpponent|721 acad|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "March 11, 2023 - 17:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|dafranapprovedplayers|score=2}}",
+            "opponent2": "{{TeamOpponent|destined chaos|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "March 11, 2023 - 17:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|addfriend|score=2}}",
+            "opponent2": "{{TeamOpponent|pixies|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "March 11, 2023 - 17:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|weraj|score=0}}",
+            "opponent2": "{{TeamOpponent|!play gangnam style|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "March 11, 2023 - 17:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|everfrost ares|score=2}}",
+            "opponent2": "{{TeamOpponent|space.jp|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "March 11, 2023 - 17:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|c9h13n adderall|score=0}}",
+            "opponent2": "{{TeamOpponent|stop skipping scrims|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "March 11, 2023 - 18:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|mg|score=2}}",
+            "opponent2": "{{TeamOpponent|clown9|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "March 11, 2023 - 18:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|dzdzdzdz|score=2}}",
+            "opponent2": "{{TeamOpponent|dafranapprovedplayers|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "March 11, 2023 - 18:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|addfriend|score=0}}",
+            "opponent2": "{{TeamOpponent|!play gangnam style|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "March 11, 2023 - 18:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|everfrost ares|score=2}}",
+            "opponent2": "{{TeamOpponent|stop skipping scrims|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "5",
+            "date": "March 11, 2023 - 19:30 {{Abbr/CET}}",
+            "twitch": "egl",
+            "opponent1": "{{TeamOpponent|mg|score=2}}",
+            "opponent2": "{{TeamOpponent|dzdzdzdz|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "March 11, 2023 - 20:30 {{Abbr/CET}}",
+            "twitch": "egl",
+            "opponent1": "{{TeamOpponent|everfrost ares|score=0}}",
+            "opponent2": "{{TeamOpponent|!play gangnam style|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "March 11, 2023 - 21:30 {{Abbr/CET}}",
+            "twitch": "egl",
+            "opponent1": "{{TeamOpponent|dzdzdzdz|score=3}}",
+            "opponent2": "{{TeamOpponent|!play gangnam style|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        }
+    ]
+}

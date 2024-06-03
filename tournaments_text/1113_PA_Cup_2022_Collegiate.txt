@@ -1,0 +1,157 @@
+{{DISPLAYTITLE:PA Cup 2022 - Collegiate}}
+{{Tabs static
+|name1=Collegiate|link1=PA Cup/2022/Collegiate
+|name2=High School|link2=PA Cup/2022/High School
+}}
+{{Tabs static
+|name1=Main Event|link1=PA Cup/2022/Collegiate
+|name2=Qualifier|link2=PA Cup/2022/Collegiate/Qualifier
+}}
+{{Infobox league
+|liquipediatier=4
+|abbreviation=PA Cup
+|name=PA Cup 2022 - Collegiate
+|shortname=PA Cup Collegiate 2022
+|tickername=PA Cup Collegiate 2022
+|image=PA Cup Collegiate 2022 allmode.png
+|series=PA Cup
+|organizer=HU Storm
+|organizer2=Nerd Street Gamers
+|sponsor=[https://www.cricketwireless.com/ Cricket Wireless]
+|type=Offline
+|country=United States
+|city=Philadelphia
+|venue=[https://www.localhost.gg/philadelphia-theblock/ Localhost at The Block]
+|format=
+|prizepoolusd=1500
+|date=2022-03-26
+|twitter=hustormesports
+|web=https://pacupchampionship.com/
+|twitch=harrisburguniversity
+|discord=
+|youtube=
+|rulebook=https://battlefy.com/nerd-street-gamers/%5Bow%5D-the-harrisburg-university-pa-cup-2022-invitational-finals/62350b255acc26069cf2ae8e/info?infoTab=rules
+|bracket=https://battlefy.com/nerd-street-gamers/%5Bow%5D-the-harrisburg-university-pa-cup-2022-invitational-finals/62350b255acc26069cf2ae8e/stage/623f5b7bdf2030063183b85e/bracket/
+|team_number=4
+}}
+
+'''PA Cup 2022 - Collegiate''' is a tournament organized by [[HU Storm]] and Nerd Street Gamers.
+
+==Information==
+===Format===
+*Top four teams from [[/Qualifier|Qualifiers]]
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Host
+|b1=Akinola|b1name=Akinola Verissimo|b1flag=us
+}}
+{{BroadcasterCard
+|position=Commentator
+|b1=TimeToLight|b1name=Daniel Rodier|b1flag=us|b1link=rocketleague:TimeToLight
+|b2=Los
+}}
+
+==Prize Pool==
+$1,500 ({{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|cutafter=4}}
+{{prize pool slot|place=1|usdprize=1000|hu storm|lastvs1=psu lions|lastscore1=3|lastvsscore1=0}}
+{{prize pool slot|place=2|usdprize=500|psu lions|lastvs1=hu storm|lastscore1=0|lastvsscore1=3}}
+{{prize pool slot|place=3-4|usdprize=0
+|drexel dragons|lastvs1=hu storm|lastscore1=0|lastvsscore1=3
+|au knights|lastvs2=psu lions|lastscore2=0|lastvsscore2=3
+}}
+{{Prize pool end}}
+<section end="Prize Pool"/>
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start}}
+{{TeamCard
+|team=HU Storm
+|p1=Lethal|p1flag=|pos1=dps
+|p2=TAP|p2flag=|pos2=dps
+|p3=hobbs|p3flag=|pos3=dps
+|p4=Akawa|p4flag=|pos4=tank
+|p5=Divio|p5flag=|pos5=tank
+|p6=Elk|p6flag=|pos6=sup
+|p7=Soames|p7flag=|pos7=sup
+|p8=Retnuh|p8flag=|pos8=sup
+|p9=Insomniaq|p9flag=|pos9=sup
+|t2title=Staff
+|t2c1=Shake|t2c1pos=head coach
+|t2c2=Mini|t2c2pos=assistant coach
+|qualifier=[[/Qualifier|Qualifier]]
+|placement=1-2
+}}
+{{TeamCard
+|team=PSU Lions
+|image=
+|p1=Njerry|p1flag=us|pos1=dps
+|p2=M3MORY|p2flag=cn|pos2=dps
+|p3=DMT|p3flag=us|pos3=tank
+|p4=Catastrophe|p4flag=us|pos4=tank
+|p5=Genki|p5flag=cn|pos5=sup
+|p6=Paz|p6flag=us|pos6=sup
+|p7=Focus|p7flag=us|pos7=tank
+|t2title=Staff
+|t2p1=Maridon|t2pos1=manager
+|qualifier=[[/Qualifier|Qualifier]]
+|placement=1-2
+}}
+{{TeamCard
+|team=AU Knights
+|image=
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|p7=|p7flag=|pos7=
+|p8=|p8flag=|pos8=
+|qualifier=[[/Qualifier|Qualifier]]
+|placement=3-4
+}}
+{{TeamCard
+|team=Drexel Dragons
+|image=
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|p7=|p7flag=|pos7=
+|p8=|p8flag=|pos8=
+|qualifier=[[/Qualifier|Qualifier]]
+|placement=3-4
+}}
+{{TeamCard columns end}}
+
+==Results==
+
+{{Bracket|Bracket/4|id=I9pjiSkDp4
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=5
+    |opponent1={{TeamOpponent|hu storm|score=3}}
+    |opponent2={{TeamOpponent|drexel dragons|score=0}}
+}}
+|R1M2={{Match
+    |opponent1={{TeamOpponent|psu lions|score=3}}
+    |opponent2={{TeamOpponent|au knights|score=0}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+	|date=March 26, 2022 - 17:00 {{Abbr/EDT}}
+	|twitch=harrisburguniversity
+    |opponent1={{TeamOpponent|hu storm}}
+    |opponent2={{TeamOpponent|psu lions}}
+	|map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Havana|mode=Escort|score1=2|score2=1|winner=1}}
+}}
+}}

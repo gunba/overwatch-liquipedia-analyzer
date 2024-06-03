@@ -1,0 +1,200 @@
+{{DISPLAYTITLE:China-Korea Megagame}}
+{{Tabs static
+|name1=Main Event
+|link1=China-Korea Megagame/2016
+|name2=Chinese Qualifier
+|link2=China-Korea Megagame/2016/Chinese Qualifier
+|This=1
+}}
+{{Infobox league
+|name=China-Korea Megagame
+|shortname=
+|image=China-korea_megagame.png
+|series=China-Korea Megagame
+|abbreviation=CN-KR Megagame
+|icon=China-korea megagame logo small.png
+|organizer=HuyaTV
+|organizer-link=http://www.huya.com/
+|organizer2=
+|sponsor=
+|type=Online
+|country=China
+|format=Double Elimination
+|prizepool=
+|localcurrency=
+|prizepoolusd=
+|date=
+|sdate=2016-09-06
+|edate=2016-09-07
+|liquipediatier={{TierText/3}}
+|web=
+|stream=http://www.huya.com/overwatch
+|bracket=
+|challonge=
+|teamfirst=af.red
+|teamsecond=af.blue
+|teamthird=nga
+|teamfourth=newbee
+|team_number=4
+|team1=af.red
+|team2=af.blue
+|team3=nga
+|team4=newbee
+|previous=
+|next=
+}}
+{{TOClimit|3}}
+'''China-Korea Megagame''' is an Overwatch tournament organized by HuyaTV.
+
+==Information==
+===Prize Pool===
+{{Abbr/CNY}} (~ {{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start|localcurrency=cny}}
+{{prize pool slot|place=1|usdprize=0|localprize=0|af.red|lastvs1=af.blue |lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot|place=2|usdprize=0|localprize=0|af.blue|lastvs1=af.red |lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot|place=dq|usdprize=0|localprize=0|nga|lastvs1=af.red |walkoverto1=true }}
+{{prize pool slot|place=dq|usdprize=0|localprize=0|newbee|lastvs1=af.blue |lastscore1=0 |lastvsscore1=3 |date=2016-09-06 }}
+{{Prize pool end}}
+''Conversion values taken from [http://www.xe.com xe.com] at 2016-07-11. 1 {{Abbr/CNY}} ≈ 0.150 {{Abbr/USD}}'
+
+===Format===
+*Single Elimination
+**All matches are Bo5.
+**Winner from winner's bracket takes advantage of 1:0 in Grand Finals.
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Lalalu|b1flag=cn
+|b2=Fenxiaoxi|b2flag=cn
+|b3=Zixuan|b3flag=cn
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=AF.Red
+|link=Afreeca_Freecs/AF.Red
+|p1=Qmain|p1flag=kr
+|p2=Hyeonu|p2flag=kr
+|p3=Recry|p3flag=kr
+|p4=takethis|p4flag=kr
+|p5=LagerMan|p5flag=kr
+|p6=gokon|p6flag=kr
+|qualifier='''Invited'''
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=AF.Blue
+|link=Afreeca_Freecs/AF.Blue
+|p1=yesman|p1flag=kr
+|p2=ArHaN|p2flag=kr
+|p3=J1N|p3flag=kr
+|p4=Adam|p4link=adam (Korean player)|p4flag=kr
+|p5=attune|p5flag=kr
+|p6=Dayfly|p6flag=kr
+|qualifier='''Invited'''
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NGA Club
+|link=NGA Club/NGA Club
+|p1=ShaDowCat|p1flag=cn
+|p2=Fury|p2flag=cn|p2link=Cheng Chao
+|p3=LittleCat|p3flag=cn
+|p4=AcyOrt|p4flag=cn
+|p5=Hysteria|p5flag=cn
+|p6=Maps|p6flag=cn |p6link=Maps (Chinese player)
+|qualifier=[[China-Korea Megagame/Chinese Qualifier|Chinese Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Newbee
+|p1=NIKO|p1flag=cn
+|p2=Baymax|p2flag=cn
+|p3=Kenny|p3flag=cn
+|p4=Hibiki|p4flag=cn
+|p5=Fool|p5flag=cn
+|p6=Masami|p6flag=cn
+|qualifier=[[China-Korea Megagame/Chinese Qualifier|Chinese Qualifier]]
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/4U2L1D|4DETeamBracket|type=team|id=Y4CLF1LXtU
+<!-- SEMIFINALS -->
+|R1D1team=af.red |R1D1score=3 |R1D1win=1
+|R1D2team=newbee |R1D2score=2 |R1D2win=
+|R1G1details={{BracketMatchSummary
+|date=September 6, 2016 - 19:00 {{Abbr/CST}}
+|finished=true
+}}
+|R1D3team=af.blue |R1D3score=0 |R1D3win=
+|R1D4team=nga |R1D4score=3 |R1D4win=1
+|R1G2details={{BracketMatchSummary
+|date=September 6, 2016 - 20:00 {{Abbr/CST}}
+|finished=true
+}}
+<!-- WINNER'S FINALS -->
+|R2W1team=af.red |R2W1score=W |R2W1win=1
+|R2W2team=nga |R2W2score=- |R2W2win=
+|R2G1details={{BracketMatchSummary
+|date=September 7, 2016 - 19:00 {{Abbr/CST}}
+|finished=true
+|comment=NGA forfeited.
+}}
+<!-- LOSER'S ROUND 1 -->
+|R1D5team=newbee |R1D5score=0 |R1D5win=
+|R1D6team=af.blue |R1D6score=3 |R1D6win=1
+|R1G3details={{BracketMatchSummary
+|date=September 6, 2016 - 21:00 {{Abbr/CST}}
+|finished=true
+|comment=Newbee got DQ due to negative action.
+}}
+<!-- LOSER'S FINALS -->
+|R2D1team=nga |R2D1score=- |R2D1win=
+|R2W3team=af.blue |R2W3score=W |R2W3win=1
+|R2G2details={{BracketMatchSummary
+|date=September 7, 2016 - 20:00 {{Abbr/CST}}
+|finished=true
+|comment=NGA forfeited.
+}}
+<!-- GRAND FINALS -->
+|R3W1team=af.red |R3W1score=3 |R3W1win=1
+|R3W2team=af.blue |R3W2score=0 |R3W2win=
+|R3G1details={{BracketMatchSummary
+|date=September 7, 2016 - 21:00 {{Abbr/CST}}
+|finished=true
+|match1={{Match/old
+|map=Winner's bracket advantage
+|win=1
+}}
+|match2={{Match/old
+|map=Numbani
+|team1side=3 |team2side=2 |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+|match3={{Match/old
+|map=Ilios
+|team1side=2 |team2side=0 |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=1
+}}
+}}
+<!-- EXTENDED SERIES (optional) -->
+|R3W1score2=
+|R3W2score2=
+}}
+
+==Trivia==
+*Both Chinese teams forfeited/disqualified due to organizer confused format changing during the matches.
+==View Games==
+*{{flag/cn}} [http://i.youku.com/i/UMzgxODg5NDg0MA==/videos VODs]
+
+==External links==
+*{{flag/cn}} [http://blog.huya.com/news/2671 Official Announcement]
+
+==References==
+{{Reflist}}

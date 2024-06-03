@@ -1,0 +1,202 @@
+{{Infobox league
+|name=LabanPinas! The Team PH Send Off Tournament
+|image=LabanPinas Send Off Tournament.jpg
+|series=labanpinas
+|abbreviation=LabanPinas
+|shortname=LabanPinas! The Team PH Send Off Tournament
+|tickername=LabanPinas! The Team PH Send Off Tournament
+|icon=
+|organizer=
+|organizer2=
+|sponsor=[https://www.facebook.com/BrenEsports/ Bren Esports]<br>[[Team Philippines]]
+|type=Offline
+|country=Philippines
+|city=Manila
+|venue=Nostrax Elite Cafe
+|format=Group Stage<br>Single Elimination
+|prizepool=10,500
+|localcurrency=PHP
+|prizepoolusd=205
+|date=2019-10-20
+|liquipediatier={{TierText/5}}
+|web=
+|weibo=
+|stream=https://www.facebook.com/pg/TeamPhilippinesOW/videos/
+|twitch=
+|bracket=
+|team_number=3
+|previous=
+|next=
+}}
+
+==Information==
+===Format===
+* Group stage
+** All matches are {{Abbr/Bo3}}.
+** Top 1 team proceeds to Grand Finals.
+* Playoffs
+** All matches are {{Abbr/Bo5}}.
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=Daks |b1flag=ph |b1name=Dathan Allan Keanu Rosales
+|b2=Fascinate |b2flag=ph |b2name=Yuwki Tanaka
+}}
+
+===Prize Pool===
+10,500 {{Abbr/PHP}} (≃ 205 {{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start|localcurrency=php}}
+{{prize pool slot|place=1|usdprize=117|localprize=6,000|mmk |lastvs1=feroxus vicious |lastscore1=3 |lastvsscore1=2 }}
+{{prize pool slot|place=2|usdprize=59|localprize=3,000|feroxus vicious |lastvs1=mmk |lastscore1=2 |lastvsscore1=3 }}
+{{prize pool slot|place=3|usdprize=29|localprize=1,500|turbos |lastvs1=mmk |lastscore1=0 |lastvsscore1=3 }}
+{{Prize pool end}}
+''Conversion values taken from [https://www.exchange-rates.org/Rate/USD/PHP/10-20-2019 exchange-rates.org] at 2019-10-20. 1 {{Abbr/USD}} ≈ 51.2748 {{Abbr/PHP}}''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=MMK
+|image=MMK logo.png
+|p1=Calamitus |p1flag=ph |pos1=dps
+|p2=DodgeThiss |p2flag=ph |pos2=dps <!--- dps + tank --->
+|p3=DNKX |p3flag=ph |pos3=tank <!--- tank + dps --->
+|p4=Funtric |p4flag=ph |pos4=tank
+|p5=PandaUser |p5flag=ph |pos5=sup
+|p6=Vigilance |p6flag=ph |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=FeroXus Vicious
+|image=Feroxus_vicius_logo.png
+|p1=Cyberbullyy |p1flag=ph |pos1=dps
+|p2=Master |p2flag=ph |pos2=dps
+|p3=Pugbutt |p3flag=ph |pos3=tank
+|p4=Rain |p4flag=ph |pos4=tank |p4link=Rain (Filipino player)
+|p5=Gumby |p5flag=ph |pos5=tank
+|p6=MaRKiEEEEEEE |p6flag=ph |pos6=sup
+|p7=Bunninja |p7flag=ph |pos7=sup
+|c=Gumby |cflag=ph
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Turbos
+|image=
+|p1=HAESOON |p1flag=ph |pos1=dps <!--- dps + tank --->
+|p2=ELCHUPACABRA |p2flag=ph |pos2=dps <!--- dps + tank --->
+|p3=Namazu |p3flag=ph |pos3=tank <!--- tank + dps --->
+|p4=MadCool |p4flag=ph |pos4=tank <!--- tank + sup --->
+|p5=MacarioSakay |p5flag=ph |pos5=sup
+|p6=McRonald |p6flag=ph |pos6=sup <!--- sup + tank --->
+}}
+{{box|end}}
+
+===Group Stage===
+{{Toggle group start|state=show}}
+===={{HiddenSort|Group A}}====
+{{GroupTableStart| Round Robin |width=425px
+|date=
+|stream=
+|lrthread=
+|finished=
+}}
+{{GroupTableSlot| {{Team|feroxus vicious}} |place=1|win_m=2|lose_m=0|win_r=4|lose_r=0|diff=|bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|mmk}} |place=2|win_m=1|lose_m=1|win_r=2|lose_r=2|diff=|bg=stayup|show_p=false}}
+{{GroupTableSlot| {{Team|turbos}} |place=3|win_m=0|lose_m=2|win_r=0|lose_r=4|diff=|bg=stayup|show_p=false}}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=AzLwIlYIJP|title=Matches |width=425px
+|match1={{MatchMaps
+|date=October 20, 2019
+|team1=feroxus vicious
+|games1=2
+|team2=mmk
+|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=October 20, 2019
+|twitch=
+|finished=true
+|vod=https://www.facebook.com/TeamPhilippinesOW/videos/422979575265249/
+|map1=Oasis|map1score=2-0|map1win=1
+|map2=King's Row|map2score=3-2|map2win=1
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match2={{MatchMaps
+|date=
+|team1=turbos
+|games1=0
+|team2=feroxus vicious
+|games2=2
+|winner=2
+|details={{BracketMatchSummary
+|date=October 20, 2019
+|twitch=
+|finished=true
+|vod=https://www.facebook.com/TeamPhilippinesOW/videos/422979575265249/
+|map1=Oasis|map1score=0-2|map1win=2
+|map2=Hollywood|map2score=2-3|map2win=2
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match3={{MatchMaps
+|date=
+|team1=mmk
+|games1=2
+|team2=turbos
+|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=October 20, 2019
+|twitch=
+|finished=true
+|vod=https://www.facebook.com/TeamPhilippinesOW/videos/422979575265249/
+|map1=Oasis|map1score=2-0|map1win=1
+|map2=Hollywood|map2score=1-0|map2win=1
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+}}
+
+==Results==
+{{LegacyBracket|Bracket/2L1D|3SETeamBracket|type=team|id=LAu0NWizTi 
+|R1D1team=mmk |R1D1score=3 |R1D1win=1
+|R1D2team=turbos |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary
+|date=October 20, 2019
+|finished=true
+|map1=Oasis |map1score=2-0 |map1win=1
+|map2=King's Row |map2score=1-0 |map2win=1
+|map3=Volskaya Industries |map3score=2-1 |map3win=1
+|vod=https://www.facebook.com/TeamPhilippinesOW/videos/1150364302019003/
+|overgg=
+|pf=
+|wl=
+}} 
+<!-- FINALS --> 
+|R2D1team=feroxus vicious |R2D1score=2 |R2D1win=
+|R2W1team=mmk |R2W1score=3 |R2W1win=1
+|R2G1details={{BracketMatchSummary
+|date=October 20, 2019
+|finished=true
+|map1=Oasis |map1score=1-2 |map1win=2
+|map2=King's Row |map2score=3-2 |map2win=1
+|map3=Volskaya Industries |map3score=0-1 |map3win=2
+|map4=Rialto |map4score=1-0 |map4win=1
+|map5=Ilios |map5score=1-2 |map5win=2
+|vod=https://www.facebook.com/TeamPhilippinesOW/videos/1150364302019003/
+|overgg=
+|pf=
+|wl=
+}} 
+}}

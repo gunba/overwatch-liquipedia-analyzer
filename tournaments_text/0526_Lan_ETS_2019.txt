@@ -1,0 +1,227 @@
+{{Want_to_Help
+|issue=missing flags on teamcards
+|fix=add flags
+|date=20201222
+}}
+{{DISPLAYTITLE:Lan ETS 2019}}
+{{Infobox league
+|liquipediatier={{TierText/3}}
+|series=Lan ETS
+|shortname=Lan ETS 2019
+|name=Lan ETS 2019
+|image=Lan ETS 2019.png
+|icon=Lan ETS icon.png
+|organizer=Lan ETS
+|sponsor=[https://www.bell.ca/ Bell]
+|type=Offline
+|country=Canada
+|city=Montreal
+|format=Double Elimination
+|venue=[https://congresmtl.com/en/ Palais des Congrès]
+|twitter=Lan_ETS
+|prizepoolusd=3,000
+|sdate=2019-02-09
+|edate=2019-02-10
+|team_number=21
+|web=https://lanets.ca/tournaments/27#
+|bracket=https://www.toornament.com/tournaments/2218473008270376960/matches/next?_locale=en_US
+}}
+
+==About==
+Lan ETS 2019 Overwatch is a BYOC LAN event held at Lan ETS 2019.
+===Format===
+* '''Group Stage''': Round Robin
+* '''Playoffs''': Double Elimination
+** All matches until Finals are {{Abbr/Bo3}}
+** Grand Finals are {{Abbr/Bo5}}.
+*** Winner from Winners' Bracket takes advantage of 1-0 in '''Grand Finals'''.
+
+<!--===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Drift|b1flag=fr
+|b2=DryganHunter|b2flag=ca
+|b3=|b3name=|b3flag=
+}}-->
+
+==Prize Pool==
+$3,000 {{Abbr/USD}} are spread among the teams as seen below:
+{{prize pool start|cutafter=4 }}
+{{prize pool slot|place=1 |usdprize=1,800|mirage sport électronique|lastvs1=psykopaths gaming|lastscore1=3|lastvsscore1=1}}
+{{prize pool slot|place=2 |usdprize=750|psykopaths gaming|lastvs1=|lastscore1=|lastvsscore1=}}
+{{prize pool slot|place=3 |usdprize=450|livid gaming|lastvs1=psykopaths gaming|lastscore1=1|lastvsscore1=2}}
+{{prize pool slot|place=4|usdprize=0|Éts phoenix|lastvs2=|lastscore2=|lastvsscore2=}}
+{{prize pool slot|place=5-6|usdprize=0
+|flanc gauche ow Élite|lastvs1=|lastscore1=|lastvsscore1=
+|dalhousie university|lastvs2=|lastscore2=|lastvsscore2=
+}}
+{{prize pool slot|place=7-8|usdprize=0
+|east-coast warlords|lastvs1=|lastscore1=|lastvsscore1=
+|sailor scouts|lastvs2=|lastscore2=|lastvsscore2=
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Mirage Sport Électronique
+|image=
+|p1=Akaydia |p1flag=ca |pos1=dps
+|p2=Kellar |p2flag=ca |pos2=dps
+|p3=iCy |p3flag=ca |pos3=flex
+|p4=Chayne |p4flag=ca |pos4=tank
+|p5=Sheep |p5flag=ca |pos5=sup|p5link=Sheep (Canadian Player)
+|p6=Verbo |p6flag=ca |pos6=sup
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=East-Coast Warlords
+|image=
+|p1=Chiptune |p1flag=ca |pos1=dps
+|p2=dexX |p2flag=ca |pos2=sup
+|p3=Bunko |p3flag=ca |pos3=flex
+|p4=MyK |p4flag=ca |pos4=flex
+|p5=Air |p5flag=ca |pos5=dps
+|p6=LargePig |p6flag=ca |pos6=tank
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ÉTS Phoenix
+|image=
+|p1=Binkie |p1flag=ca |pos1=
+|p2=beans |p2flag= |pos2=
+|p3=legomath |p3flag=ca |pos3=
+|p4=Paiv |p4flag= |pos4=
+|p5=Pancake |p5flag= |pos5=
+|p6=peelz |p6flag= |pos6=
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Flanc Gauche OW Élite
+|image=
+|p1=DrSync |p1flag=ca |pos1=
+|p2=herokivi |p2flag= |pos2=
+|p3=Jam1b |p3flag= |pos3=
+|p4=Virtuosic |p4flag= |pos4=
+|p5=wylwers |p5flag= |pos5=
+|p6=Frenchie |p6flag= |pos6=
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=PsykoPaths Gaming
+|image=PsykoPaths Gaming logo.png
+|p1=AntoL  |p1flag= |pos1=
+|p2=Dynasty |p2flag= |pos2=
+|p3=theplug |p3flag=us |pos3=
+|p4=DunKZgg |p4flag=ca |pos4=
+|p5=Draedrae |p5flag= |pos5=
+|p6=Fearlessss |p6flag= |pos6=
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Sailor Scouts
+|image=Sailor Scouts logo.png
+|p1=IDDQT |p1flag=ca |pos1=
+|p2=Bree |p2flag=usa |pos2=
+|p3=Annieonfire |p3flag=ca |pos3=
+|p4=Candy4U |p4flag=ca |pos4=
+|p5=Tachikoma |p5flag=ca |pos5=
+|p6=Quake |p6flag=ca |pos6=
+|c=Varois |cflag=ca
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=LiViD Gaming
+|image=LiViD Gaming 2019.png
+|p1=Blestna |p1flag=ca |pos1=dps
+|p2=Braixen |p2flag= |pos2=dps
+|p3=Shovelhook |p3flag=ca |pos3=flex
+|p4=John |p4flag=ca |pos4=tank
+|p5=Express |p5flag=ca |pos5=sup
+|p6=Moneymaker |p6flag=ca |pos6=sup
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Dalhousie University
+|image=Dalhousie rev 19Percent.png
+|p1=Antios |p1flag=ca |pos1=sup
+|p2=CBINCameron |p2flag=ca |pos2=tank
+|p3=Dreamfyre |p3flag=ca |pos3=flex
+|p4=MediumPig |p4flag=ca |pos4=sup
+|p5=R1amu |p5flag=ca |pos5=dps
+|p6=twe |p6flag=ca |pos6=dps
+|c= |cflag=
+|qualifier=Invited
+}}
+{{box|end}}
+
+==Playoffs==
+{{LegacyBracket|Bracket/8U4L2DSL1D|8DETeamBracket|type=team|id=Zv1JVatWxk
+<!-- QUARTERFINALS -->
+|R1D1team=mirage sport électronique |R1D1score=2 |R1D1win=1
+|R1D2team=east-coast warlords|R1D2score=0 |R1D2win=
+
+|R1D3team=Éts phoenix |R1D3score=2 |R1D3win=1
+|R1D4team=flanc gauche ow Élite |R1D4score=0 |R1D4win=
+
+|R1D5team=psykopaths gaming |R1D5score=2 |R1D5win=1
+|R1D6team=sailor scouts |R1D6score=0 |R1D6win=
+
+|R1D7team=livid gaming |R1D7score=2 |R1D7win=1
+|R1D8team=dalhousie university |R1D8score=0 |R1D8win=
+
+<!-- SEMIFINALS -->
+|R2W1team=mirage sport électronique |R2W1score=2 |R2W1win=1
+|R2W2team=Éts phoenix |R2W2score=0 |R2W2win=
+
+|R2W3team=psykopaths gaming |R2W3score=2 |R2W3win=1
+|R2W4team=livid gaming |R2W4score=0 |R2W4win=
+
+<!-- WINNER'S FINALS -->
+|R4W1team=mirage sport électronique |R4W1score=2 |R4W1win=1
+|R4W2team=psykopaths gaming |R4W2score=0 |R4W2win=
+
+<!-- LOSER'S ROUND 1 -->
+|R1D9team=flanc gauche ow Élite|R1D9score=2 |R1D9win=1
+|R1D10team=east-coast warlords |R1D10score=0 |R1D10win=
+
+|R1D11team=dalhousie university |R1D11score=2 |R1D11win=1
+|R1D12team=sailor scouts |R1D12score=0 |R1D12win=
+
+<!-- LOSER'S ROUND 2 -->
+|R2D1team=livid gaming |R2D1score=2 |R2D1win=1
+|R2W5team=flanc gauche ow Élite |R2W5score=0 |R2W5win=
+
+|R2D2team=Éts phoenix |R2D2score=2 |R2D2win=1
+|R2W6team=dalhousie university |R2W6score=0 |R2W6win=
+
+<!-- LOSER'S ROUND 3 -->
+|R3W1team=livid gaming |R3W1score=2 |R3W1win=1
+|R3W2team=Éts phoenix |R3W2score=0 |R3W2win=
+
+<!-- LOSER'S FINALS -->
+|R4D1team=psykopaths gaming |R4D1score=2 |R4D1win=1
+|R4W3team=livid gaming |R4W3score=1 |R4W3win=
+
+<!-- GRAND FINALS -->
+|R5W1team=mirage sport électronique |R5W1score=3 |R5W1win=1
+|R5W2team=psykopaths gaming |R5W2score=1 |R5W2win=
+
+}}
+
+==References==
+{{Reflist}}

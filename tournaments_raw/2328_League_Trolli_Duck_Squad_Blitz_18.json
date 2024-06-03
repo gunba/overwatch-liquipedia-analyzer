@@ -1,0 +1,170 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "name": "Duck Squad Blitz #18",
+            "shortname": "League Trolli Duck Squad Blitz 18",
+            "tickername": "League Trolli Duck Squad Blitz #18",
+            "icon": "LeagueTrolli.png",
+            "image": "LeagueTrolli.png",
+            "series": "League Trolli",
+            "organizer": "Duck Squad",
+            "organizer2": "League Trolli",
+            "sponsor": "[https://www.trolli.com/ Trolli]",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "100",
+            "date": "2023-11-24",
+            "twitter": "DuckSquadNA",
+            "web": "https://leaguetrolli.challonge.com/",
+            "discord": "5dTxtYJaT8",
+            "rulebook": "https://docs.google.com/document/d/1GWPwg70BONoSKSjSRn_huvZ2OgBzjMcPfoMb_46GPDw/edit",
+            "bracket": "https://leaguetrolli.challonge.com/dsblitz18#",
+            "team_number": "10"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Inarizaki",
+            "p1": "Amadien|pos1=dps",
+            "p2": "ultimawep|pos2=dps",
+            "p3": "Evei|pos3=tank",
+            "p4": "Hutch|p4flag=us|pos4=sup",
+            "p5": "Sainttx|p5flag=us|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "weird|t2c1flag=us|t2c1pos=coach"
+        },
+        {
+            "team": "FortnitePros",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Gordon Ramsay Esports",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "YippeeKari",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Graight apes",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Haunted Mound",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Twilight Ximming Cat Girls",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "yappers",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|YippeeKari|score=2}}",
+            "opponent2": "{{TeamOpponent|Yappers|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Inarizaki|score=2}}",
+            "opponent2": "{{TeamOpponent|Twilight Ximming Cat Girls|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Graight Apes|score=0}}",
+            "opponent2": "{{TeamOpponent|FortnitePros|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Gordon Ramsay Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|Haunted Mound|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|YippeeKari|score=0}}",
+            "opponent2": "{{TeamOpponent|Inarizaki|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|FortnitePros|score=2}}",
+            "opponent2": "{{TeamOpponent|Gordon Ramsay Esports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-11-24",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Inarizaki|score=3}}",
+            "opponent2": "{{TeamOpponent|FortnitePros|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        }
+    ]
+}

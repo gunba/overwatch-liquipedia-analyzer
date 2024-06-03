@@ -1,0 +1,641 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "The Hunting of BenQ Squad Series",
+            "name": "The Hunting of BenQ Squad Series #1",
+            "shortname": "The Hunting of BenQ Squad Series #1",
+            "tickername": "The Hunting of BenQ Squad Series #1",
+            "icon": "BenQ icon.png",
+            "image": "BenQ icon.png",
+            "abbreviation": "BenQ",
+            "organizer": "BenQ",
+            "organizer-link": "https://www.benq.com/en-us/index.html",
+            "type": "Online",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "prizepool": "270",
+            "localcurrency": "eur",
+            "date": "2022-07-09",
+            "discord": "https://discord.gg/bx34RgMwJ4",
+            "rulebook": "https://battlefy.com/benq-squad-series/\u20ac270-the-hunting-of-benq-squad-series-overwatch-6v6-1/62bc9e5659a2ae70ecbbbaa8/info?infoTab=rules",
+            "bracket": "https://battlefy.com/benq-squad-series/%E2%82%AC270-the-hunting-of-benq-squad-series-overwatch-6v6-1/62bc9e5659a2ae70ecbbbaa8/stage/62c97be4154b5d1f24526700/bracket/",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Munich eSports",
+            "p1": "PSYCH0",
+            "p1flag": "no",
+            "pos1": "dps",
+            "p2": "hira",
+            "p2flag": "es",
+            "pos2": "dps",
+            "p3": "TrqstMe",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Ailiseu",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Bya",
+            "p5flag": "cn",
+            "pos5": "sup",
+            "p6": "Lv1Crook",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "Abheek",
+            "p7flag": "",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2p1": "Algos05",
+            "t2pos1": "manager"
+        },
+        {
+            "team": "Mind Goblin",
+            "p1": "juuzo",
+            "p1flag": "uk",
+            "pos1": "DPS",
+            "p2": "Shikaaree",
+            "p2flag": "dk",
+            "pos2": "DPS",
+            "p3": "Wex",
+            "p3flag": "ro",
+            "pos3": "DPS",
+            "p4": "Theomatic",
+            "p4flag": "za",
+            "pos4": "Tank",
+            "p5": "Strebor",
+            "p5flag": "uk",
+            "pos5": "Support",
+            "p6": "yoham",
+            "p6flag": "dk",
+            "pos6": "Support",
+            "t2title": "Staff",
+            "t2p1": "S\u00f8eny",
+            "t2p1flag": "fr",
+            "t2pos1": "Manager"
+        },
+        {
+            "team": "PipiBox",
+            "p1": "Zaouri",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Razorbake",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "SoSucre",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Lunio",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "Sidoux",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "p6": "Xerion",
+            "p6flag": "fr",
+            "pos6": "sup"
+        },
+        {
+            "team": "Altiora Sequoia",
+            "p1": "Yuki",
+            "p1link": "Yuki (British Player)",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "Tobzi",
+            "p2flag": "norway",
+            "pos2": "dps",
+            "p3": "ADE",
+            "p3flag": "spain",
+            "pos3": "tank",
+            "p3link": "ADE (Spanish Player)",
+            "p4": "DEAMONN",
+            "p4flag": "australia",
+            "pos4": "tank",
+            "p5": "HowtoWASD",
+            "p5flag": "de",
+            "pos5": "sup",
+            "p6": "saulgoodman",
+            "p6flag": "de",
+            "pos6": "sup"
+        },
+        {
+            "team": "Frozen Sun",
+            "p1": "GluK",
+            "p1flag": "ru",
+            "pos1": "dps",
+            "p2": "kai41",
+            "p2flag": "ru",
+            "pos2": "dps",
+            "p3": "DjWhack03",
+            "p3flag": "ru",
+            "pos3": "tank",
+            "p4": "h0pe",
+            "p4flag": "ru",
+            "pos4": "tank",
+            "p5": "HpSka",
+            "p5flag": "ru",
+            "pos5": "sup",
+            "p6": "Paranid",
+            "p6flag": "ru",
+            "pos6": "sup",
+            "p7": "Barbarossa",
+            "p7flag": "ru",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2p1": "OverlorD",
+            "t2p1flag": "ru",
+            "t2pos1": "coach",
+            "t2p2": "DarthMurloc",
+            "t2p2flag": "ru",
+            "t2pos2": "coach"
+        },
+        {
+            "team": "\ud835\ude47\ud835\ude64\ud835\ude68 \ud835\ude4b\ud835\ude64\ud835\ude61\ud835\ude61\ud835\ude64\ud835\ude68 \ud835\ude43\ud835\ude5a\ud835\ude67\ud835\ude62\ud835\ude56\ud835\ude63\ud835\ude64\ud835\ude68",
+            "p1": "Curse",
+            "p1link": "Reflection",
+            "p1flag": "de",
+            "pos1": "dps",
+            "p2": "MaDetho",
+            "p2flag": "de",
+            "pos2": "dps",
+            "p3": "Senna",
+            "p3flag": "gr",
+            "pos3": "dps",
+            "p4": "Seagu",
+            "p4flag": "de",
+            "pos4": "tank",
+            "p5": "Chroo",
+            "p5flag": "ee",
+            "pos5": "tank",
+            "p6": "Oridt",
+            "p6flag": "de",
+            "pos6": "sup",
+            "p7": "Santyx",
+            "p7flag": "uk",
+            "pos7": "sup"
+        },
+        {
+            "team": "Quandale Dingle",
+            "p1": "alvicate",
+            "p1flag": "lt",
+            "pos1": "dps",
+            "p2": "epsilon",
+            "p2flag": "no",
+            "pos2": "dps",
+            "p3": "JkAru19",
+            "p3flag": "uk",
+            "pos3": "tank",
+            "p4": "Rory",
+            "p4flag": "uk",
+            "pos4": "tank",
+            "p5": "Chimera",
+            "p5flag": "it",
+            "pos5": "tank",
+            "p5link": "Chimera (Italian player)",
+            "p6": "Cointree",
+            "p6flag": "cn",
+            "pos6": "sup",
+            "p7": "yeezus",
+            "p7flag": "si",
+            "pos7": "sup",
+            "p8": "RiveR",
+            "p8flag": "cz",
+            "pos8": "sup"
+        },
+        {
+            "team": "Overwachos",
+            "p1": "Angrod",
+            "p1flag": "spain",
+            "pos1": "",
+            "p2": "sesuko",
+            "p2flag": "spain",
+            "pos2": "",
+            "p3": "Aryll",
+            "p3flag": "spain",
+            "pos3": "",
+            "p4": "TNK",
+            "p4flag": "spain",
+            "pos4": "",
+            "p5": "SrFreezy",
+            "p5flag": "spain",
+            "pos5": "",
+            "p6": "Ph\u00e4ge",
+            "p6flag": "spain",
+            "pos6": ""
+        },
+        {
+            "team": "URD GliAmiciBelli",
+            "p1": "TheBeastITA",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Eptri",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "HeliosSoul",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Nyuu",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Falneitz",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Heartbeatl",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "IDK",
+            "p1": "ragnarok",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "killer0801",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "IsaNosAma",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Nebu",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Demotori",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Kitten",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "A51 Giga Chads",
+            "p1": "Lama",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "K4B4B",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "RAGEAYA",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "mysft",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Silence",
+            "p5flag": "",
+            "pos5": "",
+            "p5link": "Silence (player)",
+            "p6": "Tsutto",
+            "p6flag": "",
+            "pos6": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "July 9, 2022",
+            "opponent1": "A51 Giga Chads",
+            "opponent1_score": 0,
+            "opponent2": "URD GliAmiciBelli",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 9, 2022",
+            "opponent1": "Overwachos",
+            "opponent1_score": 1,
+            "opponent2": "IDK",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "July 9, 2022",
+            "opponent1": "Altiora Sequoia",
+            "opponent1_score": 0,
+            "opponent2": "Munich eSports",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "July 9, 2022",
+            "opponent1": "PipiBox",
+            "opponent1_score": 0,
+            "opponent2": "Mind Goblin",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "July 9, 2022",
+            "opponent1": "DeleteFriend",
+            "opponent1_score": 1,
+            "opponent2": "URD GliAmiciBelli",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "July 9, 2022",
+            "opponent1": "Quandale Dingle",
+            "opponent1_score": 1,
+            "opponent2": "Overwachos",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "July 9, 2022",
+            "opponent1": "\ud835\ude47\ud835\ude64\ud835\ude68 \ud835\ude4b\ud835\ude64\ud835\ude61\ud835\ude61\ud835\ude64\ud835\ude68 \ud835\ude43\ud835\ude5a\ud835\ude67\ud835\ude62\ud835\ude56\ud835\ude63\ud835\ude64\ud835\ude68",
+            "opponent1_score": 0,
+            "opponent2": "Munich eSports",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "July 9, 2022",
+            "opponent1": "Frozen Sun",
+            "opponent1_score": 0,
+            "opponent2": "Mind Goblin",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "July 9, 2022",
+            "opponent1": "DeleteFriend",
+            "opponent1_score": 1,
+            "opponent2": "Quandale Dingle",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "July 9, 2022",
+            "opponent1": "Munich eSports",
+            "opponent1_score": 1,
+            "opponent2": "Mind Goblin",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "July 9, 2022",
+            "opponent1": "DeleteFriend",
+            "opponent1_score": 1,
+            "opponent2": "Munich eSports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "July 9, 2022",
+            "opponent1": "Quandale Dingle",
+            "opponent1_score": 1,
+            "opponent2": "Mind Goblin",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "score1": "",
+                "score2": "",
+                "finished": ""
+            },
+            "map2": {
+                "map": "",
+                "score1": "",
+                "score2": "",
+                "finished": ""
+            },
+            "map3": {
+                "map": "",
+                "score1": "",
+                "score2": "",
+                "finished": ""
+            },
+            "optional": "RxMTP="
+        }
+    ]
+}

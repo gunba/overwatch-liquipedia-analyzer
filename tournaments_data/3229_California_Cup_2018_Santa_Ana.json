@@ -1,0 +1,128 @@
+{
+    "tournament_info": [
+        {
+            "name": "California Cup - Santa Ana",
+            "image": "California Cup logo.png",
+            "series": "California Cup",
+            "shortname": "California Cup - Santa Ana",
+            "tickername": "California Cup - Santa Ana",
+            "organizer": "Los Angeles Valiant",
+            "organizer2": "San Francisco Shock",
+            "patch": "1.29",
+            "type": "offline",
+            "country": "United States",
+            "city": "Santa Ana",
+            "venue": "Esports Arena Santa Ana",
+            "venuelink": "https://web.archive.org/web/20190501225830/https://www.esportsarena.com/OrangeCounty/",
+            "prizepoolusd": "",
+            "date": "2018-10-20",
+            "liquipediatier": "1",
+            "liquipediatiertype": "Showmatch",
+            "twitch": "lavaliant",
+            "game": "overwatch",
+            "team_number": "2",
+            "next": "California_Cup/2018/Oakland{{!}}Oakland"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Los Angeles Valiant",
+            "p1": "Agilities",
+            "pos1": "dps",
+            "p2": "Bunny",
+            "pos2": "dps",
+            "p3": "KariV",
+            "pos3": "dps",
+            "p4": "SPACE",
+            "pos4": "flex",
+            "p5": "Fate",
+            "pos5": "tank",
+            "p6": "Custa",
+            "pos6": "sup",
+            "p7": "Izayaki",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2p1": "Moon",
+            "t2pos1": "head coach",
+            "t2p2": "Stoop",
+            "t2pos2": "assistant coach"
+        },
+        {
+            "team": "San Francisco Shock",
+            "p1": "Architect",
+            "pos1": "dps",
+            "p2": "babybay",
+            "pos2": "dps",
+            "p3": "sinatraa",
+            "pos3": "dps",
+            "p4": "ChoiHyoBin",
+            "pos4": "flex",
+            "p5": "Nevix",
+            "pos5": "flex",
+            "p6": "super",
+            "pos6": "tank",
+            "p7": "smurf",
+            "pos7": "tank",
+            "p8": "moth",
+            "pos8": "sup",
+            "p9": "sleepy",
+            "pos9": "sup",
+            "t2title": "Staff",
+            "t2p1": "Crusty",
+            "t2pos1": "head coach",
+            "t2p2": "Junkbuck",
+            "t2pos2": "assistant coach",
+            "t2p3": "NineK",
+            "t2pos3": "assistant coach",
+            "t2p4": "bikeage",
+            "t2pos4": "manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "October 20, 2018 - 17:30",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "LAValiant",
+            "opponent1": "val",
+            "opponent2": "sfs",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "vod": "https://youtu.be/Fc-i5U8ORs0?t=14766"
+        }
+    ]
+}

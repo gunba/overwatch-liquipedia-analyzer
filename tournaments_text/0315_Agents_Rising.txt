@@ -1,0 +1,781 @@
+{{Infobox league
+|name=Agents Rising
+|image=Agents Rising.png
+|series=
+|organizer=Esports Arena
+|sponsor=[http://www.dolby.com/ Dolby Laboratories]
+|format=Group Stage<br>Single-Elimination Bracket ({{Abbr/Bo3}}) + Grand Finals ({{Abbr/Bo5}})
+|type=Offline
+|country=United States
+|city=Santa Ana
+|venue=[http://esportsarena.com/ Esports Arena]
+|sdate=2016-05-28
+|edate=2016-05-29
+|prizepoolusd=10,000
+|liquipediatier=3
+|stream=
+|twitch=esportsarena
+|twitch2=
+|web=http://esportsarena.com/events/2016/May/overwatch.html
+|bracket=https://battlefy.com/esportsarena/agents-rising-presented-by-dolby/573618e07cc4497d125cee49/stage/5743bd58269f38811200c2a5/bracket/
+|teamfirst=Cloud9
+|teamsecond=Team Liquid
+|teamthird=Gale Force eSports
+|teamfourth=Colorado Clutch
+|team_number=16
+|map1=
+|map2=
+|map3=
+|map4=
+|map5=
+|previous=
+}}
+
+==Overview==
+
+===Prize Pool===
+$10,000 ({{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start}}
+{{prize pool slot |place=1 |usdprize=5,000 |c9 |lastvs1=team liquid |lastscore1=6 |lastvsscore1=3}}
+{{prize pool slot |place=2 |usdprize=3,500 |team liquid |lastvs1=c9 |lastscore1=3 |lastvsscore1=6}}
+{{prize pool slot |place=3 |usdprize=1,500 |gfe |lastvs1=team liquid |lastscore1=5 |lastvsscore1=7}}
+{{prize pool slot |place=4 |usdprize=0 |colorado clutch |lastvs1=gfe |lastscore1=2 |lastvsscore1=4}}
+{{prize pool slot |place=5-6 |usdprize=0
+|still here |lastvs1=colorado clutch |lastscore1=2 |lastvsscore1=4
+|team eggplant |lastvs2=gale force esports |lastscore2=0 |lastvsscore2=4
+}}
+{{prize pool slot |place=7-8 |usdprize=0
+|gamersensei |lastvs1=still here |lastscore1=1 |lastvsscore1=4
+|winky face |lastvs2=team eggplant |lastscore2=3 |lastvsscore2=4
+}}
+{{prize pool slot |place=9-12 |usdprize=0
+|arise |lastvs1=still here |lastscore1=0 |lastvsscore1=4
+|phantom |lastvs2=gamersensei |lastscore2=2 |lastvsscore2=5
+|veritas |lastvs3=winky face |lastscore3=0 |lastvsscore3=4
+|vigilante season |lastvs4=team eggplant |lastscore4=2 |lastvsscore4=5
+}}
+{{prize pool slot |place=13-16 |usdprize=0
+|halcyon.gg |lastvs1=arise |lastscore1=0 |lastvsscore1=4
+|the flaming dragons |lastvs2=phantom |lastscore2=2 |lastvsscore2=4
+|conor mcgregor |lastvs3=veritas |lastscore3=1 |lastvsscore3=4
+|optimal method gaming |lastvs4=vigilante season |lastscore4=2 |lastvsscore4=4
+}}
+{{prize pool end}}
+
+===Format===
+* Series Scoring System
+** Teams will get points in a best of 3 or best of 5 series. The series is considered won if a team is unable to either tie or pass their opponent’s score. If at the end of a series the score is tied, the winner is determined in a single round KOTH capture point, chosen randomly.
+** On payload and point capture maps, teams will receive 1 point for successfully attacking or defending. If both teams won on the attacking side, then the team with the fastest map time will receive an extra point. If both teams win on defending side, then the team that captured the farthest objective will receive an extra point, OR if that is a tie as well, no extra point will be rewarded.
+** On KOTH maps, teams will receive 1 point for each capture point taken in a best of 3.
+** In the Grand Finals, the team that comes from the winner bracket side will start with a 2-0 lead.
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=AskJoshy
+|b2=FishStix|b2name=Ben Goldhaber|b2flag=us
+|b3=Tsquared|b3name=Tom Taylor|b3flag=us
+|b4=Jamerson|b4name=James Lee|b4flag=us
+|b5=HuK
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Gale Force eSports
+|image=Gale_Force_ES.png
+|p1=Jkw 
+|p2=NicolasTJO 
+|p3=torkTJO |p3flag=us
+|p4=harbleu 
+|p5=Joemeister |p5flag=us
+|p6=Shake |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Liquid
+|p1=DaHanG 
+|p2=dummy 
+|p3=zombs |p3flag=us
+|p4=MESR
+|p5=Vonethil
+|p6=AZK
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Colorado Clutch
+|image=ColoradoClutch.jpg
+|p1=Lumberjack |p1flag=us
+|p2=hamsword |p2flag=us
+|p3=wgb |p3flag=us
+|p4=hotsforshots |p4flag=us
+|p5=Korra |p5flag=us
+|p6=Lui |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Cloud9
+|image=
+|p1=KyKy
+|p2=Grego 
+|p3=Surefour 
+|p4=Adam
+|p5=reaver 
+|p6=deBett
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Still Here
+|image=
+|p1=ZeRo4 |p1flag=us
+|p2=rapha |p2flag=us
+|p3=cl0ck |p3flag=us
+|p4=METAPHOUR |p4flag=us
+|p5=allmEntal |p5flag=us
+|p6=Learjetz |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Eggplant
+|image=Overwatch logo.png
+|p1=carnage |p1flag=us
+|p2=TKQ |p2flag=us
+|p3=Enryu |p3flag=us
+|p4=Foobz |p4flag=us
+|p5=Rastsy |p5flag=us
+|p6=sukinta |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Winky Face
+|image=
+|p1=Dyrus |p1flag=us
+|p2=Arinnar |p2flag=us
+|p3=JokersWyld |p3flag=us
+|p4=Nibbs |p4flag=us
+|p5=Tamly |p5flag=us
+|p6=Toxic |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=GamerSensei
+|image=
+|p1=Esper |p1flag=us
+|p2=Bdropped |p2flag=us
+|p3=Spiffy |p3flag=us
+|p4=pokelawls |p4flag=ca
+|p5=MEEPMEEP |p5flag=us
+|p6=roflgator |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Arise
+|image=
+|p1=CN8DNBacon |p1flag=us
+|p2=ClawofDeath |p2flag=us
+|p3=Believe |p3flag=us
+|p4=TheOddTurtle |p4flag=us
+|p5=Soso |p5flag=us
+|p6=BeltCannon |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Phantom
+|image=
+|p1=George |p1flag=us
+|p2=Andrews |p2flag=us
+|p3=Indy |p3flag=us
+|p4=Scooter |p4flag=us
+|p5=Flying_Tortoise |p5flag=us
+|p6=Thunder |p6flag=us|p6link=Thunder (American player)
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Veritas
+|image=
+|p1=Juro |p1flag=us
+|p2=Wooly |p2flag=us
+|p3=Nimic |p3flag=us
+|p4=Kingmaker |p4flag=us
+|p5=Calvin |p5flag=us
+|p6=Link |p6flag=us|p6link=Link (American Player)
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Vigilante Season
+|image=
+|p1=lazy |p1flag=us
+|p2=reki |p2flag=us
+|p3=b4nny |p3flag=us
+|p4=jdmyoshioka |p4flag=us
+|p5=kainoa |p5flag=us
+|p6=dantwist |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Optimal Method Gaming
+|image=
+|p1=Shindu |p1flag=us
+|p2=Zirro |p2flag=us
+|p3=Oturan |p3flag=us
+|p4=Lightning |p4flag=us
+|p5=RaveN |p5flag=us
+|p6=Bohon |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Conor McGregor
+|image=
+|p1=Align |p1flag=us
+|p2=Dejasmasht |p2flag=us
+|p3=lawjeek |p3flag=us
+|p4=HCspectre |p4flag=us
+|p5=Hizzmo |p5flag=us
+|p6=ganjoubu |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=THE FLAMING DRAGONS
+|image=
+|p1=ManOfMeestur |p1flag=us
+|p2=Guno |p2flag=us
+|p3=Azf |p3flag=us
+|p4=Krippetar |p4flag=us
+|p5=Dogman |p5flag=us
+|p6=Jimin |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Halcyon.gg
+|image=
+|p1=dts |p1flag=us
+|p2=SteevB |p2flag=us
+|p3=sash |p3flag=us
+|p4=cowen |p4flag=us
+|p5=Zoma |p5flag=us
+|p6=Hunter |p6link=Hunter (American player) |p6flag=us
+}}
+{{box|end|padding=2em}}
+
+==Results==
+{{LegacyBracket|Bracket/16U8L4DSL2DSL1D|16DETeamBracket|type=team|id=2NKmgeVaFm
+|column-width=210
+<!-- ROUND 1 -->
+|R1D1team=c9 |R1D1score=4 |R1D1win=1
+|R1D2team=arise |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|match1={{Match/old
+|map=Hollywood
+|team1side=A
+|team1checkpoints=3/3
+|team1time=3:50
+|team2side=D
+|team2checkpoints=0/3
+|team2time=3:50
+|team1side2=D
+|team2side2=A
+|win=1
+}}
+|match2={{Match/old
+|map=Lijiang Tower
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+}}
+
+|R1D3team=team eggplant |R1D3score=4 |R1D3win=1
+|R1D4team=halcyon.gg |R1D4score=0 |R1D4win=
+
+
+|R1D5team=colorado clutch |R1D5score=4 |R1D5win=1
+|R1D6team=we are the flaming dragons |R1D6score=0 |R1D6win=
+
+|R1D7team=winky face |R1D7score=4 |R1D7win=1
+|R1D8team=phantom |R1D8score=0 |R1D8win=
+
+|R1D9team=team liquid |R1D9score=4 |R1D9win=1
+|R1D10team=veritas |R1D10score=0 |R1D10win=
+|R1G5details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|match1={{Match/old
+|map=King's Row
+|team1side=A
+|team1checkpoints=3/3
+|team1time=3:07
+|team2side=D
+|team2checkpoints=0/3
+|team2time=3:07
+|team1side2=D
+|team2side2=A
+|win=1
+}}
+|match2={{Match/old
+|map=Route 66
+|team1side=A
+|team1checkpoints=3/3
+|team1time=3:44
+|team2side=D
+|team2checkpoints=0/3
+|team2time=3:44
+|team1side2=D
+|team2side2=A
+|win=1
+}}
+}}
+
+|R1D11team=gamersensei |R1D11score=4 |R1D11win=1
+|R1D12team=conor mcgregor |R1D12score=0 |R1D12win=
+
+|R1D13team=gale force esports |R1D13score=4 |R1D13win=1
+|R1D14team=vigilante season |R1D14score=0 |R1D14win=
+
+|R1D15team=still here |R1D15score=4 |R1D15win=1
+|R1D16team=optimal method gaming |R1D16score=0 |R1D16win=
+
+<!-- QUARTERFINALS -->
+|R2W1team=c9 |R2W1score=4 |R2W1win=1
+|R2W2team=team eggplant |R2W2score=0 |R2W2win=
+
+|R2W3team=colorado clutch |R2W3score=4 |R2W3win=1
+|R2W4team=winky face |R2W4score=1 |R2W4win=
+
+|R2W5team=team liquid |R2W5score=4 |R2W5win=1
+|R2W6team=gamersensei |R2W6score=0 |R2W6win=
+
+|R2W7team=gale force esports |R2W7score=4 |R2W7win=1
+|R2W8team=still here |R2W8score=0 |R2W8win=
+|R2G4details={{BracketMatchSummary
+|date=May 27, 2016 - 15:00 {{abbr/CEST}}
+|stream=
+|finished=true
+|match1={{Match/old
+|map=King's Row
+|team1side=D
+|team1checkpoints=3/3
+|team1time=4:31
+|team2side=A
+|team2checkpoints=2/3
+|team2time=10:00
+|team1side2=A
+|team2side2=D
+|win=1
+}}
+|match2={{Match/old
+|map=Hollywood
+|team1side=A
+|team1checkpoints=3/3
+|team1time=5:40
+|team2side=D
+|team2checkpoints=0/3
+|team2time=5:00
+|team1side2=D
+|team2side2=A
+|win=1
+}}
+}}
+
+<!-- SEMIFINALS -->
+|R4W1team=c9 |R4W1score=4 |R4W1win=1
+|R4W2team=colorado clutch |R4W2score=1 |R4W2win=
+|R4G1details={{BracketMatchSummary
+|date=May 29, 2016 - 17:00 {{abbr/EDT}}
+|stream=eSportsArena
+|finished=true
+|match1={{Match/old
+|map=King's Row
+|team1side=D
+|team1checkpoints=3/3
+|team1time=4:26
+|team2side=A
+|team2checkpoints=3/3
+|team2time=6:48
+|team1side2=A
+|team2side2=D
+|win=1
+}}
+|match2={{Match/old
+|map=Nepal
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+}}
+
+|R4W3team=team liquid |R4W3score=4 |R4W3win=1
+|R4W4team=gale force esports |R4W4score=2 |R4W4win=
+|R4G2details={{BracketMatchSummary
+|date=May 29, 2016 - 18:30 {{abbr/EDT}}
+|stream=eSportsArena
+|finished=true
+|match1={{Match/old
+|map=Hollywood
+|team1side=A
+|team1checkpoints=2/3
+|team1time=10:00
+|team2side=D
+|team2checkpoints=2/3
+|team2time=10:00
+|team1side2=D
+|team2side2=A
+|win=draw
+}}
+|match2={{Match/old
+|map=King's Row
+|team1side=A
+|team1checkpoints=3/3
+|team1time=6:33
+|team2side=D
+|team2checkpoints=3/3
+|team2time=7:04
+|team1side2=D
+|team2side2=A
+|win=1
+}}
+|match3={{Match/old
+|map=Dorado
+|team1side=D
+|team1checkpoints=
+|team1time=
+|team2side=A
+|team2checkpoints=1/3
+|team2time=8:14
+|team1side2=A
+|team2side2=D
+|win=1
+}}
+}}
+
+<!-- WINNER'S FINALS -->
+|R6W1team=c9 |R6W1score=4 |R6W1win=1
+|R6W2team=team liquid |R6W2score=0 |R6W2win=
+|R6G1details={{BracketMatchSummary
+|date=May 29, 2016 - 19:50 {{abbr/EDT}}
+|stream=eSportsArena
+|finished=true
+|match1={{Match/old
+|map=Nepal
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+|match2={{Match/old
+|map=Numbani
+|team1side=D
+|team1checkpoints=3/3
+|team1time=3:13
+|team2side=A
+|team2checkpoints=0/3
+|team2time=5:03
+|team1side2=A
+|team2side2=D
+|win=1
+}}
+}}
+
+<!-- LOSER'S ROUND 1 -->
+|R1D17team=arise |R1D17score=4 |R1D17win=1
+|R1D18team=halcyon.gg |R1D18score=0 |R1D18win=
+
+|R1D19team=the flaming dragons |R1D19score=2 |R1D19win=
+|R1D20team=phantom |R1D20score=4 |R1D20win=1
+
+|R1D21team=veritas |R1D21score=4 |R1D21win=1
+|R1D22team=conor mcgregor |R1D22score=1 |R1D22win=
+
+|R1D23team=vigilante season |R1D23score=4 |R1D23win=1
+|R1D24team=optimal method gaming |R1D24score=2 |R1D24win=
+
+<!-- LOSER'S ROUND 2 -->
+|R2D1team=still here |R2D1score=4 |R2D1win=1
+|R2W9team=arise |R2W9score=0 |R2W9win=
+
+|R2D2team=gamersensei |R2D2score=5 |R2D2win=1
+|R2W10team=phantom |R2W10score=2 |R2W10win=
+
+|R2D3team=winky face |R2D3score=4 |R2D3win=1
+|R2W11team=veritas |R2W11score=0 |R2W11win=
+
+|R2D4team=team eggplant |R2D4score=5 |R2D4win=1
+|R2W12team=vigilante season |R2W12score=2 |R2W12win=
+
+<!-- LOSER'S ROUND 3 -->
+|R3W1team=still here |R3W1score=4 |R3W1win=1
+|R3W2team=gamersensei |R3W2score=1 |R3W2win=
+
+|R3W3team=winky face |R3W3score=3 |R3W3win=
+|R3W4team=team eggplant |R3W4score=4 |R3W4win=1
+
+<!-- LOSER'S ROUND 4 -->
+|R4D1team=colorado clutch |R4D1score=4 |R4D1win=1
+|R4W5team=still here |R4W5score=2 |R4W5win=
+|R4G3details={{BracketMatchSummary
+|date=May 29, 2016 - 20:40 {{abbr/EDT}}
+|stream=eSportsArena
+|finished=true
+|match1={{Match/old
+|map=Nepal
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=2
+}}
+|match2={{Match/old
+|map=Dorado
+|team1side=A
+|team1checkpoints=3/3
+|team1time=6:25
+|team2side=D
+|team2checkpoints=1/3
+|team2time=8:10
+|team1side2=D
+|team2side2=A
+|win=1
+}}
+|match3={{Match/old
+|map=Lijiang Tower
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+}}
+
+|R4D2team=gale force esports |R4D2score=4 |R4D2win=1
+|R4W6team=team eggplant |R4W6score=0 |R4W6win=
+|R4G4details={{BracketMatchSummary
+|date=May 29, 2016 - 21:45 {{abbr/EDT}}
+|stream=eSportsArena
+|finished=true
+|match1={{Match/old
+|map=King's Row
+|team1side=A
+|team1checkpoints=3/3
+|team1time=4:00
+|team2side=D
+|team2checkpoints=0/3
+|team2time=5:00
+|team1side2=D
+|team2side2=A
+|win=1
+}}
+|match2={{Match/old
+|map=Numbani
+|team1side=D
+|team1checkpoints=3/3
+|team1time=2:46
+|team2side=A
+|team2checkpoints=2/3
+|team2time=10:00
+|team1side2=A
+|team2side2=D
+|win=1
+}}
+}}
+
+<!-- LOSER'S SEMIFINALS -->
+|R5W1team=colorado clutch |R5W1score=2 |R5W1win=
+|R5W2team=gale force esports |R5W2score=4 |R5W2win=1
+|R5G1details={{BracketMatchSummary
+|date=May 29, 2016 - 22:30 {{abbr/EDT}}
+|stream=eSportsArena
+|finished=true
+|match1={{Match/old
+|map=King's Row
+|team1side=D
+|team1checkpoints=2/3
+|team1time=10:00
+|team2side=A
+|team2checkpoints=3/3
+|team2time=3:57
+|team1side2=A
+|team2side2=D
+|win=2
+}}
+|match2={{Match/old
+|map=Nepal
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+|match3={{Match/old
+|map=Dorado
+|team1side=D
+|team1checkpoints=0/3
+|team1time=6:45
+|team2side=A
+|team2checkpoints=3/3
+|team2time=8:20
+|team1side2=A
+|team2side2=D
+|win=2
+}}
+}}
+
+<!-- LOSER'S FINALS -->
+|R6D1team=team liquid |R6D1score=7 |R6D1win=1
+|R6W3team=gale force esports |R6W3score=5 |R6W3win=
+|R6G2details={{BracketMatchSummary
+|date=May 29, 2016 - 23:45 {{abbr/EDT}}
+|stream=eSportsArena
+|finished=true
+|match1={{Match/old
+|map=King's Row
+|team1side=A
+|team1checkpoints=3/3
+|team1time=6:47
+|team2side=D
+|team2checkpoints=3/3
+|team2time=8:15
+|team1side2=D
+|team2side2=A
+|win=1
+}}
+|match2={{Match/old
+|map=Numbani
+|team1side=A
+|team1checkpoints=3/3
+|team1time=4:17
+|team2side=D
+|team2checkpoints=3/3
+|team2time=6:06
+|team1side2=D
+|team2side2=A
+|win=1
+}}
+|match3={{Match/old
+|map=Watchpoint: Gibraltar
+|team1side=D
+|team1checkpoints=2/4
+|team1time=9:33
+|team2side=A
+|team2checkpoints=4/4
+|team2time=6:27
+|team1side2=A
+|team2side2=D
+|win=2
+}}
+|match4={{Match/old
+|map=Dorado
+|team1side=A
+|team1checkpoints=3/3
+|team1time=8:08
+|team2side=D
+|team2checkpoints=3/3
+|team2time=8:59
+|team1side2=D
+|team2side2=A
+|win=1
+}}
+|match5={{Match/old
+|map=Hollywood
+|team1side=D
+|team1checkpoints=
+|team1time=
+|team2side=A
+|team2checkpoints=0/3
+|team2time=5:05
+|team1side2=
+|team2side2=
+|win=1
+}}
+}}
+
+<!-- GRAND FINALS -->
+|R7W1team=c9 |R7W1score=6 |R7W1win=1
+|R7W2team=team liquid |R7W2score=3 |R7W2win=
+|R7G1details={{BracketMatchSummary
+|date=May 30, 2016 - 01:45 {{abbr/EDT}}
+|stream=eSportsArena
+|finished=true
+|match1={{Match/old
+|map=Lijiang Tower
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+|match2={{Match/old
+|map=King's Row
+|team1side=A
+|team1checkpoints=2/3
+|team1time=10:21
+|team2side=D
+|team2checkpoints=3/3
+|team2time=6:59
+|team1side2=D
+|team2side2=A
+|win=2
+}}
+|match3={{Match/old
+|map=Nepal
+|team1side=
+|team1checkpoints=
+|team1time=
+|team2side=
+|team2checkpoints=
+|team2time=
+|team1side2=
+|team2side2=
+|win=1
+}}
+
+}}
+
+
+<!-- EXTENDED SERIES (optional) -->
+|R7W1score2=
+|R7W2score2=
+}}
+
+==Additional Content==
+===VODs===
+* {{Flag/usuk}} [https://vods.co/overwatch?event=8120 VOD Playlist on vods.co]
+
+==References==
+{{Reflist}}

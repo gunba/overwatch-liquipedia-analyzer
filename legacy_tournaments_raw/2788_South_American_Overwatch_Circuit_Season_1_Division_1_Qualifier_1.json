@@ -1,0 +1,112 @@
+{
+    "tournament_info": [
+        {
+            "name": "South American Overwatch Circuit: Season 1 - Qualifier1",
+            "shortname": "SA OW Circuit S1 - Q1",
+            "image": "South America Overwatch Circuit logo.png",
+            "icon": "",
+            "series": "SAOC",
+            "tickername": "SAOC S1 - Division 1 - Q1",
+            "abbreviation": "",
+            "organizer": "South American Overwatch Circuit",
+            "organizer-link": "https://www.facebook.com/SAOverwatchLeague/",
+            "type": "Online",
+            "format": "Qualifiers <br> Single Elimination",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "",
+            "country": "South America",
+            "sdate": "2017-05-15",
+            "edate": "2017-05-16",
+            "liquipediatier": "4|liquipediatiertype=Qualifier",
+            "bracket": "https://battlefy.com/south-american-overwatch/overwatch-south-american-circuit-playoffs-to-primera-division/59134a9002575c03350d2a97/stage/59134aba1f9397033ce6635d/bracket/",
+            "twitch": "https://www.twitch.tv/laoverwatchcircuit",
+            "teamfirst": "Dogma Black",
+            "teamsecond": "Rebirth E-sports",
+            "teamthird": "Takers E-sports",
+            "teamthird2": "Centaurus Gaming",
+            "team_number": "7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Takers E-sports",
+            "image": "Takers logo.png",
+            "p1": "sdufen|p1flag=ar",
+            "p2": "Lunna|p2flag=ar",
+            "p3": "Shini|p3flag=ar",
+            "p4": "Kalito|p4flag=ar",
+            "p5": "drg|p5flag=ar",
+            "p6": "Sentinel|p6flag=ar",
+            "p7": "sh4dow|p7flag=ar",
+            "p8": "Shadowblaze|p8flag=ar"
+        },
+        {
+            "team": "Rebirth e-sports",
+            "image": "Rebirth eSports.png",
+            "p1": "Cougar|p1flag=cl",
+            "p2": "Ken|p2flag=cl|p2link=Ken (Chilian player)",
+            "p3": "Mesita|p3flag=cl",
+            "p4": "kkck|p4flag=cl",
+            "p5": "etjx|p5flag=cl",
+            "p6": "Carolai|p6flag=cl",
+            "p7": "Valkyrie|p7flag=cl",
+            "p8": "valha|p8flag=cl"
+        },
+        {
+            "team": "Dogma e-Sports",
+            "image": "dogma black.jpg",
+            "p1": "storm|p1flag=br",
+            "p2": "hideo|p2flag=br",
+            "p3": "Edigas|p3flag=br",
+            "p4": "kurt|p4flag=br",
+            "p5": "eXquisite|p5flag=br",
+            "p6": "rastller|p6flag=br",
+            "p7": "arth|p7flag=br",
+            "p8": "Tracker|p8flag=br",
+            "c": "KJusten|cflag=br"
+        },
+        {
+            "team": "Centaurus Gaming",
+            "image": "centaurus logo.jpg",
+            "p1": "AlexmaN |p1flag=ar",
+            "p2": "Hammer |p2flag=ar",
+            "p3": "izAvenge|p3flag=ar",
+            "p4": "Bastian|p4flag=ar",
+            "p5": "Agustecome|p5flag=ar",
+            "p6": "Helvoro|p6flag=ar",
+            "p7": "ElClarke|p7flag=ar",
+            "p8": "Metinero\u01f6|p8flag=ar"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "malvinas gaming e-sports",
+            "score2": "0",
+            "win2": "0",
+            "key": "R1D1",
+            "team1": "bye",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "centaurus gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "rebirth e-sports",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "dogma black",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "rebirth e-sports",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

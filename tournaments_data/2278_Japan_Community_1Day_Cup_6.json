@@ -1,0 +1,602 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Japan Community 1Day Cup #6",
+            "shortname": "Japan Community 1Day Cup #6",
+            "tickername": "Japan Community 1Day Cup #6",
+            "icon": "AKIHABARA ENCOUNT allmode.png",
+            "image": "AKIHABARA ENCOUNT allmode.png",
+            "series": "Japan Community 1Day Cup",
+            "abbreviation": "JPCC",
+            "organizer": "AKIHABARA ENCOUNT",
+            "sponsor": "[https://www.supercell-esports.com/ Supercell]",
+            "type": "Online",
+            "country": "japan",
+            "game": "overwatch2",
+            "prizepool": "30,000",
+            "localcurrency": "JPY",
+            "prizepoolusd": "222",
+            "date": "2022-07-02",
+            "twitter": "AKIBA_ENCOUNT",
+            "web": "",
+            "twitch": "akihabaraencount",
+            "discord": "",
+            "youtube": "",
+            "rulebook": "",
+            "bracket": "",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\uba40\ub791\ub9d0\ub791",
+            "opponent1_score": 1,
+            "opponent2": "GE",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Invincible",
+            "opponent1_score": 1,
+            "opponent2": "HGD",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\uba40\ub791\ub9d0\ub791",
+            "opponent1_score": 1,
+            "opponent2": "Invincible",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "GE",
+            "opponent1_score": 1,
+            "opponent2": "HGD",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\uba40\ub791\ub9d0\ub791",
+            "opponent1_score": 1,
+            "opponent2": "HGD",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "GE",
+            "opponent1_score": 0,
+            "opponent2": "Invincible",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "GE",
+            "opponent1_score": 1,
+            "opponent2": "Invincible",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M7="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "HGD",
+            "opponent1_score": 1,
+            "opponent2": "GE",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M8="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Invincible",
+            "opponent1_score": 0,
+            "opponent2": "HGD",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M9="
+        },
+        {
+            "bestof": "1",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Unicorn",
+            "opponent1_score": 1,
+            "opponent2": "JCB Esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Chlo\u00e9",
+            "opponent1_score": 1,
+            "opponent2": "NO Way",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Unicorn",
+            "opponent1_score": 1,
+            "opponent2": "Chlo\u00e9",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "JCB Esports",
+            "opponent1_score": 1,
+            "opponent2": "NO Way",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Unicorn",
+            "opponent1_score": 1,
+            "opponent2": "NO Way",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "JCB Esports",
+            "opponent1_score": 1,
+            "opponent2": "Chlo\u00e9",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "1",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\u3081\u30fc\u305d\u3093\u30a2\u30c3\u30d7\u30eb\u30ba",
+            "opponent1_score": 1,
+            "opponent2": "Alpha Bet",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "TXQFROG",
+            "opponent1_score": 1,
+            "opponent2": "FUNCUST",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\u3081\u30fc\u305d\u3093\u30a2\u30c3\u30d7\u30eb\u30ba",
+            "opponent1_score": 0,
+            "opponent2": "TXQFROG",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Alpha Bet",
+            "opponent1_score": 1,
+            "opponent2": "FUNCUST",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\u3081\u30fc\u305d\u3093\u30a2\u30c3\u30d7\u30eb\u30ba",
+            "opponent1_score": 0,
+            "opponent2": "FUNCUST",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Alpha Bet",
+            "opponent1_score": 0,
+            "opponent2": "TXQFROG",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\u3081\u30fc\u305d\u3093\u30a2\u30c3\u30d7\u30eb\u30ba",
+            "opponent1_score": 0,
+            "opponent2": "Alpha Bet",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M7="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "FUNCUST",
+            "opponent1_score": 1,
+            "opponent2": "Alpha Bet",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M8="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\u3081\u30fc\u305d\u3093\u30a2\u30c3\u30d7\u30eb\u30ba",
+            "opponent1_score": 0,
+            "opponent2": "FUNCUST",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M9="
+        },
+        {
+            "bestof": "1",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Unicorn",
+            "opponent1_score": 0,
+            "opponent2": "HGD",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "JCB Esports",
+            "opponent1_score": 1,
+            "opponent2": "FUNCUST",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "TXQFROG",
+            "opponent1_score": 1,
+            "opponent2": "HGD",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\uba40\ub791\ub9d0\ub791",
+            "opponent1_score": 1,
+            "opponent2": "JCB Esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "TXQFROG",
+            "opponent1_score": 0,
+            "opponent2": "\uba40\ub791\ub9d0\ub791",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

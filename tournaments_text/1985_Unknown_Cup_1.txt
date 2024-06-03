@@ -1,0 +1,365 @@
+{{DISPLAYTITLE:Unknown Cup - 1: Locking 2-2-2}}
+{{Unknown Cup Navbox}}
+{{tabs static
+|name1=Main Event|link1=Unknown Cup/1
+|name2= Qualifier|link2=Unknown Cup/1/Qualifier
+|This=1
+}}
+{{Infobox league
+|name=Unknown Cup - 1
+|image=Unknown Cup 1 logo.png
+|series=unknown cup
+|abbreviation=Unknown Cup
+|shortname=Unknown Cup - 1
+|tickername=Unknown Cup - 1
+|icon=Unknown Cup logo small.png
+|organizer=Qingrong
+|organizer2=海奥斯
+|sponsor=[[Qingrong]], [[海奥斯]], [[思思]], [[小猪]], [[RabbitVV]]
+|patch=1.38
+|country=China
+|type=online
+|city=
+|venue=
+|format=Single Elimination
+|prizepool=2,400
+|localcurrency=cny
+|prizepoolusd=347
+|sdate=2019-08-04
+|edate=2019-08-08
+|liquipediatier=5
+|web=
+|weibo=5782106799
+|stream=
+|twitch=
+|bracket=
+|team_number=8
+|previous=
+|next=Unknown Cup/2
+}}
+{{TOClimit|3}}
+
+==Information==
+
+===Format===
+*Single Elimination Bracket
+*Quarter-Final and Semi-Finals are {{Abbr/Bo3}}
+*The Final will be {{Abbr/Bo5}}
+*A 2-2-2 role lock is implemented in this tournament.
+
+===Qualification===
+*'''Top 6''' teams in average rankings of all the 10 applicants directly enter in the Main Event. 
+*The other 4 teams go into the Qualifier and the two winners advance to the Main Event.
+
+===Map Pool===
+{{box|start|padding=2em}}
+*'''Quarterfinals and Semifinals''':
+**1st Set: [[Control]]
+**2nd Set: [[Hybrid]] map
+**3rd Set: [[Assault]] map
+**4th Set: [[Escort]] map
+{{box|break|padding=2em}}
+*'''Final''':
+**1st Set: [[Control]]
+**2nd Set: [[Escort]] map
+**3rd Set: [[Hybrid]] map
+**4th Set: [[Assault]] map
+**5th Set: [[Control]] map
+{{box|end}}
+*'''Tiebreaker''': [[Control]]
+
+===Broadcast Talent===
+{{box|start|padding=1em}}
+====Chinese Broadcast====
+{{BroadcasterCard|lang=Chinese
+|position=Commentator
+|b1=Qingrong|b1name=Lu Qingrong|b1flag=cn
+|b2=Anastasia|b2name=|b2flag=cn
+|b3=海奥斯|b3name=|b3flag=cn
+|b4=Sekai|b4name=Dong Shijie|b4flag=cn
+|b5=Undead|b5name=Fang Chao|b5flag=cn
+}}
+{{box|end|padding=1em}}
+
+===Prize Pool===
+2,400 {{Abbr/CNY}} (~347 {{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start|localcurrency=cny}}
+{{prize pool slot|place=1|usdprize=174|localprize=1,200|unknown cn|lastvs1=神秘组织007 |lastscore1=4 |lastvsscore1=0  }}
+{{prize pool slot|place=2|usdprize=87|localprize=600|神秘组织007 |lastvs1=unknown cn |lastscore1=0 |lastvsscore1=4  }}
+{{prize pool slot|place=3  |usdprize=43|localprize=300|ltp |lastvs1=unknown cn  |lastscore1=0 |lastvsscore1=3}}
+{{prize pool slot|place=4  |usdprize=43|localprize=300|si|lastvs2=神秘组织007 |lastscore2=0 |lastvsscore2=3
+}}
+{{prize pool slot|place=5-8 |usdprize=0|localprize=0
+|惊天魔盗团|lastvs1=si |lastscore1=0 |lastvsscore1=2
+|tfv|lastvs2=神秘组织007 |lastscore2=0 |lastvsscore2=2
+|zenith of optimism|lastvs3=unknown cn |lastscore3=0 |lastvsscore3=2
+|esytt|lastvs4=ltp |lastscore4=0 |lastvsscore4=2
+}}
+{{Prize pool end}}
+''Conversion values taken from [http://www.xe.com xe.com] at 2019-08-04. 1 {{Abbr/CNY}} ≈ 0.1452 {{Abbr/USD}}''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=惊天魔盗团
+|image=惊天魔盗团 logo.png
+|p1=斗鱼丶分裂 |p1flag=cn |pos1=dps
+|p2=KDLov3HH |p2flag=cn |pos2=dps
+|p3=锦鲸的猪仔琉璃 |p3flag=cn |pos3=tank
+|p4=欧拉欧拉欧拉欧拉 |p4flag=cn |pos4=tank
+|p5=今天海佳上分了吗 |p5flag=cn |pos5=sup
+|p6=是修阿 |p6flag=cn |pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=SI
+|image=
+|p1=斗鱼丶爱国者  |p1flag=cn |pos1=dps
+|p2=KNIFEBAZI |p2flag=cn |pos2=dps
+|p3=PINEAPPLE |p3flag=cn |pos3=tank
+|p4=CH1CK |p4flag=cn |pos4=tank
+|p5=F1SH |p5flag=cn |pos5=sup
+|p6=CHIPSPEP|p6flag=cn |pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team For Victory
+|p1=Fish|p1flag=cn |pos1=dps
+|p2=Bible |p2flag=cn |pos2=dps
+|p3=Roadhog |p3flag=cn |pos3=tank|p3link=Roadhog (Chines Player)
+|p4=OR15A |p4flag=cn |pos4=tank
+|p5=Tutu|p5link=Tutu (Chinese player) |p5flag=cn |pos5=support
+|p6=Pakchoi|p6flag=cn |pos6=support
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=神秘组织007|link=Dusk Till Dawn
+|image=DTD logo.png
+|p1=SOZIP|p1flag=kr |pos1=dps
+|p2=TTACKER |p2flag=kr |pos2=dps
+|p3=MZ |p3flag=cn |pos3=dps
+|p4=JUSTWAY |p4flag=cn |pos4=tank|p4link=Ma_Jianan
+|p5=BinZzz |p5flag=cn |pos5=tank
+|p6=老子帅不帅 |p6flag=cn |pos6=tank|p6link=Gong_Zhengyu
+|p7=HARUHI |p7flag=cn |pos7=support
+|p8=SLIME|p8flag=cn |pos8=support|p8link=Zhan_Xiaozhuang
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Unknown
+|image=Unknown cn logo.png
+|p1=战旗丶清戎|p1flag=cn |pos1=dps
+|p2=斗鱼丶灿爷 |p2flag=cn |pos2=dps
+|p3=斗鱼丶壹如既往 |p3flag=cn |pos3=tank
+|p4=晚晚晚 |p4flag=cn |pos4=tank
+|p5=斗鱼丶土豆丝 |p5flag=cn |pos5=support
+|p6=YEYU98|p6flag=cn |pos6=support
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ESYTT
+|image=ESYTT logo.png
+|p1=Yoga|p1flag=cn |pos1=dps
+|p2=Eggs |p2flag=cn |pos2=dps
+|p3=Umi |p3flag=cn |pos3=tank
+|p4=SaoWe1 |p4flag=cn |pos4=tank
+|p5=B1nggn |p5flag=cn |pos5=sup
+|p6=ChuChu|p6flag=cn |pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Zenith of Optimism
+|image=ZOO logo fixed.png
+|p1=KYUKETSUKI|p1flag=cn |pos1=dps
+|p2=OVO |p2flag=cn |pos2=dps
+|p3=ROSESOUL |p3flag=cn |pos3=tank
+|p4=一事不为则太长  |p4flag=cn |pos4=tank
+|p5=ICESOUL |p5flag=cn |pos5=support
+|p6=INEEDHEALING |p6flag=cn |pos6=support
+|qualifier=Qualifier
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Like This Player
+|image=Like This Player logo.png 
+|p1=豿东西|p1flag=cn |pos1=dps
+|p2=Jimmy|p2link=Lei Yujia |p2flag=cn |pos2=dps
+|p3=Baji |p3flag=cn |pos3=tank
+|p4=Mer1in |p4flag=cn |pos4=tank
+|p5=M1ko |p5flag=cn |pos5=sup
+|p6=Rastel|p6flag=kr |pos6=sup
+|c=9duo
+|qualifier=Qualifier
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=6ql4r88X1O
+<!-- QUARTERFINALS -->
+|R1D1team=si |R1D1score=2 |R1D1win=1
+|R1D2team=惊天魔盗团 |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=August 5, 2019 - 19:00 {{Abbr/CST}}
+|stream=
+|finished=true
+|vod1=https://www.zhanqi.tv/v2/videos/1015720.html?from=roomVideo
+|vod2=https://www.zhanqi.tv/v2/videos/1015861.html?from=roomVideo
+|vodgame3=
+|map1=|map1score=2-1|map1win=1
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=神秘组织007 |R1D3score=2 |R1D3win=1
+|R1D4team=tfv |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=August 6, 2019 - 20:00 {{Abbr/CST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=|map1win=
+|map2=Hollywood|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=unknown cn |R1D5score=2 |R1D5win=1
+|R1D6team=zenith of optimism |R1D6score=0 |R1D6win=
+|R1G3details={{BracketMatchSummary 
+|date=August 6, 2019 - 19:00 {{Abbr/CST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Ilios|map1score=|map1win=
+|map2=Hollywood|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D7team=esytt |R1D7score=0 |R1D7win=
+|R1D8team=ltp |R1D8score=2 |R1D8win=1
+|R1G4details={{BracketMatchSummary 
+|date=August 5, 2019 - 20:00 {{Abbr/CST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R2W1team=si |R2W1score=FF |R2W1win=
+|R2W2team=神秘组织007 |R2W2score=W |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=August 8, 2019 - 17:00 {{Abbr/CST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+|comment=[[SI]] forfeit the game.
+}}
+|R2W3team=unknown cn |R2W3score=3 |R2W3win=1
+|R2W4team=ltp |R2W4score=0 |R2W4win=
+|R2G2details={{BracketMatchSummary 
+|date=August 8, 2019 - 19:00 {{Abbr/CST}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=Lijiang Tower|map1score=2-0|map1win=1
+|map2=Blizzard World|map2score=1-0|map2win=1
+|map3=Temple of Anubis|map3score=2-1|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R3W1team=神秘组织007 |R3W1score=0 |R3W1win=
+|R3W2team=unknown cn |R3W2score=4 |R3W2win=1
+|R3G1details={{BracketMatchSummary 
+|date=August 8, 2019 - 21:00 {{Abbr/CST}}
+|stream=
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/1023005.html?from=roomVideo
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- 3RD PLACE -->
+|R3D1team= |R3D1score= |R3D1win=
+|R3D2team= |R3D2score= |R3D2win=
+|R3G2details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+
+==Additional Content==
+===Streams===
+{| class="sortable wikitable" style="text-align:center;"
+|-style="background-color:#f3f3f3;"
+|-
+!width="60"|Language
+|width="40"|{{flag/cn}}
+|-
+!rowspan=5|Stream
+|{{ZhanqiIcon|link=873085626}}
+|-
+|{{ZhanqiIcon|link=873045050}}
+|-
+|{{HuyaIcon|link=11914502}}
+|-
+|{{StreamIcon|link=https://egame.qq.com/678882093}}
+|-
+|{{ZhanqiIcon|link=873069513}}
+|}
+
+===Videos===
+==Interviews==
+
+==External Links==
+*{{flag/cn}} [https://weibo.com/5782106799/I0dFB1Cse Anouncement]
+*{{flag/cn}} [https://weibo.com/5782106799/I0eDsFaaS Note]

@@ -1,0 +1,88 @@
+{
+    "tournament_info": [
+        {
+            "name": "King of the Hill #4",
+            "image": "",
+            "series": "ESL",
+            "organizer": "ESL",
+            "country": "North America",
+            "format": "",
+            "type": "Online",
+            "date": "2016-08-30",
+            "prizepoolusd": "1,000",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "twitch": "esl",
+            "twitch2": "",
+            "bracket": "http://play.eslgaming.com/overwatch/north-america/overwatch/major/koth-cup-4/rankings/",
+            "teamfirst": "faze",
+            "teamsecond": "teamofsnow",
+            "teamthird": "c9",
+            "teamthird2": "",
+            "team_number": "3",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "previous": "ESL/King_of_the_Hill/3{{!}}#3",
+            "next": "ESL/King_of_the_Hill/5{{!}}#5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "FaZe Clan",
+            "image": "",
+            "size": "",
+            "p1": "FCTFCTN |p1flag=us",
+            "p2": "zombs |p2flag=",
+            "p3": "TwoEasy |p3flag=",
+            "p4": "ShaDowBurn |p4flag=",
+            "p5": "Forsak3n |p5flag=",
+            "p6": "Rawkus |p6flag=",
+            "qualifier": "[[ESL/King_of_the_Hill/3|King #3]]"
+        },
+        {
+            "team": "TeamOfSnow",
+            "image": "",
+            "size": "",
+            "p1": "sinatraa |p1flag=us",
+            "p2": "Ajax |p2flag=us",
+            "p3": "Sherlockey |p3flag=us",
+            "p4": "Cheets |p4flag=us",
+            "p5": "Obasill |p5flag=ca",
+            "p6": "manOFsnow |p6flag=us",
+            "qualifier": "Open Qualifier"
+        },
+        {
+            "team": "Cloud9",
+            "image": "",
+            "size": "",
+            "p1": "Surefour",
+            "p2": "Adam",
+            "p3": "reaver",
+            "p4": "Grego",
+            "p5": "deBett",
+            "p6": "KyKy",
+            "qualifier": "Invited"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "c9",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "teamofsnow",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "teamofsnow",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "faze",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

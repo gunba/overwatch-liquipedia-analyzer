@@ -1,0 +1,301 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Altiora Trailblazers Charity Cup",
+            "shortname": "Altiora Trailblazers Charity Cup",
+            "tickername": "Altiora Trailblazers Charity Cup",
+            "image": "Altiora 2022 lightmode.png",
+            "imagedark": "Altiora 2022 darkmode.png",
+            "icon": "Altiora 2022 lightmode.png",
+            "icondark": "Altiora 2022 darkmode.png",
+            "organizer": "Altiora",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "prizepoolusd": "400",
+            "sdate": "2023-01-06",
+            "edate": "2023-01-08",
+            "twitter": "Altiora_Gaming",
+            "discord": "altiora",
+            "twitch": "Altiora_Gaming",
+            "rulebook": "https://altiora.gg/wp-content/uploads/2022/12/Overwatch-Altiora-Trailblazers-Cup-2023.pdf?v=1.0",
+            "bracket": "https://www.communitygaming.io/tournament/altiora-trailblazers01",
+            "team_number": "9",
+            "next": "Altiora Trailblazers Charity Cup/2 {{!}} Altiora Trailblazers Charity Cup #2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "LavaLillies",
+            "p1": "mad|p1flag=uk|pos1=dps",
+            "p2": "kleesa|p2flag=de|pos2=dps",
+            "p3": "jasmine|p3flag=de|pos3=tank",
+            "p4": "Swa|p4flag=nl|pos4=sup",
+            "p5": "saywerxd|p5flag=de|pos5=sup"
+        },
+        {
+            "team": "Purr-Suit",
+            "p1": "sabotabby|p1flag=uk|pos1=dps",
+            "p2": "DOMINIC|p2flag=uk|pos2=dps",
+            "p3": "cora|p3flag=de|pos3=tank",
+            "p4": "Quite|p4flag=uk|pos4=sup",
+            "p5": "noyasux|p5flag=uk|pos5=sup"
+        },
+        {
+            "team": "Alternate Untitled",
+            "p1": "kyliee|p1flag=us|pos1=dps",
+            "p2": "glitter|p2flag=us|pos2=dps",
+            "p3": "hazelle|p3flag=uk|pos3=tank",
+            "p4": "pandii|p4flag=de|pos4=sup",
+            "p5": "HowtoWASD|p5flag=de|pos5=sup"
+        },
+        {
+            "team": "Mythical Gaia",
+            "p1": "PoWer1|p1flag=uk|pos1=dps",
+            "p2": "Cynthia|p2flag=uk|pos2=dps",
+            "p3": "ushizi|p3flag=de|pos3=tank",
+            "p4": "ArcticFox|p4flag=uk|pos4=sup",
+            "p5": "Ruarc|p5flag=ie|pos5=sup"
+        },
+        {
+            "team": "Ramamas",
+            "p1": "Kjersti|p1flag=us|pos1=dps",
+            "p2": "Potatypus|p2flag=uk|pos2=dps",
+            "p3": "Terraaa|p3flag=us|pos3=tank",
+            "p4": "LOV3LEE|p4flag=uk|pos4=sup",
+            "p5": "Orpheus|p5flag=de|pos5=sup"
+        },
+        {
+            "team": "fun fact",
+            "p1": "j4smine|p1flag=uk|pos1=dps",
+            "p2": "Caromell|p2flag=ch|pos2=dps",
+            "p3": "fishplayingtetris|p3flag=uk|pos3=tank",
+            "p4": "faab|p4flag=fr|pos4=sup",
+            "p5": "Timaris|p5flag=de|pos5=sup"
+        },
+        {
+            "team": "Captchagony",
+            "p1": "wutt|p1flag=us|pos1=dps",
+            "p2": "Cereta|p2flag=be|pos2=dps",
+            "p3": "Kazzara|p3flag=de|pos3=tank",
+            "p4": "Saffrona|p4flag=us|pos4=sup",
+            "p5": "squirrelkind|p5flag=lu|pos5=sup"
+        },
+        {
+            "team": "Athens Armadillos",
+            "p1": "senna|p1flag=gr|pos1=dps",
+            "p2": "abby|p2flag=us|pos2=dps",
+            "p3": "m5ri|p3flag=us|pos3=tank",
+            "p4": "kiki!|p4flag=us|pos4=support",
+            "p5": "zPanthr|p5flag=us|pos5=support"
+        },
+        {
+            "team": "Blobfish from Stardew",
+            "p1": "Scarlettthello|p1flag=us|pos1=dps",
+            "p2": "mentally_boomed|p2flag=uk|pos2=dps",
+            "p3": "Zemrit|p3flag=us|pos3=tank",
+            "p4": "Doggo|p4flag=dk|pos4=sup",
+            "p5": "Santyx|p5flag=uk|pos5=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "January 6, 2023 - 18:30 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|mythical gaia|score=2}}",
+            "opponent2": "{{TeamOpponent|fun fact|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "bestof": "3",
+            "date": "January 6, 2023 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|blobfish from stardew|score=2}}",
+            "opponent2": "{{TeamOpponent|mythical gaia|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "January 6, 2023 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Alternate Untitled|score=2}}",
+            "opponent2": "{{TeamOpponent|captchagony|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "January 6, 2023 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|athens armadillos|score=2}}",
+            "opponent2": "{{TeamOpponent|ramamas|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "January 6, 2023 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|purr-suit|score=2}}",
+            "opponent2": "{{TeamOpponent|lavalillies|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "5",
+            "date": "January 7, 2023 - 14:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|blobfish from stardew|score=0}}",
+            "opponent2": "{{TeamOpponent|Alternate Untitled|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "January 7, 2023 - 14:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|athens armadillos|score=3}}",
+            "opponent2": "{{TeamOpponent|purr-suit|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "January 7, 2023 - 16:30 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Alternate Untitled|score=0}}",
+            "opponent2": "{{TeamOpponent|athens armadillos|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "January 7, 2023 - 14:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fun fact|score=0}}",
+            "opponent2": "{{TeamOpponent|lavalillies|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "January 7, 2023 - 16:30 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ramamas|score=2}}",
+            "opponent2": "{{TeamOpponent|lavalillies|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "January 7, 2023 - 16:30 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|captchagony|score=3}}",
+            "opponent2": "{{TeamOpponent|mythical gaia|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "January 7, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|blobfish from stardew|score=3}}",
+            "opponent2": "{{TeamOpponent|lavalillies|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M3="
+        },
+        {
+            "date": "January 7, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|purr-suit|score=3}}",
+            "opponent2": "{{TeamOpponent|captchagony|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M4="
+        },
+        {
+            "date": "January 8, 2023 - 14:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|blobfish from stardew|score=1}}",
+            "opponent2": "{{TeamOpponent|purr-suit|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "January 8, 2023 - 16:30 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Alternate Untitled|score=0}}",
+            "opponent2": "{{TeamOpponent|purr-suit|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M2="
+        },
+        {
+            "bestof": "7",
+            "date": "January 8, 2023 - 19:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|athens armadillos|score=4}}",
+            "opponent2": "{{TeamOpponent|purr-suit|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M1="
+        }
+    ]
+}

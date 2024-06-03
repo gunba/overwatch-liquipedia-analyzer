@@ -1,0 +1,206 @@
+{
+    "tournament_info": [
+        {
+            "name": "Vectorama 2017",
+            "image": "Vectorama logo.png",
+            "icon": "Vectorama logo.png",
+            "organizer": "Vectorama",
+            "organizer-link": "http://www.vectorama.info/",
+            "sponsor": "[http://esportsm.fi/ ESPORTSM.fi]",
+            "type": "Offline",
+            "country": "Finland",
+            "city": "Oulu",
+            "venue": "[http://www.ouka.fi/oulu/liikunta-ja-ulkoilu/oulun-jaahalli/ Oulun j\u00e4\u00e4halli]",
+            "prizepool": "2,210",
+            "localcurrency": "eur",
+            "prizepoolusd": "2,599",
+            "format": "Group Stage ({{Abbr/Bo3}})<br /> Single-Elimination Bracket ({{Abbr/Bo5}})",
+            "game": "overwatch",
+            "sdate": "2017-06-09 |edate= 2017-06-10",
+            "web": "https://tournaments.vectorama.info/tournaments/view/esportsm-fi-2017-overwatch-1-osakilpailu",
+            "teamfirst": "|teamsecond=   |teamthird= |teamthird2=",
+            "team_number": "5",
+            "liquipediatier": "{{TierText/3}}"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Aces",
+            "p1": "MrHamster|p1flag=fi",
+            "p2": "Ronski|p2flag=fi",
+            "p3": "Tipi|p3flag=fi",
+            "p4": "Ashieli|p4flag=fi",
+            "p5": "Desolator|p5flag=fi",
+            "p6": "KarvaRausku|p6flag=fi",
+            "c": "|cflag=fi",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "ENCE eSports",
+            "p1": "Trickwide|p1flag=fi",
+            "p2": "Ripa|p2flag=fi",
+            "p3": "BAITO|p3flag=fi",
+            "p4": "Lhcloudy|p4flag=fi",
+            "p5": "Cali|p5flag=fi",
+            "p6": "Rck|p6flag=fi",
+            "c": "|cflag=fi",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Helsinki REDS",
+            "p1": "Ruape|p1flag=fi",
+            "p2": "BBR|p2flag=fi",
+            "p3": "Kryma|p3flag=fi",
+            "p4": "prettyWise|p4flag=fi",
+            "p5": "Exceed|p5flag=fi",
+            "p6": "Woomera|p6flag=fi",
+            "c": "|cflag=fi",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Nerf Gaming",
+            "p1": "tonder|p1flag=fi",
+            "p2": "Fluestra|p2flag=fi",
+            "p3": "Kepa|p3flag=fi",
+            "p4": "Nitro|p4flag=fi|p4link=Nitro (Finnish player)",
+            "p5": "Sadisti|p5flag=fi",
+            "p6": "tappomasa666|p6flag=fi",
+            "c": "|cflag=fi",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Rynn\u00e4kk\u00f6viikset",
+            "p1": "nNeco|p1flag=fi",
+            "p2": "Kauko|p2flag=fi",
+            "p3": "Pave|p3flag=fi",
+            "p4": "Love|p4flag=fi|p4link=Love (Finnish player)",
+            "p5": "Zagaz|p5flag=fi",
+            "p6": "Fishir|p6flag=fi",
+            "c": "|cflag=fi",
+            "qualifier": "Invited"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "helsinki reds",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ence esports",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": [
+        {
+            "key": "match1",
+            "stream": "",
+            "date": "",
+            "finished": "true",
+            "team1": "aces",
+            "games1": "2",
+            "team2": "nerf gaming",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "stream": "",
+            "date": "",
+            "finished": "true",
+            "team1": "helsinki reds",
+            "games1": "0",
+            "team2": "ence esports",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match3",
+            "stream": "",
+            "date": "",
+            "finished": "true",
+            "team1": "aces",
+            "games1": "0",
+            "team2": "rynn\u00e4kk\u00f6viikset",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "stream": "",
+            "date": "",
+            "finished": "true",
+            "team1": "helsinki reds",
+            "games1": "2",
+            "team2": "nerf gaming",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "stream": "",
+            "date": "",
+            "finished": "true",
+            "team1": "aces",
+            "games1": "0",
+            "team2": "helsinki reds",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match6",
+            "stream": "",
+            "date": "",
+            "finished": "true",
+            "team1": "ence esports",
+            "games1": "2",
+            "team2": "rynn\u00e4kk\u00f6viikset",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match7",
+            "stream": "",
+            "date": "",
+            "finished": "true",
+            "team1": "aces",
+            "games1": "0",
+            "team2": "ence esports",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match8",
+            "stream": "",
+            "date": "",
+            "finished": "true",
+            "team1": "nerf gaming",
+            "games1": "0",
+            "team2": "rynn\u00e4kk\u00f6viikset",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match9",
+            "stream": "",
+            "date": "",
+            "finished": "true",
+            "team1": "nerf gaming",
+            "games1": "0",
+            "team2": "ence esports",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match10",
+            "stream": "",
+            "date": "",
+            "finished": "true",
+            "team1": "rynn\u00e4kk\u00f6viikset",
+            "games1": "1",
+            "team2": "helsinki reds",
+            "games2": "2",
+            "winner": "2"
+        }
+    ]
+}

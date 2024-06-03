@@ -1,0 +1,255 @@
+{
+    "tournament_info": [
+        {
+            "name": "ESL Community Cup #1 Europe",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "ESL Community Cup Europe",
+            "shortname": "1",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "type": "Online",
+            "game": "Overwatch",
+            "date": "2016-02-22",
+            "prizepoolusd": "",
+            "twitch": "https://www.twitch.tv/esl_overwatch",
+            "twitch2": "https://www.twitch.tv/esl_alphacast",
+            "twitch3": "",
+            "bracket": "",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "15",
+            "next": "ESL/Community_Cup/Europe/2{{!}}#2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Cooldown",
+            "p1": "Beniii |p1flag=fr",
+            "p2": "Exon |p2flag=fr",
+            "p3": "Hidan |p3flag=fr",
+            "p4": "Hysteriaz |p4flag=fr",
+            "p5": "T-Mac |p5flag=fr",
+            "p6": "Tek36 |p6flag=fr"
+        },
+        {
+            "team": "Evokate Gaming",
+            "p1": "DaGonz |p1flag=fr",
+            "p2": "KillAri |p2flag=be",
+            "p3": "Origo |p3flag=fr",
+            "p4": "cami |p4flag=fr",
+            "p5": "odKINS |p5flag=fr",
+            "p6": "wourson |p6flag=fr"
+        },
+        {
+            "team": "eXception",
+            "p1": "Fliven |p1flag=fr",
+            "p2": "Healeven |p2flag=fr",
+            "p3": "Pixy |p3flag=fr",
+            "p4": "Raszagal |p4flag=fr",
+            "p5": "Tchija |p5flag=fr",
+            "p6": "Wiiky |p6flag=fr"
+        },
+        {
+            "team": "IDDQD",
+            "p1": "HarryHook |p1flag=es",
+            "p2": "INTERNETHULK |p2flag=de",
+            "p3": "Taimou |p3flag=fi",
+            "p4": "TviQ |p4flag=se",
+            "p5": "chipshajen |p5flag=se",
+            "p6": "cocco |p6flag=se"
+        },
+        {
+            "team": "melty eSport Club",
+            "p1": "DeGuN |p1flag=fr",
+            "p2": "KabaL |p2flag=fr",
+            "p3": "Kryw |p3flag=fr",
+            "p4": "NiCOgdh |p4flag=fr",
+            "p5": "Baud |p5flag=be",
+            "p6": "moonL |p6flag=fr"
+        },
+        {
+            "team": "Mercenary",
+            "p1": "Hallay |p1flag=fr",
+            "p2": "Kall |p2flag=fr",
+            "p3": "NedH |p3flag=fr",
+            "p4": "Tenicron |p4flag=fr",
+            "p5": "draxen |p5flag=fr",
+            "p6": "ounga |p6flag=fr"
+        },
+        {
+            "team": "PROJECT X",
+            "p1": "Latrommi |p1flag=ru",
+            "p2": "COOLLER|p2flag=ru",
+            "p3": "Anarkidorf |p3flag=ru",
+            "p4": "cas |p4flag=ru",
+            "p5": "Rell |p5flag=ru",
+            "p6": "Pavel |p6flag=ru"
+        },
+        {
+            "team": "The Click Effect",
+            "p1": "Kijara Peach |p1flag=de",
+            "p2": "Rafel |p2flag=de",
+            "p3": "Richimm1 |p3flag=de",
+            "p4": "T.H. |p4flag=ch",
+            "p5": "click |p5flag=ch",
+            "p6": "m4x0rz |p6flag=de"
+        },
+        {
+            "team": "Vaevictis eSports",
+            "p1": "Lover |p1flag=ru",
+            "p2": "lkaby |p2flag=ru",
+            "p3": "OverKarma |p3flag=ru",
+            "p4": "Podkradyxa |p4flag=ua",
+            "p5": "clozz |p5flag=by",
+            "p6": "Svetaska |p6flag=ru"
+        },
+        {
+            "team": "Team OnlyWatch",
+            "p1": "Ogmate |p1flag=fr",
+            "p2": "Ptiwiki |p2flag=fr",
+            "p3": "Sensei Onisuka |p3flag=fr",
+            "p4": "WhiTeFire |p4flag=fr",
+            "p5": "nujaMagic |p5flag=lt",
+            "p6": "silo |p6flag=fr"
+        },
+        {
+            "team": "PiPou Crew",
+            "p1": "Nadir |p1flag=ch",
+            "p2": "PipouVac |p2flag=fr",
+            "p3": "Sanchez |p3flag=de",
+            "p4": "Veineless |p4flag=de",
+            "p5": "dodgydogman |p5flag=uk",
+            "p6": "reinforce |p6flag=se"
+        },
+        {
+            "team": "Randoms",
+            "p1": "Chemicals |p1flag=fi",
+            "p2": "NeverGuess |p2flag=gr",
+            "p3": "RandomHero |p3flag=za",
+            "p4": "Ruffael |p4flag=uk",
+            "p5": "Zoan |p5flag=nl",
+            "p6": "zrudo |p6flag=dk"
+        },
+        {
+            "team": "Les gateaux secs",
+            "p1": "Alpha |p1flag=fr|p1link=Alpha (French player)",
+            "p2": "Krappoplay |p2flag=fr",
+            "p3": "Manaberry |p3flag=cz",
+            "p4": "Troma |p4flag=fr",
+            "p5": "Yob |p5flag=de",
+            "p6": "sansushi |p6flag=fr"
+        },
+        {
+            "team": "REUNITED.gg",
+            "p1": "Mendokusaii |p1flag=se",
+            "p2": "Morte |p2flag=nl",
+            "p3": "2Easy |p3flag=nl",
+            "p4": "Winghaven |p4flag=es",
+            "p5": "uNFixed |p5flag=ru",
+            "p6": "Vallutaja |p6flag=ee"
+        },
+        {
+            "team": "The Only Exception",
+            "p1": "AnjhU |p1flag=es",
+            "p2": "BlackCT |p2flag=es",
+            "p3": "Ciclon |p3flag=es",
+            "p4": "SieerrA |p4flag=es",
+            "p5": "Yerini |p5flag=es",
+            "p6": "daRkArRa |p6flag=es"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "opponent1": "{{TeamOpponent|the click effect|score=0}}",
+            "opponent2": "{{TeamOpponent|team onlywatch|score=1}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|pipou crew|score=1}}",
+            "opponent2": "{{TeamOpponent|randoms|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "|date=February 22, 2016",
+            "opponent1": "{{TeamOpponent|project x|score=0}}",
+            "opponent2": "{{TeamOpponent|iddqd|score=1}}",
+            "map1": "{{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=2}}",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|cooldown|score=1}}",
+            "opponent2": "{{TeamOpponent|exception|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|vaevictis esports|score=0}}",
+            "opponent2": "{{TeamOpponent|evokate gaming|score=1}}",
+            "optional": "R1M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|mercenary|score=1}}",
+            "opponent2": "{{TeamOpponent|les gateaux secs|score=0}}",
+            "optional": "R1M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent|the only exception|score=0}}",
+            "opponent2": "{{TeamOpponent|reunited.gg|score=1}}",
+            "optional": "R1M7="
+        },
+        {
+            "opponent1": "{{TeamOpponent|melty|score=1}}",
+            "opponent2": "{{TeamOpponent|team onlywatch|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "February 22, 2016",
+            "opponent1": "{{TeamOpponent|pipou crew|score=0}}",
+            "opponent2": "{{TeamOpponent|iddqd|score=1}}",
+            "map1": "{{Map|map=Volskaya Industries|mode=Assault|score1=|score2=|winner=2}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|cooldown|score=0}}",
+            "opponent2": "{{TeamOpponent|evokate gaming|score=1}}",
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|mercenary|score=0}}",
+            "opponent2": "{{TeamOpponent|reunited.gg|score=1}}",
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "3",
+            "date": "February 22, 2016",
+            "opponent1": "{{TeamOpponent|melty}}",
+            "opponent2": "{{TeamOpponent|iddqd}}",
+            "map1": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=|score2=|winner=2}}",
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|evokate gaming|score=0}}",
+            "opponent2": "{{TeamOpponent|reunited.gg|score=2}}",
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "5",
+            "date": "February 22, 2016",
+            "opponent1": "{{TeamOpponent|iddqd}}",
+            "opponent2": "{{TeamOpponent|reunited.gg}}",
+            "map1": "{{Map|map=Numbani|mode=Hybrid|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=Dorado|mode=Escort|score1=|score2=|winner=2}}",
+            "map3": "{{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=1}}",
+            "map4": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=|score2=|winner=2}}",
+            "map5": "{{Map|map=Hanamura|mode=Assault|score1=|score2=|winner=draw}}",
+            "map6": "{{Map|map=Dorado|mode=Escort|score1=|score2=|winner=1}}",
+            "optional": "R4M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|melty|score=3}}",
+            "opponent2": "{{TeamOpponent|evokate gaming|score=0}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Monthly",
+            "abbreviation": "MGA",
+            "name": "MGA Community Overwatch Series #2",
+            "shortname": "MGA COS #2",
+            "tickername": "MGA Community Overwatch Series #2",
+            "icon": "MGA USA League icon.png",
+            "image": "MGA USA League.png",
+            "series": "MGA Community Overwatch Series",
+            "organizer": "MSI",
+            "organizer-link": "https://us.msi.com",
+            "type": "Online",
+            "country": "North America",
+            "format": "Single Elimination",
+            "prizepoolusd": "700",
+            "date": "2020-03-14",
+            "rulebook": "https://battlefy.com/msi-gaming-arena/700-usd-mga-community-overwatch-series-2/5e271c99b5eb04160ecd35f2/info?infoTab=rules",
+            "bracket": "https://battlefy.com/msi-gaming-arena/700-usd-mga-community-overwatch-series-2/5e271c99b5eb04160ecd35f2/stage/5e6d70fae2f5fe1081b0753a/bracket/",
+            "team_number": "41",
+            "previous": "MGA Community Overwatch Series/1{{!}}#1",
+            "next": "MGA Community Overwatch Series/3{{!}}#3"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Odyssey",
+            "p1": "Aloka|p1flag=us|pos1=dps",
+            "p2": "Dynasty|p2flag=|pos2=dps",
+            "p3": "RhynO|p3flag=|pos3=tank",
+            "p4": "Fosmanx|p4flag=us|pos4=tank",
+            "p5": "FishCake|p5flag=|pos5=sup",
+            "p6": "IceKing|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Citizens",
+            "p1": "Zeus|p1flag=ca|pos1=dps",
+            "p2": "Boat|p2flag=us|pos2=dps",
+            "p3": "Koreansnack|p3flag=us|pos3=tank",
+            "p4": "PG1|p4flag=us|pos4=tank",
+            "p5": "Mercio|p5flag=ca|pos5=sup",
+            "p6": "squid|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "jVenom|t2c1pos=coach"
+        },
+        {
+            "team": "Melody",
+            "p1": "Rawry|p1flag=us|pos1=dps",
+            "p2": "Afro|p2flag=us|pos2=dps",
+            "p3": "wutt|p3flag=us|pos3=dps",
+            "p4": "Mercedes|p4flag=us|pos4=dps",
+            "p5": "Jolfe|p5flag=|pos5=tank",
+            "p6": "TrainCloud|p6flag=us|pos6=tank",
+            "p7": "Fallen|p7flag=us|pos7=sup|p7link=Fallen (American Player)",
+            "p8": "Rakattack|p8flag=|pos8=sup"
+        },
+        {
+            "team": "POWERHAUS",
+            "p1": "Durzi|p1flag=|pos1=",
+            "p2": "PoisonFlamez|p2flag=|pos2=",
+            "p3": "Cart|p3flag=|pos3=",
+            "p4": "Flair|p4flag=|pos4=",
+            "p5": "Luminous|p5flag=|pos5=",
+            "p6": "OptimalShot|p6flag=|pos6=",
+            "p7": "Neuro|p7flag=|pos7=",
+            "p8": "V\u0114GA|p8flag=|pos8=|p8link=Vega"
+        },
+        {
+            "team": "Karasuno",
+            "p1": "Far|p1flag=|pos1=dps",
+            "p2": "ChineseFood|p2flag=us|pos2=dps",
+            "p3": "Schiz|p3flag=|pos3=tank",
+            "p4": "False|p4flag=|pos4=tank",
+            "p5": "Reo|p5flag=us|pos5=sup",
+            "p6": "Fix|p6flag=|pos6=sup"
+        },
+        {
+            "team": "Forsythe Academy",
+            "p1": "Mystro|p1flag=|pos1=",
+            "p2": "PieDasher|p2flag=|pos2=",
+            "p3": "Epicgamrgirl|p3flag=|pos3=",
+            "p4": "\u010aoscos|p4flag=|pos4=",
+            "p5": "Lion8769|p5flag=|pos5=",
+            "p6": "Wolfy|p6flag=|pos6=",
+            "p7": "karmez|p7flag=|pos7=",
+            "p8": "Engage|p8flag=|pos8="
+        },
+        {
+            "team": "The Dojo",
+            "p1": "lzuma|p1flag=us|pos1=dps",
+            "p2": "Tuna|p2flag=in|pos2=dps",
+            "p3": "Economy|p3flag=us|pos3=tank",
+            "p4": "Samaritan|p4flag=us|pos4=tank",
+            "p5": "Rammy|p5flag=us|pos5=sup",
+            "p6": "Nifikins|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Celtic Cross",
+            "p1": "UIGohan|p1flag=us|pos1=dps",
+            "p2": "TBoogy|p2flag=us|pos2=dps",
+            "p3": "BigNick|p3flag=us|pos3=tank",
+            "p4": "Vintagio|p4flag=ca|pos4=tank",
+            "p5": "Dhillon|p5flag=ca|pos5=tank",
+            "p6": "Paradoxed|p6flag=us|pos6=sup",
+            "p7": "Lunaruu|p7flag=us|pos7=sup"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Celtic Cross",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "Odyssey",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "The Dojo",
+            "score2": "1",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "Citizens",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "The Dojo",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "Melody",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Karasuno",
+            "score2": "1",
+            "win2": "1",
+            "key": "R3D1",
+            "team1": "Citizens",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

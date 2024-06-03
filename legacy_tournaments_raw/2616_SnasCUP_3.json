@@ -1,0 +1,312 @@
+{
+    "tournament_info": [
+        {
+            "name": "SnasCUP3",
+            "shortname": "SnasCUP3",
+            "image": "SnasCUP logo.png",
+            "series": "SnasCUP",
+            "abbreviation": "SnasCUP",
+            "tickername": "SnasCUP3",
+            "organizer": "SnasGG",
+            "organizer-link": "https://twitter.com/snasgg",
+            "sponsor": "[http://www.redcomputer.es/ Red Computer]<br>[https://twitter.com/OverGamersES OverGamers]",
+            "type": "Online",
+            "country": "Spain",
+            "city": "Madrid",
+            "format": "'''Playoffs''':<br>Double Elimination<br>",
+            "game": "overwatch",
+            "prizepool": "90",
+            "localcurrency": "eur",
+            "prizepoolusd": "96",
+            "sdate": "2017-01-21",
+            "edate": "2017-01-22",
+            "liquipediatier": "5|liquipediatiertype=Monthly",
+            "web": "http://www.snasgg.com/",
+            "bracket": "https://challonge.com/snascup3",
+            "twitch": "regorsnas",
+            "teamfirst": "tempest",
+            "teamsecond": "overkill",
+            "teamthird": "focusmercy",
+            "teamthird2": "ignition",
+            "team_number": "16",
+            "previous": "SnasCUP/2{{!}}SnasCUP2",
+            "next": "SnasCUP/4{{!}}SnasCUP4"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "SalutateMortuis",
+            "p1": "GGIziPanda|p1flag=es",
+            "p2": "Blue|p2flag=es",
+            "p3": "AfroSunBro|p3flag=es",
+            "p4": "Megalofreak|p4flag=es",
+            "p5": "masterblade|p5flag=es",
+            "p6": "Crusty|p6flag=es"
+        },
+        {
+            "team": "OKGG",
+            "p1": "Sieglinde|p1flag=es",
+            "p2": "Ildexz|p2flag=es",
+            "p3": "Xerlor|p3flag=es",
+            "p4": "Totoropls|p4flag=es",
+            "p5": "Oppaimaster|p5flag=es",
+            "p6": "Pchan|p6flag=es"
+        },
+        {
+            "team": "OverKill",
+            "p1": "Shayna|p1flag=es",
+            "p2": "Niinja|p2flag=es",
+            "p3": "Ubina8|p3flag=es",
+            "p4": "Kaarosu|p4flag=es",
+            "p5": "Brishna|p5flag=es",
+            "p6": "Sujamaker|p6flag=es",
+            "p7": "Cicl\u00f3n|p7flag=es"
+        },
+        {
+            "team": "Hot Monkeys",
+            "p1": "Nikitah|p1flag=es",
+            "p2": "PainZretx|p2flag=es",
+            "p3": "Casas|p3flag=es",
+            "p4": "Tibix|p4flag=es",
+            "p5": "Enmadou|p5flag=es",
+            "p6": "Puti|p6flag=es"
+        },
+        {
+            "team": "Tu padre es mi abuelo",
+            "p1": "Erner0|p1flag=es",
+            "p2": "Denna|p2flag=es",
+            "p3": "Tormenta|p3flag=es",
+            "p4": "iFaile|p4flag=es",
+            "p5": "Sousamaestro|p5flag=es",
+            "p6": "Darka|p6flag=es"
+        },
+        {
+            "team": "Valhalla Warriors",
+            "p1": "alexgalaxy24|p1flag=es",
+            "p2": "Eliimore|p2flag=es",
+            "p3": "Empunker|p3flag=es",
+            "p4": "Kraix|p4flag=es",
+            "p5": "XjuanbyX|p5flag=es",
+            "p6": "Yelmax|p6flag=es"
+        },
+        {
+            "team": "NixGaming",
+            "p1": "delok21|p1flag=es",
+            "p2": "Valaniel|p2flag=es",
+            "p3": "Kaito|p3flag=es",
+            "p4": "Neko|p4flag=es",
+            "p5": "Kaze|p5flag=es",
+            "p6": "Riku|p6flag=es"
+        },
+        {
+            "team": "Quality Core",
+            "p1": "PGuijarroV|p1flag=es",
+            "p2": "Micky|p2flag=es",
+            "p3": "Galante12|p3flag=es",
+            "p4": "El\u00e9ctriko|p4flag=es",
+            "p5": "Adricultor|p5flag=es",
+            "p6": "Cryhzz|p6flag=es"
+        },
+        {
+            "team": "FocusMercy",
+            "p1": "Poncharro|p1flag=es",
+            "p2": "balterk|p2flag=es",
+            "p3": "akira|p3flag=es",
+            "p4": "selvin|p4flag=es",
+            "p5": "shelo|p5flag=es",
+            "p6": "reiiloko|p6flag=es"
+        },
+        {
+            "team": "Pokimon Masters",
+            "p1": "Adreimar|p1flag=es",
+            "p2": "Requena99|p2flag=es",
+            "p3": "Alexsego7|p3flag=es",
+            "p4": "Slevinqueen|p4flag=es",
+            "p5": "Jesus3223|p5flag=es",
+            "p6": "Currumbelere|p6flag=es"
+        },
+        {
+            "team": "Fuego Cruzado",
+            "p1": "Minimaligno|p1flag=es",
+            "p2": "infernado73|p2flag=es",
+            "p3": "darkoj|p3flag=es",
+            "p4": "Maarcdk|p4flag=es",
+            "p5": "Gerjo|p5flag=es",
+            "p6": "player002|p6flag=es"
+        },
+        {
+            "team": "Tempest eSports",
+            "p1": "Jorner|p1flag=es",
+            "p2": "GoofyGoober|p2flag=es",
+            "p3": "MrSugus|p3flag=es",
+            "p4": "Snacky2|p4flag=es",
+            "p5": "Mu3rTe|p5flag=es",
+            "p6": "Sorori|p6flag=es"
+        },
+        {
+            "team": "iGnition",
+            "p1": "dAvidB|p1flag=es",
+            "p2": "Oso|p2flag=es",
+            "p3": "junsilis9|p3flag=es",
+            "p4": "DEveSA|p4flag=es",
+            "p5": "LoxarNP|p5flag=es",
+            "p6": "Tezzeret|p6flag=es"
+        },
+        {
+            "team": "PlayMight Gaming",
+            "p1": "Mada|p1flag=es",
+            "p2": "Tuerck|p2flag=es",
+            "p3": "Zael|p3flag=es",
+            "p4": "Sayochan|p4flag=es",
+            "p5": "Molex|p5flag=es",
+            "p6": "Kaoskun|p6flag=es"
+        },
+        {
+            "team": "HydraNix",
+            "p1": "SaYpeZ|p1flag=es",
+            "p2": "Genji|p2flag=es|p2link=Genji (Spanish player)",
+            "p3": "pizcu|p3flag=es",
+            "p4": "Neonsaid|p4flag=es",
+            "p5": "Sk\u00cft|p5flag=es",
+            "p6": "IslaMallorca|p6flag=es"
+        },
+        {
+            "team": "Sexi Bananas",
+            "p1": "luka7696|p1flag=es",
+            "p2": "Darkwalker|p2flag=es",
+            "p3": "SoyAngel|p3flag=es",
+            "p4": "JaviXlOl|p4flag=es",
+            "p5": "SrMiranda|p5flag=es",
+            "p6": "WOOLD|p6flag=es"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "sexi bananas",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "salutatemortuis",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "hydranix",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "salutatemortuis",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ignition",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "overkill",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "date": "January 22, 2017 - 20:00 {{Abbr/CET}}",
+            "finished": "true",
+            "team2": "tempest esports",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R6W1",
+            "team1": "overkill",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "sexi bananas",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D17",
+            "team1": "valhalla warriors",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "sexi bananas",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "hydranix",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "salutatemortuis",
+            "score2": "1",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "hot monkeys",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "January 22, 2017 - 17:00 {{Abbr/CET}}",
+            "finished": "true",
+            "team2": "focusmercy",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R4D1",
+            "team1": "tu padre es mi abuelo",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "date": "January 22, 2017 - 18:00 {{Abbr/CET}}",
+            "finished": "true",
+            "team2": "salutatemortuis",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R4D2",
+            "team1": "ignition",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "January 22, 2017 - 19:00 {{Abbr/CET}}",
+            "finished": "true",
+            "team2": "ignition",
+            "score2": "1",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R5W1",
+            "team1": "focusmercy",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "January 22, 2017 - 21:00 {{Abbr/CET}}",
+            "finished": "true",
+            "team2": "focusmercy",
+            "score2": "1",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R6D1",
+            "team1": "tempest esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "January 22, 2017 - 22:00 {{Abbr/CET}}",
+            "finished": "true",
+            "team2": "tempest esports",
+            "score2": "3",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R7W1",
+            "team1": "overkill",
+            "score1": "2",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

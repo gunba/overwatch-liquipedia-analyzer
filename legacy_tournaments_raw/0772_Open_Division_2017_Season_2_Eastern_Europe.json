@@ -1,0 +1,173 @@
+{
+    "tournament_info": [
+        {
+            "name": "Open Division 2017 Season 2 - Eastern Europe",
+            "shortname": "OD 2017 S2 - EU East",
+            "image": "Open Division.png",
+            "icon": "Open Division small.png",
+            "series": "Open Division",
+            "abbreviation": "Open Division",
+            "tickername": "Open Division 2017 S2 - EU East",
+            "organizer": "Starladder",
+            "organizer2": "Blizzard",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Europe",
+            "city": "",
+            "format": "",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "",
+            "date": "2017-10-29",
+            "liquipediatier": "{{TierText/4}}",
+            "web": "https://overwatch.starladder.com/ru/season2",
+            "twitter": "owstarladder",
+            "vk": "overwatchstarladder",
+            "youtube": "overwatchstarladder",
+            "bracket": "",
+            "bracket2": "",
+            "twitch": "tengu_ow",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "18"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "VTILTE",
+            "image": "",
+            "p1": "Vlad |p1flag=ru |pos1=",
+            "p2": "flammable |p2flag=ru |pos2=",
+            "p3": "Alchal |p3flag=ru |pos3=",
+            "p4": "setosYn |p4flag=ru |pos4=",
+            "p5": "PULYA |p5flag=ru |pos5=",
+            "p6": "rez |p6flag=ru |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (1)"
+        },
+        {
+            "team": "SWAGSTION",
+            "image": "SWAGSTION logo.png",
+            "p1": "Outbreak |p1flag=ru |pos1=",
+            "p2": "Drus |p2flag=ru |pos2=",
+            "p3": "Stanyyy |p3flag=ru |pos3=",
+            "p4": "Bezpalivo |p4flag=ru |pos4=",
+            "p5": "SleepingBear |p5flag=ru |pos5=",
+            "p6": "Ptenchik |p6flag=ee |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (2)"
+        },
+        {
+            "team": "Bomjur",
+            "p1": "KRUSHER99 |p1flag=ru |pos1=",
+            "p2": "Noname |p2flag=ru |pos2=",
+            "p3": "VladiF |p3flag=ru |pos3=",
+            "p4": "Dogestan |p4flag=ru |pos4=",
+            "p5": "Rafoo |p5flag=fr |pos5=",
+            "p6": "Bester2z |p6flag=ru |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (2)"
+        },
+        {
+            "team": "NULL SECTOR",
+            "p1": "Miou |p1flag=ru |pos1=",
+            "p2": "BORIS |p2flag=ua |pos2=",
+            "p3": "\u0417\u0430\u041e\u0440\u0434\u0443 |p3flag=ru |pos3=",
+            "p4": "Radfar |p4flag=il |pos4=",
+            "p5": "TheAlh |p5flag=ru |pos5=",
+            "p6": "Xaopa |p6flag=ru |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (4)"
+        },
+        {
+            "team": "EKSDEE",
+            "image": "EKSDEE logo.png",
+            "p1": "DronXD |p1flag=cy |pos1=",
+            "p2": "NORGAC |p2flag=ru |pos2=",
+            "p3": "xenon |p3flag=ru |pos3=",
+            "p4": "Asanh |p4flag=ru |pos4=",
+            "p5": "LimTeam |p5flag=ru |pos5=",
+            "p6": "ReaganZZ |p6flag=ru |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (4)"
+        },
+        {
+            "team": "#RakiDushat",
+            "link": "RakiDushat",
+            "image": "RakiDushat Logo.png",
+            "p1": "Thalion |p1flag=ru |pos1=",
+            "p2": "StrikerMan |p2flag=ru |pos2=",
+            "p3": "reboot |p3flag=ru |pos3=",
+            "p4": "Azunay |p4flag=ru |pos4=",
+            "p5": "Skiper76 |p5flag=ru |pos5=",
+            "p6": "Xopo |p6flag=ru |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (4)"
+        },
+        {
+            "team": "BadBananas",
+            "image": "BadBananas logo.png",
+            "p1": "Hobbit |p1flag=ru |pos1=",
+            "p2": "bombordir |p2flag=ru |pos2=",
+            "p3": "KatrinLukas |p3flag=ua |pos3=",
+            "p4": "Duuumpling |p4flag=ru |pos4=",
+            "p5": "CynicEye |p5flag=ru |pos5=",
+            "p6": "happieh |p6flag=ru |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (4)"
+        },
+        {
+            "team": "StormRoosters",
+            "image": "StormRoosters logo.png",
+            "p1": "selfeater |p1flag=ru |pos1=",
+            "p2": "Meiling |p2flag=ru |pos2=",
+            "p3": "StiLL |p3flag=ua |pos3=",
+            "p4": "Wizardhat |p4flag=ru |pos4=",
+            "p5": "\u0422\u0430\u0439\u043d\u043e\u041a\u0440\u0430\u0431 |p5flag=ru |pos5=",
+            "p6": "Kolay |p6flag=ru |pos6=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (4)"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "badbananas",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "vtilte",
+            "score1": "4",
+            "win1": "1"
+        },
+        {
+            "team2": "swagstion",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "vtilte",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "swagstion",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "vtilte",
+            "score1": "4",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

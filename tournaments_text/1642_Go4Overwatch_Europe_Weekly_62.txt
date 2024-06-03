@@ -1,0 +1,119 @@
+{{DISPLAYTITLE:Go4Overwatch Europe Cup #62}}
+{{Go4Overwatch Navbox}}<br>
+{{Infobox league
+|name=Go4Overwatch Europe Cup #62
+|image=ESL Overwatch Community Cup.png
+|series=Go4Overwatch EU
+|shortname=62
+|organizer=ESL
+|country=Europe
+|format=Single Elimination
+|type=Online
+|date=2017-08-06
+|prizepoolusd=163
+|localcurrency=eur
+|prizepool=150
+|web=http://play.eslgaming.com/overwatch/europe/
+|twitch=
+|twitch2=
+|twitch3=
+|bracket=https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-62/rankings/
+|liquipediatier=5|liquipediatiertype=Weekly
+|team_number=19
+|previous=Go4Overwatch/Europe/Weekly/61{{!}}Go4 Europe Cup #61
+|next=Go4Overwatch/Europe/Weekly/63{{!}}Go4 Europe Cup #63
+}}
+
+==Overview==
+'''ESL Go4Overwatch Europe Cup #62'' is the 62nd European installment of ESL Go4 cups.
+
+150 ({{Abbr/EUR}}) winner takes all:
+{{prize pool start |localcurrency=eur |points=go4}}
+{{prize pool slot |place=1 |points=100 |usdprize=163 |localprize=150 |vivi's adventure|lastvs1=mixy mix|lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot |place=2 |points=75 |usdprize=0 |mixy mix|lastvs1=vivi's adventure|lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot |place=3 |points=60 |usdprize=0 |copenhagen flames|lastvs1=uphill gardeners |lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot |place=4 |points=40 |usdprize=0 |uphill gardeners |lastvs1=copenhagen flames|lastscore1=0 |lastvsscore1=3 
+}}
+{{prize pool end}}
+
+===Format===
+*Single Elimination Bracket
+**Game Mode
+***Bracket: {{Abbr/Bo1}}
+***Quarterfinals: {{Abbr/Bo3}}
+***Finals: {{Abbr/Bo5}}
+**1 Hero Limit
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard|lang=French
+|position=Commentator
+|b1=Hammerkick|b1flag=fr | b1name=Antoine Bournier
+}}
+{{box|end}}
+
+==Top 4==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Vivi's Adventure
+|image=
+|p1=Henzu|p1flag=se|pos1=dps
+|p2=Mwumbwahti|p2flag=se|pos2=dps
+|p3=ELLIVOTE|p3flag=se|pos3=flex
+|p4=LullSiSH|p4flag=se|pos4=tank
+|p5=Zekor|p5flag=|pos5=sup
+|p6=Epzz|p6flag=|pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Copenhagen Flames
+|image=
+|p1=Zaprey|p1flag=dk|pos1=dps
+|p2=SpoXeZ|p2flag=dk|pos2=dps
+|p3=naGGa|p3flag=dk|pos3=flex
+|p4=Paghminister|p4flag=dk|pos4=tank
+|p5=Mono|p5flag=dk|pos5=sup
+|p6=Watio|p6flag=dk|pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Mixy Mix
+|image=Mixy Mixlogo.png
+|p1=Leaf|p1flag=fr
+|p2=Astikko|p2flag=fr
+|p3=EaglesV1|p3flag=fr
+|p4=Nezer|p4flag=fr
+|p5=NoluZz|p5flag=fr
+|p6=Pixy|p6flag=fr
+|p7=Veleef|p7flag=be
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Uphill Gardeners 
+|image=
+|p1=Lafayette|p1flag=se
+|p2=Corestar|p2flag=sp
+|p3=Tekkenn|p3flag=dk
+|p4=TheWrongName|p4flag=nl
+|p5=Zethzio|p5flag=dk
+|p6=srauon |p6flag=dk
+}}
+{{box|end|padding=2em}}
+
+==Results==
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=61UH0R4hwK
+|column-width=180
+<!-- SEMIFINALS -->
+|R1D1team=vivi's adventure |R1D1score=2 |R1D1win=1
+|R1D2team=copenhagen flames|R1D2score=0 |R1D2win=
+|R1D3team=mixy mix |R1D3score=2 |R1D3win=1
+|R1D4team=uphill gardeners  |R1D4score=1 |R1D4win=
+<!-- FINALS -->
+|R2W1team=vivi's adventure|R2W1score=3 |R2W1win=1
+|R2W2team=mixy mix |R2W2score=0 |R2W2win=
+<!-- 3RD PLACE (optional) -->
+|R2D1team=uphill gardeners |R2D1score=0 |R2D1win=
+|R2D2team=copenhagen flames |R2D2score=3 |R2D2win=1
+}}

@@ -1,0 +1,147 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Monthly",
+            "abbreviation": "MGA",
+            "name": "MGA Community Overwatch Series #5",
+            "shortname": "MGA COS #5",
+            "tickername": "MGA Community Overwatch Series #5",
+            "icon": "MGA USA League icon.png",
+            "image": "MGA USA League.png",
+            "series": "MGA Community Overwatch Series",
+            "organizer": "MSI",
+            "organizer-link": "https://us.msi.com",
+            "type": "Online",
+            "country": "North America",
+            "format": "Single Elimination",
+            "prizepoolusd": "840",
+            "date": "2020-06-27",
+            "rulebook": "https://battlefy.com/msi-gaming-arena/840-usd-mga-community-overwatch-series-5/5e73df89d119db108f4789f8/info?infoTab=rules",
+            "bracket": "https://battlefy.com/msi-gaming-arena/840-usd-mga-community-overwatch-series-5/5e73df89d119db108f4789f8/stage/5ef7c8c2a388015dde9e1248/bracket/",
+            "team_number": "35",
+            "previous": "MGA Community Overwatch Series/4{{!}}#4",
+            "next": "MGA Community Overwatch Series/6{{!}}#6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Bird Society Hawks",
+            "p1": "Essence|p1flag=us|pos1=dps",
+            "p2": "Cruise|p2flag=us|pos2=dps",
+            "p3": "Niko|p3flag=us|pos3=tank",
+            "p4": "Gre7n|p4flag=us|pos4=tank",
+            "p5": "Cybertexx|p5flag=us|pos5=sup",
+            "p6": "Sajalann|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Swift",
+            "p1": "Coukos|p1flag=|pos1=",
+            "p2": "Nonon|p2flag=|pos2=",
+            "p3": "Mcjr10|p3flag=|pos3=",
+            "p4": "Subscript|p4flag=|pos4=",
+            "p5": "AwsomeOposum|p5flag=|pos5=",
+            "p6": "Hare|p6flag=|pos6=",
+            "p7": "Sominomi|p7flag=|pos7="
+        },
+        {
+            "team": "BNE esports",
+            "p1": "denthead98|p1flag=us|pos1=dps",
+            "p2": "Azure|p2flag=us|pos2=dps|p2link=Azure (American Player)",
+            "p3": "Bizz|p3flag=us|pos3=dps",
+            "p4": "Dunmuir|p4flag=us|pos4=tank",
+            "p5": "Dusk|p5flag=|pos5=tank",
+            "p6": "Micro|p6flag=us|pos6=sup|p6link=Micro (American Coach)",
+            "p7": "Baiser|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Josh H Hate Club",
+            "p1": "Rymazing|p1flag=us|pos1=dps",
+            "p2": "Azea|p2flag=us|pos2=dps",
+            "p3": "Spike|p3flag=us|pos3=tank",
+            "p4": "Berns|p4flag=us|pos4=tank",
+            "p5": "Wolf|p5flag=us|pos5=sup|p5link=Wolf (American Player)",
+            "p6": "Aniyun|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "CrazyHobo|t2c1flag=us|t2c1pos=manager",
+            "t2c2": "mackancheeze|t2c2flag=us|t2c2pos=manager"
+        },
+        {
+            "team": "Vanquish",
+            "p1": "Otters|p1flag=|pos1=",
+            "p2": "dini|p2flag=|pos2=",
+            "p3": "Tragedy|p3flag=|pos3=",
+            "p4": "Nezh|p4flag=|pos4=",
+            "p5": "Earlyb1rd|p5flag=|pos5=",
+            "p6": "Quaynk|p6flag=|pos6="
+        },
+        {
+            "team": "Aggies Donut Shop",
+            "p1": "Light|p1flag=|pos1=dps",
+            "p2": "kendric|p2flag=us|pos2=dps",
+            "p3": "Hope|p3flag=tw|pos3=dps",
+            "p4": "Frenzy|p4flag=us|pos4=tank",
+            "p5": "aggie|p5flag=us|pos5=tank",
+            "p6": "SwaggyTurtle|p6flag=us|pos6=sup|p6link=graham",
+            "p7": "PARISTONH\u0197LL|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Last Hope",
+            "p1": "Atl2s|p1flag=se|pos1=dps",
+            "p2": "Sargasm|p2flag=am|pos2=dps|p2link=RubenSargasm",
+            "p3": "Faded|p3flag=ca|pos3=tank",
+            "p4": "Frostedd|p4flag=us|pos4=tank",
+            "p5": "Chopt|p5flag=|pos5=sup",
+            "p6": "AutumnSouls|p6flag=|pos6=sup"
+        },
+        {
+            "team": "Nocturnal",
+            "p1": "Zemrit|p1flag=us|pos1=dps",
+            "p2": "Anhoo|p2flag=us|pos2=dps",
+            "p3": "Leinahtan|p3flag=us|pos3=tank",
+            "p4": "PG1|p4flag=us|pos4=tank",
+            "p5": "Nox|p5flag=us|pos5=sup",
+            "p6": "Zulexz|p6flag=pr|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Caolo|t2c1pos=Manager"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Nocturnal",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "Bird Society Hawks",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "Last Hope",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "Bird Society Hawks",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Vanquish",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "Josh H Hate Club",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Last Hope",
+            "score2": "1",
+            "win2": "1",
+            "key": "R3D1",
+            "team1": "Bird Society Hawks",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

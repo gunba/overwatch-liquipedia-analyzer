@@ -1,0 +1,157 @@
+{
+    "tournament_info": [
+        {
+            "name": "Respawn Community Cup #1",
+            "shortname": "Respawn Cup 1",
+            "image": "Respawn Logo.png",
+            "abbreviation": "RCC",
+            "icon": "Respawn Logo std.png",
+            "tickername": "RCC #1",
+            "organizer": "Respawn eSports Bar Vienna",
+            "sponsor": "",
+            "platform": "PC",
+            "series": "Respawn Community Cup",
+            "type": "Offline",
+            "country": "Europe",
+            "format": "Playoffs (Single Elimination)",
+            "prizepoolusd": "370",
+            "localcurrency": "312",
+            "sdate": "2018-01-20",
+            "edate": "2018-01-20",
+            "liquipediatier": "{{TierText/5}}",
+            "web": "",
+            "twitch": "",
+            "youtube": "",
+            "bracket": "https://www.toornament.com/tournaments/1025695455778897920/participants/",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "plan-B eSports",
+            "image": "Plan-B eSports.png",
+            "p1": "DrysTc|p1flag=at |pos1=dps",
+            "p2": "HeroRay|p2flag=at |pos2=dps",
+            "p3": "NULL |p3flag=at |p3link=NULL (Austrian player) |pos3=tank",
+            "p4": "Se7enSins|p4flag=at |pos4=tank",
+            "p5": "Abstructo|p5flag=at |pos5=sup",
+            "p6": "ecLipse|p6flag=at |pos6=sup",
+            "c": "|cflag="
+        },
+        {
+            "team": "quickmaffs",
+            "image": "",
+            "p1": "Sylvanas|p1flag=ch |pos1=dps",
+            "p2": "chargi |p2flag=at |pos2=",
+            "p3": "hanfii |p3flag=at |pos3=tank",
+            "p4": "Hasselmann|p4flag=at |pos4=",
+            "p5": "Difal|p5flag=at |pos5=sup",
+            "p6": "Surface|p6flag=at |pos6=sup",
+            "c": "|cflag="
+        },
+        {
+            "team": "Random",
+            "image": "",
+            "p1": "Nerathon |p1flag=at |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6=",
+            "c": "|cflag="
+        },
+        {
+            "team": "RankOne Gaming",
+            "image": "RankOne_Gaming_logo.png",
+            "p1": "Trollschnitz |p1flag=at |pos1=",
+            "p2": "Avenger|p2flag=at |pos2=",
+            "p3": "MisterB |p3flag=at |pos3=",
+            "p4": "Fexor|p4flag=at |pos4=",
+            "p5": "Screami|p5flag=at |pos5=",
+            "p6": "Pachelor|p6flag=at |pos6=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Uludag Esports",
+            "image": "Uludag Logo.png",
+            "p1": "Crow |p1flag=at |pos1=dps",
+            "p2": "Itzeru|p2flag=at |pos2=dps",
+            "p3": "kharma|p3flag=hu |pos3=tank",
+            "p4": "Uwii|p4flag=at |pos4=tank",
+            "p5": "Slatter|p5flag=at |pos5=sup",
+            "p6": "ub3rb1ng0|p6flag=at |pos6=sup",
+            "c": "|cflag="
+        },
+        {
+            "team": "WarKidZ eSports",
+            "image": "Warkidz_logo_2.png",
+            "p1": "ZerO |p1flag=at |pos1=",
+            "p2": "LawleY|p2flag=at |pos2=",
+            "p3": "Fredyseconds|p3flag=at |pos3=tank",
+            "p4": "Soa\u0166rex|p4flag=at |pos4=",
+            "p5": "Zerxes|p5flag=at |pos5=",
+            "p6": "Tekvov|p6flag=at |pos6=sup",
+            "c": "|cflag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "date": "",
+            "finished": "true",
+            "map1": "King's Row",
+            "map1score": "1-0",
+            "map1win": "1",
+            "map2": "Oasis",
+            "map2score": "2-0",
+            "map2win": "1",
+            "team2": "random",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "rankone gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "warkidz esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "plan-b esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "",
+            "finished": "true",
+            "map1": "Hollywood",
+            "map1score": "2-1",
+            "map1win": "1",
+            "map2": "Ilios",
+            "map2score": "2-0",
+            "map2win": "1",
+            "map3": "Route 66",
+            "map3score": "3-2",
+            "map3win": "1",
+            "team2": "uludag esports",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R3W1",
+            "team1": "plan-b esports",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

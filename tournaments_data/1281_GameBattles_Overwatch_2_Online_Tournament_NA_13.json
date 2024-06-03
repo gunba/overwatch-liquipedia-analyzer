@@ -1,0 +1,71 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "liquipediatiertype": "Weekly",
+            "name": "GameBattles Overwatch 2 Online Tournament North America #13",
+            "shortname": "5v5 North America #13",
+            "tickername": "GameBattles North America #13",
+            "icon": "GameBattles icon lightmode.png",
+            "icondark": "GameBattles icon darkmode.png",
+            "image": "GameBattles lightmode.png",
+            "imagedark": "GameBattles darkmode.png",
+            "organizer": "GameBattles",
+            "series": "GameBattles",
+            "abbreviation": "GB",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "500",
+            "date": "2023-01-07",
+            "twitter": "gamebattles",
+            "discord": "gamebattles",
+            "facebook": "gamebattles",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--north-america--17/rules",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--north-america--17/bracket",
+            "team_number": "7",
+            "previous": "GameBattles_Overwatch_2_Online_Tournament/NA/12{{!}}#12",
+            "next": "GameBattles_Overwatch_2_Online_Tournament/NA/14{{!}}#14"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "",
+            "date": "2023-01-07",
+            "opponent1": "kryix|score=W",
+            "opponent2": "letter league|score=L",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-01-07",
+            "opponent1": "inferno na|score=L",
+            "opponent2": "debit island|score=W",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-01-07",
+            "opponent1": "aos|score=W",
+            "opponent2": "notyts|score=L",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-01-07",
+            "opponent1": "team gp|score=L",
+            "opponent2": "kryix|score=W",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-01-07",
+            "opponent1": "debit island|score=W",
+            "opponent2": "aos|score=L",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-01-07",
+            "opponent1": "kryix|score=W",
+            "opponent2": "debit island|score=L",
+            "optional": "R3M1="
+        }
+    ]
+}

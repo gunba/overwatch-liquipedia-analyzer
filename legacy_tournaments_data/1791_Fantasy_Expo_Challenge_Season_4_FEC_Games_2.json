@@ -1,0 +1,160 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/5}}",
+            "series": "FEC Games",
+            "name": "Fantasy Expo Challenge Season 4 - FEC Games #2",
+            "image": "Fantasy Expo Challenge.png",
+            "icon": "Fantasy Expo Challenge-icon.png",
+            "organizer": "FantasyExpo Sp. z o.o",
+            "sponsor": "[http://www.lg.com/ LG]<br>[https://rog.asus.com ASUS ROG]",
+            "type": "Online",
+            "country": "Poland",
+            "format": "6v6<br>Double Elimination Bracket",
+            "prizepool": "2400",
+            "localcurrency": "PLN",
+            "prizepoolusd": "589",
+            "sdate": "2017-02-18",
+            "edate": "2017-02-19",
+            "web": "http://fechallenge.com/",
+            "bracket": "http://fechallenge.com/game/ow/tournament/75/ladder",
+            "teamfirst": "ow.qq",
+            "teamsecond": "od ultowania mam zakwasy",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "8",
+            "map1": "King's Row",
+            "map2": "Numbani",
+            "map3": "Watchpoint: Gibraltar",
+            "map4": "Dorado",
+            "map5": "Hanamura",
+            "map6": "Temple of Anubis",
+            "map7": "Volskaya Industries",
+            "map8": "Nepal",
+            "map9": "Lijiang Tower",
+            "map10": "Hollywood",
+            "map11": "Ilios",
+            "map12": "Route 66",
+            "map13": "Eichenwalde"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "OW.QQ",
+            "p1": "setrox ",
+            "p1flag": "pl",
+            "p2": "hafal ",
+            "p2flag": "pl",
+            "p3": "Tank117 ",
+            "p3flag": "pl",
+            "p4": "no1special ",
+            "p4flag": "pl",
+            "p5": "matth  ",
+            "p5flag": "pl",
+            "p6": "\u015blepajstos ",
+            "p6flag": "pl"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "kebabodturka",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "change hanzo pls",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "whereismymoney",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "horsugall II",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "fury.overwatch",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "ow.qq",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ow.qq",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "whereismymoney",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "los kotwicos",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D9",
+            "team1": "kebabodturka",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "od ultowania mam zakwasy",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D11",
+            "team1": "me gusta kapusta",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "los kotwicos",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "horsugall II",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "od ultowania mam zakwasy",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D2",
+            "team1": "fury.overwatch",
+            "score1": "",
+            "win1": "0"
+        },
+        {
+            "team2": "od ultowania mam zakwasy",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "los kotwicos",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "od ultowania mam zakwasy",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "whereismymoney",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "od ultowania mam zakwasy",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "ow.qq",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

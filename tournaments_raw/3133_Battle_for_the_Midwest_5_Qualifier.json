@@ -1,0 +1,319 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Qualifier",
+            "name": "Battle for the Midwest 5 Qualifier",
+            "shortname": "Battle for the Midwest 5 Qualifier",
+            "tickername": "Battle for the Midwest 5 Qualifier",
+            "icon": "",
+            "image": "",
+            "organizer": "kaiju corp",
+            "sponsor": "",
+            "type": "Online",
+            "country": "United States",
+            "format": "Round Robin",
+            "game": "overwatch2",
+            "prizepoolusd": "",
+            "date": "2023-02-05",
+            "twitter": "kaijucorpgg",
+            "web": "https://kaijucorp.org/bftm5",
+            "twitch": "",
+            "twitch2": "",
+            "discord": "dpTbBE9Cct",
+            "youtube": "",
+            "rulebook": "https://kaijucorp.org/Schedule-Rules-a66e301116074414b218c6ecf338a22f",
+            "bracket": "https://challonge.com/bftm5OW2",
+            "team_number": "13"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Illini Esports Blue",
+            "p1": "Kai|p1flag=us|pos1=dps|p1link=Kai (Collegiate player)",
+            "p2": "Exojay|p2flag=us|pos2=dps",
+            "p3": "IraqCanada|p3flag=iq|pos3=tank",
+            "p4": "Invalid|p4flag=us|pos4=tank",
+            "p5": "Patchii|p5flag=us|pos5=sup",
+            "p6": "Factual|p6flag=us|pos6=sup",
+            "p7": "Erin|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Illini Esports Black",
+            "p1": "gamesmartt|p1flag=us|pos1=dps",
+            "p2": "Gavin145|p2flag=us|pos2=dps",
+            "p3": "Lacy|p3flag=us|pos3=dps",
+            "p4": "Steeler0|p4flag=us|pos4=tank",
+            "p5": "RobNBanks|p5flag=us|pos5=sup",
+            "p6": "ForeverLove|p6flag=us|pos6=sup",
+            "p7": "massivepoop|p7flag=us|pos7=flex"
+        },
+        {
+            "team": "Oakland Esports",
+            "p1": "Aerospace|p1flag=|pos1=dps",
+            "p2": "Bedhead|p2flag=|pos2=dps",
+            "p3": "Stev|p3flag=|pos3=dps",
+            "p4": "CreatorCore|p4flag=|pos4=tank",
+            "p5": "Tango|p5flag=|pos5=tank",
+            "p6": "Jax|p6flag=|pos6=sup",
+            "p7": "FrothyFilly7|p7flag=|pos7=sup"
+        },
+        {
+            "team": "Redbird Academy",
+            "p1": "Vintage|p1flag=mx|pos1=dps",
+            "p2": "Senchou|p2flag=us|pos2=dps",
+            "p3": "Cor|p3flag=us|pos3=tank",
+            "p4": "Alino|p4flag=us|pos4=tank",
+            "p5": "Goose|p5flag=us|pos5=sup|p5link=Goose_(Matthew_Gisi)",
+            "p6": "Maymein|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Illini Esports White",
+            "p1": "Gus|p1flag=us|pos1=dps|p1link=Gus (Collegiate Player)",
+            "p2": "Hal|p2flag=us|pos2=dps",
+            "p3": "Beenburrito|p3flag=us|pos3=tank",
+            "p4": "Pixie|p4flag=us|pos4=tank|p4link=Pixie (American player)",
+            "p5": "KillaCatfish|p5flag=us|pos5=sup",
+            "p6": "GuGuB1rd|p6flag=cn|pos6=sup",
+            "p7": "Shining|p7flag=cn|pos7=sup"
+        },
+        {
+            "team": "Northwestern Wildcats",
+            "p1": "Soy|p1flag=us|pos1=dps",
+            "p2": "Majestic|p2flag=us|pos2=dps",
+            "p3": "Bizarre|p3flag=us|pos3=tank",
+            "p4": "Mazemel|p4flag=us|pos4=sup",
+            "p5": "OneTrick|p5flag=us|pos5=sup"
+        },
+        {
+            "team": "Illini Esports Rainbow",
+            "p1": "GlobalBoi|p1flag=us|pos1=dps",
+            "p2": "WuG|p2flag=us|pos2=dps",
+            "p3": "aarya|p3flag=us|pos3=tank",
+            "p4": "K0Ld|p4flag=cn|pos4=sup",
+            "p5": "PenguinGuy|p5flag=us|pos5=sup"
+        },
+        {
+            "team": "Indiana Tech Warriors",
+            "p1": "G2GU|p1flag=|pos1=",
+            "p2": "NosyPalidan|p2flag=|pos2=",
+            "p3": "Mask|p3flag=|pos3=|p3link=Mask (American player)",
+            "p4": "AlphaJCO8|p4flag=|pos4=",
+            "p5": "Cheesyninja|p5flag=|pos5=",
+            "p6": "Myherogkm|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7="
+        },
+        {
+            "team": "IIT Scarlet Hawks",
+            "p1": "TheDestroyer|p1flag=|pos1=dps",
+            "p2": "I360KYSI|p2flag=|pos2=dps",
+            "p3": "amp8|p3flag=|pos3=tank",
+            "p4": "javc|p4flag=|pos4=tank",
+            "p5": "tekkitkiller|p5flag=|pos5=sup",
+            "p6": "SolarNebula|p6flag=|pos6=sup",
+            "p7": "|p7flag=|pos7="
+        },
+        {
+            "team": "Illini Esports Gray",
+            "p1": "Boomb|p1flag=us|pos1=dps",
+            "p2": "Jace|p2flag=us|pos2=dps",
+            "p3": "loupbrifiant|p3flag=fr|pos3=tank",
+            "p4": "TrueDoughnut|p4flag=us|pos4=sup",
+            "p5": "Schiesse|p5flag=us|pos5=sup",
+            "p6": "risho900|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "SXU Esports",
+            "p1": "xecutor|p1flag=|pos1=dps",
+            "p2": "Glocktopus|p2flag=|pos2=dps",
+            "p3": "IntenseTimbo|p3flag=|pos3=tank",
+            "p4": "Monkey|p4flag=|pos4=tank",
+            "p5": "Soda|p5flag=|pos5=sup",
+            "p6": "alphabet|p6flag=|pos6=sup",
+            "p7": "citronboss27|p7flag=|pos7=sup"
+        },
+        {
+            "team": "Illini Esports Orange",
+            "p1": "Chopper|p1flag=|pos1=dps",
+            "p2": "Gabowski|p2flag=|pos2=dps",
+            "p3": "danny|p3flag=pl|pos3=tank|p3link=danny (Polish Player)",
+            "p4": "marble|p4flag=|pos4=sup",
+            "p5": "Zhulander|p5flag=|pos5=sup"
+        },
+        {
+            "team": "DePaul Esports",
+            "p1": "Newb|p1flag=|pos1=dps",
+            "p2": "Datzentho|p2flag=|pos2=dps",
+            "p3": "Lunala|p3flag=|pos3=tank",
+            "p4": "Ubscure|p4flag=|pos4=sup",
+            "p5": "Creepz|p5flag=|pos5=sup",
+            "p6": "Safin|p6flag=|pos6=sup",
+            "p7": "Zeyph|p7flag=|pos7=flex"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "February 5, 2023 - 15:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|illini esports black|score=0}}",
+            "opponent2": "{{TeamOpponent|oakland esports|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M1="
+        },
+        {
+            "date": "February 5, 2023 - 16:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|illini esports blue|score=2}}",
+            "opponent2": "{{TeamOpponent|illini esports black|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M2="
+        },
+        {
+            "date": "February 5, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|oakland esports|score=0}}",
+            "opponent2": "{{TeamOpponent|illini esports blue|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "February 5, 2023 - 15:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|illini esports white|score=0}}",
+            "opponent2": "{{TeamOpponent|northwestern wildcats|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M1="
+        },
+        {
+            "date": "February 5, 2023 - 15:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|illini esports rainbow|score=0}}",
+            "opponent2": "{{TeamOpponent|redbird academy|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M2="
+        },
+        {
+            "date": "February 5, 2023 - 16:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|redbird academy|score=2}}",
+            "opponent2": "{{TeamOpponent|illini esports white|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M3="
+        },
+        {
+            "date": "February 5, 2023 - 16:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|northwestern wildcats|score=2}}",
+            "opponent2": "{{TeamOpponent|illini esports rainbow|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M4="
+        },
+        {
+            "date": "February 5, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|illini esports rainbow|score=0}}",
+            "opponent2": "{{TeamOpponent|illini esports white|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M5="
+        },
+        {
+            "date": "February 5, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|northwestern wildcats|score=0}}",
+            "opponent2": "{{TeamOpponent|redbird academy|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M6="
+        },
+        {
+            "bestof": "3",
+            "date": "February 5, 2023 - 15:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|iit scarlet hawks|score=2}}",
+            "opponent2": "{{TeamOpponent|illini esports gray|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M1="
+        },
+        {
+            "date": "February 5, 2023 - 15:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|sxu esports|score=0}}",
+            "opponent2": "{{TeamOpponent|indiana tech warriors|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M2="
+        },
+        {
+            "date": "February 5, 2023 - 16:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|indiana tech warriors|score=2}}",
+            "opponent2": "{{TeamOpponent|iit scarlet hawks|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M3="
+        },
+        {
+            "date": "February 5, 2023 - 16:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|illini esports gray|score=0}}",
+            "opponent2": "{{TeamOpponent|sxu esports|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M4="
+        },
+        {
+            "date": "February 5, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|sxu esports|score=2}}",
+            "opponent2": "{{TeamOpponent|iit scarlet hawks|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M5="
+        },
+        {
+            "date": "February 5, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|illini esports gray|score=0}}",
+            "opponent2": "{{TeamOpponent|indiana tech warriors|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M6="
+        },
+        {
+            "bestof": "3",
+            "date": "February 5, 2023 - 15:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|illini esports orange|score=2}}",
+            "opponent2": "{{TeamOpponent|depaul esports|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "M1="
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "NACE Starleague",
+            "abbreviation": "NACE",
+            "name": "NACE Starleague Spring 2023 Varsity Premier - East 6",
+            "shortname": "NACE Starleague Spring 2023 Varsity Premier - East 6",
+            "tickername": "NACE Varsity East 6",
+            "image": "NACE Starleague lightmode.png",
+            "imagedark": "NACE Starleague darkmode.png",
+            "organizer": "National Association of Collegiate Esports",
+            "organizer-link": "https://nacesports.org/",
+            "organizer2": "Playfly Esports",
+            "organizer2-link": "https://playfly.com/esports/",
+            "sponsor": "[https://www.extra-life.org/ Extra Life]<br>[https://www.monsterenergy.com/us/en Monster Energy]",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "",
+            "sdate": "2023-01-31",
+            "edate": "2023-03-25",
+            "twitter": "nacestarleague",
+            "web": "https://nacesports.org",
+            "twitch": "nacestarleague",
+            "twitch2": "",
+            "discord": "",
+            "youtube": "",
+            "rulebook": "https://drive.google.com/file/d/1MnMZwglbsVAZwLnIS7liaAxoq4ghv40_/view",
+            "bracket": "https://nsl.leaguespot.gg/seasons/dabaf295-9209-408b-bcd5-2492214d5a28",
+            "team_number": "7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Bryant & Stratton",
+            "p1": "Set|p1flag=us|pos1=dps",
+            "p2": "Manually|p2flag=us|pos2=dps",
+            "p3": "Miro|p3link=Miro (American Player)|p3flag=us|pos3=tank",
+            "p4": "Prota|p4flag=us|pos4=sup",
+            "p5": "Gymical|p5flag=us|pos5=sup"
+        },
+        {
+            "team": "University of West Georgia",
+            "p1": "Domi|p1flag=|pos1=dps",
+            "p2": "Mistic|p2flag=|pos2=dps",
+            "p3": "Cloven|p3flag=|pos3=tank",
+            "p4": "DaxGhost|p4flag=|pos4=sup",
+            "p5": "Fishie|p5flag=|pos5=sup",
+            "p6": "MrMystery|p6flag=|pos6=sup"
+        },
+        {
+            "team": "<s>Bellevue University</s>",
+            "link": "Bellevue University",
+            "p1": "Lefaa|p1flag=|pos1=dps",
+            "p2": "rose|p2flag=us|pos2=dps",
+            "p3": "AV2RY|p3flag=|pos3=tank",
+            "p4": "Vita|p4flag=|pos4=tank",
+            "p5": "Evei|p5flag=|pos5=tank",
+            "p6": "robdab|p6flag=|pos6=sup",
+            "p7": "Neptune|p7link=Neptune (American Player)|p7flag=|pos7=sup",
+            "t2title": "Staff",
+            "t2p1": "PearPod|t2p1flag=us|t2pos1=Coach",
+            "inotes": "{{NoteBig",
+            "n1": "[[Bellevue University]] drops out in Week 1."
+        },
+        {
+            "team": "East Central University",
+            "p1": "Primus|p1flag=|pos1=dps",
+            "p2": "SmoothNGood|p2flag=|pos2=dps",
+            "p3": "Kairos|p3flag=|pos3=tank",
+            "p4": "Joshuhboi|p4flag=|pos4=sup",
+            "p5": "Baxxynut|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Shenandoah University",
+            "p1": "KermitDaFrog|p1flag=us|pos1=dps",
+            "p2": "Voidex|p2flag=us|pos2=dps",
+            "p3": "DragonBladeX|p3flag=us|pos3=tank",
+            "p4": "Enders|p4flag=us|pos4=sup",
+            "p5": "Phaena|p5flag=us|pos5=sup",
+            "p6": "ShutUpBecca|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Oakland University",
+            "p1": "Aerospace|p1flag=|pos1=dps",
+            "p2": "Stev|p2flag=|pos2=dps",
+            "p3": "CreatorCore|p3flag=|pos3=tank",
+            "p4": "Tango|p4flag=|pos4=tank",
+            "p5": "Jax|p5flag=|pos5=sup",
+            "p6": "FrothyFilly7|p6flag=|pos6=sup"
+        },
+        {
+            "team": "Wichita State University",
+            "p1": "Wish|p1flag=|pos1=dps",
+            "p2": "Pride|p2flag=|pos2=dps|p2link=Pride (American Player)",
+            "p3": "TW877|p3flag=|pos3=tank",
+            "p4": "FlffyButDeadly|p4flag=|pos4=tank",
+            "p5": "Hanbei|p5flag=|pos5=sup",
+            "p6": "Dampley|p6flag=|pos6=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "January 31, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|west georgia wolves|score=W}}",
+            "opponent2": "{{TeamOpponent|bellevue university|score=FF}}",
+            "optional": "M1="
+        },
+        {
+            "date": "January 31, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|shenandoah university|score=}}",
+            "opponent2": "{{TeamOpponent|ecu tigers|score=}}",
+            "map1": "{{Map|map=Control|mode=Control|score1=3|score2=0|winner=1}}",
+            "map2": "{{Map|map=Hybrid|mode=Hybrid|score1=3|score2=0|winner=1}}",
+            "map3": "{{Map|map=Escort|mode=Escort|score1=2|score2=0|winner=1}}",
+            "optional": "M2="
+        },
+        {
+            "date": "January 31, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|oakland esports|score=}}",
+            "opponent2": "{{TeamOpponent|wichita state university|score=}}",
+            "map1": "{{Map|map=Control|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Hybrid|mode=Hybrid|score1=1|score2=0|winner=1}}",
+            "map3": "{{Map|map=Escort|mode=Escort|score1=4|score2=3|winner=1}}",
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "February 7, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bsc bobcats|score=3}}",
+            "opponent2": "{{TeamOpponent|west georgia wolves|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "February 7, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bellevue university|score=FF}}",
+            "opponent2": "{{TeamOpponent|wichita state university|score=W}}",
+            "optional": "M2="
+        },
+        {
+            "date": "February 7, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|oakland esports|score=3}}",
+            "opponent2": "{{TeamOpponent|shenandoah university|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "February 14, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ecu tigers|score=0}}",
+            "opponent2": "{{TeamOpponent|bsc bobcats|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "February 14, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|wichita state university|score=3}}",
+            "opponent2": "{{TeamOpponent|west georgia wolves|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "February 14, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bellevue university|score=FF}}",
+            "opponent2": "{{TeamOpponent|shenandoah university|score=W}}",
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "February 21, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|wichita state university|score=0}}",
+            "opponent2": "{{TeamOpponent|bsc bobcats|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "February 21, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ecu tigers|score=0}}",
+            "opponent2": "{{TeamOpponent|oakland esports|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "February 21, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|west georgia wolves|score=0}}",
+            "opponent2": "{{TeamOpponent|shenandoah university|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "February 28, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|oakland esports|score=0}}",
+            "opponent2": "{{TeamOpponent|bsc bobcats|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "February 28, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|wichita state university|score=2}}",
+            "opponent2": "{{TeamOpponent|shenandoah university|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "February 28, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ecu tigers|score=W}}",
+            "opponent2": "{{TeamOpponent|bellevue university|score=FF}}",
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "March 7, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=nacestarleague",
+            "opponent1": "{{TeamOpponent|bsc bobcats|score=3}}",
+            "opponent2": "{{TeamOpponent|shenandoah university|score=1}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 7, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bellevue university|score=FF}}",
+            "opponent2": "{{TeamOpponent|oakland esports|score=W}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 7, 2023 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ecu tigers|score=W}}",
+            "opponent2": "{{TeamOpponent|west georgia wolves|score=FF}}",
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "March 14, 2023 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bsc bobcats|score=W}}",
+            "opponent2": "{{TeamOpponent|bellevue university|score=FF}}",
+            "optional": "M1="
+        },
+        {
+            "date": "March 14, 2023 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|oakland esports|score=W}}",
+            "opponent2": "{{TeamOpponent|west georgia wolves|score=FF}}",
+            "optional": "M2="
+        },
+        {
+            "date": "March 14, 2023 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|wichita state university|score=W}}",
+            "opponent2": "{{TeamOpponent|ecu tigers|score=FF}}",
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "March 21, 2023 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|shenandoah esports|score=3}}",
+            "opponent2": "{{TeamOpponent|oakland esports|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "March 25, 2023 - 19:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=nacestarleague",
+            "opponent1": "{{TeamOpponent|bsc bobcats|score=3}}",
+            "opponent2": "{{TeamOpponent|shenandoah esports|score=0}}",
+            "optional": "R2M1="
+        }
+    ]
+}

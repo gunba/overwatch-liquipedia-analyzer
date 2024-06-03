@@ -1,0 +1,144 @@
+{{Infobox league
+|liquipediatier=5
+|name=Dood Overwatch 2 Tournament
+|shortname=Dood Overwatch 2 Tournament
+|tickername=Dood Overwatch 2 Tournament
+|icon=Dood Esports allmode.png
+|image=Dood Esports allmode.png
+|organizer=Dood
+|type=Online
+|country=North America
+|format=Single Elimination
+|game=overwatch2
+|prizepoolusd=125
+|date=2022-10-21
+|twitter=DoodLive
+|web=https://app.dood.gg/
+|discord=
+|rulebook=
+|bracket=https://www.challengermode.com/s/Doodlive/tournaments/0fcacf75-28fd-4040-a115-08daadfaeee2
+|team_number=8
+}}
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=125}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Can't Climb
+|p1=Kriz|p1flag=|pos1=
+|p2=Rawr|p2flag=|pos2=
+|p3=Turbo|p3flag=|pos3=
+|p4=Smoke|p4flag=|pos4=
+|p5=Slurpaay|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Fake Org Name
+|p1=dana|p1flag=|pos1=
+|p2=Ninjack|p2flag=|pos2=
+|p3=Remedy|p3flag=|pos3=|p3link=Remedy (North American Player)
+|p4=Willow|p4flag=|pos4=
+|p5=Phisheyy|p5flag=|pos5=
+}}
+{{TeamCard
+|team=COD Gone Overwatch 
+|p1=Brendy|p1flag=|pos1=
+|p2=Killrook|p2flag=|pos2=
+|p3=Seffie|p3flag=|pos3=
+|p4=Aiko|p4flag=|pos4=
+|p5=budboy115|p5flag=|pos5=
+}}
+{{TeamCard
+|team=commets
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Creed Academy
+|p1=Emmeryn|p1flag=ca|pos1=dps
+|p2=Auras|p2flag=us|pos2=dps
+|p3=SuperGomez|p3flag=co|pos3=dps
+|p4=FernoBlaze|p4flag=us|pos4=tank
+|p5=Dhillon|p5flag=ca|pos5=sup
+|p6=OneTwo|p6flag=us|pos6=sup
+}}
+{{TeamCard
+|team=YAWN
+|p1=ArsMoriendi|p1flag=|pos1=
+|p2=Jackknight11|p2flag=|pos2=
+|p3=kiingduckytv|p3flag=|pos3=
+|p4=AzureHydra|p4flag=|pos4=
+|p5=terrariahunter8|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Kragz
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Erised
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/8|id=hUMB9AgOdT
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=1
+	|date=October 21, 2022
+    |opponent1={{TeamOpponent|can't climb|score=1}}
+    |opponent2={{TeamOpponent|fake org name|score=0}}
+}}
+|R1M2={{Match
+	|date=October 21, 2022
+    |opponent1={{TeamOpponent|cod gone overwatch|score=1}}
+    |opponent2={{TeamOpponent|commets|score=0}}
+}}
+|R1M3={{Match
+	|date=October 21, 2022
+    |opponent1={{TeamOpponent|creed academy|score=1}}
+    |opponent2={{TeamOpponent|yawn|score=0}}
+}}
+|R1M4={{Match
+	|date=October 21, 2022
+    |opponent1={{TeamOpponent|kragz|score=1}}
+    |opponent2={{TeamOpponent|erised|score=0}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|bestof=3
+	|date=October 21, 2022
+    |opponent1={{TeamOpponent|can't climb|score=2}}
+    |opponent2={{TeamOpponent|cod gone overwatch|score=0}}
+}}
+|R2M2={{Match
+	|date=October 21, 2022
+    |opponent1={{TeamOpponent|creed academy|score=2}}
+    |opponent2={{TeamOpponent|kragz|score=0}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|bestof=3
+	|date=October 21, 2022
+    |opponent1={{TeamOpponent|can't climb|score=0}}
+    |opponent2={{TeamOpponent|creed academy|score=2}}
+}}
+}}

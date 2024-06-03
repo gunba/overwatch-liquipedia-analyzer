@@ -1,0 +1,243 @@
+{
+    "tournament_info": [
+        {
+            "name": "GosuGamers Overwatch Weekly EU #4",
+            "image": "",
+            "series": "GosuGamers EU",
+            "shortname": "4",
+            "organizer": "GosuGamers",
+            "sponsor": "[https://matcherino.com/ Matcherino]<br>[http://www.dxracer.com/ DXRacer]<br>[http://www.roccat.org// ROCCAT]",
+            "country": "Europe",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "type": "Online",
+            "date": "2016-02-20",
+            "prizepoolusd": "360",
+            "twitch": "gosugamers",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "http://www.gosugamers.net/overwatch/tournaments/9400-gosugamers-overwatch-weekly-eu-4/bracket",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "g2e",
+            "teamsecond": "reunited.gg",
+            "teamthird": "flatearth",
+            "teamthird2": "paragon",
+            "team_number": "15",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "previous": "GosuGamers Overwatch Weekly/EU/3{{!}}#3",
+            "next": "GosuGamers Overwatch Weekly/EU/5{{!}}#5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Creation eSports",
+            "image": "",
+            "size": "",
+            "p1": ".kr4tosdigga |p1flag=de",
+            "p2": "Zebbosai |p2flag=se",
+            "p3": "RazorsEdge |p3flag=de",
+            "p4": "Tseini |p4flag=fi",
+            "p5": "mkL |p5flag=no",
+            "p6": "ryb |p6flag=se"
+        },
+        {
+            "team": "FlatEarth",
+            "image": "",
+            "size": "",
+            "p1": "Draceus |p1flag=se",
+            "p2": "outc1der |p2flag=de",
+            "p3": "LiNkz |p3flag=fi",
+            "p4": "kowa |p4flag=se",
+            "p5": "art1er |p5flag=de",
+            "p6": "Vonethil |p6flag=se"
+        },
+        {
+            "team": "WarLegenD",
+            "image": "",
+            "size": "",
+            "p1": "Pukly |p1flag=be",
+            "p2": "Donovan |p2flag=fr",
+            "p3": "Trylian |p3flag=fr",
+            "p4": "denpxc |p4flag=fr",
+            "p5": "Ziha |p5flag=fr",
+            "p6": "Moliol |p6flag=fr"
+        },
+        {
+            "team": "Paragon",
+            "image": "Paragon_Logo.png",
+            "size": "",
+            "p1": "fragi |p1flag=fi",
+            "p2": "yliajo |p2flag=fi",
+            "p3": "Seita |p3flag=fi",
+            "p4": "Lazei |p4flag=fi",
+            "p5": "unpl |p5flag=fi",
+            "p6": "Nertz |p6flag=fi"
+        },
+        {
+            "team": "Flash Rebels",
+            "image": "",
+            "size": "",
+            "p1": "reaverbone |p1flag=",
+            "p2": "ShaneisaGhost |p2flag=",
+            "p3": "Zen |p3flag=",
+            "p4": "DaHanG |p4flag=us",
+            "p5": "id_ |p5flag=ca",
+            "p6": "clampOK |p6flag=us"
+        },
+        {
+            "team": "G2 Esports",
+            "image": "",
+            "size": "",
+            "p1": "numlocked |p1flag=uk",
+            "p2": "Forsak3n |p2flag=lv",
+            "p3": "ShaDowBurn |p3flag=ru",
+            "p4": "TviQ |p4flag=se",
+            "p5": "KnOxXx |p5flag=fr",
+            "p6": "Mike |p6flag=wa |p6link=Mike (Welsh player)"
+        },
+        {
+            "team": "REUNITED.gg",
+            "p1": "Vallutaja |p1flag=ee",
+            "p2": "uNFixed |p2flag=ru",
+            "p3": "Winghaven |p3flag=es",
+            "p4": "2Easy |p4flag=nl",
+            "p5": "BromaS |p5flag=es",
+            "p6": "Morte |p6flag=nl"
+        },
+        {
+            "team": "Broken Edge",
+            "image": "",
+            "size": "",
+            "p1": "san alex |p1flag=pt",
+            "p2": "poinT |p2flag=it",
+            "p3": "klanton |p3flag=se",
+            "p4": "Mezamorphis |p4flag=ro",
+            "p5": "Atomicus |p5flag=se",
+            "p6": "Zhyx |p6flag=se"
+        },
+        {
+            "team": "Arcane eSports",
+            "image": "",
+            "size": "",
+            "p1": "Ruster |p1flag=de",
+            "p2": "Kruise |p2flag=uk",
+            "p3": "Puuppi |p3flag=fi",
+            "p4": "snzzz |p4flag=de",
+            "p5": "Violate |p5flag=be",
+            "p6": "LULLABYQ |p6flag=es"
+        },
+        {
+            "team": "Frag Addicts",
+            "image": "",
+            "size": "",
+            "p1": "iddqd91 |p1flag=se",
+            "p2": "Mastee |p2flag=se",
+            "p3": "Meaty |p3flag=se",
+            "p4": "Sockros |p4flag=se",
+            "p5": "Shader |p5flag=se",
+            "p6": "majbjorn |p6flag=se"
+        },
+        {
+            "team": "chuchutrain",
+            "image": "",
+            "size": "",
+            "p1": "baluEU |p1flag=de",
+            "p2": "Happythermia |p2flag=se",
+            "p3": "Narzilx |p3flag=no",
+            "p4": "Globe101 |p4flag=no",
+            "p5": "Hybriz |p5flag=se",
+            "p6": "Tokyomurai |p6flag=uk"
+        },
+        {
+            "team": "Vaevictis eSports",
+            "p1": "MrVivor |p1flag=ru",
+            "p2": "Svetaska |p2flag=ru",
+            "p3": "kaby |p3flag=ru",
+            "p4": "Podkradyxa |p4flag=ua",
+            "p5": "clozz |p5flag=by",
+            "p6": "Extred |p6flag=ru"
+        },
+        {
+            "team": "Gringos",
+            "image": "",
+            "size": "",
+            "p1": "Mint |p1flag=se",
+            "p2": "Johanneberg |p2flag=se",
+            "p3": "NuttyB |p3flag=se",
+            "p4": "zaphe |p4flag=se",
+            "p5": "Godest |p5flag=se",
+            "p6": "liddano |p6flag=se"
+        },
+        {
+            "team": "TOOMUCHVIDEOGAMES$",
+            "image": "",
+            "size": "",
+            "p1": "Godspeed |p1flag=ru",
+            "p2": "Zun |p2flag=ru",
+            "p3": "MarkOWin |p3flag=ru",
+            "p4": "Mirelin |p4flag=uz",
+            "p5": "BaJlaJlauKa |p5flag=ru",
+            "p6": "pyos |p6flag=ua"
+        },
+        {
+            "team": "Code7",
+            "image": "",
+            "size": "",
+            "p1": "Desrolord |p1flag=us",
+            "p2": "Zelniq |p2flag=us",
+            "p3": "trudel |p3flag=ca",
+            "p4": "tork |p4flag=us",
+            "p5": "Static |p5flag=ca",
+            "p6": "custa |p6flag=ca"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "code7",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "reunited.gg",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "paragon",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "reunited.gg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "paragon",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "reunited.gg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "g2e",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "reunited.gg",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

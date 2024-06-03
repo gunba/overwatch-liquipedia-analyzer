@@ -1,0 +1,151 @@
+{
+    "tournament_info": [
+        {
+            "name": "The Overguard: Haste Overwatch $1k Series - Qualifier 1",
+            "series": "The Overguard",
+            "image": "Overguard Logo.png",
+            "icon": "Overguard Logo small.png",
+            "organizer": "The Overguard",
+            "format": "Qualifiers <br> Single Elimination",
+            "type": "Online",
+            "country": "United States",
+            "date": "2017-04-29",
+            "prizepoolusd": "",
+            "web": "https://battlefy.com/the-overguard/haste-overwatch-pc-1k-tournament-series/58fe161ceb2d1c0333416bcb/info?infoTab=details",
+            "sponsor": "[https://haste.net/ Haste]",
+            "twitch": "theoverguard",
+            "twitter": "theoverguard",
+            "bracket": "https://battlefy.com/the-overguard/haste-overwatch-pc-1k-tournament-series/58fe161ceb2d1c0333416bcb/stage/5904d485eb13c70341736b96/bracket/",
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Toronto Esports",
+            "image": "",
+            "p1": "NotE|p1flag=",
+            "p2": "Jaru|p2flag=us",
+            "p3": "ONIGOD|p3flag=",
+            "p4": "Cynic|p4flag=uk",
+            "p5": "Snow|p5flag=us|p5link=Snow (American player)",
+            "p6": "Mac|p6flag=us"
+        },
+        {
+            "team": "Team Straton",
+            "image": "",
+            "p1": "lag|p1flag=",
+            "p2": "BloodRaiden|p2flag=",
+            "p3": "Luke|p3flag=",
+            "p4": "FeedTown|p4flag=",
+            "p5": "Bruudom|p5flag=",
+            "p6": "Siegmeyer|p6flag="
+        },
+        {
+            "team": "Sin Eaters",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Crossfade",
+            "image": "",
+            "p1": "Matman909|p1flag=",
+            "p2": "FUNKe|p2flag=",
+            "p3": "rupee|p3flag=",
+            "p4": "Mahoogler|p4flag=",
+            "p5": "Hauntmachine|p5flag=",
+            "p6": "Zabi|p6flag="
+        },
+        {
+            "team": "LF Main Tank",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Out of Order",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "sin eaters",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "team straton",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "out of order",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "toronto esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "lf main tank",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "crossfade",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team straton",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "sin eaters",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "crossfade",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "toronto esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "toronto esports",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "team straton",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

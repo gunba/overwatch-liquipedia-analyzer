@@ -1,0 +1,237 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "series": "DreamHack",
+            "shortname": "Tours 2019",
+            "name": "DreamHack Tours 2019",
+            "image": "DreamHack_Tours_2019.png",
+            "icon": "DH-star.png",
+            "organizer": "DreamHack",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "France",
+            "city": "Tours",
+            "format": "Single Elimination",
+            "venue": "[https://www.tours.fr/services-infos-pratiques/219-parc-des-expositions.htm Parc des expositions]",
+            "twitter": "DreamHackFR",
+            "prizepool": "6,000",
+            "localcurrency": "eur",
+            "prizepoolusd": "6,819",
+            "sdate": "2019-05-18",
+            "edate": "2019-05-19",
+            "web": "https://dreamhack.com/tours/tournois/overwatch/",
+            "rulebook": "https://dreamhack.com/wp-content/uploads/2019/04/R%C3%A8glement-Overwatch-DHFR19.pdf",
+            "team_number": "7",
+            "bracket": "https://www.toornament.com/tournaments/2431256613370912768/stages/"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Luxodia",
+            "image": "",
+            "p1": "Sahloknir |p1flag=fr |pos1=tank",
+            "p2": "shoyo|p2link=shoyo (French player) |p2flag=fr |pos2=tank",
+            "p3": "LiQuir |p3flag= |pos3=dps",
+            "p4": "Azilemm  |p4flag=fr |pos4=dps",
+            "p5": "Luchades |p5flag=fr |pos5=sup",
+            "p6": "Banaross |p6flag=fr |pos6=sup",
+            "c": "|cflag="
+        },
+        {
+            "team": "FCG Esports",
+            "image": "FCG esports.png",
+            "p1": "Pancake  |p1flag=fr |pos1=tank",
+            "p2": "MadMax |p2flag=fr |pos2=tank",
+            "p3": "GaZz  |p3flag=fr |pos3=dps",
+            "p4": "Serenz  |p4flag=fr |pos4=dps",
+            "p5": "Yiol  |p5flag=fr |pos5=sup",
+            "p6": "Twinky  |p6flag=fr |pos6=sup",
+            "c": "|cflag="
+        },
+        {
+            "team": "Gamers League",
+            "image": "Gamersleague.png",
+            "p1": "Citron|p1flag=fr|pos1=dps",
+            "p2": "Huge|p2flag=fr|pos2=dps",
+            "p3": "Hipeur|p3flag=fr|pos3=tank",
+            "p4": "TsuN\u00e0|p4flag=fr|pos4=tank",
+            "p5": "Manoxi|p5flag=fr|pos5=sup",
+            "p6": "Pierrg|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "Eminence eSports",
+            "image": "Eminence eSports Logo.png",
+            "p1": "Teemo  |p1flag=fr |pos1=tank",
+            "p2": "Hazox  |p2flag=fr |pos2=tank",
+            "p3": "Daio  |p3flag=fr |pos3=dps",
+            "p4": "OniBy |p4flag=fr |pos4=dps",
+            "p5": "Apollo |p5flag=fr |pos5=sup|p5link=Apollo(French Player)",
+            "p6": "Sstarboi  |p6flag=fr |pos6=sup",
+            "c": "Fields |cflag=uk",
+            "c2": "Piotreza |c2flag=fr"
+        },
+        {
+            "team": "USMD",
+            "image": "",
+            "p1": "Appe  |p1flag=fr |pos1=",
+            "p2": "Mp\u00e9 |p2flag= |pos2=",
+            "p3": "seluj |p3flag=fr |pos3=",
+            "p4": "EzS |p4flag=be |pos4=",
+            "p5": "Demilk   |p5flag=fr |pos5=",
+            "p6": "Kenshi |p6flag=fr |pos6=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Coliseum",
+            "image": "",
+            "p1": "Chubz  |p1flag=fr |pos1=tank",
+            "p2": "Tek36  |p2flag=fr |pos2=tank",
+            "p3": "Tsuna  |p3flag=fr|pos3=dps",
+            "p4": "Flippy  |p4flag=fr |pos4=dps",
+            "p5": "dridro |p5flag=fr |pos5=sup",
+            "p6": "Pipou |p6flag= |pos6=sup",
+            "c": "|cflag="
+        },
+        {
+            "team": "Team Loco",
+            "image": "Team Loco OUI logo.png",
+            "p1": "Alm\u00e9ria |p1flag=fr |pos1=",
+            "p2": "Folky |p2flag=fr |pos2=",
+            "p3": "Nazka |p3flag=fr |pos3=",
+            "p4": "Hikar|p4flag=fr |pos4=",
+            "p5": "Protocole |p5flag=fr |pos5=",
+            "p6": "DatC4sh |p6flag=fr |pos6=",
+            "c": "|cflag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "coliseum",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "usmd",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "luxodia",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "fcg esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "eminence esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "gamers league",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "team loco",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "usmd",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "coliseum",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "gamers league",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "eminence esports",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "gamers league",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "coliseum",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "fcg esports",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "luxodia",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D11",
+            "team1": "team loco",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "fcg esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "usmd",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "luxodia",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D2",
+            "team1": "eminence esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "eminence esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "usmd",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "eminence esports",
+            "score2": "2",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "gamers league",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "gamers league",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "coliseum",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

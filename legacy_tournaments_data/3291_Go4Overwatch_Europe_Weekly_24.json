@@ -1,0 +1,93 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #24",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "24",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2016-11-13",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-24/rankings/",
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "team_number": "38",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Fragsters",
+            "image": "",
+            "p1": "",
+            "p1flag": "",
+            "p2": "",
+            "p2flag": "",
+            "p3": "",
+            "p3flag": "",
+            "p4": "",
+            "p4flag": "",
+            "p5": "",
+            "p5flag": "",
+            "p6": "",
+            "p6flag": ""
+        },
+        {
+            "team": "epok team",
+            "image": "",
+            "p1": "HAL",
+            "p1flag": "",
+            "p2": "",
+            "p2flag": "",
+            "p3": "",
+            "p3flag": "",
+            "p4": "",
+            "p4flag": "",
+            "p5": "",
+            "p5flag": "",
+            "p6": "",
+            "p6flag": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "epok team",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "fragsters",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "normandus",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "fragsters",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "epok team",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "tribunal esports e. v. white",
+            "score1": "1",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

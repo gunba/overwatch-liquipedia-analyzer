@@ -1,0 +1,254 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch Team Story - Chapter 2 Qualifier",
+            "tickername": "Overwatch Team Story",
+            "shortname": "",
+            "image": "Overwatch_Team_Story_-_Chapter_2_logo.png",
+            "series": "OTS",
+            "icon": "team story icon.png",
+            "organizer": "zhanqi.tv",
+            "organizer-link": "https://www.zhanqi.tv/",
+            "organizer2": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "China",
+            "city": "",
+            "format": "Single Elimination",
+            "game": "overwatch",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "",
+            "date": "",
+            "sdate": "2017-04-25",
+            "edate": "2017-04-27",
+            "liquipediatier": "2|liquipediatiertype=Qualifier",
+            "web": "",
+            "stream": "http://ots.zhanqi.tv/",
+            "bracket": "http://nga.178.com/read.php?tid=11492762",
+            "team_number": "32",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Light Gaming",
+            "p1": "Ana|p1flag=cn|p1link=Ana (Chinese player)",
+            "p2": "Liubaba|p2flag=cn",
+            "p3": "NvM|p3flag=cn",
+            "p4": "SouLer|p4flag=cn",
+            "p5": "xiaolu233|p5flag=cn",
+            "p6": "LIfe|p6flag=cn",
+            "p7": "Ttaoz1|p7flag=cn",
+            "p8": "Guri|p8flag=cn",
+            "c": "|cflag=cn"
+        },
+        {
+            "team": "EHOME.CN",
+            "link": "EHOME/EHOME.CN",
+            "p1": "PIGpig|p1flag=cn",
+            "p2": "Aixi|p2flag=cn",
+            "p3": "Google|p3flag=cn",
+            "p4": "TROLL|p4flag=cn",
+            "p5": "YJYG|p5flag=cn",
+            "p6": "Hola|p6flag=cn",
+            "p7": "23|p7flag=cn",
+            "p8": "shanji|p8flag=cn",
+            "c": "|cflag=cn"
+        },
+        {
+            "team": "LaoYinBi",
+            "p1": "PIGFF|p1flag=cn",
+            "p2": "BOSSV|p2flag=cn",
+            "p3": "TRICKSTER|p3flag=cn",
+            "p4": "JO3Yw0w|p4flag=cn",
+            "p5": "Mozz|p5flag=cn",
+            "p6": "Doooooooo|p6flag=cn",
+            "p7": "PERSE|p7flag=cn",
+            "p8": "JINMU|p8flag=cn"
+        },
+        {
+            "team": "Miracle Team One",
+            "p1": "Krystal|p1flag=cn",
+            "p2": "ReckfuL|p2flag=cn",
+            "p3": "Pleasing|p3flag=cn",
+            "p4": "Unturned|p4flag=cn",
+            "p5": "YuanFang2|p5flag=cn",
+            "p6": "PP|p6flag=cn",
+            "p7": "Rikka|p7flag=cn",
+            "p8": "m0re|p8flag=cn",
+            "c": "Cameal|cflag=cn"
+        },
+        {
+            "team": "LinGan e-Sports",
+            "p1": "JustIBb|p1flag=cn",
+            "p2": "Timon|p2flag=cn",
+            "p3": "Kudan|p3flag=cn",
+            "p4": "Cu1k|p4flag=cn",
+            "p5": "yixi|p5flag=cn",
+            "p6": "EVen|p6flag=cn",
+            "p7": "01|p7flag=cn",
+            "p8": "|p8flag=cn",
+            "c": "|cflag=cn"
+        },
+        {
+            "team": "wNv.CN",
+            "link": "WNv_Teamwork/wNv.CN",
+            "p1": "lxppp|p1flag=cn",
+            "p2": "ShimaKaze|p2flag=cn",
+            "p3": "LingTu|p3flag=cn",
+            "p4": "Fengm|p4flag=cn",
+            "p5": "BeiDi|p5flag=cn",
+            "p6": "Yui|p6flag=cn",
+            "p7": "kevin|p7flag=cn|p7link=kevin (Chinese player)",
+            "p8": "Obito|p8flag=cn"
+        },
+        {
+            "team": "Solution Gaming",
+            "p1": "BAKA|p1flag=cn",
+            "p2": "WOF|p2flag=cn",
+            "p3": "BOOKS|p3flag=cn",
+            "p4": "J1E|p4flag=cn",
+            "p5": "Mist|p5flag=cn",
+            "p6": "XIAO7|p6flag=cn",
+            "p7": "LIULIAN|p7flag=cn",
+            "p8": "WUYAO|p8flag=cn"
+        },
+        {
+            "team": "JD-Gaming",
+            "p1": "meiko111|p1flag=cn",
+            "p2": "Aay|p2flag=cn",
+            "p3": "Mingyue|p3flag=cn",
+            "p4": "Canon|p4flag=cn",
+            "p5": "Gzzt|p5flag=cn",
+            "p6": "MAX|p6flag=cn |p6link=MAX (Chinese player)",
+            "p7": "Sirenity|p7flag=cn",
+            "p8": "eRay|p8flag=cn",
+            "c": "|cflag=cn"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|tbl|score=0}}",
+            "opponent2": "{{TeamOpponent|1246.ares|score=2}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|\u6c38\u5b89|score=0}}",
+            "opponent2": "{{TeamOpponent|Light Gaming|score=2}}",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|EHOME.CN|score=2}}",
+            "opponent2": "{{TeamOpponent|GP|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|EZ1|score=0}}",
+            "opponent2": "{{TeamOpponent|Reic|score=2}}",
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|NLTHY|score=0}}",
+            "opponent2": "{{TeamOpponent|LaoYinBi|score=2}}",
+            "optional": "R1M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|O2|score=0}}",
+            "opponent2": "{{TeamOpponent|BTH|score=2}}",
+            "optional": "R1M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Dragon|score=0}}",
+            "opponent2": "{{TeamOpponent|Miracle Team One|score=2}}",
+            "optional": "R1M7="
+        },
+        {
+            "opponent1": "{{TeamOpponent|DF|score=0}}",
+            "opponent2": "{{TeamOpponent|Remember Me|score=2}}",
+            "optional": "R1M8="
+        },
+        {
+            "opponent1": "{{TeamOpponent|MyTh Club|score=0}}",
+            "opponent2": "{{TeamOpponent|Moss Seven Club|score=2}}",
+            "optional": "R1M9="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Win Team|score=0}}",
+            "opponent2": "{{TeamOpponent|LinGan e-Sports|score=2}}",
+            "optional": "R1M10="
+        },
+        {
+            "opponent1": "{{TeamOpponent|wNv.CN|score=2}}",
+            "opponent2": "{{TeamOpponent|TOP|score=1}}",
+            "optional": "R1M11="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Dawn Raid Long|score=0}}",
+            "opponent2": "{{TeamOpponent|All Gamers|score=2}}",
+            "optional": "R1M12="
+        },
+        {
+            "opponent1": "{{TeamOpponent|CLF|score=0}}",
+            "opponent2": "{{TeamOpponent|NLTGY|score=2}}",
+            "optional": "R1M13="
+        },
+        {
+            "opponent1": "{{TeamOpponent|AZ365|score=0}}",
+            "opponent2": "{{TeamOpponent|Solution Gaming|score=2}}",
+            "optional": "R1M14="
+        },
+        {
+            "opponent1": "{{TeamOpponent|MYS|score=0}}",
+            "opponent2": "{{TeamOpponent|Faith|score=2}}",
+            "optional": "R1M15="
+        },
+        {
+            "opponent1": "{{TeamOpponent|JD-Gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|XEIRD|score=1}}",
+            "optional": "R1M16="
+        },
+        {
+            "opponent1": "{{TeamOpponent|1246.ares|score=0}}",
+            "opponent2": "{{TeamOpponent|Light Gaming|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|EHOME.CN|score=2}}",
+            "opponent2": "{{TeamOpponent|Reic|score=1}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|LaoYinBi|score=2}}",
+            "opponent2": "{{TeamOpponent|BTH|score=1}}",
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Miracle Team One|score=2}}",
+            "opponent2": "{{TeamOpponent|Remember Me|score=1}}",
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Moss Seven Club|score=1}}",
+            "opponent2": "{{TeamOpponent|LinGan e-Sports|score=2}}",
+            "optional": "R2M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|wNv.CN|score=2}}",
+            "opponent2": "{{TeamOpponent|All Gamers|score=1}}",
+            "optional": "R2M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent|NLTGY|score=0}}",
+            "opponent2": "{{TeamOpponent|Solution Gaming|score=2}}",
+            "optional": "R2M7="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Faith|score=1}}",
+            "opponent2": "{{TeamOpponent|JD-Gaming|score=2}}",
+            "optional": "R2M8="
+        }
+    ]
+}

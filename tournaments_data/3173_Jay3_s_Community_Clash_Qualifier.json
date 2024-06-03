@@ -1,0 +1,1020 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "liquipediatiertype": "Qualifier",
+            "name": "Jay3's Community Clash Qualifier",
+            "tickername": "Jay3's Community Clash Qualifier",
+            "image": "Jay3's Community Clash allmode.png",
+            "icon": "Jay3's Community Clash allmode.png",
+            "organizer": "Jay3",
+            "organizer2": "Luminosity Gaming",
+            "type": "Online",
+            "game": "overwatch2",
+            "country": "North America",
+            "format": "Single Elimination",
+            "sdate": "2024-02-06",
+            "edate": "2024-02-09",
+            "bracket": "https://www.start.gg/tournament/jay3-s-community-clash/details",
+            "youtube": "jay3",
+            "twitch": "jay3",
+            "twitter": "Jay3OW",
+            "discord": "9DYQRPHcpw",
+            "rulebook": "https://docs.google.com/document/d/1yvUY6ZdW32SNIpKbk7lhOUT8x9S6pK37cPYNJI3ZzZI/edit",
+            "team_number": "199"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Shikigami",
+            "p1": "Rymazing",
+            "pos1": "dps",
+            "p2": "Noxious",
+            "pos2": "dps",
+            "p2link": "Noxious (Canadian Player)",
+            "p3": "Talisman",
+            "p3flag": "pr",
+            "pos3": "dps",
+            "p3link": "Talisman (Puerto Rican player)",
+            "p4": "Tred",
+            "pos4": "tank",
+            "p5": "Aspect",
+            "p5flag": "ca",
+            "pos5": "tank",
+            "p6": "Deeko",
+            "pos6": "sup",
+            "p7": "zman",
+            "pos7": "sup",
+            "p8": "Graveyard",
+            "p8flag": "ca",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "Aspen",
+            "t2c1flag": "us",
+            "t2c1pos": "coach",
+            "t2c1link": "Aspen (American Coach)",
+            "t2c2": "Aeroplayne",
+            "t2c2pos": "Manager"
+        },
+        {
+            "team": "PiP7k",
+            "p1": "peace",
+            "pos1": "dps",
+            "p2": "Manually",
+            "pos2": "dps",
+            "p3": "Astronexz",
+            "pos3": "tank",
+            "p4": "Grapes",
+            "pos4": "sup",
+            "p5": "Prota",
+            "pos5": "sup"
+        },
+        {
+            "team": "Boise Spitfire",
+            "p1": "Playto",
+            "pos1": "dps",
+            "p2": "Backbone",
+            "pos2": "dps",
+            "p3": "Hadi",
+            "pos3": "tank",
+            "p4": "Bagel",
+            "pos4": "sup",
+            "p5": "ChoseN",
+            "pos5": "sup"
+        },
+        {
+            "team": "EU'S SECOND HOPE",
+            "p1": "Condi",
+            "pos1": "dps",
+            "p2": "W1ll",
+            "pos2": "dps",
+            "p3": "Sestroyed",
+            "p3flag": "lt",
+            "pos3": "dps",
+            "p4": "Vestola",
+            "pos4": "tank",
+            "p5": "Lv1Crook",
+            "pos5": "sup",
+            "p6": "Sauna",
+            "pos6": "sup",
+            "p7": "Jebaited",
+            "p7flag": "ru",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Cointree",
+            "t2c1pos": "Manager"
+        },
+        {
+            "team": "Krazy 88s",
+            "p1": "Melophobia",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "JUTSU",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "dust",
+            "p3flag": "ca",
+            "pos3": "tank",
+            "p4": "Jags",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Zmurfiex",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "Reinguy",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "BoltingCake",
+            "p7flag": "us",
+            "pos7": "sup",
+            "p8": "Thunder",
+            "p8flag": "us",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "Fauwkz",
+            "t2c1flag": "ca",
+            "t2c1pos": "coach",
+            "t2c2": "Raine",
+            "t2c2flag": "us",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "Lethal n Company",
+            "p1": "Lethal",
+            "pos1": "dps",
+            "p2": "TAP",
+            "pos2": "dps",
+            "p3": "Mashiro",
+            "pos3": "tank",
+            "p4": "Drunk",
+            "p4flag": "cn",
+            "pos4": "sup",
+            "p5": "Avertings",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Aeroplayne",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Baegle's Bastards",
+            "p1": "BUDG3T",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "judeka",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "FOREVER774",
+            "p3flag": "pl",
+            "pos3": "tank",
+            "p4": "baegle",
+            "p4flag": "au",
+            "pos4": "sup",
+            "p5": "confusionkys",
+            "p5flag": "uk",
+            "pos5": "sup",
+            "p6": "Jazzy",
+            "p6flag": "uk",
+            "pos6": "sup",
+            "p7": "Jamers",
+            "p7flag": "uk",
+            "pos7": "sup",
+            "p8": "Julex",
+            "p8flag": "us",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "",
+            "t2c1pos": "",
+            "t2c2": "",
+            "t2c2pos": ""
+        },
+        {
+            "team": "Gilbert's Family",
+            "p1": "Gurkmeister",
+            "p1flag": "se",
+            "pos1": "dps",
+            "p2": "JAKE",
+            "pos2": "dps",
+            "p3": "v1ctory",
+            "p3flag": "ca",
+            "pos3": "dps",
+            "p4": "Muma",
+            "pos4": "tank",
+            "p5": "Gorilla",
+            "p5flag": "ca",
+            "pos5": "sup",
+            "p6": "eggcellent",
+            "pos6": "sup"
+        },
+        {
+            "team": "Bronzebeard's Tavern",
+            "p1": "Tristan",
+            "p1flag": "ca",
+            "pos1": "dps",
+            "p2": "Emmeryn",
+            "pos2": "dps",
+            "p3": "footloose",
+            "p3flag": "ca",
+            "pos3": "dps",
+            "p4": "Lunacy",
+            "pos4": "tank",
+            "p5": "sawhill",
+            "pos5": "tank",
+            "p6": "MagicM8Ball",
+            "pos6": "sup",
+            "p7": "Neutral",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Luca",
+            "t2c1flag": "ch",
+            "t2c1pos": "manager",
+            "t2c1link": "Luca (Swiss manager)"
+        },
+        {
+            "team": "Persona",
+            "link": "Persona (American Team)",
+            "p1": "xten",
+            "pos1": "dps",
+            "p2": "chime",
+            "pos2": "dps",
+            "p3": "Celerity",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "painkiller",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Jordan",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p5link": "Jordan (American player)",
+            "p6": "keroppi",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "chime",
+            "t2c1pos": "coach",
+            "t2c2": "flashmob",
+            "t2c2flag": "pr",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "TEAM NAME",
+            "p1": "P3t9L",
+            "pos1": "dps",
+            "p2": "Doomed",
+            "pos2": "dps",
+            "p3": "cuFFa",
+            "pos3": "tank",
+            "p4": "FishCake",
+            "pos4": "sup",
+            "p5": "Scuffed",
+            "p5flag": "us",
+            "pos5": "sup",
+            "t2title": "Substitutes",
+            "t2p1": "Prospect",
+            "t2p1pos": "dps",
+            "t2p2": "pdk",
+            "t2p2pos": "dps",
+            "t2p3": "abdala",
+            "t2p3pos": "tank",
+            "t2p4": "Iszhtar",
+            "t2p4flag": "us",
+            "t2p4pos": "sup",
+            "t3title": "Staff",
+            "t3c1": "Junkbuck",
+            "t3c1pos": "coach"
+        },
+        {
+            "team": "Inferno",
+            "link": "Inferno (team)",
+            "p1": "Lampent",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "High",
+            "p2flag": "ca",
+            "pos2": "dps",
+            "p3": "Solo",
+            "p3flag": "ca",
+            "pos3": "tank",
+            "p4": "NenWhy",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "MembersOnly",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Maggy",
+            "t2c1flag": "uk",
+            "t2c1pos": "Coach",
+            "t2c2": "Yokai",
+            "t2c2flag": "uk",
+            "t2c2pos": "Coach",
+            "t2c3": "Tyler",
+            "t2c3flag": "us",
+            "t2c3pos": "Manager"
+        },
+        {
+            "team": "Pyongyang Pelicans",
+            "p1": "Vex",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Kashir",
+            "pos2": "dps",
+            "p3": "baz",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Squeak",
+            "pos4": "tank",
+            "p5": "redex",
+            "pos5": "sup",
+            "p6": "Andrew",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p6link": "Andrew (American Player)",
+            "p7": "fate",
+            "pos7": "sup",
+            "p7link": "fate (British Player)"
+        },
+        {
+            "team": "Monstars",
+            "p1": "bedtimestory",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Ryan",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p2link": "Ryan (American player)",
+            "p3": "mikeyy",
+            "pos3": "tank",
+            "p4": "cal",
+            "pos4": "sup",
+            "p5": "Unter",
+            "pos5": "sup"
+        },
+        {
+            "team": "Twice 2am",
+            "p1": "dotchodst",
+            "p1flag": "mx",
+            "pos1": "dps",
+            "p2": "Zapata",
+            "p2flag": "mx",
+            "pos2": "dps",
+            "p3": "SparkChief",
+            "p3flag": "mx",
+            "pos3": "tank",
+            "p3link": "Spark",
+            "p4": "Ghost",
+            "p4flag": "mx",
+            "pos4": "sup",
+            "p5": "LinavV",
+            "p5flag": "mx",
+            "pos5": "sup",
+            "p6": "Poyo",
+            "p6flag": "mx",
+            "pos6": "sup",
+            "p7": "Efi",
+            "p7flag": "mx",
+            "pos7": "sup"
+        },
+        {
+            "team": "FedEX",
+            "p1": "FodCarry",
+            "pos1": "dps",
+            "p2": "XP7",
+            "pos2": "dps",
+            "p3": "astdesign",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Chungseolmo",
+            "p4flag": "kr",
+            "pos4": "sup",
+            "p5": "consequence",
+            "p5flag": "ca",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "cici",
+            "t2c1flag": "tw",
+            "t2c1pos": "Manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "February 8, 2024 - 17:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "shikigami",
+            "opponent1_score": 3,
+            "opponent2": "PiP7k",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "February 8, 2024 - 17:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Boise Spitfire",
+            "opponent1_score": 0,
+            "opponent2": "EU'S SECOND HOPE",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "February 8, 2024 - 17:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "krazy 88s",
+            "opponent1_score": 1,
+            "opponent2": "lethal n company",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "February 8, 2024 - 17:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "baegle's bastards",
+            "opponent1_score": 0,
+            "opponent2": "gilbert's family",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "February 8, 2024 - 19:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "shikigami",
+            "opponent1_score": 3,
+            "opponent2": "EU'S SECOND HOPE",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "February 8, 2024 - 19:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "lethal n company",
+            "opponent1_score": 3,
+            "opponent2": "gilbert's family",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "February 9, 2024 - 19:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "Jay3",
+            "opponent1": "shikigami",
+            "opponent2": "lethal n company",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "56.14m",
+                "score2": "65.37m",
+                "winner": "2"
+            },
+            "optional": "R3M1="
+        },
+        {
+            "bestof": "5",
+            "date": "February 8, 2024 - 17:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bronzebeard's Tavern",
+            "opponent1_score": 3,
+            "opponent2": "Persona (American Team)",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "February 8, 2024 - 17:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "TEAM NAME",
+            "opponent1_score": 3,
+            "opponent2": "Inferno (team)",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "February 8, 2024 - 17:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Pyongyang Pelicans",
+            "opponent1_score": 0,
+            "opponent2": "Monstars",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "February 8, 2024 - 17:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Twice 2am",
+            "opponent1_score": 0,
+            "opponent2": "FedEX",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "February 8, 2024 - 19:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bronzebeard's Tavern",
+            "opponent1_score": 1,
+            "opponent2": "TEAM NAME",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "February 8, 2024 - 19:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Monstars",
+            "opponent1_score": 3,
+            "opponent2": "FedEX",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "February 9, 2024 - 17:00",
+            "date_timezone": "PST",
+            "youtube": "",
+            "twitch": "Jay3",
+            "opponent1": "TEAM NAME",
+            "opponent2": "Monstars",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

@@ -1,0 +1,717 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "Console Gaming League",
+            "abbreviation": "CGL",
+            "shortname": "Season 11 EU PC Playoffs",
+            "name": "CGL Season 11 - EU PC Playoffs",
+            "tickername": "CGL Season 11 EU PC Playoffs",
+            "image": "Console Gaming League lightmode.png",
+            "imagedark": "Console Gaming League darkmode.png",
+            "icon": "Console Gaming League lightmode.png",
+            "icondark": "Console Gaming League darkmode.png",
+            "organizer": "Console Gaming League",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Europe",
+            "format": "Single Elimination<br>Double Elimination",
+            "prizepoolusd": "2250",
+            "sdate": "2023-03-27",
+            "edate": "2023-04-27",
+            "web": "https://www.consolegamingleague.com/",
+            "twitch": "cgl1",
+            "discord": "bBsQg37",
+            "twitter": "consolegaminglg",
+            "instagram": "consolegamingleague",
+            "bracket": "https://manage.consolegamingleague.com/event/177/bracket/30/",
+            "rulebook": "https://docs.google.com/document/d/1VrTnw7JHLg6NZ6XKANbOmk9zltzjGmoCDfcEwBJdBrk/edit#",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Infernal EU",
+            "p1": "NisPuk",
+            "p1flag": "de",
+            "pos1": "dps",
+            "p2": "Dip",
+            "pos2": "dps",
+            "p3": "EGO",
+            "p3flag": "de",
+            "pos3": "tank",
+            "p3link": "EGO (German player)",
+            "p4": "tekuno",
+            "p4flag": "uk",
+            "pos4": "sup",
+            "p5": "Natsuki",
+            "p5flag": "nl",
+            "pos5": "sup",
+            "p6": "Okuwatse",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "p7": "DPSno0b",
+            "pos7": "",
+            "t2title": "Staff",
+            "t2p1": "M\u01fa\u0166\u0156\u0128X",
+            "t2pos1": "manager",
+            "t2p1flag": "de",
+            "t2p2": "GoldenEagle",
+            "t2pos2": "coach",
+            "t2p2flag": "be",
+            "t2p3": "Tayler",
+            "t2pos3": "coach",
+            "t2p3flag": "fr"
+        },
+        {
+            "team": "YS Divinity",
+            "p1": "Sauragamon",
+            "p1flag": "se",
+            "pos1": "dps",
+            "p2": "Pikanew",
+            "p2flag": "il",
+            "pos2": "dps",
+            "p3": "wilbos",
+            "p3flag": "se",
+            "pos3": "tank",
+            "p4": "Alec",
+            "p4flag": "dk",
+            "pos4": "sup",
+            "p5": "Shirox",
+            "p5flag": "de",
+            "pos5": "sup",
+            "p6": "ASTIR",
+            "pos6": "",
+            "t2title": "Staff",
+            "t2p1": "Girafflesnke",
+            "t2pos1": "manager",
+            "t2p1flag": "",
+            "t2p2": "SpikeGaming",
+            "t2pos2": "coach",
+            "t2p2flag": ""
+        },
+        {
+            "team": "Dragon's Yokai",
+            "p1": "Erso",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Niel",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Terratiger",
+            "p3flag": "fr",
+            "pos3": "dps",
+            "p4": "MisterFish",
+            "p4flag": "ch",
+            "pos4": "tank",
+            "p5": "Allan\u01c3",
+            "p5flag": "fr",
+            "pos5": "tank",
+            "p6": "Lenkwyn",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "p7": "Hell",
+            "p7flag": "fr",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2p1": "Kyo",
+            "t2pos1": "manager",
+            "t2p1flag": "fr",
+            "t2p1link": "Kyo (French manager)"
+        },
+        {
+            "team": "Berlin-Brandenburg Esports",
+            "p1": "kuah",
+            "p1flag": "dk",
+            "pos1": "dps",
+            "p2": "Tricky",
+            "p2flag": "dk",
+            "pos2": "dps",
+            "p3": "Snazzy",
+            "p3flag": "se",
+            "pos3": "tank",
+            "p4": "Jack",
+            "p4flag": "uk",
+            "pos4": "tank",
+            "p5": "FNGUK",
+            "p5flag": "sct",
+            "pos5": "sup",
+            "p6": "PANDI\u01c3",
+            "p6flag": "de",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2p1": "littleblits",
+            "t2pos1": "manager",
+            "t2p1flag": "nl",
+            "t2p2": "Predo",
+            "t2pos2": "coach",
+            "t2p2flag": "de"
+        },
+        {
+            "team": "Gilix Spartan Logo",
+            "p1": "Chroo",
+            "pos1": "tank",
+            "p2": "qrxu",
+            "pos2": "dps",
+            "p3": "M3WS",
+            "pos3": "dps",
+            "p4": "W1ll",
+            "pos4": "dps",
+            "p4flag": "dk",
+            "p5": "Sucrax",
+            "pos5": "sup",
+            "p6": "CaptainPrash",
+            "pos6": "sup",
+            "p7": "Gilix",
+            "pos7": "sup",
+            "p7flag": "de",
+            "t2title": "Staff",
+            "t2p1": "Regiegab",
+            "t2pos1": "coach",
+            "t2p1flag": "",
+            "t2p1team": "sheer cold",
+            "t2p2": "Cointree",
+            "t2pos2": "Manager",
+            "t2p2flag": "",
+            "t2p2team": "Twisted Minds"
+        },
+        {
+            "team": "EMC Phoenix",
+            "p1": "Mini",
+            "pos1": "flex",
+            "p1link": "Mini (European Player)",
+            "p2": "Octotroph",
+            "pos2": "tank",
+            "p3": "JJomac",
+            "pos3": "tank",
+            "p4": "Jonah",
+            "pos4": "sup",
+            "p5": "Kermy",
+            "pos5": "",
+            "p6": "WittyWeeb",
+            "pos6": "",
+            "p7": "Lankyrat1043",
+            "pos7": "",
+            "p8": "Forky",
+            "pos8": "",
+            "t2title": "Staff",
+            "t2p1": "con",
+            "t2pos1": "coach",
+            "t2p2": "metanite",
+            "t2pos2": "coach",
+            "t2p3": "JWiz",
+            "t2pos3": "coach"
+        },
+        {
+            "team": "Stop Skipping Scrims",
+            "p1": "xzodyal",
+            "p1flag": "es",
+            "pos1": "dps",
+            "p2": "ShadedMike",
+            "p2flag": "no",
+            "pos2": "dps",
+            "p3": "skitsa",
+            "pos3": "dps",
+            "p4": "JCaesarP",
+            "p4flag": "pl",
+            "pos4": "tank",
+            "p5": "Willys07",
+            "p5flag": "se",
+            "pos5": "tank",
+            "p6": "Pnda",
+            "p6flag": "es",
+            "pos6": "sup",
+            "p7": "jupitr",
+            "p7flag": "se",
+            "pos7": "sup"
+        },
+        {
+            "team": "Alternate Untitled",
+            "p1": "DevilWood",
+            "p1flag": "gb",
+            "pos1": "dps",
+            "p2": "Zupo",
+            "p2flag": "de",
+            "pos2": "flex",
+            "p3": "SterbeGern",
+            "p3flag": "de",
+            "pos3": "flex",
+            "p4": "gongi",
+            "p4flag": "gb",
+            "pos4": "tank",
+            "p5": "Pflamton",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "Majid",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "p7": "Schef",
+            "p7flag": "nl",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2p1": "Goldblooded",
+            "t2pos1": "manager",
+            "t2p1flag": "de",
+            "t2p2": "TheWeevil",
+            "t2pos2": "coach",
+            "t2p2flag": "be",
+            "t2p3": "bluwu",
+            "t2pos3": "coach",
+            "t2p3flag": "gb",
+            "t2p4": "Morgan",
+            "t2pos4": "coach",
+            "t2p4flag": "gb"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "March 31, 2023 - 18:30",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "infernal eu|score=",
+            "opponent2": "ys divinity|score=",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "March 29, 2023 - 18:00",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "dragon's yokai|score=",
+            "opponent2": "berlin-brandenburg esports|score=",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 1, 2023 - 19:00",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "gilix spartan logo",
+            "opponent1_score": 3,
+            "opponent2": "emc phoenix",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "April 1, 2023 - 16:00",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "stop skipping scrims|score=",
+            "opponent2": "Alternate Untitled|score=",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "April 6, 2023 - 18:30",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "infernal eu|score=",
+            "opponent2": "berlin-brandenburg esports|score=",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 5, 2023 - 18:00",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "gilix spartan logo",
+            "opponent1_score": 3,
+            "opponent2": "untitled",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "April 13, 2023 - 16:00",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "berlin-brandenburg esports",
+            "opponent1_score": 1,
+            "opponent2": "gilix spartan logo",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "April 12, 2023 - 19:00",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "infernal eu|score=",
+            "opponent2": "Alternate Untitled|score=",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "April 20, 2023 - 16:00",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "berlin-brandenburg esports|score=",
+            "opponent2": "infernal eu|score=",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "April 27, 2023 - 18:00",
+            "date_timezone": "UTC",
+            "youtube": "",
+            "twitch": "CGL1",
+            "opponent1": "gilix spartan logo",
+            "opponent1_score": 4,
+            "opponent2": "infernal eu",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R4M1="
+        }
+    ]
+}

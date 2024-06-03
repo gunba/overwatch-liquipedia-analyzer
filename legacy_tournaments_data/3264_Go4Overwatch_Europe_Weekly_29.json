@@ -1,0 +1,128 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #29",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "29",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2016-12-18",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-29/rankings/",
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "team_number": "41",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Fragsters",
+            "image": "",
+            "p1": "Kellex ",
+            "p1flag": "",
+            "p2": "Nerfdd ",
+            "p2flag": "",
+            "p3": "Hunni ",
+            "p3flag": "",
+            "p4": "Danii ",
+            "p4flag": "",
+            "p5": "Lind ",
+            "p5flag": "",
+            "p6": "Voltaqez ",
+            "p6flag": "dk"
+        },
+        {
+            "team": "Potato Team",
+            "image": "",
+            "p1": "",
+            "p1flag": "",
+            "p2": "",
+            "p2flag": "",
+            "p3": "",
+            "p3flag": "",
+            "p4": "",
+            "p4flag": "",
+            "p5": "",
+            "p5flag": "",
+            "p6": "",
+            "p6flag": ""
+        },
+        {
+            "team": "OW.QQ",
+            "image": "",
+            "p1": "matth ",
+            "p1flag": "pl",
+            "p2": "Tank117 ",
+            "p2flag": "pl",
+            "p3": "ghost ",
+            "p3flag": "pl ",
+            "p3link": "ghost (Polish player)",
+            "p4": "bartu\u015b ",
+            "p4flag": "pl",
+            "p5": "no1special ",
+            "p5flag": "pl",
+            "p6": "\u015blepajstos ",
+            "p6flag": "pl"
+        },
+        {
+            "team": "Oslo Lions",
+            "image": "",
+            "p1": "Iko ",
+            "p1flag": "no",
+            "p2": "Invision ",
+            "p2flag": "no",
+            "p3": "Fresh ",
+            "p3flag": "no",
+            "p4": "Decod ",
+            "p4flag": "no",
+            "p5": "iPN ",
+            "p5flag": "no",
+            "p6": "Aateigen ",
+            "p6flag": "no",
+            "c": "Art ",
+            "cflag": "no"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Oslo Lions",
+            "score2": "2",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "Fragsters",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Oslo Lions",
+            "score2": "2",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "Fragsters",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "OW.QQ",
+            "score2": "-",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "Potato Team",
+            "score1": "W",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

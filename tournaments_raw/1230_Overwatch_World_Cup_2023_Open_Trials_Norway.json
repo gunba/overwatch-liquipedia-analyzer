@@ -1,0 +1,262 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch World Cup 2023 Norway Open Trials",
+            "image": "Overwatch World Cup 2023 allmode.png",
+            "series": "Overwatch World Cup",
+            "shortname": "World Cup 2023",
+            "tickername": "OWWC NOR Open Trials",
+            "icon": "Overwatch World Cup logo.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "GameBattles",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Norway",
+            "country2": "",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "game": "overwatch2",
+            "prizepoolusd": "2000",
+            "sdate": "2023-02-25",
+            "edate": "2023-02-26",
+            "liquipediatier": "4",
+            "blizzardtier": "owwc",
+            "web": "https://overwatchworldcup.com",
+            "twitter": "playoverwatch",
+            "youtube": "playoverwatch",
+            "twitch": "playoverwatch",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/WC-Trials-NO/info",
+            "rulebook": "https://s3.amazonaws.com/mlg-gamebattles-production/assets/arenacp/files/1675265987/2023-OWWC-Trials-Rules-GB-Feb-1-EN.pdf",
+            "team_number": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "N\u00e5rj",
+            "p1": "Synoyd|p1flag=no|p1team=|pos1=",
+            "p2": "H0ta|p2flag=no|p2team=|pos2=",
+            "p3": "SPK|p3flag=no|p3team=|pos3=",
+            "p4": "nexxtie|p4flag=no|p4team=|pos4=",
+            "p5": "soju|p5flag=no|p5team=|pos5="
+        },
+        {
+            "team": "Det er farlig det",
+            "p1": "Mrhumble|p1flag=no|p1team=|pos1=",
+            "p2": "Deian|p2flag=no|p2team=|pos2=",
+            "p3": "R3flect|p3flag=no|p3team=|pos3=",
+            "p4": "Laxlay|p4flag=no|p4team=|pos4=",
+            "p5": "THRST|p5flag=no|p5team=|pos5=",
+            "p6": "Too|p6flag=no|p6team=|pos6="
+        },
+        {
+            "team": "funnyguys!",
+            "p1": "Yiqids|p1flag=no|p1team=|pos1=dps",
+            "p2": "ido|p2flag=no|p2team=|pos2=dps",
+            "p3": "PSYCH0|p3flag=no|p3team=|pos3=dps",
+            "p4": "Isack|p4flag=no|p4team=|pos4=tank",
+            "p5": "meeemyo|p5flag=no|p5team=|pos5=sup",
+            "p6": "YellowS|p6flag=no|p6team=|pos6=sup"
+        },
+        {
+            "team": "Deadly Drones",
+            "p1": "RobinNorge|p1flag=no|p1team=|pos1=",
+            "p2": "Arkose|p2flag=no|p2team=|pos2=",
+            "p3": "Dirtmaster|p3flag=no|p3team=|pos3=",
+            "p4": "Ole|p4flag=no|p4team=|pos4=|p4link=Ole (Norwegian player)",
+            "p5": "Throughust|p5flag=no|p5team=|pos5=",
+            "p6": "iwon|p6flag=no|p6team=|pos6="
+        },
+        {
+            "team": "Vernalis",
+            "p1": "Reinschdyret|p1flag=no|p1team=|pos1=dps",
+            "p2": "Tobzi|p2flag=no|p2team=|pos2=dps",
+            "p3": "explorer|p3flag=no|p3team=|pos3=tank",
+            "p4": "JayP7|p4flag=no|p4team=|pos4=sup",
+            "p5": "Ekko|p5flag=no|p5team=|pos5=sup"
+        },
+        {
+            "team": "Ntnui esport",
+            "p1": "AGM|p1flag=no|p1team=|pos1=",
+            "p2": "Cr0wdZ|p2flag=no|p2team=|pos2=",
+            "p3": "Juggurt|p3flag=no|p3team=|pos3=",
+            "p4": "ShadowDragon|p4flag=no|p4team=|pos4=",
+            "p5": "bjxy190|p5flag=no|p5team=|pos5=",
+            "p6": "lun|p6flag=no|p6team=|pos6="
+        },
+        {
+            "team": "Beef Med B\u00e6rne",
+            "p1": "AaronPepega|p1flag=no|p1team=|pos1=",
+            "p2": "Bissas|p2flag=no|p2team=|pos2=",
+            "p3": "Herman|p3flag=no|p3team=|pos3=",
+            "p4": "Kystad|p4flag=no|p4team=|pos4=",
+            "p5": "Zyndix|p5flag=no|p5team=|pos5="
+        },
+        {
+            "team": "Raza Blitz er insane",
+            "p1": "Snow|p1flag=no|p1team=|pos1=|p1link=Snow (Norwegian player)",
+            "p2": "Duni|p2flag=no|p2team=|pos2=",
+            "p3": "Ivy|p3flag=no|p3team=|pos3=|p3link=Ivy (Norwegian player)",
+            "p4": "MizuLai|p4flag=no|p4team=|pos4=",
+            "p5": "zorro7|p5flag=no|p5team=|pos5=",
+            "p6": "realNord|p6flag=no|p6team=|pos6="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "winner": "",
+            "date": "February 25, 2023 - 07:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Beef Med B\u00e6rne|score=L}}",
+            "opponent2": "{{TeamOpponent|Deadly Drones|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 07:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|N\u00e5rj|score=L}}",
+            "opponent2": "{{TeamOpponent|Vernalis|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 07:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|funnyguys!|score=W}}",
+            "opponent2": "{{TeamOpponent|Ntnui esport|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 07:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Raza Blitz er insane|score=L}}",
+            "opponent2": "{{TeamOpponent|Det er farlig det|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 08:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Deadly Drones|score=L}}",
+            "opponent2": "{{TeamOpponent|Vernalis|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 08:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|funnyguys!|score=W}}",
+            "opponent2": "{{TeamOpponent|Det er farlig det|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "winner": "",
+            "date": "February 26, 2023 - 08:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Vernalis|score=L}}",
+            "opponent2": "{{TeamOpponent|funnyguys!|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 08:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Beef Med B\u00e6rne|score=L}}",
+            "opponent2": "{{TeamOpponent|N\u00e5rj|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 08:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ntnui esport|score=W}}",
+            "opponent2": "{{TeamOpponent|Raza Blitz er insane|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 09:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Det er farlig det|score=W}}",
+            "opponent2": "{{TeamOpponent|N\u00e5rj|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 09:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Deadly Drones|score=L}}",
+            "opponent2": "{{TeamOpponent|Ntnui esport|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 10:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Det er farlig det|score=W}}",
+            "opponent2": "{{TeamOpponent|Ntnui esport|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "winner": "",
+            "date": "February 26, 2023 - 09:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Vernalis|score=W}}",
+            "opponent2": "{{TeamOpponent|Det er farlig det|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "winner": "",
+            "date": "February 26, 2023 - 11:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|funnyguys!|score=W}}",
+            "opponent2": "{{TeamOpponent|Vernalis|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        }
+    ]
+}

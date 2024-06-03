@@ -1,0 +1,266 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "series": "Mythical Cup",
+            "shortname": "MC #9",
+            "name": "Mythical Cup 9",
+            "image": "Mythical Cup.png",
+            "icon": "",
+            "organizer": "Mythical Spark",
+            "sponsor": "",
+            "type": "Online",
+            "country": "France",
+            "twitter": "MythicalSpark",
+            "discord": "cmR5Dy9",
+            "prizepool": "120",
+            "localcurrency": "eur",
+            "sdate": "2019-09-05",
+            "edate": "2019-09-05",
+            "web": "https://mythicalspark.fr/",
+            "rulebook": "",
+            "team_number": "9",
+            "bracket": "https://battlefy.com/mythical-spark/mythical-cup-9/5d6a3bcc8870b31500a1571f/stage/5d6a3beef432d5377856230f/bracket/",
+            "previous": "Mythical_Cup/3 {{!}} MC #3",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Ex Oblivione",
+            "image": "",
+            "p1": "Doge|p1flag=|pos1=tank",
+            "p2": "SFX|p2flag=|pos2=",
+            "p3": "Phi|p3flag=|pos3=dps",
+            "p4": "SlayMurderer|p4flag=|pos4=support",
+            "p5": "Seicoe|p5flag=|pos5=dps",
+            "p6": "Kevh|p6flag=|pos6=",
+            "p7": "Rene|p7flag=|pos7="
+        },
+        {
+            "team": "Mind Your Manners",
+            "image": "",
+            "p1": "aviv32|p1flag=|pos1=",
+            "p2": "MVP|p2flag=|pos2=support",
+            "p3": "apples|p3flag=|pos3=support",
+            "p4": "MaZZeL|p4flag=|pos4=",
+            "p5": "Wayfast|p5flag=|pos5=",
+            "p6": "neris|p6flag=|pos6=",
+            "p7": "ChesPops|p7flag=|pos7=",
+            "p8": "iHaluks|p8flag=|pos8=",
+            "p9": "Saar|p9flag=|pos9=",
+            "p10": "Hasely|p10flag=|pos10=",
+            "p11": "DDaFox|p11flag=|pos11=",
+            "p12": "Celine|p12flag=|pos12=",
+            "p13": "LittleFlame|p13flag=|pos13=",
+            "p14": "Teemo|p14flag=|pos14=tank"
+        },
+        {
+            "team": "Explicit",
+            "image": "",
+            "p1": "Aggressive|p1flag=|pos1=",
+            "p2": "Aomine|p2flag=|pos2=",
+            "p3": "\u042f\u0411\u0410\u0425\u0415\u0420|p3flag=|pos3=",
+            "p4": "\u0197\u010a\u01ee\u013f\u0197\u0120\u0124\u0166|p4flag=|pos4=",
+            "p5": "Takeda|p5flag=|pos5=",
+            "p6": "Sam1337|p6flag=|pos6=",
+            "p7": "ReyVee|p7flag=|pos7=",
+            "p8": "Gingalain|p8flag=|pos8="
+        },
+        {
+            "team": "x6tence",
+            "image": "",
+            "p1": "SpaceRocket|p1flag=es|pos1=support",
+            "p2": "Genzo|p2flag=es|pos2=dps",
+            "p3": "Slashey|p3flag=|pos3=tank",
+            "p4": "ScarFace|p4flag=|pos4=tank",
+            "p5": "deinial|p5flag=es|pos5=dps",
+            "p6": "Marc|p6flag=es|pos6=dps|p6link= Marc (Spanish Player)",
+            "p7": "Cairngorm|p7flag=ecu|pos7=support"
+        },
+        {
+            "team": "NANO Esports Academy",
+            "image": "",
+            "p1": "ZestHD|p1flag=|pos1=",
+            "p2": "Driko|p2flag=|pos2=",
+            "p3": "Zen1th|p3flag=|pos3=",
+            "p4": "Evo|p4flag=|pos4=",
+            "p5": "MadaMada|p5flag=|pos5=",
+            "p6": "NANO|p6flag=|pos6=",
+            "p7": "\u0128\u014aZ\u01de\u014a\u0128\u0166\u0176|p7flag=|pos7="
+        },
+        {
+            "team": "MBMC",
+            "image": "",
+            "p1": "ViidakonByg\u00e4|p1flag=|pos1=",
+            "p2": "kivesmestari|p2flag=|pos2=",
+            "p3": "Niilo22|p3flag=|pos3=",
+            "p4": "Jehong(EU)|p4flag=|pos4=",
+            "p5": "PRO\u01f6|p5flag=|pos5=",
+            "p6": "xXNollattuXx|p6flag=|pos6=",
+            "p7": "MurhaMatti|p7flag=|pos7="
+        },
+        {
+            "team": "Mochi",
+            "image": "",
+            "p1": "Gjallarhorn|p1flag=|pos1=",
+            "p2": "SilentSoul|p2flag=|pos2=",
+            "p3": "K3lvin|p3flag=|pos3=",
+            "p4": "Sebas|p4flag=|pos4=",
+            "p5": "ExplodedX|p5flag=|pos5=",
+            "p6": "Shiro|p6flag=|pos6=",
+            "p7": "Cascada|p7flag=|pos7="
+        },
+        {
+            "team": "Bloodshed Gaming OW",
+            "image": "",
+            "p1": "YannDoberman|p1flag=|pos1=",
+            "p2": "HELLBEE|p2flag=|pos2=",
+            "p3": "xTrube|p3flag=|pos3=",
+            "p4": "FROMAZlovezU|p4flag=|pos4=",
+            "p5": "P1nk1eRa1n|p5flag=|pos5=",
+            "p6": "StayAside|p6flag=|pos6=",
+            "p7": "FMZis69|p7flag=|pos7=",
+            "p8": "R4SPUT1N|p8flag=|pos8=",
+            "p9": "Kudesn1k|p9flag=|pos9=",
+            "p10": "Tofu|p10flag=|pos10=",
+            "p11": "MetalSky|p11flag=|pos11="
+        },
+        {
+            "team": "Insanity - EQB SAN",
+            "image": "",
+            "p1": "ARK(EU)|p1flag=|pos1=",
+            "p2": "Guillotine|p2flag=|pos2=",
+            "p3": "BigBrother|p3flag=|pos3=",
+            "p4": "NatholTKL|p4flag=|pos4=",
+            "p5": "Anno|p5flag=|pos5=",
+            "p6": "Taz|p6flag=|pos6="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Insanity - EQB SAN|score=0}}",
+            "opponent2": "{{TeamOpponent|x6tence|score=2}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ex Oblivione|score=2}}",
+            "opponent2": "{{TeamOpponent|x6tence|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|NANO Esports Academy|score=2}}",
+            "opponent2": "{{TeamOpponent|Bloodshed Gaming OW|score=1}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Mind Your Manners|score=2}}",
+            "opponent2": "{{TeamOpponent|Mochi|score=0}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|MBMC|score=2}}",
+            "opponent2": "{{TeamOpponent|Explicit|score=0}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ex Oblivione|score=2}}",
+            "opponent2": "{{TeamOpponent|NANO Esports Academy|score=0}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Mind Your Manners|score=2}}",
+            "opponent2": "{{TeamOpponent|MBMC|score=0}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ex Oblivione|score=2}}",
+            "opponent2": "{{TeamOpponent|Mind Your Manners|score=0}}",
+            "optional": "R5M1="
+        },
+        {
+            "bestof": "1",
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Explicit|score=1}}",
+            "opponent2": "{{TeamOpponent|Insanity - EQB SAN|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "bestof": "1",
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Mochi|score=0}}",
+            "opponent2": "{{TeamOpponent|Explicit|score=1}}",
+            "optional": "R2M5="
+        },
+        {
+            "bestof": "1",
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bloodshed Gaming OW|score=0}}",
+            "opponent2": "{{TeamOpponent|x6tence|score=1}}",
+            "optional": "R2M6="
+        },
+        {
+            "bestof": "1",
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|NANO Esports Academy|score=0}}",
+            "opponent2": "{{TeamOpponent|Explicit|score=1}}",
+            "optional": "R3M3="
+        },
+        {
+            "bestof": "1",
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|MBMC|score=0}}",
+            "opponent2": "{{TeamOpponent|x6tence|score=1}}",
+            "optional": "R3M4="
+        },
+        {
+            "bestof": "1",
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Explicit|score=1}}",
+            "opponent2": "{{TeamOpponent|x6tence|score=0}}",
+            "optional": "R4M1="
+        },
+        {
+            "bestof": "1",
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Mind Your Manners|score=1}}",
+            "opponent2": "{{TeamOpponent|Explicit|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M2="
+        },
+        {
+            "bestof": "3",
+            "date": "September 5, 2019",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ex Oblivione|score=2}}",
+            "opponent2": "{{TeamOpponent|Mind Your Manners|score=1}}",
+            "optional": "R6M1="
+        }
+    ]
+}

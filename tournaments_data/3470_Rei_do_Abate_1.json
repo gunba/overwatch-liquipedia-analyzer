@@ -1,0 +1,82 @@
+{
+    "tournament_info": [
+        {
+            "name": "Rei do Abate #1",
+            "image": "",
+            "series": "",
+            "number": "1",
+            "organizer": "Overkey",
+            "organizer2": "Casamento Nerd",
+            "format": "King of the Hill",
+            "format_timezone": "Bo3",
+            "type": "Online",
+            "country": "Brazil",
+            "date": "2016-02-28",
+            "prizepoolusd": "",
+            "twitch": "coorujaow",
+            "game": "Overwatch",
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "team_number": "2",
+            "map1": "Volskaya Industries",
+            "map2": "Numbani",
+            "map3": "Nepal"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Time Torbjorn",
+            "image": "",
+            "size": "",
+            "p1": "Synced ",
+            "p1flag": "br",
+            "p2": "Luke ",
+            "p2flag": "br",
+            "p3": "pedro333san ",
+            "p3flag": "br",
+            "p4": "Tsumiki ",
+            "p4flag": "br",
+            "p5": "InVicTubladE ",
+            "p5flag": "br",
+            "p6": "zeroke ",
+            "p6flag": "br",
+            "p7": "Ale",
+            "p7flag": "br",
+            "p7link": "Ale (Brazilian player)",
+            "p8": "Frozen ",
+            "p8flag": "br"
+        },
+        {
+            "team": "Overgods",
+            "image": "",
+            "size": "",
+            "p1": "Wolf ",
+            "p1flag": "br ",
+            "p1link": "Wolf (Brazilian player)",
+            "p2": "MarcelDark ",
+            "p2flag": "br",
+            "p3": "Zanorimm ",
+            "p3flag": "br",
+            "p4": "Domiinguera ",
+            "p4flag": "br",
+            "p5": "TequilaGirl ",
+            "p5flag": "br",
+            "p6": "Kr\u00f8\u00f8n ",
+            "p6flag": "br",
+            "p7": "Nyuul ",
+            "p7flag": "br",
+            "p8": "HaroldoNVU ",
+            "p8flag": "br"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "time torbjorn",
+            "opponent1_score": 2,
+            "opponent2": "overgods",
+            "opponent2_score": 1,
+            "optional": "R1M1="
+        }
+    ]
+}

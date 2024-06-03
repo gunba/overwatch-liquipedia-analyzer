@@ -1,0 +1,101 @@
+{
+    "tournament_info": [
+        {
+            "name": "Uniliga - Winter 2023",
+            "shortname": "Uniliga Winter '23",
+            "image": "University eSports Germany.png",
+            "series": "uniliga",
+            "abbreviation": "Uniliga",
+            "icon": "Uniliga_icon.png",
+            "tickername": "Uniliga",
+            "organizer": "University eSports Germany",
+            "organizer-link": "https://uniliga.gg",
+            "sponsor": "<!--TBD-->",
+            "type": "Online",
+            "country": "Germany",
+            "format": "'''Group Stage''':<br>Round Robin<br>",
+            "sdate": "2023-10-19",
+            "edate": "2023-02-29",
+            "team_number": "10",
+            "liquipediatier": "{{TierText/5}}",
+            "web": "http://uniliga.gg/ow/",
+            "twitch": "uniliga_aim",
+            "twitch2": "uniliga",
+            "rulebook": "https://www.uniliga.gg/ow-regelwerk/",
+            "bracket": "https://play.toornament.com/de/tournaments/7057369612022767616/"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "HGI Bittersweet",
+            "image": "",
+            "p1": "Meikky",
+            "p2": "Acai",
+            "p3": "Donsuo",
+            "p4": "Lordimanuel",
+            "p5": "Leoleomate"
+        },
+        {
+            "team": "ESUG CuteSADers",
+            "image": "",
+            "p1": "SturmKoala",
+            "p2": "Fishiate",
+            "p3": "cheesezus",
+            "p4": "AldiPC",
+            "p5": "derks",
+            "p6": "Klunzi",
+            "p7": "Snix"
+        },
+        {
+            "team": "DG Eternal",
+            "image": "",
+            "p1": "Plant",
+            "p2": "Leoplo",
+            "p3": "bysubin",
+            "p4": "Mo",
+            "p5": "IPN",
+            "p6": "Dr_Moge",
+            "p7": "Fxnarji",
+            "p8": "CanXru",
+            "p9": "Flami"
+        },
+        {
+            "team": "THM Knights",
+            "image": "",
+            "p1": "Loapu",
+            "p2": "Reformed",
+            "p3": "TheOGBrwnie",
+            "p4": "Hanfighty",
+            "p5": "Spay",
+            "p6": "Snert",
+            "p7": "KaiserLP",
+            "p8": "Bacon",
+            "p9": "Usurper"
+        },
+        {
+            "team": "Bielefeld Agents Amber",
+            "image": "",
+            "p1": "Bl00dy",
+            "p2": "HANIM3",
+            "p3": "Nixxen",
+            "p4": "McCreeMain",
+            "p5": "AGirl",
+            "p6": "Bilindar"
+        },
+        {
+            "team": "HsGL.Fennecs",
+            "image": "",
+            "p1": "Sugarbreath",
+            "p2": "Guy2Die",
+            "p3": "enraj",
+            "p4": "Quallomat",
+            "p5": "Kryptos",
+            "p6": "Mexn",
+            "p7": "MrHendrixxen",
+            "p8": "Massewnaze",
+            "p9": "lasse",
+            "p10": "V!CERY"
+        }
+    ],
+    "match_cards": []
+}

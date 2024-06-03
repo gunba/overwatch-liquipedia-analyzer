@@ -1,0 +1,1047 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2|liquipediatiertype=Qualifier",
+            "name": "Saudi eLeagues 2022 Season 2 Open Qualifier",
+            "tickername": "Saudi eLeagues 2022 S2 Open Qualifier",
+            "shortname": "SEL 2022 S2 Open Qualifier",
+            "image": "Saudi eLeagues.png",
+            "icon": "Saudi eLeagues icon.png",
+            "organizer": "SEF",
+            "organizer-link": "https://saudiesports.sa/en/",
+            "organizer2": "NAFES",
+            "organizer2-link": "https://nafes.com/",
+            "game": "overwatch2",
+            "series": "Saudi eLeagues",
+            "abbreviation": "SEL",
+            "type": "Online",
+            "country": "Saudi Arabia",
+            "format": "Single Round Robin ({{Abbr/Ft2}})",
+            "sdate": "2022-11-13",
+            "edate": "2022-11-17",
+            "web": "https://saudieleagues.sa/en/",
+            "bracket": "https://nafes.com/competitions/Overwatch/leagues/573",
+            "bracket2": "https://nafes.com/competitions/Overwatch/leagues/578",
+            "facebook": "SaudiELeagues",
+            "youtube": "channel/UC6h42-fNpHCzm2hFR6_hbdg",
+            "instagram": "saudieleagues",
+            "twitter": "SaudieLeagues",
+            "twitch": "saudieleagues",
+            "tiktok": "saudieleagues",
+            "team_number": "24"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "01 Esports",
+            "p1": "Youbi|pos1=dps",
+            "p2": "Quartz|pos2=dps",
+            "p3": "YZNSA|pos3=dps",
+            "p4": "iMOH97|pos4=tank",
+            "p5": "One|pos5=sup",
+            "p6": "SirMajed|pos6=sup"
+        },
+        {
+            "team": "Twisted Minds",
+            "p1": "Madara1161|pos1=dps",
+            "p2": "LBBD7|pos2=dps",
+            "p3": "akay|pos3=dps",
+            "p4": "N1QOz|pos4=tank",
+            "p5": "Nutella|pos5=sup",
+            "p6": "escanor|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Cointree|t2c1pos=manager",
+            "t2c2": "Akay|t2c2pos=manager"
+        },
+        {
+            "team": "Phoenix Esports",
+            "p1": "SIXSIXSIXSIX|pos1=dps",
+            "p2": "tex|pos2=dps",
+            "p3": "Antigon|pos3=tank",
+            "p4": "Maximum|pos4=tank",
+            "p5": "Alivelol|pos5=sup"
+        },
+        {
+            "team": "NOBLES",
+            "p1": "sHockWave|pos1=dps",
+            "p2": "Prospect|pos2=dps",
+            "p3": "Asy|pos3=dps",
+            "p4": "KSAA|pos4=tank",
+            "p5": "Boostio|pos5=sup|p5link=Boostio (Saudi Arabian player)",
+            "p6": "GaaRa|pos6=sup",
+            "p7": "Slay|pos7=sup"
+        },
+        {
+            "team": "Triple Esports",
+            "p1": "LILITH|p1flag=sa|pos1=dps",
+            "p2": "Fuki|pos2=dps",
+            "p3": "RAW|pos3=tank",
+            "p4": "Ryanchu|pos4=sup",
+            "p5": "Scpy|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Natdoekje|t2c1pos=coach"
+        },
+        {
+            "team": "LaughifuCan",
+            "p1": "Sazuri|pos1=dps",
+            "p2": "Waleed99|p2flag=sa|pos2=dps",
+            "p3": "BlackSwordz|pos3=tank",
+            "p4": "TaR1GeT|pos4=sup",
+            "p5": "AilnSoO|p5flag=sa|pos5=sup"
+        },
+        {
+            "team": "MMQ2",
+            "p1": "Goku|pos1=dps",
+            "p2": "Kaito|p2flag=sa|pos2=dps|p2link=Kaito (Saudi Arabian player)",
+            "p3": "Kayeose|pos3=tank",
+            "p4": "MARK|pos4=sup",
+            "p5": "Facator|pos5=sup"
+        },
+        {
+            "team": "husiswaarts",
+            "p1": "QLM|pos1=dps",
+            "p2": "Mesopos|pos2=dps",
+            "p3": "Francium|pos3=tank",
+            "p4": "SPEEDY|pos4=sup",
+            "p5": "KURA|p5flag=sa|pos5=sup"
+        },
+        {
+            "team": "siuu1",
+            "p1": "Pawly|pos1=dps",
+            "p2": "FusionOwO|p2flag=sa|pos2=dps",
+            "p3": "AOY|pos3=tank",
+            "p4": "TVNT|pos4=tank",
+            "p5": "skatai|pos5=sup",
+            "p6": "B122|p6flag=sa|pos6=sup"
+        },
+        {
+            "team": "targaryens",
+            "p1": "Miraculous|pos1=dps",
+            "p2": "meshoxv|pos2=tank",
+            "p3": "Slom|pos3=sup",
+            "p4": "Musashi|pos4=sup",
+            "p5": "drama|p5flag=sa|pos5=sup",
+            "p6": "OwODarkness|p6flag=sa|pos6="
+        },
+        {
+            "team": "zinger",
+            "p1": "Rawgan|p1flag=sa|pos1=dps",
+            "p2": "Zeroes|p2flag=sa|pos2=dps",
+            "p3": "Lotsha|pos3=tank",
+            "p4": "YONKO|pos4=sup",
+            "p5": "sh8L7|p5flag=sa|pos5=sup",
+            "p6": "ray|p6flag=|pos6=|p6link=ray ()"
+        },
+        {
+            "team": "FOG ESPORTS",
+            "p1": "Klinz|p1flag=sa|pos1=dps",
+            "p2": "Pixels|p2flag=|pos2=sup",
+            "p3": "SLY|pos3=dps",
+            "p4": "PLAYEROW|p4flag=sa|pos4=",
+            "p5": "Jauz|p5flag=sa|pos5=",
+            "p6": "dyobee2|p6flag=sa|pos6=",
+            "p7": "Xoltan|p7flag=|pos7=",
+            "p8": "kreemha|p8flag=|pos8="
+        },
+        {
+            "team": "XO Esports",
+            "p1": "tzn|p1flag=|pos1=",
+            "p2": "itsF9ol|p2flag=|pos2=",
+            "p3": "Ttra|p3flag=|pos3=",
+            "p4": "SIRRAVEN|p4flag=|pos4=",
+            "p5": "QXZ|p5flag=|pos5="
+        },
+        {
+            "team": "Foundersss",
+            "p1": "Pokia|p1flag=|pos1=",
+            "p2": "saud|p2flag=|pos2=",
+            "p3": "BanSama|p3flag=|pos3=",
+            "p4": "C3Y2|p4flag=|pos4=",
+            "p5": "RAE|p5flag=|pos5="
+        },
+        {
+            "team": "GAMA",
+            "p1": "RKM|p1flag=sa|pos1=dps",
+            "p2": "ViNCiNT|p2flag=sa|pos2=tank",
+            "p3": "zox|p3flag=sa|pos3=",
+            "p4": "MZXSA|p4flag=sa|pos4=",
+            "p5": "MR_REX|p5flag=sa|pos5=",
+            "p6": "K2N|p6flag=sa|pos6="
+        },
+        {
+            "team": "Java Esport",
+            "p1": "PHANTOM|p1flag=|pos1=",
+            "p2": "Wisdomlamp|p2flag=|pos2=",
+            "p3": "BiixY|p3flag=|pos3=",
+            "p4": "i3zoz|p4flag=|pos4=",
+            "p5": "Az1z|p5flag=|pos5="
+        },
+        {
+            "team": "173",
+            "p1": "xMAG|p1flag=sa|pos1=",
+            "p2": "leethegoat|p2flag=sa|pos2=",
+            "p3": "crcosh|p3flag=sa|pos3=",
+            "p4": "Volpii|p4flag=uae|pos4=",
+            "p5": "Feez|p5flag=uae|pos5=|p5link=Feez (Emirati player)",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "TheRealclowns",
+            "p1": "Ao667oZ|p1flag=sa|pos1=",
+            "p2": "Bix|p2flag=sa|pos2=",
+            "p3": "sovereign|p3flag=sa|pos3=",
+            "p4": "gamestube|p4flag=sa|pos4=",
+            "p5": "msharii3005|p5flag=|pos5=",
+            "p6": "Almagrbi|p6flag=|pos6="
+        },
+        {
+            "team": "speaking facts",
+            "p1": "amdp|p1flag=sa|pos1=tank",
+            "p2": "TZERO|p2flag=sa|pos2=",
+            "p3": "killshot|p3flag=sa|pos3=",
+            "p4": "A4boude|p4flag=sa|pos4=",
+            "p5": "SadMatrix|p5flag=sa|pos5=",
+            "p6": "d7m|p6flag=sa|pos6="
+        },
+        {
+            "team": "HOTD Esports",
+            "p1": "THENS|p1flag=sa|pos1=",
+            "p2": "isaw|p2flag=sa|pos2=",
+            "p3": "KBoM|p3flag=sa|pos3=",
+            "p4": "srz|p4flag=sa|pos4=",
+            "p5": "KHWD|p5flag=sa|pos5="
+        },
+        {
+            "team": "LastCall",
+            "p1": "Shatter|p1flag=sa|pos1=",
+            "p2": "Haki1337x|p2flag=sa|pos2=",
+            "p3": "ZEROEIGHT|p3flag=sa|pos3=",
+            "p4": "ibrahim|p4flag=|pos4=",
+            "p5": "Khalid92|p5flag=|pos5=",
+            "p6": "Broken|p6flag=|pos6="
+        },
+        {
+            "team": "Whitebeard TEAM",
+            "p1": "SleepyBear|p1flag=sa|pos1=|p1link=SleepyBear (Saudi Arabian player)",
+            "p2": "Tsuki|p2flag=sa|pos2=",
+            "p3": "Altra2|p3flag=sa|pos3=",
+            "p4": "FANFAN01|p4flag=sa|pos4=",
+            "p5": "SlippinJimmy|p5flag=sa|pos5=",
+            "p6": "Altra|p6flag=sa|pos6="
+        },
+        {
+            "team": "67n bdon sh7n",
+            "p1": "SDEXF|p1flag=sa|pos1=",
+            "p2": "Kumiko|p2flag=sa|pos2=",
+            "p3": "VBEXT|p3flag=sa|pos3=",
+            "p4": "DKKatakuri|p4flag=sa|pos4=",
+            "p5": "Zooka|p5flag=sa|pos5=",
+            "p6": "WELY|p6flag=sa|pos6="
+        },
+        {
+            "team": "Nirvana",
+            "p1": "lplkc|p1flag=sa|pos1=",
+            "p2": "AimBotz69|p2flag=sa|pos2=",
+            "p3": "slikxer|p3flag=sa|pos3=",
+            "p4": "hhuzumiiko|p4flag=sa|pos4=",
+            "p5": "d7c27|p5flag=sa|pos5=",
+            "p6": "Ahmad Mughrabi|p6flag=|pos6="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|01 Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|173|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Twisted Minds|score=2}}",
+            "opponent2": "{{TeamOpponent|Nirvana|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|siuu1|score=2}}",
+            "opponent2": "{{TeamOpponent|LastCall|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|MMQ2|score=2}}",
+            "opponent2": "{{TeamOpponent|TheRealclowns|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|zinger|score=2}}",
+            "opponent2": "{{TeamOpponent|XO Esports|score=0}}",
+            "optional": "M5="
+        },
+        {
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|FOG ESPORTS|score=2}}",
+            "opponent2": "{{TeamOpponent|Foundersss|score=0}}",
+            "optional": "M6="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|01 Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|Twisted Minds|score=0}}",
+            "optional": "M7="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|siuu1|score=2}}",
+            "opponent2": "{{TeamOpponent|173|score=0}}",
+            "optional": "M8="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|MMQ2|score=2}}",
+            "opponent2": "{{TeamOpponent|Nirvana|score=0}}",
+            "optional": "M9="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|zinger|score=2}}",
+            "opponent2": "{{TeamOpponent|LastCall|score=0}}",
+            "optional": "M10="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|FOG ESPORTS|score=2}}",
+            "opponent2": "{{TeamOpponent|TheRealclowns|score=0}}",
+            "optional": "M11="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Foundersss|score=0}}",
+            "opponent2": "{{TeamOpponent|XO Esports|score=2}}",
+            "optional": "M12="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|01 Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|siuu1|score=1}}",
+            "optional": "M13="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|MMQ2|score=0}}",
+            "opponent2": "{{TeamOpponent|Twisted Minds|score=2}}",
+            "optional": "M14="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|zinger|score=2}}",
+            "opponent2": "{{TeamOpponent|173|score=0}}",
+            "optional": "M15="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|FOG ESPORTS|score=2}}",
+            "opponent2": "{{TeamOpponent|Nirvana|score=0}}",
+            "optional": "M16="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Foundersss|score=2}}",
+            "opponent2": "{{TeamOpponent|LastCall|score=2}}",
+            "optional": "M17="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|XO Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|TheRealclowns|score=0}}",
+            "optional": "M18="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|01 Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|MMQ2|score=0}}",
+            "optional": "M19="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|zinger|score=0}}",
+            "opponent2": "{{TeamOpponent|siuu1|score=2}}",
+            "optional": "M20="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|FOG ESPORTS|score=0}}",
+            "opponent2": "{{TeamOpponent|Twisted Minds|score=2}}",
+            "optional": "M21="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Foundersss|score=2}}",
+            "opponent2": "{{TeamOpponent|173|score=2}}",
+            "optional": "M22="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|XO Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|Nirvana|score=0}}",
+            "optional": "M23="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|TheRealclowns|score=2}}",
+            "opponent2": "{{TeamOpponent|LastCall|score=2}}",
+            "optional": "M24="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|01 Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|zinger|score=0}}",
+            "optional": "M25="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|FOG ESPORTS|score=0}}",
+            "opponent2": "{{TeamOpponent|MMQ2|score=2}}",
+            "optional": "M26="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Foundersss|score=0}}",
+            "opponent2": "{{TeamOpponent|siuu1|score=2}}",
+            "optional": "M27="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|XO Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|Twisted Minds|score=2}}",
+            "optional": "M28="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|TheRealclowns|score=2}}",
+            "opponent2": "{{TeamOpponent|173|score=2}}",
+            "optional": "M29="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|LastCall|score=2}}",
+            "opponent2": "{{TeamOpponent|Nirvana|score=2}}",
+            "optional": "M30="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|01 Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|FOG ESPORTS|score=0}}",
+            "optional": "M31="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Foundersss|score=0}}",
+            "opponent2": "{{TeamOpponent|zinger|score=2}}",
+            "optional": "M32="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|XO Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|MMQ2|score=2}}",
+            "optional": "M33="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|TheRealclowns|score=0}}",
+            "opponent2": "{{TeamOpponent|siuu1|score=2}}",
+            "optional": "M34="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|LastCall|score=0}}",
+            "opponent2": "{{TeamOpponent|Twisted Minds|score=2}}",
+            "optional": "M35="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nirvana|score=2}}",
+            "opponent2": "{{TeamOpponent|173|score=2}}",
+            "optional": "M36="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|01 Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|Foundersss|score=0}}",
+            "optional": "M37="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|XO Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|FOG ESPORTS|score=2}}",
+            "optional": "M38="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|TheRealclowns|score=0}}",
+            "opponent2": "{{TeamOpponent|zinger|score=2}}",
+            "optional": "M39="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|LastCall|score=0}}",
+            "opponent2": "{{TeamOpponent|MMQ2|score=2}}",
+            "optional": "M40="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nirvana|score=0}}",
+            "opponent2": "{{TeamOpponent|siuu1|score=2}}",
+            "optional": "M41="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|173|score=0}}",
+            "opponent2": "{{TeamOpponent|Twisted Minds|score=2}}",
+            "optional": "M42="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|01 Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|XO Esports|score=0}}",
+            "optional": "M43="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|TheRealclowns|score=2}}",
+            "opponent2": "{{TeamOpponent|Foundersss|score=2}}",
+            "optional": "M44="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|LastCall|score=0}}",
+            "opponent2": "{{TeamOpponent|FOG ESPORTS|score=2}}",
+            "optional": "M45="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nirvana|score=0}}",
+            "opponent2": "{{TeamOpponent|zinger|score=2}}",
+            "optional": "M46="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|173|score=0}}",
+            "opponent2": "{{TeamOpponent|MMQ2|score=2}}",
+            "optional": "M47="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Twisted Minds|score=2}}",
+            "opponent2": "{{TeamOpponent|siuu1|score=0}}",
+            "optional": "M48="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|01 Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|TheRealclowns|score=0}}",
+            "optional": "M49="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|LastCall|score=2}}",
+            "opponent2": "{{TeamOpponent|XO Esports|score=2}}",
+            "optional": "M50="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nirvana|score=2}}",
+            "opponent2": "{{TeamOpponent|Foundersss|score=2}}",
+            "optional": "M51="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|173|score=0}}",
+            "opponent2": "{{TeamOpponent|FOG ESPORTS|score=2}}",
+            "optional": "M52="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Twisted Minds|score=0}}",
+            "opponent2": "{{TeamOpponent|zinger|score=2}}",
+            "optional": "M53="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|siuu1|score=0}}",
+            "opponent2": "{{TeamOpponent|MMQ2|score=2}}",
+            "optional": "M54="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|01 Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|LastCall|score=0}}",
+            "optional": "M55="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nirvana|score=2}}",
+            "opponent2": "{{TeamOpponent|TheRealclowns|score=2}}",
+            "optional": "M56="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|173|score=2}}",
+            "opponent2": "{{TeamOpponent|XO Esports|score=2}}",
+            "optional": "M57="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Twisted Minds|score=2}}",
+            "opponent2": "{{TeamOpponent|Foundersss|score=0}}",
+            "optional": "M58="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|siuu1|score=2}}",
+            "opponent2": "{{TeamOpponent|FOG ESPORTS|score=0}}",
+            "optional": "M59="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|MMQ2|score=2}}",
+            "opponent2": "{{TeamOpponent|zinger|score=1}}",
+            "optional": "M60="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|01 Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|Nirvana|score=0}}",
+            "optional": "M61="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|173|score=2}}",
+            "opponent2": "{{TeamOpponent|LastCall|score=2}}",
+            "optional": "M62="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Twisted Minds|score=2}}",
+            "opponent2": "{{TeamOpponent|TheRealclowns|score=0}}",
+            "optional": "M63="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|siuu1|score=2}}",
+            "opponent2": "{{TeamOpponent|XO Esports|score=0}}",
+            "optional": "M64="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|MMQ2|score=2}}",
+            "opponent2": "{{TeamOpponent|Foundersss|score=0}}",
+            "optional": "M65="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|zinger|score=1}}",
+            "opponent2": "{{TeamOpponent|FOG ESPORTS|score=2}}",
+            "optional": "M66="
+        },
+        {
+            "bestof": "3",
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nobles|score=2}}",
+            "opponent2": "{{TeamOpponent|targaryens|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Phoenix Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|Whitebeard TEAM|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|speaking facts|score=2}}",
+            "opponent2": "{{TeamOpponent|HOTD Esports|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|LaughifuCan|score=2}}",
+            "opponent2": "{{TeamOpponent|67n bdon sh7n|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|husiswaarts|score=2}}",
+            "opponent2": "{{TeamOpponent|Java Esport|score=0}}",
+            "optional": "M5="
+        },
+        {
+            "date": "November 13, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|GAMA|score=0}}",
+            "opponent2": "{{TeamOpponent|Triple Esports|score=2}}",
+            "optional": "M6="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nobles|score=2}}",
+            "opponent2": "{{TeamOpponent|Phoenix Esports|score=1}}",
+            "optional": "M7="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|speaking facts|score=0}}",
+            "opponent2": "{{TeamOpponent|targaryens|score=2}}",
+            "optional": "M8="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|LaughifuCan|score=2}}",
+            "opponent2": "{{TeamOpponent|Whitebeard TEAM|score=0}}",
+            "optional": "M9="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|husiswaarts|score=2}}",
+            "opponent2": "{{TeamOpponent|HOTD Esports|score=0}}",
+            "optional": "M10="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|GAMA|score=2}}",
+            "opponent2": "{{TeamOpponent|67n bdon sh7n|score=0}}",
+            "optional": "M11="
+        },
+        {
+            "date": "November 13, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Triple Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|Java Esport|score=0}}",
+            "optional": "M12="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nobles|score=2}}",
+            "opponent2": "{{TeamOpponent|speaking facts|score=0}}",
+            "optional": "M13="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|LaughifuCan|score=1}}",
+            "opponent2": "{{TeamOpponent|Phoenix Esports|score=2}}",
+            "optional": "M14="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|husiswaarts|score=2}}",
+            "opponent2": "{{TeamOpponent|targaryens|score=1}}",
+            "optional": "M15="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|GAMA|score=2}}",
+            "opponent2": "{{TeamOpponent|Whitebeard TEAM|score=0}}",
+            "optional": "M16="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Triple Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|HOTD Esports|score=0}}",
+            "optional": "M17="
+        },
+        {
+            "date": "November 14, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Java Esport|score=0}}",
+            "opponent2": "{{TeamOpponent|67n bdon sh7n|score=2}}",
+            "optional": "M18="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nobles|score=2}}",
+            "opponent2": "{{TeamOpponent|LaughifuCan|score=0}}",
+            "optional": "M19="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|husiswaarts|score=2}}",
+            "opponent2": "{{TeamOpponent|speaking facts|score=0}}",
+            "optional": "M20="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|GAMA|score=0}}",
+            "opponent2": "{{TeamOpponent|Phoenix Esports|score=2}}",
+            "optional": "M21="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Triple Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|targaryens|score=2}}",
+            "optional": "M22="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Java Esport|score=0}}",
+            "opponent2": "{{TeamOpponent|Whitebeard TEAM|score=2}}",
+            "optional": "M23="
+        },
+        {
+            "date": "November 14, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|67n bdon sh7n|score=2}}",
+            "opponent2": "{{TeamOpponent|HOTD Esports|score=0}}",
+            "optional": "M24="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nobles|score=2}}",
+            "opponent2": "{{TeamOpponent|husiswaarts|score=0}}",
+            "optional": "M25="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|GAMA|score=0}}",
+            "opponent2": "{{TeamOpponent|LaughifuCan|score=2}}",
+            "optional": "M26="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Triple Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|speaking facts|score=0}}",
+            "optional": "M27="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Java Esport|score=0}}",
+            "opponent2": "{{TeamOpponent|Phoenix Esports|score=2}}",
+            "optional": "M28="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|67n bdon sh7n|score=0}}",
+            "opponent2": "{{TeamOpponent|targaryens|score=2}}",
+            "optional": "M29="
+        },
+        {
+            "date": "November 15, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|HOTD Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|Whitebeard TEAM|score=2}}",
+            "optional": "M30="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nobles|score=2}}",
+            "opponent2": "{{TeamOpponent|GAMA|score=0}}",
+            "optional": "M31="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Triple Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|husiswaarts|score=2}}",
+            "optional": "M32="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Java Esport|score=0}}",
+            "opponent2": "{{TeamOpponent|LaughifuCan|score=2}}",
+            "optional": "M33="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|67n bdon sh7n|score=2}}",
+            "opponent2": "{{TeamOpponent|speaking facts|score=0}}",
+            "optional": "M34="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|HOTD Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|Phoenix Esports|score=2}}",
+            "optional": "M35="
+        },
+        {
+            "date": "November 15, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Whitebeard TEAM|score=0}}",
+            "opponent2": "{{TeamOpponent|targaryens|score=2}}",
+            "optional": "M36="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nobles|score=2}}",
+            "opponent2": "{{TeamOpponent|Triple Esports|score=0}}",
+            "optional": "M37="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Java Esport|score=0}}",
+            "opponent2": "{{TeamOpponent|GAMA|score=2}}",
+            "optional": "M38="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|67n bdon sh7n|score=0}}",
+            "opponent2": "{{TeamOpponent|husiswaarts|score=2}}",
+            "optional": "M39="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|HOTD Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|LaughifuCan|score=2}}",
+            "optional": "M40="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Whitebeard TEAM|score=2}}",
+            "opponent2": "{{TeamOpponent|speaking facts|score=2}}",
+            "optional": "M41="
+        },
+        {
+            "date": "November 16, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|targaryens|score=2}}",
+            "opponent2": "{{TeamOpponent|Phoenix Esports|score=0}}",
+            "optional": "M42="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nobles|score=2}}",
+            "opponent2": "{{TeamOpponent|Java Esport|score=0}}",
+            "optional": "M43="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|67n bdon sh7n|score=0}}",
+            "opponent2": "{{TeamOpponent|Triple Esports|score=2}}",
+            "optional": "M44="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|HOTD Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|GAMA|score=2}}",
+            "optional": "M45="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Whitebeard TEAM|score=0}}",
+            "opponent2": "{{TeamOpponent|husiswaarts|score=2}}",
+            "optional": "M46="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|targaryens|score=2}}",
+            "opponent2": "{{TeamOpponent|LaughifuCan|score=0}}",
+            "optional": "M47="
+        },
+        {
+            "date": "November 16, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Phoenix Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|speaking facts|score=0}}",
+            "optional": "M48="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nobles|score=2}}",
+            "opponent2": "{{TeamOpponent|67n bdon sh7n|score=0}}",
+            "optional": "M49="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|HOTD Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|Java Esport|score=2}}",
+            "optional": "M50="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Whitebeard TEAM|score=0}}",
+            "opponent2": "{{TeamOpponent|Triple Esports|score=2}}",
+            "optional": "M51="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|targaryens|score=2}}",
+            "opponent2": "{{TeamOpponent|GAMA|score=0}}",
+            "optional": "M52="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Phoenix Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|husiswaarts|score=2}}",
+            "optional": "M53="
+        },
+        {
+            "date": "November 17, 2022 - 19:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|speaking facts|score=0}}",
+            "opponent2": "{{TeamOpponent|LaughifuCan|score=2}}",
+            "optional": "M54="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nobles|score=2}}",
+            "opponent2": "{{TeamOpponent|HOTD Esports|score=0}}",
+            "optional": "M55="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Whitebeard TEAM|score=2}}",
+            "opponent2": "{{TeamOpponent|67n bdon sh7n|score=2}}",
+            "optional": "M56="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|targaryens|score=2}}",
+            "opponent2": "{{TeamOpponent|Java Esport|score=0}}",
+            "optional": "M57="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Phoenix Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|Triple Esports|score=2}}",
+            "optional": "M58="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|speaking facts|score=0}}",
+            "opponent2": "{{TeamOpponent|GAMA|score=2}}",
+            "optional": "M59="
+        },
+        {
+            "date": "November 17, 2022 - 21:30 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|LaughifuCan|score=1}}",
+            "opponent2": "{{TeamOpponent|husiswaarts|score=2}}",
+            "optional": "M60="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Nobles|score=2}}",
+            "opponent2": "{{TeamOpponent|Whitebeard TEAM|score=0}}",
+            "optional": "M61="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|targaryens|score=2}}",
+            "opponent2": "{{TeamOpponent|HOTD Esports|score=0}}",
+            "optional": "M62="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|Phoenix Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|67n bdon sh7n|score=0}}",
+            "optional": "M63="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|speaking facts|score=2}}",
+            "opponent2": "{{TeamOpponent|Java Esport|score=2}}",
+            "optional": "M64="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|LaughifuCan|score=2}}",
+            "opponent2": "{{TeamOpponent|Triple Esports|score=0}}",
+            "optional": "M65="
+        },
+        {
+            "date": "November 17, 2022 - 23:00 {{Abbr/AST}}",
+            "opponent1": "{{TeamOpponent|husiswaarts|score=2}}",
+            "opponent2": "{{TeamOpponent|GAMA|score=0}}",
+            "optional": "M66="
+        }
+    ]
+}

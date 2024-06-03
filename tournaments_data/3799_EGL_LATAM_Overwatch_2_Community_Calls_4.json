@@ -1,0 +1,173 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "name": "EGL LATAM Overwatch 2 Community Calls #4",
+            "shortname": "LATAM Community Calls 4",
+            "tickername": "EGL LATAM Community Calls #4",
+            "icon": "EGL allmode.png",
+            "image": "Overwatch 2 Community Calls lightmode.png",
+            "imagedark": "Overwatch 2 Community Calls darkmode.png",
+            "organizer": "EGL",
+            "series": "Esports Gaming League",
+            "abbreviation": "EGL",
+            "type": "Online",
+            "country": "South America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "25",
+            "date": "2022-12-23",
+            "twitter": "EGL",
+            "web": "https://egl.tv",
+            "facebook": "EGLgg",
+            "instagram": "EGLtv",
+            "discord": "eglgg",
+            "youtube": "eglpro",
+            "twitch": "egl",
+            "rulebook": "https://egl.tv/tournament/7501",
+            "bracket": "https://egl.tv/tournament/7501/matches",
+            "team_number": "3",
+            "previous": "EGL_LATAM_Overwatch_2_Community_Calls/3{{!}}#3",
+            "next": "EGL_LATAM_Overwatch_2_Community_Calls/5{{!}}#5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "geladeira quatro portas",
+            "p1": "Fanp",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Shin",
+            "p2flag": "br",
+            "pos2": "dps",
+            "p3": "Edigas",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "GME",
+            "p4flag": "br",
+            "pos4": "tank",
+            "p5": "Yax",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "Lokjiiu",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "daki",
+            "p7flag": "br",
+            "pos7": "sup"
+        },
+        {
+            "team": "Crocs do Dalca",
+            "p1": "ShawnOFF",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Ludwig",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Crocs",
+            "p3flag": "",
+            "pos3": "tank",
+            "p3link": "Dalca",
+            "p4": "Lendario",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Nyohl",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "SIZZLE",
+            "p6flag": "br",
+            "pos6": "sup",
+            "p7": "Pardal",
+            "p7flag": "",
+            "pos7": "sup"
+        },
+        {
+            "team": "Ping Diffn't",
+            "p1": "RAAM",
+            "p1flag": "cl",
+            "pos1": "dps",
+            "p2": "debout",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "aVenn",
+            "p3flag": "ar",
+            "pos3": "dps",
+            "p4": "Hurd",
+            "p4flag": "ar",
+            "pos4": "tank",
+            "p5": "PAPO",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Raizen7",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "Eliz",
+            "p7flag": "cl",
+            "pos7": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "December 23, 2022 - 14:00",
+            "date_timezone": "CT",
+            "opponent1": "geladeira quatro portas",
+            "opponent1_score": 0,
+            "opponent2": "Ping Diffn't",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "bestof": "5",
+            "date": "December 23, 2022 - 15:00",
+            "date_timezone": "CT",
+            "opponent1": "Crocs do Dalca",
+            "opponent1_score": 3,
+            "opponent2": "Ping Diffn't",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        }
+    ]
+}

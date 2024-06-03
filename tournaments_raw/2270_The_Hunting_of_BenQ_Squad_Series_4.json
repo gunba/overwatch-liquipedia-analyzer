@@ -1,0 +1,211 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "The Hunting of BenQ Squad Series",
+            "name": "The Hunting of BenQ Squad Series #4",
+            "shortname": "The Hunting of BenQ Squad Series #4",
+            "tickername": "The Hunting of BenQ Squad Series #4",
+            "icon": "BenQ icon.png",
+            "image": "BenQ icon.png",
+            "abbreviation": "BenQ",
+            "organizer": "BenQ",
+            "organizer-link": "https://www.benq.com/en-us/index.html",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Europe",
+            "city": "",
+            "venue": "",
+            "format": "Single Elimination",
+            "prizepool": "270",
+            "localcurrency": "eur",
+            "date": "2022-07-17",
+            "twitter": "",
+            "web": "",
+            "twitch": "",
+            "discord": "https://discord.gg/bx34RgMwJ4",
+            "youtube": "",
+            "rulebook": "https://battlefy.com/benq-squad-series/\u20ac270-the-hunting-of-benq-squad-series-overwatch-6v6-4/62bca0444366e15faf0324f1/info?infoTab=rules",
+            "bracket": "https://battlefy.com/benq-squad-series/%E2%82%AC270-the-hunting-of-benq-squad-series-overwatch-6v6-4/62bca0444366e15faf0324f1/stage/62d407ff2d89132d565b93ae/bracket/",
+            "team_number": "9"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Munich eSports",
+            "p1": "Seicoe|p1flag=|pos1=dps",
+            "p2": "Quartz|p2flag=|pos2=dps",
+            "p3": "Choose|p3flag=|pos3=tank",
+            "p4": "TrqstMe|p4flag=|pos4=tank",
+            "p5": "Lv1Crook|p5flag=|pos5=sup",
+            "p6": "Slay|p6flag=|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "Algos05|t2pos1=manager"
+        },
+        {
+            "team": "Mind Goblin",
+            "image": "",
+            "p1": "Wex|p1flag=ro|pos1=dps",
+            "p2": "juuzo|p2flag=gb|pos2=dps",
+            "p3": "Theomatic|p3flag=za|pos3=tank",
+            "p4": "Tred|p4flag=gb|pos4=tank",
+            "p5": "Yoham|p5flag=dk|pos5=sup",
+            "p6": "Strebor|p6flag=gb|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "S\u00f8eny|t2p1flag=fr|t2pos1=Manager"
+        },
+        {
+            "team": "Gather team",
+            "image": "",
+            "p1": "Gucci|p1flag=fi|pos1=dps",
+            "p2": "Tobzi|p2flag=norway|pos2=dps",
+            "p3": "Kayo|p3flag=dk|pos3=tank",
+            "p4": "Lusid|p4flag=se|pos4=tank",
+            "p5": "Chroo|p5flag=ee|pos5=tank",
+            "p6": "Olli|p6flag=fi|pos6=sup",
+            "p7": "Ekko|p7flag=no|pos7=sup",
+            "t2title": "Staff",
+            "t2p1": "Hash|t2pos1=coach|t2p1flag=fi"
+        },
+        {
+            "team": "frog.",
+            "image": "",
+            "p1": "FakeJake|p1flag=uk|pos1=dps",
+            "p2": "Nezayy|p2flag=uksc|pos2=dps",
+            "p3": "Kio|p3flag=fr|pos3=dps",
+            "p4": "Rajaion|p4flag=it|pos4=tank",
+            "p5": "DEAMONN|p5flag=ie|pos5=tank",
+            "p6": "Myo|p6flag=ie|pos6=sup",
+            "p7": "Grease|p7flag=nir|pos7=sup"
+        },
+        {
+            "team": "PINDAMONHANGABENSE",
+            "image": "",
+            "p1": "Abby|p1flag=us|pos1=dps",
+            "p2": "CapCatanduba|p2flag=br|pos2=dps",
+            "p3": "Domingueira|p3flag=br|pos3=tank",
+            "p4": "Jgrico|p4flag=br|pos4=tank",
+            "p5": "MAGNUZERA|p5flag=br|pos5=sup",
+            "p6": "Mussurunga|p6flag=br|pos6=sup"
+        },
+        {
+            "team": "Overwachos",
+            "image": "",
+            "p1": "sesuko|p1flag=es|pos1=",
+            "p2": "Aryll|p2flag=es|pos2=",
+            "p3": "TNK|p3flag=es|pos3=",
+            "p4": "Ph\u00e4ge|p4flag=es|pos4=",
+            "p5": "Angrod|p5flag=es|pos5=",
+            "p6": "Agapito|p6flag=es|pos6=",
+            "p7": "\u0100\u0110\u0158\u00ce|p7flag=es|pos7="
+        },
+        {
+            "team": "Boneless",
+            "image": "",
+            "p1": "Ode07|p1flag=|pos1=",
+            "p2": "OJS|p2flag=|pos2=",
+            "p3": "congresscrab|p3flag=|pos3=",
+            "p4": "Eagrill|p4flag=|pos4=",
+            "p5": "Skyy|p5flag=|pos5=",
+            "p6": "SBDD|p6flag=|pos6=",
+            "p7": "Sunny|p7flag=|pos7="
+        },
+        {
+            "team": "kotiki",
+            "image": "",
+            "p1": "zhitvredno|p1flag=|pos1=dps",
+            "p2": "babe|p2flag=|pos2=dps",
+            "p3": "ABOBA|p3flag=|pos3=tank",
+            "p4": "S1D1V|p4flag=|pos4=tank",
+            "p5": "\u041f\u0440\u0435\u0441\u043d\u044b\u0439\u041b\u0438\u043c\u043e\u043d|p5flag=ru|pos5=sup",
+            "p6": "Nyacotine|p6flag=ru|pos6=sup"
+        },
+        {
+            "team": "spobedoy",
+            "image": "",
+            "p1": "Ghoster|p1flag=|pos1=",
+            "p2": "\u0410\u0440\u0438\u0441\u0430|p2flag=|pos2=",
+            "p3": "Jenia|p3flag=|pos3=",
+            "p4": "\u0405\u04a4\u0466\u04a8\u041e\u0418\u0510\u052c\u04c0|p4flag=|pos4=",
+            "p5": "Tquzzz66|p5flag=|pos5=",
+            "p6": "McDelatCrya|p6flag=|pos6="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "opponent1": "{{TeamOpponent|Munich Esports|score=1}}",
+            "opponent2": "{{TeamOpponent|PINDAMONHANGABENSE|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Frog.|score=0}}",
+            "opponent2": "{{TeamOpponent|Munich eSports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Gather Team|score=1}}",
+            "opponent2": "{{TeamOpponent|Overwachos|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Boneless|score=0}}",
+            "opponent2": "{{TeamOpponent|kotiki|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Mind Goblin|score=1}}",
+            "opponent2": "{{TeamOpponent|Spobedoy|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Munich eSports|score=1}}",
+            "opponent2": "{{TeamOpponent|Gather team|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|kotiki|score=0}}",
+            "opponent2": "{{TeamOpponent|Mind Goblin|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|Munich eSports|score=2}}",
+            "opponent2": "{{TeamOpponent|Mind Goblin|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|Gather team|score=2}}",
+            "opponent2": "{{TeamOpponent|kotiki|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Iberian Cup #11",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch IB",
+            "shortname": "11",
+            "ticketname": "Go4OW Iberian #11",
+            "organizer": "ESL Spain",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "game": "overwatch",
+            "type": "Online",
+            "date": "2017-06-12",
+            "prizepool": "120",
+            "localcurrency": "eur",
+            "prizepoolusd": "128",
+            "web": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-spain/",
+            "twitch": "esl_overwatch_es",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-iberica/cup-11/rankings/",
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Free Pakito",
+            "p1": "T3lle",
+            "p1flag": "es",
+            "p2": "Guitonius",
+            "p2flag": "es",
+            "p3": "Ryskaposten",
+            "p3flag": "sw",
+            "p4": "JohnSinan",
+            "p4flag": "tr",
+            "p5": "Othax",
+            "p5flag": "es",
+            "p6": "Networkz",
+            "p6flag": "es"
+        },
+        {
+            "team": "CE Sabadell eSports",
+            "p1": "NiwOr",
+            "p1flag": "es",
+            "p2": "ZoK3R",
+            "p2flag": "es",
+            "p3": "Rod",
+            "p3flag": "pt",
+            "p4": "Ins",
+            "p4flag": "pt",
+            "p5": "kiler4fun",
+            "p5flag": "pt",
+            "p6": "POW3R",
+            "p6flag": "it"
+        },
+        {
+            "team": "Tantalus eSports",
+            "p1": "",
+            "p1flag": "es",
+            "p2": "",
+            "p2flag": "es",
+            "p3": "",
+            "p3flag": "es",
+            "p4": "",
+            "p4flag": "es",
+            "p5": "",
+            "p5flag": "es",
+            "p6": "",
+            "p6flag": "es"
+        },
+        {
+            "team": "Fans del Zonian",
+            "p1": "cesele",
+            "p1flag": "es",
+            "p2": "Gaijin",
+            "p2flag": "es",
+            "p3": "Navete",
+            "p3flag": "es",
+            "p4": "Nay",
+            "p4flag": "es",
+            "p5": "Malakid",
+            "p5flag": "es",
+            "p6": "Dieguito95",
+            "p6flag": "es"
+        },
+        {
+            "team": "Ad Victorium",
+            "p1": "SamyxX",
+            "p1flag": "pt",
+            "p2": "Slasher ",
+            "p2link": "Slasher (Portuguese Player)",
+            "p2flag": "pt",
+            "p3": "Ov3rk1ll",
+            "p3flag": "pt",
+            "p4": "Flow ",
+            "p4link": "Flow (Portuguese Player)",
+            "p4flag": "pt",
+            "p5": "Miglaking",
+            "p5flag": "pt",
+            "p6": "Evocative",
+            "p6flag": "pt"
+        },
+        {
+            "team": "Old Wolves",
+            "p1": "PequenoJebby",
+            "p1flag": "es",
+            "p2": "Koter ",
+            "p2flag": "es",
+            "p3": "f0cus ",
+            "p3flag": "es",
+            "p4": "Nihilhodie ",
+            "p4flag": "es",
+            "p5": "Periki ",
+            "p5flag": "es",
+            "p6": "roobertoo1 ",
+            "p6flag": "es"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "old wolves",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "free pakito",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "old wolves",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "free pakito",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "old wolves",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "free pakito",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "ce sabadell esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "ad victorium",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

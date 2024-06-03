@@ -1,0 +1,179 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "GLG Hall of Heroes",
+            "image": "Great Lakes Gaming lightmode.png",
+            "imagedark": "Great Lakes Gaming darkmode.png",
+            "series": "Great Lakes Gaming",
+            "abbreviation": "GLG",
+            "shortname": "GLG Hall of Heroes",
+            "tickername": "GLG Hall of Heroes",
+            "organizer": "Great Lakes Gaming",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "50",
+            "date": "2023-01-09",
+            "discord": "",
+            "twitch": "glgaminglounges",
+            "bracket": "https://www.communitygaming.io/tournament/hall-of-heroes-6",
+            "team_number": "10"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dallas Dongers",
+            "p1": "Bespin|pos1=|p1flag=",
+            "p2": "Clu|pos2=|p2flag=",
+            "p3": "Phanatik|pos3=|p3flag=",
+            "p4": "Bwaine|pos4=|p4flag=",
+            "p5": "wuna|pos5=|p5flag="
+        },
+        {
+            "team": "Keiser Seahawks JAX",
+            "p1": "ISSAKAKAROT|pos1=|p1flag=",
+            "p2": "ryangunslinger|pos2=|p2flag=",
+            "p3": "yourboymango|pos3=|p3flag=",
+            "p4": "DJSTARMAN76|pos4=|p4flag=",
+            "p5": "Gelloboi|pos5=|p5flag="
+        },
+        {
+            "team": "apples and bananas",
+            "p1": "kezn|pos1=|p1flag=us",
+            "p2": "Hoody|pos2=|p2flag=us",
+            "p3": "doofault|pos3=|p3flag=us",
+            "p4": "PrototypeR|pos4=|p4flag=us",
+            "p5": "TwoFish|pos5=|p5flag=us"
+        },
+        {
+            "team": "Straight Cappin",
+            "p1": "BallerSteve|pos1=|p1flag=",
+            "p2": "Penguiinn|pos2=|p2flag=",
+            "p3": "Thei|pos3=|p3flag=",
+            "p4": "EDG3M|pos4=|p4flag=",
+            "p5": "Minimonstr620|pos5=|p5flag="
+        },
+        {
+            "team": "Mercy Dependent Backup",
+            "p1": "spellcasting|pos1=|p1flag=",
+            "p2": "Axey|pos2=|p2flag=",
+            "p3": "Vienbo|pos3=|p3flag=",
+            "p4": "Typo8|pos4=|p4flag=",
+            "p5": "mommymercy|pos5=|p5flag="
+        },
+        {
+            "team": "RIT Academy",
+            "p1": "Viz|pos1=|p1flag=",
+            "p2": "LankRL|pos2=|p2flag=",
+            "p3": "popppy|pos3=|p3flag=",
+            "p4": "SuperSeb|pos4=|p4flag=",
+            "p5": "Minkoui|pos5=|p5flag="
+        },
+        {
+            "team": "BlightGG",
+            "p1": "Angelfps|pos1=|p1flag=",
+            "p2": "SlyDog|pos2=|p2flag=",
+            "p3": "Akua0986TAS|pos3=|p3flag=",
+            "p4": "FedoraAnonymous|pos4=|p4flag=",
+            "p5": "rustygoomba|pos5=|p5flag="
+        },
+        {
+            "team": "Alternate F4",
+            "p1": "AlternateDuck|pos1=|p1flag=",
+            "p2": "Cyrina|pos2=|p2flag=",
+            "p3": "LeeBA|pos3=|p3flag=",
+            "p4": "ScottishBarbie|pos4=|p4flag=",
+            "p5": "Monni|pos5=|p5flag="
+        },
+        {
+            "team": "BottomFeeders",
+            "p1": "CherryTime|pos1=|p1flag=",
+            "p2": "Pip07|pos2=|p2flag=",
+            "p3": "LumpOW|pos3=|p3flag=",
+            "p4": "KnuckleBunni|pos4=|p4flag=",
+            "p5": "stew|pos5=|p5flag="
+        },
+        {
+            "team": "Bobkitties",
+            "p1": "kuna|pos1=|p1flag=",
+            "p2": "Akusora|pos2=|p2flag=",
+            "p3": "craZmanG|pos3=|p3flag=",
+            "p4": "PuriifiedWater|pos4=|p4flag=",
+            "p5": "slowo|pos5=|p5flag="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|keiser seahawks jax|score=0}}",
+            "opponent2": "{{TeamOpponent|apples and bananas|score=2}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|mercy dependent backup|score=0}}",
+            "opponent2": "{{TeamOpponent|rit academy|score=2}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|dallas dongers|score=0}}",
+            "opponent2": "{{TeamOpponent|apples and bananas|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|straight cappin|score=2}}",
+            "opponent2": "{{TeamOpponent|rit academy|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|blightgg|score=2}}",
+            "opponent2": "{{TeamOpponent|alternate f4|score=0}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bottomfeeders|score=0}}",
+            "opponent2": "{{TeamOpponent|bobkitties|score=2}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|apples and bananas|score=0}}",
+            "opponent2": "{{TeamOpponent|straight cappin|score=2}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|blightgg|score=0}}",
+            "opponent2": "{{TeamOpponent|bobkitties|score=2}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|straight cappin|score=1}}",
+            "opponent2": "{{TeamOpponent|bobkitties|score=2}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|apples and bananas|score=2}}",
+            "opponent2": "{{TeamOpponent|blightgg|score=0}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

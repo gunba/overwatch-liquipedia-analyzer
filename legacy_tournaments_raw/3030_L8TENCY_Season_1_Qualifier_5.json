@@ -1,0 +1,99 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Qualifier",
+            "name": "L8tency Season 1 - Qualifier 5",
+            "shortname": "L8tency Season 1 Q5",
+            "tickername": "L8tency Season 1 - Qualifier 5",
+            "icon": "L8tency lightmode.png",
+            "image": "L8tency lightmode.png",
+            "series": "L8TENCY",
+            "organizer": "L8TENCY",
+            "sponsor": "[https://dood.gg/ Dood]<br>[https://claimtofameentertainment.com/claimyourfame/ ClaimYourFame]",
+            "type": "Online",
+            "country": "North America",
+            "format": "",
+            "prizepoolusd": "150",
+            "date": "2022-05-06",
+            "twitter": "l8tency",
+            "web": "https://www.l8tency.com",
+            "twitch": "l8tency",
+            "twitch2": "",
+            "discord": "wQRyD8MxVt",
+            "youtube": "",
+            "rulebook": "https://www.l8tency.com/_files/ugd/bef007_fb9ceb8db41d4a278a0ac6d060f3df34.pdf",
+            "bracket": "https://www.l8tency.com/events",
+            "team_number": "4"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Jam a Man of Fortune",
+            "p1": "Mistercrit|p1flag=us|pos1=dps",
+            "p2": "Z3ST|p2flag=us|pos2=dps",
+            "p3": "ManweAinur|p3flag=us|pos3=tank|p3link=Manwe",
+            "p4": "clairvoyant|p4flag=us|pos4=tank",
+            "p5": "\u014aEINHARDT|p5flag=us|pos5=sup",
+            "p6": "Meman|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Jammm|t2c1flag=us|t2c1pos=Manager"
+        },
+        {
+            "team": "Concordia Scarlet",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag=",
+            "p6": "|pos6=|p6flag="
+        },
+        {
+            "team": "Ducks",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag=",
+            "p6": "|pos6=|p6flag="
+        },
+        {
+            "team": "Concordia Vermillion",
+            "p1": "|pos1=|p1flag=",
+            "p2": "|pos2=|p2flag=",
+            "p3": "|pos3=|p3flag=",
+            "p4": "|pos4=|p4flag=",
+            "p5": "|pos5=|p5flag=",
+            "p6": "|pos6=|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "concordia vermillion",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "jam a man of fortune",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ducks",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "jam a man of fortune",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

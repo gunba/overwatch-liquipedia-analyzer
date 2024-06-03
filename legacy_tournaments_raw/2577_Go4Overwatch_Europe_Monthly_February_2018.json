@@ -1,0 +1,208 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Monthly Final - February 2018",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "February",
+            "tickername": "Go4 Europe Monthly",
+            "organizer": "ESL",
+            "format": "Single Elimination",
+            "type": "Online",
+            "country": "Europe",
+            "date": "2018-03-12",
+            "prizepoolusd": "720",
+            "localcurrency": "eur",
+            "prizepool": "600",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/february-2018-finals/rankings/",
+            "liquipediatier": "4|liquipediatiertype=Monthly",
+            "team_number": "8",
+            "map1": "Hanamura",
+            "map2": "Temple of Anubis",
+            "map3": "Horizon Lunar Colony",
+            "map4": "Volskaya Industries",
+            "map5": "Lijiang Tower",
+            "map6": "Nepal",
+            "map7": "Oasis",
+            "map8": "Ilios",
+            "map9": "Dorado",
+            "map10": "Route 66",
+            "map11": "Watchpoint: Gibraltar",
+            "map12": "Eichenwalde",
+            "map13": "Hollywood",
+            "map14": "King's Row",
+            "map15": "Numbani",
+            "map16": "Junkertown"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "OnlyHeroes Club",
+            "p1": "ENDLESS|p1flag=es",
+            "p2": "Munsai|p2flag=pt",
+            "p3": "R0IV|p3flag=es",
+            "p4": "SWAGLOPE|p4flag=es",
+            "p5": "Tia|p5flag=it",
+            "p6": "legol|p6flag=it",
+            "qualifier": "Go4Overwatch Points #1"
+        },
+        {
+            "team": "Hybrid eSports Club",
+            "note": "1",
+            "p1": "kharma|p1flag=hu",
+            "p2": "aviv32|p2flag=il",
+            "p3": "darkartas|p3flag=il",
+            "p4": "Wally|p4flag=dk",
+            "p5": "NoluZz|p5flag=fr",
+            "p6": "QvisT|p6flag=se",
+            "qualifier": "Go4Overwatch Points #2"
+        },
+        {
+            "team": "Portal of Gaming",
+            "image": "Portal of Gaming Logo new.png",
+            "p1": "FlexG|p1flag=ie",
+            "p2": "Knasen|p2flag=se",
+            "p3": "TheWrongName|p3flag=nl",
+            "p4": "Wayfast|p4flag=il",
+            "p5": "milkyman|p5flag=fi",
+            "p6": "Taang|p6flag=se",
+            "c": "Frruum|cflag=dk",
+            "qualifier": "Go4Overwatch Points #3"
+        },
+        {
+            "team": "Northern Lights",
+            "image": "Northern_Lights_logo.png",
+            "note": "2",
+            "p1": "MrBeck|p1flag=dk",
+            "p2": "Henzu|p2flag=se",
+            "p3": "Leodeddz|p3flag=se",
+            "p4": "Zekor|p4flag=se",
+            "p5": "caspere|p5flag=se",
+            "p6": "lateks|p6flag=se",
+            "qualifier": "Go4Overwatch Points #4"
+        },
+        {
+            "team": "ENCE eSports",
+            "image": "",
+            "p1": "Lalli|p1flag=fi |pos1=dps",
+            "p2": "OLBAA|p2flag=fi |pos2=dps",
+            "p3": "Cali|p3flag=fi |pos3=flex",
+            "p4": "Ruape|p4flag=fi |pos4=tank",
+            "p5": "snappe|p5flag=fi |pos5=tank",
+            "p6": "elfi|p6flag=fi |pos6=sup",
+            "qualifier": "Go4Overwatch Points #5"
+        },
+        {
+            "team": "Vest1g1al",
+            "image": "",
+            "p1": "|p1flag= |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6=",
+            "qualifier": "Go4Overwatch Points #6"
+        },
+        {
+            "team": "Grand Danois",
+            "image": "",
+            "p1": "|p1flag= |pos1=",
+            "p2": "|p2flag= |pos2=",
+            "p3": "|p3flag= |pos3=",
+            "p4": "|p4flag= |pos4=",
+            "p5": "|p5flag= |pos5=",
+            "p6": "|p6flag= |pos6=",
+            "qualifier": "Go4Overwatch Points #7"
+        },
+        {
+            "team": "coolclan",
+            "image": "Coolclan_logo.png",
+            "p1": "Ex0rath|p1flag=cz",
+            "p2": "NexX |p2flag=de |pos2=flex",
+            "p3": "Zeal|p3flag=uk |pos3=dps",
+            "p4": "BromaS|p4flag=es |pos4=dps",
+            "p5": "evokje|p5flag=lt |pos5=sup",
+            "p6": "Wat7|p6flag=at |pos6=tank",
+            "qualifier": "Go4Overwatch Points #8"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "coolclan",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "onlyheroes club",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "northern lights",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "ence esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "vest1g1al",
+            "score2": "",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "portal of gaming",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "hybrid esports club",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "grand danois",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "northern lights",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "coolclan",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "hybrid esports club",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "portal of gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "portal of gaming",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "northern lights",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

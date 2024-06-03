@@ -1,0 +1,771 @@
+{{University of Kentucky navbox}}
+{{Infobox league
+|name=University of Kentucky Overwatch Spring Invitational
+|shortname=UK Spring Invitational
+|image=Uklan_overwatch.png
+|abbreviation=UKI
+|icon=Uklan_overwatch.png
+|organizer=University of Kentucky
+|type=Offline
+|country=United States
+|city=Lexington
+|venue=[https://uky.edu/ University of Kentucky]
+|format=Double Elimination
+|prizepoolusd=900
+|date=2022-04-16
+|liquipediatier=4
+|web=https://esports.uky.edu/
+|twitch=ukyesports
+|twitter=UKYesports
+|discord=xGbe2m8TbA
+|bracket=https://challonge.com/UKOW
+|rulebook=https://docs.google.com/document/d/1N9Lc7s0_md4IJ8AIZa7AprtwKCpVzYZgjq3WL-LyE6o/edit
+|team_number=15
+}}
+
+==Information==
+===Format===
+* Double Elimination
+** Fifteen (15) teams face off in a double elimination bracket.
+** Tournament Admin picks the first map, following maps are picked by the loser of the previous map.
+*** The first map type is control.
+*** The second map type is payload.
+*** The third map type is hybrid.
+**** This pattern repeats if needed
+** All matches are played first to 2,
+*** except Grand Finals, which are played first to 3.
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=6|Available Maps
+|-
+![[Control]]
+![[Hybrid]]
+![[Escort]]
+|-
+!1st set
+|''[[Control]]''
+|width="130" rowspan=7|[[Oasis]]<br><br>[[Lijiang Tower]]<br><br>[[Ilios]]
+|width="130" rowspan=7|[[Dorado]]<br><br>[[Watchpoint: Gibraltar]]<br><br>[[Rialto]]
+|width="130" rowspan=7|[[Eichenwalde]]<br><br>[[King's Row]]<br><br>[[Numbani]]
+|-
+!2nd set
+|''[[Escort]]''
+|-
+!3rd set
+|''[[Hybrid]]''
+|-
+!4th set
+|''[[Control]]''
+|-
+!5th set
+|''[[Escort]]''
+|-
+!6th set
+|''[[Hybrid]]''
+|-
+!7th set
+|''[[Control]]''
+|-
+|}
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Director
+|b1=mysterio |b1name=Stanton Brown |b1flag=us
+}}
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Commentator
+|b1=Arya |b1name=Arya Shoa |b1flag=us
+|b2=Dividing |b2name=Devin Fish |b2flag=us
+|b3=Samito |b3name=Sam Dawahare |b3flag=us
+|b4=TheGrandCentral |b4name=Blake Bracken |b4flag=us
+|b5=TyGuyGaming |b5name=Tyler Lavey |b5flag=us
+}}
+{{box|break}}
+{{BroadcasterCard
+|position=Observer
+|b1=Bixal |b1name=Brennan Buzard |b1flag=us
+}}
+{{box|end}}
+
+===Prize Pool===
+<section begin="Results"/>
+$900 ({{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|cutafter=4}}
+{{prize pool slot|place=1|usdprize=900|Converse Esports|lastvs1=Grand View Vikings|lastscore1=3|lastvsscore1=0}}
+{{prize pool slot|place=2|usdprize=0|Grand View Vikings|lastvs1=Converse Esports|lastscore1=0|lastvsscore1=3}}
+{{prize pool slot|place=3|usdprize=0|Ohio State University|lastvs1=Grand View Vikings|lastscore1=0|lastvsscore1=2}}
+{{prize pool slot|place=4|usdprize=0|KSU Esports|lastvs1=Grand View Vikings|lastscore1=0|lastvsscore1=2}}
+{{prize pool slot|place=5-6|usdprize=0
+|Ohio State University - B<!--b team-->|lastvs1=|lastscore1=|lastvsscore1=
+|OU Crimson|lastvs2=|lastscore2=|lastvsscore2=
+}}
+{{prize pool slot|place=7-8|usdprize=0
+|Kentucky Esports|lastvs1=|lastscore1=|lastvsscore1=
+|WKU Hilltoppers|lastvs2=|lastscore2=|lastvsscore2=
+}}
+{{prize pool slot|place=9-12|usdprize=0
+|Cumberland University|lastvs1=|lastscore1=|lastvsscore1=
+|TTU Esports|lastvs2=|lastscore2=|lastvsscore2=
+|Bearcats|lastvs3=|lastscore3=|lastvsscore3=
+|University of Louisville|lastvs4=|lastscore4=|lastvsscore4=
+}}
+{{prize pool slot|place=13-15|usdprize=0
+|Centre College|lastvs1=|lastscore1=|lastvsscore1=
+|Murray State University|lastvs2=|lastscore2=|lastvsscore2=
+|University of Louisville - B<!--b team-->|lastvs3=|lastscore3=|lastvsscore3=
+}}
+{{Prize pool end}}
+<section end="Results"/>
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Ohio State University
+|p1=GRAB|p1flag=us|pos1=dps
+|p2=Performance|p2flag=us|pos2=dps
+|p3=Lava|p3flag=us|pos3=tank
+|p4=Impact|p4flag=us|pos4=tank
+|p5=Eski|p5flag=us|pos5=sup
+|p6=Onda|p6flag=br|pos6=sup
+|t2title=Staff
+|t2c1=Mafia|t2c1flag=us|t2c1pos=coach
+|t2c2=moony|t2c2flag=us|t2c2pos=manager
+}}
+{{TeamCard
+|team=Converse Esports
+|p1=HaMmEr|p1flag=tw|pos1=dps
+|p2=Maxwell|p2flag=us|pos2=dps
+|p3=Qwickzzz|p3flag=us|pos3=tank
+|p4=Garchomp|p4flag=us|pos4=tank
+|p5=StillKIWI|p5flag=|pos5=sup
+|p6=Chance|p6flag=us|pos6=sup|p6link=Chance (American Player)
+|t2title=Staff
+|t2c1=Waddi|t2c1pos=coach
+}}
+{{TeamCard
+|team=Grand View Vikings
+|p1=Ashton|p1flag=us|pos1=dps
+|p2=death|p2flag=us|pos2=dps
+|p3=Max|p3flag=us|pos3=tank|p3link=Max (American Player) 
+|p4=Opia|p4flag=us|pos4=tank
+|p5=Lion8769|p5flag=us|pos5=sup
+|p6=BlueSandwich|p6flag=us|pos6=sup 
+|t2title=Substitutes
+|t2p1=Jerryman|t2p1flag=us|t2pos1=dps
+}}
+{{TeamCard
+|team=KSU Esports
+|p1=kezn|p1flag=us|pos1=dps
+|p2=wods|p2flag=us|pos2=dps
+|p3=NitroGalaxy|p3flag=us|pos3=tank
+|p4=PrototypeR|p4flag=us|pos4=tank
+|p5=iso|p5flag=us|pos5=sup
+|p6=camsky|p6flag=us|pos6=sup
+}}
+{{TeamCard
+|team=OU Crimson
+|p1=Revan|p1flag=us|pos1=dps|p1link=Revan (American Player)
+|p2=Merge|p2flag=us|pos2=dps
+|p3=quinn|p3flag=us|pos3=tank
+|p4=Thumper|p4flag=us|pos4=tank
+|p5=JeffyJA|p5flag=us|pos5=sup
+|p6=Divinity|p6flag=us|pos6=sup
+}}
+{{TeamCard
+|team=Kentucky Esports
+|p1=Andy|p1flag=us|pos1=flex|p1link=Andy (American Player)
+|p2=BrandinoB|p2flag=us|pos2=tank
+|p3=ǀNHǀ|p3flag=us|pos3=tank
+|p4=Mosquito|p4flag=us|pos4=dps
+|p5=MyzuX|p5flag=us|pos5=dps
+|p6=AspectCisco|p6flag=us|pos6=sup
+|p7=madjack272|p7flag=us|pos7=sup
+|t2title=Staff
+|t2c1=Samito|t2c1pos=Coach
+|t2c2=TheGrandCentral|t2c2flag=us|t2c2pos=Coach
+}}
+{{TeamCard
+|team=Bearcats
+|p1=oSpeedy |p1flag=us |pos1=dps
+|p2=Andog |p2flag=us |pos2=dps
+|p3=Chu |p3link=Chu (American player)|p3flag=us |pos3=flex
+|p4=W1ndmill |p4flag=us |pos4=tank
+|p5=Silvertalon |p5flag=us |pos5=tank
+|p6=Penguinator7 |p6flag=us |pos6=sup
+|p7=Reginald |p7flag=us |pos7=sup
+|t2title=Staff
+|t2p1=|t2pos1=
+|t2p2=|t2pos2=
+|t2p3=|t2pos3=
+|t3title=Substitutes
+|t3p1= |t3pos1= |t3p1flag=
+|t3p2= |t3pos2= |t3p2flag=
+|t3p3= |t3pos3= |t3p3flag=
+}}
+{{TeamCard
+|team=TTU Esports
+|image=
+|p1=Jokerrr |p1flag=us |pos1=dps
+|p2=JustHud |p2flag=us |pos2=dps
+|p3=KGGhost |p3flag=us |pos3=tank
+|p4=Gandork |p4flag=us |pos4=tank
+|p5=xequanox |p5flag=us |pos5=support
+|p6=Famine |p6flag=us |pos6=sup
+|t2title=Staff
+|t2p1=Timebomb|t2pos1=coach|t2p1flag=us
+|t2p2=|t2pos2=
+|t2p3=|t2pos3=
+|t3title=Substitutes
+|t3p1=Spenker |t3pos1=dps |t3p1flag=us
+|t3p2=Benacales |t3pos2=dps |t3p2flag=us
+|t3p3=Sulli |t3pos3=tank |t3p3flag=us
+}}
+{{TeamCard
+|team=WKU Hilltoppers
+|image=
+|p1=Frosty |p1flag=us |pos1=dps
+|p2=P1llager |p2flag=us |pos2=dps
+|p3=friendofcats |p3flag=us |pos3=tank
+|p4=Hassadiddy |p4flag=jo |pos4=tank
+|p5=courtnemi |p5flag=mx |pos5=sup
+|p6=Simp |p6flag=us |pos6=sup
+|t2title=Staff
+|t2p1=Fireehawk|t2pos1=coach|t2p1flag=us
+|t2p2=|t2pos2=
+|t2p3=|t2pos3=
+|t3title=Substitutes
+|t3p1= |t3pos1= |t3p1flag=
+|t3p2= |t3pos2= |t3p2flag=
+|t3p3= |t3pos3= |t3p3flag=
+}}
+{{TeamCard
+|team=Ohio State University - B
+|image=
+|p1=Mafia |p1flag= |pos1=dps
+|p2=Potatoess |p2flag= |pos2=dps
+|p3=Leibniz |p3flag= |pos3=tank
+|p4=Winter |p4flag= |pos4=tank
+|p5=Moony |p5flag= |pos5=sup
+|p6=Orangutan |p6flag= |pos6=sup
+|t2title=Staff
+|t2p1=|t2pos1=
+|t2p2=|t2pos2=
+|t2p3=|t2pos3=
+|t3title=Substitutes
+|t3p1= |t3pos1= |t3p1flag=
+|t3p2= |t3pos2= |t3p2flag=
+|t3p3= |t3pos3= |t3p3flag=
+}}
+{{TeamCard
+|team=University of Louisville 
+|p1=Hallo |p1flag= |pos1=dps
+|p2=Menace |p2flag= |pos2=dps
+|p3=JoeDaPro |p3flag= |pos3=tank
+|p4=VenonO03 |p4flag= |pos4=tank
+|p5=Girth |p5flag= |pos5=sup
+|p6=LMagnum |p6flag= |pos6=sup
+|t2title=Staff
+|t2p1=|t2pos1=
+|t2p2=|t2pos2=
+|t2p3=|t2pos3=
+|t3title=Substitutes
+|t3p1= |t3pos1= |t3p1flag=
+|t3p2= |t3pos2= |t3p2flag=
+|t3p3= |t3pos3= |t3p3flag=
+}}
+{{TeamCard
+|team=Murray State University
+|image=
+|p1=ManeEvent |p1flag= |pos1=tank
+|p2=Verical |p2flag= |pos2=tank
+|p3=Sk73 |p3flag= |pos3=dps
+|p4=Ahnhur |p4flag= |pos4=dps
+|p5=Myreath |p5flag= |pos5=sup
+|p6=Brodo |p6flag= |pos6=sup
+|t2title=Staff
+|t2p1=|t2pos1=
+|t2p2=|t2pos2=
+|t2p3=|t2pos3=
+|t3title=Substitutes
+|t3p1=Oatmealboy |t3pos1=Tank |t3p1flag=
+|t3p2= |t3pos2= |t3p2flag=
+|t3p3= |t3pos3= |t3p3flag=
+}}
+{{TeamCard
+|team=Cumberland University
+|p1=Dominator171 |p1flag= |pos1=dps
+|p2=Cubondyy |p2flag= |pos2=dps
+|p3=Cucomet |p3flag= |pos3=tank
+|p4=Mattr |p4flag= |pos4=tank
+|p5=Hemlock |p5flag= |pos5=sup
+|p6=Leonmaster|p6flag=|pos6=sup
+}}
+{{TeamCard
+|team=Centre College
+|image=
+|p1= |p1flag= |pos1=
+|p2= |p2flag= |pos2=
+|p3= |p3flag= |pos3=
+|p4= |p4flag= |pos4=
+|p5= |p5flag= |pos5=
+|p6= |p6flag= |pos6=
+}}
+{{TeamCard
+|team=University of Louisville - B <!--b team-->
+|p1=mjgator|p1flag=|pos1=dps
+|p2=VybeZee|p2flag=|pos2=dps
+|p3=K1LLAK1D2|p3flag=|pos3=tank
+|p4=EngageObject|p4flag=|pos4=tank
+|p5=Buhgiorno|p5flag=|pos5=sup
+|p6=DivineFlaws|p6flag=|pos6=sup
+|t2title=Substitutes
+|t2p1=Qmac|t3pos1=tank 
+|t2p2=Dain|t3pos2=sup 
+}}
+{{TeamCard columns end}}
+
+==Playoffs Results==
+{{LegacyBracket|Bracket/16U8L4DSL2DSL1D|16DETeamBracket|type=team|id=xCdCT1cx0D
+<!-- ROUND 1 -->
+|R1D1team=Ohio State University|R1D1score= |R1D1win=1
+|R1D2team=Bye|R1D2score= |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=TTU Esports|R1D3score=0|R1D3win=
+|R1D4team=WKU Hilltoppers|R1D4score=2|R1D4win=1
+|R1G2details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=KSU Esports|R1D5score=2 |R1D5win=1
+|R1D6team=Cumberland University|R1D6score=0 |R1D6win=
+|R1G3details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D7team=OU Crimson|R1D7score=2|R1D7win=1
+|R1D8team=Murray State University|R1D8score=0|R1D8win=
+|R1G4details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D9team=Converse Esports|R1D9score=2 |R1D9win=1
+|R1D10team=University of Louisville - B|R1D10score=0 |R1D10win=
+|R1G5details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D11team=Kentucky Esports|R1D11score=2|R1D11win=1
+|R1D12team=University of Louisville|R1D12score=0 |R1D12win=
+|R1G6details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D13team=Grand View Vikings|R1D13score=2 |R1D13win=1
+|R1D14team=Centre College|R1D14score=0 |R1D14win=
+|R1G7details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D15team=Bearcats|R1D15score=0|R1D15win=
+|R1D16team=Ohio State University - B|R1D16score=2 |R1D16win=1
+|R1G8details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- QUARTERFINALS -->
+|R2W1team=Ohio State University|R2W1score=2 |R2W1win=1
+|R2W2team=WKU Hilltoppers |R2W2score=0 |R2W2win=
+|R2G1details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W3team=KSU Esports|R2W3score=2 |R2W3win=1
+|R2W4team=OU Crimson|R2W4score=1 |R2W4win=
+|R2G2details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W5team=Converse Esports|R2W5score=2 |R2W5win=1
+|R2W6team=Kentucky Esports|R2W6score=0|R2W6win=
+|R2G3details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W7team=Grand View Vikings|R2W7score=2 |R2W7win=1
+|R2W8team=Ohio State University - B |R2W8score=0 |R2W8win=
+|R2G4details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R4W1team=Ohio State University|R4W1score=2 |R4W1win=1
+|R4W2team=KSU Esports|R4W2score=0|R4W2win=
+|R4G1details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R4W3team=Converse Esports|R4W3score=2 |R4W3win=1
+|R4W4team=Grand View Vikings|R4W4score=0 |R4W4win=
+|R4G2details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- WINNER'S FINALS -->
+|R6W1team=Ohio State University|R6W1score=1 |R6W1win=
+|R6W2team=Converse Esports |R6W2score=2 |R6W2win=1
+|R6G1details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 1 -->
+|R1D17team=Bye|R1D17score=|R1D17win=
+|R1D18team=Bye|R1D18score=|R1D18win=
+|R1G9details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D19team=Cumberland University|R1D19score=2 |R1D19win=1
+|R1D20team=Murray State University|R1D20score=0 |R1D20win=
+|R1G10details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D21team=University of Louisville - B |R1D21score=0 |R1D21win=
+|R1D22team=University of Louisville |R1D22score=2 |R1D22win=1
+|R1G11details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D23team=Centre College|R1D23score=0 |R1D23win=
+|R1D24team=Bearcats|R1D24score=2 |R1D24win=1
+|R1G12details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 2 -->
+|R2D1team=Ohio State University - B |R2D1score=2 |R2D1win=1
+|R2W9team=TTU Esports |R2W9score=1|R2W9win=
+|R2G5details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D2team=Kentucky Esports|R2D2score=2 |R2D2win=1
+|R2W10team=Cumberland University|R2W10score=0|R2W10win=
+|R2G6details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D3team=OU Crimson|R2D3score=2 |R2D3win=1
+|R2W11team=University of Louisville|R2W11score=0|R2W11win=
+|R2G7details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D4team=WKU Hilltoppers |R2D4score=2 |R2D4win=1
+|R2W12team=Bearcats|R2W12score=0 |R2W12win=
+|R2G8details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 3 -->
+|R3W1team=Ohio State University - B|R3W1score=2 |R3W1win=1
+|R3W2team=Kentucky Esports |R3W2score=0|R3W2win=
+|R3G1details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R3W3team=OU Crimson|R3W3score=2|R3W3win=1
+|R3W4team=WKU Hilltoppers|R3W4score=1 |R3W4win=
+|R3G2details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 4 -->
+|R4D1team=KSU Esports|R4D1score=2 |R4D1win=1
+|R4W5team=Ohio State University - B|R4W5score=0 |R4W5win=
+|R4G3details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R4D2team=Grand View Vikings|R4D2score=2 |R4D2win=1
+|R4W6team=OU Crimson|R4W6score=0 |R4W6win=
+|R4G4details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S SEMIFINALS -->
+|R5W1team=KSU Esports|R5W1score=0 |R5W1win=
+|R5W2team=Grand View Vikings|R5W2score=2 |R5W2win=1
+|R5G1details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S FINALS -->
+|R6D1team=Ohio State University |R6D1score=0|R6D1win=
+|R6W3team=Grand View Vikings|R6W3score=2 |R6W3win=1
+|R6G2details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- GRAND FINALS -->
+|R7W1team=Converse Esports |R7W1score=3 |R7W1win=1
+|R7W2team=Grand View Vikings |R7W2score=0 |R7W2win=
+|R7G1details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|vodgame1=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- EXTENDED SERIES (optional) -->
+|R7W1score2=
+|R7W2score2=
+}}

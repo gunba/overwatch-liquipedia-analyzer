@@ -1,0 +1,232 @@
+{
+    "tournament_info": [
+        {
+            "name": "ZOTAC Cup - North America: Qualifier 1",
+            "tickername": "ZOTAC Cup - NA #1 Q1",
+            "image": "ZOTAC_Cup.png",
+            "series": "ZOTAC Cup",
+            "abbreviation": "ZOTAC Cup",
+            "organizer": "ZOTAC",
+            "format": "Single Elimination",
+            "type": "Online",
+            "country": "United States",
+            "date": "2017-06-03",
+            "prizepoolusd": "420",
+            "web": "https://battlefy.com/zotac-cup",
+            "facebook": "ZOTACCup",
+            "bracket": "https://battlefy.com/zotac-cup/zotac-cup-overwatch-n-america-qualifier-1/582cc8e58445134703e64f50/stage/5932ffb4d467ee0345e92fa7/bracket/",
+            "liquipediatier": "5",
+            "liquipediatiertype": "Qualifier",
+            "team_number": "4",
+            "game": "overwatch"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Not Prepared",
+            "p1": "Hux",
+            "p1flag": "",
+            "p2": "Broda",
+            "p2flag": "",
+            "p3": "Hershe",
+            "p3flag": "",
+            "p4": "Shiorii",
+            "p4flag": "",
+            "p5": "Do\u016bmak",
+            "p5flag": "",
+            "p6": "Onocron",
+            "p6flag": "",
+            "p7": "Vellichor",
+            "p7flag": "",
+            "p8": "Russ",
+            "p8flag": ""
+        },
+        {
+            "team": "Sea Nein",
+            "p1": "Sosa",
+            "p1flag": "",
+            "p2": "Sauce",
+            "p2flag": "",
+            "p3": "GOLD",
+            "p3flag": "",
+            "p4": "Rookie",
+            "p4flag": "",
+            "p5": "Fool",
+            "p5flag": "",
+            "p6": "Zivaalet",
+            "p6flag": "",
+            "p7": "rahhdee",
+            "p7flag": "",
+            "p8": "vholtz",
+            "p8flag": "",
+            "p9": "Blight",
+            "p9flag": ""
+        },
+        {
+            "team": "PlayFair",
+            "p1": "Mandexman",
+            "p1flag": "",
+            "p2": "ScythZ",
+            "p2flag": "",
+            "p3": "Drake",
+            "p3flag": "",
+            "p4": "Roekz",
+            "p4flag": "",
+            "p5": "MrTickles",
+            "p5flag": "",
+            "p6": "Erebos",
+            "p6flag": ""
+        },
+        {
+            "team": "Phantom Gaming",
+            "p1": "Masterkiller",
+            "p1flag": "",
+            "p2": "Cidevas",
+            "p2flag": "",
+            "p3": "Nekrono",
+            "p3flag": "",
+            "p4": "bladecode",
+            "p4flag": "",
+            "p5": "Zoom",
+            "p5flag": "",
+            "p6": "DINKLEBERG",
+            "p6flag": "",
+            "p7": "kamknight",
+            "p7flag": "",
+            "p8": "Zentaury",
+            "p8flag": "",
+            "p9": "TrueShoot",
+            "p9flag": "",
+            "p10": "Sonico",
+            "p10flag": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2017-06-03",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Not Prepared",
+            "opponent1_score": 1,
+            "opponent2": "PlayFair",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2017-06-03",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sea Nein",
+            "opponent1_score": 2,
+            "opponent2": "Phantom Gaming",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "bestof": "5",
+            "date": "2017-06-03",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Not Prepared",
+            "opponent1_score": 0,
+            "opponent2": "Sea Nein",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2017-06-03",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "PlayFair",
+            "opponent1_score": 0,
+            "opponent2": "Phantom Gaming",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "RxMTP="
+        }
+    ]
+}

@@ -1,0 +1,448 @@
+{{DISPLAYTITLE:EBC EMEA Regionals Middle East & Africa}}
+{{EBC EMEA navbox}}
+{{Tabs static
+|name1=Overview
+|link1=EBC/2020/EMEA/Regionals/Middle East & Africa
+|name2=Qualifiers
+|link2=EBC/2020/EMEA/Regionals/Middle East & Africa/Qualifiers
+|This=1
+}}
+{{Infobox league
+|name=EBC EMEA Regionals Middle East & Africa
+|shortname=EMEA Middle East & Africa
+|image=EMEA_Middle_East_Africa.png
+|series=ebc
+|abbreviation=EMEA Regionals
+|icon=
+|tickername=EBC Middle East & Africa
+|organizer=EBC
+|organizer-link=https://ebc.gg
+|sponsor=
+|type=Online
+|country=Europe
+|format=Double Elimination
+|prizepool=1800 {{Abbr/EUR}} 
+|prizepoolusd=2132
+|sdate=2020-08-21
+|edate=2020-08-30
+|liquipediatier=4
+|web=https://ebc.gg/
+|twitch=EBC_gg
+|bracket=https://battlefy.com/ebc/emea-regionals-middle-east-africa-playoffs/5f1b38f73e779e27259ef981/stage/5f358f6612ed6c119e0694f0/bracket/
+|rulebook=https://docs.google.com/document/d/1fHBtbRCBlLn4eSVhBxGdmxZZI6imUkThNgivqydHCnI/edit
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=8
+|previous=
+|next=
+}}
+
+==About==
+
+===Format===
+*Double Elimination
+**Each match, except Grand Finals, will be played in a First to 3 format.
+***Grand Finals are played in a First to 4 format.
+**The first map is determined by tournament administration.
+**Following maps are decided by the loser of the previous map. The winner picks the side.
+**Top six (6) teams qualify for [[EBC/2020/EMEA/Major|EMEA Major]].
+
+===Broadcast Talent===
+<!--
+{{box|start|padding=2em}}
+====English Broadcast====
+
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=TheOlimancer    |b1name=Oliver Putz    |b1flag=de
+|b2=ChefBilly      |b2name=      |b2flag=us
+|b3=Spacy |b3name=Jack Peacock |b3flag=uk
+|b4=NaoriMizuki
+}}
+{{box|break|padding=2em}}
+====German Broadcast====
+
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=Ultimett |b1name=Lukas Niewald |b1flag=de
+|b2=Mytex    |b2name=Felix Doege   |b2flag=de
+}}
+{{box|end|padding=2em}}
+-->
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=7|'''Map Pool'''
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=6|Available Maps For '''EMEA Regionals Middle East & Africa'''
+|-
+![[Control]]
+![[Hybrid]]
+![[Assault]]
+![[Escort]]
+|-
+!1st set
+|''[[Control]] map''
+|width="130" rowspan=5|
+*[[Busan]]
+*[[Ilios]]
+*[[Lijiang Tower]]
+*[[Nepal]]
+*[[Oasis]]
+|width="130" rowspan=5|
+*[[Blizzard World]]
+*[[Eichenwalde]]
+*[[Hollywood]]
+*[[King's Row]]
+*[[Numbani]]
+|width="130" rowspan=5|
+*[[Hanamura]]
+*[[Volskaya Industries]]
+*[[Temple of Anubis]]
+|width="130" rowspan=5|
+*[[Dorado]]
+*[[Havana]]
+*[[Junkertown]]
+*[[Rialto]]
+*[[Route 66]]
+*[[Watchpoint: Gibraltar]]
+|-
+!2nd set
+|''[[Assault]] map''
+|-
+!3rd set
+|''[[Hybrid]] map''
+|-
+!4th set
+|''[[Escort]] map''
+|-
+!5th set
+|''[[Control]] map''
+|}
+
+==Prize Pool==
+{{prize pool start|localcurrency=eur|points=seed|cutafter=6}}
+{{prize pool slot|place=1 |usdprize=1178 |localprize=1000 |points=[[EBC/2020/EMEA/Major|EMEA Major]] |01_esports |walkoverfrom1=the ultimates |date1=2020-08-30 }}
+{{prize pool slot|place=2 |usdprize=589 |localprize=500 |points=[[EBC/2020/EMEA/Major|EMEA Major]] |the ultimates |walkoverto1=01_esports |date1=2020-08-30 }}
+{{prize pool slot|place=3 |usdprize=353 |localprize=300 |points=[[EBC/2020/EMEA/Major|EMEA Major]] |snrg esports |lastvs1=01_esports |lastscore1=0 |lastvsscore1=3 |date1=2020-08-30 }}
+{{prize pool slot|place=4 |usdprize=0 |localprize=0 |points=[[EBC/2020/EMEA/Major|EMEA Major]] |atk |lastvs1=01_esports |lastscore1=1 |lastvsscore1=3 |date1=2020-08-30 }}
+{{prize pool slot|place=5-6 |usdprize=0 |localprize=0 |points=[[EBC/2020/EMEA/Major|EMEA Major]]
+|the heroes |walkoverto1=01_esports |date1=2020-08-29
+|tsg-teammist |lastvs2=atk |lastscore2=0 |lastvsscore2=3 |date2=2020-08-29
+}}
+{{prize pool slot|place=7-8 |usdprize=0 |localprize=0 |points=-
+|washed machines |walkoverto1=01_esports |date1=2020-08-29
+|asmr esports |walkoverto2=atk |date2=2020-08-29
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+<section begin="Participants"/>
+{{TeamCard columns start|cols=12}}
+{{TeamCard
+|team=01 Esports
+|p1=Goku|p1flag=sa|pos1=dps
+|p2=Youbi|p2flag=sa|pos2=dps
+|p3=iMOH97|p3flag=sa|pos3=tank
+|p4=Light|p4link=Light (Saudi Player)|p4flag=sa|pos4=tank
+|p5=BeCanBauer|p5flag=sa|pos5=sup
+|p6=M5RBH2|p6flag=sa|pos6=sup|p6link=One
+|c=|cflag=
+|qualifier=[[EBC/2020/EMEA/Regionals/Middle East & Africa/Qualifiers|Qualifiers]]
+|placement=1
+}}
+{{TeamCard
+|team=ASMR Esports
+|p1=FANKDA |p1flag=kw |pos1=dps
+|p2=Legendary |p2flag=ae |pos2=dps
+|p3=BRAIN |p3link=Brain|p3flag=sa |pos3=tank
+|p4=Jazafena |p4flag=kw |pos4=tank
+|p5=SnipKw |p5flag=kw |pos5=tank
+|p6=W1llyv |p6flag=sa |pos6=sup
+|p7=DeadLine |p7flag=kw |pos7=sup
+|c=|cflag=
+|qualifier=[[EBC/2020/EMEA/Regionals/Middle East & Africa/Qualifiers|Qualifiers]]
+|placement=2
+}}
+{{TeamCard
+|team=The Ultimates
+|p1=Fuki|p1flag=sa|pos1=dps
+|p2=KssarPlayz|p2flag=|pos2=dps
+|p3=Antigon|p3flag=|pos3=tank
+|p4=Henningsen|p4flag=|pos4=tank
+|p5=ChoccyMilk|p5flag=|pos5=sup
+|p6=SirMajed|p6flag=|pos6=sup
+|t2title=Staff
+|t2p1=Natalie|t2pos1=manager
+|qualifier=[[EBC/2020/EMEA/Regionals/Middle East & Africa/Qualifiers|Qualifiers]]
+|placement=3
+}}
+{{TeamCard
+|team=TSG-Teammist
+|notes=1
+|p1=nootnoot |p1flag= |pos1=
+|p2=Trizzle |p2flag= |pos2=
+|p3=Hamster |p3flag= |pos3=|p3link=Hamster (MENA Player)
+|p4=Cheff |p4flag= |pos4=
+|p5=Lolgod |p5flag= |pos5=
+|p6=ShaDowScript |p6flag= |pos6=
+|p7=MetalSnow |p7flag= |pos7=
+|p8=Nyaan |p8flag= |pos8=
+|p9=Ethilios964 |p9flag= |pos9=
+|c=|cflag=
+|qualifier=[[EBC/2020/EMEA/Regionals/Middle East & Africa/Qualifiers|Qualifiers]]
+|placement=4
+}}
+{{TeamCard
+|team=SNRG Esports
+|p1=AimHero|p1flag=|pos1=dps
+|p2=LamPoSAN|p2flag=|pos2=dps
+|p3=IAPlays|p3flag=|pos3=tank
+|p4=BMBM|p4flag=|pos4=tank
+|p5=Airbag|p5flag=|pos5=sup
+|p6=xMiNz|p6flag=|pos6=sup
+|c=|cflag=
+|qualifier=[[EBC/2020/EMEA/Regionals/Middle East & Africa/Qualifiers|Qualifiers]]
+|placement=5-6
+}}
+{{TeamCard
+|team=Washed Machines
+|notes=2
+|p1=Challenge |p1flag= |pos1=
+|p2=Architec7 |p2flag= |pos2=
+|p3=MGD |p3flag= |pos3=
+|p4=Blanc |p4flag= |pos4=
+|p5=adada |p5flag= |pos5=
+|p6=Jadsy |p6flag= |pos6=
+|p7=MrGhostex |p7flag= |pos7=
+|p8=DareDeviL |p8flag= |pos8=
+|p9=Loussifer |p9flag= |pos9=
+|c=|cflag=
+|qualifier=[[EBC/2020/EMEA/Regionals/Middle East & Africa/Qualifiers|Qualifiers]]
+|placement=5-6
+}}
+{{TeamCard
+|team=ATK
+|p1=Dizzi |p1flag= |pos1=
+|p2=Bandit |p2flag= |pos2=
+|p3=twenty |p3flag= |pos3=
+|p4=Sponge |p4flag= |pos4=
+|p5=Lazy |p5flag= |pos5=
+|p6=LikeALuke |p6flag= |pos6=
+|c=|cflag=
+|qualifier=[[EBC/2020/EMEA/Regionals/Middle East & Africa/Qualifiers|Qualifiers]]
+|placement=7-8
+}}
+{{TeamCard
+|team=The Heroes
+|p1=PRD8A |p1flag= |pos1=
+|p2=Lemon |p2flag= |pos2=
+|p3=log |p3flag= |pos3=
+|p4=V0RT3X |p4flag= |pos4=
+|p5=Cipher |p5flag= |pos5=
+|p6=RIN |p6flag= |pos6=
+|p7=meow |p7flag= |pos7=
+|c=|cflag=
+|qualifier=[[EBC/2020/EMEA/Regionals/Middle East & Africa/Qualifiers|Qualifiers]]
+|placement=7-8
+}}
+{{TeamCard columns end}}
+
+{{Roster changes start}}
+{{note|1|[[Project B]] drop out of the tournament and [[TSG-Teammist]] take their slot.}}
+{{note|2|[[Team Lebanon]] rebrand to [[Washed Machines]].}}
+{{Roster changes end}}
+
+==Results==
+{{LegacyBracket|Bracket/8U4L2DSL1D|8DETeamBracket|type=team|id=4OwPpARs7W
+<!-- QUARTERFINALS -->
+|R1D1team=01_esports |R1D1score=FF |R1D1win=
+|R1D2team=tsg-teammist |R1D2score=W |R1D2win=1
+|R1G1details={{BracketMatchSummary
+|date=August 21, 2020 - 18:00 {{Abbr/CEST}}
+|finished=true
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=snrg esports |R1D3score=3 |R1D3win=1
+|R1D4team=washed machines |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary
+|date=August 21, 2020 - 19:15 {{Abbr/CEST}}
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=asmr esports |R1D5score=FF |R1D5win=
+|R1D6team=the heroes |R1D6score=W |R1D6win=1
+|R1G3details={{BracketMatchSummary
+|date=August 21, 2020 - 18:00 {{Abbr/CEST}}
+|finished=true
+|overgg=
+|pf=
+|wl=
+}}
+|R1D7team=the ultimates |R1D7score=3 |R1D7win=1
+|R1D8team=atk |R1D8score=0 |R1D8win=
+|R1G4details={{BracketMatchSummary
+|date=August 21, 2020 - 19:15 {{Abbr/CEST}}
+|twitch=mb_official
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R2W1team=tsg-teammist |R2W1score=1 |R2W1win=
+|R2W2team=snrg esports |R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary
+|date=August 21, 2020 - 20:30 {{Abbr/CEST}}
+|twitch=mb_official
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W3team=the heroes |R2W3score=0 |R2W3win=
+|R2W4team=the ultimates |R2W4score=3 |R2W4win=1
+|R2G2details={{BracketMatchSummary
+|date=August 29, 2020 - 16:00 {{Abbr/CEST}}
+|twitch=ebc_gg
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- WINNER'S FINALS -->
+|R4W1team=snrg esports |R4W1score=0 |R4W1win=
+|R4W2team=the ultimates |R4W2score=3 |R4W2win=1
+|R4G1details={{BracketMatchSummary
+|date=August 29, 2020 - 18:30 {{Abbr/CEST}}
+|twitch=ebc_gg
+|finished=true
+|map1=Lijiang Tower |map1score=0-2 |map1win=2
+|map2=King's Row |map2score=2-3 |map2win=2
+|map3=Temple of Anubis |map3score=2-3 |map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 1 -->
+|R1D9team=washed machines |R1D9score=FF |R1D9win=
+|R1D10team=01_esports |R1D10score=W |R1D10win=1
+|R1G5details={{BracketMatchSummary
+|date=August 29, 2020 - 16:00 {{Abbr/CEST}}
+|finished=true
+|overgg=
+|pf=
+|wl=
+}}
+|R1D11team=atk |R1D11score=W |R1D11win=1
+|R1D12team=asmr esports |R1D12score=FF |R1D12win=
+|R1G6details={{BracketMatchSummary
+|date=August 29, 2020 - 17:15 {{Abbr/CEST}}
+|finished=true
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 2 -->
+|R2D1team=the heroes |R2D1score=FF |R2D1win=
+|R2W5team=01_esports |R2W5score=W |R2W5win=1
+|R2G3details={{BracketMatchSummary
+|date=August 29, 2020 - 18:30 {{Abbr/CEST}}
+|finished=true
+|overgg=
+|pf=
+|wl=
+}}
+|R2D2team=tsg-teammist |R2D2score=0 |R2D2win=
+|R2W6team=atk |R2W6score=3 |R2W6win=1
+|R2G4details={{BracketMatchSummary
+|date=August 29, 2020 - 18:30 {{Abbr/CEST}}
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 3 -->
+|R3W1team=01_esports |R3W1score=3 |R3W1win=1
+|R3W2team=atk |R3W2score=1 |R3W2win=
+|R3G1details={{BracketMatchSummary
+|date=August 30, 2020 - 16:00 {{Abbr/CEST}}
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S FINALS -->
+|R4D1team=snrg esports |R4D1score=0 |R4D1win=
+|R4W3team=01_esports |R4W3score=3 |R4W3win=1
+|R4G2details={{BracketMatchSummary
+|date=August 30, 2020 - 17:15 {{Abbr/CEST}}
+|twitch=ebc_gg
+|finished=true
+|map1=Ilios |map1score=0-2 |map1win=2
+|map2=King's Row |map2score=3-4 |map2win=2
+|map3=Temple of Anubis |map3score=0-1 |map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+<!-- GRAND FINALS -->
+|R5W1team=the ultimates |R5W1score=FF |R5W1win=
+|R5W2team=01_esports |R5W2score=W |R5W2win=1
+|R5G1details={{BracketMatchSummary
+|date=August 30, 2020 - 18:30 {{Abbr/CEST}}
+|twitch=ebc_gg
+|finished=true
+|map1=Lijiang Tower |map1score=0-2 |map1win=2
+|map2=King's Row |map2score=0-3 |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|map6= |map6score= |map6win=
+|map7= |map7score= |map7win=
+|comment=[[The Ultimates]] can't field enough players and forfeit the match.
+|overgg=
+|pf=
+|wl=
+}}
+}}

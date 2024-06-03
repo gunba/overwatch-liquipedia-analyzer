@@ -1,0 +1,201 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "Console Gaming League",
+            "abbreviation": "CGL",
+            "shortname": "Ramattra Rumble NA PC",
+            "name": "CGL Ramattra Rumble - NA PC",
+            "tickername": "CGL Ramattra Rumble NA PC",
+            "image": "Console Gaming League lightmode.png",
+            "imagedark": "Console Gaming League darkmode.png",
+            "icon": "Console Gaming League lightmode.png",
+            "icondark": "Console Gaming League darkmode.png",
+            "organizer": "Console Gaming League",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "North America",
+            "format": "Group Stage<br>Double Elimination",
+            "prizepoolusd": "500",
+            "sdate": "2022-12-09",
+            "edate": "2022-12-11",
+            "web": "https://www.consolegamingleague.com/",
+            "twitch": "cgl1",
+            "discord": "bBsQg37",
+            "twitter": "consolegaminglg",
+            "instagram": "consolegamingleague",
+            "bracket": "https://challonge.com/nd24816o",
+            "team_number": "10"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Midwest Monsoon",
+            "p1": "Blissful|p1flag=us|pos1=dps",
+            "p2": "Kallax|p2flag=us|pos2=dps",
+            "p3": "m5ri|pos3=tank",
+            "p4": "zPanthr|p4flag=us|pos4=sup",
+            "p5": "Ross|p5flag=us|pos5=sup"
+        },
+        {
+            "team": "Playdoh Eaters",
+            "p1": "Charybdis|pos1=",
+            "p2": "T0x1c|pos2=",
+            "p3": "Kapitol|pos3=",
+            "p4": "tri|pos4=",
+            "p5": "ChoiSooHwan|pos5="
+        },
+        {
+            "team": "Rolling Ronalds",
+            "p1": "Onelyfclover|p1flag=us|pos1=",
+            "p2": "claymachine|p2flag=us|pos2=",
+            "p3": "Zeus|p3flag=ca|pos3=",
+            "p4": "Andrew|p4flag=us|pos4=|p4link=Andrew (American Player)",
+            "p5": "Havoc|p5flag=ca|pos5="
+        },
+        {
+            "team": "5Exe Esports",
+            "p1": "|pos1=",
+            "p2": "|pos2=",
+            "p3": "|pos3=",
+            "p4": "|pos4=",
+            "p5": "|pos5="
+        },
+        {
+            "team": "Citrus",
+            "p1": "Danny|pos1=dps|p1link=Danny (American Player)",
+            "p2": "ultimawep|pos2=dps",
+            "p3": "Zeb|pos3=tank",
+            "p4": "Floomfie|p4flag=us|pos4=sup",
+            "p5": "zman|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "BlueSandwich|t2c1pos=coach",
+            "t2c2": "Eponine|t2c2flag=us|t2c2pos=manager"
+        },
+        {
+            "team": "UNH",
+            "p1": "mogu|pos1=|p1link=mogu (American Player)",
+            "p2": "Racc|pos2=",
+            "p3": "Loky|pos3=",
+            "p4": "jraynor196|pos4=",
+            "p5": "TheMegalodon|pos5=",
+            "p6": "\u0108\u0126\u0200\u0197\u014a\u015c\u0200\u0174M\u01e0\u014a|pos6="
+        },
+        {
+            "team": "Ezderk fan club",
+            "p1": "Matrix|pos1=dps",
+            "p2": "AcinidiPepe7|pos2=",
+            "p3": "Shuki|pos3=sup",
+            "p4": "Pantera|pos4=tank",
+            "p5": "|pos5="
+        },
+        {
+            "team": "Hush Hush",
+            "p1": "ZEROW|p1flag=br|pos1=",
+            "p2": "risu|pos2=",
+            "p3": "VFWimbleton|pos3=",
+            "p4": "Melophobia|p4flag=us|pos4=dps",
+            "p5": "|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "December 10, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|midwest monsoon|score=2}}",
+            "opponent2": "{{TeamOpponent|playdoh eaters|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 10, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|rolling ronalds|score=2}}",
+            "opponent2": "{{TeamOpponent|5exe esports|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 10, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|citrus|score=2}}",
+            "opponent2": "{{TeamOpponent|unh|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "December 10, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ezderk fan club|score=2}}",
+            "opponent2": "{{TeamOpponent|hush hush|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "December 10, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|midwest monsoon|score=0}}",
+            "opponent2": "{{TeamOpponent|rolling ronalds|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "December 10, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|citrus|score=2}}",
+            "opponent2": "{{TeamOpponent|ezderk fan club|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "December 11, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|rolling ronalds|score=2}}",
+            "opponent2": "{{TeamOpponent|citrus|score=3}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "December 10, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|playdoh eaters|score=0}}",
+            "opponent2": "{{TeamOpponent|5exe esports|score=2}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "December 10, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|unh|score=0}}",
+            "opponent2": "{{TeamOpponent|hush hush|score=2}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "December 10, 2022 - 18:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ezderk fan club|score=2}}",
+            "opponent2": "{{TeamOpponent|5exe esports|score=0}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "December 10, 2022 - 18:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|midwest monsoon|score=2}}",
+            "opponent2": "{{TeamOpponent|hush hush|score=0}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "December 10, 2022 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ezderk fan club|score=0}}",
+            "opponent2": "{{TeamOpponent|midwest monsoon|score=2}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "December 11, 2022 - 17:30 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|rolling ronalds|score=0}}",
+            "opponent2": "{{TeamOpponent|midwest monsoon|score=3}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "December 11, 2022 - 19:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|citrus|score=4}}",
+            "opponent2": "{{TeamOpponent|midwest monsoon|score=1}}",
+            "optional": "R5M1="
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{{Will English IVitational navbox}}
+{{DISPLAYTITLE:Will English IVitational - Play-Ins}}
+{{tabs static
+|name1=Main Event|link1=Will_English_IVitational/1
+|name2=Play-Ins|link2=Will_English_IVitational/1/Play-Ins
+|This=2
+}}
+{{Infobox league
+|series=
+|liquipediatier=4|liquipediatiertype=Qualifier
+|abbreviation=WEI
+|name=Will English IVitational - Play-Ins
+|shortname=WEI
+|tickername=Will English IVitational - Play-Ins
+|icon=Will-English-IVitational High res.png
+|image=Will-English-IVitational High res.png
+|organizer=Will English IV
+|organizer-link=https://twitter.com/WillEnglishIV
+|sponsor=
+|type=Online
+|country=North America
+|game=overwatch
+|format=Single Elimination
+|date=2021-01-15
+|twitter=
+|web=
+|twitch=willenglishiv
+|discord=
+|youtube=
+|rulebook=https://docs.google.com/document/d/1yduzVoW4F5rKRXg0YRJNx9OFOpdOD7TGlg1aFWhLP98/edit
+|bracket=https://smash.gg/tournament/the-will-english-ivitational/event/ivitational-overwatch/brackets
+|team_number=4
+}}
+
+The '''Will English IVitational''' is a tournament organized by Will English IV.
+
+==Information==
+===Format===
+*Four teams, Gauntlet-style
+*Best-of-1 Control map with 70% tick speed
+*Winner of the play-in gauntlet qualifies for the main event.
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=English
+|position=Caster
+|b1=Will English IV|b1name=|b1flag=us
+|b2=Tangerine|b2name=|b2flag=us
+}}
+{{BroadcasterCard|lang=English
+|position=Observer
+|b1=Knighty|b1name=Alex Irwin|b1flag=us
+}}
+{{BroadcasterCard|lang=English
+|position=Lead Broadcaster
+|b1=Unieveth|b1name=|b1flag=us
+}}
+
+===Prize Pool===
+{{TeamPrizePool|qualifies=Will_English_IVitational/1|qualifies1name=Main Event|prizesummary=n|import=true
+|{{Slot|qualified=true}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Spin2Win
+|p1=Commando
+|p2=Mikman
+|p3=Afellowkid
+|p4=Keegan
+|p5=KingScar
+|p6=LilBobby
+|p7=Ozaarc
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ITE Scarlet Hawks A
+|p1=TheGumbyz
+|p2=Copal
+|p3=Amp8
+|p4=BladedBanana
+|p5=Viridian
+|p6=Hashbrown
+|p7=Curry
+}}
+{{box|break|padding=2em}}{{TeamCard
+|team=ITE Scarlet Hawks B
+|p1=Agam
+|p2=CreativeMBWolf
+|p3=RedJester
+|p4=tekkitkiller30
+|p5=Greg
+|p6=Viz
+|p7=Staple
+|p8=Aqua
+}}
+{{box|break|padding=2em}}{{TeamCard
+|team=MMonke
+|p1=BigFunkyKong
+|p2=Hutch
+|p3=Beava
+|p4=Sirrah
+|p5=Milkoi
+|p6=CourageQc
+|p7=KingNito
+|p8=Camerooner
+}}
+{{box|end}}
+
+==Results==
+{{Bracket|Bracket/2L2D|id=vYezEUufBG
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=1
+    |date=January 15, 2021 - 18:00 {{Abbr/EST}}
+    |youtube=|twitch=willenglishiv
+    |opponent1={{TeamOpponent|ITE Scarlet Hawks A}}
+    |opponent2={{TeamOpponent|ITE Scarlet Hawks B}}
+    |map1={{Map|map=Oasis|mode=Control|score1=1|score2=0|winner=1}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+    |date=January 15, 2021 - 18:30 {{Abbr/EST}}
+    |youtube=|twitch=willenglishiv
+    |opponent1={{TeamOpponent|Mmonke}}
+    |opponent2={{TeamOpponent|ITE Scarlet Hawks A}}
+    |map1={{Map|map=Busan|mode=Control|score1=1|score2=0|winner=1}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |date=January 15, 2021 - 18:45 {{Abbr/EST}}
+    |youtube=|twitch=willenglishiv
+    |opponent1={{TeamOpponent|Spin2Win}}
+    |opponent2={{TeamOpponent|Mmonke}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=1|winner=2}}
+}}
+}}

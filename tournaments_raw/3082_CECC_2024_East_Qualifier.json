@@ -1,0 +1,383 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "Collegiate Esports Commissioners Cup",
+            "abbreviation": "CECC",
+            "name": "CECC 2024 East Qualifier",
+            "shortname": "2024 East Qualifier",
+            "tickername": "CECC 2024 East Qualifier",
+            "image": "CECC East 2023 allmode.png",
+            "organizer": "Collegiate Sports Management Group",
+            "organizer-link": "https://collegiatesmg.com/esportsu/",
+            "sponsor": "",
+            "type": "Online",
+            "country": "United States",
+            "game": "overwatch2",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "prizepoolusd": "",
+            "sdate": "2023-09-30",
+            "edate": "2023-10-01",
+            "twitch": "esportsu",
+            "twitter": "esportsugaming",
+            "instagram": "esportsugaming",
+            "youtube": "channel/UCzRyKrjzuJASvkVVIds131A",
+            "web": "https://collegiatesmg.com/cecc/",
+            "discord": "esportsu",
+            "rulebook": "https://collegiatesmg.com/wp-content/uploads/2022/09/OVERWATCH-2-RULESET.pdf",
+            "bracket": "https://battlefy.com/csmgesportsu/cecc-east-region-qualifiers-overwatch-2/64f74e9b6c66096752dfd6ba/info?infoTab=details",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "College of Staten Island",
+            "p1": "Cammy101|p1flag=us|pos1=",
+            "p2": "N00B393|p2flag=us|pos2=",
+            "p3": "NormalPerson|p3flag=us|pos3=",
+            "p4": "ChongYun|p4flag=us|pos4=",
+            "p5": "Mephistoph|p5flag=us|pos5=",
+            "p6": "Phobic|p6flag=us|pos6=",
+            "p7": "Bioactive1|p7flag=eg|pos7="
+        },
+        {
+            "team": "Delaware",
+            "p1": "Carter|p1flag=us|pos1=dps|p1link=Carter (American Player)",
+            "p2": "GRACIE8D|p2flag=|pos2=dps",
+            "p3": "IdealWarrior|p3flag=us|pos3=tank",
+            "p4": "Syrupp|p4flag=us|pos4=sup",
+            "p5": "HYPER|p5flag=us|pos5=sup",
+            "p6": "Junao|p6flag=us|pos6="
+        },
+        {
+            "team": "Delaware Academy",
+            "p1": "TwinkleToes|p1flag=us|pos1=",
+            "p2": "TurtleCapton|p2flag=us|pos2=",
+            "p3": "Pod36000|p3flag=|pos3=",
+            "p4": "Makko|p4flag=|pos4=",
+            "p5": "Moon|p5flag=us|pos5=|p5link=Moon (American Player)",
+            "p6": "TVDman|p6flag=us|pos6="
+        },
+        {
+            "team": "Loyola Gray",
+            "p1": "Alakenda|p1flag=|pos1=",
+            "p2": "Swami|p2flag=|pos2=",
+            "p3": "Elenkhus|p3flag=|pos3=",
+            "p4": "FunkyPants|p4flag=|pos4=",
+            "p5": "Taji|p5flag=|pos5=",
+            "p6": "spirit|p6flag=|pos6=|p6link=spirit (American Player)",
+            "p7": "Benjamin|p7flag=|pos7=",
+            "p8": "Vaderslayer|p8flag=|pos8="
+        },
+        {
+            "team": "University of New Haven",
+            "p1": "Killer|p1flag=us|pos1=",
+            "p2": "Doe|p2flag=us|pos2=",
+            "p3": "jraynor196|p3flag=us|pos3=",
+            "p4": "Arlanta|p4flag=us|pos4=",
+            "p5": "Racc|p5flag=us|pos5=",
+            "p6": "Romeo|p6flag=us|pos6=|p6link=Romeo (American Player)"
+        },
+        {
+            "team": "Post University",
+            "p1": "Ursodiumlvl|p1flag=|pos1=",
+            "p2": "psElletv|p2flag=|pos2=",
+            "p3": "MultiKel|p3flag=|pos3=",
+            "p4": "vero|p4flag=|pos4=",
+            "p5": "jojo|p5flag=|pos5=",
+            "p6": "herbalburner|p6flag=|pos6=",
+            "p7": "PapaGepetto|p7flag=|pos7=",
+            "p8": "Denny|p8flag=|pos8="
+        },
+        {
+            "team": "University of Hartford",
+            "p1": "cranky|p1flag=us|pos1=dps",
+            "p2": "Orimuru|p2flag=us|pos2=dps",
+            "p3": "Nift|p3flag=us|pos3=dps",
+            "p4": "Trueblade16|p4flag=us|pos4=tank",
+            "p5": "revan|p5flag=us|pos5=sup",
+            "p6": "Black0ut|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Penn State University",
+            "p1": "M3MORY|p1flag=|pos1=dps",
+            "p2": "Rags|p2flag=us|pos2=dps",
+            "p3": "GUTS|p3flag=us|pos3=dps",
+            "p4": "DMT|p4flag=|pos4=tank",
+            "p5": "Wanston|p5flag=us|pos5=tank",
+            "p6": "Quinn|p6flag=us|pos6=sup",
+            "p7": "Paz|p7flag=|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Maridon|t2c1pos=manager"
+        },
+        {
+            "team": "College of Saint Rose",
+            "p1": "Omegafighter|p1flag=|pos1=",
+            "p2": "Archon|p2flag=|pos2=",
+            "p3": "hybr1d|p3flag=|pos3=",
+            "p4": "Littlesquash|p4flag=|pos4=",
+            "p5": "MoiraiMuerto|p5flag=|pos5=",
+            "p6": "S4INT|p6flag=|pos6=",
+            "p7": "jvtarzan7|p7flag=|pos7="
+        },
+        {
+            "team": "NYU Violet Legion",
+            "p1": "p881|p1flag=|pos1=dps",
+            "p2": "hurB|p2flag=us|pos2=dps",
+            "p3": "Snowy|p3flag=|pos3=tank",
+            "p4": "Kip|p4flag=us|pos4=sup",
+            "p5": "Eeyore|p5flag=|pos5=sup",
+            "p6": "owenrip|p6flag=|pos6=",
+            "p7": "iGNiGHT|p7flag=|pos7="
+        },
+        {
+            "team": "Pace University",
+            "p1": "Lofee|p1flag=|pos1=",
+            "p2": "J\u020e\u020eTIN|p2flag=|pos2=",
+            "p3": "Sapphire|p3flag=|pos3=",
+            "p4": "KiWi|p4flag=|pos4=",
+            "p5": "DomoDomo|p5flag=|pos5=",
+            "p6": "Miko|p6flag=|pos6="
+        },
+        {
+            "team": "Stockton University",
+            "p1": "JDog|p1flag=|pos1=",
+            "p2": "Lilbox|p2flag=|pos2=",
+            "p3": "GetawayCar|p3flag=|pos3=",
+            "p4": "Himan529|p4flag=|pos4=",
+            "p5": "Ferd|p5flag=|pos5=",
+            "p6": "LostNoble|p6flag=|pos6=",
+            "p7": "PkmnMstrNick|p7flag=|pos7="
+        },
+        {
+            "team": "Bentley University",
+            "p1": "Surfice|p1flag=|pos1=",
+            "p2": "Magoo|p2flag=|pos2=",
+            "p3": "Wikkd|p3flag=|pos3=",
+            "p4": "BT160622|p4flag=|pos4=",
+            "p5": "Slebie|p5flag=|pos5=",
+            "p6": "Aim4Head|p6flag=|pos6=",
+            "p7": "Solitara|p7flag=|pos7="
+        },
+        {
+            "team": "Alvernia University",
+            "p1": "Gusty|p1flag=|pos1=",
+            "p2": "Optimal|p2flag=|pos2=",
+            "p3": "set|p3flag=|pos3=|p3link=Set (Collegiate player)",
+            "p4": "Juggalogan|p4flag=|pos4=",
+            "p5": "Toggling|p5flag=|pos5=",
+            "p6": "Toad|p6flag=|pos6=",
+            "p7": "Hellon|p7flag=|pos7=",
+            "p8": "Cpogo|p8flag=|pos8=",
+            "t2title": "Staff",
+            "t2c1": "PrimoDulce|t2c1pos=coach"
+        },
+        {
+            "team": "Mount Aloysius College",
+            "p1": "B1azed|p1flag=USA|pos1=DPS",
+            "p2": "Grasshopper|p2flag=USA|pos2=DPS",
+            "p3": "Budgetphoon|p3flag=USA|pos3=Tank",
+            "p4": "Sins|p4flag=USA|pos4=Sup|p4link=Sins (American Player)",
+            "p5": "Sl1ck|p5flag=KAZ|pos5=Sup"
+        },
+        {
+            "team": "Fisher College",
+            "p1": "LukeWarm|p1flag=|pos1=dps",
+            "p2": "Sami|p2flag=us|pos2=dps",
+            "p3": "Raikker|p3flag=|pos3=tank",
+            "p4": "Momentum|p4flag=|pos4=sup",
+            "p5": "Abbs|p5flag=|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Tensa|t2c1pos=coach",
+            "t2c2": "p0int|t2c2pos=manager",
+            "t2c3": "Juuuu|t2c3pos=manager",
+            "t2c4": "Ducklover|t2c4pos=manager",
+            "t2c5": "gnatto|t2c5pos=manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "September 30, 2023 - 20:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|fisher college|score=3}}",
+            "opponent2": "{{TeamOpponent|delaware academy|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "September 30, 2023 - 20:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|pace university|score=1}}",
+            "opponent2": "{{TeamOpponent|mount aloysius college|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "September 30, 2023 - 21:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|fisher college|score=3}}",
+            "opponent2": "{{TeamOpponent|mount aloysius college|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "September 30, 2023 - 21:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|delaware academy|score=3}}",
+            "opponent2": "{{TeamOpponent|pace university|score=1}}",
+            "optional": "M4="
+        },
+        {
+            "date": "September 30, 2023 - 22:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|mount aloysius college|score=3}}",
+            "opponent2": "{{TeamOpponent|delaware academy|score=2}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "September 30, 2023 - 20:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|nyu violet legion|score=3}}",
+            "opponent2": "{{TeamOpponent|post university|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "September 30, 2023 - 20:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|alvernia university|score=3}}",
+            "opponent2": "{{TeamOpponent|bentley university|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "September 30, 2023 - 21:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|nyu violet legion|score=0}}",
+            "opponent2": "{{TeamOpponent|alvernia university|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "September 30, 2023 - 21:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|post university|score=0}}",
+            "opponent2": "{{TeamOpponent|bentley university|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "date": "September 30, 2023 - 22:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|nyu violet legion|score=3}}",
+            "opponent2": "{{TeamOpponent|bentley university|score=0}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "September 30, 2023 - 20:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|university of new haven|score=3}}",
+            "opponent2": "{{TeamOpponent|university of hartford|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "September 30, 2023 - 20:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|staten island|score=3}}",
+            "opponent2": "{{TeamOpponent|loyola gray|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "September 30, 2023 - 21:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|university of new haven|score=3}}",
+            "opponent2": "{{TeamOpponent|staten island|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "September 30, 2023 - 21:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|university of hartford|score=2}}",
+            "opponent2": "{{TeamOpponent|loyola gray|score=3}}",
+            "optional": "M4="
+        },
+        {
+            "date": "September 30, 2023 - 22:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|staten island|score=3}}",
+            "opponent2": "{{TeamOpponent|loyola gray|score=0}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "September 30, 2023 - 20:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|penn state university|score=3}}",
+            "opponent2": "{{TeamOpponent|stockton university|score=0}}",
+            "optional": "M1="
+        },
+        {
+            "date": "September 30, 2023 - 20:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|delaware|score=3}}",
+            "opponent2": "{{TeamOpponent|college of saint rose|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "September 30, 2023 - 21:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|penn state university|score=0}}",
+            "opponent2": "{{TeamOpponent|delaware|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "September 30, 2023 - 21:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|stockton university|score=3}}",
+            "opponent2": "{{TeamOpponent|college of saint rose|score=1}}",
+            "optional": "M4="
+        },
+        {
+            "date": "September 30, 2023 - 22:00 {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|penn state university|score=3}}",
+            "opponent2": "{{TeamOpponent|stockton university|score=0}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "",
+            "date": "October 1, 2023 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fisher college|score=3}}",
+            "opponent2": "{{TeamOpponent|staten island|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "October 1, 2023 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|alvernia university|score=2}}",
+            "opponent2": "{{TeamOpponent|penn state university|score=3}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "October 1, 2023 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|new haven|score=3}}",
+            "opponent2": "{{TeamOpponent|mount aloysius college|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "October 1, 2023 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|delaware|score=3}}",
+            "opponent2": "{{TeamOpponent|nyu violet legion|score=1}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "October 1, 2023 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fisher college|score=3}}",
+            "opponent2": "{{TeamOpponent|penn state university|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "October 1, 2023 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|new haven|score=0}}",
+            "opponent2": "{{TeamOpponent|delaware|score=3}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "October 1, 2023 - 17:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=esportsu",
+            "opponent1": "{{TeamOpponent|fisher college|score=3}}",
+            "opponent2": "{{TeamOpponent|delaware|score=1}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "October 1, 2023 - 17:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|penn state university|score=0}}",
+            "opponent2": "{{TeamOpponent|new haven|score=3}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

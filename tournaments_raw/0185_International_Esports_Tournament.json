@@ -1,0 +1,89 @@
+{
+    "tournament_info": [
+        {
+            "name": "International Esports Tournament",
+            "image": "IET logo.png",
+            "series": "International Esports Tournament",
+            "abbreviation": "IET",
+            "shortname": "",
+            "tickername": "IET",
+            "icon": "IET icon allmode.png",
+            "organizer": "Sport Bureau of Zhejiang Province, Yiwu People's Government, Sport Bureau of Yiwu, Yiwu Esports Association",
+            "organizer2": "",
+            "sponsor": "",
+            "patch": "",
+            "server": "China",
+            "type": "Offline",
+            "country": "China",
+            "city": "Yiwu",
+            "venue": "E1, Yiwu International Expo Center",
+            "format": "Double Elimination",
+            "prizepool": "60,000",
+            "localcurrency": "cny",
+            "prizepoolusd": "",
+            "sdate": "",
+            "edate": "",
+            "date": "2017-04-27",
+            "liquipediatier": "2",
+            "web": "",
+            "weibo": "3979755410",
+            "stream": "",
+            "twitch": "",
+            "bracket": "",
+            "team_number": "4",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Light Gaming",
+            "image": "",
+            "p1": "X1yang|p1flag=cn |pos1=dps",
+            "p2": "SouLer |p2flag=cn |pos2=dps",
+            "p3": "NVM |p3flag=cn |pos3=tank",
+            "p4": "xiaolu233 |p4flag=cn |pos4=tank",
+            "p5": "Ana |p5flag=cn |pos5=sup|p5link=Ana (Chinese Player)",
+            "p6": "Liubaba|p6flag=cn |pos6=sup",
+            "c": "\u6d6a\u4eba\u7d2b\u9676|cflag=cn",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "IG.Fire",
+            "image": "",
+            "p1": "KHeart\t|p1flag=cn |pos1=dps",
+            "p2": "DZHB |p2flag=cn |pos2=dps",
+            "p3": "700 |p3flag=cn |pos3=tank",
+            "p4": "ZiJin |p4flag=cn |pos4=tank",
+            "p5": "Nai8 |p5flag=cn |pos5=sup",
+            "p6": "Win|p6flag=cn |pos6=sup",
+            "c": "Muzi|cflag=cn",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "SKG",
+            "image": "",
+            "p1": "mAryKing8\t|p1flag=cn |pos1=dps",
+            "p2": "DESTINY |p2flag=cn |pos2=dps",
+            "p3": "highbee |p3flag=cn |pos3=tank",
+            "p4": "Ta2 |p4flag=cn |pos4=tank",
+            "p5": "Allen |p5flag=cn |pos5=sup",
+            "p6": "Raven|p6flag=cn |pos6=sup|p6link=Zeng Junnan",
+            "c": "JumpCat|cflag=cn",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "EHOME.CN",
+            "image": "",
+            "p1": "google|p1flag=cn |pos1=dps",
+            "p2": "Aixi |p2flag=cn |pos2=dps",
+            "p3": "alegman |p3flag=cn |pos3=tank",
+            "p4": "C-dragon |p4flag=cn |pos4=tank",
+            "p5": "Godsly |p5flag=cn |pos5=sup",
+            "p6": "YueS|p6flag=cn |pos6=sup",
+            "c": "CCYW|cflag=cn",
+            "qualifier": "Invited"
+        }
+    ],
+    "match_cards": []
+}

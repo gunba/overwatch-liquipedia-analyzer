@@ -1,0 +1,694 @@
+{{Overwatch Contenders navbox}}
+{{Open Division Navbox}}
+{{DISPLAYTITLE:Open Division 2021 Season 1 - Asia Pacific}}
+{{tabs static
+|name1=Contenders |link1=Overwatch_Contenders/2021/Season 2/Australia
+|name2=Trials |link2=Overwatch Contenders/2021/Season 2/Australia/Trials
+|name3=Open Division #1 |link3=Open Division/2021/Season 1/Asia Pacific
+|name4=Open Division #2 |link4=Open Division/2021/Season 2/Asia Pacific
+|This=3
+}}
+{{Infobox league
+|liquipediatier={{TierText/4}}
+|name=Open Division 2021 Season 1 - Asia Pacific
+|shortname=OD 2021 S1 - APAC
+|series=Open Division
+|abbreviation=Open Division
+|tickername=Open Division 2021 S1 - APAC
+|image=Open_Division_2018_logo.png
+|icon=Open Division 2018 logo small.png
+|organizer=Blizzard Entertainment
+|organizer2=GameBattles
+|organizer2-link=https://gamebattles.majorleaguegaming.com
+|sponsor=
+|type=Online
+|country=SEA
+|twitch=
+|format=Double Elimination
+|patch=
+|epatch=
+|prizepoolusd=990
+|sdate=2021-05-08
+|edate=2021-05-16
+|web=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/APAC-OD-Cup-1/info
+|bracket=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/APAC-OD-Cup-1/bracket
+|youtube=
+|discord=du7mVRd
+|rulebook=https://s3.amazonaws.com/mlg-gamebattles-production/assets/arenacp/files/1612400604/OWOD_ProPoints_Cups%20Rules%20Final%202021.pdf
+|team_number=47
+}}
+
+==Information==
+===Format===
+* Both Winner's & Losers' Round 1 and Round 2 are {{Abbr/Bo3}}.
+* Winners' Round 3 to Winners' Semifinals and Losers' Round 3 to Losers' Finals are {{Abbr/Bo5}}.
+* Winners' Finals and Grand Finals are {{Abbr/Bo7}}.
+** Winners' bracket advantage of 1 game in the Grand Finals
+* Winner (1) team receive invitation for Contenders Trials.
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=6|Available Maps
+|-
+![[Assault]]
+![[Control]]
+![[Escort]]
+![[Hybrid]]
+|-
+!1st set
+|''[[Control]] map''
+|width="130" rowspan=7|[[Hanamura]]<br><br>[[Volskaya Industries]]<br><br>[[Temple of Anubis]]
+|width="130" rowspan=7|[[Ilios]]<br><br>[[Lijiang Tower]]<br><br>[[Nepal]]<br><br>[[Oasis]]<br><br>[[Busan]]
+|width="130" rowspan=7|[[Junkertown]]<br><br>[[Dorado]]<br><br>[[Havana]]<br><br>[[Rialto]]<br><br>[[Route 66]]<br><br>[[Watchpoint: Gibraltar]]
+|width="130" rowspan=7|[[King's Row]]<br><br>[[Blizzard World]]<br><br>[[Eichenwalde]]<br><br>[[Hollywood]]<br><br>[[Numbani]]
+|-
+!2nd set
+|''[[Escort]] map''
+|-
+!3rd set
+|''[[Hybrid]] map''
+|-
+!4th set
+|''[[Assault]] map''
+|-
+!5th set
+|''[[Control]] map''
+|-
+!6th set
+|''[[Escort]] map''
+|-
+!7th set
+|''[[Hybrid]] map''
+|-
+|}
+===Prize Pool===
+$990 is spread among the teams as seen below:
+{{prize pool start|points=seed|cutafter=4}}
+{{prize pool slot|place=1|usdprize=500|points=[[Overwatch_Contenders/2021/Season_2/Australia/Trials|OWC 2021 S2 Trials: AU]]|will be||walkoverfrom1=remedy|date1=2021-05-15}}
+{{prize pool slot|place=2|usdprize=250|remedy|walkoverto1=will be|date1=2021-05-15}}
+{{prize pool slot|place=3|usdprize=120|dark alliance|walkoverto1=remedy|date1=2021-05-14}}
+{{prize pool slot|place=4|usdprize=120|garnet|walkoverto1=dark alliance|date1=2021-05-14}}
+{{prize pool slot|place=5-6|usdprize=0
+|let's stay long|walkoverto1=garnet|date1=2021-05-14
+|next|walkoverto2=dark alliance|date2=2021-05-14
+}}
+{{prize pool slot|place=7-8|usdprize=0
+|hokkaido highrollers|walkoverto1=let's stay long|date1=2021-05-14
+|sa|walkoverto2=dark alliance|date2=2021-05-14
+}}
+{{prize pool slot|place=9-12|usdprize=0
+|red pandas|walkoverto1=hokkaido highrollers|date1=2021-05-08
+|black pandas|walkoverto2=let's stay long|date2=2021-05-08
+|toothsome exiles|walkoverto3=sa|date3=2021-05-08
+|nb|walkoverto4=dark alliance|date4=2021-05-08
+}}
+{{prize pool slot|place=13-16|usdprize=0
+|meow|walkoverto1=red pandas|date1=2021-05-08
+|mytheon zeus|walkoverto2=black pandas|date2=2021-05-08
+|jngk academy|walkoverto3=toothsome exiles|date3=2021-05-08
+|try my best|walkoverto4=dark alliance|date4=2021-05-08
+}}
+{{Prize pool end}}
+
+==Top 16 Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|team=Remedy
+|p1=Neuu|p1flag=au|pos1=dps
+|p2=Yifang|p2flag=au|pos2=dps
+|p3=Armour|p3flag=au|pos3=flex
+|p4=Legabril|p4flag=nz|pos4=tank
+|p5=Fourmatt|p5flag=au|pos5=tank
+|p6=CrimzonWolf|p6flag=au|pos6=tank
+|p7=June|p7link=JeL|p7flag=au|pos7=sup
+|p8=Lynx|p8flag=au|pos8=sup
+|p9=Ecartx|p9flag=uk|pos9=sup
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NB
+|p1=hellza|p1flag=kr|pos1=dps
+|p2=nosileh|p2flag=kr|pos2=dps
+|p3=Leesiheon|p3flag=kr|pos3=dps
+|p4=leejeonghwan|p4flag=kr|pos4=tank
+|p5=DONGJUN|p5flag=kr|pos5=tank
+|p6=Kali|p6flag=kr|pos6=tank
+|p7=Saedal|p7flag=kr|pos7=sup
+|p8=KIT|p8flag=kr|pos8=sup
+|c=Nachu|cflag=kr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=SA
+|p1=thergo|p1flag=cn|pos1=dps
+|p2=AAAA|p2flag=cn|pos2=dps
+|p3=Lovelubi|p3flag=cn|pos3=dps
+|p4=Light|p4link=SeungAn|p4flag=kr|pos4=tank
+|p5=Slayer|p5flag=kr|pos5=tank
+|p6=Skeleton|p6flag=cn|pos6=tank
+|p7=Lin1999|p7flag=cn|pos7=sup
+|p8=ivan|p8flag=cn|pos8=sup
+|p9=Azhe|p9flag=cn|pos9=sup
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Garnet
+|p1=Mihawk|p1flag=jp|pos1=dps
+|p2=Lapin|p2flag=jp|pos2=dps
+|p3=Nico|p3flag=jp|pos3=dps
+|p4=KSG|p4flag=jp|pos4=tank
+|p5=Ask|p5flag=jp|pos5=tank
+|p6=Mint|p6link=Mint (Japanese player)|p6flag=jp|pos6=sup
+|p7=Liz|p7link=Liz (Japanese player)|p7flag=jp|pos7=sup
+|c=Tcon|cflag=kr
+|c2=ＰＡＩＮ|c2flag=kr
+|c3=remono
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Let's stay long
+|p1=EQUAL|p1flag=kr|pos1=dps
+|p2=Believe|p2flag=kr|pos2=dps
+|p3=Ebrem|p3flag=kr|pos3=tank
+|p4=TakeOver|p4flag=kr|pos4=tank
+|p5=labe1|p5flag=kr|pos5=sup
+|p6=JBJ|p6flag=kr|pos6=sup
+|p7=rollin|p7flag=kr|pos7=sup
+|c=실버벨|cflag=kr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=WILL BE
+|image=WILL BE logo.png
+|p1=Blcle|p1flag=kr|pos1=dps |p1link=BlackCl0ver
+|p2=Ade|p2flag=kr|pos2=dps
+|p3=Highzy|p3flag=kr|pos3=dps|p3link=GgukGguk
+|p4=Ayanami|p4flag=kr|pos4=tank
+|p5=PePPi|p5flag=kr|pos5=tank
+|p6=SNOW|p6flag=kr|pos6=sup |p6link=SNOW (Korean player)
+|p7=Doris|p7flag=kr|pos7=sup
+|c=CCCC|cflag=kr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NEXT
+|p1=SeoKichan|p1flag=kr|pos1=dps
+|p2=RUFF|p2flag=kr|pos2=dps
+|p3=PRESS|p3flag=kr|pos3=tank
+|p4=OFF|p4flag=kr|pos4=tank
+|p5=HYUNJUN|p5flag=kr|pos5=sup
+|p6=Ch0an|p6flag=kr|pos6=sup
+|c=Dwayne
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Hokkaido Highrollers
+|p1=L1AR|p1flag=|pos1=
+|p2=BONSAI|p2flag=|pos2=
+|p3=HeroShield|p3flag=|pos3=
+|p4=P1nch|p4flag=|pos4=
+|p5=P3ST|p5flag=|pos5=
+|p6=Ryukyu|p6flag=|pos6=
+|p7=Tsuki|p7flag=|pos7=
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Red Pandas
+|p1=XZN|p1flag=au|pos1=dps
+|p2=QIN|p2flag=au|pos2=dps
+|p3=WaxCentaur|p3flag=au|pos3=tank
+|p4=Bnji|p4flag=au|pos4=tank
+|p5=Spades|p5flag=au|pos5=tank
+|p6=GamingFez98|p6flag=au|pos6=sup
+|p7=Hectopascal|p7flag=au|pos7=sup
+|p8=Kireina|p8flag=au|pos8=sup
+|c=JJJJ|cflag=au
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Meow
+|p1=Selecao|p1flag=hk|pos1=dps
+|p2=Lingard|p2flag=hk|pos2=dps
+|p3=Kurumi|p3flag=hk|pos3=dps
+|p4=ItzPrince|p4flag=th|pos4=tank
+|p5=X978SRXT1395|p5flag=mn|pos5=tank
+|p6=Phant0mz|p6flag=hk|pos6=tank
+|p7=talesrunner|p7flag=hk|pos7=sup
+|p8=Nisovin|p8flag=hk|pos8=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Black Pandas
+|p1=Cheenu|p1flag=|pos1=
+|p2=Afghanwarior|p2flag=|pos2=
+|p3=ailee|p3flag=|pos3=
+|p4=Bora|p4flag=|pos4=
+|p5=Froz|p5flag=|pos5=
+|p6=Hamez|p6flag=|pos6=
+|p7=Jersh|p7flag=|pos7=
+|p8=Mano23|p8flag=|pos8=
+|p9=madoka|p9flag=|pos9=
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Mytheon Zeus
+|p1=Deka|p1flag=|pos1=
+|p2=ZakDaCarDoor|p2flag=|pos2=|p2link=Citrus
+|p3=Cryoxic|p3flag=|pos3=
+|p4=Lozke|p4flag=|pos4=
+|p5=Dethstro|p5flag=|pos5=
+|p6=LukeyPookay|p6flag=|pos6=
+|p7=Pandi|p7flag=|pos7=
+|p8=Strategia|p8flag=|pos8=
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Toothsome Exiles
+|p1=fedfs|p1flag=au|pos1=dps
+|p2=earl|p2flag=au|pos2=dps
+|p3=OverdosedPirate|p3flag=au|pos3=tank
+|p4=badd|p4flag=|pos4=tank
+|p5=bork|p5flag=|pos5=sup
+|p6=chet|p6flag=au|pos6=sup
+|p7=F1NN|p7flag=au|pos7=
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=JNGK Academy
+|image=JNGK Logo.png
+|p1=HoneyFactory|p1flag=kr|pos1=dps
+|p2=Carl|p2flag=kr|pos2=dps
+|p3=WoochaN|p3flag=kr|pos3=dps
+|p4=Shourt|p4flag=kr|pos4=tank
+|p5=WHKENJI|p5flag=kr|pos5=tank
+|p6=FENNEL|p6flag=kr|pos6=sup |p6link=ON
+|p7=ADELA|p7flag=kr|pos7=sup
+|p8=dissme|p8flag=kr|pos8=sup
+|c=dissme|cflag=kr
+|c2=BENA|c2flag=kr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Try My Best
+|image=Try My Best logo.jpg
+|p1=LSJ|p1flag=kr|pos1=dps
+|p2=butler|p2flag=kr|pos2=dps
+|p3=Gaspel|p3flag=kr|pos3=dps
+|p4=WAY|p4flag=kr|pos4=tank
+|p5=ham393|p5flag=kr|pos5=tank
+|p6=d2cember|p6flag=kr|pos6=tank
+|p7=PJUU|p7flag=kr|pos7=sup
+|p8=jsh|p8flag=kr|pos8=sup
+|p9=WaRp|p9flag=kr|pos9=sup
+|c=지원누나사랑해요|cflag=kr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Dark Alliance
+|p1=Zenmin|p1flag=kr|pos1=dps
+|p2=coco|p2flag=kr|pos2=dps |p2link=Phila
+|p3=JaeWoo|p3flag=kr|pos3=dps
+|p4=Gaemi|p4flag=kr|pos4=dps |p4link=Doux
+|p5=hans|p5flag=kr|pos5=tank  |p5link=SeonJun
+|p6=cowha|p6flag=kr|pos6=tank
+|p7=WayPoint|p7flag=kr|pos7=tank
+|p8=Succubus|p8flag=kr|pos8=sup
+|p9=Cather1ne|p9flag=kr|pos9=sup
+|t2title=Staff
+|t2p1=awesome|t2pos1=manager
+|t2p2=justiceserv|t2p2flag=uk|t2pos2=manager
+|t2p3=Morfonica|t2p3flag=kr|t2pos3=manager
+}}
+{{box|end}}
+{{Roster changes start}}
+
+{{Roster changes end}}
+
+==Bracket==
+{{LegacyBracket|Bracket/8U8L4DSL2DSL1D|8DE8STeamBracket|type=team|id=QgsBRndXfT
+<!-- WINNER'S ROUND 1 -->
+|R2=Winners' Round 5
+|R2D1team=Remedy |R2D1score=W |R2D1win=1
+|R2D2team=NB |R2D2score=- |R2D2win=
+|R2G1details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D3team=SA |R2D3score=- |R2D3win=
+|R2D4team=Garnet |R2D4score=W |R2D4win=1
+|R2G6details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D5team=Let's stay long |R2D5score=- |R2D5win=
+|R2D6team=Will be |R2D6score=W |R2D6win=1
+|R2G7details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D7team=NEXT |R2D7score=W |R2D7win=1
+|R2D8team=Hokkaido Highrollers |R2D8score=- |R2D8win=
+|R2G8details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- WINNER'S ROUND 2 -->
+|R4=Winners' Round 6
+|R4W1team=Remedy |R4W1score=W |R4W1win=1
+|R4W2team=Garnet |R4W2score=- |R4W2win=
+|R4G3details={{BracketMatchSummary 
+|date=2021-05-14
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R4W3team=Will be |R4W3score=W |R4W3win=1
+|R4W4team=NEXT |R4W4score=- |R4W4win=
+|R4G4details={{BracketMatchSummary 
+|date=2021-05-14
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- WINNER'S FINALS -->
+|R6W1team=Remedy |R6W1score=- |R6W1win=
+|R6W2team=Will be |R6W2score=W |R6W2win=1
+|R6G1details={{BracketMatchSummary 
+|date=2021-05-14
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 1 -->
+|L1=Losers' Round 5
+|R1D1team=Red Pandas |R1D1score=W |R1D1win=1
+|R1D2team=Meow |R1D2score=- |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=Black Pandas |R1D3score=W |R1D3win=1
+|R1D4team=Mytheon Zeus |R1D4score=- |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=Toothsome Exiles |R1D5score=W |R1D5win=1
+|R1D6team=JNGK academy |R1D6score=- |R1D6win=
+|R1G3details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D7team=Try My Best |R1D7score=- |R1D7win=
+|R1D8team=Dark Alliance |R1D8score=W |R1D8win=1
+|R1G4details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 2 -->
+|L2=Losers' Round 6
+|R2D9team=Hokkaido Highrollers |R2D9score=W |R2D9win=1
+|R2W1team=Red Pandas |R2W1score=- |R2W1win=
+|R2G5details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D10team=Let's stay long |R2D10score=W |R2D10win=1
+|R2W2team=Black Pandas |R2W2score=- |R2W2win=
+|R2G2details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D11team=SA |R2D11score=W |R2D11win=1
+|R2W3team=Toothsome Exiles |R2W3score=- |R2W3win=
+|R2G3details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D12team=NB |R2D12score=- |R2D12win=
+|R2W4team=Dark Alliance |R2W4score=W |R2W4win=1
+|R2G4details={{BracketMatchSummary 
+|date=2021-05-08
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 3 -->
+|L3=Losers' Round 7
+|R3W1team=Hokkaido Highrollers |R3W1score=- |R3W1win=
+|R3W2team=Let's stay long |R3W2score=W |R3W2win=1
+|R3G1details={{BracketMatchSummary 
+|date=2021-05-14
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R3W3team=SA |R3W3score=- |R3W3win=
+|R3W4team=Dark Alliance |R3W4score=W |R3W4win=1
+|R3G2details={{BracketMatchSummary 
+|date=2021-05-14
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 4 -->
+|L4=Losers' Round 8
+|R4D1team=Garnet |R4D1score=W |R4D1win=1
+|R4W5team=Let's stay long |R4W5score=- |R4W5win=
+|R4G1details={{BracketMatchSummary 
+|date=2021-05-14
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R4D2team=NEXT |R4D2score=- |R4D2win=
+|R4W6team=Dark Alliance |R4W6score=W |R4W6win=1
+|R4G2details={{BracketMatchSummary 
+|date=2021-05-14
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 5 -->
+|L5=Losers' Round 9
+|R5W1team=Garnet |R5W1score=- |R5W1win=
+|R5W2team=Dark Alliance |R5W2score=W |R5W2win=1
+|R5G1details={{BracketMatchSummary 
+|date=2021-05-14
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S FINALS -->
+|R6D1team=Remedy |R6D1score=W |R6D1win=1
+|R6W3team=Dark Alliance |R6W3score=- |R6W3win=
+|R6G2details={{BracketMatchSummary 
+|date=2021-05-14
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- GRAND FINALS -->
+|R7W1team=Will be |R7W1score=W |R7W1win=1
+|R7W2team=Remedy |R7W2score=- |R7W2win=
+|R7G1details={{BracketMatchSummary 
+|date=2021-05-15
+|twitch=
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- EXTENDED SERIES (optional) -->
+|R7W1score2=
+|R7W2score2=
+}}
+
+==Additional Content==
+===Country Representation===
+<section begin="Country Representation"/>
+{{Country representation}}
+<section/>

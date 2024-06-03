@@ -1,0 +1,869 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/4}}",
+            "name": "Open Division 2022 Season 1 - China",
+            "shortname": "OD 2022 S1 - CN",
+            "series": "Open Division",
+            "abbreviation": "Open Division",
+            "tickername": "Open Division 2022 S1 - CN",
+            "image": "Open_Division_2018_logo.png",
+            "icon": "Open Division 2018 logo small.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "bilibili E-sports",
+            "type": "Online",
+            "game": "overwatch",
+            "country": "China",
+            "format": "Double Elimination",
+            "prizepool": "9,950",
+            "localcurrency": "CNY",
+            "prizepoolusd": "1,467.45",
+            "sdate": "2022-05-23",
+            "edate": "2022-06-26",
+            "web": "https://owod-upgrade.bisaibang.com/",
+            "bracket": "https://owod-upgrade.bisaibang.com/competition-schedule",
+            "rulebook": "https://iframe.bisaibang.com/r/owodguize",
+            "team_number": "326"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "OVO",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "Fuzhou Gang",
+            "p1": "\u6597\u9c7c\u4e36\u5618\u516b\u767e",
+            "p1link": "800",
+            "p1flag": "cn",
+            "pos1": "tank",
+            "p2": "ASH",
+            "p2link": "ShowCheng",
+            "p2flag": "cn",
+            "pos2": "tank",
+            "p3": "\u88ab\u8f66\u78be\u6b7b\u7684\u70c2\u72d7",
+            "p3link": "Bai_Xinyu",
+            "p3flag": "cn",
+            "pos3": "dps",
+            "p4": "DOITFORFUN",
+            "p4link": "Cao_Yuzhong",
+            "p4flag": "cn",
+            "pos4": "dps",
+            "p5": "Century",
+            "p5flag": "cn",
+            "pos5": "sup",
+            "p6": "\u611b\u5df2\u4e0d\u5b58\u5728",
+            "p6link": "charon",
+            "p6flag": "cn",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2p1": "Anonymous",
+            "t2p1flag": "cn",
+            "t2pos1": "Manager"
+        },
+        {
+            "team": "AE86",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "\u90b5\u9633\u7c73\u7c89\u961f",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "\u7ec6\u96ea\u7684\u6df1\u591c\u98df\u5802",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "Uomo coraggioso",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "\u60f3\u5f53\u54e5\u54e5\u7684\u5b9d\u8d1d",
+            "p1": "M0CHA",
+            "p1flag": "cn",
+            "pos1": "tank",
+            "p2": "pressure",
+            "p2link": "Pressure",
+            "p2flag": "kr",
+            "pos2": "tank",
+            "p3": "\u6cab\u84dd\u5929\u4e0b\u7b2c\u4e00\u5e05\u4e36",
+            "p3link": "MoLanran",
+            "p3flag": "cn",
+            "pos3": "dps",
+            "p4": "Elva",
+            "p4link": "Elva",
+            "p4flag": "kr",
+            "pos4": "dps",
+            "p5": "\u8fd9\u628a\u6ca1\u5976\u76f4\u63a5\u6f14",
+            "p5link": "Liu_Ziyi",
+            "p5flag": "cn",
+            "pos5": "sup",
+            "p6": "\u82b1\u4e3a\u4ec0\u4e48\u4f1a\u7b11",
+            "p6link": "Wya",
+            "p6flag": "cn",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2p1": "LnlD",
+            "t2p1flag": "cn",
+            "t2pos1": "coach",
+            "t3title": "Substitute",
+            "t3p1": "Twe12e",
+            "t3p1flag": "cn",
+            "t3pos1": "dps"
+        },
+        {
+            "team": "\u4e1c\u62fc\u897f\u51d1",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "winner": "1",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "OVO",
+            "opponent1_score": 3,
+            "opponent2": "\u4e1c\u62fc\u897f\u51d1",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "winner": "2",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\u90b5\u9633\u7c73\u7c89\u961f",
+            "opponent1_score": 0,
+            "opponent2": "\u7ec6\u96ea\u7684\u6df1\u591c\u98df\u5802",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "winner": "2",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "AE86",
+            "opponent1_score": 0,
+            "opponent2": "Uomo coraggioso",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "winner": "1",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Fuzhou Gang",
+            "opponent1_score": 3,
+            "opponent2": "\u60f3\u5f53\u54e5\u54e5\u7684\u5b9d\u8d1d",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "winner": "2",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "OVO",
+            "opponent1_score": 1,
+            "opponent2": "\u7ec6\u96ea\u7684\u6df1\u591c\u98df\u5802",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "winner": "2",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Uomo coraggioso",
+            "opponent1_score": 0,
+            "opponent2": "Fuzhou Gang",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "winner": "2",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\u7ec6\u96ea\u7684\u6df1\u591c\u98df\u5802",
+            "opponent1_score": 0,
+            "opponent2": "Fuzhou Gang",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "winner": "1",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\u4e1c\u62fc\u897f\u51d1",
+            "opponent1_score": 3,
+            "opponent2": "\u90b5\u9633\u7c73\u7c89\u961f",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "winner": "2",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "AE86",
+            "opponent1_score": 0,
+            "opponent2": "\u60f3\u5f53\u54e5\u54e5\u7684\u5b9d\u8d1d",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "winner": "1",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Uomo coraggioso",
+            "opponent1_score": 3,
+            "opponent2": "\u4e1c\u62fc\u897f\u51d1",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "winner": "2",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "OVO",
+            "opponent1_score": 0,
+            "opponent2": "\u60f3\u5f53\u54e5\u54e5\u7684\u5b9d\u8d1d",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "winner": "2",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Uomo coraggioso",
+            "opponent1_score": 0,
+            "opponent2": "\u60f3\u5f53\u54e5\u54e5\u7684\u5b9d\u8d1d",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "winner": "2",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\u7ec6\u96ea\u7684\u6df1\u591c\u98df\u5802",
+            "opponent1_score": 0,
+            "opponent2": "\u60f3\u5f53\u54e5\u54e5\u7684\u5b9d\u8d1d",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "winner": "1",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Fuzhou Gang",
+            "opponent1_score": 4,
+            "opponent2": "\u60f3\u5f53\u54e5\u54e5\u7684\u5b9d\u8d1d",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Lijiang Tower",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Rialto",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Numbani",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Volskaya Industries",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Ilios",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map6": {
+                "map": "Route 66",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

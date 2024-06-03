@@ -1,0 +1,161 @@
+{{DISPLAYTITLE:AKG Overwatch Online Season 1 #4}}
+{{AKG Tabs}}<br>
+
+{{Infobox league
+|liquipediatier={{TierText/5}}
+|series=akg
+|shortname=AKG S1 #4
+|name=AKG Overwatch Online Season 1 #4
+|abbreviation=AKG Overwatch
+|image=AKG_Overwatch_4.png
+|icon=
+|organizer=AKG Games
+|organizer-link=https://akggames.com/
+|sponsor=
+|type=Online
+|country=Indonesia
+|city=
+|venue=
+|format=Single Elimination
+|twitch=
+|youtube=channel/UCteVOb2JJl6j691SR6sCi9Q
+|prizepool=900,000
+|localcurrency=IDR
+|prizepoolusd=64
+|date=2019-12-06
+|web=
+|bracket=https://battlefy.com/akg-games/akg-overwatch-online-season-1-4/5dd3af958f60bd4f53c4099e/stage/5de9cb9ff731981828fe8578/bracket/
+|rulebook=
+|team_number=4
+}}
+
+==About==
+===Format===
+* '''Playoffs''': Single Elimination
+** Grand Finals are {{Abbr/Bo5}}.
+** All other matches are {{Abbr/Bo3}}.
+* This tournament is only open to Indonesian Overwatch players.
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=Indonesian
+|position=Commentator
+|b1=Walkaway |b1flag=id |b1name=Bagus
+|b2=Oddball |b2flag=id |b2name=Hobert
+}}
+
+===Prize Pool===
+Rp900,000 {{Abbr/IDR}} (~$64 {{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=idr|cutafter=4}}
+{{prize pool slot |place=1 |usdprize=43|localprize=600,000|mvp (indonesian team)|lastvs1=deity|lastscore1=3 |lastvsscore1=2 }}
+{{prize pool slot |place=2 |usdprize=21|localprize=300,000|deity|lastvs1=mvp (indonesian team)|lastscore1=2 |lastvsscore1=3 }}
+{{prize pool slot|place=3-4|usdprize=0|localprize=0
+|indominus|lastvs1=mvp (indonesian team) |lastscore1=0 |lastvsscore1=2
+|not aether|lastvs2=deity |lastscore2=0 |lastvsscore2=2
+}}
+{{Prize pool end}}
+''Conversion values taken from [https://www.exchange-rates.org/Rate/USD/IDR/12-06-2019 exchange-rates.org] at 2019-12-06. 1 {{Abbr/USD}} ≈ 14,024.68 {{Abbr/IDR}}''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=MVP
+|link=MVP (Indonesian team)
+|p1=Calvin (Indonesian player)|p1flag=id |pos1=dps
+|p2=Proxiezs |p2flag=id |pos2=dps
+|p3=Cardi |p3flag=id |pos3=tank
+|p4=FuroFuroPi |p4flag=id |pos4=tank
+|p5=tepany |p5flag=id |pos5=sup
+|p6=yoziPetra |p6flag=id |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=DEITY
+|p1=Lexaezel |p1flag=id |pos1=dps
+|p2=Ziggy |p2flag=id |pos2=dps
+|p3=PizzaHead |p3flag=id |pos3=tank
+|p4=Zeckrom |p4flag=id |pos4=tank
+|p5=HubschMadch |p5flag=id |pos5=sup
+|p6=Ch3nlee |p6flag=id |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Indominus
+|p1=NaturoUchiha |p1flag=id |pos1=dps
+|p2=Avrora |p2flag=id |pos2=dps
+|p3=EnGarde |p3flag=id |pos3=tank
+|p4=Cangzter |p4flag=id |pos4=tank
+|p5=MeteorBurst |p5flag=id |pos5=sup
+|p6=Kyknos |p6flag=id |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Not Aether
+|p1=ZavierisT |p1flag=id |pos1=dps
+|p2=Shaft |p2flag=id |pos2=dps
+|p3=Cecario |p3flag=id |pos3=tank
+|p4=Foxsprout |p4flag=id |pos4=tank
+|p5=Guarddon |p5flag=id |pos5=sup
+|p6=Gozonk |p6flag=id |pos6=sup
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=A1o2zPb2mB
+<!-- SEMIFINALS -->
+|R1D1team=mvp (indonesian team) |R1D1score=2 |R1D1win=1
+|R1D2team=indominus |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=December 6, 2019
+|finished=true
+|vod=https://youtu.be/CceGoUTN25U?t=4080
+|map1=Lijiang Tower |map1score=2-0 |map1win=1
+|map2=Havana |map2score=2-1 |map2win=1
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=not aether |R1D3score=0 |R1D3win=
+|R1D4team=deity |R1D4score=2 |R1D4win=1
+|R1G2details={{BracketMatchSummary
+|date=December 6, 2019
+|finished=true
+|vod=https://youtu.be/CceGoUTN25U?t=1524
+|map1=Lijiang Tower |map1score=0-2 |map1win=2
+|map2=Junkertown |map2score=2-3 |map2win=2
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R2W1team=mvp (indonesian team) |R2W1score=3 |R2W1win=1
+|R2W2team=deity |R2W2score=2 |R2W2win=
+|R2G1details={{BracketMatchSummary 
+|date=December 6, 2019
+|finished=true
+|vod=https://youtu.be/CceGoUTN25U?t=6238
+|map1=Lijiang Tower |map1score=0-2 |map1win=2
+|map2=Junkertown |map2score=3-2 |map2win=1
+|map3=Temple of Anubis |map3score=1-2 |map3win=2
+|map4=King's Row |map4score=3-2 |map4win=1
+|map5=Ilios |map5score=2-0 |map5win=1
+|overgg=
+|pf=
+|wl=
+}}
+<!-- 3RD PLACE (optional) -->
+|R2D1team= |R2D1score= |R2D1win=
+|R2D2team= |R2D2score= |R2D2win=
+|R2G2details={{BracketMatchSummary 
+|date=
+|finished=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}

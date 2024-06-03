@@ -1,0 +1,94 @@
+{{DISPLAYTITLE:Overwatch League 2021 - Chinese All-Star Showmatch}}
+{{OWL Tabs|OWL S4RG=3}}
+{{Tabs static
+|name1=Qualifiers
+|link1=Overwatch League/Season 4/Regular Season/June Joust
+|name2=Tournament
+|link2=Overwatch League/Season 4/Regular Season/June Joust/Tournament
+|name3=Chinese Showmatch
+|link3=Overwatch League/Season 4/Chinese All-Star Showmatch
+|name4=Jousting 2v2
+|link4=Overwatch League/Season 4/Jousting 2v2
+|name5=Widowmaker 1v1
+|link5=Overwatch League/Season 4/Widowmaker 1v1
+|This=3
+}}
+{{Infobox league
+|name=Overwatch League 2021 - Chinese All-Star Showmatch
+|shortname=OWL 2021 - Chinese All-Star Showmatch
+|image=Overwatch League June Joust.png
+|series=Overwatch League
+|abbreviation=OWL
+|icon=Overwatch League allmode.png
+|tickername=OWL 2021 - Chinese All-Star Showmatch
+|organizer=Blizzard Entertainment
+|sponsor=[https://www.cheezit.com/en_US/products/grooves/cheez-it-grooves-bold-cheddar-product.html Cheez-It Grooves]<br>[https://www.cocacola.com Coca-Cola]<br>[https://www.ibm.com/sports/overwatchleague/ IBM]<br>[https://www.indeed.com/ Indeed]<br>[https://www.netapp.com/industries/game-development/ NetApp]<br>[https://www.pringles.com/us/products/wavy.html Pringles Wavy]<br>[https://www.xfinity.com/esports Xfinity]<br>[https://www.statefarm.com/ State Farm]<br>[https://www.t-mobile.com/ T-Mobile]<br>[https://teamspeak.com/en/ TeamSpeak]
+|patch=1.59.1
+|type=Offline
+|country=China
+|city=Hangzhou
+|venue=[https://en.future-mxwl.com/venue?id=1 Hangzhou Future Sci-Tech City Academic Exchange Center]
+|format=
+|prizepoolusd=
+|date=2021-06-06
+|liquipediatier=1|liquipediatiertype=Showmatch
+|blizzardtier=owl
+|game=overwatch
+|web=https://overwatchleague.com/en-us/
+|twitch=overwatchleague
+|twitter=overwatchleague
+|facebook=overwatchleague
+|youtube=channel/UCiAInBL9kUzz1XRxk66v-gw
+|instagram=overwatchleague
+|weibo=overwatchleague
+|team_number=2
+}}
+{{TOClimit|4}}
+
+==About==
+*Held at the Hangzhou Homestand following East Region knockouts with players from the China-based teams.
+*Hero bans for the June Joust are temporarily disabled and players are not role locked.
+
+==Results==
+{{TeamPrizePool|prizesummary=n
+|{{Slot|w=true|{{Opponent|team yingchao|lastvs=team qihang|lastvsscore=2-1}}}}
+|{{Slot|l=true|{{Opponent|team qihang|lastvs=team yingchao|lastvsscore=1-2}}}}
+}}
+
+==Participants==
+{{box|start|padding=2em|max-width=1200px}}
+{{TeamCardMix
+|team=Team Yingchao
+|p1=shy|p1team=Hangzhou Spark|pos1=dps
+|p2=Eileen|p2team=Guangzhou Charge|pos2=dps
+|p3=Fate|p3team=Shanghai Dragons|pos3=tank
+|p4=Crong|p4team=Guangzhou Charge|pos4=tank
+|p5=Coldest|p5team=Hangzhou Spark|pos5=sup
+|p6=Highbee|p6team=Los Angeles Valiant|pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCardMix
+|team=Team Qihang
+|p1=Leave|p1team=Chengdu Hunters|pos1=dps
+|p2=MoLanran|p2team=Los Angeles Valiant|pos2=dps
+|p3=guxue|p3team=Hangzhou Spark|pos3=tank
+|p4=Void|p4team=Shanghai Dragons|pos4=tank
+|p5=Farway1987|p5team=Chengdu Hunters|pos5=sup
+|p6=M1ka|p6team=Hangzhou Spark|pos6=sup
+}}
+{{box|end|padding=2em}}
+
+==Result==
+{{SingleMatch|id=H5vKQYIW6I|width=550
+|{{Match
+    |bestof=3
+    |date=June 6, 2021 - 20:00 {{Abbr/CST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Team Yingchao}}
+    |opponent2={{TeamOpponent|Team Qihang}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Rialto|mode=Escort|score1=4|score2=3|winner=1}}
+	|vod=https://www.bilibili.com/video/BV1tK4y1X79E/?p=11
+}}
+}}

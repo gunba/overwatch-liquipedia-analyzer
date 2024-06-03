@@ -1,0 +1,151 @@
+{{Tabs static
+|name1=Overview|link1=Dublin_Games_Festival/2018
+|name2=Qualifiers|link2=Dublin_Games_Festival/2018/Online Qualifiers
+|This=1}}
+
+{{Infobox league
+|liquipediatier={{TierText/4}}
+|series=Dublin Games Festival
+|shortname=DGF 2018
+|name=Dublin Games Festival 2018
+|image=DGF logo.png
+|icon=
+|organizer=
+|sponsor=
+|type=Offline
+|country=Ireland
+|city=Dublin
+|venue=
+|format=
+|prizepool=1,500
+|localcurrency=EUR
+|prizepoolusd=
+|sdate=
+|edate=2018-11-24
+|web=https://dublingamesfestival.ie/overwatch/
+|bracket=
+|twitter=
+|twitch=DublinGames
+|youtube=
+|team_number=4
+}}
+
+==Prize Pool==
+€1,500 {{Abbr/EUR}} is awarded to the first place winner.
+{{prize pool start|localcurrency=eur}}
+{{prize pool slot|place=1|usdprize=1,698.48|localprize=1,500|hybrid esports club|lastvs1=nyyrikki.nsg|lastscore1=3|lastvsscore1=2}}
+{{prize pool slot|place=2|usdprize=0|localprize=0|nyyrikki.nsg|lastvs1=hybrid esports club|lastscore1=2|lastvsscore1=3}}
+{{prize pool slot|place=3-4|usdprize=0|localprize=0
+|mutiny|lastvs1=hybrid esports club|lastscore1=0|lastvsscore1=3|date1=
+|phelan gaming|lastvs2=nyyrikki.nsg|lastscore2=0|lastvsscore2=3|date2=
+}}
+{{prize pool end}}
+''Converted USD prizes are based on the currency exchange rate (taken from [http://xe.com xe.com]) on November 27, 2018: 1 EUR = 1.16876 USD.''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Hybrid eSports Club
+|p1=Coomber|p2flag=uk|pos1=sup
+|p2=Abbs|p3flag=uk|pos2=tank
+|p3=Pirateer|p4flag=uk|pos3=sup
+|p4=OGMalz|p1flag=uk|pos4=dps
+|p5=Rose|p5flag=de|pos5=dps
+|p6=Vendetta|p6flag=ie|pos6=tank
+|c=Blu|cflag=in
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Mutiny
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NYYRIKKI.NSG
+|image=NYYRIKKINSG_logo.png
+|p1=Eoghann|p1flag=ie|pos1=dps
+|p2=FlexG|p2flag=ie|pos2=dps
+|p3=andy|p3flag=ie|pos3=flex|p3link=Andy Irish
+|p4=Treelo|p4flag=ie|pos4=tank
+|p5=Nuda|p5flag=ie|pos5=sup
+|p6=scally|p6flag=ie|pos6=sup
+|p7=Darwin|p7flag=ru|pos7=sub
+|c=söör|cflag=fi
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Phelan Gaming
+|image=Phelan gaming logo.png
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|c=|cflag=
+|qualifier=
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=nsZZMMjlcv
+<!-- SEMIFINALS -->
+|R1D1team=hybrid esports club|R1D1score=3 |R1D1win=1
+|R1D2team=mutiny|R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|map1=|map1score=|map1win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=phelan gaming|R1D3score=0 |R1D3win=
+|R1D4team=nyyrikki.nsg|R1D4score=3 |R1D4win=1
+|R1G2details={{BracketMatchSummary 
+|date=
+|twitch=
+|finished=true
+|map1=|map1score=|map1win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R2W1team=hybrid esports club|R2W1score=3 |R2W1win=1
+|R2W2team=nyyrikki.nsg|R2W2score=2 |R2W2win=
+|R2G1details={{BracketMatchSummary 
+|date=November 24, 2018 - 10:00 {{Abbr/UTC}}
+|twitch=DublinGames
+|finished=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=10010
+|pf=
+|wl=
+}}
+}}
+
+==Additional Content==
+===Announcements===
+*{{ExternalMediaLink
+|date=2018-11-13
+|link=https://twitter.com/IrishOverwatch/status/1062401795337654273
+|title=The semi-finals of the @DubGamesFest #Overwatch tournament are on tonight @ 7PM Irish time!
+|by=[https://twitter.com/IrishOverwatch IrishOverwatch]
+}}
+
+==References==
+{{reflist}}

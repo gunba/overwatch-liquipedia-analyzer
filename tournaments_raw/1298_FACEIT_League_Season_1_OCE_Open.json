@@ -1,0 +1,252 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "FACEIT League",
+            "name": "FACEIT League Season 1 - OCE Open",
+            "tickername": "FACEIT League S1 OCE Open",
+            "image": "FACEIT League 2024 lightmode.png",
+            "imagedark": "FACEIT League 2024 darkmode.png",
+            "organizer": "FACEIT",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Oceania",
+            "prizepoolusd": "500",
+            "format": "",
+            "sdate": "2024-04-29",
+            "edate": "2024-06-23",
+            "site": "https://www.faceit.com/",
+            "twitter": "FACEIT",
+            "facebook": "FaceitCommunity",
+            "instagram": "faceitcom",
+            "youtube": "FACEIT",
+            "twitch": "faceittv",
+            "discord": "faceit-overwatch2",
+            "faceit": "https://www.faceit.com/en/organizers/f0e8a591-08fd-4619-9d59-d97f0571842e/FACEIT%20League%20-%20Overwatch%202",
+            "rulebook": "https://www.faceit.com/en/ow2/league/FACEIT%20League/88c7f7ec-4cb8-44d3-a5db-6e808639c232/11a95632-c1c6-4835-8ea3-64edcd1708d6/rules",
+            "bracket": "https://www.faceit.com/en/ow2/league/FACEIT%20League/88c7f7ec-4cb8-44d3-a5db-6e808639c232/11a95632-c1c6-4835-8ea3-64edcd1708d6/standings?region=a7cd0edf-41c6-4788-8e73-785fa668d94b&division=d15042f1-0588-45ea-9b47-bacea9209db8&stage=f432bbc7-14f9-49ff-8615-642494f27a9f&conference=73572a71-56a3-4206-8e60-0c7caf5864d2",
+            "team_number": "18"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Linguini Lords",
+            "p1": "TurtleHax|p1flag=au|pos1=dps",
+            "p2": "Rose|p2flag=au|pos2=dps|p2link=Rose (Australian player)",
+            "p3": "Iggy|p3flag=au|pos3=tank",
+            "p4": "Riddles|p4flag=au|pos4=sup",
+            "p5": "Forever|p5flag=au|pos5=sup",
+            "p6": "russg3500|p6flag=au|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Cthuwu|t2c1flag=au|t2c1pos=Coach"
+        },
+        {
+            "team": "Havoc",
+            "p1": "Lore|p1flag=au|pos1=dps",
+            "p2": "JaiNinja|p2flag=au|pos2=dps",
+            "p3": "Lynx|pos3=dps",
+            "p4": "Viagra|p4flag=nz|pos4=dps",
+            "p5": "Strategia|p5flag=au|pos5=tank",
+            "p6": "Hyouka|p6flag=au|pos6=sup",
+            "p7": "DrunkenPandi|p7flag=au|pos7=sup",
+            "p8": "Solace|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Mando|t2c1flag=au|t2c1pos=coach",
+            "t3title": "Substitute",
+            "t3p1": "xJiggsx|t3p1flag=au|t3p1pos="
+        },
+        {
+            "team": "One",
+            "link": "One (Oceanic team)",
+            "p1": "avianne|p1flag=au|pos1=dps",
+            "p2": "Kaidama|p2flag=au|pos2=dps",
+            "p3": "koalaclasix|p3flag=au|pos3=tank",
+            "p4": "MintyToast|p4flag=au|pos4=sup",
+            "p5": "Moony|p5flag=uk|pos5=sup",
+            "p6": "Jihyeon|p6flag=sg|pos6=sup"
+        },
+        {
+            "team": "Inshallah FC",
+            "p1": "silver|p1flag=au|pos1=dps",
+            "p2": "Cheenu|p2flag=au|pos2=dps",
+            "p3": "Kireina|p3flag=au|pos3=dps",
+            "p4": "gasOCE|p4flag=au|pos4=tank",
+            "p5": "Hamez|p5flag=au|pos5=sup",
+            "p6": "vanityrose|p6flag=au|pos6=sup",
+            "p7": "Chaewon2|p7flag=au|pos7=sup",
+            "p8": "zunbaby|p8flag=au|pos8="
+        },
+        {
+            "team": "Leyline Dragons",
+            "p1": "vionixs|p1flag=au|pos1=dps",
+            "p2": "Aemortal|p2flag=au|pos2=dps",
+            "p3": "Raiden|p3flag=au|pos3=tank",
+            "p4": "Sarastree|p4flag=nz|pos4=sup",
+            "p5": "Kuromi|p5flag=au|pos5=sup",
+            "p6": "Mistastupid|p6flag=au|pos6="
+        },
+        {
+            "team": "POWERHOUSE OCE",
+            "p1": "jaded|p1flag=au|pos1=dps",
+            "p2": "SIX|p2flag=au|pos2=dps",
+            "p3": "Vortx|p3flag=au|pos3=dps",
+            "p4": "Xeven|p4flag=au|pos4=dps",
+            "p5": "iLoveKnives|p5flag=nz|pos5=tank",
+            "p6": "Xxanng|p6flag=au|pos6=sup",
+            "p7": "Ackker|p7flag=au|pos7=sup"
+        },
+        {
+            "team": "Supernova",
+            "p1": "SlidzorJ|pos1=dps",
+            "p2": "Bunny|p2flag=au|pos2=dps|p2link=Bunny (Australian player)",
+            "p3": "Chappadoodle|p3flag=au|pos3=tank",
+            "p4": "Muttnik|p4flag=au|pos4=sup",
+            "p5": "LiamFox|p5flag=au|pos5=sup",
+            "t2title": "Substitute",
+            "t2p1": "Party|t2p1flag=au|t2p1pos=sup"
+        },
+        {
+            "team": "Kroms Kids",
+            "p1": "doozy|p1flag=au|pos1=dps",
+            "p2": "Bwt3|p2flag=id|pos2=dps",
+            "p3": "DaddyKrom|p3flag=au|pos3=tank",
+            "p4": "Hooboohoo|p4flag=au|pos4=sup",
+            "p5": "Arcretio|p5flag=id|pos5=sup",
+            "p6": "COULSON|p6flag=au|pos6=sup",
+            "p7": "Smoldragon|p7flag=au|pos7=sup",
+            "p8": "Zeldris|p8flag=au",
+            "t2title": "Staff",
+            "t2c1": "Gergyy|t2c1flag=au|t2c1pos=coach"
+        },
+        {
+            "team": "Logical Llamas",
+            "p1": "PKFishy|p1flag=au|pos1=dps",
+            "p2": "Alroy|p2flag=au|pos2=dps",
+            "p3": "Bread|p3flag=au|pos3=tank",
+            "p4": "Arc|p4flag=au|pos4=sup",
+            "p5": "garfonts|p5flag=au|pos5=sup"
+        },
+        {
+            "team": "Monash Moodles",
+            "p1": "LXIX|p1flag=au|pos1=dps",
+            "p2": "Amphaa|p2flag=au|pos2=dps",
+            "p3": "Yuue|p3flag=au|pos3=dps",
+            "p4": "Panda|p4flag=au|pos4=tank",
+            "p5": "Denzille|p5flag=au|pos5=tank",
+            "p6": "obama|p6flag=au|pos6=sup",
+            "p7": "mayek|p7flag=ph|pos7=sup"
+        },
+        {
+            "team": "mew gaming",
+            "p1": "cavalier|p1flag=nz|pos1=dps",
+            "p2": "Gingy|p2flag=au|pos2=dps",
+            "p3": "hewwo|p3flag=my|pos3=dps",
+            "p4": "AvidiKadiv|p4flag=nz|pos4=tank",
+            "p5": "TorbMented|p5flag=nz|pos5=sup",
+            "p6": "Zoro|p6flag=au|pos6=sup",
+            "p7": "boyballs29|p7flag=au|pos7="
+        },
+        {
+            "team": "Washed Esports",
+            "p1": "twnkles|p1flag=au|pos1=dps",
+            "p2": "4t7|p2flag=au|pos2=dps",
+            "p3": "xLilbo|p3flag=au|pos3=dps",
+            "p4": "pebis|p4flag=au|pos4=tank",
+            "p5": "Sharaid|p5flag=au|pos5=sup",
+            "p6": "lysvakt|p6flag=no|pos6=sup",
+            "p7": "YumyBacon|p7flag=nz|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Pyrocat|t2c1flag=au|t2c1pos=coach"
+        },
+        {
+            "team": "Undecided",
+            "p1": "marlo|p1flag=au|pos1=dps",
+            "p2": "Regr3T|p2flag=au|pos2=dps",
+            "p3": "TiniValkyrie|p3flag=au|pos3=tank",
+            "p4": "coolmish|p4flag=nz|pos4=tank",
+            "p5": "elion|p5flag=au|pos5=sup",
+            "p6": "Zoyd|p6flag=au|pos6=sup",
+            "p7": "V3iling|p7flag=au|pos7=sup"
+        },
+        {
+            "team": "Kid Named Brick",
+            "p1": "Garp|p1flag=nz|pos1=dps",
+            "p2": "CauseTripod|p2flag=nz|pos2=dps",
+            "p3": "MrMrUnicorn|p3flag=nz|pos3=tank",
+            "p4": "JustOscarJ|p4flag=au|pos4=sup",
+            "p5": "AlsoOpal|p5flag=nz|pos5=sup",
+            "p6": "iPanda|p6flag=nz|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Dingmckay|t2c1flag=au|t2c1pos=coach"
+        },
+        {
+            "team": "Devils",
+            "link": "Devils (Oceanic team)",
+            "p1": "ksy|p1flag=nz|pos1=dps",
+            "p2": "ohcryo|p2flag=au|pos2=dps",
+            "p3": "Geumeon|p3flag=au|pos3=tank",
+            "p4": "Shark|p4flag=au|pos4=sup",
+            "p5": "Marsh|p5flag=au|pos5=sup",
+            "p6": "nEz|p6flag=au|pos6="
+        },
+        {
+            "team": "Erebus",
+            "link": "Erebus (Australian team)",
+            "p1": "MiddleNut|p1flag=au|pos1=dps",
+            "p2": "TyKy|p2flag=au|pos2=dps",
+            "p3": "Xim|p3flag=au|pos3=tank",
+            "p4": "Spud|p4flag=au|pos4=sup",
+            "p5": "myth|p5flag=au|pos5=sup"
+        },
+        {
+            "team": "Swinton",
+            "p1": "Aquilin|p1flag=au|pos1=dps",
+            "p2": "bongo|p2flag=au|pos2=dps",
+            "p3": "Scyde|p3flag=au|pos3=dps",
+            "p4": "Darsilva|p4flag=au|pos4=dps",
+            "p5": "Saitama|p5flag=au|pos5=tank",
+            "p6": "banabbread|p6flag=au|pos6=sup",
+            "p7": "Phiash|p7flag=au|pos7=sup",
+            "p8": "Sunnyyya|p8flag=au|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Phalanx|t2c1flag=au|t2c1pos=coach"
+        },
+        {
+            "team": "GPL",
+            "p1": "AiKeN|p1flag=hk|pos1=dps",
+            "p2": "kenneth222|p2flag=hk|pos2=dps",
+            "p3": "FLoydQ|p3flag=hk|pos3=tank",
+            "p4": "VLam|p4flag=hk|pos4=sup",
+            "p5": "Paper|p5flag=hk|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Jason1999|t2c1flag=hk|t2c1pos=coach"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "7",
+            "date": "June 23, 2024 - 19:00 {{Abbr/AEDT}}",
+            "opponent1": "{{TeamOpponent|}}",
+            "opponent2": "{{TeamOpponent|}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}\n    }}",
+            "R1M2": "{{Match",
+            "R1M3": "{{Match",
+            "R1M4": "{{Match",
+            "R2M1": "{{Match",
+            "R2M2": "{{Match",
+            "R4M1": "{{Match",
+            "R1M5": "{{Match",
+            "R1M6": "{{Match",
+            "R2M3": "{{Match",
+            "R2M4": "{{Match",
+            "R3M1": "{{Match",
+            "R4M2": "{{Match",
+            "R5M1": "{{Match",
+            "optional": "R1M1="
+        }
+    ]
+}

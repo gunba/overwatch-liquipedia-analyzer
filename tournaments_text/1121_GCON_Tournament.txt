@@ -1,0 +1,126 @@
+{{Infobox league
+|liquipediatier=4
+|name=GCON Tournament
+|tickername=GCON Tournament
+|shortname=GCON Tournament
+|image=GCON allmode.png
+|icon=GCON icon allmode.png
+|organizer=GCON	|organizer-link=https://twitter.com/GCONEvents
+|type=Online
+|country=Saudi Arabia
+|prizepool=6,000
+|localcurrency=sar
+|sdate=2022-02-23
+|edate=2022-02-25
+|web=https://gconevents.com/
+|bracket=https://stcplay.gg/play/tournament/7231
+|instagram=gconevents
+|twitter=GCONEvents
+|team_number=5
+}}
+
+==Information==
+===Format===
+*Tournament for females
+*Single Elimination Bracket
+**Grand Finals and Third Place Match are {{Abbr/Ft3}}, all other matches are {{Abbr/Ft2}}
+
+===Prize Pool===
+{{TeamPrizePool|import=true|localcurrency=sar
+|{{Slot|localprize=3000}}
+|{{Slot|localprize=2000}}
+|{{Slot|localprize=1000}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=3}}
+{{TeamCard
+|team=Dishwashers	|link=Dishwashers (Female Team)
+|p1=Aeyyy|p1flag=
+|p2=meeemyo|p2flag=
+|p3=Rawanono|p3flag=
+|p4=Bubul56|p4flag=
+|p5=Ghaidaa|p5flag=
+|p6=hessa747|p6flag=
+}}
+{{TeamCard
+|team=GOLT
+|p1=JEV|p1flag=
+|p2=Electro|p2flag=
+|p3=Dema|p3flag=
+|p4=manarx|p4flag=
+|p5=Shahad|p5flag=
+|p6=shahad praym|p6flag=
+|p7=Noura Alsaad|p7flag=
+|p8=johara|p8flag=
+}}
+{{TeamCard
+|team=Swift	|link=Swift (Female Team)
+|p1=Lerd|p1flag=
+|p2=dalal|p2flag=
+|p3=xwqit|p3flag=
+|p4=iiHuda|p4flag=
+|p5=Marceline|p5flag=
+|p6=uiuox|p6flag=
+|p7=ohureal|p7flag=
+|p8=oiNayl|p8flag=
+}}
+{{TeamCard
+|team=The Pretty Poisons
+|p1=Realdena|p1flag=
+|p2=Lamar|p2flag=
+|p3=maisa|p3flag=
+|p4=lilith|p4flag=
+|p5=Soft|p5flag=
+|p6=A1sha|p6flag=
+}}
+{{TeamCard
+|team=Ambush
+|p1=Lucy|p1flag=
+|p2=Namine|p2flag=
+|p3=ixhsq|p3flag=
+|p4=riri|p4flag=
+|p5=mimi|p5flag=
+|p6=Lexa|p6flag=
+|p7=amaall|p7flag=
+|p8=Ryoof|p8flag=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2H2L1DL|id=3f91Ia3eul
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+	|date=February 23, 2022
+    |opponent1={{TeamOpponent|Ambush|score=0}}
+    |opponent2={{TeamOpponent|The Pretty Poisons|score=2}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|date=February 24, 2022
+    |opponent1={{TeamOpponent|GOLT|score=2}}
+    |opponent2={{TeamOpponent|Swift (Female Team)|score=0}}
+}}
+|R2M2={{Match
+	|date=February 24, 2022
+    |opponent1={{TeamOpponent|Dishwashers (Female Team)|score=2}}
+    |opponent2={{TeamOpponent|The Pretty Poisons|score=1}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|bestof=5
+	|date=February 25, 2022
+    |opponent1={{TeamOpponent|GOLT|score=0}}
+    |opponent2={{TeamOpponent|Dishwashers (Female Team)|score=3}}
+}}
+<!-- Third Place Match -->
+|RxMTP={{Match
+	|date=February 25, 2022
+    |opponent1={{TeamOpponent|Swift (Female Team)|score=3}}
+    |opponent2={{TeamOpponent|The Pretty Poisons|score=0}}
+}}
+}}

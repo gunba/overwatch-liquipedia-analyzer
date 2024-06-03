@@ -1,0 +1,279 @@
+{
+    "tournament_info": [
+        {
+            "name": "Tournoi OW2 GETI",
+            "shortname": "Tournoi OW2 GETI",
+            "image": "",
+            "icon": "",
+            "tickername": "Tournoi OW2 GETI",
+            "organizer": "Geeking Time",
+            "country": "France",
+            "type": "Online",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "prizepool": "50",
+            "localcurrency": "eur",
+            "date": "2022-10-15",
+            "liquipediatier": "5",
+            "bracket": "https://challonge.com/fr/ud102h6u",
+            "rulebook": "",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Cool Kids",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Neko Spirit",
+            "p1": "TsuSHI|p1flag=fr|pos1=",
+            "p2": "friome|p2flag=fr|pos2=",
+            "p3": "belesprit|p3flag=be|pos3=",
+            "p4": "silancex|p4flag=fr|pos4=",
+            "p5": "lacocote|p5flag=fr|pos5=",
+            "p6": "lelouch|p6flag=fr|pos6="
+        },
+        {
+            "team": "SAE - Topaze",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "SAE - Kitsune No Kami",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "CHATONS PIRATES",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Huge Academy",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "HYDRA Neothieves",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "FoxSoyeurs",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "GG - Ap\u00e9ro",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Huge Empire",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Lueur de Miel",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "X",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|SAE - Kitsune No Kami|score=1}}",
+            "opponent2": "{{TeamOpponent|Huge Empire|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Lueur de Miel|score=1}}",
+            "opponent2": "{{TeamOpponent|X|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|FoxSoyeurs|score=0}}",
+            "opponent2": "{{TeamOpponent|Cool Kids|score=1}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Neko Spirit|score=0}}",
+            "opponent2": "{{TeamOpponent|CHATONS PIRATES|score=1}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|SAE - Topaze|score=1}}",
+            "opponent2": "{{TeamOpponent|SAE - Kitsune No Kami|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Huge Academy|score=1}}",
+            "opponent2": "{{TeamOpponent|Lueur de Miel|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|GG - Ap\u00e9ro|score=0}}",
+            "opponent2": "{{TeamOpponent|Cool Kids|score=1}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|HYDRA Neothieves|score=1}}",
+            "opponent2": "{{TeamOpponent|CHATONS PIRATES|score=0}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|SAE - Topaze|score=2}}",
+            "opponent2": "{{TeamOpponent|Huge Academy|score=1}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Cool Kids|score=2}}",
+            "opponent2": "{{TeamOpponent|HYDRA Neothieves|score=0}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|SAE - Topaze|score=0}}",
+            "opponent2": "{{TeamOpponent|Cool Kids|score=2}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|CHATONS PIRATES|score=2}}",
+            "opponent2": "{{TeamOpponent|Huge Empire|score=0}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|GG - Ap\u00e9ro|score=2}}",
+            "opponent2": "{{TeamOpponent|X|score=0}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Lueur de Miel|score=1}}",
+            "opponent2": "{{TeamOpponent|FoxSoyeurs|score=2}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|SAE - Kitsune No Kami|score=2}}",
+            "opponent2": "{{TeamOpponent|Neko Spirit|score=0}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|CHATONS PIRATES|score=1}}",
+            "opponent2": "{{TeamOpponent|GG - Ap\u00e9ro|score=0}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|FoxSoyeurs|score=0}}",
+            "opponent2": "{{TeamOpponent|SAE - Kitsune No Kami|score=1}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Huge Academy|score=0}}",
+            "opponent2": "{{TeamOpponent|CHATONS PIRATES|score=1}}",
+            "optional": "R3M3="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|HYDRA Neothieves|score=0}}",
+            "opponent2": "{{TeamOpponent|SAE - Kitsune No Kami|score=1}}",
+            "optional": "R3M4="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|CHATONS PIRATES|score=0}}",
+            "opponent2": "{{TeamOpponent|SAE - Kitsune No Kami|score=1}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|SAE - Topaze|score=1}}",
+            "opponent2": "{{TeamOpponent|SAE - Kitsune No Kami|score=0}}",
+            "optional": "R5M2="
+        },
+        {
+            "date": "2022-10-15",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Cool Kids|score=2}}",
+            "opponent2": "{{TeamOpponent|SAE - Topaze|score=0}}",
+            "optional": "R6M1="
+        }
+    ]
+}

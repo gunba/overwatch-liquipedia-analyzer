@@ -1,0 +1,103 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #32",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "32",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2017-01-08",
+            "prizepoolusd": "158",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-32/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "48",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "previous": "Go4Overwatch/Europe/Weekly/31{{!}}Go4 Europe Cup #31",
+            "next": "Go4Overwatch/Europe/Weekly/33{{!}}Go4 Europe Cup #33"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Fragsters",
+            "image": "",
+            "p1": "Kellex |p1flag=",
+            "p2": "Nerfdd |p2flag=",
+            "p3": "Hunni |p3flag=",
+            "p4": "Danii |p4flag=",
+            "p5": "Lind |p5flag=",
+            "p6": "MandeTrodser  |p6flag=dk"
+        },
+        {
+            "team": "b0nkers",
+            "image": "",
+            "p1": "Luddee |p1flag=se",
+            "p2": "Epzz |p2flag=se",
+            "p3": "lateks |p3flag=se",
+            "p4": "eMIL |p4flag=se",
+            "p5": "Leodeddz |p5flag=se",
+            "p6": "Casper |p6flag=se"
+        },
+        {
+            "team": "Maru LLC",
+            "image": "",
+            "p1": "AEON|p1flag=de",
+            "p2": "Massie|p2flag=de",
+            "p3": "Melone|p3flag=de",
+            "p4": "TerenZ|p4flag=de",
+            "p5": "Hanzospieler|p5flag=de",
+            "p6": "flycake|p6flag=de"
+        },
+        {
+            "team": "GamersOrigin",
+            "image": "",
+            "p1": "Narwak",
+            "p2": "Leaf",
+            "p3": "Hyp",
+            "p4": "Noki",
+            "p5": "Poko |p5link=Poko (French player)",
+            "p6": "Kolsti",
+            "c": "daemoN |cflag=fr"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "gamersorigin",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "fragsters",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "gamersorigin",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "b0nkers",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "maru llc",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "fragsters",
+            "score1": "-",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,190 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "Console Gaming League",
+            "abbreviation": "CGL",
+            "shortname": "Turkey Tussle EU Console",
+            "name": "CGL Turkey Tussle - EU Console",
+            "tickername": "CGL Turkey Tussle EU Console",
+            "image": "Console Gaming League lightmode.png",
+            "imagedark": "Console Gaming League darkmode.png",
+            "icon": "Console Gaming League lightmode.png",
+            "icondark": "Console Gaming League darkmode.png",
+            "organizer": "Console Gaming League",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Europe",
+            "format": "Group Stage<br>Double Elimination",
+            "prizepoolusd": "500",
+            "sdate": "2022-11-18",
+            "edate": "2022-11-20",
+            "web": "https://www.consolegamingleague.com/",
+            "twitch": "cgl1",
+            "discord": "bBsQg37",
+            "twitter": "consolegaminglg",
+            "instagram": "consolegamingleague",
+            "bracket": "https://challonge.com/s1w8ecjl",
+            "team_number": "5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Vazbaid",
+            "p1": "",
+            "pos1": "",
+            "p2": "",
+            "pos2": "",
+            "p3": "",
+            "pos3": "",
+            "p4": "",
+            "pos4": "",
+            "p5": "",
+            "pos5": ""
+        },
+        {
+            "team": "Big Slam EU",
+            "p1": "",
+            "pos1": "",
+            "p2": "",
+            "pos2": "",
+            "p3": "",
+            "pos3": "",
+            "p4": "",
+            "pos4": "",
+            "p5": "",
+            "pos5": ""
+        },
+        {
+            "team": "MME DIVE",
+            "p1": "",
+            "pos1": "",
+            "p2": "",
+            "pos2": "",
+            "p3": "",
+            "pos3": "",
+            "p4": "",
+            "pos4": "",
+            "p5": "",
+            "pos5": ""
+        },
+        {
+            "team": "Cyclone",
+            "link": "Cyclone (OW2)",
+            "p1": "",
+            "pos1": "",
+            "p2": "",
+            "pos2": "",
+            "p3": "",
+            "pos3": "",
+            "p4": "",
+            "pos4": "",
+            "p5": "",
+            "pos5": ""
+        },
+        {
+            "team": "J rizz",
+            "p1": "",
+            "pos1": "",
+            "p2": "",
+            "pos2": "",
+            "p3": "",
+            "pos3": "",
+            "p4": "",
+            "pos4": "",
+            "p5": "",
+            "pos5": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "November 19, 2022 - 15:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "vazbaid",
+            "opponent1_score": 2,
+            "opponent2": "big slam eu",
+            "opponent2_score": 0,
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 19, 2022 - 16:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "mme dive",
+            "opponent1_score": 2,
+            "opponent2": "vazbaid",
+            "opponent2_score": 0,
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 19, 2022 - 16:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "cyclone (ow2)",
+            "opponent1_score": 2,
+            "opponent2": "j rizz",
+            "opponent2_score": 0,
+            "optional": "R2M2="
+        },
+        {
+            "date": "November 20, 2022 - 15:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "mme dive",
+            "opponent1_score": 3,
+            "opponent2": "cyclone (ow2)",
+            "opponent2_score": 0,
+            "optional": "R4M1="
+        },
+        {
+            "date": "November 19, 2022 - 17:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "j rizz",
+            "opponent1_score": 2,
+            "opponent2": "big slam eu",
+            "opponent2_score": 0,
+            "optional": "R2M3="
+        },
+        {
+            "date": "November 19, 2022 - 18:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "vazbaid",
+            "opponent1_score": 2,
+            "opponent2": "j rizz",
+            "opponent2_score": 0,
+            "optional": "R3M1="
+        },
+        {
+            "date": "November 20, 2022 - 16:30",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "cyclone (ow2)",
+            "opponent1_score": 3,
+            "opponent2": "vazbaid",
+            "opponent2_score": 1,
+            "optional": "R4M2="
+        },
+        {
+            "date": "November 20, 2022 - 18:00",
+            "date_timezone": "GMT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "mme dive",
+            "opponent1_score": 4,
+            "opponent2": "cyclone (ow2)",
+            "opponent2_score": 0,
+            "optional": "R5M1="
+        }
+    ]
+}

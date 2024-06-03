@@ -1,0 +1,114 @@
+{{DISPLAYTITLE:The Plays Launch Event 2016}}
+{{Infobox league
+|liquipediatier={{TierText/3}}
+|series=The Plays Launch Event
+|abbreviation=The Plays LE
+|icon=The plays logo small.png
+|name=The Plays Launch Event
+|image=The Plays.png
+|organizer=The Plays
+|sponsor=
+|type=Online
+|country=Europe
+|format=Single-Elimination Bracket (Bo3)
+|prizepoolusd=1,000
+|date=2016-05-24
+|web=
+|twitch=theplaystv
+|teamfirst=rogue
+|teamsecond=sg-1
+|teamthird=reunited
+|teamthird2=creation esports
+|teamfourth=
+|team_number=4
+}}
+
+==About==
+
+==Prize Pool==
+1,000 ({{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start}}
+{{prize pool slot |place=1 |usdprize=1,000 |rogue |lastvs1=sg-1 |lastscore1=2 |lastvsscore1=0 }}
+{{prize pool slot |place=2 |usdprize=0 |sg-1 |lastvs1=rogue |lastscore1=0 |lastvsscore1=2 }}
+{{prize pool slot |place=3-4 |usdprize=0
+|reunited |lastvs1=sg-1 |lastscore1=1 |lastvsscore1=2
+|creation esports |lastvs2=rogue |lastscore2=0 |lastvsscore2=2
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=REUNITED
+|p1=uNFixed |p1flag=
+|p2=Winghaven |p2flag=
+|p3=2Easy |p3flag=
+|p4=Morte |p4flag=
+|p5=Kruise |p5flag=
+|p6=Vallutaja
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=SG-1
+|p1=fragi |p1flag=fi
+|p2=Seita |p2flag=fi
+|p3=hymzi |p3flag=fi
+|p4=zappis |p4flag=fi
+|p5=mafu |p5flag=fi
+|p6=hocz |p6flag=fi
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Rogue
+|p1=TviQ |p1flag=
+|p2=aKm |p2flag=
+|p3=winz |p3flag=
+|p4=Reinforce |p4flag=
+|p5=iddqd |p5flag=
+|p6=uNKOE
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Creation eSports
+|p1=Draceus |p1flag=
+|p2=BromaS |p2flag=
+|p3=LiNkz |p3flag=
+|p4=art1er |p4flag=
+|p5=numlocked |p5flag=
+|p6=KnOxXx
+|qualifier=
+}}
+{{box|end|padding=2em}}
+
+==Results==
+===Bracket===
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=u6bhRAHton
+<!-- SEMIFINALS -->
+|R1D1team=reunited |R1D1score=1 |R1D1win=
+|R1D2team=sg-1 |R1D2score=2 |R1D2win=1
+|R1G1details={{BracketMatchSummary 
+|date=May 24, 2016 - 20:30 {{Abbr/CEST}}
+|finished=true
+}}
+|R1D3team=rogue |R1D3score=2 |R1D3win=1
+|R1D4team=creation esports |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=May 24, 2016 - 21:15 {{Abbr/CEST}}
+|finished=
+}}
+<!-- FINALS -->
+|R2W1team=sg-1 |R2W1score=0 |R2W1win=
+|R2W2team=rogue |R2W2score=2 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=May 24, 2016 - 22:00 {{Abbr/CEST}}
+|finished=true
+}}
+}}
+
+==References==
+{{Reflist}}

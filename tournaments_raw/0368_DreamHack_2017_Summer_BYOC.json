@@ -1,0 +1,86 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "series": "DreamHack",
+            "shortname": "Summer 2017",
+            "name": "DreamHack Summer 2017 BYOC",
+            "image": "",
+            "organizer": "DreamHack",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "Sweden",
+            "city": "J\u00f6nk\u00f6ping",
+            "venue": "[http://www.elmia.se Elmia]",
+            "twitch": "",
+            "format": "",
+            "prizepool": "60,000",
+            "localcurrency": "sek",
+            "prizepoolusd": "6,800",
+            "sdate": "2017-06-18",
+            "edate": "2017-06-19",
+            "web": "http://dreamhack.se/dhs17/byoc-tournaments/",
+            "bracket": "https://smash.gg/tournament/dreamhack-summer-2017/events/overwatch-6v6/overview",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "BX3 eSports Club",
+            "image": "BX3 eSports Club.png",
+            "p1": "Rikku|p1flag=no",
+            "p2": "Beezy|p2flag=no",
+            "p3": "Zappy|p3flag=no",
+            "p4": "Ripper|p4flag=no",
+            "p5": "Carmau|p5flag=no",
+            "p6": "Frost|p6flag=no",
+            "c": "Overtime|cflag=no"
+        },
+        {
+            "team": "ottr+5",
+            "p1": "ottr|p1flag=se",
+            "p2": "Foxiz|p2flag=se",
+            "p3": "BAm|p3flag=se",
+            "p4": "Leodeddz|p4flag=se",
+            "p5": "limmet|p5flag=se",
+            "p6": "Erki|p6flag=se"
+        },
+        {
+            "team": "Emperor Mix",
+            "p1": "Emperor|p1flag=se|p1link=Emperor (Sweden Player)",
+            "p2": "Aries|p2flag=se",
+            "p3": "TecC|p3flag=se",
+            "p4": "Shifty|p4flag=se|p4link=Shifty (Swedish player)",
+            "p5": "efg|p5flag=se",
+            "p6": "Grokken|p6flag=se"
+        },
+        {
+            "team": "Stor R\u00f6karn",
+            "p1": "speedweed|p1flag=se",
+            "p2": "CyberXI|p2flag=se",
+            "p3": "stoneage101|p3flag=se",
+            "p4": "huggenblam|p4flag=se",
+            "p5": "SUcc|p5flag=se",
+            "p6": "Stor R\u00f6karn|p6flag=se"
+        },
+        {
+            "team": "Gangsta Happy",
+            "p1": "Zailey|p1flag=se",
+            "p2": "FaceCake|p2flag=se",
+            "p3": "Ravaner|p3flag=se",
+            "p4": "Zorrokug|p4flag=se",
+            "p5": "Dizconnected|p5flag=se",
+            "p6": "Gangstay Happy|p6flag=se"
+        },
+        {
+            "team": "Wiive",
+            "p1": "Bulk|p1flag=se",
+            "p2": "Exibe|p2flag=se",
+            "p3": "Jordgubb|p3flag=se",
+            "p4": "mlyyyyy|p4flag=se",
+            "p5": "IzzyBoy1993|p5flag=se",
+            "p6": "Wiive|p6flag=se"
+        }
+    ],
+    "match_cards": []
+}

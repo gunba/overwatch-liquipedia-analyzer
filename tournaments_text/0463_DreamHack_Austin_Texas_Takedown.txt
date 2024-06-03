@@ -1,0 +1,282 @@
+{{Want_to_Help
+|issue=missing flags on teamcards
+|fix=add flags
+|date=20191122
+}}
+{{DISPLAYTITLE:Texas Takedown}}
+{{Liquipedia links|counterstrike=DreamHack/2018/Austin|smash=DreamHack/2018/Austin|starcraft2=2018 WCS Austin|hearthstone=Tour Stop/2018/Season 2/HCT Austin|rainbowsix=DreamHack/2018/Austin}}
+{{DreamHack Navbox}}<br>
+
+{{Infobox league
+|liquipediatier={{TierText/3}}
+|series=DreamHack
+|name=Texas Takedown
+|shortname=Texas Takedown
+|tickername=Texas Takedown
+|image=Texas_Takedown_2018_logo.png
+|organizer=DreamHack
+|organizer2=Houston Outlaws
+|sponsor=
+|patch=1.24
+|game=Overwatch
+|type=Offline
+|country=United States
+|city=Austin
+|venue=[http://www.austinconventioncenter.com Austin Convention Center]
+|twitch=houstonoutlaws
+|format=Single Elimination
+|prizepoolusd=10,000
+|sdate=2018-06-01
+|edate=2018-06-03
+|web=https://watchoutlaws.gg/dreamhack-austin/
+|bracket=https://battlefy.com/houston-outlaws/overwatch-austin-texas-takedown/5ae8ec93b397a1037df3dd48/stage/5af9c982dcc0a003c52de8a4/bracket/
+|team_number=12
+}}
+
+==About==
+'''Texas Takedown''' is an event hosted by the [[Houston Outlaws]] at [[DreamHack]] Austin.
+
+===Format===
+* Single Elimination
+** All games Best-of-three
+** Grand Final Best-of-five
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=Bren
+|b2=ZP
+}}
+
+==Prize Pool==
+$10,000 ({{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start}}
+{{prize pool slot|place=1|usdprize=6,000|bye week|lastvs1= 6backpacks|lastscore1= 3|lastvsscore1=0 }}
+{{prize pool slot|place=2|usdprize=3,000|6backpacks|lastvs1= bye week|lastscore1= 0|lastvsscore1= 3}}
+{{prize pool slot|place=3|usdprize=1,000|12knights|lastvs1= 15% off|lastscore1= 2|lastvsscore1= 0}}
+{{prize pool slot|place=4|usdprize=0|15% off|lastvs1= 12knights|lastscore1= 0|lastvsscore1=2 }}
+{{prize pool slot|place=5-8 |usdprize=0 
+|untitled.mp3|lastvs1= bye week|lastscore1= 0|lastvsscore1= 2
+|shrimpchipstv|lastvs2= 15% off|lastscore2= 0|lastvsscore2= 2
+|lone star vanguard|lastvs3= 12knights|lastscore3= 0|lastvsscore3= 2
+|gcu esports|lastvs4= 6backpacks|lastscore4= 0|lastvsscore4= 2
+}}
+{{prize pool slot|place=9-12 |usdprize=0 
+|mada mada (american team)|lastvs1= untitled.mp3|lastscore1= 0|lastvsscore1= 2
+|payload genjis|lastvs2= 15% off|lastscore2= 0|lastvsscore2= 2
+|french toast mafia|lastvs3= lone star vanguard|lastscore3= 0|lastvsscore3= 2
+|salty scrubs|lastvs4= gcu esports|lastscore4= 0|lastvsscore4= 2
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Bye Week
+|p1=Iefa|p1flag=us|pos1=dps
+|p2=Minish|p2flag=us|pos2=dps
+|p3=Waifu|p3flag=us|pos3=flex
+|p4=Shereshoy|p4flag=us|pos4=tank
+|p5=Pizzademon|p5flag=us|pos5=sup
+|p6=Jkw|p6flag=us|pos6=sup
+|c=FrAgOn |cflag=il
+|c2=Rusto |c2flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=12Knights
+|p1= emJuly|p1flag=us|pos1=
+|p2= Spades|p2flag=us|pos2=
+|p3= Amadien|p3flag=us|pos3=
+|p4= Seru|p4flag=ca|pos4=
+|p5= Sun|p5flag=|pos5=|p5link=Sun (American player)
+|p6= Troll|p6flag=us|pos6=|p6link=Troll (American player)
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=6Backpacks
+|p1= Zaxal|p1flag=us|pos1=
+|p2= SuhPoze|p2flag=us|pos2=
+|p3= Flubby|p3flag=us|pos3=
+|p4= Dakota|p4flag=us|pos4=
+|p5= Bread|p5flag=|pos5=
+|p6= ninjanick|p6flag=|pos6=
+|p7= Stricker|p7flag=us |pos7=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ShrimpChipsTV
+|p1= Framesh1ft|p1flag=|pos1=
+|p2= Aionwolf|p2flag=|pos2=
+|p3= UserError|p3flag=|pos3=
+|p4= jayseaz|p4flag=|pos4=
+|p5= Totoro|p5flag=|pos5=
+|p6= NyCShadow|p6flag=|pos6=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Lone Star Vanguard
+|p1= nudelz|p1flag=|pos1=
+|p2= Beta|p2flag=|pos2=
+|p3= Saam|p3flag=|pos3=
+|p4= BadgerB|p4flag=|pos4=
+|p5= HUM|p5flag=|pos5=
+|p6= Cres|p6flag=|pos6=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=GCU Esports
+|p1= Sody|p1flag=us|pos1=
+|p2= Pawp|p2flag=us|pos2=
+|p3= SubZer0|p3flag=|pos3=
+|p4= DSPJeff|p4flag=|pos4=
+|p5= TRUEBIZARRRO|p5flag=|pos5=
+|p6= Ninjacat|p6flag=us|pos6=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Untitled.mp3
+|p1= GlitchxCity|p1flag=|pos1=
+|p2= Drizzle|p2flag=|pos2=
+|p3= D0njuan|p3flag=|pos3=
+|p4= Azuki|p4flag=|pos4=
+|p5= Bananas|p5flag=|pos5=
+|p6= Biscuit|p6flag=|pos6=
+|p7= Darianorm|p7flag=|pos7=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Mada Mada
+|link=Mada Mada (American team)
+|p1= ShrimpChips|p1flag=|pos1=
+|p2= iBemuchPleb|p2flag=|pos2=
+|p3= Neckrobeard|p3flag=|pos3=
+|p4= Premo|p4flag=|pos4=
+|p5= Macdaddi|p5flag=|pos5=
+|p6= Dramamean|p6flag=|pos6=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=15% Off
+|p1= Crunchbite389|p1flag=|pos1=
+|p2= Elrond|p2flag=|pos2=
+|p3= oisenpai|p3flag=|pos3=
+|p4= camo|p4flag=|pos4=
+|p5= DWI|p5flag=|pos5=
+|p6= Suru|p6flag=|pos6=
+|p7= woof|p7flag=|pos7=
+|p8= Jigglyworm|p8flag=|pos8=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Salty Scrubs
+|p1= |p1flag=|pos1=
+|p2= |p2flag=|pos2=
+|p3= |p3flag=|pos3=
+|p4= |p4flag=|pos4=
+|p5= |p5flag=|pos5=
+|p6= |p6flag=|pos6=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Payload Genjis
+|p1=Jigglyworm |p1flag=|pos1=
+|p2=Crunchbite |p2flag=|pos2=
+|p3=Elrond |p3flag=|pos3=
+|p4=oisenpai |p4flag=|pos4=
+|p5=camo |p5flag=|pos5=
+|p6=DWI |p6flag=|pos6=
+|p7=Suru |p7flag=|pos7=
+|p8=woof |p8flag=|pos8=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=French Toast Mafia
+|p1= |p1flag=|pos1=
+|p2= |p2flag=|pos2=
+|p3= |p3flag=|pos3=
+|p4= |p4flag=|pos4=
+|p5= |p5flag=|pos5=
+|p6= |p6flag=|pos6=
+}}
+{{box|end}}
+
+==Results==
+{{Bracket|Bracket/8L4DSS|id=iPbI6ifkp8
+
+<!-- Round 1 -->
+|R1M1={{Match
+    |bestof=3
+    |date=June 1, 2018 - 11:00 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|untitled.mp3|score=2}}
+    |opponent2={{TeamOpponent|mada mada (american team)|score=0}}
+}}
+|R1M2={{Match
+    |date=June 1, 2018 - 11:00 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|15% off|score=2}}
+    |opponent2={{TeamOpponent|payload genjis|score=0}}
+}}
+|R1M3={{Match
+    |date=June 2, 2018 - 11:00 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|lone star vanguard|score=2}}
+    |opponent2={{TeamOpponent|french toast mafia|score=0}}
+}}
+|R1M4={{Match
+    |date=June 2, 2018 - 11:00 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|gcu esports|score=2}}
+    |opponent2={{TeamOpponent|salty scrubs|score=0}}
+}}
+
+<!-- Quarterfinals -->
+|R2M1={{Match
+    |date=June 1, 2018 - 13:00 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|bye week|score=2}}
+    |opponent2={{TeamOpponent|untitled.mp3|score=0}}
+}}
+|R2M2={{Match
+    |date=June 1, 2018 - 13:00 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|shrimpchipstv|score=0}}
+    |opponent2={{TeamOpponent|15% off|score=2}}
+}}
+|R2M3={{Match
+    |date=June 2, 2018 - 13:00 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|12knights|score=2}}
+    |opponent2={{TeamOpponent|lone star vanguard|score=0}}
+}}
+|R2M4={{Match
+    |date=June 2, 2018 - 13:00 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|6backpacks|score=2}}
+    |opponent2={{TeamOpponent|gcu esports|score=0}}
+}}
+
+<!-- Semifinals -->
+|R3M1={{Match
+    |date=June 3, 2018 - 11:00 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|bye week|score=2}}
+    |opponent2={{TeamOpponent|15% off|score=0}}
+}}
+|R3M2={{Match
+    |date=June 3, 2018 - 12:30 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|12knights|score=0}}
+    |opponent2={{TeamOpponent|6backpacks|score=2}}
+}}
+
+<!-- Grand Final -->
+|R4M1={{Match
+	|bestof=5
+    |date=June 3, 2018 - 15:30 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|bye week|score=3}}
+    |opponent2={{TeamOpponent|6backpacks|score=0}}
+}}
+<!-- Third Place -->
+|RxMTP={{Match
+    |date=June 3, 2018 - 14:00 {{Abbr/CT}}
+    |opponent1={{TeamOpponent|15% off|score=0}}
+    |opponent2={{TeamOpponent|12knights|score=2}}
+}}
+}}
+
+==References==
+{{Reflist}}

@@ -1,0 +1,401 @@
+{
+    "tournament_info": [
+        {
+            "name": "King of Nordic: BirdieLAN 27",
+            "tickername": "KoN: BirdieLAN 27",
+            "image": "BirdieLAN_Logo.png",
+            "icon": "BirdieLAN icon allmode.png",
+            "organizer": "Birdie",
+            "organizer-link": "https://www.birdie.org",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "Sweden",
+            "city": "Uppsala",
+            "venue": "[http://www.ifuarena.se IFU Arena]",
+            "format": "",
+            "prizepool": "50,000",
+            "localcurrency": "SEK",
+            "prizepoolusd": "5,750",
+            "date": "2017-05-26",
+            "web": "https://www.birdie.org/game/turneringar/ow",
+            "bracket": "https://battlefy.com/overwatch-sverige/birdie-kon-overwatch-tournament/5928059624b34e033b0c5449/stage/59280c6b8385811f5fa7ec10/bracket/",
+            "team_number": "9",
+            "liquipediatier": "{{TierText/3}}",
+            "twitch": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Valfard",
+            "image": "TeamV\u00c4LF\u00c4RDlogo.png",
+            "p1": "Mendokusaii|p1flag=",
+            "p2": "Luddee|p2flag=",
+            "p3": "Caspere|p3flag=",
+            "p4": "lateks|p4flag=",
+            "p5": "Vonethil|p5flag=",
+            "p6": "ottr|p6flag=se",
+            "c": "|cflag="
+        },
+        {
+            "team": "Vivi's Adventure",
+            "image": "",
+            "p1": "Henzu|p1flag=se",
+            "p2": "LullSiSH|p2flag=se",
+            "p3": "Zekor|p3flag=se",
+            "p4": "Mwumbwahti|p4flag=se",
+            "p5": "ELLIVOTE|p5flag=se",
+            "p6": "snillo|p6flag=se",
+            "c": "Lick|cflag=us"
+        },
+        {
+            "team": "M\u00e4ktiga Kraftscouter",
+            "image": "",
+            "p1": "Mamutz|p1flag=se",
+            "p2": "Paq|p2flag=se",
+            "p3": "HotPucko|p3flag=se",
+            "p4": "Novah|p4flag=se",
+            "p5": "DuckOnQuack|p5flag=se",
+            "p6": "Kram|p6flag=se",
+            "c": "|cflag="
+        },
+        {
+            "team": "ViEBrons",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Smekers",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "It's k Pelle will cringe",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "DEATHKILLERSFROMHELL",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Void och p\u00f6bel",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Raffins Bitches",
+            "image": "",
+            "p1": "Reisleeper |p1flag=se",
+            "p2": "Zoom |p2flag=se",
+            "p3": "Bamse |p3flag=se",
+            "p4": "Slaktarn |p4flag=se",
+            "p5": "Teddemedt |p5flag=se",
+            "p6": "Marra |p6flag=se",
+            "c": "|cflag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "vivi's adventure",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "smekers",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "deathkillersfromhell",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "raffins bitches",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "viebrons",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "m\u00e4ktiga kraftscouter",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "it's k pelle will cringe",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "team valfard",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D15",
+            "team1": "void och p\u00f6bel",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "deathkillersfromhell",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "vivi's adventure",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "viebrons",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "raffins bitches",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "it's k pelle will cringe",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "m\u00e4ktiga kraftscouter",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "void och p\u00f6bel",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "team valfard",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "raffins bitches",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "vivi's adventure",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team valfard",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W3",
+            "team1": "m\u00e4ktiga kraftscouter",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "team valfard",
+            "score2": "0",
+            "win2": "",
+            "key": "R6W1",
+            "team1": "vivi's adventure",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "smekers",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D17",
+            "team1": "bye",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D19",
+            "team1": "bye",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D21",
+            "team1": "bye",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D23",
+            "team1": "bye",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "smekers",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "void och p\u00f6bel",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R2D2",
+            "team1": "it's k pelle will cringe",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R2D3",
+            "team1": "viebrons",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R2D4",
+            "team1": "deathkillersfromhell",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "it's k pelle will cringe",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "smekers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "deathkillersfromhell",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W3",
+            "team1": "viebrons",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "smekers",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "raffins bitches",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "deathkillersfromhell",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D2",
+            "team1": "m\u00e4ktiga kraftscouter",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "m\u00e4ktiga kraftscouter",
+            "score2": "2",
+            "win2": "1",
+            "key": "R5W1",
+            "team1": "raffins bitches",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "m\u00e4ktiga kraftscouter",
+            "score2": "0",
+            "win2": "",
+            "key": "R6D1",
+            "team1": "team valfard",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team valfard",
+            "score2": "3",
+            "win2": "1",
+            "key": "R7W1",
+            "team1": "vivi's adventure",
+            "score1": "2",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

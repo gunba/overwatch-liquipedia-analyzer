@@ -1,0 +1,372 @@
+{{Want_to_Help
+|issue=It can be added bracket up to 64 teams. In this case are issing teams participating, teams on bracket and prize pool slots.
+|fix=add teamcards, fill bracket with teams and add more prize pool cells.
+|date=20191201191310
+}}
+{{DISPLAYTITLE:Overwatch Dreamcasters Championship Season 1}}
+{{Dreamcasters Tabs}}
+{{Infobox league
+|liquipediatier={{TierText/4}}
+|series=owdch
+|abbreviation=ODC
+|shortname=ODC S1
+|name=Overwatch Dreamcasters Championship Season 1
+|tickername=ODC S1
+|image=OWDreamcasterslogo.png
+|organizer=The Dreamcasters
+|organizer-link=https://thedreamcasters.com/
+|sponsor=
+|type=Online
+|country=Thailand
+|format=Single Elimination Bracket
+|prizepool=27,500
+|localcurrency=thb
+|prizepoolusd=785
+|sdate=2017-02-06
+|edate=2017-03-04
+|web=https://www.facebook.com/TDCTEAMWORK/
+|bracket=https://challonge.com/OWDC/
+|twitch=thedreamcasters2
+|team_number=231
+}}
+
+==About==
+===Format===
+*'''General Rules''': Competitive Mode
+*'''Playoffs''': Single Elimination
+**Al matches are {{Abbr/Bo3}}.
+===Broadcast Talent===
+{{BroadcasterCard|lang=Thai
+|position=Commentator
+|b1=SunWaltz|b1flag=th | b1name=Dolpraphob Teindam
+|b2=Aomdi|b2flag=th | b2name=Yongyuth Toukum
+}}
+
+==Prize Pool==
+฿27,500 {{Abbr/THB}} (~$785{{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=thb|cutafter=4}}
+{{prize pool slot|place=1 |usdprize=428|localprize=15,000|1st-esports|lastvs1=whitefang e-sports|lastscore1=3 |lastvsscore1=1 }}
+{{prize pool slot|place=2 |usdprize=242|localprize=8,500|whitefang e-sports|lastvs1=1st-esports|lastscore1=1 |lastvsscore1=3 }}
+{{prize pool slot |place=3 |usdprize=57|localprize=2,000|underbelt|lastvs1=whitefang e-sports|lastscore1=0 |lastvsscore1=2}}
+{{prize pool slot |place=4 |usdprize=57|localprize=2,000|orion |lastvs1=1st-esports|lastscore1=0 |lastvsscore1=2}}
+{{prize pool slot|place=5-8|usdprize=0|localprize=0
+|gambler gaming |lastvs1=underbelt|lastscore1=1 |lastvsscore1=2
+|m a lakas |lastvs2=whitefang e-sports|lastscore2=0 |lastvsscore2=2
+|feedtime |lastvs3=1st-esports|lastscore3=0 |lastvsscore3=2
+|kod aow |lastvs4=orion|lastscore4=1 |lastvsscore4=2
+}}
+{{prize pool slot|place=9-16|usdprize=0|localprize=0
+|khoonlook |lastvs1=underbelt|lastscore1=0 |lastvsscore1=2
+|littlejimmy |lastvs2=gambler gaming|lastscore2=0 |lastvsscore2=2
+|xavier e-sports |lastvs3=m a lakas|lastscore3=1 |lastvsscore3=2
+|team dai'u |lastvs4=whitefang e-sports|lastscore4=0 |lastvsscore4=2
+|we have pkhi |lastvs5=feedtime|lastscore5=0 |lastvsscore5=2
+|estrell.lenpaioneone |lastvs6=1st-esports|lastscore6=0 |lastvsscore6=2
+|rogue one |lastvs7=orion|lastscore7=0 |lastvsscore7=2
+|ดงดอกเหมย ภาค2 |lastvs8=kod aow|lastscore8=0 |lastvsscore8=2
+}}
+{{Prize pool end}}
+
+==Top 16==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=KhoonLook
+|p1=La4e|p1flag=th|pos1=dps
+|p2=Ratthasard|p2flag=th|pos2=dps
+|p3=Piglet|p3flag=th|pos3=flex
+|p4=POQ|p4flag=th|pos4=tank
+|p5=KKM|p5flag=th|pos5=sup
+|p6=Nongdarn|p6flag=th|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=UnderBelt
+|image=Underbelt logo.png
+|p1=Mystery|p1flag=th|pos1=dps
+|p2=AverRuns|p2flag=th|pos2=dps
+|p3=Leon|p3flag=th|p3link=Leon (Thai player)|pos3=flex
+|p4=QueEn|p4flag=th|pos4=tank
+|p5=CrazyMonkey|p5flag=th|pos5=sup
+|p6=BaconPwnCake|p6flag=th|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Gambler Gaming
+|image=gambler gaming logo.png
+|p1=RuRU |p1flag=th |pos1=dps
+|p2=jjM |p2flag=th |pos2=dps
+|p3=Safefyz |p3flag=th |pos3=flex
+|p4=Oapor |p4flag=th |pos4=tank
+|p5=Asriel |p5flag=th |pos5=sup
+|p6=iddqu |p6flag=th |pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=LittleJimmy
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Xavier Esports
+|p1=Saszy|p1flag=th|pos1=dps
+|p2=SaiyajinGOD|p2flag=th|pos2=flex
+|p3=Argonauts|p3flag=th|pos3=flex
+|p4=Gixz|p4flag=th|pos4=tank
+|p5=GoldenJet|p5flag=th|pos5=sup
+|p6=ztPp|p6flag=th|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=M A Lakas
+|image=m a lakas logo.png
+|p1=TAKI|p1flag=au|pos1=dps
+|p2=oPuTo|p2flag=au|pos2=dps
+|p3=Phntem|p3flag=au|pos3=flex
+|p4=Pzza|p4flag=au|pos4=tank
+|p5=face|p5flag=au|pos5=sup
+|p6=meemum|p6flag=au|pos6=sup
+|p7=Tongue|p7flag=th|pos7=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=WhiteFang E-Sports
+|p1=NutsuruSama|p1flag=th|pos1=dps
+|p2=SADISTIC|p2flag=th|pos2=dps
+|p3=Bozz|p3flag=th|pos3=flex
+|p4=Timone|p4flag=th|pos4=tank
+|p5=Providence|p5flag=th|pos5=sup
+|p6=pAnDeV|p6flag=th|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Dai'U
+|p1=Guidezak|p1flag=th|pos1=dps
+|p2=Barry|p2flag=th|pos2=dps
+|p3=boszm|p3flag=th|pos3=flex
+|p4=Darkone|p4flag=th|pos4=tank
+|p5=Black|p5flag=th|pos5=sup
+|p6=mhuayz|p6flag=th|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=FEEDTIME
+|image=Feedtime_logo.png
+|p1=KEFKA|p1flag=th|pos1=dps
+|p2=Jatingja|p2flag=th|pos2=dps
+|p3=Pichu|p3flag=th|pos3=flex
+|p4=Rodtunglnw|p4flag=th|pos4=tank
+|p5=Cokee|p5flag=th|pos5=sup
+|p6=Goddess|p6flag=th|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=We Have PKHI
+|image=we have pkhi logo.png
+|p1=PKHI |p1flag=th |pos1=dps
+|p2=Sumlee |p2flag=th |pos2=dps
+|p3=St4rz |p3flag=th |pos3=flex
+|p4=ManKaNaZ |p4flag=th |pos4=tank
+|p5=Samuel |p5flag=th |pos5=sup
+|p6=Kuroichi |p6flag=th |pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=1st-eSports
+|image=1st-esports logo.png
+|p1=ZEUS|p1flag=th|pos1=dps|p1link=ZEUS (Thai player)
+|p2=RaCha|p2flag=th|pos2=dps
+|p3=mush2oom|p3flag=th|pos3=flex
+|p4=Cherie|p4flag=th|pos4=tank
+|p5=MeMarkz|p5flag=th|pos5=sup
+|p6=Producerboom|p6flag=th|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=estrell.LenPaiOneOne
+|image=Lenpaioneone_logo.png
+|p1=Disappear|p1flag=th|pos1=dps
+|p2=KraProw|p2flag=th|pos2=dps
+|p3=CarryMeister|p3flag=th|pos3=flex
+|p4=SerPenZ|p4flag=th|pos4=tank
+|p5=Aspatnz|p5flag=th|pos5=sup
+|p6=Kidkat|p6flag=th|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Rogue one
+|p1=PikapikaChu|p1flag=th|pos1=dps
+|p2=DeadDevil|p2flag=th|pos2=dps
+|p3=EpicPants|p3flag=th|pos3=flex
+|p4=pnpblu|p4flag=th|pos4=tank
+|p5=Nomany|p5flag=th|pos5=sup
+|p6=Ben10Goop|p6flag=th|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Orion
+|image=Suan_lung_barn_logo.png
+|p1=AJEN|p1flag=sg|pos1=dps
+|p2=Owl|p2flag=sg|pos2=dps|p2link=Owl (Singaporean player)
+|p3=Rageoftofu|p3flag=sg|pos3=flex
+|p4=L0Y|p4flag=sg|pos4=tank
+|p5=Jervissss|p5flag=sg|pos5=sup
+|p6=AviK|p6flag=sg|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Kod Aow
+|image=Kod Aow logo.png
+|p1=CigaretteS|p1flag=th|pos1=dps
+|p2=Taiki|p2flag=th|pos2=dps
+|p3=MisterHeartz|p3flag=th|pos3=flex
+|p4=MrYearn|p4flag=th|pos4=tank
+|p5=ArMzi|p5flag=th|pos5=sup
+|p6=Ravee|p6flag=th|pos6=sup
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ดงดอกเหมย ภาค2
+|image=ดงดอกเหมย ภาค2 logo.png
+|p1=I3abyKiller|p1flag=th|pos1=dps
+|p2=Tanx|p2flag=th|pos2=dps
+|p3=FirstTyz|p3flag=th|pos3=flex
+|p4=Rezero|p4flag=th|pos4=tank
+|p5=Kimochi|p5flag=th|pos5=sup
+|p6=Gongza8888|p6flag=th|pos6=sup
+|qualifier=
+}}
+{{box|end}}
+
+==Results==
+Complete bracket [https://challonge.com/OWDC here]
+
+{{LegacyBracket|Bracket/16|16SETeamBracket|type=team|id=kK0MTBVXZc
+|column-width=200
+<!-- ROUND OF 16 -->
+|R1D1team=khoonlook |R1D1score=0 |R1D1win=
+|R1D2team=underbelt |R1D2score=2 |R1D2win=1
+|R1D3team=gambler gaming |R1D3score=2 |R1D3win=1
+|R1D4team=littlejimmy |R1D4score=0 |R1D4win=
+|R1D5team=xavier e-sports |R1D5score=1 |R1D5win=
+|R1D6team=m a lakas |R1D6score=2 |R1D6win=1
+|R1D7team=whitefang e-sports |R1D7score=2 |R1D7win=1
+|R1D8team=team dai'u |R1D8score=0 |R1D8win=
+|R1D9team=feedtime|R1D9score=2 |R1D9win=1
+|R1D10team=we have pkhi |R1D10score=0 |R1D10win=
+|R1D11team=1st-esports |R1D11score=2 |R1D11win=1
+|R1D12team=estrell.lenpaioneone |R1D12score=0 |R1D12win=
+|R1D13team=rogue one |R1D13score=0 |R1D13win=
+|R1D14team=orion |R1D14score=2 |R1D14win=1
+|R1D15team=kod aow |R1D15score=2 |R1D15win=1
+|R1D16team=ดงดอกเหมย ภาค2 |R1D16score=0 |R1D16win=
+<!-- QUARTERFINALS -->
+|R2W1team=underbelt  |R2W1score= 2|R2W1win=1
+|R2W2team=gambler gaming |R2W2score=1 |R2W2win=
+|R2G1details={{BracketMatchSummary 
+|date=March 4, 2017 - 20:00 {{Abbr/ICT}}
+|finished=true
+|map1=Dorado|map1score=3-4|map1win=2
+|map2=Volskaya|map2score=2-1|map2win=1
+|map3=Lijiang Tower|map3score=3-1|map3win=1
+|pf=21140/Underbelt-vs-Gambler-Gaming/
+}}
+|R2W3team=m a lakas |R2W3score=0 |R2W3win=
+|R2W4team=whitefang e-sports  |R2W4score=2 |R2W4win=1
+|R2G2details={{BracketMatchSummary 
+|date=March 4, 2017 - 21:00 {{Abbr/ICT}}
+|finished=true
+|map1=Dorado|map1score=2-3|map1win=2
+|map2=Volskaya|map2score=1-2|map2win=2
+|pf=21141/Em-Aye-Lakers-vs-WhiteFang-E-sports/
+}}
+|R2W5team=feedtime |R2W5score=0 |R2W5win=
+|R2W6team=1st-esports |R2W6score=2 |R2W6win=1
+|R2G3details={{BracketMatchSummary 
+|date=March 5, 2017 - 20:00 {{Abbr/ICT}}
+|finished=true
+|map1=Dorado|map1score=2-3|map1win=2
+|map2=Hanamura|map2score=3-4|map2win=2
+|pf=21143/FeedTime-vs-1st-eSports/
+|vod=https://youtu.be/wDkW3dY-QqY
+}}
+|R2W7team=orion  |R2W7score=2 |R2W7win=1
+|R2W8team=kod aow |R2W8score=1 |R2W8win=
+|R2G4details={{BracketMatchSummary 
+|date=March 5, 2017 - 21:00 {{Abbr/ICT}}
+|finished=true
+|map1=Dorado|map1score=3-2|map1win=1
+|map2=Temple of Anubis|map2score=3-3|map2win=draw
+|pf=21218/KOD-AOW-vs-Orion/
+|vod=https://youtu.be/LncHKesRCjY
+}}
+<!-- SEMIFINALS -->
+|R3W1team=underbelt |R3W1score=0 |R3W1win=
+|R3W2team=whitefang e-sports |R3W2score=2 |R3W2win=1
+|R3G1details={{BracketMatchSummary 
+|date=March 6, 2017 - 20:00 {{Abbr/ICT}}
+|finished=true
+|map1=Route 66|map1score=0-3|map1win=2
+|map2=Lijiang Tower|map2score=1-3|map2win=2
+|pf=21144/Underbelt-vs-WhiteFang-E-sports/
+|vod=https://youtu.be/IySvsyaAGTk
+}}
+|R3W3team=1st-esports |R3W3score=2 |R3W3win=1
+|R3W4team=orion |R3W4score=0 |R3W4win=
+|R3G2details={{BracketMatchSummary 
+|date=March 6, 2017 - 21:00 {{Abbr/ICT}}
+|finished=true
+|map1=Route 66|map1score=3-2|map1win=
+|map2=Ilios|map2score=3-1|map2win=1
+|pf=21145/1st-eSports-vs-Orion/
+|vod=https://youtu.be/i6NqaZroAqw
+}}
+<!-- FINALS -->
+|R4W1team=whitefang e-sports |R4W1score=1 |R4W1win=
+|R4W2team=1st-esports |R4W2score=3 |R4W2win=1
+|R4G1details={{BracketMatchSummary 
+|date=March 7, 2017 - 20:00 {{Abbr/ICT}}
+|finished=true
+|map1=Eichenwalde|map1score=2-3|map1win=2
+|map2=Volskaya|map2score=3-2|map2win=1
+|map3=Lijiang Tower|map3score=0-3|map3win=2
+|map4=Route 66|map4score=0-1|map4win=2
+|pf=21147/WhiteFang-E-sports-vs-1st-eSports/
+|vod=https://youtu.be/8PzHIcxIVaU
+}}
+<!-- 3RD PLACE (optional) -->
+|R4D1team=|R4D1score= |R4D1win=
+|R4D2team=|R4D2score= |R4D2win=
+|R4G2details={{BracketMatchSummary 
+|date=
+|finished=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|pf=
+}}
+}}
+
+==References==
+{{Reflist}}

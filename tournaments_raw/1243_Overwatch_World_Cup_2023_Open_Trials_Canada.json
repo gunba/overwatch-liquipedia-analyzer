@@ -1,0 +1,398 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch World Cup 2023 Canada Open Trials",
+            "image": "Overwatch World Cup 2023 allmode.png",
+            "series": "Overwatch World Cup",
+            "shortname": "World Cup 2023",
+            "tickername": "OWWC CAN Open Trials",
+            "icon": "Overwatch World Cup logo.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "LigaACE",
+            "organizer2-link": "https://ligaaceesports.com/",
+            "type": "Online",
+            "country": "Canada",
+            "format": "Double Elimination",
+            "game": "overwatch2",
+            "prizepoolusd": "2000",
+            "sdate": "2023-02-17",
+            "edate": "2023-02-24",
+            "liquipediatier": "4",
+            "blizzardtier": "owwc",
+            "web": "https://overwatchworldcup.com",
+            "twitter": "playoverwatch",
+            "youtube": "playoverwatch",
+            "twitch": "playoverwatch",
+            "team_number": "23",
+            "bracket": "https://challonge.com/OWCTCAN"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Carleton Ravens",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Canadian Ultimate Players",
+            "p1": "akaydia|p1flag=|p1team=|pos1=dps",
+            "p2": "reyzr|p2flag=|p2team=|pos2=dps",
+            "p3": "Foreshadow|p3flag=|p3team=|pos3=dps",
+            "p4": "iCy|p4flag=|p4team=Pirates in Pyjamas|pos4=tank",
+            "p5": "Zholik|p5flag=|p5team=Pirates in Pyjamas|pos5=sup",
+            "p6": "cal|p6flag=|p6team=Timeless|pos6=sup"
+        },
+        {
+            "team": "Toronto Obedient",
+            "p1": "Spero|p1flag=ca|p1team=|pos1=dps",
+            "p2": "Rakuna|p2flag=ca|p2team=|pos2=dps",
+            "p3": "Solo|p3flag=ca|p3team=|pos3=tank",
+            "p4": "Fine|p4flag=ca|p4team=|pos4=tank",
+            "p5": "KVN|p5flag=ca|p5team=|pos5=sup",
+            "p6": "Macro|p6flag=ca|p6team=|pos6=sup",
+            "p7": "Dhillon|p7flag=|p7team=|pos7=sup"
+        },
+        {
+            "team": "Team Leftovers",
+            "p1": "Warn|p1flag=ca|p1team=|pos1=dps",
+            "p2": "Havoc|p2flag=ca|p2team=|pos2=dps",
+            "p3": "Azam|p3flag=ca|p3team=|pos3=dps",
+            "p4": "Astronexz|p4flag=|p4team=Hive Five|pos4=tank",
+            "p5": "MagicM8Ball|p5flag=|p5team=Rizz Academy|pos5=sup",
+            "p6": "Johnno|p6flag=ca|p6team=|pos6=sup",
+            "p7": "Soames|p7flag=|p7team=HU Storm|pos7=sup"
+        },
+        {
+            "team": "Not Americans",
+            "p1": "Seeker|p1flag=|p1team=|pos1=dps",
+            "p2": "Noxious|p2flag=|p2team=HU Storm|pos2=dps|p2link=Noxious (Canadian Player)",
+            "p3": "False|p3flag=|p3team=Maryville Esports|pos3=tank",
+            "p4": "Passenger|p4flag=ca|p4team=|pos4=sup",
+            "p5": "Crimzo|p5flag=|p5team=Vancouver Titans|pos5=sup"
+        },
+        {
+            "team": "Yao Ming Fan Club",
+            "p1": "Crime|p1flag=|p1team=St. Clair Saints|pos1=dps",
+            "p2": "Emmeryn|p2flag=|p2team=St. Clair Saints|pos2=dps",
+            "p3": "Tristan|p3flag=ca|p3team=|pos3=dps",
+            "p4": "sawhill|p4flag=ca|p4team=|pos4=tank",
+            "p5": "redex|p5flag=|p5team=St. Clair Saints|pos5=sup",
+            "p6": "NolanCoronaV|p6flag=ca|p6team=|pos6=sup"
+        },
+        {
+            "team": "Fearless Noob",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Shapeless Canada",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "jv red esports",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Chills",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Team Nova Scotia",
+            "p1": "High|p1flag=ca|p1team=|pos1=dps",
+            "p2": "Suis|p2flag=ca|p2team=|pos2=dps",
+            "p3": "DrGrim|p3flag=ca|p3team=|pos3=tank",
+            "p4": "TrickyZerg|p4flag=ca|p4team=|pos4=tank",
+            "p5": "InhaleExhale|p5flag=ca|p5team=|pos5=sup",
+            "p6": "Exalted|p6flag=ca|p6team=|pos6=sup"
+        },
+        {
+            "team": "Diamonds in the Rough",
+            "p1": "Garffunguy|p1flag=ca|p1team=|pos1=dps",
+            "p2": "Dante40|p2flag=ca|p2team=|pos2=dps",
+            "p3": "fakelwyr|p3flag=ca|p3team=|pos3=tank",
+            "p4": "Jdawes|p4flag=ca|p4team=|pos4=sup",
+            "p5": "Phyerx|p5flag=ca|p5team=|pos5=sup",
+            "p6": "Precoixious|p6flag=ca|p6team=|pos6=flex"
+        },
+        {
+            "team": "Calgary Black",
+            "p1": "\u00e6stheticsock|p1flag=ca|p1team=|pos1=dps",
+            "p2": "Phy|p2flag=ca|p2team=|pos2=dps",
+            "p3": "nave|p3flag=ca|p3team=|pos3=tank",
+            "p4": "sawk|p4flag=ca|p4team=|pos4=sup",
+            "p5": "SpudRug|p5flag=ca|p5team=|pos5=sup"
+        },
+        {
+            "team": "Flames of Canada",
+            "p1": "v1ctory|p1flag=ca|p1team=|pos1=dps",
+            "p2": "FlameHimself|p2flag=ca|p2team=|pos2=dps",
+            "p3": "Illusion|p3flag=ca|p3team=|pos3=dps|p3link=Illusion (Canadian Player)",
+            "p4": "Faded|p4flag=|p4team=Fisher Esports|pos4=tank",
+            "p5": "Bagel|p5flag=|p5team=Boise State University|pos5=sup",
+            "p6": "Defferatel|p6flag=ca|p6team=|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Smawl|t2c1flag=ca|t2c1pos=manager"
+        },
+        {
+            "team": "OmaeNoKaasan",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "York Lions",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|carleton ravens|score=0}}",
+            "opponent2": "{{TeamOpponent|canadian ultimate players|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|toronto obedient|score=0}}",
+            "opponent2": "{{TeamOpponent|team leftovers|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|not americans|score=2}}",
+            "opponent2": "{{TeamOpponent|yao ming fan club|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "February 18, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fearless noob|score=2}}",
+            "opponent2": "{{TeamOpponent|shapeless canada|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "February 19, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|canadian ultimate players|score=2}}",
+            "opponent2": "{{TeamOpponent|team leftovers|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "February 19, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|not americans|score=2}}",
+            "opponent2": "{{TeamOpponent|fearless noob|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "February 24, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "overwatchcontenders|twitch=",
+            "opponent1": "{{TeamOpponent|canadian ultimate players|score=}}",
+            "opponent2": "{{TeamOpponent|not americans|score=}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Dorado|mode=Escort|score1=0|score2=3|winner=2}}",
+            "map3": "{{Map|map=Esperan\u00e7a|mode=Push|score1=91.42m|score2=110.98m|winner=2}}",
+            "optional": "R6M1="
+        },
+        {
+            "bestof": "3",
+            "date": "February 17, 2023 - 19:15 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|jv red esports|score=2}}",
+            "opponent2": "{{TeamOpponent|chills|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "February 17, 2023 - 19:15 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team nova scotia|score=2}}",
+            "opponent2": "{{TeamOpponent|diamonds in the rough|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "February 17, 2023 - 19:15 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|calgary black|score=0}}",
+            "opponent2": "{{TeamOpponent|flames of canada|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "February 17, 2023 - 19:15 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|omaenokaasan|score=0}}",
+            "opponent2": "{{TeamOpponent|york lions|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "February 18, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|toronto obedient|score=2}}",
+            "opponent2": "{{TeamOpponent|jv red esports|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "February 18, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|carleton ravens|score=0}}",
+            "opponent2": "{{TeamOpponent|team nova scotia|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "February 18, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|shapeless canada|score=0}}",
+            "opponent2": "{{TeamOpponent|flames of canada|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "February 18, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|yao ming fan club|score=2}}",
+            "opponent2": "{{TeamOpponent|york lions|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "February 18, 2023 - 18:30 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|toronto obedient|score=1}}",
+            "opponent2": "{{TeamOpponent|team nova scotia|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "February 18, 2023 - 18:30 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|flames of canada|score=2}}",
+            "opponent2": "{{TeamOpponent|yao ming fan club|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "February 19, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fearless noob|score=0}}",
+            "opponent2": "{{TeamOpponent|team nova scotia|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "February 19, 2023 - 17:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team leftovers|score=0}}",
+            "opponent2": "{{TeamOpponent|flames of canada|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "February 19, 2023 - 18:30 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team nova scotia|score=2}}",
+            "opponent2": "{{TeamOpponent|flames of canada|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "bestof": "5",
+            "date": "February 24, 2023 - 18:30 {{Abbr/CT}}",
+            "youtube": "overwatchcontenders|twitch=",
+            "opponent1": "{{TeamOpponent|canadian ultimate players|score=}}",
+            "opponent2": "{{TeamOpponent|team nova scotia|score=}}",
+            "map1": "{{Map|map=Antarctic Peninsula|mode=Control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=Route 66|mode=Escort|score1=4|score2=3|winner=1}}",
+            "map3": "{{Map|map=New Queen Street|mode=Push|score1=110.25m|score2=53.07m|winner=1}}",
+            "optional": "R6M2="
+        },
+        {
+            "date": "February 24, 2023 - 20:00 {{Abbr/CT}}",
+            "youtube": "overwatchcontenders|twitch=",
+            "opponent1": "{{TeamOpponent|not americans|score=}}",
+            "opponent2": "{{TeamOpponent|canadian ultimate players|score=}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=Route 66|mode=Escort|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Esperan\u00e7a|mode=Push|score1=90.10m|score2=53.55m|winner=2}}",
+            "map4": "{{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "optional": "R7M1="
+        }
+    ]
+}

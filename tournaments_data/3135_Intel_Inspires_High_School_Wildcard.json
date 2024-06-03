@@ -1,0 +1,701 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "liquipediatiertype": "Qualifier",
+            "series": "Intel Inspires",
+            "name": "Intel Inspires High School Wildcard Qualifier",
+            "shortname": "High School Wildcard Qualifier",
+            "tickername": "Intel Inspires High School Wildcard Qualifier",
+            "icon": "AVGL Intel Inspires allmode.png",
+            "image": "AVGL Intel Inspires allmode.png",
+            "organizer": "AVGL",
+            "sponsor": "Intel<br>Republic of Gamers<br>CDW Education",
+            "type": "Online",
+            "country": "United States",
+            "game": "overwatch2",
+            "city": "",
+            "venue": "",
+            "format": "Swiss Rounds<br>Double Elimination",
+            "prizepoolusd": "",
+            "date": "2023-02-04",
+            "twitter": "AVGLofficial",
+            "web": "https://avgl.org/intel-inspires-hub",
+            "facebook": "AVGLofficial",
+            "instagram": "AVGLofficial",
+            "tiktok": "AVGL",
+            "twitch": "EsportsU",
+            "discord": "AVGLofficial",
+            "rulebook": "https://avgl.org/intel-inspires-hub/46270/events/rules",
+            "bracket": "https://avgl.org/intel-inspires-hub/46270/bracket"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Samueli Academy Firewolves",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "qualifier": "",
+            "placement": ""
+        },
+        {
+            "team": "Rocklin High School",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "qualifier": "",
+            "placement": ""
+        },
+        {
+            "team": "Richardson High School SQ",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "qualifier": "",
+            "placement": ""
+        },
+        {
+            "team": "Eastside High School",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "qualifier": "",
+            "placement": ""
+        },
+        {
+            "team": "Schurr High School",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "qualifier": "",
+            "placement": ""
+        },
+        {
+            "team": "AATL Esports",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "qualifier": "",
+            "placement": ""
+        },
+        {
+            "team": "Fairfield Ludlowe High School",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "qualifier": "",
+            "placement": ""
+        },
+        {
+            "team": "RHHS Blue Hawk",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "qualifier": "",
+            "placement": ""
+        },
+        {
+            "team": "SOAR High Stars",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "qualifier": "",
+            "placement": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "February 4, 2023 - 16:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "schurr high school",
+            "opponent2": "eastside high school",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "February 4, 2023 - 16:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "aatl esports",
+            "opponent2": "soar high stars",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "February 4, 2023 - 16:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fairfield ludlowe high school",
+            "opponent2": "rocklin high school",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "February 4, 2023 - 16:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "samueli academy firewolves",
+            "opponent2": "rhhs blue hawk",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "bestof": "3",
+            "date": "February 4, 2023 - 17:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "richardson high school sq",
+            "opponent2": "eastside high school",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "February 4, 2023 - 17:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "aatl esports",
+            "opponent2": "samueli academy firewolves",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "February 4, 2023 - 17:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "rocklin high school",
+            "opponent2": "soar high stars",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "February 4, 2023 - 17:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fairfield ludlowe high school",
+            "opponent2": "rhhs blue hawk",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "bestof": "3",
+            "date": "February 4, 2023 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "richardson high school sq",
+            "opponent2": "samueli academy firewolves",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "February 4, 2023 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "rocklin high school",
+            "opponent2": "schurr high school",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "February 4, 2023 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "fairfield ludlowe high school|score=FF",
+            "opponent2": "aatl esports|score=W",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "February 4, 2023 - 18:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "eastside high school",
+            "opponent2": "soar high stars",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "bestof": "3",
+            "date": "February 4, 2023 - 19:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "eastside high school",
+            "opponent2": "rocklin high school",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "February 4, 2023 - 19:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "samueli academy firewolves",
+            "opponent2": "schurr high school",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "February 4, 2023 - 19:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "aatl esports|score=FF",
+            "opponent2": "rhhs blue hawk|score=W",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "February 4, 2023 - 19:00",
+            "date_timezone": "EST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "richardson high school sq|score=W",
+            "opponent2": "fairfield ludlowe high school|score=FF",
+            "map1": {
+                "map": "Control",
+                "mode": "Control",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "Hybrid",
+                "mode": "Hybrid",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        }
+    ]
+}

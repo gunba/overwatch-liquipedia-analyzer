@@ -1,0 +1,238 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "name": "Open Division 2023 Season 1 - Australia & New Zealand",
+            "shortname": "OD 2023 S1 - ANZ",
+            "series": "Open Division",
+            "abbreviation": "Open Division",
+            "tickername": "Open Division 2023 S1 - ANZ",
+            "image": "Open_Division_2018_logo.png",
+            "icon": "Open Division 2018 logo.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "GameBattles",
+            "type": "Online",
+            "game": "overwatch2",
+            "country": "Australia",
+            "country2": "New Zealand",
+            "format": "Swiss<br>Double Elimination",
+            "prizepoolusd": "2000",
+            "sdate": "2023-03-03",
+            "edate": "2023-03-12",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S1/info",
+            "bracket2": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S1P/bracket",
+            "twitter": "owpathtopro",
+            "discord": "du7mVRd",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S1/rules",
+            "team_number": "18"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "0RD3R",
+            "p1": "par|pos1=dps",
+            "p2": "Luca|pos2=dps|p2link=Luca (Australian player)",
+            "p3": "Quatz|pos3=tank",
+            "p4": "LukeyG|pos4=tank",
+            "p5": "Don|pos5=sup|p5link=Don (Australian Player)",
+            "p6": "Crimsyn|pos6=sup",
+            "p7": "fin|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Tokki|t2c1pos=coach",
+            "t2c2": "erry|t3c2pos=manager",
+            "qualifier": "Regular Season (1)"
+        },
+        {
+            "team": "Masterminds GC",
+            "p1": "Neuu|pos1=dps",
+            "p2": "Kabe|pos2=dps",
+            "p3": "Romani|pos3=tank",
+            "p4": "Frogger|pos4=sup",
+            "p5": "EDward|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Ducklover|t2c1pos=manager",
+            "t2c2": "Cointree|t2c2pos=manager",
+            "qualifier": "Regular Season (2)"
+        },
+        {
+            "team": "4101",
+            "p1": "OLAM|pos1=dps",
+            "p2": "Jake|pos2=dps|p2link=Jake (Australian player)",
+            "p3": "ODP|pos3=tank|p3link=OverdosedPirate",
+            "p4": "Lumi|pos4=tank",
+            "p5": "Jae|pos5=sup",
+            "p6": "Akraken|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Ducklover|t2c1pos=manager",
+            "t2c2": "Kayszan|t2c2pos=manager",
+            "qualifier": "Regular Season (3)"
+        },
+        {
+            "team": "Astronic Esports",
+            "p1": "Revzi|pos1=dps",
+            "p2": "Shkyp|pos2=dps",
+            "p3": "Poszum|pos3=dps",
+            "p4": "D3MLL|pos4=dps",
+            "p5": "Estreichh|pos5=tank",
+            "p6": "Citrus|pos6=sup",
+            "p7": "Exrai|pos7=sup",
+            "p8": "Kurikiai|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Blazing|t2c1pos=coach",
+            "t2c2": "Mince|t2c2pos=manager",
+            "qualifier": "Regular Season (4)"
+        },
+        {
+            "team": "Brute Force",
+            "p1": "QueenK121|p1flag=au|pos1=dps",
+            "p2": "zBepis|p2flag=nz|pos2=dps",
+            "p3": "Nbow|p3flag=au|pos3=tank",
+            "p4": "Solace|pos4=sup",
+            "p5": "Liefde|p5flag=au|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "QueenK121|t2c1flag=au|t2c1pos=manager",
+            "qualifier": "Regular Season (5)"
+        },
+        {
+            "team": "Owl Rejects",
+            "p1": "QIN|pos1=dps",
+            "p2": "Colourhex|pos2=dps",
+            "p3": "Fed|pos3=dps",
+            "p4": "Adam|pos4=tank|p4link=Adam (Australian player)",
+            "p5": "Bertlog|pos5=sup",
+            "p6": "Seqtar|pos6=sup",
+            "qualifier": "Regular Season (6)"
+        },
+        {
+            "team": "Supernova",
+            "p1": "Andrzej|pos1=dps",
+            "p2": "Bunny|p2flag=au|pos2=dps|p2link=Bunny (Australian Player)",
+            "p3": "Bryx|p3flag=au|pos3=dps",
+            "p4": "Chappadoodle|p4flag=au|pos4=tank",
+            "p5": "Muttnik|p5flag=au|pos5=sup",
+            "p6": "LiamFox|p6flag=au|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "JJJJ|t2c1pos=coach",
+            "qualifier": "Regular Season (7)"
+        },
+        {
+            "team": "Exabyte",
+            "p1": "Mori|p1flag=au|pos1=dps",
+            "p2": "NOTOAST4U|p2flag=au|pos2=dps",
+            "p3": "Coolmish|p3flag=au|pos3=tank",
+            "p4": "Dandandan|p4flag=au|pos4=sup",
+            "p5": "Windfeather|p5flag=au|pos5=sup",
+            "qualifier": "Regular Season (8)"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "March 11, 2023 - 14:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|0rd3r|score=2}}",
+            "opponent2": "{{TeamOpponent|exabyte|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "March 11, 2023 - 14:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|brute force|score=L}}",
+            "opponent2": "{{TeamOpponent|Astronic|score=W}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "March 11, 2023 - 14:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|4101|score=0}}",
+            "opponent2": "{{TeamOpponent|owl rejects|score=2}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "March 11, 2023 - 14:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|supernova|score=0}}",
+            "opponent2": "{{TeamOpponent|masterminds gc|score=2}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "March 11, 2023 - 15:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|0rd3r|score=2}}",
+            "opponent2": "{{TeamOpponent|Astronic|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "March 11, 2023 - 15:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|owl rejects|score=2}}",
+            "opponent2": "{{TeamOpponent|masterminds gc|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "March 12, 2023 - 14:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|0rd3r|score=1}}",
+            "opponent2": "{{TeamOpponent|owl rejects|score=2}}",
+            "map1": "{{Map|map=Antarctic Peninsula|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=4|score2=3|winner=1}}",
+            "map3": "{{Map|map=Rialto|mode=Escort|score1=3|score2=4|winner=2}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "March 11, 2023 - 15:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|exabyte|score=L}}",
+            "opponent2": "{{TeamOpponent|brute force|score=W}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "March 11, 2023 - 15:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|4101|score=2}}",
+            "opponent2": "{{TeamOpponent|supernova|score=0}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "March 11, 2023 - 16:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|masterminds gc|score=W}}",
+            "opponent2": "{{TeamOpponent|brute force|score=L}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "March 11, 2023 - 16:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|astronic|score=0}}",
+            "opponent2": "{{TeamOpponent|4101|score=2}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "March 12, 2023 - 14:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|masterminds gc|score=L}}",
+            "opponent2": "{{TeamOpponent|4101|score=W}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "March 12, 2023 - 15:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|0rd3r|score=2}}",
+            "opponent2": "{{TeamOpponent|4101|score=0}}",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "March 12, 2023 - 16:00 {{Abbr/AEDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|owl rejects|score=2}}",
+            "opponent2": "{{TeamOpponent|0rd3r|score=3}}",
+            "map1": "{{Map|map=Nepal|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Rialto|mode=Escort|score1=4|score2=3|winner=1}}",
+            "map4": "{{Map|map=New Queen Street|mode=Push|score1=61.10m|score2=117.41m|winner=2}}",
+            "map5": "{{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}",
+            "optional": "R5M1="
+        }
+    ]
+}

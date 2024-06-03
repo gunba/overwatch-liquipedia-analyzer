@@ -1,0 +1,151 @@
+{
+    "tournament_info": [],
+    "team_cards": [
+        {
+            "team": "Got Hit by a car",
+            "p1": "MrDragonlol|pos1=dps",
+            "p2": "Avoria|pos2=dps",
+            "p3": "EridiumMiner|p3flag=uk|pos3=tank",
+            "p4": "Mickybee|p4flag=uk|pos4=tank",
+            "p5": "TheMuffin27|p5flag=nl|pos5=sup",
+            "p6": "ilppi13|pos6=sup"
+        },
+        {
+            "team": "UDG Gaming",
+            "p1": "Envyn|p1flag=us|pos1=dps",
+            "p2": "THTWeeaboo|pos2=dps|p2link=peace",
+            "p3": "Sox|p3flag=us|pos3=tank",
+            "p4": "Stryder|pos4=tank",
+            "p5": "Yelmo|p5flag=nl|pos5=tank",
+            "p6": "jamm|p6flag=us|pos6=sup",
+            "p7": "ChoseN|pos7=sup"
+        },
+        {
+            "team": "Kryix",
+            "p1": "makancheeze|p1flag=us|pos1=dps",
+            "p2": "Azea|p2flag=kr|pos2=dps",
+            "p3": "Spike|pos3=tank",
+            "p4": "Berns|p4flag=us|pos4=tank",
+            "p5": "Aniyun|pos5=sup",
+            "p6": "Legolaa|p6flag=mx|pos6=sup"
+        },
+        {
+            "team": "AOS",
+            "p1": "jix|p1flag=uk|pos1=dps",
+            "p2": "Juice|p2flag=se|pos2=dps",
+            "p3": "Saker|p3flag=es|pos3=tank",
+            "p4": "gnja2012|pos4=tank",
+            "p5": "Akaya|p5flag=fr|pos5=sup",
+            "p6": "Sobek|pos6=sup",
+            "p7": "Dodo"
+        },
+        {
+            "team": "Saturn Rose",
+            "p1": "TEXASMONEYJR|p1flag=us|pos1=dps",
+            "p2": "karmez|p2flag=us|pos2=dps",
+            "p3": "Dovokiin|p3flag=us|pos3=tank",
+            "p4": "Maverick|p4flag=us|pos4=tank",
+            "p5": "Pequeno|p5flag=us|pos5=sup",
+            "p6": "Roses|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Immortal Rage",
+            "p1": "Chobilux|pos1=dps",
+            "p2": "Hysteria|pos2=tank|p2link=Hysteria (Mexican Player)",
+            "p3": "Castled|pos3=tank",
+            "p4": "Valky",
+            "p5": "CrafterBlack",
+            "p6": "Famoso",
+            "p7": "Copycaty"
+        },
+        {
+            "team": "kaiju corp kngc",
+            "p1": "hida|p1flag=us|pos1=dps",
+            "p2": "Krinzen|p2flag=|pos2=dps",
+            "p3": "Biggs|p3flag=us|pos3=tank",
+            "p4": "InsaneWaya|p4flag=us|pos4=tank",
+            "p5": "Moe549|p5flag=us|pos5=tank",
+            "p6": "tengu|p6flag=us|pos6=sup",
+            "p7": "Betty|pos7=sup"
+        },
+        {
+            "team": "Last Second",
+            "p1": "Devine|p1flag=us|pos1=dps|p1link=YankyWolf",
+            "p2": "Hkeybroke|pos2=dps",
+            "p3": "Berserkey|p3flag=us|pos3=dps",
+            "p4": "OhJason|p4flag=us|pos4=tank",
+            "p5": "Samaritan|p5flag=us|pos5=tank",
+            "p6": "Liek|p6flag=us|pos6=sup",
+            "p7": "Shaq|pos7=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "2020-12-06",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|got hit by a car|score=1}}",
+            "opponent2": "{{TeamOpponent|udg gaming|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2020-12-06",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|comfy|score=0}}",
+            "opponent2": "{{TeamOpponent|aos|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2020-12-06",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|saturn rose|score=0}}",
+            "opponent2": "{{TeamOpponent|immortal rage|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2020-12-06",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|kaiju corp kngc|score=0}}",
+            "opponent2": "{{TeamOpponent|last second|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2020-12-06",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|got hit by a car|score=1}}",
+            "opponent2": "{{TeamOpponent|aos|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2020-12-06",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|immortal rage|score=0}}",
+            "opponent2": "{{TeamOpponent|last second|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2020-12-06",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|got hit by a car|score=0}}",
+            "opponent2": "{{TeamOpponent|last second|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2020-12-06",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|aos|score=1}}",
+            "opponent2": "{{TeamOpponent|immortal rage|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

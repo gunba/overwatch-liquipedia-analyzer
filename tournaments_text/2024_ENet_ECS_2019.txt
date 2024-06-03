@@ -1,0 +1,317 @@
+{{Want_to_Help
+|issue=missing flags on teamcards
+|fix=add flags
+|date=20191122
+}}
+{{DISPLAYTITLE:ECS 2019}}
+{{eNet Community Navbox}}
+{{Infobox league
+|name=ECS 2019
+|shortname=ECS 2019
+|image=Ecs2019.jpg
+|series=eNet
+|abbreviation=eNet
+|icon=
+|tickername=eNet ECS 2019
+|organizer=Ethereal Network
+|organizer-link=https://www.ethereal.network/
+|country=North America
+|type=Online
+|format=Single Elimination
+|prizepoolusd=300
+|sdate=2019-03-30
+|edate=2019-03-31
+|liquipediatier={{TierText/5}}
+|web=https://www.ethereal.network
+|bracket=https://challonge.com/owecs2019
+|team_number=8
+}}
+
+==Overview==
+===Format===
+* '''Playoffs''': Single Elimination
+** All matches are {{Abbr/Bo5}}.
+
+===Prize Pool===
+$300 ({{Abbr/USD}}):
+{{prize pool start}}
+{{prize pool slot |place=1|usdprize=180 |localprize=180 |points=0|fury (australian team) |lastvs1=sheridan esports |lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot |place=2|usdprize=120 |localprize=120 |sheridan esports|lastvs1=fury (australian team) |lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot |place=3-4|usdprize=0 |localprize=0 
+|the weird squad|lastvs1=fury (australian team)  |lastscore1=1 |lastvsscore1=3 |date1=
+|despicable llamas |lastvs2=sheridan esports |lastscore2=0 |lastvsscore2=3 |date2=
+}}
+{{prize pool slot|place=5-8|usdprize=0 |localprize=0
+|urgency |lastvs1=fury (australian team)  |lastscore1=0 |lastvsscore1=3 |date1=
+|sinai village |lastvs2=the weird squad |lastscore2=0 |lastvsscore2=3 |date2=
+|wombats |lastvs3=sheridan esports |lastscore3=1|lastvsscore3=3 |date3=
+|azure armadillos|lastvs4=despicable llamas |lastscore4=0 |lastvsscore4=3 |date4=
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Despicable Llamas
+|image=Overwatch_del_team_logo.jpg
+|p1=Alex|p1flag=us|pos1=dps|p1link=Alex (American player)
+|p2=Smithy|p2flag=us|pos2=dps
+|p3=woop|p3flag=fr|pos3=tank
+|p4=Savitar|pos4=tank
+|p5=NotJeff|p5flag=us|pos5=flex
+|p6=AestheticOwl|p6flag=ru|pos6=flex
+|p7=jjoryu|pos7=sup
+|c=Pascal|cflag=fr
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Azure Armadillos
+|image=Azure_Armadillo_Logo_OW_Team.png
+|p1=VulonDovah|pos1=flex
+|p2=HurricaneWhisker|pos2=flex
+|p3=MightyThundah|pos3=flex
+|p4=Exalio|pos4=flex
+|p5=FantasyMoon|pos5=flex
+|p6=brand_of_pie|pos6=flex
+|p7=mkolenka|p7flag=us|pos7=flex
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Sheridan Esports
+|image=Sheridanacademy.png
+|p1=Lethaldoren|p1flag=ca|pos1=Flex
+|p2=Fracture|p2flag=ca|pos2=Flex
+|p3=SkltnJack|p3flag=ca|pos3=Flex
+|p4=Je_FF|p4flag=ca|pos4=Flex
+|p5=Vulcure|p5flag=ca|pos5=Flex
+|p6=LetterNumber|p6flag=ca|pos6=Flex
+|p7=Descend|p7flag=ca|pos7=Flex
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=FURY
+|image=FuryAU logo.png
+|link=FURY (Australian_team)
+|p1=Shinigami|p1flag=br|pos1=dps
+|p2=Knight|p2flag=br|pos2=dps
+|p3=Keath|p3flag=pe|pos3=tank
+|p4=Glitch|p4flag=cl|pos4=flex
+|p5=Win98|p5flag=br|pos5=sup
+|p6=Searchy|p6flag=ar|pos6=sup
+|p7=Express|p7flag=ca|pos7=sup
+|p8=Hugo|p8flag=br|pos8=sub<!--sup/manager-->
+|c=Gekyume|cflag=au<!--head coach-->
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Wombats
+|p1=Lightninmcqn|pos1=flex
+|p2=ATlas|pos2=flex
+|p3=Datboi|pos3=flex
+|p4=Jehovahw|pos4=flex
+|p5=Hyperion|pos5=flex
+|p6=JombatWombat|pos6=flex
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Sinai Village
+|p1=ZeaL|pos1=dps
+|p2=Senpai|pos2=dps
+|p3=Buzz|pos3=tank
+|p4=LeaF|pos4=tank
+|p5=Tree|pos5=sup
+|p6=WolfWind|pos6=sup
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=The Weird Squad
+|p1=TWSUnWanted|p1flag=us|pos1=dps
+|p2=Humzah|p2flag=us|pos2=dps
+|p3=Faded|p3flag=ca|pos3=tank
+|p4=Lunacy|p4flag=us|pos4=tank
+|p5=StillKIWI|p5flag=us|pos5=sup
+|p6=JayWalker|p6flag=ca|pos6=sup
+|t2title=Staff
+|t2c1=MegaMulani|t2c1flag=ca|t2c1pos=coach
+|qualifier=Invited
+}}
+{{box|end}}
+
+==Results==
+
+
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=rlDNW9zy2Z
+<!-- QUARTERFINALS -->
+|R1D1team=despicable llamas |R1D1score=3 |R1D1win=1
+|R1D2team=azure armadillos |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=sheridan esports |R1D3score=3 |R1D3win=1
+|R1D4team=wombats |R1D4score=1 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=urgency |R1D5score=0 |R1D5win=
+|R1D6team=fury (australian team) |R1D6score=3 |R1D6win=1
+|R1G3details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D7team=sinai village |R1D7score=0 |R1D7win=
+|R1D8team=the weird squad |R1D8score=3 |R1D8win=1
+|R1G4details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R2W1team=despicable llamas |R2W1score=0 |R2W1win=
+|R2W2team=sheridan esports |R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W3team=fury (australian team) |R2W3score=3 |R2W3win=1
+|R2W4team=the weird squad |R2W4score=1 |R2W4win=
+|R2G2details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R3W1team=sheridan esports |R3W1score=0 |R3W1win=
+|R3W2team=fury (australian team) |R3W2score=3 |R3W2win=1
+|R3G1details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- 3RD PLACE (optional) -->
+|R3D1team= |R3D1score= |R3D1win=
+|R3D2team= |R3D2score= |R3D2win=
+|R3G2details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+
+==References==

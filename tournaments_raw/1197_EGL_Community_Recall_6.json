@@ -1,0 +1,350 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "EGL Community Recall #6",
+            "shortname": "Community Recall 6",
+            "tickername": "EGL Community Recall #6",
+            "icon": "EGL allmode.png",
+            "image": "EGL Community Recall lightmode.png",
+            "imagedark": "EGL Community Recall darkmode.png",
+            "organizer": "EGL",
+            "series": "Esports Gaming League",
+            "abbreviation": "EGL",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepool": "1000",
+            "localcurrency": "eur",
+            "date": "2023-04-22",
+            "twitter": "EGL",
+            "web": "https://egl.tv",
+            "facebook": "EGLgg",
+            "instagram": "EGLtv",
+            "discord": "eglgg",
+            "youtube": "eglpro",
+            "twitch": "egl",
+            "rulebook": "https://egl.tv/tournament/7496",
+            "bracket": "https://egl.tv/tournament/7496/matches",
+            "team_number": "43",
+            "previous": "EGL_Community_Recall/5 {{!}} #5",
+            "next": "EGL_Community_Recall/7 {{!}} #7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Germany 2.0",
+            "p1": "Surge|pos1=dps",
+            "p2": "EDIZ|p2flag=de|pos2=dps",
+            "p3": "Shadou|p3flag=nl|pos3=dps",
+            "p4": "Lutu|pos4=dps",
+            "p5": "Hitori|pos5=tank",
+            "p6": "Naru|pos6=tank",
+            "p7": "rephid|pos7=sup",
+            "p8": "Mizu|p8flag=de|pos8=sup",
+            "p9": "IVOXY|p9flag=de|pos9=sup"
+        },
+        {
+            "team": "Bocata de Jam\u00f3n",
+            "p1": "Junecc|p1flag=es|pos1=sup",
+            "p2": "Firewrathnes|p2flag=es|pos2=",
+            "p3": "uyer89|p3flag=es|pos3=",
+            "p4": "Zaciker26|p4flag=es|pos4=",
+            "p5": "DazedReox|p5flag=es|pos5="
+        },
+        {
+            "team": "Los Anghellos",
+            "p1": "Matriera|p1flag=fr|pos1=dps",
+            "p2": "Zaouri|p2flag=fr|pos2=dps",
+            "p3": "Twinkle|p3flag=fr|pos3=tank",
+            "p4": "oops|p4flag=fr|pos4=sup",
+            "p5": "Sidoux|p5flag=fr|pos5=sup",
+            "p6": "Tsu|p6flag=fr|pos6="
+        },
+        {
+            "team": "PICK UP THE \u260e BABY",
+            "p1": "W1ll|pos1=dps",
+            "p2": "xzodyal|pos2=dps",
+            "p3": "Chroo|pos3=tank",
+            "p4": "Olli|pos4=sup",
+            "p5": "Azzo|p5flag=fr|pos5=sup",
+            "p6": "fn|p6flag=fi|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Cointree|t2c1pos=manager",
+            "t2c2": "Gilix|t2c2pos=manager",
+            "t2c3": "Pathfinder|t2c3pos=manager"
+        },
+        {
+            "team": "Gass T3 is not a job",
+            "p1": "sivaartt|p1flag=uk|pos1=dps",
+            "p2": "Booga|p2flag=uk|pos2=dps",
+            "p3": "Yuki|p3flag=uk|pos3=dps|p3link=Yuki (British player)",
+            "p4": "EFF0RT|pos4=dps",
+            "p5": "Aisaka|pos5=tank",
+            "p6": "Gass|p6flag=fi|pos6=tank",
+            "p7": "Lynrax|p7flag=se|pos7=sup",
+            "p8": "nexty|p8flag=no|pos8=sup",
+            "p9": "Grease|p9flag=ukni|pos9=sup"
+        },
+        {
+            "team": "Aqua Apes",
+            "p1": "iamyou|p1flag=fi|pos1=",
+            "p2": "Auris|p2flag=no|pos2=",
+            "p3": "Ingi|p3flag=fi|pos3=",
+            "p4": "monk|p4flag=dk|pos4=",
+            "p5": "Fabi|p5flag=de|pos5="
+        },
+        {
+            "team": "Sheer Hot",
+            "p1": "Sardonyx|pos1=dps",
+            "p2": "M3WS|pos2=dps",
+            "p3": "Condi|pos3=dps",
+            "p4": "Erikek|pos4=tank",
+            "p5": "Aleexia|p5flag=es|pos5=sup",
+            "p6": "CaptainPrash|pos6=sup"
+        },
+        {
+            "team": "Team Huh",
+            "p1": "Yasu|p1flag=fi|pos1=",
+            "p2": "bobbywasabi7|p2flag=se|pos2=",
+            "p3": "liamp7|p3flag=uk|pos3=",
+            "p4": "Noxu|p4flag=uk|pos4=",
+            "p5": "Penguins|p5flag=uk|pos5=",
+            "p6": "styx|p6flag=uk|pos6="
+        },
+        {
+            "team": "Pixies Academy",
+            "p1": "elibono06|p1flag=uk|pos1=dps",
+            "p2": "Skylex|p2flag=no|pos2=dps",
+            "p3": "FunnierZmeu|p3flag=dk|pos3=tank",
+            "p4": "Tick|p4flag=de|pos4=tank",
+            "p5": "Votic|p5flag=uk|pos5=tank",
+            "p6": "Asl\u0131|p6flag=de|pos6=sup",
+            "p7": "M\u0114\u013f\u0202|p7flag=uk|pos7=sup",
+            "p8": "Picare|p8flag=se|pos8=sup",
+            "p9": "Pudding|p9flag=gb|pos9=sup",
+            "p10": "rezudesu|p10flag=uz|pos10=sup",
+            "t2title": "Staff",
+            "t2c1": "Kermi|t2c1flag=fi|t2c1pos=coach",
+            "t2c2": "Kermi|t2c2flag=fi|t2c2pos=manager"
+        },
+        {
+            "team": "AddFriend",
+            "p1": "SLEEK|p1flag=de|pos1=dps",
+            "p2": "MaDetho|p2flag=de|pos2=dps",
+            "p3": "Curse|p3flag=de|pos3=dps",
+            "p4": "Cora|p4flag=de|pos4=tank",
+            "p5": "Romanato|p5flag=de|pos5=sup",
+            "p6": "Boring|p6flag=de|pos6=sup",
+            "p7": "Thunder|p7flag=de|pos7=sup|p7link=Thunder (German player)",
+            "p8": "Nurettin|p8flag=de|pos8=sup"
+        },
+        {
+            "team": "nevs and pixels masterclass",
+            "p1": "unto|p1flag=fi|pos1=dps",
+            "p2": "TurboSmooth|p2flag=fr|pos2=dps",
+            "p3": "NevsH200|p3flag=de|pos3=tank",
+            "p4": "darrow|p4flag=fr|pos4=sup",
+            "p5": "AzBlue|p5flag=fr|pos5=sup",
+            "p6": "pixels|p6flag=uae|pos6=sup",
+            "p7": "Zoom|p7flag=fi|pos7=sup"
+        },
+        {
+            "team": "Pitbull Storm",
+            "p1": "juuzo|pos1=dps",
+            "p2": "sxj|pos2=dps",
+            "p3": "Tred|pos3=tank",
+            "p4": "Tekuno|pos4=sup",
+            "p5": "Mellun|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "VisionPB|t2c1pos=coach",
+            "t2c2": "Sage|t2c2pos=coach",
+            "t2c3": "Pathfinder|t2c3pos=manager",
+            "t2c4": "Mince|t2c4pos=manager"
+        },
+        {
+            "team": "Stop Skipping Scrims",
+            "p1": "Skitsa|p1flag=de|pos1=dps",
+            "p2": "THRST|p2flag=no|pos2=dps",
+            "p3": "JCaesarP|p3flag=pl|pos3=tank",
+            "p4": "Willys07|p4flag=se|pos4=tank",
+            "p5": "Pnda|p5flag=es|pos5=sup",
+            "p6": "fate|pos6=sup|p6link=fate (British Player)"
+        },
+        {
+            "team": "NUEL Retirement Home",
+            "p1": "Dubious|p1flag=uk|pos1=",
+            "p2": "Sewon|p2flag=uk|pos2=",
+            "p3": "Halibut|p3flag=uk|pos3=",
+            "p4": "NooN|p4flag=uk|pos4=",
+            "p5": "Ironfish|p5flag=uk|pos5=",
+            "p6": "Flashcat6|p6flag=uk|pos6=",
+            "p7": "Ishmere|p7flag=uk|pos7=",
+            "p8": "Bronzedog69|p8flag=uk|pos8="
+        },
+        {
+            "team": "YS Nocturne",
+            "p1": "yhui|p1flag=ch|pos1=dps",
+            "p2": "Pingu|p2flag=se|pos2=dps",
+            "p3": "Machu|p3flag=fi|pos3=tank",
+            "p4": "Mathiassou9|p4flag=fr|pos4=sup",
+            "p5": "ImSleepy|p5flag=uk|pos5=sup",
+            "p6": "joka|p6flag=dk|pos6=sup"
+        },
+        {
+            "team": "StopToxicity",
+            "p1": "Alex|pos1=dps",
+            "p2": "Stellios|pos2=dps",
+            "p3": "Xoltan|p3flag=fr|pos3=dps",
+            "p4": "Moose|pos4=tank",
+            "p5": "Skytorr|pos5=tank",
+            "p6": "Horrocks|p6flag=uk|pos6=sup",
+            "p7": "Akaya|p7flag=fr|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Skeng1|t2c1flag=gb|t2c1pos=coach"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|team germany 2.0|score=2}}",
+            "opponent2": "{{TeamOpponent|Bocata de Jam\u00f3n|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|los anghellos|score=0}}",
+            "opponent2": "{{TeamOpponent|PICK UP THE \u260e BABY|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|gass t3 is not a job|score=2}}",
+            "opponent2": "{{TeamOpponent|aqua apes|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|sheer hot|score=2}}",
+            "opponent2": "{{TeamOpponent|team huh|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|pixies academy|score=0}}",
+            "opponent2": "{{TeamOpponent|addfriend|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|nevs and pixels masterclass|score=0}}",
+            "opponent2": "{{TeamOpponent|Pitbull Storm|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|stop skipping scrims|score=2}}",
+            "opponent2": "{{TeamOpponent|nuel retirement home|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|ys nocturne|score=0}}",
+            "opponent2": "{{TeamOpponent|stoptoxicity|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|team germany 2.0|score=2}}",
+            "opponent2": "{{TeamOpponent|PICK UP THE \u260e BABY|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|gass t3 is not a job|score=2}}",
+            "opponent2": "{{TeamOpponent|sheer hot|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|addfriend|score=0}}",
+            "opponent2": "{{TeamOpponent|Pitbull Storm|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "April 22, 2023 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|stop skipping scrims|score=2}}",
+            "opponent2": "{{TeamOpponent|stoptoxicity|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "5",
+            "date": "April 22, 2023 - 19:30 {{Abbr/CEST}}",
+            "twitch": "egl",
+            "opponent1": "{{TeamOpponent|team germany 2.0|score=3}}",
+            "opponent2": "{{TeamOpponent|gass t3 is not a job|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "April 22, 2023 - 20:30 {{Abbr/CEST}}",
+            "twitch": "egl",
+            "opponent1": "{{TeamOpponent|Pitbull Storm|score=3}}",
+            "opponent2": "{{TeamOpponent|stop skipping scrims|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "April 22, 2023 - 21:30 {{Abbr/CEST}}",
+            "twitch": "egl",
+            "opponent1": "{{TeamOpponent|team germany 2.0|score=0}}",
+            "opponent2": "{{TeamOpponent|Pitbull Storm|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        }
+    ]
+}

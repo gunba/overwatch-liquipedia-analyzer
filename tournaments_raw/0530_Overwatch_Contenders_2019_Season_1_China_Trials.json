@@ -1,0 +1,131 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "series": "Overwatch Contenders Trials",
+            "abbreviation": "OWCT",
+            "shortname": "OWC 2019 Season 1 Trials: CN",
+            "name": "Overwatch Contenders 2019 Season 1 Trials: China",
+            "tickername": "OWC 2019 S1 Trials: CN",
+            "image": "Overwatch Contenders Trials.png",
+            "icon": "Overwatch Contenders Trials.png",
+            "organizer": "Blizzard",
+            "organizer-link": "http://www.blizzard.com",
+            "sponsor": "",
+            "type": "Online",
+            "country": "China",
+            "format": "Round Robin",
+            "patch": "1.32",
+            "epatch": "",
+            "prizepoolusd": "",
+            "sdate": "2019-01-27",
+            "edate": "2019-01-31",
+            "web": "https://contenders.playoverwatch.com/en-us/",
+            "web2": "http://owc.blz.cn/",
+            "weibo": "owesport",
+            "twitch": "overwatchcontenders",
+            "bracket": "",
+            "youtube": "",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "ReStart",
+            "p1": "Cloud|p1flag=kr |pos1=dps|p1link=Cloud (Korean Player)",
+            "p2": "\u83ab\u9e9f |p2flag=cn |pos2=dps",
+            "p3": "\u77ed\u677f |p3flag=cn |pos3=flex",
+            "p4": "\u521d\u767d\u53ea\u60f3\u73a9\u8482\u5a03 |p4flag=cn |pos4=flex",
+            "p5": "\u9999\u8549\u7684\u9972\u517b\u5458\u5927\u529b |p5flag=cn |pos5=tank|p5link=Dali",
+            "p6": "\u7487\u7487\u540a\u70b8\u5929|p6flag=cn |pos6=support",
+            "p7": "Rastel |p7flag=kr |pos7=support",
+            "qualifier": "[[Overwatch Contenders/2018/Season 3/China|Contenders Bottom 4]]"
+        },
+        {
+            "team": "Laboratory",
+            "p1": "\u8bf7\u8bb0\u4f4f\u6211|p1flag= |pos1=dps|p1link=Xushu",
+            "p2": "\u98ce\u8a00\u51b7\u8bed |p2flag= |pos2=dps|p2link=Fengyan",
+            "p3": "Raphael |p3flag=kr |pos3=dps",
+            "p4": "\u7531\u4e43\u8fb9\u6253\u8fb9\u89e3\u8bf4 |p4flag=cn |pos4=flex|p4link=YouNai",
+            "p5": "WonZ |p5flag= |pos5=tank",
+            "p6": "izumi|p6flag=cn |pos6=tank",
+            "p7": "\u5bc2\u5bde\u5973\u5b69|p7flag=|pos7=sup|p7link=WinWinQ",
+            "p8": "Azt2c|p8flag=kr|pos8=sup",
+            "qualifier": "[[Overwatch Contenders/2018/Season 3/China|Contenders Bottom 4]]"
+        },
+        {
+            "team": "Zenith of Optimism",
+            "p1": "\u5929\u738b\u8001\u5b50|p1flag=cn |pos1=dps",
+            "p2": "Klhip1 |p2flag=cn |pos2=dps",
+            "p3": "Cloudy |p3flag=cn |pos3=dps|p3link=EnD3r",
+            "p4": "Nanhaixym |p4flag=cn |pos4=flex",
+            "p5": "Kirby |p5flag=cn |pos5=flex|p5link=Kirby (Chinese Player)",
+            "p6": "Moshen |p6flag=cn |pos6=tank",
+            "p7": "\u5415\u5949\u5148 |p7flag=cn |pos7=support|p7link=Wang_Yan",
+            "p8": "Code016|p8flag=cn |pos8=support",
+            "qualifier": "[[Overwatch Contenders/2018/Season 3/China|Contenders Bottom 4]]"
+        },
+        {
+            "team": "Alter-Ego",
+            "notes": "3",
+            "p1": "\u5922\u4e2d\u8ffd\u61b6 |p1flag=cn |pos1=dps|p1link=taRocook1e",
+            "p2": "X8lack |p2flag=cn |pos2=dps|p2link=Tian Ye X8lack",
+            "p3": "\u6211\u7684\u5955\u5b9d\u6700\u597d\u60f9 |p3flag=cn |pos3=dps|p3link=TheSt1eet",
+            "p4": "KazE |p4flag=cn |pos4=flex",
+            "p5": "\u771f\u7684\u5f88\u559c\u6b22\u963f\u6e05\u5450 |p5flag=cn |pos5=tank|p5link=KINGKONG",
+            "p6": "\u6211\u4e0d\u5355\u4f1a\u8bf4\u4e2d\u6587 |p6flag=cn |pos6=support|p6link=Xu_Peixuan",
+            "p7": "sago|p7flag=cn |pos7=support",
+            "qualifier": "[[Overwatch Contenders/2018/Season 3/China|Contenders Bottom 4]]"
+        },
+        {
+            "team": "Never Lose Weight",
+            "p1": "uNdeAD|p1flag=cn |pos1=dps",
+            "p2": "Alan |p2flag=cn |pos2=dps|p2link=Alan (Chinese Player)",
+            "p3": "\u6218\u65d7\u4e36\u6e29\u53d9\u8a00 |p3flag=cn |pos3=flex",
+            "p4": "\u517b\u7af9\u9f20\u7684\u519c\u6c11\u6c34\u5bd2|p4flag=cn |pos4=tank|p4link=Bepo",
+            "p5": "Jervisss |p5flag=sg |pos5=support",
+            "p6": "p1ly024 |p6flag=cn |pos6=support",
+            "p7": "\u7ec7\u7530\u5e7c\u7433\u5b50|p7flag=cn |pos7=support",
+            "c": "uNdeAD|cflag=cn",
+            "qualifier": "[[Open Division/2019/Season 1/China|Open Division Top 4]]"
+        },
+        {
+            "team": "Team Stop Feeding",
+            "notes": "1",
+            "p1": "\u5e7f\u4e1c\u4e28\u707f\u7237|p1flag=cn |pos1=dps",
+            "p2": "\u5c91\u4ed9\u5973\u7684\u8d70\u4f4d\u5de5\u5177 |p2flag=cn |pos2=dps|p2link=Qingrong",
+            "p3": "\u900f\u660e |p3flag=cn |pos3=dps|p3link=touming",
+            "p4": "HuyaDID |p4flag=cn |pos4=flex",
+            "p5": "\u70b8\u9e21\u662f\u6211\u7684\u5c0f\u6708\u4eae |p5flag=cn |pos5=flex",
+            "p6": "\u5e7f\u4e1c\u4e28\u4e8c\u51e1 |p6flag=cn |pos6=support",
+            "p7": "\u571f\u8c46\u897f|p7flag=cn |pos7=support",
+            "qualifier": "[[Open Division/2019/Season 1/China|Open Division Top 4]]"
+        },
+        {
+            "team": "Team For Victory",
+            "notes": "2",
+            "p1": "\u4e5d\u547d\u60ac\u9e26 |p1flag=cn|pos1=dps",
+            "p2": "NiKo |p2flag=kr|pos2=dps",
+            "p3": "Qingli |p3flag=cn|pos3=dps",
+            "p4": "\u6597\u9c7c\u4e36\u9ed1\u6697\u5723\u7ecf|p4flag=cn|pos4=dps",
+            "p5": "\u4e0d\u4e3a\u7e41\u534e\u6613\u7d20\u5fc3|p5flag=cn|pos5=dps",
+            "p6": "Hammond|p6flag=cn|pos6=tank",
+            "p7": "jimmyman|p7flag=cn|pos7=support",
+            "p8": "\u804a\u5929\u9b3c\u624d\u866b\u5e08\u94f6\u53e4|p8flag=cn|pos8=support",
+            "qualifier": "[[Open Division/2019/Season 1/China|Open Division Top 4]]"
+        },
+        {
+            "team": "CQUPT",
+            "notes": "4",
+            "p1": "\u91cd\u5e86\u90ae\u7535\u4e28\u674e\u6c0f\u6e90|p1flag=cn |pos1=dps",
+            "p2": "\u91cd\u5e86\u90ae\u7535\u4e28\u738b\u5d07\u6797 |p2flag=cn |pos2=dps",
+            "p3": "\u91cd\u5e86\u90ae\u7535\u4e28\u849c\u5c0f\u9ec4 |p3flag=cn |pos3=dps",
+            "p4": "\u91cd\u5e86\u90ae\u7535\u4e28\u6a31\u96e8\u6668 |p4flag=cn |pos4=dps",
+            "p5": "\u5446\u5b50\u5927\u9b54\u738b|p5link=Ni_Yuandong |p5flag=cn |pos5=flex",
+            "p6": "\u6597\u9c7c\u4e36\u56de\u5fc6 |p6flag=cn |pos6=tank",
+            "p7": "\u91cd\u5e86\u90ae\u7535\u4e28\u6234\u5b89\u5a1c|p7flag=cn |pos7=support",
+            "qualifier": "[[Open Division/2019/Season 1/China|Open Division Top 4]]"
+        }
+    ],
+    "match_cards": []
+}

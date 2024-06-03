@@ -1,0 +1,95 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "liquipediatiertype": "Showmatch",
+            "name": "Console vs. Contenders",
+            "shortname": "",
+            "image": "",
+            "icon": "",
+            "tickername": "Console vs. Contenders",
+            "organizer": "Jay3",
+            "country": "North America",
+            "type": "Online",
+            "format": "",
+            "game": "overwatch2",
+            "prizepoolusd": "",
+            "date": "2023-01-12",
+            "twitter": "",
+            "twitch": "Jay3",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "WISP",
+            "p1": "Chopper",
+            "pos1": "dps",
+            "p2": "Rokit",
+            "pos2": "dps",
+            "p3": "jbubs12",
+            "pos3": "tank",
+            "p4": "Aniyun",
+            "pos4": "sup",
+            "p5": "Yimitra",
+            "pos5": "sup"
+        },
+        {
+            "team": "The Blue Team",
+            "p1": "Afersie",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Hcpeful",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Vinnie",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Delenaa",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "Hxrvi",
+            "p5flag": "ca",
+            "pos5": "sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "January 12, 2023 - 20:00",
+            "date_timezone": "EST",
+            "twitch": "jay3",
+            "vod": "https://www.twitch.tv/videos/1705180147",
+            "opponent1": "the blue team",
+            "opponent2": "wisp",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "73.42m",
+                "score2": "140.00m",
+                "winner": "2"
+            }
+        }
+    ]
+}

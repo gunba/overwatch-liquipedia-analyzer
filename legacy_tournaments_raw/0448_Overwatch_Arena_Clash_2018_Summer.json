@@ -1,0 +1,291 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch Arena Clash Summer 2018",
+            "shortname": "OAC Summer 2018",
+            "tickername": "OAC S4",
+            "image": "Overwatch Arena Clash.png",
+            "series": "Overwatch Arena Clash",
+            "abbreviation": "OAC",
+            "icon": "Overwatch Arena Clash.png",
+            "organizer": "BELONG Gaming Arenas",
+            "organizer2": "",
+            "sponsor": "Hyper X",
+            "type": "Online/Offline",
+            "country": "United Kingdom",
+            "format": "PC",
+            "prizepool": "5,070",
+            "localcurrency": "gbp",
+            "sdate": "2018-06-04",
+            "edate": "2018-08-25",
+            "liquipediatier": "{{TierText/3}}",
+            "bracket": "",
+            "web": "https://www.belong.gg/welcome-to-overwatch-arena-clash/",
+            "twitch": "belongarenas",
+            "team_number": "18",
+            "previous": "Overwatch_Arena_Clash/2018/Spring{{!}} Spring 2018",
+            "next": "Overwatch_Arena_Clash/2018/Winter{{!}} Winter 2018"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Armada",
+            "image": "BelongArmadaLarge.png",
+            "p1": "Georgebaii|p1flag=UK|pos1=",
+            "p2": "Dovah2600|p2flag=UK|pos2=",
+            "p3": "Luke|p3flag=UK|pos3=",
+            "p4": "PErcy|p4flag=UK|pos4=",
+            "p5": "LooneyCartoony|p5flag=UK|pos5=",
+            "p6": "Pinkhed|p6flag=UK|pos6="
+        },
+        {
+            "team": "Brawlers",
+            "image": "BelongBrawlersLarge.png",
+            "p1": "Makawity|p1flag=UK|pos1=",
+            "p2": "Crayon|p2flag=UK|pos2=",
+            "p3": "Pewsily|p3flag=UK|pos3=",
+            "p4": "Rad|p4flag=UK|pos4=",
+            "p5": "Flux|p5flag=UK|pos5=",
+            "p6": "Gamerbump|p6flag=UK|pos6="
+        },
+        {
+            "team": "Centurions",
+            "image": "BelongCenturionsLarge.png",
+            "p1": "Surrenderous|p1flag=UK|pos1=Support",
+            "p2": "Zealotspine|p2flag=UK|pos2=Support",
+            "p3": "Howlerloud|p3flag=UK|pos3=DPS",
+            "p4": "Kari|p4flag=UK|pos4=Flex",
+            "p5": "jamjam29|p5flag=UK|pos5=Flex",
+            "p6": "KirkEU|p6flag=UK|pos6=DPS",
+            "p7": "IVIarine|p7flag=UK|pos7=Tank"
+        },
+        {
+            "team": "Claymores",
+            "image": "BelongClaymoresLarge.png",
+            "p1": "Leeky|p1flag=UK|pos1=",
+            "p2": "TfwFox|p2flag=UK|pos2=",
+            "p3": "Skya|p3flag=UK|pos3=",
+            "p4": "Attitude|p4flag=UK|pos4=|p4link=Attitude (British player)",
+            "p5": "QuestionMark|p5flag=UK|pos5=",
+            "p6": "ZZRedTiger|p6flag=UK|pos6="
+        },
+        {
+            "team": "Enigmas",
+            "image": "BelongEnigmasLarge.png",
+            "p1": "MagnaLynx21|p1flag=UK|pos1=",
+            "p2": "The129|p2flag=UK|pos2=",
+            "p3": "Delstan|p3flag=UK|pos3=",
+            "p4": "Arx|p4flag=UK|pos4=",
+            "p5": "TheMightyCod|p5flag=UK|pos5=",
+            "p6": "Klawlor|p6flag=UK|pos6="
+        },
+        {
+            "team": "Guardians",
+            "image": "BelongGuardiansLarge.png",
+            "p1": "FRX|p1flag=UK|pos1=Tank",
+            "p2": "Apple|p2flag=UK|pos2=Flex",
+            "p3": "Gatronix|p3flag=UK|pos3=Flex",
+            "p4": "Loz|p4flag=UK|pos4=Support",
+            "p5": "SpicyRaisu|p5flag=UK|pos5=DPS",
+            "p6": "Kalicur|p6flag=UK|pos6=Support",
+            "p7": "Est|p7flag=UK|pos7=Support"
+        },
+        {
+            "team": "Harriers",
+            "image": "BelongHarriersLarge.png",
+            "p1": "Zeusia|p1flag=UK|pos1=",
+            "p2": "Jazzie|p2flag=UK|pos2=",
+            "p3": "Leo|p3link=Leo (British player)|p3flag=UK|pos3=",
+            "p4": "Mini|p4link=Mini (British player)|p4flag=UK|pos4=",
+            "p5": "Ne0|p5flag=UK|pos5=",
+            "p6": "Critical|p6flag=UK|pos6="
+        },
+        {
+            "team": "Hunters",
+            "image": "BelongHuntersLarge.png",
+            "p1": "DamagedComet8|p1flag=UK|pos1=",
+            "p2": "Freshfromasesh|p2flag=UK|pos2=",
+            "p3": "EthYat|p3flag=UK|pos3=",
+            "p4": "HeyImJade|p4flag=UK|pos4=",
+            "p5": "Mivia666|p5flag=UK|pos5=",
+            "p6": "Lifelongjam|p6flag=UK|pos6="
+        },
+        {
+            "team": "Invincibles",
+            "image": "BelongInvinciblesLarge.png",
+            "p1": "ETthefox|p1flag=UK|pos1=",
+            "p2": "Aethon|p2flag=UK|pos2=",
+            "p3": "Atcha6|p3flag=UK|pos3=",
+            "p4": "Misosoap|p4flag=UK|pos4=",
+            "p5": "LBX|p5flag=UK|pos5=",
+            "p6": "HIKARI|p6flag=UK|pos6="
+        },
+        {
+            "team": "Kestrels",
+            "image": "BelongKestrelsLarge.png",
+            "p1": "Agent1337|p1flag=UK|pos1=",
+            "p2": "Oniscis|p2flag=UK|pos2=",
+            "p3": "AnActOfMercy|p3flag=UK|pos3=",
+            "p4": "Sequacious|p4flag=UK|pos4=",
+            "p5": "Bearzerker|p5flag=UK|pos5=",
+            "p6": "Sombruru|p6flag=UK|pos6="
+        },
+        {
+            "team": "Lionhearts",
+            "image": "BelongLionheartsLarge.png",
+            "p1": "ZachC|p1flag=UK|pos1=",
+            "p2": "Kat|p2flag=UK|pos2=",
+            "p3": "IcePheonix|p3flag=UK|pos3=",
+            "p4": "T3hFluffyGuy|p4flag=UK|pos4=",
+            "p5": "TeeKeiWong|p5flag=UK|pos5=",
+            "p6": "Eddzi|p6flag=UK|pos6=",
+            "p7": "MrTrikks|p7flag=UK|pos7="
+        },
+        {
+            "team": "Nighthawks",
+            "image": "BelongNighthawksLarge.png",
+            "p1": "Bosco|p1flag=UK|pos1=",
+            "p2": "Pringlis|p2flag=UK|pos2=",
+            "p3": "Thund3rFrick|p3flag=UK|pos3=",
+            "p4": "ExtremeChaos__|p4flag=UK|pos4=",
+            "p5": "arinthekissable|p5flag=UK|pos5=",
+            "p6": "Jackewock|p6flag=UK|pos6=",
+            "p7": "Batsy|p7flag=UK|pos7="
+        },
+        {
+            "team": "Pirates",
+            "image": "BelongPiratesLarge.png",
+            "p1": "Obz|p1flag=UK|pos1=Tank",
+            "p2": "Urulu|p2flag=UK|pos2=DPS",
+            "p3": "Padshack|p3flag=UK|pos3=DPS",
+            "p4": "Ice|p4link=Ice (British player)|p4flag=UK|pos4=Support",
+            "p5": "IHave2Thumbs|p5flag=UK|pos5=Tank",
+            "p6": "Geraffe|p6flag=UK|pos6=Support"
+        },
+        {
+            "team": "Rams",
+            "image": "BelongRamsLarge.png",
+            "p1": "LamJam|p1flag=UK|pos1=",
+            "p2": "Effy|p2flag=UK|pos2=",
+            "p3": "EruptingStar|p3flag=UK|pos3=",
+            "p4": "Volio|p4flag=UK|pos4=",
+            "p5": "CannonFodderMK4|p5flag=UK|pos5=",
+            "p6": "Foxworth|p6flag=UK|pos6="
+        },
+        {
+            "team": "Saints",
+            "image": "BelongSaintsLarge.png",
+            "p1": "VoX|p1flag=UK|pos1=",
+            "p2": "Kingstone|p2flag=UK|pos2=",
+            "p3": "Soul|p3flag=UK|pos3=",
+            "p4": "Sup|p4flag=UK|pos4=",
+            "p5": "Twisted|p5flag=UK|pos5=",
+            "p6": "Sadmedic|p6flag=UK|pos6="
+        },
+        {
+            "team": "Smugglers",
+            "image": "BelongSmugglersLarge.png",
+            "p1": "SwankyOrc|p1flag=UK|pos1=",
+            "p2": "Greeno|p2flag=UK|pos2=",
+            "p3": "Sodiryfe|p3flag=UK|pos3=",
+            "p4": "ObscuraOwl|p4flag=UK|pos4=",
+            "p5": "Mosher|p5flag=UK|pos5=",
+            "p6": "AliCat|p6flag=UK|pos6="
+        },
+        {
+            "team": "Steelers",
+            "image": "BelongSteelersLarge.png",
+            "p1": "Ruggy Ram|p1flag=UK|pos1=Support",
+            "p2": "Lythiium|p2flag=UK|pos2=DPS",
+            "p3": "Aggression|p3flag=UK|pos3=Support",
+            "p4": "Quantum|p4flag=UK|pos4=DPS",
+            "p5": "Ellroy678|p5flag=UK|pos5=Tank",
+            "p6": "Caeruleus|p6flag=UK|pos6=Tank"
+        },
+        {
+            "team": "Vikings",
+            "image": "BelongVikingsLarge.png",
+            "p1": "Saint|p1flag=UK|pos1=",
+            "p2": "Mitcherfo|p2flag=UK|pos2=",
+            "p3": "MasBlake96|p3flag=UK|pos3=",
+            "p4": "JazzyChoi|p4flag=UK|pos4=",
+            "p5": "Chucky|p5flag=UK|pos5=",
+            "p6": "Klaypex|p6flag=UK|pos6="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "belong claymores",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "belong centurions",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "belong harriers",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "belong enigmas",
+            "score1": "0",
+            "win1": "0"
+        },
+        {
+            "team2": "belong smugglers",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "belong pirates",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "belong guardians",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "belong steelers",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "belong harriers",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "belong centurions",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "belong guardians",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "belong pirates",
+            "score1": "2",
+            "win1": ""
+        },
+        {
+            "team2": "belong guardians",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "belong centurions",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "belong harriers",
+            "score2": "0",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "belong pirates",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

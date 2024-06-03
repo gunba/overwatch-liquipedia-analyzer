@@ -1,0 +1,147 @@
+{
+    "tournament_info": [
+        {
+            "name": "GosuGamers Overwatch Weekly NA #5",
+            "image": "",
+            "series": "GosuGamers NA",
+            "shortname": "5",
+            "organizer": "GosuGamers",
+            "country": "North America",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "type": "Online",
+            "date": "2016-02-28",
+            "prizepoolusd": "360",
+            "twitch": "gosugamers",
+            "twitch2": "",
+            "twitch3": "",
+            "gosugamers": "http://www.gosugamers.net/overwatch/events/416-gosugamers-overwatch-weekly-na",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "iddqd",
+            "teamsecond": "google me",
+            "teamthird": "random mix + mendo",
+            "teamthird2": "team whatever",
+            "team_number": "12",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "previous": "GosuGamers Overwatch Weekly/NA/4{{!}}4",
+            "next": "GosuGamers Overwatch Weekly/NA/6{{!}}6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "google me",
+            "image": "",
+            "size": "",
+            "p1": "KyKy |p1flag=kr",
+            "p2": "Adam |p2flag=ch",
+            "p3": "reaver |p3flag=us",
+            "p4": "SHUDADDY |p4flag=uk",
+            "p5": "Surefour |p5flag=ca",
+            "p6": "Techicide |p6flag=us"
+        },
+        {
+            "team": "PUGGERS",
+            "image": "",
+            "size": "",
+            "p1": "linepro |p1flag=bg",
+            "p2": "Styxa |p2flag=se",
+            "p3": "evokje |p3flag=lt",
+            "p4": "Luddee |p4flag=se",
+            "p5": "Gyken |p5flag=pt",
+            "p6": "darkarra |p6flag=es"
+        },
+        {
+            "team": "Triton",
+            "image": "",
+            "size": "",
+            "p1": "Nightmare|p1link=Nightmare (American player)  |p1flag=us",
+            "p2": "LinkoFox |p2flag=us",
+            "p3": "kaa |p3flag=us",
+            "p4": "Krawnnic |p4flag=us",
+            "p5": "DumpTruck |p5flag=us",
+            "p6": "Teknikk |p6flag=ca"
+        },
+        {
+            "team": "Team Husky",
+            "image": "",
+            "size": "",
+            "p1": "Lethena |p1flag=us",
+            "p2": "Molly |p2flag=us|p2link=Eclips (America player)",
+            "p3": "Tifa |p3flag=us",
+            "p4": "Juliesss |p4flag=us",
+            "p5": "Cuppcaake |p5flag=us",
+            "p6": "INFAMOUSchez |p6flag=us"
+        },
+        {
+            "team": "Vigil",
+            "image": "",
+            "size": "",
+            "p1": "Firestorm |p1flag=us",
+            "p2": "D1sasta |p2flag=us",
+            "p3": "LegitRc |p3flag=us",
+            "p4": "kfrr |p4flag=us",
+            "p5": "Wonderfuls |p5flag=us",
+            "p6": "ultimawep |p6flag=us"
+        },
+        {
+            "team": "We Find Overwatch Enjoyable",
+            "image": "",
+            "size": "",
+            "p1": "mkg |p1flag=us",
+            "p2": "ExendRaiser |p2flag=us",
+            "p3": "Roolf |p3flag=ca",
+            "p4": "Kombatikus |p4flag=us",
+            "p5": "varsitygg |p5flag=us",
+            "p6": "Mikeeru |p6flag=us"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "no demise",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "iddqd",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "vigil",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "iddqd",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team whatever",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "iddqd",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "google me",
+            "score2": "2",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "iddqd",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

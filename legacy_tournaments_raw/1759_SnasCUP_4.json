@@ -1,0 +1,289 @@
+{
+    "tournament_info": [
+        {
+            "name": "SnasCUP4",
+            "shortname": "SnasCUP4",
+            "image": "SnasCUP logo.png",
+            "series": "SnasCUP",
+            "abbreviation": "SnasCUP",
+            "tickername": "SnasCUP4",
+            "organizer": "SnasGG",
+            "organizer-link": "https://twitter.com/snasgg",
+            "sponsor": "[http://www.redcomputer.es/ Red Computer]",
+            "type": "Online",
+            "country": "Spain",
+            "city": "Madrid",
+            "format": "'''Playoffs''':<br>Double Elimination<br>",
+            "game": "overwatch",
+            "prizepool": "180",
+            "localcurrency": "eur",
+            "prizepoolusd": "190",
+            "sdate": "2017-03-18",
+            "edate": "2017-03-19",
+            "liquipediatier": "5|liquipediatiertype=Monthly",
+            "web": "http://www.snasgg.com/",
+            "bracket": "https://challonge.com/snascup4",
+            "twitch": "regorsnas",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "16",
+            "previous": "SnasCUP/3{{!}}SnasCUP3",
+            "next": "SnasCUP/5{{!}}SnasCUP5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dragon Tempest",
+            "p1": "MakemyDaY |p1flag=es",
+            "p2": "Ale7Tom |p2flag=es",
+            "p3": "Soler90 |p3flag=es",
+            "p4": "AntiTY |p4flag=es",
+            "p5": "INSAN3X |p5flag=es",
+            "p6": "Starsby |p6flag=es"
+        },
+        {
+            "team": "WAT team",
+            "p1": "Madfit|p1flag=es",
+            "p2": "Pruizma|p2flag=es",
+            "p3": "Accipitus|p3flag=es",
+            "p4": "Marylian|p4flag=es",
+            "p5": "Dezahr|p5flag=es",
+            "p6": "visedo|p6flag=es"
+        },
+        {
+            "team": "Hot Monkeys",
+            "p1": "KSAS |p1flag=es",
+            "p2": "Enmadou |p2flag=es",
+            "p3": "yraedry |p3flag=es",
+            "p4": "putieldelbarrio |p4flag=es",
+            "p5": "Mr1001 |p5flag=es",
+            "p6": "Tibix |p6flag=es"
+        },
+        {
+            "team": "Skizo",
+            "p1": "Fercodo|p1flag=es",
+            "p2": "Happy|p2flag=es|p2link=Happy (Spanish player)",
+            "p3": "YuriIsTheMan|p3flag=es",
+            "p4": "Dielgos|p4flag=es",
+            "p5": "Bandolero|p5flag=es",
+            "p6": "Rulgonzalez|p6flag=es"
+        },
+        {
+            "team": "SpanixGaminG",
+            "p1": "xMontiii|p1flag=es",
+            "p2": "Amdros |p2flag=es",
+            "p3": "Turuk |p3flag=es",
+            "p4": "zasbylolo397 |p4flag=es",
+            "p5": "Wanheda|p5flag=es",
+            "p6": "DrizZzY |p6flag=es"
+        },
+        {
+            "team": "Old Wolves",
+            "p1": "Nihilhodie|p1flag=es",
+            "p2": "Dopico|p2flag=es",
+            "p3": "SpirituZ|p3flag=es",
+            "p4": "iRedezx|p4flag=es",
+            "p5": "N\u00fdsqt|p5flag=es",
+            "p6": "Snacky2|p6flag=es"
+        },
+        {
+            "team": "AllSIX",
+            "p1": "Thorim|p1flag=es",
+            "p2": "NPChopito|p2flag=es",
+            "p3": "NPMagulano|p3flag=es",
+            "p4": "xRechy|p4flag=es",
+            "p5": "SrVill|p5flag=es",
+            "p6": "Reus|p6flag=es"
+        },
+        {
+            "team": "Pachimari Inquisition",
+            "p1": "Crusty|p1flag=es|p1link=Crusty (Spanish player)",
+            "p2": "Blue|p2flag=es",
+            "p3": "Genji|p3flag=es|p3link=Genji (Spanish player)",
+            "p4": "GGIziPanda|p4flag=es",
+            "p5": "Kai7|p5flag=es",
+            "p6": "Paiportin|p6flag=es"
+        },
+        {
+            "notes": "1",
+            "team": "Unreal Hunters",
+            "p1": "Akira|p1flag=es",
+            "p2": "Balterk|p2flag=es",
+            "p3": "Shelo|p3flag=es",
+            "p4": "Reiiloko|p4flag=es",
+            "p5": "Pikgut|p5flag=es",
+            "p6": "TroiiGZ|p6flag=es"
+        },
+        {
+            "team": "BloodyWolves",
+            "p1": "JackLaMota|p1flag=es",
+            "p2": "javiejarque|p2flag=es",
+            "p3": "Joker|p3flag=es|p3link=Joker (Spanish player)",
+            "p4": "Kikemaru|p4flag=es",
+            "p5": "Stryx|p5flag=es",
+            "p6": "Sirix|p6flag=es"
+        },
+        {
+            "team": "Tuenti ef pi es gaming",
+            "p1": "Poncharro|p1flag=es",
+            "p2": "Josu\u00e9GC|p2flag=es",
+            "p3": "alex123olula|p3flag=es",
+            "p4": "periki|p4flag=es",
+            "p5": "taiga|p5flag=es|p5link=taiga (Spanish player)",
+            "p6": "XGreddy|p6flag=es"
+        },
+        {
+            "team": "iGnition",
+            "p1": "dAvidB|p1flag=es",
+            "p2": "Oso|p2flag=es",
+            "p3": "junsilis9|p3flag=es",
+            "p4": "TrypleCara|p4flag=es",
+            "p5": "LoxarNP|p5flag=es",
+            "p6": "Tezzeret|p6flag=es"
+        },
+        {
+            "team": "ex-BlackThorn Gaming",
+            "image": "Ex-BTGlogo.png",
+            "p1": "N3m3s1s|p1flag=es",
+            "p2": "S\u00f1rPiscopo|p2flag=es",
+            "p3": "Shedrickk|p3flag=es",
+            "p4": "P0ni|p4flag=es",
+            "p5": "Alpert|p5flag=es",
+            "p6": "Err0r|p6flag=es"
+        },
+        {
+            "team": "Rise",
+            "link": "Rise (Spanish team)",
+            "p1": "Thanatos|p1flag=es",
+            "p2": "RaiSeN|p2flag=es",
+            "p3": "Kahazar|p3flag=es",
+            "p4": "Sanch|p4flag=es",
+            "p5": "Mikau|p5flag=es",
+            "p6": "SalcHi |p6flag=es"
+        },
+        {
+            "team": "Shine",
+            "link": "Shine (Spanish team)",
+            "p1": "kuri|p1flag=es",
+            "p2": "Stiletto|p2flag=es",
+            "p3": "BERNI|p3flag=es",
+            "p4": "kORVAK|p4flag=es",
+            "p5": "Merluza|p5flag=es",
+            "p6": "Feispalm|p6flag=es",
+            "p7": "Hibary|p7flag=es"
+        },
+        {
+            "team": "XXXNaruto",
+            "p1": "SrNetworkz|p1flag=es",
+            "p2": "Solmyr|p2flag=es",
+            "p3": "Romez|p3flag=es",
+            "p4": "unf0rs4k3n |p4flag=es",
+            "p5": "Shades|p5flag=es",
+            "p6": "excelsiur|p6flag=es"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "xxxnaruto",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "dragon tempest",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "xxxnaruto",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "dragon tempest",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ex-btg",
+            "score2": "1",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "hot monkeys",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ex-btg",
+            "score2": "2",
+            "win2": "1",
+            "key": "R6W1",
+            "team1": "allsix",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "shine (spanish team)",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D17",
+            "team1": "wat team",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "shine (spanish team)",
+            "score2": "1",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "xxxnaruto",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "shine (spanish team)",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "skizo",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "tuenti ef pi es gaming",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "hot monkeys",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "tuenti ef pi es gaming",
+            "score2": "W",
+            "win2": "1",
+            "key": "R5W1",
+            "team1": "hot monkeys",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "tuenti ef pi es gaming",
+            "score2": "2",
+            "win2": "1",
+            "key": "R6D1",
+            "team1": "allsix",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "tuenti ef pi es gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R7W1",
+            "team1": "ex-btg",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

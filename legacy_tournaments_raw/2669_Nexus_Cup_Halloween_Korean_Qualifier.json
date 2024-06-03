@@ -1,0 +1,145 @@
+{
+    "tournament_info": [
+        {
+            "name": "Nexus Cup - Halloween Season Korean Qualifier",
+            "shortname": "",
+            "image": "Nexus_Cup_logo.jpg",
+            "series": "Nexus Cup",
+            "organizer": "",
+            "organizer2": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "South Korea",
+            "format": "Single Elimination",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "",
+            "date": "2016-10-21",
+            "sdate": "",
+            "edate": "",
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "web": "",
+            "stream": "",
+            "challonge": "https://challonge.com/HalloweenSeasonOfNexusCupKR",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamfourth": "",
+            "team_number": "8",
+            "team1": "",
+            "team2": "",
+            "team3": "",
+            "team4": "",
+            "team5": "",
+            "team6": "",
+            "team7": "",
+            "team8": "",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Kongdoo Panthera",
+            "image": "kongdoopantheralogo.png",
+            "p1": "EVERMORE  |p1flag=kr",
+            "p2": "Rascal |p2flag=kr",
+            "p3": "wakawaka |p3flag=kr",
+            "p4": "Butcher |p4flag=kr",
+            "p5": "Bishop |p5flag=kr",
+            "p6": "r2der |p6flag=kr"
+        },
+        {
+            "team": "Team Kongdoo Uncia",
+            "image": "kongdoouncialogo.png",
+            "p1": "DNCE |p1flag=kr",
+            "p2": "birdring |p2flag=kr",
+            "p3": "Fatal |p3flag=kr",
+            "p4": "Panker |p4flag=kr",
+            "p5": "lucid |p5flag=kr",
+            "p6": "Bubbly |p6flag=kr"
+        },
+        {
+            "team": "MVP Space",
+            "link": "MVP/MVP Space",
+            "p1": "Poro |p1flag=kr",
+            "p2": "Sylph |p2flag=kr",
+            "p3": "Daily |p3flag=kr",
+            "p4": "KuKi |p4flag=kr",
+            "p5": "Pelka |p5flag=kr",
+            "p6": "June |p6flag=kr"
+        },
+        {
+            "team": "AF.Blue",
+            "link": "Afreeca Freecs/AF.Blue",
+            "p1": "adam |p1flag=kr |p1link=adam_(Korean_player)",
+            "p2": "Dayfly |p2flag=kr",
+            "p3": "yesman |p3flag=kr",
+            "p4": "ArHaN |p4flag=kr",
+            "p5": "Recry |p5flag=kr",
+            "p6": "JIN |p6flag=kr |p6link=JIN_(Cho_Hyo_Jin)"
+        },
+        {
+            "team": "AF.Red",
+            "link": "Afreeca Freecs/AF.Red",
+            "p1": "GOKON |p1flag=kr",
+            "p2": "attune |p2flag=kr",
+            "p3": "QMain |p3flag=kr",
+            "p4": "NAVI |p4flag=kr",
+            "p5": "Lagerman |p5flag=kr",
+            "p6": "takethis |p6flag=kr"
+        },
+        {
+            "team": "Rhinos Gaming Wings",
+            "p1": "TFO |p1flag=kr",
+            "p2": "Mano |p2flag=kr",
+            "p3": "BENSY |p3flag=kr",
+            "p4": "Selly |p4flag=kr",
+            "p5": "envy |p5flag=kr",
+            "p6": "GOQUAL |p6flag=kr"
+        },
+        {
+            "team": "Mighty AOD",
+            "image": "",
+            "p1": "|p1flag=kr",
+            "p2": "|p2flag=kr",
+            "p3": "|p3flag=kr",
+            "p4": "|p4flag=kr",
+            "p5": "|p5flag=kr",
+            "p6": "|p6flag=kr",
+            "c": "Moon|cflag=kr"
+        },
+        {
+            "team": "LW Red",
+            "link": "LW/LW Red",
+            "image": "luxurywatchlogo.png",
+            "p1": "aWesomeGuy|p1flag=kr",
+            "p2": "Beom|p2flag=kr",
+            "p3": "Pine|p3flag=kr",
+            "p4": "nanohana|p4flag=kr",
+            "p5": "Arcane|p5flag=kr",
+            "p6": "starky|p6flag=kr"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "mighty aod",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "rhinos gaming wings",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "lw red",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "af.red",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

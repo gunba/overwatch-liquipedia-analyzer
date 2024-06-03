@@ -1,0 +1,111 @@
+{{DISPLAYTITLE:Tokyo Game Show 2016 - Show Match}}
+{{Infobox league
+|name=Tokyo Game Show 2016 - Show Match
+|shortname=TGS 2016 - Show Match
+|image=Tokyo Game Show 2016 allmode.png
+|icon=Tokyo Game Show 2016 allmode.png
+|series=
+|organizer=TGS
+|organizer-link=http://expo.nikkeibp.co.jp/tgs/2016/public/zh-TW/
+|organizer2=Intel
+|organizer2-link=http://www.intel.co.jp/content/www/jp/ja/homepage.html
+|sponsor=
+|type=Offline
+|country=Japan
+|city=Tokyo
+|format=Bo5 Series
+|prizepool=
+|localcurrency=
+|prizepoolusd=
+|date=2016-09-18
+|liquipediatier=2|liquipediatiertype=Showmatch
+|web=
+|stream=https://www.twitch.tv/japanesports
+|bracket=
+|challonge=
+|teamfirst=ahq s
+|teamsecond=detonator
+|team_number=2
+|team1=ahq s
+|team2=detonator
+|previous=
+|next=Tokyo_Game_Show/2017/Show_Match{{!}}TGS 2017
+}}
+
+'''[[Tokyo Game Show 2016/Show Match|Tokyo Game Show 2016 - Show Match]]''' is an Overwatch showmatch organized by Intel.
+
+==Information==
+===Prize Pool===
+{{prize pool start|noprize=1}}
+{{prize pool slot|place=w |ahq s |lastvs1=detonator |lastscore1=3 |lastvsscore1=0}}
+{{prize pool slot|place=l |detonator |lastvs1=ahq s |lastscore1=0 |lastvsscore1=3}}
+{{Prize pool end}}
+
+===Format===
+*All matches are Bo5.
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=DeToNator
+|image=
+|p1=delave |p1flag=jp
+|p2=siorin |p2flag=jp
+|p3=XQQ |p3flag=jp
+|p4=SPYGEA |p4flag=jp
+|p5=StylishNoob |p5flag=jp
+|p6=yamatoN |p6flag=jp
+|qualifier='''Invited'''
+}}
+{{box|break|padding=2em}}
+{{TeamCardMix
+|team=ahq S
+|link=Ahq e-Sports Club/ahq S
+|p1=Xargon|p1flag=tw
+|p2=Lilgho|p2flag=tw
+|p3=Zonda|p3flag=tw
+|p4=Gura|p4flag=tw
+|p5=EDDIE|p5flag=tw |p5team=ahq
+|p6=Danny|p6flag=tw
+|qualifier='''Invited'''
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/2|2SETeamBracket|type=team|id=BiT8IdhZ1y
+<!-- FINALS -->
+|R1D1team=ahq s |R1D1score=3 |R1D1win=1
+|R1D2team=detonator |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary
+|date=September 18, 2016 - 10:00 {{Abbr/TST}}
+|finished=true
+|stream=
+|winner=1
+|match1={{Match/old
+|map=Dorado
+|team1side=A  |team2side=D  |team1checkpoints=2/3 |team1time=
+|team1side2=D |team2side2=A |team2checkpoints=2/3 |team2time=
+|win=1
+}}
+|match2={{Match/old
+|map=Lijiang Tower
+|controlwin1=1 |controlwin2=1 |controlwin3=2 |controlwin4=1 |controlwin5=0
+|win=1
+}}
+|match3={{Match/old
+|map=Numbani
+|team1side=A  |team2side=D  |team1checkpoints=3/3 |team1time=3:43
+|team1side2=D |team2side2=A |team2checkpoints=2/3 |team2time=
+|win=1
+}}
+}}
+}}
+
+
+==View Games==
+*{{flag/jp}} [https://www.twitch.tv/japanesports/v/89957233 VODs]
+
+==References==
+{{Reflist}}

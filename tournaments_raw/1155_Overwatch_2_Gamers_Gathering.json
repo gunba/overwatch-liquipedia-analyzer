@@ -1,0 +1,202 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "Overwatch 2 Gamers Gathering",
+            "shortname": "OW2 Gamers Gathering",
+            "tickername": "Overwatch 2 Gamers Gathering",
+            "icon": "",
+            "image": "",
+            "organizer": "TESF",
+            "organizer-link": "https://tesf.or.th",
+            "sponsor": "",
+            "type": "Online/Offline",
+            "country": "Thailand",
+            "venue": "[https://www.facebook.com/GLP.Gspeedlivingplus Gspeed Living Plus]",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "localcurrency": "THB",
+            "prizepool": "25000",
+            "sdate": "2023-10-06",
+            "edate": "2023-10-14",
+            "facebook": "thailandesports",
+            "web": "https://tesf.or.th/tournament/ow2gamersgathering",
+            "twitch": "",
+            "discord": "pvJ2gA47",
+            "rulebook": "https://docs.google.com/document/d/19JZoMGZ63rvbIlpk3VwyijRznpwVDlmuIpB7Jw_2RWw",
+            "bracket": "",
+            "team_number": "64"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Angelica Esport",
+            "p1": "friday|p1flag=th|pos1=dps|p1link=friday (Thai player)",
+            "p2": "punMAVERICK|p2flag=|pos2=dps",
+            "p3": "JayCo|p3flag=|pos3=dps",
+            "p4": "FOUREVER|p4flag=|pos4=tank",
+            "p5": "Hope|p5flag=|pos5=sup|p5link=Hope (Thai player)",
+            "p6": "McGREY|p6flag=|pos6=sup",
+            "p7": "Zerkai|p7flag=th|pos7=sup"
+        },
+        {
+            "team": "Fade",
+            "link": "fade (thai team)",
+            "p1": "ShakeIt|p1flag=th|pos1=dps",
+            "p2": "HYE|p2flag=|pos2=dps",
+            "p3": "PaLee|p3flag=|pos3=dps",
+            "p4": "Kairen|p4flag=th|pos4=tank",
+            "p5": "HAJIMA|p5flag=th|pos5=sup",
+            "p6": "MSCG|p6flag=|pos6=sup",
+            "p7": "IBaNG|p7flag=|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Pouppeep|t2c1flag=th|t2c1pos=manager"
+        },
+        {
+            "team": "\u0e20\u0e31\u0e22\u0e2a\u0e31\u0e07\u0e04\u0e21",
+            "p1": "\u0e19\u0e32\u0e22|p1flag=th|pos1=dps",
+            "p2": "P2scalWang4d|p2flag=th|pos2=dps",
+            "p3": "\u0e1e\u0e2d\u0e15\u0e15\u0e35\u0e49|p3flag=th|pos3=tank",
+            "p4": "AOMNITRIX|p4flag=th|pos4=sup",
+            "p5": "\u0e21\u0e39\u0e21\u0e39\u0e48|p5flag=th|pos5=sup",
+            "p6": "\u0e01\u0e30\u0e42\u0e2b\u0e25\u0e01|p6flag=th|pos6=sub",
+            "p7": "Lukari|p7flag=th|pos7=sub"
+        },
+        {
+            "team": "HY9Es e-Sport",
+            "p1": "SaKuRaNaBi|p1flag=th|pos1=dps",
+            "p2": "MoNeiet|p2flag=th|pos2=dps",
+            "p3": "PaNoyP|p3flag=th|pos3=tank",
+            "p4": "Few3Metre|p4flag=th|pos4=sup",
+            "p5": "Gabriel1Meow|p5flag=th|pos5=sup",
+            "p6": "Split|p6flag=kr|pos6=sub|p6link=KidWine",
+            "p7": "JPG|p7flag=cn|pos7=sub"
+        },
+        {
+            "team": "MoonNight Esport",
+            "p1": "K1mmy|p1flag=th|pos1=dps",
+            "p2": "NINSTOPPEE|p2flag=|pos2=dps",
+            "p3": "KUMA|p3flag=th|pos3=tank",
+            "p4": "NDF|p4flag=|pos4=tank",
+            "p5": "Q2Q|p5flag=|pos5=sup",
+            "p6": "Sylveon|p6flag=|pos6=sup",
+            "p7": "Lukari|p7flag=th|pos7=sub",
+            "t2title": "Staff",
+            "t2c1": "AmTiTude|t2c1flag=|t2c1pos=manager"
+        },
+        {
+            "team": "Personate's Gang",
+            "p1": "Personate|p1flag=th|pos1=",
+            "p2": "ong10|p2flag=th|pos2=",
+            "p3": "Jaychou|p3flag=th|pos3=|p3link=Maybe (Thai player)",
+            "p4": "LuvMercyMain|p4flag=th|pos4=",
+            "p5": "JackRabbit|p5flag=th|pos5=",
+            "p6": "manghoe|p6flag=th|pos6=",
+            "p7": "\u0e0a\u0e32\u0e22\u0e1e\u0e40\u0e19\u0e08\u0e23|p7flag=th|pos7="
+        },
+        {
+            "team": "FAD ESPORT",
+            "p1": "Slothman|p1flag=th|pos1=dps|p1link=ZEROONE",
+            "p2": "Beener|p2flag=th|pos2=dps",
+            "p3": "Phewsofast|p3flag=|pos3=tank",
+            "p4": "AnandaS|p4flag=th|pos4=sup",
+            "p5": "Sooya|p5flag=th|pos5=sup",
+            "p6": "Shxtup|p6flag=th|pos6=sub",
+            "p7": "\u0e40\u0e2b\u0e14\u0e2b\u0e39\u0e2b\u0e19\u0e39|p7flag=th|pos7=sub"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "winner": "",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|angelica esport|score=0}}",
+            "opponent2": "{{TeamOpponent|fade (thai team)|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "winner": "",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u0e20\u0e31\u0e22\u0e2a\u0e31\u0e07\u0e04\u0e21|score=0}}",
+            "opponent2": "{{TeamOpponent|HYE9s e-Sport|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "winner": "",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|personate's gang|score=0}}",
+            "opponent2": "{{TeamOpponent|fad esport|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "winner": "",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fade (thai team)|score=2}}",
+            "opponent2": "{{TeamOpponent|hye9s e-sport|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "winner": "",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|moonnight esport|score=0}}",
+            "opponent2": "{{TeamOpponent|fad esport|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "winner": "",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fade (thai team)|score=1}}",
+            "opponent2": "{{TeamOpponent|fad esport|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "winner": "",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|moonnight esport|score=2}}",
+            "opponent2": "{{TeamOpponent|hye9s e-sport|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

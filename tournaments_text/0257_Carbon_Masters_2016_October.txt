@@ -1,0 +1,204 @@
+{{DISPLAYTITLE:Carbon Masters: October 2016}}
+{{Carbon Masters Navbox}}
+<br>
+{{Tabs static
+|name1=Main Event |link1=Carbon Masters/2016/October
+|name2=Open Qualifier |link2=Carbon Masters/2016/October/Open Qualifier
+|This=1}}<br>
+
+{{Infobox league
+|name=Carbon Masters October 2016
+|shortname=Carbon Masters
+|image=Carbon_Masters.png
+|series=Carbon Masters
+|icon=
+|organizer=Carbon Entertainment|organizer-link=http://www.carbonentertainment.com/
+|sponsor=
+|type=Online
+|game=Overwatch
+|country=United States
+|city=
+|venue=
+|format=
+|prizepool=
+|localcurrency=
+|prizepoolusd=7,500
+|date=2016-10-23
+|liquipediatier=3|liquipediatiertype=Monthly
+|web=http://carbon.gg/masters/ow
+|bracket=http://carbon.gg/masters/ow/home/schedule
+|stream=
+|twitch=carbonentertainment
+|team_number=9
+|previous=
+|next=
+}}
+==Information==
+
+==Prize Pool==
+{{TeamPrizePool|import=true|cutafter=4
+|{{Slot|place=1|usdprize=4500}}
+|{{Slot|place=2|usdprize=2000}}
+|{{Slot|place=3|usdprize=1000}}
+|{{Slot|place=4}}
+|{{Slot|place=5-8}}
+|{{Slot|place=9}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=FaZe Clan
+|p1=zombs|p1flag= 
+|p2=TwoEasy|p2flag= 
+|p3=Forsak3n|p3flag= 
+|p4=Grego|p4flag= 
+|p5=FCTFCTN|p5flag= 
+|p6=Rawkus|p6flag= 
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Immortals
+|p1=Agilities|p1flag= 
+|p2=Chance|p2flag= 
+|p3=GrimReality|p3flag= 
+|p4=Hyped|p4flag= 
+|p5=Aythen|p5flag= 
+|p6=nomy|p6flag= 
+|qualifier=Invited
+}}
+{{TeamCard
+|team=compLexity Gaming
+|p1=Shake|p1flag= 
+|p2=torkTJO|p2flag= 
+|p3=Joemeister|p3flag= 
+|p4=Jkw|p4flag= 
+|p5=NicolasTJO|p5flag= 
+|p6=harbleu|p6flag= 
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Kingdom eSports
+|p1=ConnorJ|p1flag=ca
+|p2=juv3nile|p2flag=us 
+|p3=J3sus|p3flag=us
+|p4=Sherlockey|p4flag=us
+|p5=manOFsnow|p5flag=us
+|p6=Ajax|p6flag=us
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Method
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Rise Nation
+|p1=IVIidnight|p1flag=us 
+|p2=Spirit|p2flag=us
+|p3=Locke|p3flag=us
+|p4=xRetzi|p4flag=us 
+|p5=Phaz|p5flag=ca
+|p6=Desro|p6flag=us
+|qualifier=[[Carbon_Masters/2016/October/Open_Qualifier|Open Qualifier]]
+}}
+{{TeamCard
+|team=I'm Your Huckleberry
+|p1=pharaoh|p1flag= 
+|p2=alfa|p2flag= 
+|p3=NotE|p3flag= 
+|p4=piehero|p4flag= 
+|p5=wyattr|p5flag= 
+|p6=Avast|p6flag= 
+|qualifier=[[Carbon_Masters/2016/October/Open_Qualifier|Open Qualifier]]
+}}
+{{TeamCard
+|team=H2K
+|p1=b1am|p1flag=us
+|p2=Kresnik|p2flag=us
+|p3=m4risa|p3flag=us
+|p4=Boink|p4flag=us 
+|p5=Lui|p5flag=us
+|p6=Esper|p6flag=us
+|t2title=Staff
+|t2p1=Jsr|t2pos1=coach
+|qualifier=[[Carbon_Masters/2016/October/Open_Qualifier|Open Qualifier]]
+}}
+{{TeamCard
+|team=The 1 Percent
+|p1=MikadoSky|p1flag=us 
+|p2=The|p2flag=us
+|p3=Miso|p3flag=us
+|p4=Hydration|p4flag=br 
+|p5=iShiny|p5flag=us
+|p6=wafflestatic|p6flag=us
+|qualifier=[[Carbon_Masters/2016/October/Open_Qualifier|Open Qualifier]]
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2L1DH2LH4L|id=iGTbSMBIMk
+
+<!-- Round 1 -->
+|R1M1={{Match
+    |bestof=3
+    |opponent1={{TeamOpponent|h2k|score=2}}
+    |opponent2={{TeamOpponent|the 1 percent|score=0}}
+}}
+
+<!-- Quarterfinals -->
+|R2M1={{Match
+    |opponent1={{TeamOpponent|faze|score=0}}
+    |opponent2={{TeamOpponent|h2k|score=2}}
+}}
+|R2M2={{Match
+    |opponent1={{TeamOpponent|method|score=FF}}
+    |opponent2={{TeamOpponent|immortals|score=W}}
+}}
+|R2M3={{Match
+    |opponent1={{TeamOpponent|rise nation|score=1}}
+    |opponent2={{TeamOpponent|kingdom esports|score=2}}
+}}
+|R2M4={{Match
+    |opponent1={{TeamOpponent|col|score=2}}
+    |opponent2={{TeamOpponent|i'm your huckleberry|score=0}}
+}}
+
+<!-- Semifinals -->
+|R3M1={{Match
+    |opponent1={{TeamOpponent|h2k|score=0}}
+    |opponent2={{TeamOpponent|immortals|score=2}}
+}}
+|R3M2={{Match
+    |opponent1={{TeamOpponent|kingdom esports|score=0}}
+    |opponent2={{TeamOpponent|col|score=2}}
+}}
+
+<!-- Grand Final -->
+|R4M1={{Match
+	|bestof=5
+    |opponent1={{TeamOpponent|immortals|score=0}}
+    |opponent2={{TeamOpponent|col|score=3}}
+}}
+<!-- Third Place -->
+|RxMTP={{Match
+	|bestof=5
+    |opponent1={{TeamOpponent|h2k|score=1}}
+    |opponent2={{TeamOpponent|kingdom esports|score=3}}
+}}
+}}
+
+==View Games==
+===Streams===
+*{{flag/us}} [https://www.twitch.tv/carbonentertainment Official Twitch Stream]
+
+==External links==
+
+==References==
+{{Reflist}}

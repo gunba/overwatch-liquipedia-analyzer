@@ -1,0 +1,1332 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Dragons Community Open Tournament #4",
+            "shortname": "DCOT #4",
+            "tickername": "Dragons Community Open Tournament #4",
+            "icon": "Dragons Esport overwatch allmode.png",
+            "image": "Dragons Esport overwatch allmode.png",
+            "organizer": "Dragons Esport",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "France",
+            "format": "Double Elimination",
+            "prizepool": "100",
+            "localcurrency": "eur",
+            "date": "2024-01-21",
+            "twitter": "Dragons_OW",
+            "discord": "DragonsEsport",
+            "youtube": "@dragons_esport",
+            "rulebook": "https://drive.google.com/file/d/1qF6dK6iRTef_OLJ60zYoXaGBIkBUv1SL",
+            "bracket": "https://play.toornament.com/fr/tournaments/7426112309038055424/",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Power Nappers",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Dragon's Yokai",
+            "p1": "French",
+            "p1flag": "ru",
+            "pos1": "dps",
+            "p2": "Jodan",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Evil",
+            "p3flag": "fr",
+            "pos3": "dps",
+            "p3link": "Evil (French player)",
+            "p4": "Lenkwyn",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "EASTPACKMAN",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "p6": "Hell",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Mat71",
+            "t2c1flag": "fr",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Supershy",
+            "p1": "kai41",
+            "p1flag": "ru",
+            "pos1": "dps",
+            "p1link": "Kai (Russian player)",
+            "p2": "Senna",
+            "pos2": "dps",
+            "p3": "Ken",
+            "pos3": "dps",
+            "p4": "blur",
+            "pos4": "tank",
+            "p5": "Hitori",
+            "p5flag": "de",
+            "pos5": "tank",
+            "p6": "R3flect",
+            "pos6": "sup",
+            "p7": "yoham",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Loyn",
+            "t2c1flag": "fr",
+            "t2c1pos": "coach",
+            "t2c2": "Predo",
+            "t2c2flag": "de",
+            "t2c2pos": "coach",
+            "t2c3": "Cointree",
+            "t2c3pos": "coach",
+            "t2c4": "Ale",
+            "t2c4pos": "general manager",
+            "t2c5": "Pasta",
+            "t2c5flag": "hr",
+            "t2c5pos": "manager"
+        },
+        {
+            "team": "DSC' Ares",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Yuurei Esport JR.",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "C9H13N Adderall",
+            "p1": "Zxlibi",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "Scraine",
+            "p2flag": "se",
+            "pos2": "dps",
+            "p3": "LOWE",
+            "p3flag": "uk",
+            "pos3": "tank",
+            "p4": "TommeX",
+            "p4flag": "ee",
+            "pos4": "sup",
+            "p5": "fn",
+            "p5flag": "fi",
+            "pos5": "sup",
+            "p6": "Joka",
+            "p6flag": "de",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "estaxzi",
+            "t2c1flag": "uk",
+            "t2c1pos": "coach",
+            "t2c2": "Cuffy",
+            "t2c2flag": "uk",
+            "t2c2pos": "coach",
+            "t2c3": "ImSleepy",
+            "t2c3pos": "manager"
+        },
+        {
+            "team": "Wasp Aqua",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Dragon's Soul",
+            "p1": "TsuSHI",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Reyxia",
+            "p2flag": "fr",
+            "pos2": "tank",
+            "p3": "Supermatou",
+            "p3flag": "fr",
+            "pos3": "sup",
+            "p4": "Pizzasaur",
+            "p4flag": "cn",
+            "pos4": "sup",
+            "p5": "Spyboon",
+            "p5flag": "fr",
+            "pos5": "flex",
+            "p6": "NonoP33",
+            "p6flag": "fr",
+            "pos6": "flex",
+            "p7": "Gryfouille",
+            "p7flag": "fr",
+            "pos7": "flex"
+        },
+        {
+            "team": "GG Aise x Laflem",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Dragon's Homies",
+            "p1": "warglabidoo",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "b4x",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Terozz",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Bak4ra",
+            "p4flag": "fr",
+            "pos4": "sup",
+            "p5": "Otakaw",
+            "p5flag": "fr",
+            "pos5": "sup"
+        },
+        {
+            "team": "ChaosCo",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Nowoki fafnir",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "SnowShinobi",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "AT Nowayback",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Bohemia Prime",
+            "p1": "akvi",
+            "p1flag": "cz",
+            "pos1": "dps",
+            "p2": "Kolda",
+            "p2flag": "cz",
+            "pos2": "dps",
+            "p3": "Groka",
+            "p3flag": "cz",
+            "pos3": "tank",
+            "p4": "Kattos",
+            "p4flag": "cz",
+            "pos4": "sup",
+            "p5": "Medak",
+            "p5flag": "cz",
+            "pos5": "sup",
+            "p6": "Tatroun",
+            "p6flag": "cz",
+            "pos6": "flex"
+        },
+        {
+            "team": "Ratatouille",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2024-01-21 - 14:15",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Power Nappers",
+            "opponent1_score": 2,
+            "opponent2": "Ratatouille",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2024-01-21 - 14:15",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bohemia Prime",
+            "opponent1_score": 0,
+            "opponent2": "Dragon's Yokai",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2024-01-21 - 14:15",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "AT Nowayback",
+            "opponent1_score": 0,
+            "opponent2": "Supershy",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2024-01-21 - 14:15",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Abyssal Reapers",
+            "opponent1_score": 0,
+            "opponent2": "DSC' Ares",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "2024-01-21 - 14:15",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Yuurei Esport JR",
+            "opponent1_score": 2,
+            "opponent2": "Nowoki fafnir",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "2024-01-21 - 14:15",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "L'\u00c9kip",
+            "opponent1_score": 0,
+            "opponent2": "C9H13N Adderall",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "2024-01-21 - 14:15",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Wasp Aqua",
+            "opponent1_score": 2,
+            "opponent2": "Monster Legacy",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "2024-01-21 - 14:15",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dragon's Soul",
+            "opponent1_score": 2,
+            "opponent2": "Surge heat",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "bestof": "3",
+            "date": "2024-01-21 - 14:45",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Power Nappers",
+            "opponent1_score": 0,
+            "opponent2": "Dragon's Yokai",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2024-01-21 - 14:45",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Supershy",
+            "opponent1_score": 2,
+            "opponent2": "DSC' Ares",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2024-01-21 - 14:45",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Yuurei Esport JR.",
+            "opponent1_score": 0,
+            "opponent2": "C9H13N Adderall",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "2024-01-21 - 14:45",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Wasp Aqua",
+            "opponent1_score": 0,
+            "opponent2": "Dragon's Soul",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "2024-01-21 - 15:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dragon's Yokai",
+            "opponent1_score": 0,
+            "opponent2": "Supershy",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "2024-01-21 - 15:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "C9H13N Adderall",
+            "opponent1_score": 2,
+            "opponent2": "Dragon's Soul",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "2024-01-21 - 16:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Supershy",
+            "opponent1_score": 2,
+            "opponent2": "C9H13N Adderall",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M1="
+        },
+        {
+            "bestof": "1",
+            "date": "2024-01-21 - 15:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "GG Aise X Laflem",
+            "opponent1_score": 0,
+            "opponent2": "Dragon's Homies",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M9="
+        },
+        {
+            "date": "2024-01-21 - 15:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ChaosCo",
+            "opponent1_score": 1,
+            "opponent2": "Nowoki fafnir",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M10="
+        },
+        {
+            "date": "2024-01-21 - 15:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SnowShinobi",
+            "opponent1_score": 1,
+            "opponent2": "AT Nowayback",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M11="
+        },
+        {
+            "date": "2024-01-21 - 15:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bohemia Prime",
+            "opponent1_score": 1,
+            "opponent2": "Ratatouille",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M12="
+        },
+        {
+            "bestof": "1",
+            "date": "2024-01-21 - 15:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "DSC' Ares",
+            "opponent1_score": 0,
+            "opponent2": "Dragon's Homies",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "2024-01-21 - 15:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Power Nappers",
+            "opponent1_score": 1,
+            "opponent2": "ChaosCo",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M6="
+        },
+        {
+            "date": "2024-01-21 - 15:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Wasp Aqua",
+            "opponent1_score": 1,
+            "opponent2": "AT Nowayback",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M7="
+        },
+        {
+            "date": "2024-01-21 - 15:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Yuurei Esport JR.",
+            "opponent1_score": 0,
+            "opponent2": "Bohemia Prime",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M8="
+        },
+        {
+            "bestof": "1",
+            "date": "2024-01-21 - 16:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dragon's Homies",
+            "opponent1_score": 1,
+            "opponent2": "Power Nappers",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "2024-01-21 - 16:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Wasp Aqua",
+            "opponent1_score": 0,
+            "opponent2": "Bohemia Prime",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "1",
+            "date": "2024-01-21 - 16:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dragon's Soul",
+            "opponent1_score": 0,
+            "opponent2": "Dragon's Homies",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M3="
+        },
+        {
+            "date": "2024-01-21 - 16:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dragon's Yokai",
+            "opponent1_score": 1,
+            "opponent2": "Bohemia Prime",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M4="
+        },
+        {
+            "bestof": "1",
+            "date": "2024-01-21 - 17:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Dragon's Homies",
+            "opponent1_score": 0,
+            "opponent2": "Dragon's Yokai",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        },
+        {
+            "bestof": "3",
+            "date": "2024-01-21 - 17:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "C9H13N Adderall",
+            "opponent1_score": 2,
+            "opponent2": "Dragon's Yokai",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M2="
+        },
+        {
+            "bestof": "5",
+            "date": "2024-01-21 - 18:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Supershy",
+            "opponent1_score": 3,
+            "opponent2": "C9H13N Adderall",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R7M1="
+        }
+    ]
+}

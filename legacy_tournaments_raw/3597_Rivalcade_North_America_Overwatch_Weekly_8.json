@@ -1,0 +1,332 @@
+{
+    "tournament_info": [
+        {
+            "name": "Rivalcade Weekly #8 North America",
+            "image": "Rivalcade_logo_cleaned.png",
+            "series": "Rivalcade NA",
+            "shortname": "8",
+            "organizer": "Rivalcade",
+            "server": "North America",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2017-04-11",
+            "prizepoolusd": "500",
+            "web": "https://arena.razerzone.com/",
+            "twitch": "livethebattle",
+            "bracket": "https://arena.razerzone.com/tournaments/details/4973/overwatch-weekly-na-8-by-rivalcade/brackets",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Splyce",
+            "image": "",
+            "p1": "mykL",
+            "p2": "Graceful",
+            "p3": "PYYYOUR",
+            "p4": "babybay",
+            "p5": "Dogman",
+            "p6": "iRemix"
+        },
+        {
+            "team": "EnVision eSports",
+            "image": "",
+            "p1": "Tseini|p1flag=",
+            "p2": "Fire|p2flag=us",
+            "p3": "Fahzix|p3flag=us",
+            "p4": "McGravy|p4flag=us",
+            "p5": "Kophee|p5flag=us",
+            "p6": "Darksma|p6flag=us"
+        },
+        {
+            "team": "Toronto Esports",
+            "image": "",
+            "p1": "Mac|p1flag=us",
+            "p2": "Cynic|p2flag=uk",
+            "p3": "Jaru|p3flag=us",
+            "p4": "Snow|p4flag=us|p4link=Snow (American player)",
+            "p5": "NotE|p5flag=ca",
+            "p6": "Onigod|p6flag="
+        },
+        {
+            "team": "Rockets Esports",
+            "image": "Rockets_Esportslogo.png",
+            "p1": "Cloneman16|p1flag=us",
+            "p2": "Far|p2flag=us",
+            "p3": "Deadly|p3flag=us",
+            "p4": "Majesty|p4flag=ca",
+            "p5": "moth|p5flag=us",
+            "p6": "ultimawep|p6flag=",
+            "t2title": "Staff",
+            "t2p1": "Bloxi|t2pos1=analyst"
+        },
+        {
+            "team": "Perpetual",
+            "image": "",
+            "p1": "icee|p1flag=us",
+            "p2": "FadedTiger|p2flag=ca",
+            "p3": "Syper|p3flag=ca",
+            "p4": "GhostNappa|p4flag=us",
+            "p5": "Owl|p5flag=us",
+            "p6": "TattleTaleSt|p6flag=ca"
+        },
+        {
+            "team": "Prototype Prodigys",
+            "image": "",
+            "p1": "LuckeySeven|p1flag=ca",
+            "p2": "Mikeeru|p2flag=us",
+            "p3": "NotTerran|p3flag=us",
+            "p4": "JollyFresch|p4flag=us",
+            "p5": "pinktauren|p5flag=us",
+            "p6": "Meibae|p6flag=us"
+        },
+        {
+            "team": "KEYS",
+            "image": "",
+            "p1": "Zeta|p1flag=us",
+            "p2": "Archiphicus|p2flag=us",
+            "p3": "ScheckZ|p3flag=us",
+            "p4": "Habeebit|p4flag=us",
+            "p5": "Matternous|p5flag=us",
+            "p6": "TheOtherSection|p6flag=us"
+        },
+        {
+            "team": "iPressedQ",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "MATTER",
+            "image": "MATTER logo.png",
+            "p1": "Tokki|p1flag=us",
+            "p2": "Qruxy|p2flag=us",
+            "p3": "Gurululz|p3flag=us",
+            "p4": "HiYDDAD|p4flag=us",
+            "p5": "DPSDUDE420|p5flag=us",
+            "p6": "riporter|p6flag=us"
+        },
+        {
+            "team": "Phoenix9",
+            "image": "Phoenix9 logo.png",
+            "p1": "Azrael|p1flag=us",
+            "p2": "Riko|p2flag=ca",
+            "p3": "Cheesedex|p3flag=us",
+            "p4": "kingboppa|p4flag=us",
+            "p5": "Rinn|p5flag=us",
+            "p6": "BlueberryJam|p6flag=us"
+        },
+        {
+            "team": "Absolute Territory",
+            "image": "",
+            "p1": "Protocall|p1flag=ca",
+            "p2": "ArtemisFowl|p2flag=ca",
+            "p3": "Snik|p3flag=ca",
+            "p4": "Ikari|p4flag=ca",
+            "p5": "Darxand|p5flag=ca",
+            "p6": "Pbot120|p6flag=ca"
+        },
+        {
+            "team": "EclipseGG",
+            "image": "Eclipse GG.png",
+            "p1": "Mico|p1flag=us",
+            "p2": "limD|p2flag=us",
+            "p3": "Nas|p3flag=us",
+            "p4": "Sayonara|p4flag=us",
+            "p5": "Siztrara|p5flag=us",
+            "p6": "H3yzeus|p6flag=us"
+        },
+        {
+            "team": "Friends of Bigfoot",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Shrike",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Sorority Sisters",
+            "image": "",
+            "p1": "BiGGBoBBy|p1flag=us",
+            "p2": "SolidJOE|p2flag=us",
+            "p3": "Cable|p3flag=us",
+            "p4": "abadio|p4flag=us",
+            "p5": "shadderK9|p5flag=us",
+            "p6": "Funanah|p6flag=ca"
+        },
+        {
+            "team": "Electric Wood Grain",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "electric wood grain",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "splyce",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "matter",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "ipressedq",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "sorority sisters",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "rockets esports",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "eclipsegg",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "perpetual",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "friends of bigfoot",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "envision esports",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "phoenix9",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "keys",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "shrike",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "toronto esports",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "absolute territory",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D15",
+            "team1": "prototype prodigys",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "matter",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "splyce",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "perpetual",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "rockets esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "keys",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "envision esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "prototype prodigys",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "toronto esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "rockets esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "splyce",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "toronto esports",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W3",
+            "team1": "envision esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "envision esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "splyce",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "toronto esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "rockets esports",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

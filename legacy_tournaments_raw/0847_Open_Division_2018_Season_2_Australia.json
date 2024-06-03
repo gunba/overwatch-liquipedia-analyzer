@@ -1,0 +1,553 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/4}}",
+            "name": "Open Division 2018 Season 2 - Australia",
+            "shortname": "OD 2018 S2 - AUS",
+            "series": "Open Division",
+            "abbreviation": "Open Division",
+            "tickername": "Open Division 2018 S2 - AUS",
+            "image": "Open_Division_2018_logo.png",
+            "icon": "Open Division 2018 logo small.png",
+            "organizer": "Blizzard Entertainment",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Australia",
+            "city": "",
+            "venue": "",
+            "twitch": "",
+            "format": "",
+            "game": "overwatch",
+            "patch": "1.22",
+            "epatch": "1.24",
+            "prizepoolusd": "",
+            "sdate": "2018-04-17",
+            "edate": "2018-05-27",
+            "web": "https://battlefy.com/overwatch-open-division-australia/2018-overwatch-open-division-season-2-australia/5ab2e8b17c642f03887e421d/info?infoTab=details",
+            "bracket": "https://battlefy.com/overwatch-open-division-australia/2018-overwatch-open-division-season-2-australia/5ab2e8b17c642f03887e421d/stage/5ad6c84ddfae1b03875962c5/bracket/10",
+            "bracket2": "https://battlefy.com/overwatch-open-division-australia/2018-overwatch-open-division-season-2-australia/5ab2e8b17c642f03887e421d/stage/5b024541c0388103c05b6dfb/bracket/1",
+            "bracket3": "https://battlefy.com/overwatch-open-division-australia/2018-overwatch-open-division-season-2-australia/5ab2e8b17c642f03887e421d/stage/5b05ec1a67cd2803a574c2f9/bracket/",
+            "youtube": "",
+            "team_number": "81"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Bin Chickens",
+            "p1": "LUSH |p1flag=au|pos1=dps",
+            "p2": "Autumn |p2flag=au|pos2=dps",
+            "p3": "Styrel |p3flag=au|pos3=flex",
+            "p4": "Bus |p4flag=au|pos4=tank",
+            "p5": "Zenasis |p5flag=au|pos5=sup",
+            "p6": "Leveret |p6flag=nz|pos6=sup",
+            "p7": "Archaius |p7flag=au|pos7=flex",
+            "p8": "Mini |p8link=Mini (Australian Player)|p8flag=au|pos8=flex",
+            "c": "CounpoN |cflag=au",
+            "qualifier": "Regular Season (1)"
+        },
+        {
+            "team": "Teengrazpers",
+            "p1": "Exirst |p1flag=au|pos1=dps",
+            "p2": "DewBoy |p2flag=au|pos2=dps",
+            "p3": "Nathan |p3flag=au|pos3=flex",
+            "p4": "Virginya |p4flag=au|pos4=tank",
+            "p5": "Wheel |p5flag=au|pos5=sup",
+            "p6": "AmBer |p6flag=mo|pos6=sup",
+            "p7": "badd |p7flag=au|pos7=flex",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (2)"
+        },
+        {
+            "team": "INTerstella",
+            "p1": "Lex |p1flag=au|pos1=dps",
+            "p2": "Reffiel |p2flag=au|pos2=dps",
+            "p3": "Mun |p3flag=au|pos3=flex",
+            "p4": "grtK |p4flag=au|pos4=flex",
+            "p5": "Astr0 |p5flag=au|pos5=tank",
+            "p6": "Noosh |p6flag=au|pos6=tank",
+            "p7": "Enigma|p7link=Enigma (Australian Player) |p7flag=au|pos7=sup",
+            "p8": "Stolen |p8flag=au|pos8=sup",
+            "c": "Pigeondive |cflag=us",
+            "c2": "Jesus |c2flag=au",
+            "qualifier": "Regular Season (3)"
+        },
+        {
+            "team": "Paper Plane",
+            "p1": "N3M0 |p1flag=au|pos1=dps",
+            "p2": "LukeyG |p2flag=|pos2=tank",
+            "p3": "Poe |p3flag=au|pos3=sup",
+            "p4": "PiccasO |p4flag=|pos4=",
+            "p5": "POTARA |p5flag=|pos5=",
+            "p6": "Amarrez |p6flag=|pos6=",
+            "p7": "Fiz |p7flag=|pos7=",
+            "p8": "jpk |p8flag=|pos8=",
+            "p9": "Seramo |p9flag=|pos9=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (4)"
+        },
+        {
+            "team": "UNKNOWN",
+            "link": "UNKNOWN (Australian team)",
+            "p1": "Amril |p1flag=au|pos1=dps",
+            "p2": "Naahmie |p2flag=au|pos2=dps",
+            "p3": "Mauvecord |p3flag=au|pos3=tank",
+            "p4": "FlyingLuigis |p4flag=au|pos4=tank",
+            "p5": "KeimaKun |p5flag=vn|pos5=sup",
+            "p6": "Noire |p6flag=au|pos6=sup",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (5)"
+        },
+        {
+            "team": "Pharmercy Harem",
+            "p1": "CloudyShifu |p1flag=au|pos1=dps",
+            "p2": "Shiro |p2flag=au|pos2=dps",
+            "p3": "Dollaz |p3flag=au|pos3=tank",
+            "p4": "Void |p4link=Void (Australian Player) |p4flag=au|pos4=tank",
+            "p5": "Misa |p5flag=au|pos5=sup",
+            "p6": "zakaraisan2 |p6flag=au|pos6=sup",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (6)"
+        },
+        {
+            "team": "Reflex",
+            "p1": "Winter|p1link=Winter (Australian player) |p1flag=au|pos1=dps",
+            "p2": "DEMIGOD |p2flag=au|pos2=dps",
+            "p3": "Mini|p3link=Mini (Australian Player) |p3flag=au|pos3=flex",
+            "p4": "Loon |p4flag=au|pos4=tank",
+            "p5": "Fractured |p5flag=au|pos5=sup",
+            "p6": "Kairu |p6flag=nz|pos6=sup",
+            "p7": "tilam |p7flag=nz|pos7=flex",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (7)"
+        },
+        {
+            "team": "Belle Epoque",
+            "p1": "Camskiez |p1flag=au|pos1=dps",
+            "p2": "EDward |p2flag=|pos2=sup",
+            "p3": "Ackyyy |p3flag=|pos3=sup",
+            "p4": "Yulian |p4flag=|pos4=",
+            "p5": "Sharky |p5flag=|pos5=",
+            "p6": "Tef |p6flag=|pos6=",
+            "p7": "Vaks |p7flag=|pos7=",
+            "p8": "sneakysnake |p8flag=|pos8=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (8)"
+        },
+        {
+            "team": "No Hero Limit",
+            "p1": "Proxy |p1flag=au|pos1=dps",
+            "p2": "DankKnight|p2link=Dank |p2flag=|pos2=tank",
+            "p3": "Razorfish |p3flag=|pos3=sup",
+            "p4": "Ownage |p4flag=|pos4=",
+            "p5": "TallyCat1 |p5flag=|pos5=",
+            "p6": "SubRed |p6flag=|pos6=",
+            "p7": "Aimless |p7flag=|pos7=",
+            "p8": "Lucher |p8flag=|pos8=",
+            "p9": "Yish |p9flag=|pos9=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (9)"
+        },
+        {
+            "team": "thanks blue",
+            "p1": "lenzo |p1flag=|pos1=",
+            "p2": "MentalBoom |p2flag=|pos2=",
+            "p3": "Booberella |p3flag=|pos3=",
+            "p4": "sadboy |p4flag=|pos4=",
+            "p5": "\u3066\u3093\u304b\u3059 |p5flag=|pos5=",
+            "p6": "phrax |p6flag=|pos6=",
+            "p7": "F0R |p7flag=|pos7=",
+            "p8": "mowe |p8flag=|pos8=",
+            "p9": "dogo |p9flag=|pos9=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (9)"
+        },
+        {
+            "team": "MAWF BLACK",
+            "p1": "EFFINGninja |p1flag=au|pos1=dps",
+            "p2": "Blur|p2link=Blur (australian player) |p2flag=au|pos2=dps",
+            "p3": "StrikerAUS |p3flag=au|pos3=dps",
+            "p4": "Schreudz |p4flag=au|pos4=dps",
+            "p5": "H3xnan0 |p5flag=au|pos5=tank",
+            "p6": "Chikenlips |p6flag=|pos6=tank",
+            "p7": "Nezzy |p7flag=au|pos7=sup",
+            "p8": "Kea |p8flag=|pos8=sup",
+            "p9": "noobynoob2 |p9flag=|pos9=flex",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (11)"
+        },
+        {
+            "team": "FoulPlay Basilisk",
+            "p1": "Arch |p1flag=au|pos1=dps",
+            "p2": "SinglePixel |p2flag=au|pos2=dps",
+            "p3": "Leftoverz |p3flag=au|pos3=dps",
+            "p4": "Mag |p4flag=au|pos4=tank|p4link=Mag (Australian player)",
+            "p5": "ferriberri |p5flag=au|pos5=tank",
+            "p6": "RoyalEskimo |p6flag=au|pos6=sup",
+            "p7": "fpsFrisco |p7flag=au|pos7=sup",
+            "c": "Ziggy |cflag=au",
+            "qualifier": "Regular Season (12)"
+        },
+        {
+            "team": "Paradigm Shift",
+            "p1": "RDPolarity |p1flag=au|pos1=dps",
+            "p2": "Neuu |p2flag=au|pos2=dps",
+            "p3": "AppleSauCe |p3flag=au|pos3=dps",
+            "p4": "DCbolt |p4flag=au|pos4=tank",
+            "p5": "FiLeZekk |p5flag=au|pos5=tank",
+            "p6": "mightyboy |p6flag=au|pos6=sup",
+            "p7": "Quinlan |p7flag=au|pos7=sup",
+            "p8": "Deperny |p8flag=au|pos8=flex",
+            "p9": "Burtlan |p9flag=au|pos9=sup",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (13)"
+        },
+        {
+            "team": "NoC Academy",
+            "p1": "Yellowspray |p1flag=nz|pos1=sup",
+            "p2": "Johnnyboii |p2flag=|pos2=",
+            "p3": "TheLisGiven |p3flag=|pos3=",
+            "p4": "Elysi |p4flag=|pos4=",
+            "p5": "Trainwreck |p5flag=|pos5=",
+            "p6": "TopSpeed |p6flag=|pos6=",
+            "p7": "Vizra |p7flag=|pos7=",
+            "p8": "izjust4fun |p8flag=|pos8=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (14)"
+        },
+        {
+            "team": "Cascade",
+            "p1": "Jzx |p1flag=au|pos1=dps",
+            "p2": "Zetzal |p2flag=au|pos2=dps",
+            "p3": "Sokimon |p3flag=au|pos3=flex",
+            "p4": "RedMage |p4flag=au|pos4=tank",
+            "p5": "ZephA |p5flag=au|pos5=tank",
+            "p6": "ZestyLemons |p6flag=au|pos6=sup",
+            "p7": "Onihime |p7flag=au|pos7=sup",
+            "p8": "Denx |p8flag=nz|pos8=flex",
+            "p9": "Mitdy |p9flag=au|pos9=sup",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (15)"
+        },
+        {
+            "team": "Peeps Angels",
+            "p1": "Yui |p1flag=au|pos1=dps",
+            "p2": "Smiley |p2flag=au|pos2=dps |p2link=Smiley (Australian player)",
+            "p3": "Cazzette|p3flag=nz|pos3=sup",
+            "p4": "Deo |p4flag=au|pos4=tank",
+            "p5": "Basedgod |p5flag=au|pos5=sup",
+            "p6": "Littlebomm |p6flag=au|pos6=sup",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (16)"
+        },
+        {
+            "team": "Legio X Equestris",
+            "p1": "I4gotMyName |p1flag=au|pos1=dps",
+            "p2": "Conduct |p2flag=au|pos2=dps",
+            "p3": "Vertigo |p3flag=au|pos3=dps",
+            "p4": "nEwmu |p4flag=au|pos4=flex",
+            "p5": "WannaDie |p5flag=au|pos5=flex",
+            "p6": "nutellasmuj |p6flag=au|pos6=tank",
+            "p7": "Shockwave |p7flag=au|pos7=tank",
+            "p8": "Kaeso |p8flag=au|pos8=sup",
+            "p9": "tobajuice |p9flag=au|pos9=sup",
+            "p10": "Bedridden |p10flag=au|pos10=sup",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (16)"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "no hero limit",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary}}",
+            "key": "R1D1",
+            "team1": "thanks blue",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "legio x equestris",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary}}",
+            "key": "R1D1",
+            "team1": "peeps angels",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "peeps angels",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "bin chickens",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "thanks blue",
+            "score2": "2",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "belle epoque",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "paradigm shift",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "paper plane",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "foulplay basilisk",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "unknown (australian team)",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "cascade",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D9",
+            "team1": "teengrazpers",
+            "score1": "2",
+            "win1": ""
+        },
+        {
+            "team2": "no hero limit",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "reflex",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "noc academy",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "interstella",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "mawf black",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D15",
+            "team1": "pharmercy harem",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "belle epoque",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "peeps angels",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "unknown (australian team)",
+            "score2": "2",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "paradigm shift",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "reflex",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "cascade",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "pharmercy harem",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "interstella",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "paradigm shift",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "peeps angels",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "interstella",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W3",
+            "team1": "cascade",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "interstella",
+            "score2": "3",
+            "win2": "1",
+            "key": "R6W1",
+            "team1": "peeps angels",
+            "score1": "2",
+            "win1": ""
+        },
+        {
+            "team2": "bin chickens",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D17",
+            "team1": "thanks blue",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "paper plane",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D19",
+            "team1": "foulplay basilisk",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "teengrazpers",
+            "score2": "3",
+            "win2": "1",
+            "key": "R1D21",
+            "team1": "no hero limit",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "noc academy",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D23",
+            "team1": "mawf black",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "bin chickens",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "pharmercy harem",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "foulplay basilisk",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D2",
+            "team1": "reflex",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "teengrazpers",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2D3",
+            "team1": "unknown (australian team)",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "mawf black",
+            "score2": "2",
+            "win2": "",
+            "key": "R2D4",
+            "team1": "belle epoque",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "reflex",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "bin chickens",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "belle epoque",
+            "score2": "2",
+            "win2": "",
+            "key": "R3W3",
+            "team1": "teengrazpers",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "bin chickens",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "paradigm shift",
+            "score1": "2",
+            "win1": ""
+        },
+        {
+            "team2": "teengrazpers",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4D2",
+            "team1": "cascade",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "teengrazpers",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "bin chickens",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "bin chickens",
+            "score2": "3",
+            "win2": "1",
+            "key": "R6D1",
+            "team1": "peeps angels",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "comment": "Winners' bracket advantage of 1 game",
+            "team2": "bin chickens",
+            "score2": "3",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R7W1",
+            "team1": "interstella",
+            "score1": "4",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

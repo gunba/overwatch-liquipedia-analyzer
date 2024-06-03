@@ -1,0 +1,152 @@
+{
+    "tournament_info": [
+        {
+            "name": "Oserv OW Tour #2 - Qualifier 1",
+            "shortname": "OW Tour #2 Q1",
+            "image": "Oserv esports logo.png",
+            "series": "Oserv OW Tour",
+            "abbreviation": "OOWT",
+            "icon": "Oserv esports logo std.png",
+            "tickername": "Oserv OW Tour #2 Q1",
+            "organizer": "Oserv eSport",
+            "sponsor": "[http://www.xlr8gam1ng.com/ XLR8]",
+            "country": "Europe",
+            "type": "Online",
+            "format": "Single Elimination",
+            "date": "2018-11-08",
+            "liquipediatier": "5|liquipediatiertype=Qualifier",
+            "web": "https://battlefy.com/oservesport",
+            "twitch": "oservtv",
+            "twitter": "OservEsport",
+            "bracket": "https://battlefy.com/oservesport/oserv-ow-community-tour-2-q1/5bcc70b64f318403dcb53025/info",
+            "team_number": "35"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "wheelchair",
+            "p1": "Apples|p1flag=|pos1=",
+            "p2": "Nathanrun5|p2flag=|pos2=",
+            "p3": "srdrain|p3flag=|pos3=",
+            "p4": "LordEmil|p4flag=|pos4=",
+            "p5": "egoistcat|p5flag=uk|pos5=",
+            "p6": "Peppermint|p6flag=|pos6=",
+            "p7": "JoSnow|p7lag=|pos7=",
+            "p8": "\u00cdMP\u0126\u00cd\u013f|p8lag=|pos8="
+        },
+        {
+            "team": "Animals Legacy",
+            "p1": "impactless|p1flag=|pos1=",
+            "p2": "Appe|p2flag=|pos2=",
+            "p3": "EzS|p3flag=|pos3=",
+            "p4": "Xoltan|p4flag=fr|pos4=",
+            "p5": "KroxZ|p5flag=|pos5=",
+            "p6": "KroxZii|p6flag=|pos6=",
+            "p7": "A.H BaNisheD|p7flag=|pos7=",
+            "t2title": "Staff",
+            "t2c1": "YounaCha|t2c1flag=fr|t2c1pos=Manager"
+        },
+        {
+            "team": "Gamers League",
+            "p1": "Manoxi|p1flag=fr|pos1=",
+            "p2": "Huge|p2flag=fr|pos2=",
+            "p3": "pierrg|p3flag=fr|pos3=",
+            "p4": "Citron|p4flag=fr|pos4=",
+            "p5": "TsuN\u00e0|p5flag=fr|pos5=",
+            "p6": "hipeur|p6flag=fr|pos6="
+        },
+        {
+            "team": "Knights of the Round",
+            "p1": "Lelouch|p1flag=|pos1=",
+            "p2": "lolle|p2flag=|pos2=",
+            "p3": "Nesh|p3flag=|pos3=",
+            "p4": "Andrik21|p4flag=|pos4=",
+            "p5": "Luke|p5flag=it|pos5=",
+            "p6": "Meh|p6flag=|pos6=",
+            "p7": "XREY|p7flag=|pos7=",
+            "p8": "Rey|p8flag=|pos8=",
+            "p9": "Shoote|p9flag=|pos9="
+        },
+        {
+            "team": "Lausanne-Sport eSports",
+            "p1": "Kiba|p1flag=|pos1=",
+            "p2": "Jacquard|p2flag=fr|pos2=",
+            "p3": "Torrix|p3flag=ch|pos3=",
+            "p4": "inSTAYY|p4flag=|pos4=",
+            "p5": "Flow|p5flag=|pos5=",
+            "p6": "Khirya|p6flag=|pos6="
+        },
+        {
+            "team": "RQ Gaming",
+            "p1": "iRE|p1flag=|pos1=",
+            "p2": "Drexx|p2flag=|pos2=",
+            "p3": "AdderallORC|p3flag=|pos3=",
+            "p4": "SoaD|p4flag=|pos4=",
+            "p5": "CerealBoy|p5flag=|pos5=",
+            "p6": "BRAVESHINE|p6flag=|pos6=",
+            "p7": "iReSwire|p7flag=|pos7=",
+            "p8": "ScoutsMom|p8flag=|pos8="
+        },
+        {
+            "team": "Sacrebleu Blanc Rouge",
+            "p1": "ezel|p1flag=fr|pos1=tank",
+            "p2": "Teemo|p2flag=fr|pos2=tank",
+            "p3": "sstarb0i|p3flag=fr|pos3=sup",
+            "p4": "OniBy|p4flag=fr|pos4=dps",
+            "p5": "Deylen|p5flag=fr|pos5=sup",
+            "p6": "hakan|p6flag=fr|pos6=dps",
+            "t2title": "Staff",
+            "t2c1": "piotreza|t2c1flag=fr|t2c1pos=coach"
+        },
+        {
+            "team": "The Den",
+            "p1": "MTDESTROY|p1flag=fr|pos1=tank",
+            "p2": "Twelve|p2flag=fr|pos2=dps",
+            "p3": "JA\u00cfX|p3flag=fr|pos3=support",
+            "p4": "CaP|p4flag=fr|pos4=",
+            "p5": "Dagobert|p5flag=fr|pos5=",
+            "p6": "NonneTrapue|p6flag=fr|pos6=",
+            "t2title": "Staff",
+            "t2c1": "Sha|t2c1flag=fr|t2c1pos=Manager"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "the den",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "animals legacy",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "the den",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "animals legacy",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "sacrebleu blanc rouge",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "animals legacy",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "the den",
+            "score2": "1",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "gamers league",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

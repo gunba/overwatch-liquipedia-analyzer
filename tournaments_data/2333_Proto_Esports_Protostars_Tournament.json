@@ -1,0 +1,2727 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Proto Esports Protostars",
+            "shortname": "Proto Esports Protostars",
+            "tickername": "Proto Esports Protostars",
+            "icon": "",
+            "image": "",
+            "series": "",
+            "abbreviation": "",
+            "organizer": "Proto Esports",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Europe",
+            "game": "overwatch2",
+            "format": "Group Stage<br>Single Elimination",
+            "localcurrency": "EUR",
+            "prizepool": "100",
+            "sdate": "2023-10-21",
+            "edate": "2023-11-05",
+            "twitter": "Proto__ESports",
+            "web": "",
+            "twitch": "",
+            "discord": "6T5VCgMqw5",
+            "youtube": "",
+            "rulebook": "https://docs.google.com/document/d/1AyUbYNd8KbVELqqQ2lCNhRs5UjyOZe7fC-kljAWv-u4/edit?usp=sharing",
+            "bracket": "https://challonge.com/Proto_Esports/bracket",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "C\u2084N\u2082",
+            "p1": "wys",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "hdzgz",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "Swirl",
+            "p3flag": "dk",
+            "pos3": "dps",
+            "p4": "Machu",
+            "p4flag": "fi",
+            "pos4": "tank",
+            "p5": "Baxter",
+            "p5flag": "dk",
+            "pos5": "sup",
+            "p6": "erylio",
+            "p6flag": "uk",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "SpikeGaming",
+            "t2c1flag": "de",
+            "t2c1pos": "coach",
+            "t2c2": "TweeApollo",
+            "t2c2flag": "no",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "YS Twice",
+            "p1": "Grimlock",
+            "p1flag": "dk",
+            "pos1": "dps",
+            "p2": "Soya",
+            "p2flag": "kw",
+            "pos2": "dps",
+            "p3": "Alphaa",
+            "p3flag": "pt",
+            "pos3": "tank",
+            "p4": "Yonas",
+            "p4flag": "de",
+            "pos4": "tank",
+            "p5": "Dizzel",
+            "p5flag": "pt",
+            "pos5": "support",
+            "p6": "Jinje28",
+            "p6flag": "de",
+            "pos6": "support",
+            "p7": "MUP",
+            "p7flag": "pt",
+            "pos7": "support",
+            "t2title": "Staff",
+            "t2c1": "oworidt",
+            "t2c1flag": "de",
+            "t2c1pos": "coach",
+            "t2c2": "Alphaa",
+            "t2c2flag": "pt",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "CLsK Esports",
+            "p1": "p0lis",
+            "p1flag": "pt",
+            "pos1": "dps",
+            "p2": "wittyweeb",
+            "p2flag": "lv",
+            "pos2": "dps",
+            "p3": "Monkeboi",
+            "p3flag": "dk",
+            "pos3": "tank",
+            "p4": "kermy",
+            "p4flag": "pl",
+            "pos4": "support",
+            "p5": "nayzerr",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "cajan",
+            "t2c1flag": "us",
+            "t2c1pos": "head coach",
+            "t2c2": "gumi",
+            "t2c2flag": "us",
+            "t2c2pos": "assistant coach",
+            "t2c3": "Clutch",
+            "t2c3flag": "uk",
+            "t2c3pos": "manager"
+        },
+        {
+            "team": "VA Valkyries",
+            "p1": "Mighty",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "Jesse",
+            "p2flag": "fi",
+            "pos2": "dps",
+            "p3": "Fireman",
+            "p3flag": "dk",
+            "pos3": "tank",
+            "p4": "Smiley",
+            "p4flag": "za",
+            "pos4": "supp",
+            "p4link": "Smiley (South African Player)",
+            "p5": "Timi",
+            "p5flag": "fr",
+            "pos5": "supp",
+            "t2title": "Staff",
+            "t2c1": "Nekho",
+            "t2c1flag": "fr",
+            "t2c1pos": "manager",
+            "t3title": "Substitute",
+            "t3c1": "Ruisu",
+            "t3c1flag": "de",
+            "t3c1pos": "dps",
+            "t3c2": "Creed",
+            "t3c2flag": "nl",
+            "t3c2pos": "tank",
+            "t3c2link": "Creed (Dutch Player)",
+            "t3c3": "Lini",
+            "t3c3flag": "de",
+            "t3c3pos": "supp"
+        },
+        {
+            "team": "55 esports",
+            "p1": "slowlyaim",
+            "p1flag": "uae",
+            "pos1": "dps",
+            "p2": "kenma",
+            "p2flag": "sa",
+            "pos2": "dps",
+            "p3": "NAGI",
+            "p3flag": "kw",
+            "pos3": "tank",
+            "p4": "SO",
+            "p4flag": "sa",
+            "pos4": "support",
+            "p5": "TRIXY",
+            "p5flag": "sa",
+            "pos5": "support",
+            "t2title": "Staff",
+            "t2c1": "NAGI",
+            "t2c1flag": "kw",
+            "t2c1pos": "manager",
+            "t3title": "Substitute",
+            "t3p1": "Sloth",
+            "t3p1flag": "sa",
+            "t3p1pos": "dps",
+            "t3p1link": "Sloth (Saudi Arabian Player)",
+            "t3p2": "InTheZone",
+            "t3p2flag": "kw",
+            "t3p2pos": "flex"
+        },
+        {
+            "team": "Rock Bottom",
+            "p1": "joe",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "K3V1N",
+            "p2flag": "no",
+            "pos2": "dps",
+            "p3": "djwhack03",
+            "p3flag": "ru",
+            "pos3": "tank",
+            "p4": "Zeus",
+            "p4flag": "se",
+            "pos4": "support",
+            "p5": "Vyper",
+            "p5flag": "uk",
+            "pos5": "support",
+            "t2title": "Staff",
+            "t2c1": "TweeApollo",
+            "t2c1flag": "no",
+            "t2c1pos": "manager",
+            "t2c2": "Goldbooded",
+            "t2c2flag": "de",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "Nebula",
+            "p1": "HANNNE",
+            "p1flag": "se",
+            "pos1": "dps",
+            "p2": "pihkal",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "vicler",
+            "p3flag": "se",
+            "pos3": "tank",
+            "p4": "balloonnerism",
+            "p4flag": "uk",
+            "pos4": "support",
+            "p5": "Grebol",
+            "p5flag": "nl",
+            "pos5": "support",
+            "t2title": "Staff",
+            "t2c1": "HANNNE",
+            "t2c1flag": "se",
+            "t2c1pos": "manager",
+            "t3title": "Substitute",
+            "t3c1": "TBD",
+            "t3c1flag": "",
+            "t3c1pos": "dps"
+        },
+        {
+            "team": "Xeno",
+            "p1": "Adam",
+            "p1flag": "nl",
+            "pos1": "dps",
+            "p1link": "Adam (Dutch Player)",
+            "p2": "Bishco",
+            "p2flag": "it",
+            "pos2": "dps",
+            "p3": "xineo",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Dessy",
+            "p4flag": "uk",
+            "pos4": "support",
+            "p5": "DirtMaster",
+            "p5flag": "no",
+            "pos5": "support",
+            "t2title": "Staff",
+            "t2c1": "Dessy",
+            "t2c1flag": "uk",
+            "t2c1pos": "manager",
+            "t3title": "Substitute",
+            "t3c1": "MisterFish",
+            "t3c1flag": "ch",
+            "t3c1pos": "tank",
+            "t3c2": "Foxdabox",
+            "t3c2flag": "fr",
+            "t3c2pos": "tank",
+            "t3c3": "Ture",
+            "t3c3flag": "se",
+            "t3c3pos": "supp"
+        },
+        {
+            "team": "Ag Vikings",
+            "p1": "EllieGiant",
+            "p1flag": "nl",
+            "pos1": "dps",
+            "p2": "Dingyr",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "TGAX",
+            "p3flag": "uk",
+            "pos3": "tank",
+            "p4": "FemBoyNiii",
+            "p4flag": "de",
+            "pos4": "support",
+            "p5": "bloom",
+            "p5flag": "de",
+            "pos5": "support",
+            "t2title": "Staff",
+            "t2c1": "F4vor",
+            "t2c1flag": "dk",
+            "t2c1pos": "manager",
+            "t3title": "Substitute",
+            "t3c1": "lojo",
+            "t3c1flag": "uk",
+            "t3c1pos": "dps"
+        },
+        {
+            "team": "Flexodiax",
+            "p1": "Tricky",
+            "p1flag": "dk",
+            "pos1": "dps",
+            "p2": "Kurama",
+            "p2flag": "pt",
+            "pos2": "dps",
+            "p3": "Lunar",
+            "p3flag": "se",
+            "pos3": "tank",
+            "p4": "Reisu",
+            "p4flag": "uk",
+            "pos4": "support",
+            "p5": "RodFD",
+            "p5flag": "pt",
+            "pos5": "support",
+            "t2title": "Staff",
+            "t2c1": "RedmanFire",
+            "t2c1flag": "de",
+            "t2c1pos": "manager",
+            "t3title": "Substitute",
+            "t3c1": "RedmanFire",
+            "t3c1flag": "de",
+            "t3c1pos": "sup"
+        },
+        {
+            "team": "Soul Crushers",
+            "p1": "TOXIC",
+            "p1flag": "sy",
+            "pos1": "dps",
+            "p2": "Sui",
+            "p2flag": "sy",
+            "pos2": "dps",
+            "p3": "ACE",
+            "p3flag": "sa",
+            "pos3": "tank",
+            "p3link": "ACE (Saudi Arabian Player)",
+            "p4": "S\u00f8ur",
+            "p4flag": "uk",
+            "pos4": "support",
+            "p5": "FREEY",
+            "p5flag": "fr",
+            "pos5": "support",
+            "p6": "Catearsis",
+            "p6flag": "lv",
+            "pos6": "support",
+            "t2title": "Staff",
+            "t2c1": "Average",
+            "t2c1flag": "us",
+            "t2c1pos": "coach",
+            "t3title": "Substitute",
+            "t3c1": "Google",
+            "t3c1flag": "uk",
+            "t3c1pos": "dps",
+            "t3c1link": "Google (British player)"
+        },
+        {
+            "team": "8IGHT",
+            "p1": "Tryze",
+            "p1flag": "no",
+            "pos1": "dps",
+            "p2": "Chief",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "Neeeeed",
+            "p3flag": "dk",
+            "pos3": "tank",
+            "p4": "Rasu",
+            "p4flag": "se",
+            "pos4": "tank",
+            "p5": "Mackan",
+            "p5flag": "se",
+            "pos5": "support",
+            "p6": "Kasumii",
+            "p6flag": "nl",
+            "pos6": "support",
+            "t2title": "Staff",
+            "t2c1": "TweeApollo",
+            "t2c1flag": "no",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Sublime Snowflakes",
+            "p1": "panther",
+            "p1flag": "se",
+            "pos1": "dps",
+            "p2": "elenium",
+            "p2flag": "sy",
+            "pos2": "dps",
+            "p3": "frost",
+            "p3flag": "uk",
+            "pos3": "tank",
+            "p3link": "frost (British Player)",
+            "p4": "chibbi",
+            "p4flag": "uk",
+            "pos4": "support",
+            "p5": "luna",
+            "p5flag": "de",
+            "pos5": "support",
+            "p5link": "Luna (German Player)",
+            "t2title": "Staff",
+            "t2c1": "",
+            "t2c1flag": "",
+            "t2c1pos": "manager",
+            "t3title": "Substitute",
+            "t3c1": "Joe",
+            "t3c1flag": "uk",
+            "t3c1pos": "tank",
+            "t3c2": "Grisly",
+            "t3c2flag": "uk",
+            "t3c2pos": "supp"
+        },
+        {
+            "team": "Sublime Typhoon",
+            "p1": "fairy",
+            "p1flag": "be",
+            "pos1": "dps",
+            "p2": "prodigy",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "obo",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "buzz",
+            "p4flag": "uk",
+            "pos4": "support",
+            "p5": "less",
+            "p5flag": "uk",
+            "pos5": "support",
+            "t2title": "Staff",
+            "t2c1": "",
+            "t2c1flag": "",
+            "t2c1pos": "manager",
+            "t3title": "Substitute",
+            "t3c1": "Joe",
+            "t3c1flag": "uk",
+            "t3c1pos": "tank"
+        },
+        {
+            "team": "Bohemia Prime",
+            "p1": "akvi",
+            "p1flag": "cz",
+            "pos1": "dps",
+            "p2": "Tatroun",
+            "p2flag": "cz",
+            "pos2": "dps",
+            "p3": "groka",
+            "p3flag": "cz",
+            "pos3": "tank",
+            "p4": "medak",
+            "p4flag": "cz",
+            "pos4": "support",
+            "p5": "Katt0s",
+            "p5flag": "cz",
+            "pos5": "support",
+            "t2title": "Staff",
+            "t2c1": "Katt0s",
+            "t2c1flag": "cz",
+            "t2c1pos": "manager",
+            "t3title": "Substitute",
+            "t3c1": "MAFRO",
+            "t3c1flag": "cz",
+            "t3c1pos": "dps",
+            "t3c2": "Dandy",
+            "t3c2flag": "cz",
+            "t3c2pos": "supp"
+        },
+        {
+            "team": "Anaconda",
+            "p1": "Timosoini",
+            "p1flag": "fi",
+            "pos1": "dps",
+            "p2": "mewer",
+            "p2flag": "pl",
+            "pos2": "dps",
+            "p3": "Ossi",
+            "p3flag": "fi",
+            "pos3": "tank",
+            "p4": "Verit",
+            "p4flag": "fi",
+            "pos4": "support",
+            "p5": "unkeempt",
+            "p5flag": "se",
+            "pos5": "support",
+            "t2title": "Staff",
+            "t2c1": "Virtuzz",
+            "t2c1flag": "pl",
+            "t2c1pos": "manager",
+            "t3title": "Substitute",
+            "t3c1": "Spezap",
+            "t3c1flag": "se",
+            "t3c1pos": "supp"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "October 21, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Anaconda",
+            "opponent1_score": 2,
+            "opponent2": "Xeno",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "October 21, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "C\u2084N\u2082",
+            "opponent1_score": 2,
+            "opponent2": "Bohemia Prime",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "5",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "October 21, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "55 Esports",
+            "opponent1_score": 0,
+            "opponent2": "Rock Bottom",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Shambali",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "October 21, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "8IGHT",
+            "opponent1_score": 1,
+            "opponent2": "Flexodiax",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "October 22, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rock Bottom",
+            "opponent1_score": 1,
+            "opponent2": "8IGHT",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "October 22, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Flexodiax",
+            "opponent1_score": 1,
+            "opponent2": "Anaconda",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "5",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M6="
+        },
+        {
+            "date": "October 22, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bohemia Prime",
+            "opponent1_score": 1,
+            "opponent2": "55 Esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M7="
+        },
+        {
+            "date": "October 22, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Xeno",
+            "opponent1_score": 0,
+            "opponent2": "C\u2084N\u2082",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M8="
+        },
+        {
+            "date": "October 22, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "8IGHT",
+            "opponent1_score": 2,
+            "opponent2": "Bohemia Prime",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "M9="
+        },
+        {
+            "date": "October 22, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "55 Esports",
+            "opponent1_score": 2,
+            "opponent2": "Xeno",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M10="
+        },
+        {
+            "date": "October 22, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Anaconda",
+            "opponent1_score": 0,
+            "opponent2": "C\u2084N\u2082",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M11="
+        },
+        {
+            "date": "October 22, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Flexodiax",
+            "opponent1_score": 2,
+            "opponent2": "Rock Bottom",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M12="
+        },
+        {
+            "date": "October 28, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "C\u2084N\u2082",
+            "opponent1_score": 2,
+            "opponent2": "55 Esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M13="
+        },
+        {
+            "date": "October 25, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bohemia Prime",
+            "opponent1_score": 0,
+            "opponent2": "Flexodiax",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M14="
+        },
+        {
+            "date": "October 28, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Xeno",
+            "opponent1_score": 1,
+            "opponent2": "8IGHT",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M15="
+        },
+        {
+            "date": "October 28, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rock Bottom",
+            "opponent1_score": 1,
+            "opponent2": "Anaconda",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M16="
+        },
+        {
+            "date": "October 28, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rock Bottom",
+            "opponent1_score": 2,
+            "opponent2": "Bohemia Prime",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M17="
+        },
+        {
+            "date": "October 28, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "8IGHT",
+            "opponent1_score": 0,
+            "opponent2": "C\u2084N\u2082",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M18="
+        },
+        {
+            "date": "October 28, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Flexodiax",
+            "opponent1_score": 2,
+            "opponent2": "Xeno",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "M19="
+        },
+        {
+            "date": "October 28, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Anaconda",
+            "opponent1_score": 2,
+            "opponent2": "55 Esports",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M20="
+        },
+        {
+            "date": "October 25, 2023 - 21:15",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "C\u2084N\u2082",
+            "opponent1_score": 0,
+            "opponent2": "Flexodiax",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M21="
+        },
+        {
+            "date": "October 29, 2023 - 18:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Xeno",
+            "opponent1_score": 0,
+            "opponent2": "Rock Bottom",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M22="
+        },
+        {
+            "date": "October 29, 2023 - 18:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bohemia Prime",
+            "opponent1_score": 0,
+            "opponent2": "Anaconda",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M23="
+        },
+        {
+            "date": "October 29, 2023 - 18:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "55 Esports",
+            "opponent1_score": 2,
+            "opponent2": "8IGHT",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M24="
+        },
+        {
+            "date": "October 29, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Flexodiax",
+            "opponent1_score": 2,
+            "opponent2": "55 Esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M25="
+        },
+        {
+            "date": "October 29, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Anaconda",
+            "opponent1_score": 2,
+            "opponent2": "8IGHT",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M26="
+        },
+        {
+            "date": "October 29, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rock Bottom",
+            "opponent1_score": 0,
+            "opponent2": "C\u2084N\u2082",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M27="
+        },
+        {
+            "date": "October 29, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bohemia Prime",
+            "opponent1_score": 0,
+            "opponent2": "Xeno",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M28="
+        },
+        {
+            "bestof": "3",
+            "date": "October 21, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "VA Valkyries",
+            "opponent1_score": 0,
+            "opponent2": "ClsK Esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "5",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "October 21, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Nebula|score=",
+            "opponent2": "Soul Crushers|score=",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Shambali",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "October 21, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sublime Snowflakes",
+            "opponent1_score": 1,
+            "opponent2": "YS Twice",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "5",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "October 21, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sublime Typhoon|score=W",
+            "opponent2": "AG Vikings|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "October 22, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "YS Twice|score=W",
+            "opponent2": "Sublime Typhoon|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "October 22, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "AG Vikings|score=FF",
+            "opponent2": "VA Valkyries|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "date": "October 22, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Soul Crushers",
+            "opponent1_score": 2,
+            "opponent2": "Sublime Snowflakes",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M7="
+        },
+        {
+            "date": "October 22, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "CLsK Esports",
+            "opponent1_score": 2,
+            "opponent2": "Nebula",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M8="
+        },
+        {
+            "date": "October 22, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sublime Typhoon|score=FF",
+            "opponent2": "Soul Crushers|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M9="
+        },
+        {
+            "date": "October 22, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sublime Snowflakes",
+            "opponent1_score": 0,
+            "opponent2": "CLsK Esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M10="
+        },
+        {
+            "date": "October 22, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "VA Valkyries",
+            "opponent1_score": 2,
+            "opponent2": "Nebula",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M11="
+        },
+        {
+            "date": "October 22, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "AG Vikings|score=FF",
+            "opponent2": "YS Twice|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M12="
+        },
+        {
+            "date": "October 28, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Nebula",
+            "opponent1_score": 2,
+            "opponent2": "Sublime Snowflakes",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M13="
+        },
+        {
+            "date": "October 28, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Soul Crushers|score=W",
+            "opponent2": "AG Vikings|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M14="
+        },
+        {
+            "date": "October 28, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "CLsK Esports|score=W",
+            "opponent2": "Sublime Typhoon|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M15="
+        },
+        {
+            "date": "October 28, 2023 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "YS Twice",
+            "opponent1_score": 0,
+            "opponent2": "VA Valkyries",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M16="
+        },
+        {
+            "date": "October 28, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "YS Twice",
+            "opponent1_score": 0,
+            "opponent2": "Soul Crushers",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "3",
+                "winner": ""
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M17="
+        },
+        {
+            "date": "October 28, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sublime Typhoon|score=FF",
+            "opponent2": "Nebula|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M18="
+        },
+        {
+            "date": "October 28, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "AG Vikings|score=FF",
+            "opponent2": "CLsK Esports|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M19="
+        },
+        {
+            "date": "October 28, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "VA Valkyries",
+            "opponent1_score": 2,
+            "opponent2": "Sublime Snowflakes",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M20="
+        },
+        {
+            "date": "October 29, 2023 - 18:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Nebula|score=W",
+            "opponent2": "AG Vikings|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M21="
+        },
+        {
+            "date": "October 31, 2023 - 18:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "CLsK Esports",
+            "opponent1_score": 0,
+            "opponent2": "YS Twice",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M22="
+        },
+        {
+            "date": "October 29, 2023 - 18:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Soul Crushers",
+            "opponent1_score": 2,
+            "opponent2": "VA Valkyries",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M23="
+        },
+        {
+            "date": "October 29, 2023 - 18:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sublime Snowflakes|score=W",
+            "opponent2": "Sublime Typhoon|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M24="
+        },
+        {
+            "date": "October 29, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "AG Vikings|score=FF",
+            "opponent2": "Sublime Snowflakes|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M25="
+        },
+        {
+            "date": "October 29, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "VA Valkyries|score=W",
+            "opponent2": "Sublime Typhoon|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M26="
+        },
+        {
+            "date": "October 29, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "YS Twice",
+            "opponent1_score": 2,
+            "opponent2": "Nebula",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M27="
+        },
+        {
+            "date": "October 29, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Soul Crushers",
+            "opponent1_score": 0,
+            "opponent2": "CLsK Esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M28="
+        },
+        {
+            "bestof": "5",
+            "date": "November 04, 2023 - 16:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Va Valkyries",
+            "opponent1_score": 2,
+            "opponent2": "55 esports",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "optional": "R1M1="
+        },
+        {
+            "bestof": "5",
+            "date": "November 04, 2023 - 16:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Anaconda",
+            "opponent1_score": 3,
+            "opponent2": "Xeno",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "bestof": "5",
+            "date": "November 04, 2023 - 16:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "YS Twice",
+            "opponent1_score": 0,
+            "opponent2": "8IGHT",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "bestof": "5",
+            "date": "November 04, 2023 - 18:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Flexodiax",
+            "opponent1_score": 3,
+            "opponent2": "55 esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "bestof": "5",
+            "date": "November 04, 2023 - 18:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Soul Crushers",
+            "opponent1_score": 0,
+            "opponent2": "Anaconda",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "November 04, 2023 - 18:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "C\u2084N\u2082",
+            "opponent1_score": 3,
+            "opponent2": "Rock Bottom",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M3="
+        },
+        {
+            "bestof": "5",
+            "date": "November 04, 2023 - 18:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "CLsK Esports",
+            "opponent1_score": 2,
+            "opponent2": "8IGHT",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "5",
+            "date": "November 05, 2023 - 15:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Flexodiax",
+            "opponent1_score": 3,
+            "opponent2": "Anaconda",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "bestof": "5",
+            "date": "November 05, 2023 - 15:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "C\u2084N\u2082",
+            "opponent1_score": 0,
+            "opponent2": "8IGHT",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "7",
+            "date": "November 05, 2023 - 17:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Flexodiax",
+            "opponent1_score": 4,
+            "opponent2": "8IGHT",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R4M1="
+        }
+    ]
+}

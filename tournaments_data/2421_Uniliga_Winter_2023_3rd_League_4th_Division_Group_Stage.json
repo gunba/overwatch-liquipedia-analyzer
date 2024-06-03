@@ -1,0 +1,741 @@
+{
+    "tournament_info": [
+        {
+            "name": "Uniliga - Winter 2023",
+            "shortname": "Uniliga Winter '23",
+            "image": "University eSports Germany.png",
+            "series": "uniliga",
+            "abbreviation": "Uniliga",
+            "icon": "Uniliga_icon.png",
+            "tickername": "Uniliga",
+            "organizer": "University eSports Germany",
+            "organizer-link": "https://uniliga.gg",
+            "sponsor": "<!--TBD-->",
+            "type": "Online",
+            "country": "Germany",
+            "format": "'''Group Stage''':<br>Round Robin<br>",
+            "sdate": "2023-10-19",
+            "edate": "2023-02-29",
+            "team_number": "10",
+            "liquipediatier": "{{TierText/5}}",
+            "web": "http://uniliga.gg/ow/",
+            "twitch": "uniliga_aim",
+            "twitch2": "uniliga",
+            "rulebook": "https://www.uniliga.gg/ow-regelwerk/",
+            "bracket": "https://play.toornament.com/de/tournaments/7057369612022767616/"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "winner": "1",
+            "date": "October 25, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "UwUsaurier",
+            "opponent1_score": 3,
+            "opponent2": "HGI Amber",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "winner": "1",
+            "date": "October 25, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "1. ECF Mainhardt",
+            "opponent1_score": 3,
+            "opponent2": "Hamburger Haiground",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "optional": "M2="
+        },
+        {
+            "winner": "2",
+            "date": "October 25, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "HSK Centauri",
+            "opponent1_score": 0,
+            "opponent2": "BeK KaCAUFLUencER",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "winner": "1",
+            "date": "November 1, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "UwUsaurier",
+            "opponent1_score": 3,
+            "opponent2": "Hamburger Haiground",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "winner": "2",
+            "date": "November 1, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "HGI Amber",
+            "opponent1_score": 0,
+            "opponent2": "BeK KaCAUFLUencER",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "winner": "1",
+            "date": "November 1, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "1. ECF Mainhardt",
+            "opponent1_score": 3,
+            "opponent2": "HSK Centauri",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Controle",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "winner": "2",
+            "date": "November 8, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "UwUsaurier",
+            "opponent1_score": 0,
+            "opponent2": "BeK KaCAUFLUencER",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "winner": "1",
+            "date": "November 8, 2023 - 20:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Hamburger Haiground",
+            "opponent1_score": 3,
+            "opponent2": "HSK Centauri",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "winner": "2",
+            "date": "November 8, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "HGI Amber",
+            "opponent1_score": 2,
+            "opponent2": "1. ECF Mainhardt",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "winner": "1",
+            "date": "November 15, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "UwUsaurier",
+            "opponent1_score": 3,
+            "opponent2": "HSK Centauri",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "winner": "1",
+            "date": "November 15, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "BeK KaCAUFLUencER",
+            "opponent1_score": 3,
+            "opponent2": "1. ECF Mainhardt",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "winner": "1",
+            "date": "November 15, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Hamburger Haiground",
+            "opponent1_score": 3,
+            "opponent2": "HGI Amber",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "winner": "1",
+            "date": "November 22, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "BeK KaCAUFLUencER",
+            "opponent1_score": 3,
+            "opponent2": "Hamburger Haiground",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "winner": "1",
+            "date": "November 22, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "UwUsaurier",
+            "opponent1_score": 3,
+            "opponent2": "1. ECF Mainhardt",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "winner": "1",
+            "date": "November 22, 2023 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "HSK Centauri",
+            "opponent1_score": 3,
+            "opponent2": "HGI Amber",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        }
+    ]
+}

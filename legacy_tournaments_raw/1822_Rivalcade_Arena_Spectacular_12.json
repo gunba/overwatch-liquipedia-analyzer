@@ -1,0 +1,180 @@
+{
+    "tournament_info": [
+        {
+            "name": "Rivalcade Arena Spectacular #12",
+            "shortname": "#12",
+            "image": "Rivelcade.png",
+            "series": "Rivalcade Arena Spectacular",
+            "organizer": "Rivalcade",
+            "organizer-link": "http://rivalcades.com/",
+            "sponsor": "NZXT <br> DXRACER",
+            "type": "Online",
+            "country": "USA",
+            "format": "Single Elimination",
+            "date": "2017-01-16",
+            "prizepoolusd": "500",
+            "web": "http://rivalcades.com",
+            "twitch": "",
+            "bracket": "https://arena.razerzone.com/tournaments/details/3472/rivalcade-arena-spectacular-overwatch/brackets",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "-bird noises-",
+            "image": "",
+            "p1": "Avast|p1flag=",
+            "p2": "JAKE|p2flag=",
+            "p3": "rob420|p3flag=",
+            "p4": "super|p4flag=",
+            "p5": "voll|p5flag=",
+            "p6": "train|p6flag="
+        },
+        {
+            "team": "Nameless",
+            "image": "",
+            "p1": "Duckeyy|p1flag=ca",
+            "p2": "Gbunny|p2flag=us",
+            "p3": "LordTachyon|p3flag=us",
+            "p4": "Noobicabra|p4flag=us",
+            "p5": "PrimoD|p5flag=",
+            "p6": "Scratch|p6flag=ca"
+        },
+        {
+            "team": "Counter Logic Gaming",
+            "image": "",
+            "p1": "Hydration|p1flag=",
+            "p2": "MikadoSky|p2flag=",
+            "p3": "Miso|p3flag=",
+            "p4": "The|p4flag=",
+            "p5": "iShiny|p5flag=",
+            "p6": "waffletastic|p6flag="
+        },
+        {
+            "team": "Eanix",
+            "image": "",
+            "p1": "Del|p1flag=",
+            "p2": "Mordax|p2flag=",
+            "p3": "Octile|p3flag=us",
+            "p4": "PlasmaSnake|p4flag=us",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Really Bad Guys",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Method",
+            "image": "",
+            "p1": "velan|p1flag=se",
+            "p2": "exi|p2flag=",
+            "p3": "hypoc|p3flag=",
+            "p4": "Krawnnic|p4flag=",
+            "p5": "Tseini|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "doot doot",
+            "image": "",
+            "p1": "Trevorious|p1flag=",
+            "p2": "Majesty|p2flag=",
+            "p3": "Cloneman16|p3flag=",
+            "p4": "Deadly|p4flag=",
+            "p5": "Moth|p5flag=",
+            "p6": "Avallac|p6flag="
+        },
+        {
+            "team": "EnVision eSports",
+            "image": "",
+            "p1": "Caliburn|p1flag=",
+            "p2": "KSF|p2flag=us",
+            "p3": "Ned|p3flag=",
+            "p4": "Teenage|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "really bad guys",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "-bird noises-",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "eanix",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "method",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "doot doot",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "clg",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "nameless",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "envision esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "eanix",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "-bird noises-",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "nameless",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "clg",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "nameless",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "-bird noises-",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "clg",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3D1",
+            "team1": "eanix",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

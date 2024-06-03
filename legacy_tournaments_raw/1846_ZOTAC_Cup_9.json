@@ -1,0 +1,109 @@
+{
+    "tournament_info": [],
+    "team_cards": [
+        {
+            "team": "Nova Esports",
+            "image": "",
+            "p1": "BLUE|p1flag=tw|pos1=dps",
+            "p2": "WON|p2flag=tw|pos2=dps",
+            "p3": "PINKGIRL|p3flag=tw|pos3=flex",
+            "p4": "NeXus|p4flag=tw|pos4=tank",
+            "p5": "OYO|p5flag=tw|pos5=sup",
+            "p6": "Restya|p6flag=tw|pos6=sup",
+            "p7": "|pos7=",
+            "p8": "|pos8=",
+            "c": "LanFeihong|cflag=tw"
+        },
+        {
+            "team": "AE FortuNa",
+            "image": "AKIHABARA ENCOUNT logo.png",
+            "p1": "Qookie |p1flag=jp |pos1=dps",
+            "p2": "Lapin|p2flag=jp |pos2=dps",
+            "p3": "Aleksey |p3flag=jp|pos3=flex",
+            "p4": "GalaxY|p4flag=jp|pos4=flex",
+            "p5": "Alive|p5flag=jp|pos5=tank",
+            "p6": "Luna|p6flag=jp|pos6=sup|p6link=Luna (Japanese player)",
+            "p7": "Mint|p7flag=jp|pos7=sup|p7link=Mint (Japanese player)",
+            "p8": "|pos8=",
+            "c": "|cflag="
+        },
+        {
+            "team": "KIX Team",
+            "image": "KIX logo.png",
+            "p1": "Casper |p1flag=tw |pos1=dps|p1link=Casper (Taiwanese player)",
+            "p2": "Despair |p2flag=hk |pos2=dps",
+            "p3": "\u751f\u714e\u5305 |p3flag=tw|pos3=dps",
+            "p4": "RE4LITY|p4flag=tw|pos4=flex",
+            "p5": "WeiLa1OvO|p5flag=tw|pos5=tank",
+            "p6": "JazZy|p6flag=hk|pos6=sup",
+            "p7": "\u963f\u5305|p7flag=tw|pos7=sup",
+            "p8": "LuM1nOuS|p8flag=tw|pos8=sup",
+            "c": "|cflag="
+        },
+        {
+            "team": "\u963f\u9418\u6211\u672c\u4eba",
+            "image": "",
+            "p1": "Jongie |p1flag=tw |pos1=",
+            "p2": "Ruins |pos2=",
+            "p3": "Suica |pos3=",
+            "p4": "Yunyun |pos4=",
+            "p5": "\u90a3\u543e\u514b\u71b1 |pos5=",
+            "p6": "\u767d\u99ac\u4ea1\u5b50 |pos6=",
+            "p7": "ebichu |pos7=",
+            "p8": "ppp8899602 |pos8=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Cosmic eSports",
+            "image": "",
+            "p1": "\u0112sketit |pos1=",
+            "p2": "DeadPixel |pos2=",
+            "p3": "Enders |pos3=",
+            "p4": "UnWanted |pos4= |p4link=UnWanted (player)",
+            "p5": "TacoNinja |pos5=",
+            "p6": "\u0166\u00d8XI\u00c7\u0110P\u015a |pos6=",
+            "p7": "Bowie |pos7=",
+            "p8": "Frankiiee |pos8=",
+            "c": "|cflag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ae fortuna",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "nova esports",
+            "score2": "1",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "ae fortuna",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "nova esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "ae fortuna",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "kix",
+            "score2": "0",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "\u963f\u9418\u6211\u672c\u4eba",
+            "score1": "1",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

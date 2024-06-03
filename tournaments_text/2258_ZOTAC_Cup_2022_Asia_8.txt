@@ -1,0 +1,144 @@
+{{DISPLAYTITLE:ZOTAC CUP Overwatch Community Tournament 2022 - Asia #8}}
+{{ZOTAC Cup Navbox}}
+
+{{Infobox league 
+|name=ZOTAC CUP Overwatch Community Tournament - Asia #8
+|shortname=ZOTAC Cup 2022 - Asia #8
+|tickername=ZOTAC Cup 2022 - Asia #8
+|image=ZOTAC_Cup.png
+|series=ZOTAC Cup
+|organizer=ZOTAC
+|country=Asia
+|game=overwatch
+|type=Online
+|format=Single Elimination
+|prizepoolusd=350
+|liquipediatier=5
+|date=2022-09-24
+|web=https://battlefy.com/zotac-cup
+|facebook=ZOTACCup
+|twitter=zotaccup
+|twitch=
+|bracket=https://battlefy.com/zotac-cup/350-usd-zotac-cup-overwatch-6v6-asia-8/62cf7956513bd027892997a0/info?infoTab=details
+|team_number=
+|previous=ZOTAC_Cup/2022/Asia/7{{!}}Asia #7
+|next=ZOTAC_Cup/2022/Asia/9{{!}}Asia #9
+}}
+
+==Information==
+===Format===
+*Single Elimination Bracket
+**Grand Finals are {{Abbr/Bo3}}, all other matches are {{Abbr/Bo1}}
+**Skins allowed
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=6|'''ZOTAC Cup'''
+|-
+!width="160" rowspan=1; colspan=2|Map Rotation
+|-
+|-
+!Ro64
+|''[[Blizzard World]]''
+|-
+!Ro32
+|''[[Busan]]''
+|-
+!Ro16
+|''[[Rialto]]''
+|-
+!Quarterfinals
+|''[[Havana]]''
+|-
+!Semifinals
+|''[[Nepal]]''
+|-
+!Final game
+|''[[Ilios]], [[Paris]] and [[King's Row]]''
+|-
+!Tiebreaker
+|''[[Lijiang Tower]]''
+|-
+|}
+
+===Prize Pool===
+{{prize pool start|cutafter=4}}
+{{prize pool slot |place=1|usdprize=200|슬기로운오류동생활|lastvs1=나는야폭군 |lastscore1=2 |lastvsscore1=1 }}
+{{prize pool slot |place=2|usdprize=100|나는야폭군|lastvs1=슬기로운오류동생활 |lastscore1=1 |lastvsscore1=2 }}
+{{prize pool slot |place=3|usdprize=50|Incendia Esports|lastvs1=엄마손파이 |lastscore1=2 |lastvsscore1=0 }}
+{{prize pool slot |place=4|usdprize=0|엄마손파이|lastvs1=Incendia Esports |lastscore1=0 |lastvsscore1=2 }}
+{{prize pool end}}
+
+==Top 4 Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=슬기로운오류동생활
+|image=
+|p1=Yoppin|p1flag=|pos1=dps
+|p2=K4K4|p2flag=kr|pos2=dps
+|p3=쌀규|p3flag=kr|pos3=tank
+|p4=freshman|p4link=khd|p4flag=|pos4=sup
+|p5=DADA|p5flag=|pos5=sup
+|p6=Unick|p6flag=|pos6=
+|p7=이게아니란말이야|p7flag=kr|pos7=
+}}
+{{TeamCard
+|team=나는야폭군
+|image=
+|p1=DoenmO|p1flag=kr|pos1=
+|p2=Tailspin|p2flag=kr|pos2=
+|p3=SeungAn|p3flag=kr|pos3=
+|p4=Karma|p4flag=kr|pos4=|p4link=Karma (Korean player)
+|p5=Govern|p5flag=kr|pos5=
+|p6=빵거북|p6flag=kr|pos6=
+}}
+{{TeamCard
+|team=Incendia Esports
+|image=
+|p1=Ace|p1link=Ace (Thai player)|p1flag=|pos1=dps
+|p2=FOŖŢNITĔSŴAĢ|p2link=Yoshinori2k|p2flag=th|pos2=dps
+|p3=Youco|p3flag=cn|pos3=dps
+|p4=Lumi|p4flag=|pos4=tank
+|p5=R3K|p5flag=|pos5=tank
+|p6=TiAmo|p6flag=tw|pos6=sup
+|p7=PaLee|p7flag=|pos7=sup
+|t2title=Staff
+|t2p1=Pero|t2p1flag=kr|t2pos1=coach
+|t2p2=rXis|t2pos2=manager
+}}
+{{TeamCard
+|team=엄마손파이
+|image=
+|p1=Hofac|p1flag=kr|pos1=dps
+|p2=나화나면무섭다|p2flag=kr|pos2=dps
+|p3=Shonurt|p3flag=kr|pos3=tank
+|p4=Immunity|p4flag=kr|pos4=tank
+|p5=LilkA|p5flag=kr|pos5=sup
+|p6=InsaengSibal|p6flag=kr|pos6=sup
+}}
+{{TeamCard columns end}}
+
+==Top 4 Results==
+{{Bracket|Bracket/4|id=bgXmZ5Hpq9
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=1
+    |opponent1={{TeamOpponent|슬기로운오류동생활|score=1}}
+    |opponent2={{TeamOpponent|Incendia Esports|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |opponent1={{TeamOpponent|엄마손파이|score=0}}
+    |opponent2={{TeamOpponent|나는야폭군|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |opponent1={{TeamOpponent|슬기로운오류동생활|score=2}}
+    |opponent2={{TeamOpponent|나는야폭군|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

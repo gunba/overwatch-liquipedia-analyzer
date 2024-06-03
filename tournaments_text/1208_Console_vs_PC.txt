@@ -1,0 +1,66 @@
+{{Infobox league
+|liquipediatier=4|liquipediatiertype=Showmatch
+|name=Console vs PC
+|image=
+|icon=
+|tickername=Console vs PC
+|organizer=Brain
+|country=Middle East
+|type=Online
+|format=
+|game=overwatch2
+|prizepoolusd=
+|date=2023-03-25
+|twitter=owbrain1
+|twitch=owbrain
+|team_number=2
+}}
+
+==About==
+
+===Results===
+{{TeamPrizePool|prizesummary=n
+|{{Slot|w=true|{{Opponent|PC Team|lastvs=Console Team|lastvsscore=3-2}}}}
+|{{Slot|l=true|{{Opponent|Console Team|lastvs=PC Team|lastvsscore=2-3}}}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start}}
+{{TeamCard
+|team=PC Team|showroster=true
+|p1=Qlm|pos1=dps
+|p2=Sazuri|pos2=dps
+|p3=Legendary|pos3=dps
+|p4=BlackSwordz|pos4=tank
+|p5=AOY|pos5=sup
+|p6=Facator|pos6=sup
+}}
+{{TeamCard
+|team=Console Team|showroster=true
+|p1=BADER|p1flag=|pos1=dps
+|p2=LVA|p2flag=|pos2=dps
+|p3=Skehahffk|p3flag=|pos3=dps
+|p4=JXRYA|p4flag=|pos4=tank
+|p5=d7mi|p5flag=|pos5=sup
+|p6=Atlantis|p6flag=|pos6=sup
+|p7=URIEL|p7flag=sa|pos7=sup
+}}
+{{TeamCard columns end}}
+
+==Result==
+{{SingleMatch|id=xIQHLETmds|width=600
+|{{Match
+|bestof=5
+   |date=March 25, 2023 - 22:00 {{Abbr/AST}}
+   |twitch=owbrain
+   |vod=
+   |opponent1={{TeamOpponent|PC Team}}
+   |opponent2={{TeamOpponent|Console Team}}
+|map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+|map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+|map3={{Map|map=Shambali Monastery|mode=Escort|score1=2|score2=1|winner=1}}
+|map4={{Map|map=Colosseo|mode=Push|score1=105.74m|score2=94.51m|winner=1}}
+|map5={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+}}
+}}

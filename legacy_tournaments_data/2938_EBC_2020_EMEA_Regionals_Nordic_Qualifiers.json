@@ -1,0 +1,566 @@
+{
+    "tournament_info": [
+        {
+            "name": "EBC EMEA Regionals Nordic Qualifiers",
+            "shortname": "EMEA Nordic Qualifiers",
+            "image": "EMEA_Nordic.png",
+            "series": "ebc",
+            "abbreviation": "EMEA Regionals",
+            "icon": "",
+            "tickername": "EBC Nordic Quali",
+            "organizer": "EBC",
+            "organizer-link": "https://ebc.gg",
+            "sponsor": "",
+            "country": "Europe",
+            "type": "Online",
+            "format": "Double Elimination",
+            "prizepool": "",
+            "prizepoolusd": "",
+            "sdate": "2020-07-20",
+            "edate": "2020-07-22",
+            "liquipediatier": "4",
+            "liquipediatiertype": "Qualifier",
+            "web": "https://ebc.gg/",
+            "twitch": "EBC_gg",
+            "bracket": "https://battlefy.com/ebc/emea-regionals-nordic-qualifiers/5ee660a3ed43601190e20a29/stage/5f142cd3b4738624c4277ee8/bracket/",
+            "rulebook": "https://docs.google.com/document/d/1Dxf1H216MFv27Shs4dJQ4WIup0SMA7NL75J5XeEE9yg/edit#heading=h.bk2mq2hgcbj4",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "20",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "VASTA Gaming",
+            "p1": "Disperse",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "Sauna",
+            "p2flag": "fi",
+            "pos2": "dps",
+            "p3": "Explorer",
+            "p3flag": "no",
+            "pos3": "tank",
+            "p4": "Rockett",
+            "p4flag": "fi",
+            "pos4": "tank",
+            "p5": "Crysis",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Abbs",
+            "p6flag": "uk",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Nuke",
+            "t2c1flag": "no",
+            "t2c1pos": "coach",
+            "t2c2": "Kendar",
+            "t2c2flag": "gr",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "Vibia Requiem",
+            "image": "",
+            "p1": "NuttyNanza",
+            "p1flag": "uk",
+            "pos1": "dps",
+            "p2": "Wille",
+            "p2flag": "se",
+            "pos2": "dps",
+            "p3": "Quagony",
+            "p3flag": "no",
+            "pos3": "tank",
+            "p4": "Tsuki",
+            "p4flag": "uk",
+            "pos4": "tank",
+            "p5": "SilverRoos",
+            "p5flag": "dk",
+            "pos5": "sup",
+            "p6": "Taiyou",
+            "p6flag": "nl",
+            "pos6": "sup",
+            "p7": "RAUN5M3D",
+            "p7flag": "dk",
+            "pos7": "sup",
+            "c": "Parasloth",
+            "cflag": "uk"
+        },
+        {
+            "team": "Demersus",
+            "p1": "Hybrid ",
+            "p1link": "Hybrid (British player) ",
+            "p1flag": "uk ",
+            "pos1": "dps",
+            "p2": "Seicoe ",
+            "pos2": "dps",
+            "p3": "ELLIVOTE ",
+            "pos3": "tank",
+            "p4": "LullSiSH ",
+            "pos4": "tank",
+            "p5": "AFoxx ",
+            "pos5": "sup",
+            "p6": "Gustav ",
+            "pos6": "sup"
+        },
+        {
+            "team": "AaB Pursuits"
+        },
+        {
+            "team": "Arua Esports"
+        },
+        {
+            "team": "Xeno",
+            "link": "Xeno (European team)"
+        },
+        {
+            "team": "Team Bloodhound"
+        },
+        {
+            "team": "BlueWhites Highmanes"
+        },
+        {
+            "team": "Raspberry Racers",
+            "p1": "Clowd ",
+            "pos1": "dps",
+            "p2": "Lethal ",
+            "pos2": "dps",
+            "p3": "Helv ",
+            "pos3": "tank",
+            "p4": "Cenny ",
+            "pos4": "tank",
+            "p5": "Watery ",
+            "pos5": "sup",
+            "p6": "Skairipa ",
+            "pos6": "sup"
+        },
+        {
+            "team": "Essence"
+        },
+        {
+            "team": "Penguin Boomers"
+        },
+        {
+            "team": "Immotus",
+            "p1": "Kaid ",
+            "p1flag": "de ",
+            "pos1": "dps",
+            "p2": "Airbone ",
+            "p2flag": "de ",
+            "pos2": "dps",
+            "p3": "Prebuz ",
+            "p3flag": "no ",
+            "pos3": "tank",
+            "p4": "Izko ",
+            "p4flag": "fr ",
+            "pos4": "tank",
+            "p5": "Emi ",
+            "p5flag": "fi  ",
+            "pos5": "sup",
+            "p6": "Sinny ",
+            "p6flag": "uksc ",
+            "pos6": "sup"
+        },
+        {
+            "team": "Hueco Mundo",
+            "p1": "EFF0RT ",
+            "p1flag": "se ",
+            "pos1": "dps",
+            "p2": "p3pper ",
+            "p2flag": "se ",
+            "pos2": "dps",
+            "p3": "Ludde ",
+            "p3flag": "se ",
+            "pos3": "tank",
+            "p4": "kakku ",
+            "p4flag": "se ",
+            "pos4": "tank",
+            "p5": "merc ",
+            "p5flag": "se  ",
+            "pos5": "sup",
+            "p6": "Petris ",
+            "p6flag": "se ",
+            "pos6": "sup"
+        },
+        {
+            "team": "BlueWhites Lions"
+        },
+        {
+            "team": "Frozen Ivy"
+        },
+        {
+            "team": "Einherjar",
+            "p1": "Sindri ",
+            "p1flag": "is ",
+            "pos1": "dps",
+            "p2": "SnorrLaxZ ",
+            "p2flag": "is ",
+            "pos2": "dps",
+            "p3": "Hafficool ",
+            "pos3": "flex",
+            "p4": "Futhark ",
+            "p4flag": "is ",
+            "pos4": "sup"
+        },
+        {
+            "team": "AOS Innovation"
+        },
+        {
+            "team": "Axial Tilt"
+        },
+        {
+            "team": "Project W"
+        },
+        {
+            "team": "Vitical gaming"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "einherjar",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "vasta gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "raspberry racers",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "bluewhites highmane",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "hueco mundo",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "aab pursuits",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "immotus",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "arua esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "frozen ivy",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D9",
+            "team1": "vibia requiem",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "essence",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D11",
+            "team1": "team bloodhound",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "project w",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "demersus",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "penguin boomers",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D15",
+            "team1": "xeno",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "raspberry racers",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "vasta gaming",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "immotus",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W3",
+            "team1": "hueco mundo",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "essence",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W5",
+            "team1": "frozen ivy",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "xeno",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W7",
+            "team1": "demersus",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "hueco mundo",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "raspberry racers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "demersus",
+            "score2": "2",
+            "win2": "1",
+            "key": "R5W3",
+            "team1": "frozen ivy",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "demersus",
+            "score2": "2",
+            "win2": "1",
+            "key": "R7W1",
+            "team1": "raspberry racers",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "aos innovation",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D17",
+            "team1": "penguin boomers",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D19",
+            "team1": "project w",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "vitical gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D21",
+            "team1": "team bloodhound",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D23",
+            "team1": "vibia requiem",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "axial tilt",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D25",
+            "team1": "arua esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D27",
+            "team1": "aab pursuits",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bluewhites lions",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D29",
+            "team1": "bluewhites highmane",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "-",
+            "win2": "",
+            "key": "R1D31",
+            "team1": "einherjar",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "project w",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "aos innovation",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "vibia requiem",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "team bloodhound",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "aab pursuits",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W5",
+            "team1": "axial tilt",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "einherjar",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W7",
+            "team1": "bluewhites lions",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "project w",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3D1",
+            "team1": "immotus",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "vibia requiem",
+            "score2": "0",
+            "win2": "",
+            "key": "R3D2",
+            "team1": "vasta gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "aab pursuits",
+            "score2": "1",
+            "win2": "",
+            "key": "R3D3",
+            "team1": "xeno",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "einherjar",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3D4",
+            "team1": "essence",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "vasta gaming",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "project w",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "einherjar",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W3",
+            "team1": "xeno",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "vasta gaming",
+            "score2": "2",
+            "win2": "1",
+            "key": "R5D1",
+            "team1": "frozen ivy",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "einherjar",
+            "score2": "2",
+            "win2": "1",
+            "key": "R5D2",
+            "team1": "hueco mundo",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "einherjar",
+            "score2": "1",
+            "win2": "",
+            "key": "R6W1",
+            "team1": "vasta gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "vasta gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R7D1",
+            "team1": "raspberry racers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "raspberry racers",
+            "score2": "2",
+            "win2": "1",
+            "key": "R8W1",
+            "team1": "demersus",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

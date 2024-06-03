@@ -1,0 +1,184 @@
+{{DISPLAYTITLE:OW2TU Overwatch Ladies Competition Season 5}}
+{{OW2TU Tabs}}
+{{Infobox league
+|name=OW2TU Overwatch Ladies Competition Season 5
+|image=OW2TU S5.png
+|series=ow2tu
+|abbreviation=OW2TU
+|shortname=OW2TU Season 5
+|tickername=OW2TU Season 5
+|icon=
+|organizer=
+|organizer2=
+|sponsor=
+|type=Online
+|country=South Korea
+|city=
+|venue=
+|format=Group Stage<br>Single Elimination
+|prizepool=180,000
+|localcurrency=KRW
+|prizepoolusd=150
+|sdate=2019-07-21
+|edate=2019-08-18
+|liquipediatier={{TierText/5}}
+|web=
+|weibo=
+|stream=
+|twitch=owwtu
+|bracket=
+|team_number=3
+|previous=OW2TU Overwatch Ladies Competition/Season 4{{!}}Season 4
+|next=
+}}
+
+==Information==
+===Format===
+* Group stage
+** All matches are {{Abbr/Bo5}}.
+** Top 2 teams proceeds to Grand Finals.
+* Playoffs
+** Grand Finals are {{Abbr/Bo5}}.
+
+===Prize Pool===
+180,000 {{Abbr/KRW}} (≃ 150 {{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start|localcurrency=krw}}
+{{prize pool slot|place=1|usdprize=100|localprize=120,000|sabina |lastvs1=nāmī |lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot|place=2|usdprize=50|localprize=60,000|nāmī. |lastvs1=sabina |lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot|place=3|usdprize=0|localprize=0|team win |wdl1=1/-/1 }}
+{{Prize pool end}}
+''Conversion values taken from [https://www.exchange-rates.org/Rate/USD/KRW/08-18-2019 exchange-rates.org] at 2019-08-18. 1 {{Abbr/USD}} ≈ 1,208.63 {{Abbr/KRW}}''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=SABINA
+|image=Sabina logo.png
+|p1=함삐 |p1flag=kr |pos1=dps
+|p2=TMSabinaXB |p2flag=kr |pos2=dps
+|p3=두징이빠순이 |p3flag=kr |pos3=tank
+|p4=김성실그는누구 |p4flag=kr |pos4=tank
+|p5=Yerim |p5flag=kr |pos5=sup
+|p6=Save |p6flag=kr |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Nāmī.
+|p1=miso |p1flag=kr |pos1=dps |p1link=miso (Korean player)
+|p2=HANNIBAL |p2flag=kr |pos2=dps
+|p3=씨힐라스 |p3flag=kr |pos3=tank 
+|p4=ASTIKA |p4flag=kr |pos4=tank
+|p5=멍냥 |p5flag=kr |pos5=sup |p5link=mungnyang
+|p6=청애 |p6flag=kr |pos6=sup |p6link=Cheongae
+|p7=비류 |p7flag=kr |pos7=sup |p7link=OWOxTayo
+|c=Promatch |cflag=kr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team WIN
+|image=Team WIN logo.png
+|p1=밍밍전용딜러 |p1flag=kr |pos1=dps
+|p2=OCE4N |p2flag=kr |pos2=dps
+|p3=상어 |p3flag=kr |pos3=dps <!--- Zarya, Sombra, Widow --->
+|p4=토마토 |p4flag=kr |pos4=tank
+|p5=E4SY |p5flag=kr |pos5=tank <!--- Off-tank + Flex support --->
+|p6=내캉 |p6flag=kr |pos6=sup
+|p7=프로빡겜러이소연 |p7flag=kr |pos7=sup |p7link=SIRIUS <!--- Flex support + Sombra --->
+}}
+{{box|end}}
+
+==Results==
+===Group Stage===
+{{GroupTableStart| Round Robin |width=425px
+|date=
+|stream=
+|lrthread=
+|finished=
+}}
+{{GroupTableSlot| {{Team|sabina}} |place=1|win_m=2|lose_m=0|win_r=6|lose_r=1|diff=|bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|team win}} |place=2|win_m=1|lose_m=1|win_r=4|lose_r=3|diff=|bg=down|show_p=false}}
+{{GroupTableSlot| {{Team|nāmī.}} |place=3|win_m=0|lose_m=2|win_r=0|lose_r=6|diff=|bg=up|show_p=false}}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=wsQaeDvQ7v|title=Matches |width=425px |hide=false
+|match1={{MatchMaps
+|date=July 21, 2019
+|team1=nāmī.
+|games1=0
+|team2=team win
+|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=July 21, 2019
+|twitch=
+|finished=true
+|vod=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match2={{MatchMaps
+|date=July 28, 2019
+|team1=team win
+|games1=1
+|team2=sabina
+|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=July 28, 2019
+|twitch=
+|finished=true
+|vod=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match3={{MatchMaps
+|date=August 4, 2019
+|team1=nāmī.
+|games1=0
+|team2=sabina
+|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=August 4, 2019
+|twitch=
+|finished=true
+|vod=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+}}
+
+[[Team WIN]] dropped out of the tournament after Group Stage ended. [[Nāmī.]] proceeded to Grand Finals.
+
+===Playoffs===
+{{LegacyBracket|Bracket/2|2SETeamBracket|type=team|id=yS4YTwhk4P
+<!-- FINALS -->
+|R1D1team=sabina |R1D1score=3 |R1D1win=1
+|R1D2team=nāmī. |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary
+|date=August 18, 2019
+|finished=true
+|map1= |map1score= |map1win=
+|map2= |map2score= |map2win=
+|map3= |map3score= |map3win=
+|vod=
+|overgg=
+|pf=
+|wl=
+}} 
+}}

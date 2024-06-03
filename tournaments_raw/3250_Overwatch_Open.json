@@ -1,0 +1,482 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "1",
+            "name": "Overwatch Open",
+            "image": "image001.png",
+            "icon": "Overwatch Open.png",
+            "organizer": "ELEAGUE",
+            "organizer-link": "http://www.e-league.com/",
+            "organizer2": "FACEIT",
+            "organizer2-link": "https://www.faceit.com/",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Atlanta",
+            "venue": "[https://www.eleague.com/news/state-of-the-art-tournament-facility ELEAGUE Arena]",
+            "format": "'''Group Stage''':<br>Dual Tournament<br>'''Playoffs''':<br>Single Elimination<br>'''Grand Final''':<br>Single Elimination",
+            "prizepoolusd": "300,000",
+            "sdate": "2016-09-25",
+            "edate": "2016-09-30",
+            "web": "https://server1.kproxy.com/servlet/redirect.srv/sruj/swoaauqiqnjxpj/stuv/p1/",
+            "twitch": "overwatchopen",
+            "game": "overwatch",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team EnVyUs",
+            "p1": "Talespin",
+            "p2": "Taimou",
+            "p3": "cocco",
+            "p4": "INTERNETHULK",
+            "p5": "chipshajen",
+            "p6": "HarryHook",
+            "qualifier": "[[Overwatch_Open/North America Regional|North America Regional]]"
+        },
+        {
+            "team": "Cloud9",
+            "p1": "KyKy",
+            "p2": "Surefour",
+            "p3": "deBett",
+            "p4": "Adam",
+            "p5": "reaver",
+            "p6": "Grego",
+            "qualifier": "[[Overwatch_Open/North America Regional|North America Regional]]"
+        },
+        {
+            "team": "Fnatic",
+            "p1": "Custa",
+            "p2": "iddqd",
+            "p3": "Vonethil",
+            "p4": "buds",
+            "p5": "coolmatt69",
+            "p6": "Stoop",
+            "t2title": "Staff",
+            "t2c1": "Roflgator|t2c1pos=coach",
+            "qualifier": "[[Overwatch_Open/North America Regional|North America Regional]]"
+        },
+        {
+            "team": "NRG eSports",
+            "p1": "Seagull",
+            "p2": "enigma",
+            "p3": "milo",
+            "p4": "Gods",
+            "p5": "Pookz",
+            "p6": "dummy",
+            "qualifier": "[[Overwatch_Open/North America Regional|North America Regional]]"
+        },
+        {
+            "team": "Splyce",
+            "p1": "PYYYOUR",
+            "p2": "clockwork",
+            "p3": "sycknesS",
+            "p4": "Shrugger",
+            "p5": "ShaneisGhost|p5flag=us",
+            "p6": "ninjanick",
+            "t2title": "Staff",
+            "t2c1": "Sword|t2c1pos=coach",
+            "qualifier": "[[Overwatch_Open/North America Regional|North America Regional]]"
+        },
+        {
+            "team": "Immortals",
+            "p1": "GrimReality",
+            "p2": "Hyped",
+            "p3": "Aythen",
+            "p4": "Agilities",
+            "p5": "Jer",
+            "p6": "wgb",
+            "qualifier": "[[Overwatch_Open/North America Regional|North America Regional]]",
+            "inotes": "{{NoteBig",
+            "n1": "September 12th - {{Team|Sodipop}} squad were acquired by {{Team|Immortals}}.</small><ref name=\"Immortals singed Sodipop roster\"> [http://immortals.gg/2016/09/12/introducing-the-immortals-overwatch-lineup/ Introducing the Immortals Overwatch lineup]</ref>",
+            "n2": "September 25th - {{Player|wgb|flag=us}} replaces {{player|nomy|flag=mx}} due to visa issues.</small>{{inside source}}"
+        },
+        {
+            "team": "Team Liquid",
+            "p1": "DaHanG",
+            "p2": "id_",
+            "p3": "MESR",
+            "p4": "AZK",
+            "p5": "minstrel",
+            "p6": "rapha",
+            "qualifier": "[[Overwatch_Open/North America Regional|North America Regional]]"
+        },
+        {
+            "team": "Method",
+            "p1": "PsychoWaffle",
+            "p2": "exi",
+            "p3": "ultimawep",
+            "p4": "Krawnnic",
+            "p5": "Roolf",
+            "p6": "Snow|p6link=Snow (Brazilian player)",
+            "qualifier": "[[Overwatch_Open/North America Regional|North America Regional]]"
+        },
+        {
+            "team": "ANOX",
+            "p1": "Anak",
+            "p2": "cYpheR",
+            "p3": "COOLLER",
+            "p4": "Rubikon",
+            "p5": "Kensi",
+            "p6": "sharyk",
+            "qualifier": "[[Overwatch_Open/Europe Regional|Europe Regional]]"
+        },
+        {
+            "team": "FaZe Clan",
+            "p1": "TwoEasy",
+            "p2": "ShaDowBurn",
+            "p3": "Forsak3n",
+            "p4": "zombs",
+            "p5": "Rawkus",
+            "p6": "FCTFCTN",
+            "qualifier": "[[Overwatch_Open/Europe Regional|Europe Regional]]"
+        },
+        {
+            "team": "REUNITED",
+            "p1": "Morte",
+            "p2": "Vallutaja",
+            "p3": "uNFixed",
+            "p4": "Winghaven",
+            "p5": "Kruise",
+            "p6": "Kyb",
+            "qualifier": "[[Overwatch_Open/Europe Regional|Europe Regional]]"
+        },
+        {
+            "team": "Luminosity Gaming",
+            "p1": "Manneten",
+            "p2": "Eissfeldt",
+            "p3": "Ruster",
+            "p4": "Tseini",
+            "p5": "Zave",
+            "p6": "Mineral",
+            "t2title": "Staff",
+            "t2c1": "mkL|t2c1pos=coach",
+            "qualifier": "[[Overwatch_Open/Europe Regional|Europe Regional]]"
+        },
+        {
+            "team": "Misfits",
+            "p1": "Kryw",
+            "p2": "SoOn",
+            "p3": "Hidan",
+            "p4": "ryb",
+            "p5": "Zebbosai",
+            "p6": "Nevix",
+            "t2title": "Staff",
+            "t2c1": "Windz|t2c1flag=fr|t2c1pos=manager",
+            "qualifier": "[[Overwatch_Open/Europe Regional|Europe Regional]]"
+        },
+        {
+            "team": "Rogue",
+            "p1": "TviQ",
+            "p2": "Reinforce",
+            "p3": "winz",
+            "p4": "aKm",
+            "p5": "uNKOE",
+            "p6": "KnOxXx",
+            "qualifier": "[[Overwatch_Open/Europe Regional|Europe Regional]]"
+        },
+        {
+            "team": "Ninjas in Pyjamas",
+            "p1": "fragi",
+            "p2": "zuppehw",
+            "p3": "hymzi",
+            "p4": "zappis",
+            "p5": "mafu",
+            "p6": "kyynel",
+            "qualifier": "[[Overwatch_Open/Europe Regional|Europe Regional]]"
+        },
+        {
+            "team": "Team Dignitas",
+            "p1": "art1er",
+            "p2": "Draceus",
+            "p3": "LiNkz",
+            "p4": "numlocked",
+            "p5": "BromaS",
+            "p6": "ToxikeN",
+            "t2title": "Staff",
+            "t2c1": "Shifty|t2c1pos=coach",
+            "qualifier": "[[Overwatch_Open/Europe Regional|Europe Regional]]"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "September 25, 2016 - 10:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|envyus}}",
+            "opponent2": "{{TeamOpponent|splyce}}",
+            "map1": "{{Map|map=Numbani|mode=Hybrid|score1=1|score2=0|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Nepal|mode=Control|score1=|score2=|winner=skip}}",
+            "optional": "M1="
+        },
+        {
+            "date": "September 25, 2016 - 11:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|nrg}}",
+            "opponent2": "{{TeamOpponent|liquid}}",
+            "map1": "{{Map|map=Dorado|mode=Escort|score1=2|score2=3|winner=2}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=1|score2=2|winner=2}}",
+            "map3": "{{Map|map=Numbani|mode=Hybrid|score1=|score2=|winner=skip}}",
+            "optional": "M2="
+        },
+        {
+            "date": "September 25, 2016 - 12:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|envyus}}",
+            "opponent2": "{{TeamOpponent|liquid}}",
+            "map1": "{{Map|map=Dorado|mode=Escort|score1=3|score2=1|winner=1}}",
+            "map2": "{{Map|map=Numbani|mode=Hybrid|score1=6|score2=5|winner=1}}",
+            "map3": "{{Map|map=Route 66|mode=Escort|score1=|score2=|winner=skip}}",
+            "optional": "M3="
+        },
+        {
+            "date": "September 25, 2016 - 13:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|splyce}}",
+            "opponent2": "{{TeamOpponent|nrg}}",
+            "map1": "{{Map|map=Numbani|mode=Hybrid|score1=0|score2=1|winner=2}}",
+            "map2": "{{Map|map=Temple of Anubis|mode=Assault|score1=1|score2=2|winner=2}}",
+            "map3": "{{Map|map=Dorado|mode=Escort|score1=|score2=|winner=skip}}",
+            "optional": "M4="
+        },
+        {
+            "date": "September 26, 2016 - 10:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|liquid}}",
+            "opponent2": "{{TeamOpponent|nrg}}",
+            "map1": "{{Map|map=Dorado|mode=Escort|score1=1|score2=3|winner=2}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Numbani|mode=Hybrid|score1=3|score2=3|winner=draw}}",
+            "map4": "{{Map|map=Nepal|mode=Control|score1=0|score2=3|winner=2}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "3",
+            "date": "September 25, 2016 - 15:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|c9}}",
+            "opponent2": "{{TeamOpponent|method}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=3|score2=1|winner=1}}",
+            "map2": "{{Map|map=Nepal|mode=Control|score1=1|score2=3|winner=2}}",
+            "map3": "{{Map|map=Eichenwalde|mode=Hybrid|score1=2|score2=3|winner=2}}",
+            "optional": "M1="
+        },
+        {
+            "date": "September 25, 2016 - 16:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|fnatic}}",
+            "opponent2": "{{TeamOpponent|immortals}}",
+            "map1": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Volskaya Industries|mode=Assault|score1=|score2=|winner=skip}}",
+            "optional": "M2="
+        },
+        {
+            "date": "September 25, 2016 - 17:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|method}}",
+            "opponent2": "{{TeamOpponent|fnatic}}",
+            "map1": "{{Map|map=Nepal|mode=Control|score1=0|score2=3|winner=2}}",
+            "map2": "{{Map|map=Lijiang Tower|mode=Control|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Dorado|mode=Escort|score1=2|score2=3|winner=2}}",
+            "optional": "M3="
+        },
+        {
+            "date": "September 25, 2016 - 18:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|cloud9}}",
+            "opponent2": "{{TeamOpponent|immortals}}",
+            "map1": "{{Map|map=Hollywood|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=Route 66|mode=Escort|score1=2|score2=1|winner=1}}",
+            "map3": "{{Map|map=Numbani|mode=Hybrid|score1=|score2=|winner=skip}}",
+            "optional": "M4="
+        },
+        {
+            "date": "September 26, 2016 - 11:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|method}}",
+            "opponent2": "{{TeamOpponent|cloud9}}",
+            "map1": "{{Map|map=Route 66|mode=Escort|score1=2|score2=3|winner=2}}",
+            "map2": "{{Map|map=Temple of Anubis|mode=Assault|score1=4|score2=3|winner=1}}",
+            "map3": "{{Map|map=Hollywood|mode=Hybrid|score1=3|score2=4|winner=2}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "3",
+            "date": "September 28, 2016 - 10:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|reunited}}",
+            "opponent2": "{{TeamOpponent|nip}}",
+            "map1": "{{Map|map=Volskaya Industries|mode=Assault|score1=2|score2=3|winner=2}}",
+            "map2": "{{Map|map=Numbani|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=0|score2=3|winner=2}}",
+            "optional": "M1="
+        },
+        {
+            "date": "September 28, 2016 - 11:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|dignitas}}",
+            "opponent2": "{{TeamOpponent|faze}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=1|score2=3|winner=2}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=1|winner=1}}",
+            "optional": "M2="
+        },
+        {
+            "date": "September 28, 2016 - 12:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|nip}}",
+            "opponent2": "{{TeamOpponent|dignitas}}",
+            "map1": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=2|winner=1}}",
+            "map2": "{{Map|map=Numbani|mode=Hybrid|score1=0|score2=1|winner=2}}",
+            "map3": "{{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "optional": "M3="
+        },
+        {
+            "date": "September 28, 2016 - 13:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|reunited}}",
+            "opponent2": "{{TeamOpponent|faze}}",
+            "map1": "{{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map2": "{{Map|map=Ilios|mode=Control|score1=0|score2=3|winner=2}}",
+            "map3": "{{Map|map=Temple of Anubis|mode=Assault|score1=2|score2=3|winner=2}}",
+            "optional": "M4="
+        },
+        {
+            "date": "September 29, 2016 - 10:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|dignitas}}",
+            "opponent2": "{{TeamOpponent|faze}}",
+            "map1": "{{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=2|winner=2}}",
+            "map2": "{{Map|map=Route 66|mode=Escort|score1=2|score2=3|winner=2}}",
+            "map3": "{{Map|map=Hollywood|mode=Hybrid|score1=|score2=|winner=skip}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "3",
+            "date": "September 28, 2016 - 15:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|rogue}}",
+            "opponent2": "{{TeamOpponent|anox}}",
+            "map1": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map2": "{{Map|map=Lijiang Tower|mode=Control|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Dorado|mode=Escort|score1=|score2=|winner=skip}}",
+            "optional": "M1="
+        },
+        {
+            "date": "September 28, 2016 - 16:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|misfits}}",
+            "opponent2": "{{TeamOpponent|lg}}",
+            "map1": "{{Map|map=Nepal|mode=Control|score1=3|score2=0|winner=1}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=3|score2=1|winner=1}}",
+            "map3": "{{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=skip}}",
+            "optional": "M2="
+        },
+        {
+            "date": "September 28, 2016 - 17:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|rogue}}",
+            "opponent2": "{{TeamOpponent|misfits}}",
+            "map1": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=5|score2=3|winner=1}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=1|score2=0|winner=1}}",
+            "map3": "{{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=skip}}",
+            "optional": "M3="
+        },
+        {
+            "date": "September 28, 2016 - 18:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|anox}}",
+            "opponent2": "{{TeamOpponent|lg}}",
+            "map1": "{{Map|map=Nepal|mode=Control|score1=0|score2=3|winner=2}}",
+            "map2": "{{Map|map=Route 66|mode=Escort|score1=1|score2=3|winner=2}}",
+            "map3": "{{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=skip}}",
+            "optional": "M4="
+        },
+        {
+            "date": "September 29, 2016 - 11:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|misfits}}",
+            "opponent2": "{{TeamOpponent|lg}}",
+            "map1": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=0|winner=1}}",
+            "map2": "{{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Hollywood|mode=Hybrid|score1=|score2=|winner=skip}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "3",
+            "date": "September 26, 2016 - 12:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|nv}}",
+            "opponent2": "{{TeamOpponent|cloud9}}",
+            "map1": "{{Map|map=Numbani|mode=Hybrid|score1=3|score2=0|winner=1}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=2|score2=3|winner=2}}",
+            "map3": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=1|winner=1}}",
+            "map4": "{{Map|map=Route 66|mode=Escort|score1=3|score2=2|winner=1}}",
+            "map5": "{{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=skip}}",
+            "overgg": "1774",
+            "pf": "14459",
+            "optional": "R1M1="
+        },
+        {
+            "date": "September 26, 2016 - 13:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|fnatic}}",
+            "opponent2": "{{TeamOpponent|nrg}}",
+            "map1": "{{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map2": "{{Map|map=Dorado|mode=Escort|score1=4|score2=3|winner=1}}",
+            "map3": "{{Map|map=Hanamura|mode=Assault|score1=2|score2=1|winner=1}}",
+            "map4": "{{Map|map=Volskaya Industries|mode=Assault|score1=|score2=|winner=skip}}",
+            "map5": "{{Map|map=Nepal|mode=Control|score1=|score2=|winner=skip}}",
+            "overgg": "1783",
+            "pf": "14460",
+            "optional": "R1M2="
+        },
+        {
+            "date": "September 29, 2016 - 12:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|nip}}",
+            "opponent2": "{{TeamOpponent|misfits}}",
+            "map1": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=0|score2=3|winner=2}}",
+            "map2": "{{Map|map=Hollywood|mode=Hybrid|score1=0|score2=3|winner=2}}",
+            "map3": "{{Map|map=Eichenwalde|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "map4": "{{Map|map=King's Row|mode=Hybrid|score1=1|score2=3|winner=2}}",
+            "map5": "{{Map|map=Route 66|mode=Escort|score1=|score2=|winner=skip}}",
+            "overgg": "1816",
+            "pf": "14456",
+            "optional": "R1M3="
+        },
+        {
+            "date": "September 29, 2016 - 13:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|rogue}}",
+            "opponent2": "{{TeamOpponent|faze}}",
+            "map1": "{{Map|map=Hollywood|mode=Hybrid|score1=3|score2=4|winner=2}}",
+            "map2": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=3|winner=2}}",
+            "map3": "{{Map|map=Hanamura|mode=Assault|score1=2|score2=1|winner=1}}",
+            "map4": "{{Map|map=Eichenwalde|mode=Hybrid|score1=4|score2=3|winner=1}}",
+            "map5": "{{Map|map=Route 66|mode=Escort|score1=3|score2=2|winner=1}}",
+            "overgg": "1818",
+            "pf": "14457",
+            "optional": "R1M4="
+        },
+        {
+            "bestof": "3",
+            "date": "September 26, 2016 - 14:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|nv}}",
+            "opponent2": "{{TeamOpponent|fnatic}}",
+            "map1": "{{Map|map=King's Row|mode=Hybrid|score1=0|score2=1|winner=2}}",
+            "map2": "{{Map|map=Lijiang Tower|mode=Control|score1=3|score2=0|winner=1}}",
+            "map3": "{{Map|map=Dorado|mode=Escort|score1=3|score2=1|winner=1}}",
+            "map4": "{{Map|map=Nepal|mode=Control|score1=3|score2=0|winner=1}}",
+            "map5": "{{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}",
+            "overgg": "1789",
+            "pf": "14461",
+            "optional": "R2M1="
+        },
+        {
+            "date": "September 29, 2016 - 14:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|misfits}}",
+            "opponent2": "{{TeamOpponent|rogue}}",
+            "map1": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map2": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=1|score2=3|winner=2}}",
+            "map3": "{{Map|map=Route 66|mode=Escort|score1=2|score2=3|winner=2}}",
+            "map4": "{{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=1|winner=1}}",
+            "map5": "{{Map|map=Hollywood|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "overgg": "1825",
+            "pf": "14458",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "3",
+            "date": "September 30, 2016 - 22:00  {{Abbr/EDT}}",
+            "opponent1": "{{TeamOpponent|nv}}",
+            "opponent2": "{{TeamOpponent|misfits}}",
+            "map1": "{{Map|map=King's Row|mode=Hybrid|score1=1|score2=3|winner=2}}",
+            "map2": "{{Map|map=Nepal|mode=Control|score1=3|score2=0|winner=1}}",
+            "map3": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=1|score2=2|winner=2}}",
+            "map4": "{{Map|map=Lijiang Tower|mode=Control|score1=1|score2=3|winner=2}}",
+            "map5": "{{Map|map=Route 66|mode=Escort|score1=|score2=|winner=skip}}",
+            "overgg": "1793",
+            "pf": "14462",
+            "optional": "R3M1="
+        }
+    ]
+}

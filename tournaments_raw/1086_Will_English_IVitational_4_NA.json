@@ -1,0 +1,551 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "Will English IVitational",
+            "abbreviation": "IV",
+            "name": "Will English IVitational 4 - NA",
+            "shortname": "Will English IVitational 4 - NA",
+            "tickername": "Will English IVitational 4 - NA",
+            "image": "Will English IVitational.png",
+            "organizer": "Will English IV",
+            "organizer-link": "https://twitter.com/WillEnglishIV",
+            "type": "Offline",
+            "game": "overwatch",
+            "country": "United States",
+            "city": "Schaumburg",
+            "venue": "[https://us.belong.gg/arenas/Schaumburg-Foxes Belong Arena Schaumburg]",
+            "format": "",
+            "prizepoolusd": "1,000",
+            "sdate": "2022-07-30",
+            "edate": "2022-07-31",
+            "web": "",
+            "bracket": "https://battlefy.com/will-english-iv/the-overwatch-ivitational-4-lan-belong-arena/62c1ce414e52252b111c5b40/info?infoTab=details",
+            "youtube": "",
+            "discord": "",
+            "rulebook": "https://docs.google.com/document/d/10nz9l2e5VG-zwCITgkQhs2NlfmS-7EV5rUBbr21aU8E/edit",
+            "twitch": "willenglishiv",
+            "twitter": "willenglishiv",
+            "team_number": "13"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "1995 Bulls",
+            "p1": "AME|p1flag=us|pos1=dps",
+            "p2": "Fouji|p2flag=us|pos2=dps",
+            "p3": "squeaK|p3flag=us|pos3=tank",
+            "p4": "Cypress|p4flag=us|pos4=tank",
+            "p5": "Liek|p5flag=us|pos5=sup",
+            "p6": "Pando|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "A Mongoose",
+            "p1": "Glacial|p1flag=us|pos1=dps",
+            "p2": "jazza|p2flag=us|pos2=dps",
+            "p3": "Infekted|p3flag=|pos3=tank",
+            "p4": "Jishua|p4flag=|pos4=tank",
+            "p5": "Abyss|p5flag=us|pos5=sup",
+            "p6": "G\u00fcnther|p6flag=|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "LilLucio|t2pos1=manager"
+        },
+        {
+            "team": "Caeruleus",
+            "p1": "Cendrillon|p1flag=us|pos1=dps",
+            "p2": "Hypozes|p2flag=us|pos2=dps",
+            "p3": "Perfectity|p3flag=us|pos3=tank",
+            "p4": "Shromo|p4flag=us|pos4=tank",
+            "p5": "MewMew|p5flag=us|pos5=sup",
+            "p6": "Otos|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Children of the Corn",
+            "p1": "swimm7ng|p1flag=us|pos1=dps",
+            "p2": "yaressi|p2flag=us|pos2=dps",
+            "p3": "zhungy|p3flag=us|pos3=tank",
+            "p4": "FlashFatal|p4flag=us|pos4=tank",
+            "p5": "zPanthr|p5flag=us|pos5=sup",
+            "p6": "Flumx|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Cucumber Chads",
+            "p1": "silent|p1flag=us|pos1=dps",
+            "p2": "Cash|p2flag=us|pos2=dps",
+            "p3": "HaMmEr|p3flag=us|pos3=tank",
+            "p4": "Garchomp|p4flag=us|pos4=tank",
+            "p5": "Shuki|p5flag=us|pos5=sup",
+            "p6": "Paradoxed|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Daminion",
+            "p1": "Benevolence|p1flag=us|pos1=dps",
+            "p2": "Zomb|p2flag=us|pos2=dps",
+            "p3": "Telmjcqn|p3flag=us|pos3=tank",
+            "p4": "Demitri|p4flag=us|pos4=tank",
+            "p5": "Dari|p5flag=us|pos5=sup",
+            "p6": "Flores|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Die Lit",
+            "p1": "Bun|p1flag=|pos1=dps",
+            "p2": "zeruhh|p2flag=|pos2=dps",
+            "p3": "Astronexz|p3flag=|pos3=tank",
+            "p4": "CLEAR|p4flag=jp|pos4=tank",
+            "p5": "FlawlessAerial|p5flag=us|pos5=tank",
+            "p6": "graham|p6flag=|pos6=sup",
+            "p7": "pink|p7flag=|pos7=sup",
+            "p8": "racer|p8flag=us|pos8=sup",
+            "t2title": "Staff",
+            "t2p1": "jVenom|t2pos1=coach"
+        },
+        {
+            "team": "Durpee Cheated",
+            "p1": "death|p1flag=us|pos1=dps",
+            "p2": "levi|p2flag=us|pos2=dps|p2link=levi (American player)",
+            "p3": "durpee|p3flag=us|pos3=tank",
+            "p4": "opia|p4flag=us|pos4=tank",
+            "p5": "Zeb|p5flag=us|pos5=tank",
+            "p6": "Skarm|p6flag=us|pos6=sup",
+            "p7": "zman|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "GoNext",
+            "p1": "Specs|p1flag=uk|pos1=dps",
+            "p2": "Mycrazycat|p2flag=|pos2=dps",
+            "p3": "Akash|p3flag=|pos3=tank",
+            "p4": "cowman711|p4flag=|pos4=tank",
+            "p5": "Wicca|p5flag=us|pos5=sup",
+            "p6": "Karova|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "kaiju corp kngc",
+            "p1": "One|p1flag=us|pos1=dps|p1link=One (American Player)",
+            "p2": "Yoshisaurus|p2flag=us|pos2=dps",
+            "p3": "InsaneWaya|p3flag=us|pos3=tank",
+            "p4": "Moe|p4flag=us|pos4=tank|p4link=Moe (American Player)",
+            "p5": "Aster|p5flag=us|pos5=sup",
+            "p6": "Prime|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Regen",
+            "p1": "LukeWarm|p1flag=us|pos1=dps",
+            "p2": "React|p2flag=|pos2=dps",
+            "p3": "Evei|p3flag=us|pos3=tank",
+            "p4": "Bladonn|p4flag=ca|pos4=tank",
+            "p5": "Pandamonium|p5flag=cn|pos5=sup",
+            "p6": "spaghetti|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "elijah|t2p1flag=uk|t2pos1=manager"
+        },
+        {
+            "team": "Rolling Ronalds",
+            "p1": "Kyte|p1flag=us|pos1=dps",
+            "p2": "Stardrummer|p2flag=us|pos2=dps",
+            "p3": "Nakano|p3flag=us|pos3=tank",
+            "p4": "ThatAFKNoob|p4flag=|pos4=tank",
+            "p5": "ILIKEMEN|p5flag=us|pos5=sup",
+            "p6": "annierisu|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Shikigami",
+            "p1": "Stone|p1flag=us|pos1=dps",
+            "p2": "AJMR|p2flag=us|pos2=dps",
+            "p3": "Saadist|p3flag=us|pos3=tank",
+            "p4": "AV2RY|p4flag=us|pos4=tank",
+            "p5": "Neptune|p5flag=us|pos5=sup|p5link=Neptune (American Player)",
+            "p6": "Deeko|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "Mercury|t2p1flag=us|t2pos1=coach",
+            "t2p2": "Aeroplayne|t2pos2=manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "July 30, 2022 - 11:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|children of the corn|score=0}}",
+            "opponent2": "{{TeamOpponent|die lit|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 30, 2022 - 11:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|a mongoose|score=2}}",
+            "opponent2": "{{TeamOpponent|caeruleus|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "July 30, 2022 - 11:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|kaiju corp kngc|score=0}}",
+            "opponent2": "{{TeamOpponent|regen|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "July 30, 2022 - 12:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|gonext|score=0}}",
+            "opponent2": "{{TeamOpponent|die lit|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "July 30, 2022 - 12:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|a mongoose|score=2}}",
+            "opponent2": "{{TeamOpponent|regen|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "July 30, 2022 - 12:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|kaiju corp kngc|score=0}}",
+            "opponent2": "{{TeamOpponent|caeruleus|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "July 30, 2022 - 13:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|regen|score=2}}",
+            "opponent2": "{{TeamOpponent|children of the corn|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "July 30, 2022 - 13:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|gonext|score=2}}",
+            "opponent2": "{{TeamOpponent|caeruleus|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "3",
+            "date": "July 30, 2022 - 11:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|rolling ronalds|score=0}}",
+            "opponent2": "{{TeamOpponent|shikigami|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 30, 2022 - 12:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|daminion|score=0}}",
+            "opponent2": "{{TeamOpponent|1995 bulls|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "July 30, 2022 - 13:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|durpee cheated|score=2}}",
+            "opponent2": "{{TeamOpponent|shikigami|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "July 30, 2022 - 13:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|cucumber chads|score=2}}",
+            "opponent2": "{{TeamOpponent|1995 bulls|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "July 30, 2022 - 14:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|1995 bulls|score=2}}",
+            "opponent2": "{{TeamOpponent|rolling ronalds|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "July 30, 2022 - 14:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|shikigami|score=2}}",
+            "opponent2": "{{TeamOpponent|daminion|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "3",
+            "date": "July 30, 2022 - 17:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|1995 bulls|score=2}}",
+            "opponent2": "{{TeamOpponent|rolling ronalds|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "July 30, 2022 - 17:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|cucumber chads|score=2}}",
+            "opponent2": "{{TeamOpponent|kaiju corp kngc|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "July 30, 2022 - 17:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|regen|score=2}}",
+            "opponent2": "{{TeamOpponent|daminion|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "July 30, 2022 - 17:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|shikigami|score=2}}",
+            "opponent2": "{{TeamOpponent|children of the corn|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "July 30, 2022 - 17:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|gonext|score=2}}",
+            "opponent2": "{{TeamOpponent|caeruleus|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "July 30, 2022 - 18:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|die lit|score=2}}",
+            "opponent2": "{{TeamOpponent|1995 bulls|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "July 30, 2022 - 18:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|cucumber chads|score=2}}",
+            "opponent2": "{{TeamOpponent|regen|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "July 30, 2022 - 18:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|a mongoose|score=0}}",
+            "opponent2": "{{TeamOpponent|shikigami|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M3="
+        },
+        {
+            "date": "July 30, 2022 - 18:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|durpee cheated|score=2}}",
+            "opponent2": "{{TeamOpponent|gonext|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M4="
+        },
+        {
+            "date": "July 30, 2022 - 19:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|die lit|score=2}}",
+            "opponent2": "{{TeamOpponent|cucumber chads|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "July 30, 2022 - 19:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|shikigami|score=1}}",
+            "opponent2": "{{TeamOpponent|durpee cheated|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "July 31, 2022 - 16:00 {{Abbr/CDT}}",
+            "twitch": "willenglishiv",
+            "opponent1": "{{TeamOpponent|die lit|score=3}}",
+            "opponent2": "{{TeamOpponent|durpee cheated|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M1="
+        },
+        {
+            "date": "July 30, 2022 - 18:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|daminion|score=2}}",
+            "opponent2": "{{TeamOpponent|kaiju corp kngc|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 30, 2022 - 19:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|gonext|score=2}}",
+            "opponent2": "{{TeamOpponent|rolling ronalds|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "July 30, 2022 - 19:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|a mongoose|score=2}}",
+            "opponent2": "{{TeamOpponent|daminion|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "July 30, 2022 - 20:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|regen|score=2}}",
+            "opponent2": "{{TeamOpponent|children of the corn|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "July 30, 2022 - 20:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|1995 bulls|score=2}}",
+            "opponent2": "{{TeamOpponent|caeruleus|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M9="
+        },
+        {
+            "date": "July 31, 2022 - 13:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|gonext|score=0}}",
+            "opponent2": "{{TeamOpponent|a mongoose|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M5="
+        },
+        {
+            "date": "July 31, 2022 - 13:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|regen|score=2}}",
+            "opponent2": "{{TeamOpponent|1995 bulls|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M6="
+        },
+        {
+            "date": "July 31, 2022 - 14:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|cucumber chads|score=0}}",
+            "opponent2": "{{TeamOpponent|a mongoose|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "July 31, 2022 - 14:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|shikigami|score=1}}",
+            "opponent2": "{{TeamOpponent|regen|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "July 31, 2022 - 16:00 {{Abbr/CDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|a mongoose|score=2}}",
+            "opponent2": "{{TeamOpponent|regen|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "bestof": "5",
+            "date": "July 31, 2022 - 17:30 {{Abbr/CDT}}",
+            "twitch": "willenglishiv",
+            "opponent1": "{{TeamOpponent|durpee cheated|score=0}}",
+            "opponent2": "{{TeamOpponent|a mongoose|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M2="
+        },
+        {
+            "bestof": "5",
+            "date": "July 31, 2022 - 19:00 {{Abbr/CDT}}",
+            "twitch": "willenglishiv",
+            "opponent1": "{{TeamOpponent|die lit|score=3}}",
+            "opponent2": "{{TeamOpponent|a mongoose|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R7M1="
+        }
+    ]
+}

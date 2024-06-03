@@ -1,0 +1,131 @@
+{{Lantrek Tabs}}
+{{DISPLAYTITLE:Lantrek 2019}}
+{{Infobox league
+|series=Lantrek
+|image=Lantrek 2019.png
+|icon=Lantrek-icon.png
+|name=Lantrek 2019
+|shortname=Lantrek 2019
+|tickername=Lantrek 2019
+|organizer=Lantrek ry
+|sponsor=
+|type=Offline
+|country=Finland
+|city=Tampere
+|venue=[https://www.tampereenmessut.fi/tampereen_messu__ja_urheilukeskus/ Tampereen Messu- ja Urheilukeskus]
+|format=Double Elimination
+|prizepool=5,000
+|localcurrency=eur
+|prizepoolusd=5,672
+|date=2019-03-02
+|website=https://2019.lantrek.org/
+|bracket=https://lantrek.xerberusapp.com/tournaments/tournament/89/omen-by-hp-overwatch-non-byoc
+|twitter=LanTrekRy
+|facebook=lantrek.org
+|instagram=lantrekofficial
+|youtube=
+|leagueid=
+|team_number=4
+|liquipediatier={{TierText/3}}
+}}
+
+==Format==
+* Double elimination bracket
+* Matches are {{abbr/Bo3}}
+* Grand Finale is {{abbr/Bo5}}
+
+==Prize Distribution==
+€5,000{{abbr/EUR}} will be spread among teams as seen below:
+{{prize pool start|localcurrency=eur }}
+{{prize pool slot|place=1 |usdprize=4,551|localprize=4,000 |vuohilauma |lastvs1=nyyrikki frost |lastscore1=3 |lastvsscore1=1 }}
+{{prize pool slot|place=2 |usdprize=1,138|localprize=1,000 |nyyrikki frost |lastvs1=vuohilauma |lastscore1=1 |lastvsscore1=3 }}
+{{prize pool slot|place=3 |usdprize=0|localprize=0 |nyyrikki ice |lastvs1=nyyrikki frost |lastscore1=0 |lastvsscore1=2 }}
+{{prize pool slot|place=4 |usdprize=0 |localprize=0 |nemesis (finnish team) |lastvs1=nyyrikki ice |lastscore1=0 |lastvsscore1=2 }}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|team=Nemesis
+|image=Nemesis fi logo.png
+|p1flag=fi |p1=KarvaRausku |pos1=dps
+|p2flag=fi |p2=Olu |pos2=dps
+|p3flag=fi |p3=baba |pos3=flex
+|p4flag=fi |p4=Kouhia |pos4=tank
+|p5flag=fi |p5=Hepa |pos5=support
+|p6flag=fi |p6=Vahv |pos6=support
+|t2title=Staff
+|t2c1=Kuhnu|t2c1flag=fi|t2c1pos=manager
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NYYRIKKI FROST
+|image=NYYRIKKI.png
+|p1flag=fi |p1=SKIPAH |pos1=dps
+|p2flag=fi |p2=Tseini |pos2=dps
+|p3flag=fi |p3=xVestola |pos3=flex
+|p4flag=fi |p4=Lepadef |pos4=tank
+|p5flag=fi |p5=Brokkie |pos5=support
+|p6flag=se |p6=Dennia |pos6=support
+|c=CommanderX |cflag=uk
+|qualifier=Online Qualifier
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Vuohilauma
+|image=vuohilauma.png
+|p1flag=fi |p1=Crea |pos1=dps
+|p2flag=fi |p2=Bepis |pos2=dps
+|p3flag=fi |p3=Setlet |pos3=flex
+|p4flag=fi |p4=Ruape |pos4=tank
+|p5flag=fi |p5=Mickji |pos5=support
+|p6flag=fi |p6=FaRmaS |pos6=support
+|c=höpö |cflag=fi
+|qualifier=Online Qualifier
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NYYRIKKI ICE
+|image=NYYRIKKI.png
+|p1flag=fi |p1=Mynatzau |pos1=dps
+|p2flag=fi |p2=Clowd |pos2=dps
+|p3flag=fi |p3=Akke |pos3=flex
+|p4flag=fi |p4=iRocket |pos4=tank
+|p5flag=fi |p5=snappe |pos5=support
+|p6flag=fi |p6=Anatec |pos6=support
+|c=lövi |cflag=fi
+|qualifier=BYOC Qualifier
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/4U2L1D|4DETeamBracket|type=team|id=kVHCsWgts1
+<!-- SEMIFINALS -->
+|R1D1team=nemesis (finnish team) |R1D1score=0 |R1D1win=
+|R1D2team=nyyrikki esports |R1D2score=2 |R1D2win=1
+}
+|R1D3team=nyyrikki frost |R1D3score=1 |R1D3win=
+|R1D4team=vuohilauma |R1D4score=2 |R1D4win=1
+}
+]
+<!-- WINNER'S FINALS -->
+|R2W1team=nyyrikki ice |R2W1score=1 |R2W1win=
+|R2W2team=vuohilauma |R2W2score=2 |R2W2win=1
+}
+<!-- LOSER'S ROUND 1 -->
+|R1D5team=nemesis (finnish team) |R1D5score=0 |R1D5win=
+|R1D6team=nyyrikki frost |R1D6score=2 |R1D6win=1
+}
+<!-- LOSER'S FINALS -->
+|R2D1team=nyyrikki ice |R2D1score=0 |R2D1win=
+|R2W3team=nyyrikki frost |R2W3score=2 |R2W3win=1
+}
+<!-- GRAND FINALS -->
+|R3W1team=vuohilauma |R3W1score=3 |R3W1win=1
+|R3W2team=nyyrikki frost |R3W2score=1 |R3W2win=
+}}
+
+==References==
+{{reflist}}

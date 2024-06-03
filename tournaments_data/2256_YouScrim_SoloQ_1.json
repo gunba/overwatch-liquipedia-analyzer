@@ -1,0 +1,406 @@
+{
+    "tournament_info": [
+        {
+            "name": "Youscrim SoloQ Tournament #1",
+            "image": "Youscrim.svg",
+            "shortname": "Youscrim SoloQ #1",
+            "tickername": "Youscrim SoloQ Tournament #1",
+            "organizer": "Youscrim",
+            "series": "Youscrim",
+            "sponsor": "",
+            "country": "Europe",
+            "type": "Online",
+            "format": "Single Elimination",
+            "game": "overwatch",
+            "prizepool": "90",
+            "localcurrency": "eur",
+            "date": "2022-10-01",
+            "liquipediatier": "5",
+            "web": "https://youscrim.com",
+            "twitter": "youscrim",
+            "discord": "youscrim",
+            "bracket": "https://brackethq.com/b/tlg6/",
+            "rulebook": "https://onedrive.live.com/?authkey=%21ANMbPPYGicIzdB0&cid=ED5DFD64D19537E1&id=ED5DFD64D19537E1%2110890&parId=ED5DFD64D19537E1%2110883&o=OneUp",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Que Pedo",
+            "p1": "Sekhmet",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Wys",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "PREASON",
+            "p3flag": "de",
+            "pos3": "tank",
+            "p4": "Yosheeeey",
+            "p4flag": "de",
+            "pos4": "tank",
+            "p5": "Teak2",
+            "p5flag": "de",
+            "pos5": "sup",
+            "p6": "Widowmainker",
+            "p6flag": "de",
+            "pos6": "sup"
+        },
+        {
+            "team": "jeleel",
+            "p1": "SeaGurkstaven",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Umbra",
+            "p2flag": "",
+            "pos2": "dps",
+            "p2link": "Umbra (European player)",
+            "p3": "goby",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Jonaspf",
+            "p4flag": "de",
+            "pos4": "tank",
+            "p5": "VisjePaktJe",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "WilliDieEnte",
+            "p6flag": "de",
+            "pos6": "sup"
+        },
+        {
+            "team": "afk",
+            "p1": "PC_Viking",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Toasted1554",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Speedy",
+            "p3flag": "at",
+            "pos3": "tank",
+            "p4": "OwLessTV",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "klondiek",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Novic",
+            "p6flag": "",
+            "pos6": "sup"
+        },
+        {
+            "team": "Ice Breakers",
+            "p1": "sin!",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Pikanew",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Mine",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "ZenBoi",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Maxwell_ow",
+            "p5flag": "de",
+            "pos5": "sup",
+            "p6": "blackmaniac",
+            "p6flag": "de",
+            "pos6": "sup"
+        },
+        {
+            "team": "blank",
+            "p1": "Sleyx",
+            "p1flag": "de",
+            "pos1": "dps",
+            "p2": "spark",
+            "p2flag": "",
+            "pos2": "dps",
+            "p2link": "spark (European player)",
+            "p3": "habit",
+            "p3flag": "de",
+            "pos3": "tank",
+            "p4": "JunJiRah",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Failed adoption",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Davinci",
+            "p6flag": "",
+            "pos6": "sup"
+        },
+        {
+            "team": "Normie Esports II",
+            "p1": "kn1FeR",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Yisa",
+            "p2flag": "de",
+            "pos2": "dps",
+            "p3": "Wilbos",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "gushgu",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "benn",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "FlashdragonHD",
+            "p6flag": "de",
+            "pos6": "sup"
+        },
+        {
+            "team": "ummmmm",
+            "p1": "evo",
+            "p1flag": "de",
+            "pos1": "dps",
+            "p2": "\u7a7a\u6c17",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "zNerd__",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "ZockerL",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Torment",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Lazyy",
+            "p6flag": "",
+            "pos6": "sup"
+        },
+        {
+            "team": "Not entirely sure",
+            "p1": "TerenZ",
+            "p1flag": "de",
+            "pos1": "",
+            "p2": "Dave W",
+            "p2flag": "de",
+            "pos2": "",
+            "p3": "zk",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "JespoVoices",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "WhatsitDoodar2000",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "kylpad",
+            "p6flag": "",
+            "pos6": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2022-10-01",
+            "opponent1": "Que Pedo",
+            "opponent1_score": 2,
+            "opponent2": "blank",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2022-10-01",
+            "opponent1": "ummmmm",
+            "opponent1_score": 0,
+            "opponent2": "AFK",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2022-10-01",
+            "opponent1": "Not entirely sure",
+            "opponent1_score": 2,
+            "opponent2": "jeleel",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2022-10-01",
+            "opponent1": "Normie Esports II",
+            "opponent1_score": 1,
+            "opponent2": "Ice Breakers",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "2022-10-01",
+            "opponent1": "Que Pedo",
+            "opponent1_score": 2,
+            "opponent2": "AFK",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2022-10-01",
+            "opponent1": "Not entirely sure",
+            "opponent1_score": 2,
+            "opponent2": "Ice Breakers",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "2022-10-01",
+            "opponent1": "Que Pedo",
+            "opponent1_score": 3,
+            "opponent2": "Not entirely sure",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

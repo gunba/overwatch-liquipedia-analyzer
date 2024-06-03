@@ -1,0 +1,306 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Showmatch",
+            "name": "Cloud Charity Cup",
+            "shortname": "Cloud Charity Cup",
+            "tickername": "Cloud Charity Cup",
+            "image": "Cloud Charity Cup allmode.png",
+            "icon": "Cloud Charity Cup allmode.png",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "sdate": "2022-12-29",
+            "edate": "2022-12-30",
+            "twitter": "CloudCharityCup",
+            "rulebook": "https://docs.google.com/document/d/1F34CTBKdF5c35plUDnnxrTtkPVSZ7oYQDeGrwBwzEZA/edit#",
+            "bracket": "https://cloud.slmn.gg/bracket",
+            "twitch": "badpachimarileague",
+            "team_number": "10"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Coyate Killer Gaming eSports",
+            "p1": "Havoc|p1flag=ca|pos1=dps",
+            "p2": "Zeus|p2flag=ca|pos2=dps",
+            "p3": "reality|p3flag=us|pos3=dps|p3link=CoachGary44",
+            "p4": "Infekted|p4flag=|pos4=tank",
+            "p5": "dongmin|p5flag=kr|pos5=tank",
+            "p6": "Shaq|p6flag=|pos6=sup",
+            "p7": "TurtlePunter|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Hog Riders",
+            "p1": "s9mm|p1flag=|pos1=dps",
+            "p2": "Kronik|p2flag=us|pos2=dps",
+            "p3": "Bion|p3flag=us|pos3=dps",
+            "p4": "Garchomp|p4flag=|pos4=tank",
+            "p5": "Aramori|p5flag=us|pos5=sup",
+            "p6": "Haley|p6flag=|pos6=sup",
+            "p7": "Abyss|p7flag=|pos7=sup"
+        },
+        {
+            "team": "Fruit Salad",
+            "p1": "Light|p1flag=|pos1=dps",
+            "p2": "scissors|p2flag=|pos2=dps",
+            "p3": "ZBRA|p3flag=us|pos3=tank",
+            "p4": "Otters|p4flag=|pos4=sup",
+            "p5": "Narwhal|p5flag=us|pos5=sup"
+        },
+        {
+            "team": "Monkeying Around",
+            "p1": "Aquamarine|p1flag=ca|pos1=dps",
+            "p2": "JiM|p2flag=us|pos2=dps",
+            "p3": "chungusdood|p3flag=us|pos3=dps",
+            "p4": "Santana|p4flag=cu|pos4=tank",
+            "p5": "toyota|p5flag=us|pos5=tank",
+            "p6": "overworld|p6flag=us|pos6=sup",
+            "p7": "psev|p7flag=ca|pos7=sup",
+            "p8": "cough1drop|p8flag=us|pos8=sup",
+            "p9": "StillKIWI|p9flag=|pos9=sup"
+        },
+        {
+            "team": "Whipped n Friends",
+            "p1": "Frost|p1flag=us|pos1=dps|p1link=Frost (American Player)",
+            "p2": "JinxyWinkxy|p2flag=us|pos2=dps",
+            "p3": "Pelacon|p3flag=us|pos3=tank",
+            "p4": "vaxtru|p4flag=us|pos4=sup",
+            "p5": "reverse|p5flag=us|pos5=sup|p5link=reverse (American Player)"
+        },
+        {
+            "team": "Open Season",
+            "p1": "zeruhh|p1flag=|pos1=dps",
+            "p2": "HaMmEr|p2flag=|pos2=dps",
+            "p3": "MovingFish7|p3flag=|pos3=tank",
+            "p4": "ImMushroom|p4flag=us|pos4=tank",
+            "p5": "Rakattack|p5flag=|pos5=sup",
+            "p6": "Abbs|p6flag=|pos6=sup",
+            "p7": "nvrcall|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Back in Black",
+            "p1": "Chopper|p1flag=|pos1=dps",
+            "p2": "Dynasty|p2flag=|pos2=dps",
+            "p3": "peace|p3flag=|pos3=dps",
+            "p4": "Haven|p4link=Haven (American Player)|p4flag=|pos4=dps",
+            "p5": "Lyte|p5flag=|pos5=tank",
+            "p6": "Badges|p6flag=us|pos6=tank",
+            "p7": "Cjay|p7flag=|pos7=sup",
+            "p8": "Momentum|p8flag=|pos8=sup",
+            "p9": "Aniyun|p9flag=|pos9=sup"
+        },
+        {
+            "team": "Angry Doomfist Noises",
+            "p1": "Snowl|p1flag=us|pos1=dps",
+            "p2": "Drifter|p2flag=us|pos2=dps",
+            "p3": "BackStabBud|p3flag=us|pos3=dps",
+            "p4": "GetQuakedOn|p4flag=us|pos4=tank",
+            "p5": "redex|p5flag=|pos5=sup",
+            "p6": "Muma|p6flag=|pos6=sup",
+            "p7": "ShartCandy|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "4722 Peak",
+            "p1": "Kermit|p1flag=us|pos1=dps",
+            "p2": "Luvisrage|p2flag=us|pos2=dps",
+            "p3": "Today|p3flag=us|pos3=tank",
+            "p4": "Aspen|p4flag=|pos4=sup",
+            "p5": "Abheek|p5flag=|pos5=sup",
+            "p6": "cal|p6flag=|pos6=sup"
+        },
+        {
+            "team": "sundekgrandma",
+            "p1": "Deku|p1flag=us|pos1=dps",
+            "p2": "Sunshine|p2flag=us|pos2=dps",
+            "p3": "Somjuu|p3flag=jm|pos3=tank",
+            "p4": "Beaver|p4flag=us|pos4=sup",
+            "p5": "Grandma|p5flag=ca|pos5=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "December 29, 2022 - 15:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|angry doomfist noises|score=}}",
+            "opponent2": "{{TeamOpponent|monkeying around|score=}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=Rialto|mode=Escort|score1=1|score2=2|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 29, 2022 - 15:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|whipped n friends|score=}}",
+            "opponent2": "{{TeamOpponent|sundekgrandma|score=}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=Rialto|mode=Escort|score1=|score2=|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 29, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|open season|score=}}",
+            "opponent2": "{{TeamOpponent|monkeying around|score=}}",
+            "map1": "{{Map|map=Ilios|mode=Control|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=Rialto|mode=Escort|score1=4|score2=5|winner=2}}",
+            "map3": "{{Map|map=Blizzard World|mode=Hybrid|score1=3|score2=1|winner=1}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "December 29, 2022 - 15:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|coyate killer gaming esports|score=}}",
+            "opponent2": "{{TeamOpponent|4722 peak|score=}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}",
+            "map2": "{{Map|map=Rialto|mode=Escort|score1=4|score2=3|winner=1}}",
+            "map3": "{{Map|map=King's Row|mode=Hybrid|score1=5|score2=4|winner=1}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "December 29, 2022 - 15:00 {{Abbr/EST}}",
+            "youtube": "|twitch=bpl",
+            "opponent1": "{{TeamOpponent|hog riders|score=}}",
+            "opponent2": "{{TeamOpponent|fruit salad|score=}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Route 66|mode=Escort|score1=0|score2=3|winner=2}}",
+            "map3": "{{Map|map=King's Row|mode=Hybrid|score1=5|score2=4|winner=1}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "December 29, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|back in black|score=}}",
+            "opponent2": "{{TeamOpponent|whipped n friends|score=}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=1}}",
+            "map2": "{{Map|map=Circuit Royal|mode=Escort|score1=4|score2=3|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "December 29, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=bpl",
+            "opponent1": "{{TeamOpponent|open season|score=}}",
+            "opponent2": "{{TeamOpponent|coyate killer gaming esports|score=}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=Rialto|mode=Escort|score1=2|score2=1|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "December 29, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|hog riders|score=}}",
+            "opponent2": "{{TeamOpponent|back in black|score=}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}",
+            "map2": "{{Map|map=Junkertown|mode=Escort|score1=|score2=|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "December 30, 2022 - 15:00 {{Abbr/EST}}",
+            "youtube": "|twitch=bpl",
+            "opponent1": "{{TeamOpponent|open season|score=0}}",
+            "opponent2": "{{TeamOpponent|back in black|score=2}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Rialto|mode=Escort|score1=0|score2=1|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "December 29, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|4722 peak|score=}}",
+            "opponent2": "{{TeamOpponent|fruit salad|score=}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Junkertown|mode=Escort|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Eichenwalde|mode=Hybrid|score1=2|score2=3|winner=2}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "December 29, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=bpl",
+            "opponent1": "{{TeamOpponent|angry doomfist noises|score=}}",
+            "opponent2": "{{TeamOpponent|sundekgrandma|score=}}",
+            "map1": "{{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=1|winner=1}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "December 29, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|monkeying around|score=}}",
+            "opponent2": "{{TeamOpponent|fruit salad|score=}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=Rialto|mode=Escort|score1=|score2=|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "December 29, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|whipped n friends|score=}}",
+            "opponent2": "{{TeamOpponent|angry doomfist noises|score=}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=2}}",
+            "map2": "{{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "December 29, 2022 - 18:00 {{Abbr/EST}}",
+            "youtube": "|twitch=bpl",
+            "opponent1": "{{TeamOpponent|hog riders|score=}}",
+            "opponent2": "{{TeamOpponent|fruit salad|score=}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Circuit Royal|mode=Escort|score1=0|score2=1|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M3="
+        },
+        {
+            "date": "December 29, 2022 - 18:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|coyate killer gaming esports|score=}}",
+            "opponent2": "{{TeamOpponent|angry doomfist noises|score=}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Rialto|mode=Escort|score1=1|score2=3|winner=2}}",
+            "map3": "{{Map|map=King's Row|mode=Hybrid|score1=4|score2=3|winner=1}}",
+            "optional": "R3M4="
+        },
+        {
+            "date": "December 30, 2022 - 15:00 {{Abbr/EST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|fruit salad|score=2}}",
+            "opponent2": "{{TeamOpponent|coyate killer gaming esports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "December 30, 2022 - 16:00 {{Abbr/EST}}",
+            "youtube": "|twitch=bpl",
+            "opponent1": "{{TeamOpponent|open season|score=1}}",
+            "opponent2": "{{TeamOpponent|fruit salad|score=2}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}",
+            "map2": "{{Map|map=Route 66|mode=Escort|score1=1|score2=0|winner=1}}",
+            "map3": "{{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=2|winner=2}}",
+            "optional": "R5M2="
+        },
+        {
+            "date": "December 30, 2022 - 17:00 {{Abbr/EST}}",
+            "youtube": "|twitch=bpl",
+            "opponent1": "{{TeamOpponent|back in black|score=}}",
+            "opponent2": "{{TeamOpponent|fruit salad|score=}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=3|winner=2}}",
+            "map4": "{{Map|map=Esperan\u00e7a|mode=Push|score1=126.26m|score2=39.16m|winner=1}}",
+            "optional": "R6M1="
+        }
+    ]
+}

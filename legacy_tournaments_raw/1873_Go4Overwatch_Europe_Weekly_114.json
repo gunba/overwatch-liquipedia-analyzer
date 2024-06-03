@@ -1,0 +1,158 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #114",
+            "image": "ESL Overwatch Community Cup.png",
+            "icon": "ESL-icon.png\u200e",
+            "series": "Go4Overwatch EU",
+            "shortname": "114",
+            "organizer": "ESL",
+            "format": "Single Elimination",
+            "type": "Online",
+            "country": "Europe",
+            "date": "2018-08-05",
+            "prizepoolusd": "116",
+            "localcurrency": "eur",
+            "prizepool": "100",
+            "web": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-114/",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-114/bracket/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "27",
+            "previous": "Go4Overwatch/Europe/Weekly/113{{!}}Go4 Europe Cup #113",
+            "next": "Go4Overwatch/Europe/Weekly/115{{!}}Go4 Europe Cup #115"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Ronin Horde",
+            "p1": "ImDeadInside|p1flag=ru",
+            "p2": "Stanyyy|p2flag=ru",
+            "p3": "Hojjke|p3flag=ru",
+            "p4": "Alexander|p4flag=ua",
+            "p5": "Sabrie|p5flag=ru",
+            "p6": "Bezpalivon|p6flag=ru"
+        },
+        {
+            "team": "Exious eSport",
+            "image": "Exious Esport logo.png",
+            "p1": "Basso|p1flag=it",
+            "p2": "Pyroenil|p2flag=fr",
+            "p3": "Twelve|p3flag=ch",
+            "p4": "Wally|p4flag=dk",
+            "p5": "Adreli|p5flag=fr",
+            "p6": "Mrmeeseeks|p6flag=nl",
+            "t2title": "Staff",
+            "t2c1": "Handsa|t2c1pos=coach"
+        },
+        {
+            "team": "orKs Grand Poitiers White",
+            "image": "Orks_Grand_Poitiers_logo_cleaned.png",
+            "p1": "Pikasc2 |p1flag=be",
+            "p2": "Hakan |p2flag=fr",
+            "p3": "Dekest |p3flag=fr",
+            "p4": "Reckless |p4flag=fr",
+            "p5": "bombiman |p5flag=fr",
+            "p6": "sStarb0i |p6flag=fr",
+            "c": "Wrath |cflag=fr",
+            "c2": "Sways |c2flag=fr"
+        },
+        {
+            "team": "Osh-Tekk Warriors",
+            "p1": "ToxinTV|p1flag=kw|pos1=dps",
+            "p2": "kssarplayz|p2flag=sa|pos2=dps",
+            "p3": "DeadLine|p3flag=kw|pos3=sup",
+            "p4": "Lorpq8|p4flag=dk|pos4=flex",
+            "p5": "VisT0|p5flag=sa|pos5=tank",
+            "p6": "BeCanBauer|p6flag=sa|pos6=sup"
+        },
+        {
+            "team": "TeamExile Overwatch",
+            "image": "Exile-logo.png",
+            "p1": "JSwinbu|p1flag=uk",
+            "p2": "MrMustachioo|p2flag=nl",
+            "p3": "Pyro|p3flag=se",
+            "p4": "Swalees|p4flag=de",
+            "p5": "TheAdim|p5flag=sk",
+            "p6": "iHaluks|p6flag=dk"
+        },
+        {
+            "team": "ANELE6",
+            "p1": "|p1flag=",
+            "p2": "Dhevin|p2flag=be",
+            "p3": "Kekbondi|p3flag=lb",
+            "p4": "fierce|p4flag=dk",
+            "p5": "fupzen|p5flag=dk",
+            "p6": "qrxu|p6flag=de"
+        },
+        {
+            "team": "butterfly sunshine boys",
+            "p1": "Berglund|p1flag=se",
+            "p2": "ChoccyMilk|p2flag=uk",
+            "p3": "Dannedd|p3flag=se",
+            "p4": "Kaas|p4flag=nl",
+            "p5": "bogur|p5flag=bg",
+            "p6": "moursi|p6flag=uk"
+        },
+        {
+            "team": "Okami eSports",
+            "image": "Okami_esports_logo.png",
+            "p1": "Dante|p1flag=be|p1link=Dante (Belgian player)",
+            "p2": "Kazuya|p2flag=uk",
+            "p3": "Maltteee|p3flag=se",
+            "p4": "Qwark28|p4flag=gr",
+            "p5": "ThaTAce|p5flag=de",
+            "p6": "thejamieson|p6flag=uk"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "marv united",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "ronin horde",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "power esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "ronin horde",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "butterfly sunshine boys",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "ronin horde",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "butterfly sunshine boys",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "orks gp white",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ronin horde",
+            "score2": "W",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "anele6",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

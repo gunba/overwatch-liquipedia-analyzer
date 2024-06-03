@@ -1,0 +1,94 @@
+{
+    "tournament_info": [
+        {
+            "name": "Semper Community Champions - Season 1",
+            "shortname": "Semper Community Champions - Season 1",
+            "tickername": "Semper Community Champions - Season 1",
+            "series": "Semper Community",
+            "image": "Semper Community allmode.png",
+            "icon": "Semper Community allmode.png",
+            "organizer": "Semper Community",
+            "sponsor": "",
+            "country": "Europe",
+            "type": "Online",
+            "format": "",
+            "prizepool": "100",
+            "localcurrency": "eur",
+            "prizepoolusd": "",
+            "sdate": "2021-07-26",
+            "edate": "2021-09-19",
+            "liquipediatier": "5",
+            "web": "",
+            "twitter": "",
+            "twitch": "",
+            "bracket": "",
+            "rulebook": "https://semper-community.de/de/ow/champions/rules/",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "3",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "AddFriend",
+            "image": "",
+            "p1": "Seagu|p1flag=de|pos1=tank",
+            "p2": "Shyraa|p2flag=be|pos2=tank",
+            "p3": "MaDetho|p3flag=de|pos3=dps",
+            "p4": "Reflection|p4flag=de|pos4=dps",
+            "p5": "Soax|p5flag=de|pos5=sup",
+            "p6": "GhosT|p6flag=dk|pos6=sup"
+        },
+        {
+            "team": "Event Horizon",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8=",
+            "p9": "|p9flag=|pos9="
+        },
+        {
+            "team": "Spirit of Salt",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6=",
+            "p7": "|p7flag=|pos7=",
+            "p8": "|p8flag=|pos8=",
+            "p9": "|p9flag=|pos9="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Spirit of Salt",
+            "score2": "L",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "AddFriend",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "Event Horizon",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "AddFriend",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

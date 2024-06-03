@@ -1,0 +1,93 @@
+{
+    "tournament_info": [
+        {
+            "name": "King of the Watch #1",
+            "image": "King of the watch logo.png",
+            "organizer": "Creation eSports",
+            "format": "Showmatch",
+            "type": "Online",
+            "country": "North America",
+            "date": "2015-11-28",
+            "prizepoolusd": "120",
+            "teamfirst": "team hubris",
+            "teamsecond": "not enigma",
+            "team_number": "2",
+            "twitch": "askjoshy",
+            "twitch2": "",
+            "bracket": "",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "map1": "Dorado",
+            "map2": "Hollywood",
+            "map3": "Watchpoint: Gibraltar"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Not Enigma",
+            "image": "",
+            "size": "",
+            "p1": "enigma |p1flag=us",
+            "p2": "clockwork |p2flag=us",
+            "p3": "Seagull |p3flag=us",
+            "p4": "oPlaiD |p4flag=us",
+            "p5": "dummy |p5flag=us",
+            "p6": "MESR |p6flag=us"
+        },
+        {
+            "team": "Team Hubris",
+            "image": "",
+            "size": "",
+            "p1": "coolmatt69 |p1flag=us",
+            "p2": "Talespin |p2flag=us",
+            "p3": "Chump |p3flag=us",
+            "p4": "Ras |p4flag=us",
+            "p5": "Minstrel |p5flag=us",
+            "p6": "Esper |p6flag=us"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "date": "November 28, 2015 - 13:10 {{Abbr/EST}}",
+            "finished": "true",
+            "match1": "{{Match/old",
+            "map": "Dorado",
+            "team2": "not enigma",
+            "score2": "2",
+            "win2": "1",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "team hubris",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "date": "November 28, 2015 - 14:40 {{Abbr/EST}}",
+            "finished": "true",
+            "match1": "{{Match/old",
+            "map": "Hollywood",
+            "team2": "not enigma",
+            "score2": "1",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "team hubris",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "date": "November 28, 2015 - 15:30 {{Abbr/EST}}",
+            "finished": "true",
+            "match1": "{{Match/old",
+            "map": "Watchpoint: Gibraltar",
+            "team2": "not enigma",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "team hubris",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

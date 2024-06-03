@@ -1,0 +1,951 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "liquipediatiertype": "Qualifier",
+            "series": "Collegiate Esports Commissioners Cup",
+            "abbreviation": "CECC",
+            "name": "CECC 2024 Midwest Regional",
+            "shortname": "2024 Midwest Regional",
+            "tickername": "CECC 2024 Midwest Regional",
+            "image": "CECC Midwest 2023 allmode.png",
+            "organizer": "Collegiate Sports Management Group",
+            "organizer-link": "https://collegiatesmg.com/esportsu/",
+            "type": "Online",
+            "country": "United States",
+            "game": "overwatch2",
+            "format": "",
+            "prizepoolusd": "2000",
+            "date": "2023-11-18",
+            "twitch": "esportsu",
+            "twitter": "esportsugaming",
+            "instagram": "esportsugaming",
+            "youtube": "channel/UCzRyKrjzuJASvkVVIds131A",
+            "web": "https://collegiatesmg.com/cecc/",
+            "discord": "esportsu",
+            "rulebook": "",
+            "bracket": "https://battlefy.com/csmgesportsu/cecc-midwest-regional-overwatch-2/64f74cf86bd77f2a3aef764b/info?infoTab=details",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Maryville University",
+            "p1": "k1ng",
+            "pos1": "dps",
+            "p2": "TR33",
+            "pos2": "dps",
+            "p3": "Vision",
+            "pos3": "dps",
+            "p4": "False",
+            "pos4": "tank",
+            "p5": "Danteh",
+            "pos5": "tank",
+            "p6": "Joobi",
+            "pos6": "sup",
+            "p7": "squid",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "iced",
+            "t2c1pos": "manager",
+            "qualifier": "[[/Qualifier|Midwest Qualifier]]",
+            "placement": "1"
+        },
+        {
+            "team": "Northwood University",
+            "p1": "Dynasty",
+            "pos1": "dps",
+            "p2": "Haven",
+            "pos2": "dps",
+            "p2link": "Haven (American Player)",
+            "p3": "DevilWood",
+            "p3flag": "uk",
+            "pos3": "dps",
+            "p4": "s9mm",
+            "pos4": "dps",
+            "p5": "cowman711",
+            "pos5": "tank",
+            "p6": "SZNS",
+            "pos6": "tank",
+            "p7": "mikeyy",
+            "pos7": "tank",
+            "p8": "Vega",
+            "pos8": "sup",
+            "p9": "Boat",
+            "pos9": "sup",
+            "t2title": "Staff",
+            "t2c1": "Faustus",
+            "t2c1pos": "coach",
+            "t2c2": "Tubesock",
+            "t2c2pos": "team manager",
+            "qualifier": "[[/Qualifier|Midwest Qualifier]]",
+            "placement": "2"
+        },
+        {
+            "team": "Illinois Orange",
+            "p1": "SillyPhil49",
+            "pos1": "dps",
+            "p2": "Exojay",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Chopper",
+            "pos3": "dps",
+            "p4": "Arcticshadow",
+            "p4flag": "us",
+            "pos4": "dps",
+            "p5": "zhulander",
+            "pos5": "tank",
+            "p6": "Honesty",
+            "pos6": "tank",
+            "p6link": "Danny (Polish Player)",
+            "p7": "marble",
+            "pos7": "sup",
+            "p8": "Surg",
+            "p8flag": "us",
+            "pos8": "sup",
+            "t2title": "Substitutes",
+            "t2p1": "cancel",
+            "t2p1pos": "tank",
+            "t2p2": "Khrimzon",
+            "t2p2pos": "tank",
+            "t2p3": "Th0r",
+            "t2p3pos": "sup",
+            "qualifier": "[[/Qualifier|Midwest Qualifier]]",
+            "placement": "3"
+        },
+        {
+            "team": "Illinois Wesleyan",
+            "p1": "WaVy",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Exo",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Kuzuryu",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Andrew",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p4link": "Andrew (American Player)",
+            "p5": "Mookie",
+            "p5flag": "us",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "B1G",
+            "t2c1flag": "us",
+            "t2c1pos": "coach",
+            "t2c2": "dekuscrub",
+            "t2c2pos": "manager",
+            "t2c3": "kurtis",
+            "t2c3pos": "manager",
+            "qualifier": "[[/Qualifier|Midwest Qualifier]]",
+            "placement": "4"
+        },
+        {
+            "team": "Wichita State",
+            "p1": "Pride",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "WidowWonTrix",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Wish",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "FlffyButDdly",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "TW877",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "Pineapple",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p6link": "Pineapple (American player)",
+            "p7": "Hanbei",
+            "pos7": "sup",
+            "p8": "Dampley",
+            "p8flag": "us",
+            "pos8": "sup",
+            "p9": "dingus",
+            "p9flag": "us",
+            "pos9": "",
+            "qualifier": "[[/Qualifier|Midwest Qualifier]]",
+            "placement": "5-8"
+        },
+        {
+            "team": "University of Missouri",
+            "p1": "BackStabBud",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Gambit",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "PingAnXiLe",
+            "p3flag": "cn",
+            "pos3": "dps",
+            "p4": "clairvoyant",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "ashli",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "TommySalami",
+            "p6flag": "us",
+            "pos6": "sup",
+            "t2title": "Substitutes",
+            "t2p1": "Krinkle",
+            "t2p1flag": "us",
+            "t2p1pos": "sub",
+            "qualifier": "[[/Qualifier|Midwest Qualifier]]",
+            "placement": "5-8"
+        },
+        {
+            "team": "Miami University",
+            "p1": "BoneSaw",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Wintur",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "BaByBackside",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "AceAlfonzo",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Ztrack",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "Pootrscootr",
+            "p6flag": "us",
+            "pos6": "tank",
+            "p7": "Shocker",
+            "p7flag": "us",
+            "pos7": "sup",
+            "p8": "KaBunga",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "Fahzix",
+            "t2c1pos": "coach",
+            "qualifier": "[[/Qualifier|Midwest Qualifier]]",
+            "placement": "5-8"
+        },
+        {
+            "team": "Ball State Red",
+            "p1": "Spencer",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "UcantCghost",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "NI\u01caACURLYFRY",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "Manwe",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Yakester",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "RavenStrider",
+            "p6flag": "us",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Otta",
+            "t2c1flag": "ca",
+            "t2c1pos": "coach",
+            "qualifier": "[[/Qualifier|Midwest Qualifier]]",
+            "placement": "5-8"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "November 18, 2023 - 12:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "maryville university",
+            "opponent1_score": 3,
+            "opponent2": "wichita state university",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 18, 2023 - 12:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illinois wesleyan university",
+            "opponent1_score": 2,
+            "opponent2": "university of missouri",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "November 18, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "maryville university",
+            "opponent1_score": 3,
+            "opponent2": "university of missouri",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 18, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "wichita state university",
+            "opponent1_score": 0,
+            "opponent2": "illinois wesleyan university",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "November 18, 2023 - 12:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "northwood university|score=FF",
+            "opponent2": "miami university|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 18, 2023 - 12:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illinois orange",
+            "opponent1_score": 3,
+            "opponent2": "ball state red",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "November 18, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "miami university",
+            "opponent1_score": 0,
+            "opponent2": "illinois orange",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 18, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "northwood university|score=FF",
+            "opponent2": "ball state red|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "November 18, 2023 - 14:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "maryville university|score=W",
+            "opponent2": "northwood university|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 18, 2023 - 14:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "mizzou esports",
+            "opponent1_score": 3,
+            "opponent2": "miami university",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "November 18, 2023 - 14:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illinois orange",
+            "opponent1_score": 3,
+            "opponent2": "wichita state university",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "November 18, 2023 - 14:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illinois wesleyan university",
+            "opponent1_score": 3,
+            "opponent2": "ball state red",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "November 18, 2023 - 16:45",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "maryville university",
+            "opponent1_score": 3,
+            "opponent2": "mizzou esports",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 18, 2023 - 16:45",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "illinois orange",
+            "opponent1_score": 3,
+            "opponent2": "illinois wesleyan university",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "November 18, 2023 - 17:30",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "esportsu",
+            "opponent1": "maryville university|score=W",
+            "opponent2": "illinois orange|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "comment": "[[University of Illinois Urbana-Champaign Orange]] forfeit the grand finals due to time conflicts with [[NACE_Starleague/2023/Fall/Open|NACE Starleague Open]].",
+            "optional": "R3M1="
+        }
+    ]
+}

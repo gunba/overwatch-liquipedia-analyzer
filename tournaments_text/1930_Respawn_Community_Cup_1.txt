@@ -1,0 +1,173 @@
+{{DISPLAYTITLE:Respawn Community Cup: 1}}{{Respawn Community Cup Navbox}}
+
+{{Infobox league
+|name=Respawn Community Cup #1
+|shortname=Respawn Cup 1
+|image=Respawn Logo.png
+|abbreviation=RCC
+|icon=Respawn Logo std.png
+|tickername=RCC #1
+|organizer=Respawn eSports Bar Vienna
+|sponsor=
+|platform=PC
+|series=Respawn Community Cup
+|type=Offline
+|country=Europe
+|format=Playoffs (Single Elimination)
+|prizepoolusd=370
+|localcurrency=312
+|sdate=2018-01-20
+|edate=2018-01-20
+|liquipediatier={{TierText/5}}
+|web=
+|twitch=
+|youtube=
+|bracket=https://www.toornament.com/tournaments/1025695455778897920/participants/
+|team_number=6
+}}
+
+==Overview==
+
+===Location===
+'''Respawn eSports Bar''' 
+
+U Bahn Bogen 185, 1190 Wien, Austria
+
+===Format===
+*'''General Rules''': Competitive Mode
+*'''Playoffs''': Single Elimination.
+**Quarterfinals: {{Abbr/Bo3}}
+**Finals: {{Abbr/Bo5}}
+*1 Hero Limit
+
+===Prize Pool===
+312 ({{Abbr/EUR}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=eur}}
+{{prize pool slot|place=1 |usdprize=200 |localprize=168|plan-b esports|lastvs1=uludag esports |lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot|place=2 |usdprize=170 |localprize=144 |uludag esports|lastvs1=plan-b esports |lastscore1=0 |lastvsscore1=3}}
+{{prize pool slot|place=3-4 |usdprize=0 |localprize=0 
+|rankone gaming|lastvs1=plan-b esports |lastscore1=0 |lastvsscore1=2
+|warkidz esports|lastvs2=uludag esports |lastscore2=0 |lastvsscore2=2}}
+{{prize pool slot|place=5-6 |usdprize=0|points=25
+|quickmaffs|lastvs1=rankone gaming|lastscore1=0 |lastvsscore1=2
+|random|lastvs2=warkidz esports|lastscore2=0 |lastvsscore2=2}}
+{{Prize pool end}}
+''Converted USD prizes are based on the currency exchange rate (taken from [http://xe.com xe.com]) on September 28th, 2017: 1 EUR = 1.19781 USD.''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=plan-B eSports
+|image=Plan-B eSports.png
+|p1=DrysTc|p1flag=at |pos1=dps
+|p2=HeroRay|p2flag=at |pos2=dps
+|p3=NULL |p3flag=at |p3link=NULL (Austrian player) |pos3=tank
+|p4=Se7enSins|p4flag=at |pos4=tank
+|p5=Abstructo|p5flag=at |pos5=sup
+|p6=ecLipse|p6flag=at |pos6=sup
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=quickmaffs
+|image=
+|p1=Sylvanas|p1flag=ch |pos1=dps
+|p2=chargi |p2flag=at |pos2=
+|p3=hanfii |p3flag=at |pos3=tank
+|p4=Hasselmann|p4flag=at |pos4=
+|p5=Difal|p5flag=at |pos5=sup
+|p6=Surface|p6flag=at |pos6=sup
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Random
+|image=
+|p1=Nerathon |p1flag=at |pos1=
+|p2=|p2flag= |pos2=
+|p3=|p3flag= |pos3=
+|p4=|p4flag= |pos4=
+|p5=|p5flag= |pos5=
+|p6=|p6flag= |pos6=
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=RankOne Gaming
+|image=RankOne_Gaming_logo.png
+|p1=Trollschnitz |p1flag=at |pos1=
+|p2=Avenger|p2flag=at |pos2=
+|p3=MisterB |p3flag=at |pos3=
+|p4=Fexor|p4flag=at |pos4=
+|p5=Screami|p5flag=at |pos5=
+|p6=Pachelor|p6flag=at |pos6=
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Uludag Esports
+|image=Uludag Logo.png
+|p1=Crow |p1flag=at |pos1=dps
+|p2=Itzeru|p2flag=at |pos2=dps
+|p3=kharma|p3flag=hu |pos3=tank
+|p4=Uwii|p4flag=at |pos4=tank
+|p5=Slatter|p5flag=at |pos5=sup
+|p6=ub3rb1ng0|p6flag=at |pos6=sup
+
+|c=|cflag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=WarKidZ eSports
+|image=Warkidz_logo_2.png
+|p1=ZerO |p1flag=at |pos1=
+|p2=LawleY|p2flag=at |pos2=
+|p3=Fredyseconds|p3flag=at |pos3=tank
+|p4=SoaŦrex|p4flag=at |pos4=
+|p5=Zerxes|p5flag=at |pos5=
+|p6=Tekvov|p6flag=at |pos6=sup
+|c=|cflag=
+}}
+{{box|end}}
+
+===Substitutes===
+{{Substitute table|
+{{Substitute table/row|team=warkidz esports|id=Xplvlup|flag=at|forid=Tekvov|forflag=at|description=vs. {{TeamIcon|random}} Quarterfinals}}
+}}
+
+==Results==
+{{LegacyBracket|Bracket/4L2DS|6SETeamBracket|type=team|id=KrVgr5MXHx
+<!-- ROUND OF 6 -->
+|R1D1team=rankone gaming |R1D1score=2 |R1D1win=1
+|R1D2team=quickmaffs |R1D2score=0 |R1D2win=
+|R1D3team=warkidz esports |R1D3score=2 |R1D3win=1
+|R1D4team=random |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=King's Row|map1score=1-0|map1win=1
+|map2=Oasis|map2score=2-0|map2win=1
+}}
+<!-- SEMIFINALS -->
+|R2D1team=plan-b esports |R2D1score=2 |R2D1win=1
+|R2W1team=rankone gaming |R2W1score=0 |R2W1win=
+|R2D2team=uludag esports |R2D2score=2 |R2D2win=1
+|R2W2team=warkidz esports |R2W2score=0 |R2W2win=
+<!-- FINALS -->
+|R3W1team=plan-b esports |R3W1score=3 |R3W1win=1
+|R3W2team=uludag esports |R3W2score=0 |R3W2win=
+|R3G1details={{BracketMatchSummary 
+|date=
+|finished=true
+|map1=Hollywood|map1score=2-1|map1win=1
+|map2=Ilios|map2score=2-0|map2win=1
+|map3=Route 66|map3score=3-2|map3win=1
+}}
+<!-- 3RD PLACE (optional) -->
+|R3D1team= |R3D1score= |R3D1win=
+|R3D2team= |R3D2score= |R3D2win=
+}}
+
+==References==
+{{Reflist}}

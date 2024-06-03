@@ -1,0 +1,45 @@
+{
+    "tournament_info": [
+        {
+            "name": "San Francisco Shock vs. O2 Blast Showmatch",
+            "shortname": "SFS vs. O2",
+            "image": "Shock O2 Blast lightmode.png",
+            "icon": "Shock O2 Blast lightmode.png",
+            "series": "",
+            "organizer": "San Francisco Shock",
+            "organizer2": "O2 Blast",
+            "sponsor": "[https://www.ampm.com/app ampm]",
+            "type": "Online",
+            "country": "North America",
+            "format": "",
+            "date": "2022-03-11",
+            "liquipediatier": "2|liquipediatiertype=Showmatch",
+            "web": "",
+            "youtube": "channel/UCFRweL546FCwYs7JVAz4FyA",
+            "twitter": "sfshock",
+            "twitter2": "o2blast_ow",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "San Francisco Shock",
+            "p1": "Proper|pos1=dps",
+            "p2": "Kilo|pos2=dps",
+            "p3": "s9mm|pos3=dps",
+            "p4": "super|pos4=tank",
+            "p5": "Viol2t|pos5=sup",
+            "p6": "FiNN|pos6=sup",
+            "p7": "|pos7=",
+            "p8": "|pos8=",
+            "t2title": "Staff",
+            "t2c1": "Crusty|t2c1pos=coach",
+            "t2c2": "NineK|t2c2pos=coach",
+            "t2c3": "Casores|t2c3pos=coach",
+            "t2c4": "Thugnasty|t2c4pos=manager",
+            "t2c5": "bikeage|t2c5pos=manager"
+        }
+    ],
+    "legacy_match_cards": [],
+    "match_maps": []
+}

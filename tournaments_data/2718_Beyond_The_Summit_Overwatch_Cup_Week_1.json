@@ -1,0 +1,491 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2",
+            "liquipediatiertype": "Qualifier",
+            "name": "BTS Overwatch Cup Week 1",
+            "series": "BTS",
+            "image": "BTS Overwatch Cup Icon.png",
+            "organizer": "Beyond The Summit",
+            "organizer-link": "http://beyondthesummit.tv/",
+            "sponsor": "",
+            "country": "North America",
+            "type": "Online",
+            "format": "",
+            "prizepoolusd": "",
+            "sdate": "2016-07-09",
+            "edate": "2016-07-10",
+            "web": "",
+            "twitch": "",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "8",
+            "team1": "Team EnVyUs",
+            "team2": "1SHOT",
+            "team3": "Northern Gaming Red",
+            "team4": "Team Liquid",
+            "team5": "Luminosity Gaming",
+            "team6": "Splyce",
+            "team7": "Cloud9",
+            "team8": "Code7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team EnVyUs",
+            "p1": "Talespin",
+            "p2": "INTERNETHULK",
+            "p3": "Taimou",
+            "p4": "cocco",
+            "p5": "chipshajen",
+            "p6": "HarryHook",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "1SHOT",
+            "p1": "PsychoWaffle",
+            "p2": "exi",
+            "p3": "ultimawep",
+            "p4": "Krawnnic",
+            "p5": "DoT",
+            "p6": "Roolf",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Northern Gaming Red",
+            "p1": "NapTime",
+            "p2": "Wolf",
+            "p3": "Mangachu",
+            "p4": "BreadExpert",
+            "p5": "Chance",
+            "p6": "Bird",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Team Liquid",
+            "p1": "DaHanG",
+            "p2": "dummy",
+            "p3": "MESR",
+            "p4": "AZK",
+            "p5": "minstrel",
+            "p6": "id_",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Luminosity Gaming",
+            "p1": "Seagull",
+            "p2": "milo",
+            "p3": "enigma",
+            "p4": "Gods",
+            "p5": "Pookz",
+            "p6": "",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Splyce",
+            "p1": "PYYYOUR",
+            "p2": "clockwork",
+            "p3": "flame",
+            "p4": "PapaSmurf",
+            "p5": "cozen",
+            "p6": "sycknesS",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Cloud9",
+            "p1": "KyKy",
+            "p2": "Grego",
+            "p3": "Surefour",
+            "p4": "Adam",
+            "p5": "reaver",
+            "p6": "deBett",
+            "qualifier": "Invited"
+        },
+        {
+            "team": "Code7",
+            "notes": "1",
+            "p1": "torkTJO",
+            "p2": "NicolasTJO",
+            "p3": "jkw",
+            "p4": "Joemeister ",
+            "p4flag": "ca",
+            "p5": "Shake",
+            "p6": "harbleu",
+            "qualifier": "Invited"
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "July 9, 2016 - 11:00",
+            "date_timezone": "PDT",
+            "opponent1": "nv",
+            "opponent1_score": 2,
+            "opponent2": "1shot",
+            "opponent2_score": 0,
+            "winner": "1",
+            "stream": "beyondthesummit",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "vod": "https://www.youtube.com/watch?v=iZH3HaaqZlU",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "vod": "https://www.youtube.com/watch?v=8MPs5z6LXIg",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "winner": "skip"
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 9, 2016 - 12:00",
+            "date_timezone": "PDT",
+            "opponent1": "ngred",
+            "opponent1_score": 2,
+            "opponent2": "liquid",
+            "opponent2_score": 1,
+            "winner": "1",
+            "stream": "beyondthesummit",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "vod": "https://www.youtube.com/watch?v=3DRTcTCZlSQ",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "vod": "https://www.youtube.com/watch?v=ccSC4sGa6m8",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Nepal",
+                "mode": "Control",
+                "vod": "https://www.youtube.com/watch?v=qk7ZRX0fMyg",
+                "winner": "1"
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "July 9, 2016 - 13:00",
+            "date_timezone": "PDT",
+            "opponent1": "lg",
+            "opponent1_score": 2,
+            "opponent2": "splyce",
+            "opponent2_score": 0,
+            "winner": "1",
+            "stream": "beyondthesummit",
+            "map1": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Nepal",
+                "mode": "Control",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "winner": "skip"
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "July 9, 2016 - 14:00",
+            "date_timezone": "PDT",
+            "opponent1": "c9",
+            "opponent1_score": 2,
+            "opponent2": "code7",
+            "opponent2_score": 1,
+            "winner": "1",
+            "stream": "beyondthesummit",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "vod": "https://www.youtube.com/watch?v=6SIT8IcIFB8",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "vod": "https://www.youtube.com/watch?v=DvWvDmJ7Zkc",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "vod": "https://www.youtube.com/watch?v=G5zp1KHR9nU",
+                "winner": "1"
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "July 9, 2016 - 18:00",
+            "date_timezone": "PDT",
+            "opponent1": "nv",
+            "opponent1_score": 2,
+            "opponent2": "ngred",
+            "opponent2_score": 0,
+            "winner": "1",
+            "stream": "",
+            "map1": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "winner": "skip"
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "July 9, 2016 - 17:00",
+            "date_timezone": "PDT",
+            "opponent1": "lg",
+            "opponent1_score": 0,
+            "opponent2": "c9",
+            "opponent2_score": 2,
+            "winner": "2",
+            "stream": "",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "winner": "skip"
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "July 10, 2016 - 14:00",
+            "date_timezone": "PDT",
+            "opponent1": "nv",
+            "opponent1_score": 3,
+            "opponent2": "c9",
+            "opponent2_score": 0,
+            "winner": "1",
+            "stream": "",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Nepal",
+                "mode": "Control",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "winner": "skip"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "winner": "skip"
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "July 9, 2016 - 15:00",
+            "date_timezone": "PDT",
+            "opponent1": "1shot",
+            "opponent1_score": 0,
+            "opponent2": "liquid",
+            "opponent2_score": 2,
+            "winner": "2",
+            "stream": "beyondthesummit",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "vod": "https://www.youtube.com/watch?v=onYcTjHOuBA",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "vod": "https://www.youtube.com/watch?v=p92PblKZsjQ",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "winner": "skip"
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "July 9, 2016 - 16:00",
+            "date_timezone": "PDT",
+            "opponent1": "splyce",
+            "opponent1_score": 0,
+            "opponent2": "code7",
+            "opponent2_score": 2,
+            "winner": "2",
+            "stream": "beyondthesummit",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "vod": "https://www.youtube.com/watch?v=vcRvlKxWA7s",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "vod": "https://www.youtube.com/watch?v=qnLipA1-T74",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "winner": "skip"
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "July 10, 2016 - 12:00",
+            "date_timezone": "PDT",
+            "opponent1": "lg",
+            "opponent1_score": 2,
+            "opponent2": "liquid",
+            "opponent2_score": 0,
+            "winner": "1",
+            "stream": "",
+            "map1": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "winner": "skip"
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "July 10, 2016 - 13:00",
+            "date_timezone": "PDT",
+            "opponent1": "ngred",
+            "opponent1_score": 1,
+            "opponent2": "code7",
+            "opponent2_score": 2,
+            "winner": "2",
+            "stream": "",
+            "map1": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "winner": "2"
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "July 10, 2016 - 16:00",
+            "date_timezone": "PDT",
+            "opponent1": "luminosity",
+            "opponent1_score": 0,
+            "opponent2": "code7",
+            "opponent2_score": 2,
+            "winner": "2",
+            "stream": "",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "winner": "skip"
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "July 10, 2016 - 17:00",
+            "date_timezone": "PDT",
+            "opponent1": "c9",
+            "opponent1_score": 1,
+            "opponent2": "code7",
+            "opponent2_score": 3,
+            "winner": "2",
+            "stream": "",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Ilios",
+                "mode": "Control",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "winner": "skip"
+            },
+            "optional": "R4M2="
+        }
+    ]
+}

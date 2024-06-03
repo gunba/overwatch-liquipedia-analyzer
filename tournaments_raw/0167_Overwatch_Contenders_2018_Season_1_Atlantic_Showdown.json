@@ -1,0 +1,72 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2|liquipediatiertype=Showmatch",
+            "series": "Overwatch Contenders",
+            "abbreviation": "OWC",
+            "shortname": "OWC Atlantic Showdown",
+            "name": "Overwatch Contenders 2018 Season 1: Atlantic Showdown",
+            "tickername": "OWC Atlantic Showdown",
+            "image": "Overwatch Contenders logo 2018.png",
+            "icon": "Overwatch Contenders 2018 allmode.png",
+            "organizer": "Blizzard",
+            "organizer-link": "http://www.blizzard.com",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "Poland",
+            "city": "Alwernia",
+            "venue": "[http://alverniaplanet.com/ Alvernia Planet]",
+            "twitch": "overwatchcontenders",
+            "format": "Showmatch",
+            "prizepoolusd": "",
+            "date": "2018-05-13",
+            "web": "https://www.overwatchcontenders.com/",
+            "bracket": "",
+            "youtube": "channel/UC0DomVwX-rNlogUVPqCHL_Q",
+            "twitter": "owpathtopro",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "British Hurricane",
+            "p1": "Kyb |pos1=dps",
+            "p2": "Kragie |pos2=dps",
+            "p3": "Hafficool |pos3=flex",
+            "p4": "Fusions |pos4=tank",
+            "p5": "CrusaDe |pos5=sup",
+            "p6": "bock1 |pos6=sup",
+            "p7": "FunnyAstro |p7flag=uk |pos7=sup",
+            "t2title": "Staff",
+            "t2p1": "Shifty|t2p1flag=US|t2pos1=Coach",
+            "t2p2": "Noukky|t2pos2=Manager",
+            "qualifier": "[[Overwatch_Contenders/2018/Season_1/Europe|EU Champions]]"
+        },
+        {
+            "team": "Fusion University",
+            "p1": "WhoRU |pos1=dps",
+            "p2": "ZachaREEE |pos2=dps",
+            "p3": "crakinlakin |pos3=flex",
+            "p4": "Beasthalo |pos4=tank",
+            "p5": "Alarm |pos5=sup",
+            "p6": "Elk |pos6=sup",
+            "c": "pajion|cflag=kr",
+            "qualifier": "[[Overwatch_Contenders/2018/Season_1/North_America|NA Champions]]"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "May 13, 2018 - 11:00 {{Abbr/PDT}}",
+            "youtube": "|twitch=Overwatch Contenders",
+            "opponent1": "{{TeamOpponent|british hurricane}}",
+            "opponent2": "{{TeamOpponent|fusion university}}",
+            "map1": "{{Map|map=Ilios|mode=Control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=Numbani|mode=Hybrid|score1=3|score2=0|winner=1}}",
+            "map3": "{{Map|map=Horizon Lunar Colony|mode=Assault|score1=3|score2=4|winner=2}}",
+            "map4": "{{Map|map=Junkertown|mode=Escort|score1=4|score2=3|winner=1}}",
+            "vod": "https://youtu.be/dJ8ML9rP-SA",
+            "vod2": "https://youtu.be/femHqX1BKE0"
+        }
+    ]
+}

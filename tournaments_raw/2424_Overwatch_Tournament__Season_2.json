@@ -1,0 +1,166 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Overwatch Tournament+ Season 2 By AfreecaTV",
+            "shortname": "Overwatch Tournament+ S2 By AfreecaTV",
+            "tickername": "Overwatch Tournament+ Season 2 By AfreecaTV",
+            "image": "",
+            "organizer": "Plus Arena Thailand",
+            "organizer-link": "https://www.facebook.com/plus.arena.thailand/",
+            "sponsor": "[https://afreecatv.com/ AfreecaTV]<br>",
+            "type": "Online",
+            "country": "Thailand",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepool": "5,000",
+            "localcurrency": "thb",
+            "sdate": "2023-02-13",
+            "edate": "2023-02-16",
+            "discord": "Q79YM853KM",
+            "facebook": "plus.arena.thailand",
+            "afreeca": "plusarena",
+            "youtube": "",
+            "bracket": "https://challonge.com/8knnbzhg",
+            "team_number": "19"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Angelica Esport",
+            "p1": "Maksal|p1flag=th|pos1=dps",
+            "p2": "JayCo|p2flag=th|pos2=dps",
+            "p3": "HyVision|p3flag=th|pos3=dps",
+            "p4": "Kallbun|p4flag=th|pos4=tank",
+            "p5": "AnandaS|p5flag=th|pos5=sup",
+            "p6": "McGREY|p6flag=th|pos6=sup"
+        },
+        {
+            "team": "44AGAIN",
+            "p1": "qcy|p1flag=th|pos1=",
+            "p2": "\u0e2a\u0e25\u0e31\u0e14\u0e1c\u0e31\u0e01|p2flag=th|pos2=",
+            "p3": "SixKorn|p3flag=th|pos3=",
+            "p4": "\u0e40\u0e2e\u0e35\u0e22\u0e2b\u0e21\u0e39|p4flag=th|pos4=",
+            "p5": "jayzvouch|p5flag=th|pos5=",
+            "p6": "Foamymikey|p6flag=th|pos6=",
+            "p7": "Memekhos|p7flag=th|pos7="
+        },
+        {
+            "team": "Jaguars Esports",
+            "p1": "Shakeit|p1flag=th|pos1=dps",
+            "p2": "Cyber|p2flag=th|pos2=dps|p2link=Cyber (Thai Player)",
+            "p3": "Seallenyx|p3flag=th|pos3=dps",
+            "p4": "manghoe|p4flag=th|pos4=tank",
+            "p5": "Personate|p5flag=th|pos5=sup",
+            "p6": "Kyungsoo|p6flag=th|pos6=sup",
+            "p7": "Paper|p7flag=th|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "manghoe|t2c1flag=th|t2c1pos=coach",
+            "": ""
+        },
+        {
+            "team": "Overrant",
+            "p1": "ExodusR|p1flag=th|pos1=",
+            "p2": "gunzaakill|p2flag=th|pos2=",
+            "p3": "te3aco2lz|p3flag=th|pos3=",
+            "p4": "sterk|p4flag=th|pos4=",
+            "p5": "HarutobI|p5flag=th|pos5=",
+            "p6": "Adisa|p6flag=th|pos6=",
+            "p7": "KhawKriab|p7flag=th|pos7="
+        },
+        {
+            "team": "Fade",
+            "link": "Fade (Thai team)",
+            "p1": "ong10|p1flag=th|pos1=dps",
+            "p2": "Protagonist|p2flag=th|pos2=dps",
+            "p3": "ColdOrginZ|p3flag=th|pos3=dps",
+            "p4": "Tartoruz|p4flag=th|pos4=tank",
+            "p5": "Fond|p5flag=th|pos5=sup",
+            "p6": "MSCG|p6flag=th|pos6=sup"
+        },
+        {
+            "team": "Saxophone Boys",
+            "p1": "Phewsofast|p1flag=th|pos1=",
+            "p2": "Phewsoslow|p2flag=th|pos2=",
+            "p3": "DORAEMON|p3flag=th|pos3=",
+            "p4": "Kaminari|p4flag=th|pos4=",
+            "p5": "Anfield|p5flag=th|pos5=",
+            "p6": "Frozli|p6flag=th|pos6="
+        },
+        {
+            "team": "HOLD ON TIGHT",
+            "p1": "ZEROONE|p1flag=th|pos1=",
+            "p2": "zZFORDZz|p2flag=th|pos2=",
+            "p3": "Atiwan|p3flag=th|pos3=",
+            "p4": "FairyTooN|p4flag=th|pos4=",
+            "p5": "Sakuchan|p5flag=th|pos5="
+        },
+        {
+            "team": "Nano Me!",
+            "p1": "Pathapi|p1flag=th|pos1=",
+            "p2": "sakgarin|p2flag=th|pos2=",
+            "p3": "PhechZa|p3flag=th|pos3=",
+            "p4": "Sanim|p4flag=th|pos4=",
+            "p5": "HealerBTW|p5flag=th|pos5=",
+            "p6": "NeroZAKU|p6flag=th|pos6="
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "February 14th, 2023 - 19:00 {{Abbr/ICT}}",
+            "bestof": "5",
+            "winner": "1",
+            "opponent1": "{{TeamOpponent|angelica esport|score=W}}",
+            "opponent2": "{{TeamOpponent|44again|score=-}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "February 14th, 2023 - 19:00 {{Abbr/ICT}}",
+            "winner": "1",
+            "opponent1": "{{TeamOpponent|jaguars esports|score=W}}",
+            "opponent2": "{{TeamOpponent|overrant|score=-}}",
+            "optional": "R1M2="
+        },
+        {
+            "winner": "1",
+            "date": "February 14th, 2023 - 19:00 {{Abbr/ICT}}",
+            "opponent1": "{{TeamOpponent|fade (thai team)|score=W}}",
+            "opponent2": "{{TeamOpponent|saxophone boys|score=-}}",
+            "optional": "R1M3="
+        },
+        {
+            "winner": "1",
+            "date": "February 14th, 2023 - 19:00 {{Abbr/ICT}}",
+            "opponent1": "{{TeamOpponent|hold on tight|score=W}}",
+            "opponent2": "{{TeamOpponent|nano me!|score=-}}",
+            "optional": "R1M4="
+        },
+        {
+            "winner": "1",
+            "date": "February 15th, 2023 - 19:00 {{Abbr/ICT}}",
+            "opponent1": "{{TeamOpponent|angelica esport|score=W}}",
+            "opponent2": "{{TeamOpponent|Jaguars Esports|score=-}}",
+            "optional": "R2M1="
+        },
+        {
+            "winner": "1",
+            "date": "February 15th, 2023 - 19:00 {{Abbr/ICT}}",
+            "opponent1": "{{TeamOpponent|fade (thai team)|score=W}}",
+            "opponent2": "{{TeamOpponent|hold on tight|score=-}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "February 16th, 2023 - 21:00 {{Abbr/ICT}}",
+            "opponent1": "{{TeamOpponent|angelica esport|score=3}}",
+            "opponent2": "{{TeamOpponent|fade (thai team)|score=0}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "February 16th, 2023 - 19:00 {{Abbr/ICT}}",
+            "winner": "",
+            "opponent1": "{{TeamOpponent|jaguars esports|score=3}}",
+            "opponent2": "{{TeamOpponent|hold on tight|score=1}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

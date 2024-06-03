@@ -1,0 +1,246 @@
+{
+    "tournament_info": [
+        {
+            "name": "HammerClash #2",
+            "shortname": "HC #2",
+            "series": "HammerClash",
+            "image": "",
+            "icon": "",
+            "tickername": "HammerClash #2",
+            "organizer": "HammerKick",
+            "country": "Europe",
+            "type": "Online",
+            "format": "Double Elimination",
+            "prizepool": "150",
+            "localcurrency": "eur",
+            "date": "2021-12-19",
+            "liquipediatier": "5",
+            "twitter": "HammerKick_OW",
+            "twitch": "hammerkick",
+            "bracket": "https://play.toornament.com/en_GB/tournaments/5220646042434887680/stages/5220659106521325568/#nowhere",
+            "rulebook": "https://play.toornament.com/en_US/tournaments/5220646042434887680/rules",
+            "team_number": "8",
+            "game": "overwatch",
+            "next": "Hammerclash/4{{!}}#4"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Benched Players",
+            "p1": "Atsuya|p1flag=fr|pos1=dps",
+            "p2": "|p2flag=|pos2=",
+            "p3": "V4lou|p3flag=fr|pos3=tank",
+            "p4": "Bicool|p4flag=fr|pos4=tank",
+            "p5": "HappyDJ|p5flag=fr|pos5=sup",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Hydra Sth\u00e9no",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "PipiBoite",
+            "p1": "Nestor|p1flag=fr|pos1=dps",
+            "p2": "White|p2flag=fr|pos2=dps|p2link=White (French player)",
+            "p3": "Loyn|p3flag=fr|pos3=tank",
+            "p4": "Xzukay|p4flag=fr|pos4=tank",
+            "p5": "Sidoux|p5flag=fr|pos5=sup",
+            "p6": "Razorbake|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "PipiBox",
+            "p1": "Asking|pos1=dps",
+            "p2": "Zaouri|p2flag=fr|pos2=dps",
+            "p3": "Sosucre|p3flag=fr|pos3=tank",
+            "p4": "Lunio|p4flag=fr|pos4=tank",
+            "p5": "Wez|p5flag=be|pos5=sup",
+            "p6": "Flowy35|p6flag=fr|pos6=sup"
+        },
+        {
+            "team": "Pipibox Reported",
+            "p1": "Ko\u00e9|p1flag=fr|pos1=dps",
+            "p2": "Soumis1Trick|p2flag=fr|pos2=dps",
+            "p3": "Skycraft|p3flag=fr|pos3=tank",
+            "p4": "Flambax|p4flag=fr|pos4=tank",
+            "p5": "Sachatouille|p5flag=fr|pos5=tank",
+            "p6": "NoahFPS|p6flag=fr|pos6=sup",
+            "p7": "Funnygastro|p7flag=fr|pos7=sup",
+            "p8": "EASTPACKMAN|p8flag=fr|pos8=sup"
+        },
+        {
+            "team": "Rock Gaming",
+            "p1": "Kilaa|pos1=dps",
+            "p2": "Braven|p2flag=ir|pos2=dps",
+            "p3": "Kroxz|pos3=tank",
+            "p4": "Booga|p4flag=uk|pos4=tank",
+            "p5": "Natlocks|pos5=sup",
+            "p6": "Reviewz|pos6=sup"
+        },
+        {
+            "team": "Sexiest Gamers",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "Pancake|p3flag=fr|pos3=tank",
+            "p4": "Izko|p4flag=fr|pos4=tank",
+            "p5": "CaptainPrash|pos5=sup",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Washed up players",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2021-12-19 - 13:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Rock Gaming|score=W}}",
+            "opponent2": "{{TeamOpponent|Pipibox Reported|score=FF}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2021-12-19 - 13:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|PipiBoite|score=2}}",
+            "opponent2": "{{TeamOpponent|Washed up players|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2021-12-19 - 13:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sexiest Gamers|score=2}}",
+            "opponent2": "{{TeamOpponent|Hydra Sth\u00e9no|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2021-12-19 - 13:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|PipiBox|score=2}}",
+            "opponent2": "{{TeamOpponent|Benched Players|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2021-12-19 - 13:40 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Rock Gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|PipiBoite|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2021-12-19 - 13:40 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sexiest Gamers|score=0}}",
+            "opponent2": "{{TeamOpponent|PipiBox|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2021-12-19 - 16:20 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Rock Gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|PipiBox|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "2021-12-19 - 13:40 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Washed up players|score=2}}",
+            "opponent2": "{{TeamOpponent|Pipibox Reported|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "2021-12-19 - 13:40 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Benched Players|score=2}}",
+            "opponent2": "{{TeamOpponent|Hydra Sth\u00e9no|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "2021-12-19 - 14:20 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sexiest Gamers|score=2}}",
+            "opponent2": "{{TeamOpponent|Washed up players|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2021-12-19 - 14:20 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|PipiBoite|score=W}}",
+            "opponent2": "{{TeamOpponent|Benched Players|score=FF}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2021-12-19 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sexiest Gamers|score=1}}",
+            "opponent2": "{{TeamOpponent|PipiBoite|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2021-12-19 - 17:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|PipiBox|score=2}}",
+            "opponent2": "{{TeamOpponent|PipiBoite|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "2021-12-19 - 17:40 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Rock Gaming|score=1}}",
+            "opponent2": "{{TeamOpponent|PipiBox|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        }
+    ]
+}

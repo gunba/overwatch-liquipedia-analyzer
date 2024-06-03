@@ -1,0 +1,100 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #30",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "30",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2016-12-23",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-30/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "21",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "B0nkers",
+            "image": "",
+            "p1": "Luddee |p1flag=se",
+            "p2": "Epzz |p2flag=se",
+            "p3": "lateks |p3flag=se",
+            "p4": "eMIL |p4flag=se",
+            "p5": "Leodeddz |p5flag=se",
+            "p6": "Casper |p6flag=se"
+        },
+        {
+            "team": "mousesports",
+            "image": "",
+            "p1": "CWoosH |p1flag=",
+            "p2": "NepTuNo|p2flag=es",
+            "p3": "Finnsi |p3flag=",
+            "p4": "Logix |p4flag=",
+            "p5": "Dante   |p5flag=",
+            "p6": "hURRe  |p6flag=fi"
+        },
+        {
+            "team": "EURONICS_Gaming",
+            "image": "",
+            "p1": "MeToR |p1flag=at",
+            "p2": "Casores   |p2flag=nl",
+            "p3": "Feverish  |p3flag=dk",
+            "p4": "Ged   |p4flag=uk",
+            "p5": "Petruskoff   |p5flag=fi",
+            "p6": "Sepi |p6flag=fi"
+        },
+        {
+            "team": "x4ckers",
+            "image": "X4ckersLogo.png",
+            "p1": "DeadlyMich |p1flag=il",
+            "p2": "KAFEEEEEE |p2flag=il",
+            "p3": "Mystic |p3flag=il",
+            "p4": "ShonP |p4flag=il",
+            "p5": "Torus |p5flag=il",
+            "p6": "fragon |p6flag=il"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "b0nkers",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "x4ckers",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "b0nkers",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "euronics",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "x4ckers",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "mouz",
+            "score1": "-",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

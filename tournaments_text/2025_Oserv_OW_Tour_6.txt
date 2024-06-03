@@ -1,0 +1,190 @@
+{{Oserv OW Tour Navbox}}
+{{DISPLAYTITLE:Oserv OW Tour #6}}
+{{Tabs static
+|name1=Main Event|link1=Oserv OW Tour/6
+|name2=Qualifier #1|link2=Oserv OW Tour/6/Qualifier/1
+|name3=Qualifier #2|link3=Oserv OW Tour/6/Qualifier/2
+|name4=Qualifier #3|link4=Oserv OW Tour/6/Qualifier/3
+|This=1
+}}
+{{Infobox league
+|name=Oserv OW Tour #6
+|shortname=OW Tour #6
+|image=Oserv esports logo.png
+|series=Oserv OW Tour
+|abbreviation=OOWT
+|icon=
+|tickername=Oserv OW Tour #6
+|organizer=Oserv eSport
+|sponsor=[http://www.xlr8gam1ng.com/ XLR8]
+|country=Europe
+|type=Online
+|format=Single Elimination
+|prizepoolusd=140
+|localcurrency=eur
+|prizepool=120
+|date=2019-03-24
+|liquipediatier={{TierText/5}}
+|web=https://esport.oserv.fr/
+|twitch=oservtv
+|twitter=OservEsport
+|bracket=https://battlefy.com/oservesport/oserv-ow-community-tour-6-final-stage/5c76a240decfe1031456cd38/stage/5c76a27682d9b60319bc7144/bracket/
+|team_number=8
+}}
+
+==Overview==
+===Format===
+* '''Playoffs''': Single Elimination
+** All matches are {{Abbr/Bo3}} except Grand Final and Third Place Match ({{Abbr/Bo5}}).
+
+===Prize Pool===
+120 ({{Abbr/EUR}}) winner takes all:
+{{prize pool start |localcurrency=eur}}
+{{prize pool slot |place=1|usdprize=140 |localprize=120 |Team X - Undiscovered|lastvs1=Team Wavy|lastscore1=3|lastvsscore1=0}}
+{{prize pool slot |place=2|usdprize=0 |localprize=0 |Team Wavy|lastvs1=Team X - Undiscovered|lastscore1=0|lastvsscore1=3}}
+{{prize pool slot |place=3|usdprize=0 |localprize=0 |Lunation Esports Blue|lastvs1=QuestionMark|lastscore1=3|lastvsscore1=0}}
+{{prize pool slot |place=4|usdprize=0 |localprize=0 |QuestionMark|lastvs1=Lunation Esports Blue|lastscore1=|lastvsscore1=3}}
+{{prize pool slot|place=5-8 |usdprize=0 |localprize=0
+|Konix eSport|lastvs1=Team X - Undiscovered|lastscore1=0 |lastvsscore1=2
+|PLERION|lastvs2=Lunation Esports Blue|lastscore2=1 |lastvsscore2=2
+|Loli Esports|lastvs3=Team Wavy|lastscore3=1 |lastvsscore3=2
+|Efficiency Team|lastvs4=QuestionMark|lastscore4=2 |lastvsscore4=0}}
+{{prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Konix eSport
+|image=Konix logo.png
+|p1=Veleef|p1flag=fr|pos1=dps
+|p2=R4YZz|p2flag=fr|pos2=dps
+|p3=Demtyco|p3flag=fr|pos3=tank
+|p4=Voltage|p4flag=fr|pos4=tank
+|p5=Oriolait|p5flag=fr|pos5=support
+|p6=Ultiglauck|p6flag=fr|pos6=support
+|p7=Zenkoe|p7flag=fr|pos7=support
+|c=SweepzFr|cflag=fr
+|c2=soow|c2flag=fr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=PLERION
+|image=
+|p1=AiLerd|p1flag=ru|pos1=
+|p2=Aggressive|p2link=Aggressive (Russian player)|p2flag=ru|pos2=
+|p3=Slid3|p3flag=ru|pos3=
+|p4=ReyVee|p4flag=ru|pos4=
+|p5=ЯБАХЕР|p5flag=ru|pos5=
+|p6=Бездарь|p6flag=ru|pos6=
+|p7=Fistake|p7flag=ru|pos7=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Loli Esports
+|image=
+|p1=Influx|p1flag=|pos1=
+|p2=Jorohara|p2flag=|pos2=
+|p3=mazuilad|p3flag=|pos3=
+|p4=DONDO|p4flag=|pos4=
+|p5=HappyB0y|p5flag=|pos5=
+|p6=Neji|p6flag=|pos6=
+|p7=ChesterLP|p7flag=|pos7=
+|p8=D3S7R0Y3R|p8flag=|pos8=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Wavy
+|image=Team Wavy Logo.png 
+|p1=Edinn|p1flag=fi|pos1=dps
+|p2=TheCook|p2flag=gr|pos2=dps
+|p3=Shade|p3flag=|pos3=tank
+|p4=Nipahog|p4flag=fi|pos4=tank
+|p5=Lemon|p5flag=se|pos5=sup
+|p6=Apples|p6flag=uk|pos6=sup
+|p7=E11even|p7flag=|pos7=
+|p8=Arveblad|p8flag=|pos8=
+|p9=Gebrat|p9flag=|pos9=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team X - Undiscovered
+|image=
+|p1=Julo|p1flag=fr|pos1=tank
+|p2=Vendetta|p2flag=ie|pos2=flex
+|p3=Assure|p3flag=dk|pos3=dps
+|p4=Ediz|p4flag=de|pos4=dps
+|p5=Todd|p5flag=uk|pos5=sup
+|p6=RK|p6flag=de|pos6=sup
+|c=coachJEFF|cflag=us
+|c2=Aplox|c2flag=uk
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Efficiency Team
+|image=
+|p1=Tormenta|p1flag=es|pos1=tank
+|p2=Atomic|p2flag=es|pos2=tank
+|p3=BarBa|p3flag=es|pos3=dps
+|p4=Lux512|p4flag=|pos4=tank
+|p5=oso|p5flag=es|pos5=
+|p6=M3WS|p6flag=es|pos6=
+|p7=TheDaviDraKo|p7flag=|pos7=
+|p8=Zoru|p8flag=|pos8=
+|p9=Learn2Play|p9flag=|pos9=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Lunation Esports Blue
+|image=
+|p1=Sinny|p1flag=uk|pos1=support
+|p2=Beano|p2flag=|pos2=tank
+|p3=Provenfrog|p3flag=ukwa|pos3=
+|p4=Haburashi|p4flag=|pos4=
+|p5=rabbiteklol|p5flag=|pos5=
+|p6=Tuckerrz|p6flag=|pos6=
+|p7=Kishax|p7flag=|pos7=
+|p8=Drillz|p8flag=|pos8=
+|p9=Heden|p9flag=|pos9=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=QuestionMark
+|image=
+|p1=Socpo|p1flag=uk|pos1=
+|p2=Klodolski|p2flag=|pos2=
+|p3=ToastE|p3flag=|pos3=
+|p4=Shootingie|p4flag=|pos4=
+|p5=HALO|p5flag=|pos5=
+|p6=Cloud|p6link=Cloud (British player)|p6flag=uk|pos6=
+|p7=NINOOOOO|p7flag=|pos7=
+|p8=Strebor|p8flag=|pos8=
+|p9=Alex|p9flag=|pos9=|p9link=Alex (European player)
+}}
+{{box|end|padding=2em}}
+
+==Results==
+
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=fNnb2mghEv
+<!-- QUARTERFINALS -->
+|R1D1team=QuestionMark |R1D1score=2 |R1D1win=1
+|R1D2team=Efficiency Team |R1D2score=0 |R1D2win=
+|R1D3team=Team X - Undiscovered |R1D3score=2 |R1D3win=1
+|R1D4team=Konix eSport |R1D4score=0 |R1D4win=
+|R1D5team=Team Wavy |R1D5score=2 |R1D5win=1
+|R1D6team=Loli Esports |R1D6score=1 |R1D6win=
+|R1D7team=PLERION |R1D7score=1 |R1D7win=
+|R1D8team=Lunation Esports Blue |R1D8score=2 |R1D8win=1
+<!-- SEMIFINALS -->
+|R2W1team=QuestionMark |R2W1score=0 |R2W1win=
+|R2W2team=Team X - Undiscovered |R2W2score=2 |R2W2win=1
+|R2W3team=Team Wavy |R2W3score=2 |R2W3win=1
+|R2W4team=Lunation Esports Blue |R2W4score=0 |R2W4win=
+<!-- FINALS -->
+|R3W1team=Team X - Undiscovered |R3W1score=3 |R3W1win=1
+|R3W2team=Team Wavy |R3W2score=0 |R3W2win=
+<!-- 3RD PLACE (optional) -->
+|R3D1team=QuestionMark |R3D1score=0 |R3D1win=
+|R3D2team=Lunation Esports Blue |R3D2score=3 |R3D2win=1
+}}

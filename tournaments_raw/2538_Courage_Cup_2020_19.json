@@ -1,0 +1,354 @@
+{
+    "tournament_info": [
+        {
+            "name": "Courage Cup - 19",
+            "image": "Courage Cup-19.png",
+            "series": "Courage Cup",
+            "shortname": "19",
+            "tickername": "Courage Cup - 19",
+            "organizer": "numbani.cn",
+            "organizer-link": "http://numbani.cn",
+            "sponsor": "\u795e\u5947\u9646\u592b\u4eba",
+            "format": "Single Elimination",
+            "type": "Online",
+            "country": "China",
+            "sdate": "2020-09-06",
+            "edate": "2020-09-13",
+            "patch": "",
+            "prizepoolusd": "1592",
+            "localcurrency": "cny",
+            "prizepool": "11000",
+            "web": "http://ss.numbani.cn/plugin.php?eventid=42&id=nmt%3Aindex&action=schedule&series=1",
+            "bilibili": "20990353",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "",
+            "liquipediatier": "5|liquipediatiertype=Monthly",
+            "team_number": "32"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "\u5c0f\u5929\u624d\u4ff1\u4e50\u90e8",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "Thomas",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "Ambitious Immortals",
+            "image": "Ambitious Immortals logo.png",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "\u5f88\u6709\u7cbe\u795e\u961f",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "UNNAMED",
+            "image": "UNNAMED logo.png",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "Troops7",
+            "image": "Troops7 logo.png",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "GLHF",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "R2M",
+            "image": "R2M logo.png",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "N1F",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "LF",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "OTI",
+            "image": "OTI logo new.png",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "EZG",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "P1T",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "IX",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "FEG",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "RFJ",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "\u5357\u4eac\u90ae\u7535\u9ad8\u6821\u961f",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "\u7231\u4f1a\u6d88\u5931\u7684\u5bf9\u4e0d\u961f",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "CNM",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "\u4e00\u7981",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "Stop Feeding",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "COURAGE",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "\u4e1c\u98ce\u5feb\u9012",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "LMZ",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "\u7406\u60f3\u4e61",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "3967",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "Unusual",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "\u6d88\u7ad9\u89c2\u5149\u56e2",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "Gseven",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "\u6ca1\u6709\u7ae0\u6cd5",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "SKO",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        },
+        {
+            "team": "\u732a\u72d7\u732b\u9e21\u91d1\u6218\u961f",
+            "image": "",
+            "p1": "|p1flag=cn|pos1=",
+            "p2": "|p2flag=cn|pos2=",
+            "p3": "|p3flag=cn|pos3=",
+            "p4": "|p4flag=cn|pos4=",
+            "p5": "|p5flag=cn|pos5=",
+            "p6": "|p6flag=cn|pos6="
+        }
+    ],
+    "match_cards": []
+}

@@ -1,0 +1,954 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "liquipediatiertype": "Qualifier",
+            "name": "Nittany Invitational 2024 Qualifier",
+            "shortname": "Nittany 2024 Qualifier",
+            "tickername": "Nittany Invitational Qualifier",
+            "image": "",
+            "icon": "",
+            "abbreviation": "NIT",
+            "series": "Nittany Invitational",
+            "organizer": "Plasmashark4",
+            "organizer2": "DMT",
+            "organizer3": "EsportsU",
+            "organizer3-link": "https://collegiatesmg.com/esportsu/",
+            "sponsor": "[https://byebluelight.com// Bye Blue Light]",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "United States",
+            "format": "Single Eliminiation",
+            "sdate": "2024-02-24",
+            "edate": "2024-02-25",
+            "twitter": "PSUEsports",
+            "web": "",
+            "twitch": "PSUEsports",
+            "discord": "",
+            "youtube": "PSUEsports",
+            "rulebook": "https://docs.google.com/document/d/1GjfYrtlUqni94f0E2E1UTOYgoLf_sBn1/edit",
+            "bracket": "https://battlefy.com/csmgesportsu/bye-blue-light-nittany-invitational-ow-qualifier/65c500730e8e805be622c2c2/info?infoTab=details",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Penn State University",
+            "p1": "M3MORY",
+            "p1flag": "chn",
+            "pos1": "dps",
+            "p2": "Guts",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Rags",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "DMT",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Bigbum",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Paz",
+            "p6flag": "us",
+            "pos6": "sup"
+        },
+        {
+            "team": "Husson University",
+            "p1": "",
+            "p1flag": "us",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "us",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "us",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "us",
+            "pos5": ""
+        },
+        {
+            "team": "University of Arizona",
+            "p1": "",
+            "p1flag": "us",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "us",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "us",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "us",
+            "pos5": ""
+        },
+        {
+            "team": "Marietta College",
+            "p1": "",
+            "p1flag": "us",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "us",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "us",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "us",
+            "pos5": ""
+        },
+        {
+            "team": "Albion College",
+            "p1": "",
+            "p1flag": "us",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "us",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "us",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "us",
+            "pos5": ""
+        },
+        {
+            "team": "University of Maryland",
+            "p1": "Jkesus",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Speep",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Infectious",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Tony",
+            "p4flag": "us",
+            "pos4": "flex",
+            "p5": "Moosey",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Pumpkin",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "C3E",
+            "p7flag": "us",
+            "pos7": "sup"
+        },
+        {
+            "team": "DeSales University",
+            "p1": "",
+            "p1flag": "us",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "us",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "us",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "us",
+            "pos5": ""
+        },
+        {
+            "team": "Miami University",
+            "p1": "Bonesaw",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Wintur",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Pootrscootr",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "AceAlfonzo",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "KaBunga",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Shocker",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Fahzix",
+            "p7flag": "us",
+            "pos7": "sup"
+        },
+        {
+            "team": "University of Akron",
+            "p1": "Eric",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p1link": " Eric (Collegiate player)",
+            "p2": "Sweaty",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Wahasha",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Pixeledstar",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "Tosmino",
+            "p5flag": "us",
+            "pos5": "sup"
+        },
+        {
+            "team": "Mississippi State",
+            "p1": "",
+            "p1flag": "us",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "us",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "us",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "us",
+            "pos5": ""
+        },
+        {
+            "team": "Lyon College",
+            "p1": "",
+            "p1flag": "us",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "us",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "us",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "us",
+            "pos5": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "2024-02-24",
+            "opponent1": "University of Maryland",
+            "opponent1_score": 3,
+            "opponent2": "Husson University",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2024-02-24",
+            "opponent1": "University of Arizona",
+            "opponent1_score": 3,
+            "opponent2": "Marietta College",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2024-02-24",
+            "opponent1": "University of Maryland",
+            "opponent1_score": 3,
+            "opponent2": "University of Arizona",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2024-02-24",
+            "opponent1": "Marietta College",
+            "opponent1_score": 3,
+            "opponent2": "Husson University",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2024-02-24",
+            "opponent1": "University of Arizona",
+            "opponent1_score": 3,
+            "opponent2": "Marietta College",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "3",
+            "date": "2024-02-24",
+            "opponent1": "Penn State University",
+            "opponent1_score": 3,
+            "opponent2": "DeSales University",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2024-02-24",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "University of Akron",
+            "opponent1_score": 0,
+            "opponent2": "Penn State University",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2024-02-24",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "University of Akron",
+            "opponent1_score": 3,
+            "opponent2": "DeSales University",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "3",
+            "date": "2024-02-24",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Albion College",
+            "opponent1_score": 0,
+            "opponent2": "Miami University",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2024-02-24",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Mississippi State",
+            "opponent1_score": 0,
+            "opponent2": "Miami University",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2024-02-24",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Mississippi State",
+            "opponent1_score": 3,
+            "opponent2": "Albion College",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2024-02-25",
+            "opponent1": "Mississippi State",
+            "opponent1_score": 0,
+            "opponent2": "University of Akron",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2024-02-25",
+            "opponent1": "Penn State University",
+            "opponent1_score": 3,
+            "opponent2": "Marietta College",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2024-02-25",
+            "opponent1": "Miami University",
+            "opponent1_score": 3,
+            "opponent2": "University of Arizona",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2024-02-25",
+            "opponent1": "University of Maryland",
+            "opponent1_score": 3,
+            "opponent2": "University of Akron",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2024-02-25",
+            "opponent1": "Penn State University",
+            "opponent1_score": 0,
+            "opponent2": "Miami University",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2024-02-25",
+            "opponent1": "University of Maryland",
+            "opponent1_score": 0,
+            "opponent2": "Miami University",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

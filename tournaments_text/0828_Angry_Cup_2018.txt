@@ -1,0 +1,664 @@
+{{DISPLAYTITLE:Angry Cup}}
+{{Infobox league
+|name=Angry Cup
+|shortname=Angry Cup
+|image=AngryCupLogo.png
+|series=Angry Cup
+|icon=AngryCupLogo small.png
+|organizer=TaKeTV
+|organizer-link=http://taketv.net/
+|sponsor=
+|country=Europe
+|type=Online
+|patch=1.29
+|format=Group Stage<br>Final
+|prizepool=500
+|localcurrency=eur
+|prizepoolusd=567
+|sdate=2018-11-10
+|edate=2018-11-14
+|liquipediatier={{TierText/4}}
+|web=
+|bracket=
+|twitch=angry_titans
+|twitter=angrytitans
+|facebook=
+|youtube=
+|team_number=10
+}}
+
+The '''Angry Cup''' is a European tournament.
+
+==Information==
+===Format===
+* '''Group Stage'''
+** 4 map set
+** Top team in each group to Grand Finals
+* '''Grand Finals'''
+** Best-of-five
+
+===Broadcast Talent===
+{{box|start|padding=1em}}
+====English Broadcast====
+{{BroadcasterCard
+|position=Commentator|lang=English
+|b1=RyanCentral|b1name= Ryan Central|b1flag=uk
+|b2=OneAmongstMany|b2flag=uk|b2name=Josh Pemberton
+}}
+====French Broadcast====
+{{BroadcasterCard
+|position=Commentator|lang=French
+|b1=HammerKick |b1flag=fr |b1name=Antoine Bournier
+|b2=DamS |b2flag=be |b2name=Damien Steels
+|b3=SuriPlay |b3flag=fr |b3name=Alexandre Carlier
+|b4=Pumpkinman|b4name=Hugo Jacquin|b4flag=fr
+|b5=Joster |b5flag=fr |b5name=Robin Jauzelon
+|b6=Atypick |b6flag=fr |b6name=Arthur Coudert
+|b7=CamixoDx |b7flag=co |b7name=Camilo Ducrocq
+}}
+{{box|break}}
+
+====German Broadcast====
+{{BroadcasterCard
+|position=Commentator|lang=German
+|b1=Noserino
+|b2=F1r3wall|b2name=Simon Beck|b2flag=de
+|b3=MiR4y|b3name=Michael Leder|b3flag=de
+|b4=DarcoLeaks
+}}
+
+====Italian Broadcast====
+{{BroadcasterCard
+|position=Commentator|lang=Italian
+|b1=Herc
+|b2=Grrimmjow|b2name=Fabiano Ferrara|b2flag=it
+}}
+{{BroadcasterCard|lang=Italian
+|position=Producer
+|b1=Dixid |b1name=Marco Morsanutto |b1flag=it
+}}
+{{box|end}}
+
+===Prize Pool===
+€500 {{Abbr/EUR}} (~$567{{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start |localcurrency=eur}}
+{{prize pool slot|place=1|usdprize=397|localprize=350|samsung morningstars|lastvs1=angry titans|lastscore1=3|lastvsscore1=1}}
+{{prize pool slot|place=2|usdprize=170|localprize=150|angry titans|lastvs1=samsung morningstars|lastscore1=1|lastvsscore1=3}}
+{{prize pool slot|place=3-4|usdprize=0|localprize=0|date=2018-11-10
+|british hurricane|wdl1=3/0/1
+|winstrike team|wdl2=2/2/0
+}}
+{{prize pool slot|place=5-6|usdprize=0|localprize=0|date=2018-11-10
+|orgless and hungry|wdl1=2/0/2
+|shu's money crew eu|wdl2=1/3/0
+}}
+{{prize pool slot|place=7-8|usdprize=0|localprize=0|date=2018-11-10
+|young and beautiful|wdl1=1/0/3
+|bazooka puppiez|wdl2=1/0/3
+}}
+{{prize pool slot|place=9-10|usdprize=0|localprize=0|date=2018-11-10
+|kungarna|wdl1=0/0/4
+|we have org|wdl2=0/1/3
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Angry Titans
+|p1=ONIGOD|p1flag=|pos1=dps
+|p2=Erki|p2flag=|pos2=dps
+|p3=ELLIVOTE|pos3=flex
+|p4=LullSiSH|pos4=tank
+|p5=Luddee|pos5=sup
+|p6=iPN|pos6=sup
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=British Hurricane
+|p1=Kyb|pos1=dps
+|p2=Nesh|pos2=dps
+|p3=Hafficool|pos3=flex
+|p4=numlocked|pos4=tank
+|p5=bock1|pos5=sup
+|p6=Jofi|pos6=sup
+|t2title=Staff
+|t2p1=Elbion|t2pos1=Coach
+|t2p2=Noukky|t2pos2=Manager
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Orgless and Hungry
+|p1=Wayfast|p1flag=il|pos1=dps
+|p2=Dannedd|p2flag=se|pos2=dps
+|p3=eMIL|p3flag=se|pos3=flex
+|p4=lateks|p4flag=se|pos4=tank
+|p5=Kaas|p5flag=nl|pos5=sup
+|p6=FDGoD|p6flag=fr|pos6=sup
+|c=Darkzero|cflag=es
+|c2=Recent|c2flag=be
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Kungarna
+|p1=Sinker|pos1=dps
+|p2=Wub|pos2=dps
+|p3=Kalios|pos3=flex
+|p4=Guru|pos4=flex
+|p5=Duplicate|p5flag=us|pos5=tank
+|p6=Insomniaq|pos6=sup
+|p7=Mohr|pos7=sup
+|c=mykL|cflag=us
+|c2=IBCrazy|c2flag=us
+|c3=Calyoon|c3flag=us
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Samsung MorningStars
+|p1=Caspere|pos1=dps
+|p2=KSP|pos2=dps
+|p3=Leaf|pos3=dps
+|p4=DragonEddy|pos4=flex
+|p5=mowzassa|pos5=tank
+|p6=Nisa|pos6=sup
+|p7=dridro|pos7=sup
+|p8=Exorath|pos8=sup
+|c=PiPou
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Shu's Money Crew EU
+|image=Shu's Money Crew EU.png
+|p1=Mauz|p1flag=dk|pos1=dps
+|p2=Zeal|p2flag=uk|pos2=dps
+|p3=BarbieQ9130|pos3=flex
+|p4=Kolsti|pos4=tank
+|p5=Trispear|pos5=sup
+|p6=Izzy|pos6=sup
+|c=Almostpanda|cflag=se
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Winstrike Team
+|p1=kensi|p1flag=ua|pos1=dps
+|p2=uNFixed|p2flag=ru|pos2=dps
+|p3=Txao|p3flag=ru|pos3=flex
+|p4=sharyk|p4flag=lv|pos4=tank
+|p5=Engh|p5flag=ru|pos5=sup
+|p6=MayN|p6flag=ru|pos6=sup
+|c=iLka|cflag=gr
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Bazooka Puppiez
+|p1=TracK|pos1=dps
+|p2=cRNKz|pos2=dps
+|p3=Mete|pos3=flex
+|p4=kraandop|p4flag=nl|pos4=tank
+|p5=sab|pos5=sup
+|p6=khave|pos6=sup
+|p7=Rubikon|pos7=sup
+|p8=Mono|pos8=sup
+|c=R0IV
+|c2=GizmomcS
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=We Have Org
+|image=We Have Org.png
+|p1=MikeyA|pos1=dps
+|p2=SpoXez|pos2=dps
+|p3=Zerggy|p3flag=uk|pos3=dps
+|p4=crems|pos4=flex
+|p5=TwolzZ|p5flag=|pos5=flex
+|p6=Chubz|pos6=tank
+|p7=kangakanga|pos7=sup
+|p8=Karra|pos8=sup
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Young and Beautiful
+|image=Young and Beautiful.png
+|p1=Graceful|p1flag=se|pos1=dps
+|p2=Tsuna|p2flag=fr|pos2=dps
+|p3=Danii|p3flag=dk|pos3=flex
+|p4=Tonic|p4flag=ru|pos4=tank
+|p5=Ding|p5flag=dk|pos5=sup
+|p6=Gustav|p6flag=se|pos6=sup
+|c=Solheim|cflag=no
+|c2=LeRenegat|c2flag=fr
+|qualifier=Invited
+}}
+{{box|end}}
+
+===Substitutes===
+{{Substitute table|
+{{Substitute table/row|team=kungarna|id=Kalios|flag=kr|forid=|forflag=|description=For whole tournament}}
+{{Substitute table/row|team=kungarna|id=Guru|flag=us|forid=|forflag=|description=For whole tournament}}
+}}
+
+==Results==
+===Group Stage===
+{{Toggle group start|state=show}}
+{{Box|start|padding=1em}}
+===={{HiddenSort|Group A}}====
+{{GroupTableStart| Group A |width=410px|show_p=false}}
+{{GroupTableSlot| {{Team|angry titans}} |place=1|win_m=4|tie_m=0|lose_m=0|win_r=14|tie_r=1|lose_r=1|bg=up}}
+{{GroupTableSlot| {{Team|british hurricane}} |place=2|win_m=3|tie_m=0|lose_m=1|win_r=12|tie_r=0|lose_r=4|bg=down}}
+{{GroupTableSlot| {{Team|orgless and hungry}} |place=3|win_m=2|tie_m=0|lose_m=2|win_r=7|tie_r=1|lose_r=8|bg=down}}
+{{GroupTableSlot| {{Team|young and beautiful}} |place=4|win_m=1|tie_m=0|lose_m=3|win_r=6|tie_r=0|lose_r=10|bg=down}}
+{{GroupTableSlot| {{Team|kungarna}} |place=5|win_m=0|tie_m=0|lose_m=4|win_r=0|tie_r=0|lose_r=16|bg=down}}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=RjRLsnPlRb|title=Group A matches |width=410px
+|match1={{MatchMaps
+|team1=orgless and hungry|games1=0
+|team2=angry titans|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 15:00 {{Abbr/CET}}
+|twitch=CastersNest
+|finished=true
+|map1=Busan|map1score=0-2|map1win=2
+|map2=Hanamura|map2score=3-3|map2win=draw
+|map3=Route 66|map3score=2-3|map3win=2
+|map4=Numbani|map4score=2-3|map4win=2
+|overgg=9700
+|pf=58332
+|wl=
+}}
+}}
+|match2={{MatchMaps
+|team1=young and beautiful|games1=1
+|team2=british hurricane|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 15:00 {{Abbr/CET}}
+|twitch=noserino
+|finished=true
+|map1=Ilios|map1score=0-2|map1win=2
+|map2=Horizon Lunar Colony|map2score=2-3|map2win=2
+|map3=Dorado|map3score=1-2|map3win=2
+|map4=Numbani|map4score=2-0|map4win=1
+|overgg=9701
+|pf=58333
+|wl=
+}}
+}}
+|match3={{MatchMaps
+|team1=orgless and hungry|games1=3
+|team2=young and beautiful|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 16:30 {{Abbr/CET}}
+|twitch=noserino
+|finished=true
+|map1=Busan|map1score=0-2|map1win=2
+|map2=Hanamura|map2score=2-1|map2win=1
+|map3=Dorado|map3score=3-2|map3win=1
+|map4=Hollywood|map4score=3-2|map4win=1
+|overgg=9702
+|pf=58336
+|wl=
+}}
+}}
+|match4={{MatchMaps
+|team1=angry titans|games1=4
+|team2=young and beautiful|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 18:00 {{Abbr/CET}}
+|twitch=Angry_Titans
+|finished=true
+|map1=Busan|map1score=2-1|map1win=1
+|map2=Horizon Lunar Colony|map2score=5-4|map2win=1
+|map3=Dorado|map3score=2-1|map3win=1
+|map4=Hollywood|map4score=3-2|map4win=1
+|overgg=9703
+|pf=58340
+|wl=
+}}
+}}
+|match5={{MatchMaps
+|team1=kungarna|games1=0
+|team2=british hurricane|games2=4
+|winner=2
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 18:00 {{Abbr/CET}}
+|twitch=noserino
+|finished=true
+|map1=Lijiang Tower|map1score=0-2|map1win=2
+|map2=Horizon Lunar Colony|map2score=0-1|map2win=2
+|map3=Route 66|map3score=1-2|map3win=2
+|map4=Numbani|map4score=0-1|map4win=2
+|overgg=9704
+|pf=58341
+|wl=
+}}
+}}
+|match6={{MatchMaps
+|team1=young and beautiful|games1=4
+|team2=kungarna|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 19:30 {{Abbr/CET}}
+|twitch=CastersNest
+|finished=true
+|map1=Busan|map1score=2-1|map1win=1
+|map2=Horizon Lunar Colony|map2score=4-2|map2win=1
+|map3=Route 66|map3score=2-1|map3win=1
+|map4=Numbani|map4score=3-2|map4win=1
+|overgg=9705
+|pf=58344
+|wl=
+}}
+}}
+|match7={{MatchMaps
+|team1=british hurricane|games1=4
+|team2=orgless and hungry|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 19:30 {{Abbr/CET}}
+|twitch=Angry_Titans
+|finished=true
+|map1=Ilios|map1score=2-1|map1win=1
+|map2=Hanamura|map2score=2-1|map2win=1
+|map3=Route 66|map3score=1-0|map3win=1
+|map4=Hollywood|map4score=1-0|map4win=1
+|overgg=9706
+|pf=58345
+|wl=
+}}
+}}
+|match8={{MatchMaps
+|team1=kungarna|games1=0
+|team2=orgless and hungry|games2=4
+|winner=2
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 22:30 {{Abbr/CET}}
+|twitch=
+|finished=true
+|map1=Ilios|map1score=|map1win=2
+|map2=Horizon Lunar Colony|map2score=|map2win=2
+|map3=Dorado|map3score=|map3win=2
+|map4=Hollywood|map4score=|map4win=2
+|overgg=9707
+|pf=58348
+|wl=
+}}
+}}
+|match9={{MatchMaps
+|team1=british hurricane|games1=1
+|team2=angry titans|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 22:30 {{Abbr/CET}}
+|twitch=CastersNest
+|finished=true
+|map1=Busan|map1score=1-2|map1win=2
+|map2=Horizon Lunar Colony|map2score=0-1|map2win=2
+|map3=Route 66|map3score=5-6|map3win=2
+|map4=Hollywood|map4score=3-2|map4win=1
+|overgg=9708
+|pf=58349
+|wl=
+}}
+}}
+|match10={{MatchMaps
+|team1=angry titans|games1=4
+|team2=kungarna|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=
+|twitch=
+|finished=true
+|map1=Lijiang Tower|map1score=2-0|map1win=1
+|map2=Horizon Lunar Colony|map2score=1-0|map2win=1
+|map3=Dorado|map3score=3-0|map3win=1
+|map4=Numbani|map4score=1-0|map4win=1
+|overgg=9709
+|pf=58337
+|wl=
+|comment=Game is rescheduled to sometime on the 10th, played offstream
+}}
+}}
+}}
+{{Box|break|padding=1em}}
+
+===={{HiddenSort|Group B}}====
+{{GroupTableStart| Group B |width=410px|show_p=false}}
+{{GroupTableSlot| {{Team|samsung morningstars}} |place=1|win_m=2|tie_m=2|lose_m=0|win_r=11|tie_r=1|lose_r=4|bg=up}}
+{{GroupTableSlot| {{Team|winstrike team}} |place=2|win_m=2|tie_m=2|lose_m=0|win_r=11|tie_r=0|lose_r=5|bg=down}}
+{{GroupTableSlot| {{Team|shu's money crew eu}} |place=3|win_m=1|tie_m=3|lose_m=0|win_r=10|tie_r=0|lose_r=6|bg=down}}
+{{GroupTableSlot| {{Team|bazooka puppiez}} |place=4|win_m=1|tie_m=0|lose_m=3|win_r=3|tie_r=0|lose_r=13|bg=down}}
+{{GroupTableSlot| {{Team|we have org}} |place=5|win_m=0|tie_m=1|lose_m=3|win_r=4|tie_r=1|lose_r=11|bg=down}}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=QD2n308kIl|title=Group B matches |width=410px
+|match1={{MatchMaps
+|team1=we have org|games1=1
+|team2=winstrike team|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 15:00 {{Abbr/CET}}
+|twitch=MorningStars
+|finished=true
+|map1=Ilios|map1score=0-2|map1win=2
+|map2=Hanamura|map2score=1-0|map2win=1
+|map3=Dorado|map3score=0-2|map3win=2
+|map4=Hollywood|map4score=1-3|map4win=2
+|overgg=9710
+|pf=58334
+|wl=
+}}
+}}
+|match2={{MatchMaps
+|team1=bazooka puppiez|games1=0
+|team2=samsung morningstars|games2=4
+|winner=2
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 15:00 {{Abbr/CET}}
+|twitch=Angry_Titans
+|finished=true
+|map1=Busan|map1score=0-2|map1win=2
+|map2=Hanamura|map2score=0-1|map2win=2
+|map3=Dorado|map3score=4-5|map3win=2
+|map4=Numbani|map4score=1-2|map4win=2
+|overgg=9711
+|pf=58335
+|wl=
+}}
+}}
+|match3={{MatchMaps
+|team1=winstrike team|games1=2
+|team2=shu's money crew eu|games2=2
+|winner=draw
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 16:30 {{Abbr/CET}}
+|twitch=Angry_Titans
+|finished=true
+|map1=Lijiang Tower|map1score=2-0|map1win=1
+|map2=Horizon Lunar Colony|map2score=0-1|map2win=2
+|map3=Dorado|map3score=1-0|map3win=1
+|map4=Hollywood|map4score=1-2|map4win=2
+|overgg=9712
+|pf=58338
+|wl=
+}}
+}}
+|match4={{MatchMaps
+|team1=we have org|games1=1
+|team2=bazooka puppiez|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 16:30 {{Abbr/CET}}
+|twitch=CastersNest
+|finished=true
+|map1=Lijiang Tower|map1score=0-2|map1win=2
+|map2=Hanamura|map2score=3-4|map2win=2
+|map3=Route 66|map3score=2-1|map3win=1
+|map4=Numbani|map4score=4-3|map4win=2
+|overgg=9713
+|pf=58339
+|wl=
+}}
+}}
+|match5={{MatchMaps
+|team1=shu's money crew eu|games1=2
+|team2=samsung morningstars|games2=2
+|winner=draw
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 18:00 {{Abbr/CET}}
+|twitch=CastersNest
+|finished=true
+|map1=Lijiang Tower|map1score=1-2|map1win=2
+|map2=Horizon Lunar Colony|map2score=2-3|map2win=2
+|map3=Dorado|map3score=2-1|map3win=1
+|map4=Numbani|map4score=4-3|map4win=1
+|overgg=9714
+|pf=58342
+|wl=
+}}
+}}
+|match6={{MatchMaps
+|team1=bazooka puppiez|games1=0
+|team2=winstrike team|games2=4
+|winner=2
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 18:00 {{Abbr/CET}}
+|twitch=MorningStars
+|finished=true
+|map1=Lijiang Tower|map1score=0-2|map1win=2
+|map2=Hanamura|map2score=1-2|map2win=2
+|map3=Dorado|map3score=1-3|map3win=2
+|map4=Hollywood|map4score=2-4|map4win=2
+|overgg=9715
+|pf=58343
+|wl=
+}}
+}}
+|match7={{MatchMaps
+|team1=samsung morningstars|games1=3
+|team2=we have org|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 19:30 {{Abbr/CET}}
+|twitch=MorningStars
+|finished=true
+|map1=Ilios|map1score=2-0|map1win=1
+|map2=Hanamura|map2score=2-2|map2win=draw
+|map3=Route 66|map3score=3-2|map3win=1
+|map4=Hollywood|map4score=1-0|map4win=1
+|overgg=9716
+|pf=58346
+|wl=
+}}
+}}
+|match8={{MatchMaps
+|team1=shu's money crew eu|games1=4
+|team2=bazooka puppiez|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 19:30 {{Abbr/CET}}
+|twitch=noserino
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|overgg=9717
+|pf=58347
+|wl=
+|comment=Bazooka Puppiez forfeit the match.
+}}
+}}
+|match9={{MatchMaps
+|team1=shu's money crew eu|games1=2
+|team2=we have org|games2=2
+|winner=draw
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 22:30 {{Abbr/CET}}
+|twitch=Angry_Titans
+|finished=true
+|map1=Lijiang Tower|map1score=2-1|map1win=1
+|map2=Hanamura|map2score=2-1|map2win=1
+|map3=Route 66|map3score=0-1|map3win=2
+|map4=Numbani|map4score=4-5|map4win=2
+|overgg=9718
+|pf=58350
+|wl=
+}}
+}}
+|match10={{MatchMaps
+|team1=samsung morningstars|games1=2
+|team2=winstrike team|games2=2
+|winner=draw
+|details={{BracketMatchSummary
+|date=November 10, 2018 - 22:30 {{Abbr/CET}}
+|twitch=MorningStars
+|finished=true
+|map1=Busan|map1score=1-2|map1win=2
+|map2=Hanamura|map2score=3-2|map2win=1
+|map3=Dorado|map3score=4-5|map3win=2
+|map4=Numbani|map4score=4-3|map4win=1
+|overgg=9719
+|pf=58351
+|wl=
+}}
+}}
+}}{{Box|end}}
+
+===Finals===
+{{LegacyBracket|Bracket/2|2SETeamBracket|type=team|id=yREDcppe25
+<!-- FINALS -->
+|R1D1team=angry titans |R1D1score=1 |R1D1win=
+|R1D2team=samsung morningstars |R1D2score=3 |R1D2win=1
+|R1G1details={{BracketMatchSummary|tickername=Angry Cup Finals
+|date=November 14, 2018 - 20:00 {{Abbr/CET}}
+|twitch=Angry Titans
+|finished=true
+|map1=Ilios|map1score=1-2|map1win=2
+|map2=Hanamura|map2score=1-0|map2win=1
+|map3=Route 66|map3score=0-2|map3win=2
+|map4=Hollywood|map4score=2-3|map4win=2
+|map5=|map5score=|map5win=
+|overgg=9693
+|pf=58076
+|wl=
+}}
+}}
+
+==View Games==
+===Streams===
+{| class="sortable wikitable" style="text-align:center;"
+|-style="background-color:#f3f3f3;"
+|-
+!width="60"|Language
+|width="40"|{{flag/usuk}}
+|width="40"|{{flag/de}}
+|width="40"|{{flag/fr}}
+|width="40"|{{flag/it}}
+|-
+!rowspan=1|Stream
+|{{TwitchIcon|link=angry_titans}}
+|{{TwitchIcon|link=noserino}}
+|{{TwitchIcon|link=castersnest}}
+|{{TwitchIcon|link=morningstars}}
+|}
+
+===VODs===
+
+==External links==
+
+==References==
+{{Reflist}}

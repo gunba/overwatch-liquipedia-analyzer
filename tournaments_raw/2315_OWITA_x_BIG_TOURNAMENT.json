@@ -1,0 +1,127 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "OWITA x BIG TOURNAMENT",
+            "shortname": "OWITA x BIG TOURNAMENT",
+            "tickername": "OWITA x BIG TOURNAMENT",
+            "icon": "",
+            "image": "",
+            "organizer": "Overwatch ITA",
+            "type": "Online",
+            "country": "Italy",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "prizepool": "350",
+            "localcurrency": "eur",
+            "sdate": "2023-12-18",
+            "edate": "2023-12-19",
+            "twitch": "overwatch_italian_circuit",
+            "discord": "https://discord.gg/TyrpZm6MnM",
+            "rulebook": "https://docs.google.com/document/d/1NCF6EyR_UrSvNR6HoFLX5ZJdt9N88LF1TfHqOwmkBfo/edit?usp=sharing",
+            "bracket": "https://challonge.com/it/x4q4jr37",
+            "team_number": "5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "NoggerS",
+            "p1": "Punisher|p1flag=it|pos1=dps",
+            "p2": "Zombie|p2flag=it|pos2=dps",
+            "p3": "Kyu|p3flag=|pos3=tank",
+            "p4": "Keezoru|p4flag=|pos4=sup",
+            "p5": "GoldieA|p5flag=es|pos5=sup",
+            "t2title": "Staff"
+        },
+        {
+            "team": "Brawl Party",
+            "p1": "Sined|p1flag=fr|pos1=dps",
+            "p2": "tiagolini|p2flag=pt|pos2=dps",
+            "p3": "Blackpink|p3flag=ch|pos3=tank",
+            "p4": "Schef|pos4=sup",
+            "p5": "Laubee|p5flag=nl|pos5=sup",
+            "p6": "JayP7|p6flag=no|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Ocie|t2c1pos=Coach",
+            "t2c2": "ZeroLife|t2c2flag=it|t2c2pos=Coach",
+            "t2c3": "turtleeeee|t2c3pos=manager"
+        },
+        {
+            "team": "God Hand",
+            "p1": "Bischo|p1flag=|pos1=dps",
+            "p2": "Bl9den|p2flag=it|pos2=dps",
+            "p3": "CociaBomb|p3flag=it|pos3=tank",
+            "p4": "Miiihawk|p4flag=it|pos4=sup",
+            "p5": "Foulard|p5flag=it|pos5=sup"
+        },
+        {
+            "team": "Xeno Travellers",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "CrazyBoost",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-12-18 - 21:00 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|Brawl Party|score=2}}",
+            "opponent2": "{{TeamOpponent|NoggerS|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-12-18 - 21:45 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|CrazyBoost|score=0}}",
+            "opponent2": "{{TeamOpponent|Brawl Party|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-12-18 - 21:45 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|Xeno Travellers|score=0}}",
+            "opponent2": "{{TeamOpponent|God Hand|score=2}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-12-19 - 21:00 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|Brawl Party|score=2}}",
+            "opponent2": "{{TeamOpponent|God Hand|score=0}}",
+            "optional": "R4M1="
+        },
+        {
+            "bestof": "3",
+            "date": "2023-12-18 - 22:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|Xeno Travellers|score=0}}",
+            "opponent2": "{{TeamOpponent|NoggerS|score=2}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2023-12-18 - 23:15 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|CrazyBoost|score=0}}",
+            "opponent2": "{{TeamOpponent|NoggerS|score=2}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2023-12-19 - 21:45 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|God Hand|score=0}}",
+            "opponent2": "{{TeamOpponent|NoggerS|score=2}}",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "2023-12-19 - 22:30 {{Abbr/CET}}",
+            "opponent1": "{{TeamOpponent|Brawl Party|score=3}}",
+            "opponent2": "{{TeamOpponent|NoggerS|score=1}}",
+            "optional": "R5M1="
+        }
+    ]
+}

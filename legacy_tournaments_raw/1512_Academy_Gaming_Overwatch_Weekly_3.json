@@ -1,0 +1,249 @@
+{
+    "tournament_info": [
+        {
+            "name": "Academy Gaming Overwatch Weekly #3",
+            "shortname": "3",
+            "image": "ag-logo.png",
+            "series": "Academy Gaming",
+            "organizer": "Academy Gaming",
+            "sponsor": "Academy Gaming",
+            "type": "Online",
+            "country": "USA",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "prizepoolusd": "160",
+            "date": "2016-06-15",
+            "sdate": "",
+            "edate": "",
+            "web": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-3/575768cbf0975b7212ad4a3b/info",
+            "bracket": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-3/575768cbf0975b7212ad4a3b/stage/575768cbf0975b7212ad4a3c/bracket/",
+            "twitch": "gamewithstorm",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "team entropy",
+            "teamsecond": "Bold Purpose Gaming",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "16",
+            "map1": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Radioactive",
+            "p1flag": "|p1=Firebird854",
+            "p2flag": "|p2=TBT",
+            "p3flag": "|p3=Ferox",
+            "p4flag": "|p4=Nothingg",
+            "p5flag": "|p5=TBT",
+            "p6flag": "|p6=Crysis"
+        },
+        {
+            "team": "Bold Purpose Gaming",
+            "p1flag": "us |p1=Clutter",
+            "p2flag": "ca |p2=Natsu",
+            "p3flag": "us |p3=Firefox",
+            "p4flag": "us |p4=timmychrist",
+            "p5flag": "us |p5=Taeyeon",
+            "p6flag": "us |p6=Verbo"
+        },
+        {
+            "team": "Generic"
+        },
+        {
+            "team": "F O R E V E R 21"
+        },
+        {
+            "team": "Extraordinary Porpoise"
+        },
+        {
+            "team": "LuX Unpredictables"
+        },
+        {
+            "team": "Far From Good",
+            "p1flag": "|p1=idachu",
+            "p2flag": "|p2=GrimHarvestr",
+            "p3flag": "|p3=Winneh",
+            "p4flag": "|p4=Chickenwaffl",
+            "p5flag": "|p5=cvar",
+            "p6flag": "|p6=anthonyall"
+        },
+        {
+            "team": "CleanBarBox",
+            "p1flag": "|p1=Boxerbeats",
+            "p2flag": "|p2=vexen",
+            "p3flag": "|p3=Deantastic",
+            "p4flag": "|p4=Reckias",
+            "p5flag": "|p5=aaronnn",
+            "p6flag": "|p6=Jeeter",
+            "p7flag": "|p7=imhaze"
+        },
+        {
+            "team": "Salus",
+            "p1flag": "|p1=DrooFroo",
+            "p2flag": "|p2=Mercury",
+            "p3flag": "|p3=MaxFatality",
+            "p4flag": "|p4=Eclipse",
+            "p5flag": "|p5=Xeqt",
+            "p6flag": "|p6=Nyquil",
+            "p7flag": "|p7=Baklava"
+        },
+        {
+            "team": "Team Entropy"
+        },
+        {
+            "team": "Floki Gaming"
+        },
+        {
+            "team": "Seraphs of Fortune"
+        },
+        {
+            "team": "Kevin_n Friends"
+        },
+        {
+            "team": "Bro"
+        },
+        {
+            "team": "Umbra"
+        },
+        {
+            "team": "Torbjorns of Fortuna"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Umbra",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "bold purpose gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Torbjorns of Fortuna",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "Extraordinary Porpoise",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Bro",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "Salus",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "Kevin_n Friends",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "CleanBarBox",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Generic",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "far from good",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Seraphs of Fortuna",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D11",
+            "team1": "F O R E V E R 21",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "team entropy",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D13",
+            "team1": "Radioactive",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Floki Gaming",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "LuX Unpredictables",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Torbjorns of Fortuna",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "bold purpose gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Kevin_n Friends",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "Bro",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Seraphs of Fortuna",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "far from good",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "Floki Gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "team entropy",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Kevin_n Friends",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "bold purpose gaming",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "team entropy",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W3",
+            "team1": "far from good",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "team entropy",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "bold purpose gaming",
+            "score1": "1",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,152 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "name": "Duck Squad Brawl #3",
+            "shortname": "League Trolli Duck Squad Brawl 3",
+            "tickername": "League Trolli Duck Squad Brawl #3",
+            "icon": "LeagueTrolli.png",
+            "image": "LeagueTrolli.png",
+            "series": "League Trolli",
+            "organizer": "Duck Squad",
+            "organizer2": "League Trolli",
+            "sponsor": "[https://www.trolli.com/ Trolli]",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "100",
+            "date": "2022-12-30",
+            "twitter": "l8tency",
+            "web": "https://leaguetrolli.challonge.com/",
+            "twitch": "l8tency",
+            "discord": "9z6hfQfcz2",
+            "rulebook": "https://docs.google.com/document/d/13pY0DpQF8aeDoCcSkjqJpv0_UOIk5uZdEr-Zzt1LWTc/edit?usp=sharing",
+            "bracket": "https://leaguetrolli.challonge.com/oqcc0jpf",
+            "team_number": "5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "KRONOS Odyssey Gaming",
+            "p1": "",
+            "pos1": "",
+            "p1flag": "",
+            "p2": "",
+            "pos2": "",
+            "p2flag": "",
+            "p3": "",
+            "pos3": "",
+            "p3flag": "",
+            "p4": "",
+            "pos4": "",
+            "p4flag": "",
+            "p5": "",
+            "pos5": "",
+            "p5flag": ""
+        },
+        {
+            "team": "Weenie Thunder",
+            "p1": "ShallotWater",
+            "pos1": "",
+            "p1flag": "",
+            "p2": "HintToad",
+            "pos2": "",
+            "p2flag": "",
+            "p3": "RadicalGrandad",
+            "pos3": "",
+            "p3flag": "",
+            "p4": "Yungbastian",
+            "pos4": "",
+            "p4flag": "",
+            "p5": "Chompers7676",
+            "pos5": "",
+            "p5flag": ""
+        },
+        {
+            "team": "RCG High Rollers",
+            "p1": "",
+            "pos1": "",
+            "p1flag": "",
+            "p2": "",
+            "pos2": "",
+            "p2flag": "",
+            "p3": "",
+            "pos3": "",
+            "p3flag": "",
+            "p4": "",
+            "pos4": "",
+            "p4flag": "",
+            "p5": "",
+            "pos5": "",
+            "p5flag": ""
+        },
+        {
+            "team": "Bottom Feeders",
+            "p1": "",
+            "pos1": "",
+            "p1flag": "",
+            "p2": "",
+            "pos2": "",
+            "p2flag": "",
+            "p3": "",
+            "pos3": "",
+            "p3flag": "",
+            "p4": "",
+            "pos4": "",
+            "p4flag": "",
+            "p5": "",
+            "pos5": "",
+            "p5flag": ""
+        },
+        {
+            "team": "Overlooked Esports",
+            "p1": "nicholas",
+            "pos1": "dps",
+            "p1flag": "us",
+            "p2": "Typhoon",
+            "pos2": "dps",
+            "p2flag": "us",
+            "p3": "Tom",
+            "pos3": "tank",
+            "p3flag": "us",
+            "p4": "Jammm",
+            "pos4": "sup",
+            "p4flag": "us",
+            "p5": "Chaff",
+            "pos5": "sup",
+            "p5flag": "us"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "bottom feeders",
+            "opponent1_score": 2,
+            "opponent2": "overlooked esports",
+            "opponent2_score": 1,
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "kronos odyssey gaming",
+            "opponent1_score": 0,
+            "opponent2": "bottom feeders",
+            "opponent2_score": 2,
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "weenie thunder",
+            "opponent1_score": 0,
+            "opponent2": "rcg high rollers",
+            "opponent2_score": 2,
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "bottom feeders",
+            "opponent1_score": 3,
+            "opponent2": "rcg high rollers",
+            "opponent2_score": 0,
+            "optional": "R3M1="
+        }
+    ]
+}

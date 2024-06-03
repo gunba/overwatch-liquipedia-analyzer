@@ -1,0 +1,191 @@
+{{DISPLAYTITLE:DACH DoKomi Showdown}}{{DACH Navbox}}
+{{Infobox league
+|name=DACH DoKomi Showdown
+|shortname=
+|tickername=
+|image=DACH_esports_stern.png
+|icon=DACH_esports_stern_small.png
+|organizer=DACH eSports
+|country=Germany
+|city=Düsseldorf
+|series=Overwatch DACH Series
+|abbreviation=ODS
+|type=Offline
+|format=Single Elimination
+|prizepoolusd=
+|date=2020-09-26
+|liquipediatier={{TierText/5}}
+|web=https://dach-esports.de
+|twitch=dachesports
+|youtube=channel/UCepdqWBSD5JEM1uyqN7AgTQ
+|team_number=4
+|bracket=
+|rulebook=https://cdn.discordapp.com/attachments/487283165627678720/752524490277388288/Regelwerk_Dach_eSports_07.09.2020.pdf
+|teamfirst=
+|teamsecond=
+|teamthird=
+|previous=ODS S2
+|next=
+}}
+
+==About==
+
+The top four teams from the last season of the '''Overwatch DACH Series''' participate in one of the few offline events in 2020 at the DoKomi in Düsseldorf.
+
+==Format==
+
+*The Showdown will consist of a '''Single-Elimination Bracket'''.
+*Seeding will be based on the results of the online Playoffs.
+*The Semifinals will be '''first to 2''', the Grand Final and the 3rd-place match will be '''first to 3'''.
+
+==Broadcast Talent==
+{{box|start|padding=1em}}
+{{BroadcasterCard|lang=German
+|position=Commentator
+|b1=Darman|b1name=Daniel Kentsch|b1flag=de
+|b2=JLEPS|b2name=Jakob Schwinn|b2flag=de
+|b3=Zarin|b3name=Matthias Philippi|b3flag=de
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard|lang=German
+|position=Observer/Producer
+|b1=Ultimett|b1name=Lukas Niewald|b1flag=de
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard|lang=German
+|position=Project Manager
+|b1=Shadow|b1name=Patrick Nierling|b1flag=de
+}}
+{{box|end}}
+
+==Prize Pool==
+
+{{prize pool start|noprize=y}}
+{{prize pool slot|place=1|hsr panthera|lastvs1=bayern apex|lastscore1=2|lastvsscore1=1|date1=September 26, 2020}}
+{{prize pool slot|place=2|bayern apex|lastvs1=hsr panthera|lastscore1=1|lastvsscore1=2|date1=September 26, 2020}}
+{{prize pool slot|place=3|nrw invictus|lastvs1=north-west narwhals|lastscore1=2|lastvsscore1=0|date1=September 26, 2020}}
+{{prize pool slot|place=4|north-west narwhals|lastvs1=nrw invictus|lastscore1=0|lastvsscore1=2|date1=September 26, 2020}}
+{{prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Bayern Apex
+|image=BayernApexS2.png
+|p1=EgZo|p1flag=de|pos1=tank
+|p2=Moose|pos2=tank
+|p3=iskrauno|p3flag=de|pos3=
+|p4=calm|p4flag=de|pos4=
+|p5=crOuch|p5flag=de|pos5=
+|p6=SSK|p6flag=de|pos6=dps
+|p7=Darco|p7link=DarcoLeaks|p7flag=de|pos7=dps
+|p8=Awzey|p8flag=de|pos8=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=HSR Panthera
+|image=HSRS3.png
+|p1=Cookie|p1flag=de|pos1=tank
+|p2=Hitori|p2flag=de|pos2=tank
+|p3=Tschosch|p3flag=de|pos3=tank
+|p4=ediz|p4flag=de|pos4=dps
+|p5=LVN|p5flag=de|pos5=dps
+|p6=Jäger|p6flag=de|pos6=dps
+|p7=rephid|p7flag=de|pos7=sup
+|p8=RK|p8flag=de|pos8=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=North-West Narwhals
+|image=NarwhalsS2.png
+|p1=Nacht|p1flag=de|pos1=tank
+|p2=Achselhaar|p2flag=de|pos2=tank
+|p3=Kozac|p3flag=de|pos3=dps
+|p4=mace|p4flag=de|pos4=dps
+|p5=BattleAxe|p5flag=de|pos5=sup
+|p6=Miaow|p6flag=de|pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NRW Invictus
+|image=NRWInvictus.png
+|p1=Noserino|p1flag=de|pos1=tank
+|p2=Keks|p2flag=de|pos2=dps
+|p3=Swalees|p3flag=de|pos3=dps
+|p4=Lutu|pos4=dps
+|p5=LucaEnrico|p5flag=de|pos5=sup
+|p6=Thunder|p6flag=de|pos6=sup|p6link=Thunder (German player)
+}}
+{{box|end|padding=2em}}
+
+==Results==
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=pflD2VTjek
+|R1=Semifinals (First to 2)
+|R2=Grand Finals (First to 3)
+|L2='''3rd Place Match (First to 2)'''
+<!-- SEMIFINALS -->
+|R1D1team=hsr panthera|R1D1score=2|R1D1win=1
+|R1D2team=nrw invictus|R1D2score=1|R1D2win=
+|R1G1details={{BracketMatchSummary
+|date=September 26, 2020 - 13:00 {{Abbr/CEST}}
+|twitch=dachesports
+|finished=true
+|map1=Nepal|map1score=1-2|map1win=2
+|map2=King's Row|map2score=3-1|map2win=1
+|map3=Junkertown|map3score=3-2|map3win=1
+|vod=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=north-west narwhals|R1D3score=0|R1D3win=
+|R1D4team=bayern apex|R1D4score=2|R1D4win=1
+|R1G2details={{BracketMatchSummary
+|date=September 26, 2020 - 14:00 {{Abbr/CEST}}
+|twitch=dachesports
+|finished=true
+|map1=Ilios|map1score=1-2|map1win=2
+|map2=King's Row|map2score=3-4|map2win=2
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|vod=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- FINALS -->
+|R2W1team=hsr panthera|R2W1score=2|R2W1win=1
+|R2W2team=bayern apex|R2W2score=1|R2W2win=
+|R2G1details={{BracketMatchSummary
+|date=September 26, 2020 - 18:00 {{Abbr/CEST}}
+|twitch=dachesports
+|finished=true
+|map1=Lijiang Tower|map1score=0-2|map1win=2
+|map2=King's Row|map2score=4-3|map2win=1
+|map3=Route 66|map3score=3-2|map3win=1
+|map4=|map4score=|map4win=
+|vod=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- 3RD PLACE -->
+|R2D1team=nrw invictus |R2D1score=2|R2D1win=1
+|R2D2team=north-west narwhals|R2D2score=0|R2D2win=
+|R2G2details={{BracketMatchSummary
+|date=September 26, 2020 - 15:00 {{Abbr/CEST}}
+|twitch=dachesports
+|finished=true
+|map1=Busan|map1score=2-0|map1win=1
+|map2=King's Row|map2score=4-3|map2win=1
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|map6=|map6score=|map6win=
+|vod=
+|overgg=
+|pf=
+|wl=
+}}
+}}

@@ -1,0 +1,194 @@
+{{DISPLAYTITLE:DreamHack Winter 2016: BYOC Qualifier}}
+{{DreamHack Navbox}}<br>
+
+{{Tabs static
+|name1=Main Event |link1=DreamHack/2016/Winter
+|name2=North American Qualifier |link2=DreamHack/2016/Winter/North American Qualifier
+|name3=European Qualifier |link3=DreamHack/2016/Winter/European Qualifier
+|name4=BYOC Qualifier |link4=DreamHack/2016/Winter/BYOC Qualifier
+|This=4}}<br/>
+
+{{Infobox league
+|liquipediatier=2|liquipediatiertype=Qualifier
+|series=DreamHack
+|shortname=Winter
+|name=DreamHack Winter 2016: BYOC Qualifier
+|image=Overwatch_Championship_Logo.png
+|organizer=DreamHack
+|sponsor=
+|type=Offline
+|country=Sweden
+|city=Jönköping
+|venue=[http://www.elmia.se Elmia]
+|format=Double-elimination ({{Abbr/Bo3}}) + Finals ({{Abbr/Bo5}})
+|prizepoolusd=
+|date=2016-11-24
+|web=http://dreamhack.se/dhw16/2016/09/29/50000-overwatch-championship-at-dreamhack-winter-2016-announced/
+|bracket=https://challonge.com/e0e5i72l
+|team_number=6
+}}
+
+==About==
+
+The BYOC qualifier will be hosted live onsite at DreamHack Winter 2016, with the top four teams advancing to the main event.
+
+===Format===
+*Top 4 of the BYOC qualifier directly qualifies for the Main Event.
+*Double-Elimination Bracket in ({{Abbr/Bo3}}).
+*Qualifying rounds in ({{Abbr/Bo5}}).
+
+==Qualified Results==
+{{prize pool start|noprize=1|points=qualified}}
+{{prize pool slot |place=1|points=q |link=DreamHack/2016/Winter
+|ldlc|lastvs1= 420 get chickens |lastscore1=2 |lastvsscore1=0
+}}
+{{prize pool slot |place=2|points=q |link=DreamHack/2016/Winter
+|penta|lastvs1=420 get chickens |lastscore1=2 |lastvsscore1=0
+}}
+{{prize pool slot |place=3 |points=q |link=DreamHack/2016/Winter
+|mousesports|lastvs1=penta |lastscore1=2 |lastvsscore1=0
+}}
+{{prize pool slot |place=4|points=q |link=DreamHack/2016/Winter
+|unwanted|lastvs1=affe |lastscore1=2 |lastvsscore1=0
+}}
+
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Team LDLC.com
+|image=
+|p1=KabaL|p1flag=
+|p2=Klanton|p2flag=
+|p3=Mezamorphis|p3flag=
+|p4=Clown|p4flag=lv
+|p5=Mete|p5flag=
+|p6=Ube|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=mousesports
+|image=
+|p1=CWoosH|p1flag=
+|p2=Divinius|p2flag=
+|p3=BUR1X|p3flag=
+|p4=Aseal|p4flag=
+|p5=Finnsi|p5flag=
+|p6=Logix|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=PENTA Sports
+|p1=Dennia|p1flag=
+|p2=Flippy|p2flag=
+|p3=Akke|p3flag=
+|p4=Epzz|p4flag=
+|p5=Lalli|p5flag=
+|p6=BALLOC |p6flag=dk
+|c=Cuddles |cflag=uk
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=UnWanted
+|p1=N1KOLA|p1flag=se
+|p2=Zekor|p2flag=se
+|p3=lateks|p3flag=se
+|p4=limmet|p4flag=se
+|p5=eMIL|p5flag=se
+|p6=Smarky|p6flag=se
+|c=Nachobro |cflag=se
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Affe och båååysen
+|image=
+|p1=
+|p2=
+|p3=
+|p4=
+|p5=
+|p6=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=420 Get chickens
+|image=
+|p1=
+|p2=
+|p3=
+|p4=
+|p5=
+|p6=
+}}
+{{box|end}}
+
+==Results==
+===Playoffs===
+{{LegacyBracket|Bracket/4L2DSU4L1D|4DE2WTeamBracket|type=team|id=i38atKL7tc
+<!-- QUARTERFINALS -->
+|R1D1team=affe |R1D1score=0 |R1D1win=
+|R1D2team=penta |R1D2score=2 |R1D2win=1
+|R1G1details={{BracketMatchSummary 
+|date= |finished=
+}}
+|R1D3team=420 get chickens |R1D3score=0 |R1D3win=
+|R1D4team=unwanted |R1D4score=2 |R1D4win=1
+|R1G2details={{BracketMatchSummary 
+|date= |finished=
+}}
+<!-- SEMIFINALS -->
+|R2D1team=mousesports |R2D1score=2 |R2D1win=1
+|R2W1team=penta |R2W1score=0 |R2W1win=
+|R2G1details={{BracketMatchSummary 
+|date= |finished=
+}}
+|R2D2team=ldlc |R2D2score=2 |R2D2win=1
+|R2W2team=unwanted |R2W2score=0 |R2W2win=
+|R2G2details={{BracketMatchSummary 
+|date= |finished=
+}}
+<!-- WINNER'S FINALS -->
+|R3W1team=mousesports |R3W1score=0 |R3W1win=
+|R3W2team=ldlc |R3W2score= 2|R3W2win=1
+|R3G1details={{BracketMatchSummary 
+|date= |finished=
+}}
+<!-- LOSER'S ROUND 1 -->
+|R1D5team=unwanted |R1D5score=2 |R1D5win=1
+|R1D6team=affe |R1D6score=0 |R1D6win=
+|R1G3details={{BracketMatchSummary 
+|date= |finished=
+}}
+|R1D7team=penta |R1D7score=2 |R1D7win=1
+|R1D8team=420 get chickens |R1D8score=0 |R1D8win=
+|R1G4details={{BracketMatchSummary 
+|date= |finished=
+}}
+<!-- LOSER'S ROUND 2 -->
+|R2W3team=unwanted |R2W3score=0 |R2W3win=
+|R2W4team=penta |R2W4score=2 |R2W4win=1
+|R2G3details={{BracketMatchSummary 
+|date= |finished=
+}}
+<!-- LOSER'S ROUND 3 -->
+|R3D1team=mousesports |R3D1score=1 |R3D1win=
+|R3W3team=penta |R3W3score=2 |R3W3win=1
+|R3G2details={{BracketMatchSummary 
+|date= |finished=
+}}
+<!-- GRAND FINALS -->
+|R4W1team=ldlc |R4W1score=3 |R4W1win=1
+|R4W2team=penta |R4W2score=0 |R4W2win=
+|R4G1details={{BracketMatchSummary 
+|date= |finished=
+}}
+<!-- EXTENDED SERIES (optional) -->
+|R4W1score2=
+|R4W2score2=
+<!-- EXTENDED SERIES THIRD ROUND (optional) -->
+|R4W1score3=
+|R4W2score3=
+}}

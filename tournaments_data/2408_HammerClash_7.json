@@ -1,0 +1,1189 @@
+{
+    "tournament_info": [
+        {
+            "name": "HammerClash #7",
+            "shortname": "HC #7",
+            "series": "HammerClash",
+            "image": "",
+            "icon": "",
+            "tickername": "HammerClash #7",
+            "organizer": "HammerKick",
+            "country": "Europe",
+            "type": "Online",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "prizepool": "300",
+            "localcurrency": "eur",
+            "prizepoolusd": "300",
+            "date": "2023-03-18",
+            "liquipediatier": "5",
+            "twitter": "HammerKick_OW",
+            "twitch": "hammerkick",
+            "bracket": "https://play.toornament.com/fr/tournaments/6539432800432955392/stages/6539433212687294464/",
+            "rulebook": "https://play.toornament.com/fr/tournaments/6539432800432955392/stages/6539433212687294464/rules",
+            "team_number": "16",
+            "previous": "HammerClash/6{{!}}#6",
+            "next": "HammerClash/8{{!}}#8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "MontQ Eternal",
+            "p1": "TsuSHI",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Friome",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Zappeur",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Xpariboy",
+            "p4flag": "fr",
+            "pos4": "tank",
+            "p5": "Gryfouille",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "p6": "Nara",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "p7": "Belesprit",
+            "p7flag": "be",
+            "pos7": "sup"
+        },
+        {
+            "team": "Little Gigantes",
+            "p1": "Lumwalker",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Versio",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Kyo",
+            "pos3": "tank",
+            "p3link": "Kyo (French manager)",
+            "p4": "FDPGod",
+            "p4flag": "fr",
+            "pos4": "sup",
+            "p5": "Minefine",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "t2title": "staff",
+            "t2c1": "Camchapo",
+            "t2c1flag": "fr",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Dragon's Homies",
+            "p1": "Warglabidoo",
+            "p1flag": "fr",
+            "p1team": "",
+            "pos1": "dps",
+            "p2": "potinounou",
+            "p2flag": "fr",
+            "p2team": "",
+            "pos2": "dps",
+            "p3": "Terozz",
+            "p3flag": "fr",
+            "p3team": "",
+            "pos3": "tank",
+            "p4": "Bak4ra",
+            "p4flag": "fr",
+            "p4team": "",
+            "pos4": "sup",
+            "p5": "Timinyhappy",
+            "p5flag": "fr",
+            "p5team": "",
+            "pos5": "sup"
+        },
+        {
+            "team": "2BOO",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Feur",
+            "p1": "Away",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "HyAKu",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "supersaucise",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "lhine",
+            "p4flag": "fr",
+            "pos4": "sup",
+            "p5": "scynzo",
+            "p5flag": "fr",
+            "pos5": "sup"
+        },
+        {
+            "team": "RIIX ESPORT",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Brazil (Pug Team)",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "HTB",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Rombish Corp",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "I GUESS",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Pipibox Reported",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Team Schweppes",
+            "p1": "Stellios",
+            "pos1": "dps",
+            "p2": "Matriera",
+            "p2flag": "fr ",
+            "pos2": "dps",
+            "p3": "KroxZ ",
+            "pos3": "tank",
+            "p4": "Xerion",
+            "pos4": "sup",
+            "p5": "GOGO",
+            "pos5": "sup"
+        },
+        {
+            "team": "DSP Helix",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Les semis-croustillants",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Pulsar Academy",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "Watermelon Juice",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-03-18",
+            "opponent1": "Team Schweppes",
+            "opponent1_score": 2,
+            "opponent2": "Pulsar Academy",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Little GIgantes",
+            "opponent1_score": 2,
+            "opponent2": "DSP Helix",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "HTB|score=W",
+            "opponent2": "Brazil (Pug Team)|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "2BOO",
+            "opponent1_score": 2,
+            "opponent2": "MontQ Eternal",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Rombish Corp",
+            "opponent1_score": 2,
+            "opponent2": "I GUESS",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Pipibox Reported",
+            "opponent1_score": 2,
+            "opponent2": "Feur",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Les semis-croustillants",
+            "opponent1_score": 0,
+            "opponent2": "RIIX ESPORT",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Watermelon Juice",
+            "opponent1_score": 0,
+            "opponent2": "Dragon's Homies",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Team Schweppes",
+            "opponent1_score": 2,
+            "opponent2": "Little GIgantes",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "HTB|score=FF",
+            "opponent2": "2BOO|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Rombish Corp",
+            "opponent1_score": 2,
+            "opponent2": "Pipibox Reported",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "RIIX ESPORT",
+            "opponent1_score": 0,
+            "opponent2": "Dragon's Homies",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Team Schweppes",
+            "opponent1_score": 2,
+            "opponent2": "2BOO",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Rombish Corp",
+            "opponent1_score": 2,
+            "opponent2": "Dragon's Homies",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Team Schweppes",
+            "opponent1_score": 2,
+            "opponent2": "Rombish Corp",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Watermelon juice|score=W",
+            "opponent2": "Les semis-croustillants|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M9="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Feur|score=W",
+            "opponent2": "I GUESS|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M10="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "MontQ Eternal",
+            "opponent1_score": 2,
+            "opponent2": "Brazil (Pug Team)",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M11="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "DSP Helix",
+            "opponent1_score": 2,
+            "opponent2": "Pulsar Academy",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M12="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "HTB|score=FF",
+            "opponent2": "Watermelon Juice|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Little Gigantes",
+            "opponent1_score": 2,
+            "opponent2": "Feur",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M6="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "RIIX ESPORT",
+            "opponent1_score": 1,
+            "opponent2": "MontQ Eternal",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M7="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Pipibox Reported",
+            "opponent1_score": 2,
+            "opponent2": "DSP Helix",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M8="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Watermelon Juice",
+            "opponent1_score": 0,
+            "opponent2": "Little Gigantes",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "MontQ Eternal|score=FF",
+            "opponent2": "Pipibox Reported|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Dragon's Homies",
+            "opponent1_score": 2,
+            "opponent2": "Little Gigantes",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M3="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "2BOO|score=W",
+            "opponent2": "Pipibox Reported|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M4="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Dragon's Homies",
+            "opponent1_score": 2,
+            "opponent2": "2BOO",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Rombish Corp",
+            "opponent1_score": 2,
+            "opponent2": "Dragon's Homies",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M2="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "Team Schweppes",
+            "opponent1_score": 2,
+            "opponent2": "Rombish Corp",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R7M1="
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Weekly",
+            "name": "GameBattles Overwatch 2 Online Tournament North America #5",
+            "shortname": "5v5 North America #5",
+            "tickername": "GameBattles North America #5",
+            "icon": "GameBattles icon lightmode.png",
+            "icondark": "GameBattles icon darkmode.png",
+            "image": "GameBattles lightmode.png",
+            "imagedark": "GameBattles darkmode.png",
+            "organizer": "GameBattles",
+            "series": "GameBattles",
+            "abbreviation": "GB",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "500",
+            "date": "2022-10-22",
+            "twitter": "gamebattles",
+            "discord": "gamebattles",
+            "facebook": "gamebattles",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--na5/info",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--na5/bracket",
+            "team_number": "7",
+            "previous": "GameBattles_Overwatch_2_Online_Tournament/NA/4{{!}}#4",
+            "next": "GameBattles_Overwatch_2_Online_Tournament/NA/6{{!}}#6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Blue Pikmin",
+            "p1": "Rokit|p1flag=|pos1=dps",
+            "p2": "Chopper|p2flag=|pos2=dps",
+            "p3": "Bubbles|p3flag=|pos3=tank",
+            "p4": "Lyar|p4flag=|pos4=sup",
+            "p5": "Yimitra|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Hottub Gaming",
+            "p1": "ColeTheCrazy|p1flag=us|pos1=dps",
+            "p2": "FantasyProdigy|p2flag=|pos2=",
+            "p3": "dec|p3flag=|pos3=",
+            "p4": "kraber|p4flag=|pos4=",
+            "p5": "peep|p5flag=|pos5=",
+            "p6": "poopman|p6flag=|pos6="
+        },
+        {
+            "team": "GWP",
+            "p1": "AwfulRat|p1flag=|pos1=",
+            "p2": "Chan|p2flag=|pos2=",
+            "p3": "MrLazerd|p3flag=|pos3=",
+            "p4": "River9663|p4flag=|pos4=",
+            "p5": "ShreddedChz|p5flag=|pos5=",
+            "p6": "ShepardsOfFire91|p6flag=|pos6="
+        },
+        {
+            "team": "Creed Academy",
+            "p1": "Emmeryn|p1flag=ca|pos1=dps",
+            "p2": "SuperGomez|p2flag=co|pos2=dps",
+            "p3": "Lunacy|p3flag=us|pos3=tank",
+            "p4": "Dhillon|p4flag=ca|pos4=sup",
+            "p5": "Neutral|p5flag=us|pos5=sup"
+        },
+        {
+            "team": "Kryix",
+            "p1": "Rymazing|p1flag=|pos1=dps",
+            "p2": "Dynasty|p2flag=|pos2=dps",
+            "p3": "scissors|p3flag=us|pos3=dps",
+            "p4": "Stryder|p4flag=|pos4=tank",
+            "p5": "Elk|p5flag=|pos5=sup",
+            "p6": "Karova|p6flag=|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Matrix|t2c1pos=head coach",
+            "t2c2": "Micro|t2c2pos=assistant coach|t2c2link=Micro (American Coach)",
+            "t2c3": "Shyam|t2c3pos=assistant coach",
+            "t2c4": "Chanyoung67|t2c4pos=analyst",
+            "t2c5": "LilLucio|t2c5pos=manager",
+            "t2c6": "CrazyHobo|t2c6pos=manager"
+        },
+        {
+            "team": "The Bada Bing",
+            "p1": "ihk|p1flag=|pos1=",
+            "p2": "Gr33nKn1ght|p2flag=|pos2=",
+            "p3": "MrDriller|p3flag=|pos3=",
+            "p4": "Nocturnal_GG|p4flag=|pos4=",
+            "p5": "SmileyKitKat|p5flag=|pos5=",
+            "p6": "ham|p6flag=|pos6="
+        },
+        {
+            "team": "The Mystic Alliance",
+            "p1": "Wheresmy7|p1flag=|pos1=",
+            "p2": "0R10N|p2flag=|pos2=",
+            "p3": "Bloodbaron|p3flag=|pos3=",
+            "p4": "Dezarts|p4flag=|pos4=",
+            "p5": "G1gabitGaming|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "October 22, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|kryix|score=2}}",
+            "opponent2": "{{TeamOpponent|the mystic alliance|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "October 22, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|creed academy|score=2}}",
+            "opponent2": "{{TeamOpponent|the bada bing|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "October 22, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|blue pikmin|score=2}}",
+            "opponent2": "{{TeamOpponent|hottub gaming|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "October 22, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|gwp|score=0}}",
+            "opponent2": "{{TeamOpponent|kryix|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "October 22, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|creed academy|score=0}}",
+            "opponent2": "{{TeamOpponent|blue pikmin|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "October 22, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|kryix|score=2}}",
+            "opponent2": "{{TeamOpponent|blue pikmin|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        }
+    ]
+}

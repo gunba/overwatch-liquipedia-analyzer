@@ -1,0 +1,77 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "Andbox Spring Rally",
+            "abbreviation": "",
+            "shortname": "Andbox Spring Rally OW Nationals",
+            "name": "Andbox Spring Rally 2020: Overwatch Nationals",
+            "tickername": "Andbox Spring Rally",
+            "image": "Andbox Spring Ralley.png",
+            "icon": "Andbox Spring Ralley.png",
+            "organizer": "Andbox",
+            "organizer-link": "https://andbox.com",
+            "sponsor": "[https://aimlab.gg// Aim Lab]<br>[https://www.kontrolfreek.com/ KontrolFreek]<br>[https://www.corsair.com/us/en/ CORSAIR]<br>[https://www.twitch.tv/p/students/ Twitch Students]",
+            "type": "Online",
+            "country": "North America",
+            "city": "",
+            "venue": "",
+            "format": "Double Elimintation",
+            "patch": "",
+            "prizepoolusd": "3,000",
+            "date": "2019-04-25",
+            "web": "https://andbox.com/tournaments/andbox-spring-rally-overwatch-nationals/",
+            "bracket": "https://andbox.com/tournaments/andbox-spring-rally-overwatch-nationals/?tournament-tab=brackets",
+            "rules": "https://andbox.com/tournaments/andbox-spring-rally-overwatch-northeast/",
+            "youtube": "andbox",
+            "twitter": "andbox_official",
+            "team_number": "8",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Arizona State University",
+            "p1": "RittleMan|p1flag=us|pos1=dps",
+            "p2": "ImUnderHated|p2flag=us|pos2=dps",
+            "p3": "Se7en|p3flag=us|pos3=tank",
+            "p4": "NANOOK|p4flag=us|pos4=tank",
+            "p5": "Adduuuh|p5flag=us|pos5=tank",
+            "p6": "LMAYO|p6flag=us|pos6=sup",
+            "p7": "ZuperSly|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "ButterNut|t2c1flag=us|t2c1pos=manager",
+            "qualifier": ""
+        },
+        {
+            "team": "University of Utah",
+            "qualifier": ""
+        },
+        {
+            "team": "University of Missouri",
+            "qualifier": ""
+        },
+        {
+            "team": "University of California, San Diego Gold",
+            "qualifier": ""
+        },
+        {
+            "team": "University of Minnesota Twin Cities",
+            "qualifier": ""
+        },
+        {
+            "team": "University of Texas at Dallas",
+            "qualifier": ""
+        },
+        {
+            "team": "Orange Coast College",
+            "qualifier": ""
+        },
+        {
+            "team": "University of Colorodo Boulder",
+            "qualifier": ""
+        }
+    ],
+    "match_cards": []
+}

@@ -1,0 +1,100 @@
+{{Infobox league
+|name=Denmark vs. Sweden Showmatch
+|shortname=Denmark vs. Sweden Showmatch
+|tickername=Denmark vs. Sweden Showmatch
+|image=Denmark vs. Sweden Showmatch allmode.png
+|icon=Denmark vs. Sweden Showmatch allmode.png
+|organizer=
+|type=Online
+|country=Denmark
+|country2=Sweden
+|game=overwatch2
+|date=2023-04-16
+|liquipediatier=3|liquipediatiertype=Showmatch
+|twitter=OwSweden
+|twitter2=OWTeamDenmark
+|twitch=Reinforce
+|team_number=2
+}}
+
+==Information==
+*[[Overwatch World Cup]] rosters for each team are revealed prior to the match
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Commentator
+|b1=Reinforce |b1flag= |b1name=
+|b2=Jaws |b2flag= |b2name=
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard
+|position=Producer
+|b1=Reef|b1flag=
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard
+|position=Observer
+|b1=Hippy|b1flag=us
+|b2=Miblizzard|b2flag=us
+|b3=Unfeatured|b3flag=us
+|b4=TeeHaychZee|b4flag=ua
+|b5=Joey|b5glaf=
+|b6=DSHZY|b6name=Kara Chapman|b6flag=uk
+}}
+{{box|end}}
+
+===Prize Pool===
+{{TeamPrizePool|prizesummary=n
+|{{Slot|w=true|{{Opponent|team denmark|lastvs=team sweden|lastvsscore=3-1}}}}
+|{{Slot|l=true|{{Opponent|team sweden|lastvs=team denmark|lastvsscore=1-3}}}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=2}}
+{{TeamCard
+|team=Team Denmark
+|p1=Naga|pos1=dps
+|p2=Shax|pos2=dps
+|p3=sHockWave|pos3=dps
+|p4=Doge|pos4=tank
+|p5=Molf1g|pos5=tank
+|p6=kellex|pos6=sup
+|p7=Slay|pos7=sup
+|t2title=Staff
+|t2c1=fischer|t2c1pos=head coach
+|t2c2=Seicoe|t2c2pos=assistant coach
+|t2c3=Huggos|t2c3flag=dk|t2c3pos=general manager
+}}
+{{TeamCard
+|team=Team Sweden
+|p1=SparkR|pos1=dps
+|p2=kevster|pos2=dps
+|p3=Theomatic|pos3=tank
+|p4=LullSiSH|pos4=tank
+|p5=Scyle|pos5=sup
+|p6=h9mpe|pos6=sup
+|p7=Mellun|pos7=sup
+|t2title=Staff
+|t2c1=Almostpanda|t2c1pos=head coach
+|t2c2=Merc|t2c2flag=se|t2c2pos=assistant coach
+|t2c3=Maji|t2c3pos=general manager
+}}
+{{TeamCard columns end}}
+
+==Result==
+{{SingleMatch|id=uCpAsLPD6r
+|{{Match
+    |bestof=3
+    |date=April 16, 2023 - 18:00 {{Abbr/CEST}}
+    |youtube=|twitch=Reinforce
+    |opponent1={{TeamOpponent|Team Denmark|score=3}}
+    |opponent2={{TeamOpponent|Team Sweden|score=1}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Havana|mode=Escort|score1=3|score2=2|winner=1}}
+	|map4={{Map|map=Colosseo|mode=Push|score1=1|score2=0|winner=1}}
+	|vod=https://www.twitch.tv/videos/1795416034
+}}
+}}

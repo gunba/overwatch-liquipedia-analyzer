@@ -1,0 +1,720 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "abbreviation": "EGoG Open",
+            "name": "EGoG Overwatch 2 Community Open Cup",
+            "shortname": "EGoG Open",
+            "tickername": "EGoG Ow2 Open",
+            "icon": "Egog_open.png",
+            "image": "Egog_open.png",
+            "series": "EGoG Open",
+            "organizer": "EGoG",
+            "game": "overwatch2",
+            "prizepool": "30000",
+            "localcurrency": "rub",
+            "type": "Online/Offline",
+            "country": "Russia",
+            "city": "Moscow",
+            "venue": "Winstrike Arena Moscow",
+            "format": "Round Robin<br>Double Elimination",
+            "prizepoolusd": "",
+            "sdate": "2022-10-18",
+            "edate": "2022-11-20",
+            "twitter": "",
+            "web": "https://egog.online/",
+            "twitch": "egog",
+            "discord": "qFuqGcPhyj",
+            "youtube": "channel/UC1kCq_ccSG0sNOGL13Yb7mA",
+            "vk": "enthusiasticgg",
+            "rulebook": "https://docs.google.com/document/d/1beAU9bcM19JHre2eUPupnEZnYL2vA6Jc-MDjBTTGV30/edit?usp=sharing",
+            "bracket": "https://battlefy.com/enthusiastic-group-of-gamers/overwatch-2-community-open-cup/62f6533063c38a1b1fd42388/info?infoTab=details",
+            "teamfirst": "",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Frozen Sun",
+            "p1": "DjWhack03",
+            "p1flag": "ru",
+            "pos1": "tank",
+            "p2": "Hope",
+            "p2flag": "ru",
+            "pos2": "tank",
+            "p2link": "Hope (Russian player)",
+            "p3": "MementoMoira",
+            "p3flag": "ru",
+            "pos3": "dps",
+            "p4": "Gluk",
+            "p4flag": "ru",
+            "pos4": "dps",
+            "p5": "Kai",
+            "p5flag": "ru",
+            "pos5": "dps",
+            "p5link": "Kai (Russian Player)",
+            "p6": "HpSka",
+            "p6flag": "ru",
+            "pos6": "sup",
+            "p7": "Barbarossa",
+            "p7flag": "ru",
+            "pos7": "sup",
+            "p8": "Paranid",
+            "p8flag": "ru",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2p1": "OverlorD",
+            "t2p1flag": "ru",
+            "t2pos1": "coach",
+            "t2p2": "DarthMurloc",
+            "t2p2flag": "ru",
+            "t2pos2": "coach"
+        },
+        {
+            "team": "CyberBars",
+            "p1": "Diplex",
+            "p1flag": "ru",
+            "pos1": "tank",
+            "p2": "HellByte",
+            "p2flag": "ru",
+            "pos2": "dps",
+            "p3": "Lisya",
+            "p3flag": "ru",
+            "pos3": "dps",
+            "p4": "Tenzy",
+            "p4flag": "ru",
+            "pos4": "sup",
+            "p5": "Lamorak",
+            "p5flag": "ru",
+            "pos5": "sup",
+            "p6": "Yars",
+            "p6flag": "ru",
+            "pos6": "flex"
+        },
+        {
+            "team": "Laziers of Oz",
+            "p1": "WoodsFrank",
+            "p1flag": "ru",
+            "pos1": "tank",
+            "p2": "Anzorchik",
+            "p2flag": "ru",
+            "pos2": "tank",
+            "p3": "RamaBitsuha",
+            "p3flag": "ru",
+            "pos3": "dps",
+            "p4": "Splitter",
+            "p4flag": "ru",
+            "pos4": "dps",
+            "p5": "Weireg",
+            "p5flag": "ru",
+            "pos5": "dps",
+            "p6": "Yato",
+            "p6flag": "ru",
+            "pos6": "sup",
+            "p7": "Sunrise",
+            "p7flag": "ru",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc",
+            "t2p1flag": "ru",
+            "t2pos1": "coach"
+        },
+        {
+            "team": "MSU ESPORTS",
+            "p1": "RealLord",
+            "p1flag": "ru",
+            "pos1": "tank",
+            "p2": "Iallbeback",
+            "p2flag": "ru",
+            "pos2": "dps",
+            "p3": "naita",
+            "p3flag": "ru",
+            "pos3": "sup",
+            "p4": "Jade",
+            "p4flag": "ru",
+            "pos4": "sup",
+            "p5": "ChaiSVodkoi",
+            "p5flag": "ru",
+            "pos5": "sup",
+            "p6": "FarOuter",
+            "p6flag": "ru",
+            "pos6": "flex",
+            "p7": "MrAnderson",
+            "p7flag": "ru",
+            "pos7": "flex"
+        },
+        {
+            "team": "\u0418\u0433\u0440\u043e\u043a\u0438",
+            "p1": "ShuYuji",
+            "p1flag": "ru",
+            "pos1": "tank",
+            "p2": "Taschi",
+            "p2flag": "ru",
+            "pos2": "dps",
+            "p3": "Amaterasu",
+            "p3flag": "ru",
+            "pos3": "dps",
+            "p4": "SmOkeee",
+            "p4flag": "ru",
+            "pos4": "sup",
+            "p5": "GreysonX",
+            "p5flag": "ru",
+            "pos5": "sup",
+            "p6": "milyuk",
+            "p6flag": "ru",
+            "pos6": "flex",
+            "p7": "Ricardio",
+            "p7flag": "ru",
+            "pos7": "flex"
+        },
+        {
+            "team": "Bauman LegkotnyA",
+            "p1": "SeinaruFuna",
+            "p1flag": "ru",
+            "pos1": "tank",
+            "p2": "\u0413\u0410\u0420\u0420",
+            "p2flag": "ru",
+            "pos2": "dps",
+            "p3": "Avsy",
+            "p3flag": "ru",
+            "pos3": "dps",
+            "p4": "Axel",
+            "p4flag": "ru",
+            "pos4": "sup",
+            "p4link": "AxelRu",
+            "p5": "Lenka",
+            "p5flag": "ru",
+            "pos5": "sup",
+            "p6": "Zakusi",
+            "p6flag": "ru",
+            "pos6": "flex",
+            "p7": "CaptainPanic",
+            "p7flag": "ru",
+            "pos7": "flex"
+        },
+        {
+            "team": "Team Lauregea",
+            "p1": "Backster",
+            "p1flag": "ru",
+            "pos1": "tank",
+            "p2": "ChersheFeed",
+            "p2flag": "ru",
+            "pos2": "tank",
+            "p3": "Graceful",
+            "p3flag": "ru",
+            "pos3": "dps",
+            "p3link": "gracefullaure",
+            "p4": "Foris",
+            "p4flag": "ru",
+            "pos4": "dps",
+            "p5": "Weiss",
+            "p5flag": "ru",
+            "pos5": "sup",
+            "p6": "Lauregea",
+            "p6flag": "ru",
+            "pos6": "sup"
+        },
+        {
+            "team": "\u0421\u043b\u0430\u0432\u044f\u043d\u043e\u043f\u0438\u0442\u0435\u043a\u0438",
+            "p1": "Lekko",
+            "p1flag": "ru",
+            "pos1": "flex",
+            "p2": "Cleric",
+            "p2flag": "ru",
+            "pos2": "flex",
+            "p3": "Greg",
+            "p3flag": "ru",
+            "pos3": "flex",
+            "p4": "HalfElf",
+            "p4flag": "ru",
+            "pos4": "flex",
+            "p5": "Zmey",
+            "p5flag": "ru",
+            "pos5": "flex",
+            "p6": "Capybaba",
+            "p6flag": "ru",
+            "pos6": "flex",
+            "p7": "Shown",
+            "p7flag": "ru",
+            "pos7": "flex"
+        },
+        {
+            "team": "2ez KeK",
+            "notes": "1",
+            "p1": "Pusenkas",
+            "p1flag": "ru",
+            "pos1": "tank",
+            "p2": "BARONIMONDAY",
+            "p2flag": "ru",
+            "pos2": "dps",
+            "p3": "TenYokai",
+            "p3flag": "ru",
+            "pos3": "dps",
+            "p4": "Nyah",
+            "p4flag": "ru",
+            "pos4": "dps",
+            "p5": "DarthMurloc",
+            "p5flag": "ru",
+            "pos5": "sup",
+            "p6": "MyRKa",
+            "p6flag": "ru",
+            "pos6": "sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "November 7, 2022 - 19:30 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "2ez KeK",
+            "opponent2": "\u0421\u043b\u0430\u0432\u044f\u043d\u043e\u043f\u0438\u0442\u0435\u043a\u0438",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "bestof": "3",
+            "date": "November 7, 2022 - 18:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "Frozen Sun",
+            "opponent1_score": 2,
+            "opponent2": "Team Lauregea",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 8, 2022 - 18:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "CyberBars",
+            "opponent2": "2ez KeK",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "November 7, 2022 - 19:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "Laziers of Oz",
+            "opponent1_score": 0,
+            "opponent2": "\u0418\u0433\u0440\u043e\u043a\u0438",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "November 8, 2022 - 19:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "MSU ESPORTS",
+            "opponent1_score": 0,
+            "opponent2": "Bauman LegkotnyA",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "November 10, 2022 - 18:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "Frozen Sun",
+            "opponent1_score": 2,
+            "opponent2": "2ez KeK",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 10, 2022 - 19:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "\u0418\u0433\u0440\u043e\u043a\u0438",
+            "opponent1_score": 2,
+            "opponent2": "Bauman LegkotnyA",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2 ",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "November 20, 2022 - 10:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "Frozen Sun",
+            "opponent2": "\u0418\u0433\u0440\u043e\u043a\u0438",
+            "map1": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Junkertown",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "November 12, 2022 - 18:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "CyberBars",
+            "opponent1_score": 0,
+            "opponent2": "Team Lauregea",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "November 12, 2022 - 19:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "MSU ESPORTS",
+            "opponent1_score": 2,
+            "opponent2": "Laziers of Oz",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "November 13, 2022 - 18:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "Bauman LegkotnyA",
+            "opponent2": "team lauregea",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Gibraltar",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "November 13, 2022 - 19:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "2ez kek",
+            "opponent1_score": 2,
+            "opponent2": "msu esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "November 20, 2022 - 11:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "Bauman LegkotnyA",
+            "opponent2": "2ez kek",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Gibraltar",
+                "mode": "Escort",
+                "score1": "4",
+                "score2": "5",
+                "winner": "2"
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "November 20, 2022 - 12:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "\u0418\u0433\u0440\u043e\u043a\u0438",
+            "opponent2": "2ez KeK",
+            "map1": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "3",
+            "date": "November 20, 2022 - 13:00 {{abbr/CET}}",
+            "youtube": "",
+            "twitch": "egog",
+            "opponent1": "Frozen Sun",
+            "opponent2": "\u0418\u0433\u0440\u043e\u043a\u0438",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

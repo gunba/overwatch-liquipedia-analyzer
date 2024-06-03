@@ -1,0 +1,284 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "name": "EGL x r/Overwatch2 Global Overwatch 2 Community Calls",
+            "shortname": "Global Community Calls",
+            "tickername": "EGL Global Community Calls",
+            "image": "Overwatch 2 Community Calls lightmode.png",
+            "imagedark": "Overwatch 2 Community Calls darkmode.png",
+            "organizer": "EGL",
+            "organizer2": "r/Overwatch2",
+            "organizer2-link": "https://www.reddit.com/r/overwatch2/",
+            "series": "Esports Gaming League",
+            "abbreviation": "EGL",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "300",
+            "date": "2023-04-23",
+            "twitter": "EGL",
+            "web": "https://egl.tv",
+            "facebook": "EGLgg",
+            "instagram": "EGLtv",
+            "discord": "eglgg",
+            "youtube": "eglpro",
+            "twitch": "egl",
+            "rulebook": "https://egl.tv/tournament/7729",
+            "bracket": "https://egl.tv/tournament/7729/matches",
+            "team_number": "15",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Shikigami",
+            "p1": "Stone|p1flag=us|pos1=dps",
+            "p2": "Spero|p2flag=ca|pos2=dps",
+            "p3": "Faded|p3flag=ca|pos3=tank",
+            "p4": "Ross|p4flag=us|pos4=sup",
+            "p5": "Pando|p5flag=us|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "Aeroplayne|t2p1flag=us|t2pos1=manager"
+        },
+        {
+            "team": "Sheer Hot",
+            "p1": "Erikek|p1flag=es|pos1=tank",
+            "p2": "Condi|p2flag=uk|pos2=dps",
+            "p3": "M3WS|p3flag=es|pos3=dps",
+            "p4": "CaptainPrash|p4flag=uk|pos4=sup",
+            "p5": "Aleexia|p5flag=es|pos5=sup",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Bingus\u2019 Little Pogchamps",
+            "p1": "Crowbar|p1flag=us|pos1=",
+            "p2": "LEDZEPS|p2flag=us|pos2=",
+            "p3": "DVOWR|p3flag=us|pos3=",
+            "p4": "Danietta|p4flag=us|pos4=",
+            "p5": "Uraniumboss|p5flag=us|pos5=",
+            "p6": "Simp|p6flag=us|pos6="
+        },
+        {
+            "team": "alwaysTYping esports",
+            "link": "alwaysTYping",
+            "p1": "Asymetric|p1flag=us|pos1=",
+            "p2": "Evoke|p2flag=us|pos2=",
+            "p3": "Napoleon|p3flag=us|pos3=",
+            "p4": "Katz|p4flag=us|pos4=",
+            "p5": "Spanks|p5flag=us|pos5=",
+            "p6": "TheGlobester|p6flag=us|pos6=",
+            "p7": "Lemon|p7flag=ca|pos7=",
+            "p8": "KissMyAxeeee|p8flag=us|pos8=",
+            "p9": "imSicarius|p9flag=us|pos9="
+        },
+        {
+            "team": "Putter Pounders",
+            "p1": "Putter|p1flag=us|pos1=dps",
+            "p2": "Itrol|p2flag=us|pos2=dps",
+            "p3": "Magician|p3flag=us|pos3=dps",
+            "p4": "PYUKUMUKU|p4flag=us|pos4=tank",
+            "p5": "LikeableOrb|p5flag=us|pos5=sup",
+            "p6": "Flatline|p6flag=us|pos6=sup",
+            "p7": "LUDAKIN|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Les Nounours Cosmiques",
+            "p1": "Shayllyx|p1flag=fr|pos1=",
+            "p2": "MyPieA|p2flag=fr|pos2=",
+            "p3": "L00palinda|p3flag=fr|pos3=",
+            "p4": "Apog6|p4flag=fr|pos4=",
+            "p5": "Golddy|p5flag=be|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Pink Pounders",
+            "p1": "QMALIN2005|p1flag=uk|pos1=",
+            "p2": "Kaytie|p2flag=us|pos2=",
+            "p3": "MisterDoctor|p3flag=us|pos3=",
+            "p4": "Crimsonfear|p4flag=uk|pos4=",
+            "p5": "T3ddykin0|p5flag=us|pos5=",
+            "p6": "Polse|p6flag=no|pos6="
+        },
+        {
+            "team": "Balloon 5",
+            "p1": "Nitai|p1flag=us|pos1=dps",
+            "p2": "laser|p2flag=us|pos2=dps",
+            "p3": "KaBunga|p3flag=us|pos3=tank",
+            "p4": "Rose|p4flag=us|pos4=sup",
+            "p5": "CrazyCat|p5flag=us|pos5=sup",
+            "t2title": "Staff",
+            "t2p1": "Clenvylol|t2p1flag=us|t2pos1=Coach"
+        },
+        {
+            "team": "Showzone Squad",
+            "p1": "Deadeyeboy|p1flag=ca|pos1=",
+            "p2": "Toast|p2flag=ca|pos2=",
+            "p3": "Kaydenlink|p3flag=ca|pos3=",
+            "p4": "KitsuShard|p4flag=ca|pos4=",
+            "p5": "Hallsensai|p5flag=ca|pos5=",
+            "p6": "Lucciddreamer|p6flag=ca|pos6=",
+            "p7": "DVD|p7flag=ca|pos7=",
+            "p8": "IluvMarques|p8flag=ca|pos8="
+        },
+        {
+            "team": "J\u00f6tunheim",
+            "p1": "Jman|p1flag=us|pos1=dps",
+            "p2": "Anhoo|p2flag=us|pos2=dps",
+            "p3": "Aurora|p3flag=us|pos3=tank",
+            "p4": "Scylla|p4flag=us|pos4=sup",
+            "p5": "Anghell1c|p5flag=us|pos5=sup",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Utopia: Cult of Altruria",
+            "p1": "mmomochan|p1flag=us|pos1=",
+            "p2": "FreeMcree15|p2flag=us|pos2=",
+            "p3": "Clown|p3flag=us|pos3=|p3link=Clown (American Player)",
+            "p4": "Crusty|p4flag=us|pos4=|p4link=Crusty (American Player)",
+            "p5": "IFafital|p5flag=us|pos5=",
+            "p6": "JumpMaster|p6flag=us|pos6="
+        },
+        {
+            "team": "Pantheon",
+            "p1": "Hestia|p1flag=us|pos1=",
+            "p2": "FroCo|p2flag=us|pos2=",
+            "p3": "Suntzu|p3flag=us|pos3=",
+            "p4": "Hybrid|p4flag=us|pos4=|p4link=Hybrid (American Player)",
+            "p5": "Boopio|p5flag=us|pos5=",
+            "p6": "Oizys|p6flag=us|pos6=",
+            "p7": "Rhododendron|p7flag=us|pos7="
+        },
+        {
+            "team": "spongeboys",
+            "p1": "BrizzyCx|p1flag=ma|pos1=",
+            "p2": "Spongebob|p2flag=us|pos2=",
+            "p3": "rjgamerz3|p3flag=us|pos3=",
+            "p4": "hcniphcni5|p4flag=uk|pos4=",
+            "p5": "BenArrows|p5flag=us|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "we hate otps",
+            "p1": "OneVsOne|p1flag=no|pos1=",
+            "p2": "Bartosz|p2flag=us|pos2=",
+            "p3": "Nebula|p3flag=uk|pos3=",
+            "p4": "LeeBomb20|p4flag=uk|pos4=",
+            "p5": "Sunmi|p5flag=us|pos5=",
+            "p6": "Burtonfan1|p6flag=us|pos6="
+        },
+        {
+            "team": "Cal.Junkers",
+            "p1": "Corn|p1flag=us|pos1=",
+            "p2": "zzAYDIZZLEzz|p2flag=us|pos2=",
+            "p3": "GrumpyKitten|p3flag=us|pos3=",
+            "p4": "Fuzzyminion6|p4flag=us|pos4=",
+            "p5": "Redbones|p5flag=us|pos5=",
+            "p6": "candipupz|p6flag=us|pos6=",
+            "p7": "DeafYandere|p7flag=us|pos7="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "April 23, 2023 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|balloon 5|score=2}}",
+            "opponent2": "{{TeamOpponent|showzone squad|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 23, 2023 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|alwaystyping esports|score=2}}",
+            "opponent2": "{{TeamOpponent|spongeboys|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 23, 2023 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|putter pounders|score=0}}",
+            "opponent2": "{{TeamOpponent|pantheon|score=2}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "April 23, 2023 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|sheer hot|score=2}}",
+            "opponent2": "{{TeamOpponent|cal.junkers|score=0}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "April 23, 2023 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|pink pounders|score=0}}",
+            "opponent2": "{{TeamOpponent|J\u00f6tunheim|score=2}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "April 23, 2023 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bingus' little pogchamps|score=1}}",
+            "opponent2": "{{TeamOpponent|we hate otps|score=2}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "April 23, 2023 - 15:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|les nounours cosmiques|score=2}}",
+            "opponent2": "{{TeamOpponent|utopia: cult of altruria|score=1}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "April 23, 2023 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|shikigami|score=2}}",
+            "opponent2": "{{TeamOpponent|balloon 5|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 23, 2023 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|alwaystyping esports|score=2}}",
+            "opponent2": "{{TeamOpponent|pantheon|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "April 23, 2023 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|sheer hot|score=0}}",
+            "opponent2": "{{TeamOpponent|J\u00f6tunheim|score=2}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "April 23, 2023 - 16:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|les nounours cosmiques|score=0}}",
+            "opponent2": "{{TeamOpponent|we hate otps|score=2}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "April 23, 2023 - 17:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|shikigami|score=3}}",
+            "opponent2": "{{TeamOpponent|alwaystyping esports|score=0}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "April 23, 2023 - 17:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|J\u00f6tunheim|score=3}}",
+            "opponent2": "{{TeamOpponent|we hate otps|score=0}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "April 23, 2023 - 18:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|shikigami|score=1}}",
+            "opponent2": "{{TeamOpponent|J\u00f6tunheim|score=3}}",
+            "optional": "R4M1="
+        }
+    ]
+}

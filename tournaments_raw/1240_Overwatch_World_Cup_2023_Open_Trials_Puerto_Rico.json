@@ -1,0 +1,262 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch World Cup 2023 Puerto Rico Open Trials",
+            "image": "Overwatch World Cup 2023 allmode.png",
+            "series": "Overwatch World Cup",
+            "shortname": "World Cup 2023",
+            "tickername": "OWWC PRI Open Trials",
+            "icon": "Overwatch World Cup logo.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "LigaACE",
+            "organizer2-link": "https://ligaaceesports.com/",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Puerto Rico",
+            "country2": "",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "game": "overwatch2",
+            "prizepoolusd": "2000",
+            "date": "2023-02-25",
+            "liquipediatier": "4",
+            "blizzardtier": "owwc",
+            "web": "https://overwatchworldcup.com",
+            "twitter": "playoverwatch",
+            "youtube": "playoverwatch",
+            "twitch": "playoverwatch",
+            "team_number": "8",
+            "bracket": "https://challonge.com/OWCTPR"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team GAP",
+            "p1": "|p1flag=|p1team=|pos1=",
+            "p2": "|p2flag=|p2team=|pos2=",
+            "p3": "|p3flag=|p3team=|pos3=",
+            "p4": "|p4flag=|p4team=|pos4=",
+            "p5": "|p5flag=|p5team=|pos5="
+        },
+        {
+            "team": "Nix Boriquas",
+            "p1": "Loopy|p1flag=pr|p1team=|pos1=dps|p1link=Pepe",
+            "p2": "talisman|p2flag=pr|p2team=|pos2=dps|p2link=talisman (Puerto Rican player)",
+            "p3": "PAPAJOE|p3flag=pr|p3team=|pos3=tank",
+            "p4": "Niann03|p4flag=pr|p4team=|pos4=tank",
+            "p5": "Lightwolf|p5flag=pr|p5team=|pos5=sup",
+            "p6": "Zulexz|p6flag=pr|p6team=|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Airborne|t2c1flag=pr|t2c1pos=manager",
+            "t3title": "Substitute",
+            "t3p1": "Alexiesenrique|t3p1flag=pr|t3pos1=dps",
+            "t3p2": "DarthyPR|t3p2flag=pr|t3pos2=sup"
+        },
+        {
+            "team": "Obsidian Lions",
+            "p1": "Wxlry|p1flag=pr|p1team=|pos1=dps",
+            "p2": "Suenyo|p2flag=pr|p2team=|pos2=dps",
+            "p3": "Jey5|p3flag=pr|p3team=|pos3=tank",
+            "p4": "Assass1n|p4flag=pr|p4team=|pos4=sup",
+            "p5": "flashmob|p5flag=pr|p5team=|pos5=sup"
+        },
+        {
+            "team": "Cherry",
+            "p1": "Krode|p1flag=pr|p1team=|pos1=dps",
+            "p2": "M3trico|p2flag=pr|p2team=|pos2=dps",
+            "p3": "SkullMastex|p3flag=pr|p3team=|pos3=tank",
+            "p4": "Ito|p4flag=pr|p4team=|pos4=sup",
+            "p5": "ChainerJB|p5flag=pr|p5team=|pos5=sup"
+        },
+        {
+            "team": "Impromptuhardcarry",
+            "p1": "Ekko|p1flag=pr|p1team=|pos1=dps",
+            "p2": "MotleyMain|p2flag=pr|p2team=|pos2=dps",
+            "p3": "Wintone|p3flag=pr|p3team=|pos3=tank",
+            "p4": "Artwaffle142|p4flag=pr|p4team=|pos4=sup",
+            "p5": "Mig|p5flag=pr|p5team=|pos5=sup"
+        },
+        {
+            "team": "Hazme Cosquillas Elmo",
+            "p1": "Borimakto|p1flag=pr|p1team=|pos1=dps",
+            "p2": "Thorntide|p2flag=pr|p2team=|pos2=dps",
+            "p3": "Jinouga|p3flag=pr|p3team=|pos3=tank",
+            "p4": "Kudu|p4flag=pr|p4team=|pos4=sup",
+            "p5": "Leidhay07|p5flag=pr|p5team=|pos5=sup"
+        },
+        {
+            "team": "Infernum",
+            "p1": "Embher|p1flag=pr|p1team=|pos1=dps",
+            "p2": "Pyrov|p2flag=pr|p2team=|pos2=dps",
+            "p3": "Delicious|p3flag=pr|p3team=|pos3=tank",
+            "p4": "Eggy|p4flag=pr|p4team=|pos4=sup",
+            "p5": "SASUKE|p5flag=pr|p5team=|pos5=sup"
+        },
+        {
+            "team": "The Goofy Goobers",
+            "p1": "Anderp|p1flag=pr|p1team=|pos1=dps",
+            "p2": "Flawlex|p2flag=pr|p2team=|pos2=dps",
+            "p3": "Reales|p3flag=pr|p3team=|pos3=tank",
+            "p4": "Silentjozef|p4flag=pr|p4team=|pos4=sup",
+            "p5": "Lily|p5flag=pr|p5team=|pos5=sup|p5link=Lily (Puerto Rican Player)"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "winner": "",
+            "date": "February 25, 2023 - 14:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team gap|score=FF}}",
+            "opponent2": "{{TeamOpponent|nix boriquas|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 14:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|obsidian lions|score=0}}",
+            "opponent2": "{{TeamOpponent|cherry|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 14:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|impromptuhardcarry|score=0}}",
+            "opponent2": "{{TeamOpponent|hazme cosquillas elmo|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 14:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|infernum|score=2}}",
+            "opponent2": "{{TeamOpponent|the goofy goobers|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 14:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|nix boriquas|score=2}}",
+            "opponent2": "{{TeamOpponent|cherry|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 14:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|hazme cosquillas elmo|score=2}}",
+            "opponent2": "{{TeamOpponent|infernum|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 15:30 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|nix boriquas|score=3}}",
+            "opponent2": "{{TeamOpponent|hazme cosquillas elmo|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 14:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team gap|score=FF}}",
+            "opponent2": "{{TeamOpponent|obsidian lions|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 14:45 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|impromptuhardcarry|score=0}}",
+            "opponent2": "{{TeamOpponent|the goofy goobers|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 15:30 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|infernum|score=0}}",
+            "opponent2": "{{TeamOpponent|obsidian lions|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 15:30 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|cherry|score=0}}",
+            "opponent2": "{{TeamOpponent|the goofy goobers|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 16:15 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|obsidian lions|score=1}}",
+            "opponent2": "{{TeamOpponent|the goofy goobers|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 17:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|hazme cosquillas elmo|score=3}}",
+            "opponent2": "{{TeamOpponent|the goofy goobers|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "winner": "",
+            "date": "February 25, 2023 - 18:00 {{Abbr/CT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|nix boriquas|score=3}}",
+            "opponent2": "{{TeamOpponent|hazme cosquillas elmo|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        }
+    ]
+}

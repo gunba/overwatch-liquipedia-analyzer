@@ -1,0 +1,188 @@
+{{Tabs static
+|name1=Grand Finals|link1=Battle for Canada
+|name2=Defiant Division|link2=Battle for Canada/Toronto Defiant Division
+|name3=Titans Division|link3=Battle for Canada/Vancouver Titans Division
+}}
+{{Infobox league
+|liquipediatier=4
+|series=Canada Overwatch Fest
+|abbreviation=COWF
+|name=Battle for Canada
+|shortname=Battle for Canada
+|tickername=Battle for Canada
+|image=Canada Overwatch Fest 2023 lightmode.png
+|imagedark=Canada Overwatch Fest 2023 darkmode.png
+|icon=Canada Overwatch Fest 2023 lightmode.png
+|icondark=Canada Overwatch Fest 2023 darkmode.png
+|organizer=Toronto Defiant
+|organizer2=Vancouver Titans
+|sponsor=[https://www.td.com/ca/en/personal-banking/ TD]
+|type=Online
+|country=Canada
+|localcurrency=cad
+|prizepool=3500
+|game=overwatch2
+|date=2023-12-03
+|twitter=torontodefiant
+|twitter2=vancouvertitans
+|discord=torontodefiant
+|discord2=vancouvertitans
+|bracket=https://www.start.gg/tournament/cowf-battle-for-canada/event/battle-for-canada-grand-finals-sunday
+|team_number=4
+}}
+
+==Information==
+===Format===
+*{{Bgcolortext|up|Top 2 teams}} from each the {{LeagueIconSmall/toronto defiant community cup|link=}} [[Battle for Canada/Toronto Defiant Division|Toronto Defiant Division]] and the {{LeagueIconSmall/vancouver titans|link=}} [[Battle for Canada/Vancouver Titans Division|Vancouver Titans Division]]
+*At least one member of the starting roster must be {{flag/ca}} Canadian
+*Single elimination bracket
+**All matches ''(excl. Grand Finals)'' are {{Abbr/Bo3}}
+**Grand Finals are {{Abbr/Bo5}}
+
+===Broadcast Talent===
+{{box|start}}
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=Lafon
+|b2=Marks
+}}
+{{BroadcasterCard|lang=English
+|position=Producer
+|b1=SLMN
+}}
+{{box|break}}
+{{BroadcasterCard|lang=English
+|position=Observer
+|b1=Unfeatured
+|b2=Marc
+|b3=Plewt0
+|b4=Toxicinator
+|b5=Capitiano
+}}
+{{box|break}}
+{{BroadcasterCard|lang=English
+|position=Replay Operator
+|b1=Knockonwood
+}}
+{{box|end}}
+
+===Prize Pool===
+{{TeamPrizePool|localcurrency=cad
+|{{Slot|localprize=1750}}
+|{{Slot|localprize=1050}}
+|{{Slot|localprize=525}}
+|{{Slot|localprize=175}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=O3 Splash
+|p1=Chopper|pos1=dps
+|p2=Boat|pos2=dps
+|p3=Infekted|pos3=tank
+|p4=MagicM8Ball|pos4=sup
+|p5=Cjay|pos5=sup
+|t2title=Staff
+|t2c1=Urzo|t2c1pos=manager
+|t2c2=Jun|t2c2pos=manager
+|t2c3=debit|t2c3pos=manager
+|qualifier=[[Battle for Canada/Toronto Defiant Division|Toronto Defiant Division]]
+|placementicon={{LeagueIconSmall/toronto defiant community cup|link=}}
+|placement=1
+}}
+{{TeamCard
+|team=Timeless Genshin Grinders
+|p1=Bun|pos1=dps
+|p2=Azurae|pos2=dps
+|p3=Tristan|p3flag=ca|pos3=dps
+|p4=sniper|pos4=tank
+|p5=sawhill|pos5=tank
+|p6=Halo|pos6=sup
+|p7=zman|pos7=sup
+|t2title=Staff
+|t2c1=debit|t2c1pos=manager
+|qualifier=[[Battle for Canada/Toronto Defiant Division|Toronto Defiant Division]]
+|placementicon={{LeagueIconSmall/toronto defiant community cup|link=}}
+|placement=2
+}}
+{{TeamCard
+|team=Timeless
+|p1=Sugarfree|pos1=dps
+|p2=Seeker|pos2=dps
+|p3=Hawk|pos3=tank
+|p4=CLEAR|pos4=tank
+|p5=Vega|pos5=sup
+|p6=Rupal|pos6=sup
+|t2title=Staff
+|t2c1=McGravy|t2c1pos=coach
+|t2c2=debit|t2c2pos=manager
+|t2c3=Jun|t2c3pos=manager
+|t2c4=Urzo|t2c4pos=manager
+|qualifier=[[Battle for Canada/Vancouver Titans Division|Vancouver Titans Division]]
+|placementicon={{LeagueIconSmall/vancouver titans|link=}}
+|placement=1
+}}
+{{TeamCard
+|team=Seirin
+|p1=wub|pos1=dps
+|p2=Doomed|pos2=dps
+|p3=cuFFa|pos3=tank
+|p4=Crimzo|pos4=sup
+|p5=Zholik|pos5=sup
+|t2title=Staff
+|t2c1=debit|t2c1pos=manager
+|t2c2=Jun|t2c2pos=manager
+|t2c3=Urzo|t2c3pos=manager
+|qualifier=[[Battle for Canada/Vancouver Titans Division|Vancouver Titans Division]]
+|placementicon={{LeagueIconSmall/vancouver titans|link=}}
+|placement=2
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/4|id=dQ3UmXyy05
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=December 3, 2023 - 15:00 {{Abbr/PST}}
+    |youtube=Vancouver Titans|twitch=Toronto Defiant
+    |opponent1={{TeamOpponent|Timeless}}
+    |opponent2={{TeamOpponent|Timeless Genshin Grinders}}
+    |map1={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=0|winner=1}}
+}}
+|R1M2={{Match
+    |date=December 3, 2023 - 16:00 {{Abbr/PST}}
+    |youtube=Vancouver Titans|twitch=Toronto Defiant
+    |opponent1={{TeamOpponent|O3 Splash}}
+    |opponent2={{TeamOpponent|Seirin}}
+    |map1={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=0|winner=1}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+|bestof=5
+    |date=December 3, 2023 - 18:00 {{Abbr/PST}}
+    |youtube=Vancouver Titans|twitch=Toronto Defiant
+    |opponent1={{TeamOpponent|Timeless|score=}}
+    |opponent2={{TeamOpponent|O3 Splash|score=}}
+    |map1={{Map|map=King's Row|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=0|winner=1}}
+    |map3={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+}}
+
+|RxMTP={{Match
+|bestof=3
+    |date=December 3, 2023 - 17:00 {{Abbr/PST}}
+    |youtube=Vancouver Titans|twitch=Toronto Defiant
+    |opponent1={{TeamOpponent|Timeless Genshin Grinders}}
+    |opponent2={{TeamOpponent|Seirin}}
+    |map1={{Map|map=King's Row|mode=Hybrid|score1=3|score2=4|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=4|score2=3|winner=1}}
+    |map3={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+}}
+}}

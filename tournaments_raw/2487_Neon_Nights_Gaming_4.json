@@ -1,0 +1,110 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Neon Nights Gaming #4",
+            "shortname": "Neon Nights Gaming 4",
+            "tickername": "Neon Nights Gaming 4",
+            "icon": "Neon Nights Gaming Icon allmode.png",
+            "image": "Neon Nights Gaming allmode.png",
+            "series": "Neon Nights Gaming",
+            "abbreviation": "NNG",
+            "organizer": "Neon Nights",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Round Robin<br>Single Elimination",
+            "prizepoolusd": "200",
+            "date": "2024-02-14",
+            "discord": "3AznG3BNqw",
+            "twitch": "neonnightsgaming",
+            "twitter": "NeonNights_Game",
+            "rules": "https://battlefy.com/neon-nights-gaming/neon-nights-overwatch/65907d26afcb7b7128428f82/info?infoTab=rules",
+            "bracket": "https://battlefy.com/neon-nights-gaming/neon-nights-overwatch/65907d26afcb7b7128428f82/bracket-list",
+            "team_number": "16",
+            "previous": "Neon_Nights_Gaming/3{{!}}Neon Nights Gaming #3"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Krazy 88s",
+            "p1": "JUTSU|p1flag=us|pos1=dps",
+            "p2": "Melophobia|p2flag=us|pos2=dps",
+            "p3": "Zmurfiex|p3flag=us|pos3=tank",
+            "p4": "Jags|p4flag=us|pos4=tank",
+            "p5": "dust|p5flag=ca|pos5=tank",
+            "p6": "Reinguy|p6flag=us|pos6=sup",
+            "p7": "BoltingCake|p7flag=us|pos7=sup",
+            "p8": "Graveyard|p8flag=ca|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Fauwkz|t2c1flag=us|t2c1pos=coach",
+            "t2c2": "Raine|t2c2flag=us|t2c2pos=manager"
+        },
+        {
+            "team": "CSI",
+            "p1": "Cammy101|p1flag=|pos1=",
+            "p2": "ChongYun|p2flag=|pos2=",
+            "p3": "Bioactive1|p3flag=|pos3=",
+            "p4": "PotatoAim|p4flag=|pos4=",
+            "p5": "\u0108\u01feP\u0176\u0108\u01e0\u0166|p5flag=|pos5="
+        },
+        {
+            "team": "Hampter",
+            "p1": "MightyElf|p1flag=|pos1=",
+            "p2": "mg23garcia|p2flag=|pos2=",
+            "p3": "Naomia|p3flag=|pos3=",
+            "p4": "riceNchicken|p4flag=|pos4=",
+            "p5": "Wallybug|p5flag=|pos5=",
+            "p6": "DRZAMMY3",
+            "p7": "BootScoot"
+        },
+        {
+            "team": "Pondering Snowman",
+            "p1": "ZUTOMAYO|p1flag=us|pos1=dps",
+            "p2": "Anderp|p2flag=pr|pos2=dps",
+            "p3": "Anbu|p3flag=pr|pos3=dps",
+            "p4": "Vanguard|p4flag=us|pos4=tank|p4link=Vanguard (American player)",
+            "p5": "Juuzou|p5flag=us|pos5=sup",
+            "p6": "Eevee|p6flag=uk|pos6=sup|p6link=Eevee (British player)",
+            "t2title": "Staff",
+            "t2c1": "lovelee|t2c1flag=uk|t2c1pos=coach"
+        },
+        {
+            "team": "Shikigami",
+            "p1": "Spero|p1flag=ca|pos1=dps",
+            "p2": "Walex|p2flag=us|pos2=dps",
+            "p3": "Talisman|p3flag=pr|pos3=dps|p3link=Talisman (Puerto Rican player)",
+            "p4": "Solo|p4flag=us|pos4=tank",
+            "p5": "Aspect|p5flag=ca|pos5=tank",
+            "p6": "Thunder|p6flag=us|pos6=sup",
+            "p7": "lenn|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Aeroplayne|t2c1flag=us|t2c1pos=manager"
+        },
+        {
+            "team": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": []
+}

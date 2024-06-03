@@ -1,0 +1,201 @@
+{
+    "tournament_info": [
+        {
+            "name": "Cannes Overwatch Cup",
+            "image": "Cannes_overwatch_cup_logo.jpg",
+            "organizer": "Le Hive eSport",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "France",
+            "city": "Cannes",
+            "format": "Group Stage <br> Playoffs",
+            "prizepool": "480",
+            "localcurrency": "eur",
+            "prizepoolusd": "522",
+            "date": "2017-05-13",
+            "liquipediatier": "{{TierText/5}}",
+            "web": "https://battlefy.com/lehiveesport/overwatch-cannes-cup/58ef9416d31d01034528ac1e/info?infoTab=details",
+            "facebook": "events/442417272770495/",
+            "bracket": "https://battlefy.com/lehiveesport/overwatch-cannes-cup/58ef9416d31d01034528ac1e/stage/58ef9447d31d01034528ac22/bracket/",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Sharkkies",
+            "p1": "Bobif|p1flag=fr",
+            "p2": "Gilgamesh|p2flag=nl",
+            "p3": "madzr|p3flag=it",
+            "p4": "Mitsuhide|p4flag=fr",
+            "p5": "Okashinou|p5flag=fr",
+            "p6": "PlagiaT|p6flag=fr",
+            "c": "|cflag="
+        },
+        {
+            "team": "PauseGarot",
+            "p1": "BaronSamedi",
+            "p2": "Crouzicien",
+            "p3": "Darkexon",
+            "p4": "HarDZexaL",
+            "p5": "unknownktx",
+            "p6": "Xylan",
+            "c": "|cflag="
+        },
+        {
+            "team": "Rhum Couscous Baguette",
+            "p1": "mudjo",
+            "p2": "thepins",
+            "p3": "veldrin",
+            "p4": "Yoshikage",
+            "p5": "Yoxj",
+            "p6": "",
+            "c": "|cflag="
+        },
+        {
+            "team": "HARDER DADDY !!!",
+            "p1": "Exelta",
+            "p2": "Lujayne",
+            "p3": "oklysh",
+            "p4": "PsYchoOosE",
+            "p5": "Rashneer",
+            "p6": "Raziel",
+            "c": "|cflag="
+        },
+        {
+            "team": "CallMeDaddy",
+            "p1": "ApoKlypsE",
+            "p2": "DimZ",
+            "p3": "Okidokey",
+            "p4": "Pegase",
+            "p5": "",
+            "p6": "",
+            "c": "|cflag="
+        },
+        {
+            "team": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "|cflag="
+        },
+        {
+            "team": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "|cflag="
+        },
+        {
+            "team": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": "",
+            "c": "|cflag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "date": "",
+            "finished": "",
+            "map1": "",
+            "map1score": "",
+            "map1win": "",
+            "map2": "",
+            "map2score": "",
+            "map2win": "",
+            "map3": "",
+            "map3score": "",
+            "map3win": "",
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "date": "",
+            "finished": "",
+            "map1": "",
+            "map1score": "",
+            "map1win": "",
+            "map2": "",
+            "map2score": "",
+            "map2win": "",
+            "map3": "",
+            "map3score": "",
+            "map3win": "",
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D3",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "date": "",
+            "finished": "",
+            "map1": "",
+            "map1score": "",
+            "map1win": "",
+            "map2": "",
+            "map2score": "",
+            "map2win": "",
+            "map3": "",
+            "map3score": "",
+            "map3win": "",
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2W1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "date": "",
+            "finished": "",
+            "map1": "",
+            "map1score": "",
+            "map1win": "",
+            "map2": "",
+            "map2score": "",
+            "map2win": "",
+            "map3": "",
+            "map3score": "",
+            "map3win": "",
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": [
+        {
+            "key": "match1",
+            "team1": ""
+        },
+        {
+            "key": "match1",
+            "team1": ""
+        }
+    ]
+}

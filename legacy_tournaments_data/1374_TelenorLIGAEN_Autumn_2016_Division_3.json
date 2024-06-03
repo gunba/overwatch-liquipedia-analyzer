@@ -1,0 +1,44 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/5}}",
+            "name": "TelenorLIGAEN Autum 2016 Division 3",
+            "abbreviation": "TelenorLIGAEN",
+            "image": "Telenorligaen.png",
+            "organizer": "Gamer.no",
+            "organizer-link": "http://www.gamer.no/",
+            "sponsor": "[https://www.telenor.no Telenor] [https://www.logitech.com Logitech]",
+            "type": "Online",
+            "country": "Norway",
+            "format": "Bo4",
+            "prizepoolusd": "",
+            "prizepool": "",
+            "localcurrency": "",
+            "sdate": "2016-08-29",
+            "edate": "2016-11-20",
+            "web": "http://www.gamer.no/turneringer/telenorligaen-overwatch-hosten-2016/3162/tabeller/",
+            "twitch": "",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [],
+    "legacy_match_cards": [
+        {
+            "date": "",
+            "finished": "",
+            "team2": "wonderboys",
+            "score2": "0",
+            "win2": "0",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "besatt esports kings",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

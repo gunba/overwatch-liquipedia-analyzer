@@ -1,0 +1,218 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "name": "Open Division 2023 Season 2 - Australia & New Zealand",
+            "shortname": "OD 2023 S2 - ANZ",
+            "series": "Open Division",
+            "abbreviation": "Open Division",
+            "tickername": "Open Division 2023 ANZ Season 2",
+            "image": "Overwatch Open Division 2023 lightmode.png",
+            "imagedark": "Overwatch Open Division 2023 darkmode.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "GameBattles",
+            "type": "Online",
+            "game": "overwatch2",
+            "country": "Australia",
+            "country2": "New Zealand",
+            "format": "Swiss<br>Double Elimination",
+            "prizepoolusd": "2500",
+            "sdate": "2023-04-28",
+            "edate": "2023-05-07",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S2/info",
+            "bracket2": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S2P/info",
+            "twitter": "owpathtopro",
+            "discord": "du7mVRd",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S2/rules",
+            "team_number": "31"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Hatsune Miku Fan Club",
+            "p1": "Neuu|pos1=dps",
+            "p2": "OLAM|pos2=dps",
+            "p3": "Romani|pos3=tank",
+            "p4": "Cyber|pos4=tank",
+            "p5": "reverse|pos5=sup|p5link=reverse (American Player)",
+            "p6": "Frogger|pos6=sup",
+            "p7": "ShartCandy|pos7=sup"
+        },
+        {
+            "team": "TakingAtlasDown",
+            "p1": "Naahmie|pos1=dps",
+            "p2": "QIN|pos2=dps",
+            "p3": "cuFFa|pos3=tank",
+            "p4": "cal|pos4=sup",
+            "p5": "Ackyyy|pos5=sup",
+            "p6": "Atlas|pos6=sup"
+        },
+        {
+            "team": "QuidScien\u314btism_CannedCatfish91",
+            "p1": "Bnji|pos1=dps",
+            "p2": "Spades|p2flag=au|pos2=dps",
+            "p3": "zldn|p3flag=au|pos3=tank",
+            "p4": "Mawile|p4flag=au|pos4=sup",
+            "p5": "Seqtar|pos5=sup",
+            "p6": "HitscanPrac|p6flag=au|pos6=flex"
+        },
+        {
+            "team": "Disband upon Defeat",
+            "p1": "GhostlyNest|p1flag=au|pos1=dps",
+            "p2": "Strategia|p2flag=au|pos2=dps",
+            "p3": "Zeffy|p3flag=au|pos3=dps",
+            "p4": "HATE|p4flag=au|pos4=tank",
+            "p5": "ZephA|p5flag=au|pos5=tank",
+            "p6": "Astroblade|pos6=sup",
+            "p7": "Fitszy|p7flag=au|pos7=sup",
+            "p8": "WhiteHammer8|p8flag=au|pos8=sup"
+        },
+        {
+            "team": "Shadow Wizard Money Gang",
+            "p1": "Andrzej|pos1=dps",
+            "p2": "Hypnotic|pos2=dps",
+            "p3": "Jake|pos3=dps|p3link=Jake (Australian player)",
+            "p4": "ODP|pos4=tank",
+            "p5": "asher|pos5=sup|p5link=Asher (Australian player)",
+            "p6": "EDward|pos6=sup",
+            "p7": "Deeznut24|p7flag=cn|pos7=sup",
+            "p8": "fin|pos8=sup",
+            "p9": "Belle|p9flag=au|pos9=sup",
+            "t2title": "Staff",
+            "t2c1": "Gyomin|t2c1pos=coach",
+            "t2c2": "Bluesky|t2c2pos=Manager"
+        },
+        {
+            "team": "Remedy",
+            "p1": "Lynx|p1flag=au|pos1=dps",
+            "p2": "Lex|p2flag=au|pos2=dps",
+            "p3": "kizza|p3flag=au|pos3=dps",
+            "p4": "Solace|pos4=sup",
+            "p5": "Kora|p5flag=au|pos5=sup",
+            "p6": "fighting|p6flag=|pos6=",
+            "p7": "Scruffy|p7flag=|pos7=",
+            "p8": "Tavi|p8flag=|pos8="
+        },
+        {
+            "team": "Supernova",
+            "p1": "Bunny|p1flag=au|pos1=dps|p1link=Bunny (Australian Player)",
+            "p2": "SlidzorJ|pos2=dps",
+            "p3": "mmmatt|p3flag=au|pos3=dps",
+            "p4": "Chappadoodle|p4flag=au|pos4=tank",
+            "p5": "Muttnik|p5flag=au|pos5=sup",
+            "p6": "LiamFox|p6flag=au|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "JJJJ|t2c1pos=coach"
+        },
+        {
+            "team": "Bankstown Bandits",
+            "p1": "Shkyp|pos1=dps",
+            "p2": "ALFR3D|p2flag=au|pos2=dps",
+            "p3": "Ikari|p3flag=au|pos3=tank",
+            "p4": "Maltma|p4flag=|pos4=sup",
+            "p5": "hamster|p5flag=au|pos5=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "May 6th, 2023 - 14:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|hatsune miku fan club|score=W}}",
+            "opponent2": "{{TeamOpponent|bankstown bandits|score=L}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "May 6th, 2023 - 14:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|shadow wizard money gang|score=L}}",
+            "opponent2": "{{TeamOpponent|disband upon defeat|score=W}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "May 6th, 2023 - 14:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|QuidScien\u314btism_CannedCatfish91|score=W}}",
+            "opponent2": "{{TeamOpponent|remedy|score=L}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "May 6th, 2023 - 14:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|supernova|score=L}}",
+            "opponent2": "{{TeamOpponent|takingatlasdown|score=W}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "May 6th, 2023 - 15:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|hatsune miku fan club|score=W}}",
+            "opponent2": "{{TeamOpponent|disband upon defeat|score=L}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "May 6th, 2023 - 15:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|QuidScien\u314btism_CannedCatfish91|score=L}}",
+            "opponent2": "{{TeamOpponent|takingatlasdown|score=W}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "May 7th, 2023 - 14:00 {{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|hatsune miku fan club|score=L}}",
+            "opponent2": "{{TeamOpponent|takingatlasdown|score=W}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "May 6th, 2023 - 15:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|bankstown bandits|score=L}}",
+            "opponent2": "{{TeamOpponent|shadow wizard money gang|score=W}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "May 6th, 2023 - 15:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|remedy|score=W}}",
+            "opponent2": "{{TeamOpponent|supernova|score=L}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "May 6th, 2023 - 16:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|QuidScien\u314btism_CannedCatfish91|score=W}}",
+            "opponent2": "{{TeamOpponent|shadow wizard money gang|score=L}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "May 6th, 2023 - 16:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|disband upon defeat|score=W}}",
+            "opponent2": "{{TeamOpponent|remedy|score=L}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "May 7th, 2023 - 14:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|QuidScien\u314btism_CannedCatfish91|score=W}}",
+            "opponent2": "{{TeamOpponent|disband upon defeat|score=L}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "May 7th, 2023 - 15:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|hatsune miku fan club|score=W}}",
+            "opponent2": "{{TeamOpponent|QuidScien\u314btism_CannedCatfish91|score=L}}",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "May 7th, 2023 - 16:00{{Abbr/AEST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|takingatlasdown|score=W}}",
+            "opponent2": "{{TeamOpponent|hatsune miku fan club|score=L}}",
+            "optional": "R5M1="
+        }
+    ]
+}

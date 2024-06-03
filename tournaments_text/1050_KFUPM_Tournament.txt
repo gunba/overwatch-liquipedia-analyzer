@@ -1,0 +1,94 @@
+{{Infobox league
+|liquipediatier=4
+|name=KFUPM Tournament
+|image=KFUPM_IE_Club_lightmode.png
+|imagedarkmode=KFUPM_IE_Club_darkmode.png
+|shortname=KFUPM Tournament
+|tickername=KFUPM Tournament
+|organizer=KFUPM IE Club
+|organizer-link=https://twitter.com/Kfupm_IEclub
+|type=Offline
+|country=Saudi Arabia
+|city=Dhahran
+|game=overwatch2
+|format=Double Elimination
+|prizepool=3600
+|localcurrency=sar
+|sdate=2022-11-18
+|edate=2022-11-22
+|twitter=Kfupm_IEclub
+|youtube=@ieclub3964
+}}
+
+==Information==
+*Participation is limited to [https://en.wikipedia.org/wiki/King_Fahd_University_of_Petroleum_and_Minerals KFUPM] students.
+
+===Format===
+*Double Elimination Bracket
+**All matches are {{Abbr/Ft2}}
+
+===Prize Pool===
+{{TeamPrizePool|import=true|localcurrency=sar
+|{{Slot|localprize=1600}}
+|{{Slot|localprize=1200}}
+|{{Slot|localprize=800}}
+}}
+
+==Top 3 Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=3}}
+{{TeamCard
+|team=Washed up|link=Washed up (KFUPM)
+|p1=Kira|pos1=DPS
+|p2=DarkShadow|pos2=DPS
+|p3=King|pos3=Tank|p3link=King (KFUPM)
+|p4=Noino|pos4=sup
+|p5=Suhail|pos5=sup
+}}
+{{TeamCard
+|team=Tomato Juice
+|p1=AliAlHodar|pos1=dps
+|p2=PUMBA|pos2=dps
+|p3=Thorkell|pos3=tank
+|p4=Melon|pos4=sup|p4link=Melon (KFUPM)
+|p5=Nbton|pos5=sup
+}}
+{{TeamCard
+|team=framule
+|p1=BluePhoenix|pos1=dps
+|p2=Tsunazoz|pos2=dps
+|p3=Sieg|pos3=tank
+|p4=Natlustw|pos4=sup
+|p5=Nova175|pos5=sup
+}}
+{{TeamCard columns end}}
+
+==Top 3 Bracket==
+{{Bracket|Bracket/2U2|id=dh9Bjsow0M
+
+<!-- Upper Bracket Final -->
+|R1M1={{Match
+    |bestof=3
+	|date=November 22, 2022 - 18:30 {{Abbr/AST}}
+    |opponent1={{TeamOpponent|Washed up (KFUPM)|score=L}}
+    |opponent2={{TeamOpponent|Tomato Juice|score=W}}
+}}
+<!-- Lower Bracket Final -->
+|R1M2={{Match
+	|date=November22, 2022 - 19:30 {{Abbr/AST}}
+    |opponent1={{TeamOpponent|Washed up (KFUPM)}}
+    |opponent2={{TeamOpponent|framule}}
+	|map1={{Map|map=New Queen Street|mode=Push|score1=113.11m|score2=93.31m|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+	|map3={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+}}
+<!-- Grand Final -->
+|R2M1={{Match
+	|date=November 22, 2022 - 20:30 {{Abbr/AST}}
+    |opponent1={{TeamOpponent|Tomato Juice}}
+    |opponent2={{TeamOpponent|Washed up (KFUPM)}}
+	|map1={{Map|map=Nepal|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Route 66|mode=Escort|score1=3|score2=1|winner=1}}
+	|map3={{Map|map=Hollywood|mode=Hybrid|score1=2|score2=3|winner=2}}
+}}
+}}

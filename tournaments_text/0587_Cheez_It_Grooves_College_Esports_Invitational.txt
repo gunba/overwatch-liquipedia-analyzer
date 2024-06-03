@@ -1,0 +1,877 @@
+{{Infobox league
+|liquipediatier=3
+|name=Cheez-It Grooves College Esports Invitational
+|shortname=College Esports Invitational
+|tickername=Cheez-It Grooves College Esports Invitational
+|icon=Cheez-It Collegiate Invitational logo.png
+|image=Cheez-It Collegiate Invitational logo.png
+|organizer=Level Next
+|organizer-link=https://levelnextesports.com/
+|sponsor=[https://www.cheezit.com/en_US/products/grooves.html Cheez-It Grooves]
+|type=Online
+|country=North America
+|city=
+|venue=
+|format=Double Elimination
+|prizepoolusd=13500
+|sdate=2021-06-18
+|edate=2021-06-20
+|twitter=LevelNextGG
+|web=
+|twitch=LevelNextGG
+|discord=
+|youtube=
+|rulebook=https://cheezitgrooves.mainline.gg/invitational/-/tournament/fullrules
+|bracket=https://cheezitgrooves.mainline.gg/invitational/-/tournament/overview
+|team_number=38
+}}
+
+==Information==
+===Format===
+* '''General Rules'''
+::*Competitive Play ruleset
+::*Double elimination format
+:::*{{Abbr/Bo3}} until Winner's Final
+:::*Winner's Final, Loser's Finals, and Grand Finals are {{Abbr/Bo5}}
+
+===Broadcast Talent===
+{{box|start}}
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=LemonKiwi
+|b2=RichRad
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard|lang=English
+|position=Observer
+|b1=DeShongJason|b1name=Jason DeShong|b1flag=us
+|b2=Build|b2flag=us
+|b3=Capitiano
+}}
+{{box|end}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=6|Available Maps
+|-
+![[Control]]
+![[Escort]]
+![[Hybrid]]
+|-
+!Map 1
+|''[[Control]] map''
+|width="130" rowspan=7|[[Ilios]]<br><br>[[Lijiang Tower]]<br><br>[[Nepal]]<br><br>[[Oasis]]<br><br>[[Busan]]
+|width="130" rowspan=7|[[Dorado]]<br><br>[[Havana]]<br><br>[[Watchpoint: Gibraltar]]
+|width="130" rowspan=7|[[King's Row]]<br><br>[[Blizzard World]]<br><br>[[Eichenwalde]]
+|-
+!Map 2
+|''[[Escort]] map''
+|-
+!Map 3
+|''[[Hybrid]] map''
+|-
+!Map 4
+|''[[Control]] map''
+|-
+!Map 5
+|''[[Escort]] map''
+|}
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=6000}}
+|{{Slot|usdprize=4500}}
+|{{Slot|usdprize=3000}}
+}}
+
+==Participants (Top 16)==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Maryville Esports
+|p1=iced|p1flag=|pos1=dps
+|p2=Syrus|p2flag=us|pos2=dps
+|p3=Cameron|p3flag=|pos3=tank
+|p4=False|p4flag=|pos4=tank
+|p5=Halo|p5flag=|pos5=sup
+|p6=Mac|p6flag=|pos6=sup
+|t2title=Substitutes
+|t2p1=Crakinlakin|t2p1flag=|t2pos1=tank
+|t2p2=Provide|t2p2flag=|t2pos2=sup
+|t3title=Staff
+|t3p1=TonyB|t3pos1=manager
+|qualifier=Maryville University of St. Louis
+}}
+{{TeamCard
+|team=Lourdes Esports
+|p1=Bizz|p1flag=us|pos1=dps
+|p2=Nebnerb|p2flag=|pos2=dps
+|p3=Majink|p3flag=|pos3=tank
+|p4=M4ngo|p4flag=|pos4=tank
+|p5=Hawkwaffle|p5flag=|pos5=sup
+|p6=Cjay|p6flag=|pos6=sup
+|t2title=Substitutes
+|t2p1=kayla|t2p1flag=|t2pos1=sub
+|t2p2=srgntcam|t2p2flag=|t2pos2=sub
+|qualifier=Lourdes University
+}}
+{{TeamCard
+|team=UCSC
+|p1=Snozlar|p1flag=us|pos1=dps
+|p2=ionic|p2flag=us|pos2=dps
+|p3=Vasock|p3flag=us|pos3=tank
+|p4=emf|p4flag=us|pos4=tank
+|p5=Cal|p5flag=us|pos5=sup|p5link=Cal (American Player)
+|p6=Otters|p6flag=greece|pos6=sup
+|t2title=Substitutes
+|t2p1=eniigma|t2p1flag=us|t2pos1=sub
+|t2p2=Superman1448|t2p2flag=us|t2pos2=sub
+|qualifier=University of California, Santa Cruz
+}}
+{{TeamCard
+|team=UT Dallas Comets
+|p1=Blank|p1flag=us|pos1=dps|p1link=Blank (American Player)
+|p2=Aero|p2flag=us|pos2=dps|p2link=Aero (American Player)
+|p3=Lueyyy|p3flag=us|pos3=tank
+|p4=Tinspire|p4flag=us|pos4=tank
+|p5=NoneType|p6flag=us|pos6=sup
+|p6=Kinetic|p5flag=us|pos5=sup
+|t2title=Substitute
+|t2p1=noureenhoq|t2p1flag=us|t2pos1=sub
+|t2p2=STAS1S|t2p2flag=us|t2pos2=sub
+|t3title=Staff
+|t3c1=MinniePwn|t3c1flag=bd|t3c1pos=manager
+|qualifier=University of Texas at Dallas
+}}
+{{TeamCard
+|team=Utah Utes
+|p1=Coolabc|p1flag=us|pos1=dps
+|p2=Skyward|p2flag=us|pos2=dps
+|p3=Flameturtle|p3flag=us|pos3=tank
+|p4=Dog21|p4flag=us|pos4=tank
+|p5=Hollow|p5flag=us|pos5=sup
+|p6=Andy|p6flag=us|pos6=sup
+|t2title=Substitutes
+|t2p1=CaptainBabe|t2p1flag=us|t2pos1=sub
+|t2p2=Zombee|t2p2flag=us|t2pos2=sub
+|qualifier=University of Utah
+}}
+{{TeamCard
+|team=Bay State
+|p1=Kabe|p1flag=us|pos1=dps
+|p2=Forgotten|p2flag=us|pos2=dps
+|p3=Faded|p3flag=ca|pos3=tank
+|p4=Infernal|p4flag=|pos4=tank
+|p5=M1kan|p5flag=us|pos5=sup
+|p6=Abbs|p6flag=|pos6=sup
+|t2title=Substitute
+|t2p1=Neb|t2p1flag=us
+|t3title=Staff
+|t3p1=Tensa|t3pos1=coach
+|qualifier=Bay State College
+}}
+{{TeamCard
+|team=UCSD Varsity Overwatch
+|p1=Przncess|p1flag=|pos1=dps
+|p2=Rho|p2flag=us|pos2=tank
+|p3=Hing3d|p3flag=|pos3=sup
+|p4=Minefan006|p4flag=|pos4=sup
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|qualifier=University of California, San Diego
+}}
+{{TeamCard
+|team=Northwood University
+|p1=NOS|p1flag=|pos1=dps
+|p2=Dynasty|p2flag=|pos2=dps
+|p3=cowman711|p3flag=|pos3=tank
+|p4=SZNS|p4flag=us|pos4=tank
+|p5=Landon|p5flag=|pos5=sup
+|p6=Lep|p6flag=us|pos6=sup
+|p7=Yimitra|p7flag=us|pos7=sup
+|p8=Morb |p8flag=|pos8=sup
+|qualifier=Northwood University
+}}
+{{TeamCard
+|team=Longhorn Gaming
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|qualifier=University of Texas at Austin
+}}
+{{TeamCard
+|team=OU Crimson
+|p1=KnockKnock|p1flag=us|pos1=dps
+|p2=Revan|p2flag=us|pos2=dps
+|p3=Merge|p3flag=us|pos3=tank
+|p4=Divinity|p4flag=us|pos4=tank
+|p5=SaltyKilla|p5flag=us|pos5=sup
+|p6=JeffyJA|p6flag=us|pos6=sup
+|qualifier=University of Oklahoma
+}}
+{{TeamCard
+|team=Redhawks
+|p1=CGS|pos1=dps
+|p2=fahzix|pos2=dps
+|p3=qinku|p3flag=us|pos3=tank
+|p4=Heartache|pos4=tank
+|p5=Jaybird|pos5=sup
+|p6=Csacc|p6flag=us|pos6=sup
+|t2title=Substitutes
+|t2p1=KaBunga|t2p1flag=
+|t2p2=Accel|t2p2flag=
+|qualifier=Miami University
+}}
+{{TeamCard
+|team=SLOverwatch D1
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|qualifier=California Polytechnic State University
+}}
+{{TeamCard
+|team=KSU Esports
+|p1=kezn|p1flag=us|pos1=dps
+|p2=wods|p2flag=us|pos2=dps
+|p3=Davethegreat|p3flag=us|pos3=tank
+|p4=PrototypeR|p4flag=us|pos4=tank
+|p5=iso|p5flag=us|pos5=sup
+|p6=Camsky|p6flag=us|pos6=sup
+|qualifier=Kennesaw State University
+}}
+{{TeamCard
+|team=University of Florida
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|qualifier=University of Florida
+}}
+{{TeamCard
+|team=Torbjorn's Meatballs
+|p1=JDX|p1flag=|pos1=
+|p2=Spikeball|p2flag=|pos2=
+|p3=Tickle|p3flag=|pos3=
+|p4=FrydChicken|p4flag=|pos4=
+|p5=Nayeon|p5flag=|pos5=
+|p6=nev|p6flag=|pos6=
+|t2title=Substitutes
+|t2p1=Gliscor|t2p1flag=
+|t2p2=nMM456|t2p2flag=
+|qualifier=Worcester Polytechnic Institute
+}}
+{{TeamCard
+|team=GMU Patriots
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+|qualifier=George Mason University
+}}
+{{TeamCard columns end}}
+
+==Results (Top 32)==
+{{Bracket|Bracket/32U16L8DSL4DSL2DSL1D|id=ZNLhKVHM4t
+
+<!-- Upper Bracket Round 1 -->
+|R1M1={{Match
+    |bestof=3
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|maryville esports|score=2}}
+    |opponent2={{TeamOpponent|lmu lions|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|longhorn gaming|score=2}}
+    |opponent2={{TeamOpponent|mount overwatch|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M3={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|illinois state esports|score=FF}}
+    |opponent2={{TeamOpponent|lourdes esports|score=W}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M4={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|aggie gaming|score=1}}
+    |opponent2={{TeamOpponent|umn pizza pirates|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M5={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|redhawks|score=2}}
+    |opponent2={{TeamOpponent|st. clair saints|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M6={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|uottawa|score=0}}
+    |opponent2={{TeamOpponent|ucsc|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M7={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|thunderbirds|score=1}}
+    |opponent2={{TeamOpponent|mason b|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M8={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ksu esports|score=}}
+    |opponent2={{TeamOpponent|ut dallas comets|score=}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M9={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|utah utes|score=2}}
+    |opponent2={{TeamOpponent|sloverwatch d1|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M10={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|waterloo warriors black|score=0}}
+    |opponent2={{TeamOpponent|utd esports jv|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M11={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|alabama esports|score=0}}
+    |opponent2={{TeamOpponent|bay state|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M12={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|bsc bobcats|score=1}}
+    |opponent2={{TeamOpponent|university of florida|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M13={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|illini esports|score=0}}
+    |opponent2={{TeamOpponent|torbjorn's meatballs|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M14={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|utah crimson|score=0}}
+    |opponent2={{TeamOpponent|ucsd varsity overwatch|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M15={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|griffon esports|score=0}}
+    |opponent2={{TeamOpponent|gmu patriots|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M16={{Match
+    |date=June 18, 2021 - 17:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|rit orange|score=0}}
+    |opponent2={{TeamOpponent|northwood university|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Round 2 -->
+|R2M1={{Match
+    |date=June 18, 2021 - 19:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|maryville esports|score=2}}
+    |opponent2={{TeamOpponent|longhorn gaming|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+    |date=June 18, 2021 - 19:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|lourdes esports|score=2}}
+    |opponent2={{TeamOpponent|umn pizza pirates|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M3={{Match
+    |date=June 18, 2021 - 19:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|redhawks|score=0}}
+    |opponent2={{TeamOpponent|ucsc|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M4={{Match
+    |date=June 18, 2021 - 19:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|mason b|score=}}
+    |opponent2={{TeamOpponent|ut dallas comets|score=}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M5={{Match
+    |date=June 18, 2021 - 19:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|utah utes|score=2}}
+    |opponent2={{TeamOpponent|utd esports jv|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M6={{Match
+    |date=June 18, 2021 - 19:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|bay state|score=2}}
+    |opponent2={{TeamOpponent|university of florida|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M7={{Match
+    |date=June 18, 2021 - 19:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|torbjorn's meatballs|score=1}}
+    |opponent2={{TeamOpponent|ucsd varsity overwatch|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M8={{Match
+    |date=June 18, 2021 - 19:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|gmu patriots|score=0}}
+    |opponent2={{TeamOpponent|northwood university|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Quarterfinals -->
+|R4M1={{Match
+    |date=June 18, 2021 - 20:15 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|maryville esports|score=2}}
+    |opponent2={{TeamOpponent|lourdes esports|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R4M2={{Match
+    |date=June 18, 2021 - 20:15 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ucsc|score=}}
+    |opponent2={{TeamOpponent|ut dallas comets|score=}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Havana|mode=Escort|score1=3|score2=4|winner=2}}
+    |map3={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+}}
+|R4M3={{Match
+    |date=June 18, 2021 - 20:15 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|utah utes|score=0}}
+    |opponent2={{TeamOpponent|bay state|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R4M4={{Match
+    |date=June 18, 2021 - 20:15 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ucsd varsity overwatch|score=0}}
+    |opponent2={{TeamOpponent|northwood university|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R6M1={{Match
+    |date=June 18, 2021 - 21:30 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|maryville esports|score=2}}
+    |opponent2={{TeamOpponent|ut dallas comets|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R6M2={{Match
+    |date=June 18, 2021 - 21:30 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|bay state|score=0}}
+    |opponent2={{TeamOpponent|northwood university|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Final -->
+|R8M1={{Match
+    |date=June 19, 2021 - 13:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|maryville esports|score=}}
+    |opponent2={{TeamOpponent|northwood university|score=}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+	|map4={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M17={{Match
+    |date=June 18, 2021 - 20:50 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|fsu overwatch|score=2}}
+    |opponent2={{TeamOpponent|griffon esports|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M18={{Match
+    |date=June 18, 2021 - 20:50 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ou crimson|score=2}}
+    |opponent2={{TeamOpponent|illini esports|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M19={{Match
+    |date=June 18, 2021 - 20:50 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|bsc bobcats|score=2}}
+    |opponent2={{TeamOpponent|alabama esports|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M20={{Match
+    |date=June 18, 2021 - 20:50 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|waterloo warriors black|score=0}}
+    |opponent2={{TeamOpponent|sloverwatch d1|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M21={{Match
+    |date=June 18, 2021 - 20:50 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ksu esports|score=2}}
+    |opponent2={{TeamOpponent|thunderbirds|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M22={{Match
+    |date=June 18, 2021 - 20:50 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|uottawa|score=}}
+    |opponent2={{TeamOpponent|st. clair saints|score=}}
+    |map1={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M23={{Match
+    |date=June 18, 2021 - 20:50 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|aggie gaming|score=W}}
+    |opponent2={{TeamOpponent|illinois state esports|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M24={{Match
+    |date=June 18, 2021 - 20:50 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|mount overwatch|score=0}}
+    |opponent2={{TeamOpponent|lmu lions|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 2 -->
+|R2M9={{Match
+    |date=June 18, 2021 - 21:35 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|longhorn gaming|score=2}}
+    |opponent2={{TeamOpponent|fsu overwatch|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M10={{Match
+    |date=June 18, 2021 - 21:35 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|umn pizza pirates|score=0}}
+    |opponent2={{TeamOpponent|ou crimson|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M11={{Match
+    |date=June 18, 2021 - 21:35 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|redhawks|score=2}}
+    |opponent2={{TeamOpponent|bsc bobcats|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M12={{Match
+    |date=June 18, 2021 - 21:35 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|mason b|score=0}}
+    |opponent2={{TeamOpponent|sloverwatch d1|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M13={{Match
+    |date=June 18, 2021 - 21:35 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|utd esports jv |score=0}}
+    |opponent2={{TeamOpponent|ksu esports|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M14={{Match
+    |date=June 18, 2021 - 21:35 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|university of florida|score=}}
+    |opponent2={{TeamOpponent|st. clair saints|score=}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Havana|mode=Escort|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M15={{Match
+    |date=June 18, 2021 - 21:35 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|torbjorn's meatballs|score=2}}
+    |opponent2={{TeamOpponent|aggie gaming|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M16={{Match
+    |date=June 18, 2021 - 21:35 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|gmu patriots|score=2}}
+    |opponent2={{TeamOpponent|lmu lions|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 3 -->
+|R3M1={{Match
+    |date=June 18, 2021 - 22:20 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|longhorn gaming|score=0}}
+    |opponent2={{TeamOpponent|ou crimson|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R3M2={{Match
+    |date=June 18, 2021 - 22:20 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|redhawks|score=2}}
+    |opponent2={{TeamOpponent|sloverwatch d1|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R3M3={{Match
+    |date=June 18, 2021 - 22:20 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ksu esports|score=0}}
+    |opponent2={{TeamOpponent|university of florida|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R3M4={{Match
+    |date=June 18, 2021 - 22:20 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|torbjorn's meatballs|score=1}}
+    |opponent2={{TeamOpponent|gmu patriots|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 4 -->
+|R4M5={{Match
+    |date=June 18, 2021 - 23:05 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ucsd varsity overwatch|score=0}}
+    |opponent2={{TeamOpponent|ou crimson|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R4M6={{Match
+    |date=June 18, 2021 - 23:05 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|utah utes|score=FF}}
+    |opponent2={{TeamOpponent|redhawks|score=W}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R4M7={{Match
+    |date=June 18, 2021 - 23:05 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ucsc|score=2}}
+    |opponent2={{TeamOpponent|university of florida|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R4M8={{Match
+    |date=June 18, 2021 - 23:05 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|lourdes esports|score=2}}
+    |opponent2={{TeamOpponent|gmu patriots|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 5 -->
+|R5M1={{Match
+    |date=June 18, 2021 - 23:50 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ou crimson|score=0}}
+    |opponent2={{TeamOpponent|redhawks|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R5M2={{Match
+    |date=June 18, 2021 - 23:50 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ucsc|score=2}}
+    |opponent2={{TeamOpponent|lourdes esports|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R6M3={{Match
+    |date=June 19, 2021 - 11:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ut dallas comets|score=1}}
+    |opponent2={{TeamOpponent|redhawks|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R6M4={{Match
+    |date=June 19, 2021 - 11:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|bay state|score=2}}
+    |opponent2={{TeamOpponent|ucsc|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R7M1={{Match
+    |date=June 19, 2021 - 11:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|redhawks|score=0}}
+    |opponent2={{TeamOpponent|bay state|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Final -->
+|R8M2={{Match
+    |date=June 19, 2021 - 14:45 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|maryville university|score=}}
+    |opponent2={{TeamOpponent|bay state|score=}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=King's Row|mode=Hybrid|score1=1|score2=0|winner=1}}
+	|map4={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+	|map5={{Map|map=Havana|mode=Escort|score1=3|score2=2|winner=1}}
+}}
+
+<!-- Grand Final -->
+|R9M1={{Match
+    |date=June 20, 2021 - 13:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|northwood university|score=}}
+    |opponent2={{TeamOpponent|maryville university|score=}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Havana|mode=Escort|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Blizzard World|mode=Hybrid|score1=1|score2=0|winner=1}}
+}}
+}}

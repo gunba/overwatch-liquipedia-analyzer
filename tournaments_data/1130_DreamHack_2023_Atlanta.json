@@ -1,0 +1,214 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "DreamHack Atlanta 2023",
+            "shortname": "DreamHack Atlanta 2023",
+            "tickername": "DreamHack Atlanta",
+            "image": "DreamHack 2020 lightmode.png",
+            "imagedark": "DreamHack 2020 darkmode.png",
+            "organizer": "DreamHack",
+            "series": "DreamHack",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Atlanta",
+            "venue": "Georgia World Congress Center",
+            "venuelink": "https://en.wikipedia.org/wiki/Georgia_World_Congress_Center",
+            "game": "overwatch2",
+            "format": "",
+            "prizepoolusd": "3000",
+            "date": "2023-12-17",
+            "twitter": "DreamHack",
+            "facebook": "DreamHack",
+            "instagram": "DreamHack",
+            "discord": "DreamHack",
+            "youtube": "DreamHack",
+            "twitch": "DreamHack",
+            "web": "https://dreamhack.com/atlanta/lan/",
+            "rulebook": "",
+            "bracket": "https://battlefy.com/dreamhack-byoc-tournaments/december-17th-dhatl-byoc-ow2/656f5e3c520ddb1501165f1f/stage/657f1481394f8212f20c5f45/bracket/",
+            "team_number": "4"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "W-1040 Tax Forms",
+            "p1": "P3t9l",
+            "pos1": "dps",
+            "p2": "Kashir",
+            "pos2": "dps",
+            "p3": "Puggo",
+            "p3flag": "pe",
+            "pos3": "tank",
+            "p4": "Iszhtar",
+            "p4flag": "pe",
+            "p4pos": "tank",
+            "p5": "Doyi",
+            "pos5": "sup",
+            "p6": "NoneType",
+            "pos6": "sup"
+        },
+        {
+            "team": "Slate",
+            "p1": "Dari0",
+            "p1flag": "us",
+            "pos1": "DPS",
+            "p2": "nodyerg",
+            "p2flag": "us",
+            "pos2": "DPS",
+            "p3": "mawnoah",
+            "p3flag": "us",
+            "pos3": "Tank",
+            "p4": "pokeyminime",
+            "p4flag": "us",
+            "pos4": "Support",
+            "p5": "SPIFF",
+            "p5flag": "us",
+            "pos5": "Support",
+            "t2title": "Staff",
+            "t2c1": "Brick",
+            "t2c1flag": "USA",
+            "t2c1pos": "head coach",
+            "t2c2": "flashmob",
+            "t2c2flag": "Puerto Rico",
+            "t2c2pos": "Team Manager"
+        },
+        {
+            "team": "Demise",
+            "p1": "Llamarama",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Relic",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "AsianJesus",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Dex",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Chai",
+            "p5flag": "",
+            "pos5": "",
+            "p5link": "Chai (Demise player)"
+        },
+        {
+            "team": "XPL Franklin",
+            "p1": "Miisty",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "glacier",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Nimbus",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Goobins",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Brick",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Flame",
+            "p6flag": "",
+            "pos6": "",
+            "p6link": "Flame (XPL Franklin player)"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "December 17, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "W1040 Tax Forms",
+            "opponent1_score": 2,
+            "opponent2": "XPL Franklin",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 17, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Slate",
+            "opponent1_score": 2,
+            "opponent2": "Demise",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 17, 2023",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "W1040 Tax Forms",
+            "opponent1_score": 3,
+            "opponent2": "Slate",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        }
+    ]
+}

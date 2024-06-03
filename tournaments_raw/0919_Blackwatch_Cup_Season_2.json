@@ -1,0 +1,195 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "",
+            "abbreviation": "Blackwatch Cup",
+            "name": "Blackwatch Cup Season 2",
+            "shortname": "bwc2",
+            "ticketname": "bwc2",
+            "icon": "Blackwatch Cup logo.png",
+            "image": "Blackwatch Cup logo.png",
+            "organizer": "Geneva Game Dream",
+            "organizer2": "Geneva E-sports",
+            "type": "Offline",
+            "country": "Switzerland",
+            "city": "Geneva",
+            "venue": "[https://www.google.ch/maps/place/GameGard/@46.1989003,6.1406392,17z/data=!3m1!4b1!4m6!3m5!1s0x478c656c5c87edeb:0x9c1df90cb7055691!8m2!3d46.1988966!4d6.1432141!16s%2Fg%2F11h3cb3kyn?entry=ttu Geneva GameCard]",
+            "format": "Swiss<br>Double Elimination",
+            "prizepool": "180",
+            "localcurrency": "chf",
+            "date": "2019-03-02",
+            "twitter": "GenevaGameDream",
+            "web": "",
+            "twitch": "genevagamedream",
+            "bracket": "https://www.toornament.com/en_US/tournaments/2147385992543592448/information",
+            "rules": "https://play.toornament.com/en_US/tournaments/2147385992543592448/rules",
+            "team_number": "6",
+            "game": "overwatch"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Cyanax",
+            "p1": "gregg|p1flag=ch|pos1=",
+            "p2": "adri1win74|p2flag=ch|pos2=",
+            "p3": "TheJuice|p3flag=ch|pos3=",
+            "p4": "Zn1th|p4flag=ch|pos4=",
+            "p5": "Kevinaness|p5flag=ch|pos5=",
+            "p6": "majesticbear |p6flag=ch|pos6=",
+            "p7": "Alarm|p7link=Alarm (Swiss player)|p7flag=ch|pos7=",
+            "p8": "Sosig|p8flag=ch|pos8=",
+            "p9": "WINT3R|p9flag=ch|pos9="
+        },
+        {
+            "team": "SPU.AbsolutHot",
+            "p1": "Nawexxx|p1flag=ch|pos1=",
+            "p2": "Vari|p2flag=ch|pos2=",
+            "p3": "Wlag|p3flag=ch|pos3=",
+            "p4": "Sanei|p4flag=ch|pos4=",
+            "p5": "Ingested|p5flag=ch|pos5=",
+            "p6": "MagyiiK|p6flag=ch|pos6=",
+            "p7": "MadaMada|p7flag=ch|pos7=",
+            "p8": "Kioz0m|p8flag=ch|pos8=",
+            "p9": "Kirhya|p9flag=ch|pos9="
+        },
+        {
+            "team": "Fragbox Lemons",
+            "p1": "Stopold|p1flag=ch|pos1=",
+            "p2": "FatVal|p2flag=ch|pos2=",
+            "p3": "Demeter|p3flag=ch|pos3=",
+            "p4": "Mapalow|p4flag=ch|os4=",
+            "p5": "Walter|p5flag=ch|pos5=",
+            "p6": "Stanley|p6flag=ch|pos6=",
+            "p7": "Shayera|p7flag=ch|pos7="
+        },
+        {
+            "team": "Abyss|link=Abyss (Swiss Team)",
+            "p1": "PetankNinja|p1flag=ch|pos1=",
+            "p2": "KTHULHU|p2flag=ch|pos2=",
+            "p3": "Kasuma|p3flag=ch|pos3=",
+            "p4": "Ry\u016bjin|p4flag=ch|pos4=",
+            "p5": "MEGALODON |p5flag=ch|pos5=",
+            "p6": "FatSquid|p6flag=ch|pos6=",
+            "p7": "Thread|p7flag=ch|pos7=",
+            "p8": "ByTweek|p8flag=ch|pos8=",
+            "p9": "acerola08|p9flag=ch|pos9="
+        },
+        {
+            "team": "Valais Esport",
+            "p1": "Relo112|p1flag=ch|pos1=",
+            "p2": "Zelynk|p2flag=ch|pos2=",
+            "p3": "Feez2403|p3flag=ch|pos3=",
+            "p4": "Roran998|p4flag=ch|pos4=",
+            "p5": "Cronixx|p5flag=ch|pos5=",
+            "p6": "Keelyne|p6flag=ch|pos6=",
+            "p7": "Arkin|p7flag=ch|pos7=",
+            "p8": "Nekirox|p8flag=ch|pos8=",
+            "p9": "Keiko|p9flag=ch|pos9="
+        },
+        {
+            "team": "Absolute Frost",
+            "p1": "Stark|p1flag=ch|pos1=",
+            "p2": "Stadam |p2flag=ch|pos2=",
+            "p3": "EleK|p3flag=ch|pos3=",
+            "p4": "shine|p4link=shine (Swiss player)|p4flag=ch|pos4=",
+            "p5": "azyazy|p5flag=ch|pos5=",
+            "p6": "magekylian|p6flag=ch|pos6=",
+            "p7": "DaJiZz|p7flag=ch|pos7=",
+            "p8": "Abigchamp|p8flag=ch|pos8="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2019-03-02",
+            "opponent1": "{{TeamOpponent|Cyanex|score=0}}",
+            "opponent2": "{{TeamOpponent|SPU.AbsolutHot|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2019-03-02",
+            "opponent1": "{{TeamOpponent|Fragbox Lemons|score=2}}",
+            "opponent2": "{{TeamOpponent|Abyss|link=Abyss (Swiss Team)|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2019-03-02",
+            "opponent1": "{{TeamOpponent|Valais Esport|score=0}}",
+            "opponent2": "{{TeamOpponent|SPU.AbsolutHot|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2019-03-02",
+            "opponent1": "{{TeamOpponent|Absolute Frost|score=2}}",
+            "opponent2": "{{TeamOpponent|Fragbox Lemons|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2019-03-02",
+            "opponent1": "{{TeamOpponent|SPU.AbsolutHot|score=2}}",
+            "opponent2": "{{TeamOpponent|Absolute Frost|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "2019-03-02",
+            "opponent1": "{{TeamOpponent|Fragbox Lemons|score=1}}",
+            "opponent2": "{{TeamOpponent|Cyanex|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2019-03-02",
+            "opponent1": "{{TeamOpponent|Valais Esport|score=2}}",
+            "opponent2": "{{TeamOpponent|Abyss|link=Abyss (Swiss Team)|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2019-03-02",
+            "opponent1": "{{TeamOpponent|Cyanex|score=0}}",
+            "opponent2": "{{TeamOpponent|Valais Esport|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2019-03-02",
+            "opponent1": "{{TeamOpponent|Absolute Frost|score=2}}",
+            "opponent2": "{{TeamOpponent|Valais Esport|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "2019-03-02",
+            "opponent1": "{{TeamOpponent|SPU.AbsolutHot|score=0}}",
+            "opponent2": "{{TeamOpponent|Absolute Frost|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        }
+    ]
+}

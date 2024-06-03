@@ -1,0 +1,862 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "liquipediatiertype": "Qualifier",
+            "series": "Overwatch All For One",
+            "abbreviation": "OAFO",
+            "name": "Overwatch All For One 2024 French Championship Stage 1",
+            "shortname": "Overwatch All For One 2024 French Championship Stage 1",
+            "tickername": "OAFO 2024 French Championship Stage 1",
+            "image": "Overwatch All For One 2022 allmode.png",
+            "icon": "Overwatch All For One icon allmode.png",
+            "organizer": "",
+            "sponsor": "[https://bispok.fr/ bispok]<br>[https://www.linkt.fr/ Linkt]<br>[https://meyzieu.fr/ City of Meyzieu]",
+            "type": "Online",
+            "country": "France",
+            "game": "overwatch2",
+            "prizepool": "",
+            "localcurrency": "",
+            "sdate": "2024-01-08",
+            "edate": "2024-02-09",
+            "twitter": "playallforonefr",
+            "web": "https://www.playallforone.com/",
+            "discord": "allforone",
+            "tiktok": "overwatch.all.for.one",
+            "facebook": "playallforoneeu",
+            "instagram": "playallforone",
+            "youtube": "channel/UCM26PW_d-OlocFGw4xw7rUA/join",
+            "reddit": "Overwatch_AllForOne",
+            "rulebook": "https://docs.google.com/document/d/1VFxUUyO1nJv65sGuHfMVyI3btErjvnQ6yTwEVTuR1yc/edit",
+            "bracket": "",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Peps",
+            "p1": "Pak",
+            "pos1": "dps",
+            "p2": "Avo",
+            "pos2": "dps",
+            "p2leave": "true",
+            "p3": "Naga",
+            "pos3": "dps",
+            "p4": "BenBest",
+            "pos4": "tank",
+            "p5": "FDGod",
+            "pos5": "sup",
+            "p6": "Natlocks",
+            "pos6": "sup",
+            "p7": "Khenail",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "LeRenegat",
+            "t2c1pos": "head coach",
+            "t2c2": "F\u00e9f\u00e9",
+            "t2c2pos": "manager",
+            "t2c3": "S\u00f8eny",
+            "t2c3pos": "manager",
+            "inotes": "{{NoteBig",
+            "n1": "January 16 - {{player|Avo|flag=fr|pos=dps}} leaves. <ref name=\"Il aura \u00e9t\u00e9 une partie int\u00e9grante de notre collectif ces derniers mois et aura marqu\u00e9 la Team Peps \u00e0 sa fa\u00e7on. Mais toute bonne chose a une fin.\">{{cite web |url=https://twitter.com/TeamPepsMAX/status/1747221174755483985|title=Il aura \u00e9t\u00e9 une partie int\u00e9grante de notre collectif ces derniers mois et aura marqu\u00e9 la Team Peps \u00e0 sa fa\u00e7on. Mais toute bonne chose a une fin.|date=2024-01-16 |author=[[Team Peps]] |publisher=Twitter}}</ref>"
+        },
+        {
+            "team": "GG !Play",
+            "p1": "Kio",
+            "pos1": "dps",
+            "p2": "M3WS",
+            "pos2": "dps",
+            "p3": "GrouinK",
+            "pos3": "tank",
+            "p4": "twolzz",
+            "pos4": "tank",
+            "p5": "Proxy",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "p6": "Pnda",
+            "p6flag": "es",
+            "pos6": "sup",
+            "p7": "Chaba",
+            "p7flag": "be",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "natdoekje",
+            "t2c1pos": "head coach",
+            "t2c2": "Bulle",
+            "t2c2pos": "coach",
+            "t2c3": "HappySloth",
+            "t2c3flag": "nl",
+            "t2c3pos": "manager",
+            "t2c4": "Laggy",
+            "t2c4pos": "manager"
+        },
+        {
+            "team": "nu.age",
+            "p1": "Stellios",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Kilaa",
+            "pos2": "dps",
+            "p3": "KroxZ",
+            "pos3": "tank",
+            "p4": "unkeempt",
+            "p4flag": "se",
+            "pos4": "sup",
+            "p5": "GOGO",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Teemo",
+            "t2c1pos": "head coach",
+            "t2c2": "Ceadus",
+            "t2c2pos": "coach",
+            "t2c3": "Tarteg",
+            "t2c3pos": "coach",
+            "t2c4": "Zorfen",
+            "t2c4pos": "manager"
+        },
+        {
+            "team": "Frost Tails eSport",
+            "p1": "Zydra",
+            "p1flag": "at",
+            "pos1": "dps",
+            "p2": "skitsa",
+            "p2flag": "il",
+            "pos2": "dps",
+            "p3": "Alex",
+            "pos3": "dps",
+            "p4": "tama",
+            "p4flag": "at",
+            "pos4": "tank",
+            "p5": "Skytorr",
+            "pos5": "tank",
+            "p6": "Nut",
+            "p6flag": "ie",
+            "pos6": "sup",
+            "p7": "Podonova",
+            "p7flag": "be",
+            "pos7": "sup",
+            "p8": "Natsuki",
+            "p8flag": "nl",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "W1lliam",
+            "t2c1pos": "manager",
+            "t2c2": "Spitan",
+            "t2c2flag": "ch",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "Puzzle Squad",
+            "p1": "Dip",
+            "pos1": "dps",
+            "p2": "divine",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p2link": "divine (French player)",
+            "p3": "Shyraa",
+            "pos3": "tank",
+            "p4": "Erikek",
+            "pos4": "tank",
+            "p5": "yoham",
+            "pos5": "sup",
+            "p6": "Sobek",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "PnR",
+            "t2c1pos": "head coach",
+            "t2c2": "Regiegab",
+            "t2c2pos": "coach",
+            "t2c3": "Zorfen",
+            "t2c3pos": "manager",
+            "t2c4": "Pathfinder",
+            "t2c4pos": "manager"
+        },
+        {
+            "team": "SAE TrqstTheProcess",
+            "p1": "Maazer",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Meli\u00f8",
+            "pos2": "dps",
+            "p3": "CaptainLevi",
+            "p3flag": "il",
+            "pos3": "tank",
+            "p4": "TrqstMe",
+            "pos4": "tank",
+            "p5": "Hadi",
+            "pos5": "tank",
+            "p6": "Lv1Crook",
+            "pos6": "sup",
+            "p7": "ENDER",
+            "p7flag": "fr",
+            "pos7": "sup",
+            "p8": "Flowy",
+            "p8flag": "fr",
+            "pos8": "sup",
+            "p9": "Abbs",
+            "pos9": "sup",
+            "t2title": "Staff",
+            "t2c1": "Algos05",
+            "t2c1pos": "manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "2024-01-10 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "sae trqsttheprocess|score=FF",
+            "opponent2": "puzzle squad|score=W",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "comment": "Retroactively changed to [[SAE TrqstTheProcess]] forfeit.",
+            "optional": "M1="
+        },
+        {
+            "date": "2024-01-10 - 21:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "gg !play",
+            "opponent2": "team peps",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "2024-01-12 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Frost Tails esport",
+            "opponent2": "Nu.age",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "2024-01-17 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "sae trqsttheprocess|score=FF",
+            "opponent2": "Team PEPS|score=W",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "comment": "Retroactively changed to [[SAE TrqstTheProcess]] forfeit.",
+            "optional": "M1="
+        },
+        {
+            "date": "2024-01-17 - 21:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Puzzle Squad",
+            "opponent2": "Nu.age",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "88.42m",
+                "score2": "68.24m",
+                "winner": "1"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "2024-01-19 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Frost Tails esport",
+            "opponent2": "gg !play",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "2024-01-24 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Puzzle Squad",
+            "opponent2": "GG !play",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "2024-01-24 - 21:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Frost Tails esport",
+            "opponent2": "Team PEPS",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "2024-01-26 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "sae trqsttheprocess|score=FF",
+            "opponent2": "Nu.age|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "2024-01-31 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "sae trqsttheprocess|score=FF",
+            "opponent2": "Frost Tails Esport|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "2024-01-31 - 21:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Puzzle Squad",
+            "opponent1_score": 0,
+            "opponent2": "Team Peps",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "2024-02-02 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Nu.age|score=FF",
+            "opponent2": "GG !Play|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "2024-02-07 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Puzzle Squad",
+            "opponent1_score": 2,
+            "opponent2": "Frost Tails Esport",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "2024-02-07 - 21:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Nu.age|score=FF",
+            "opponent2": "Team PEPS|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "2024-02-09 - 20:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "sae trqsttheprocess|score=FF",
+            "opponent2": "GG !Play|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        }
+    ]
+}

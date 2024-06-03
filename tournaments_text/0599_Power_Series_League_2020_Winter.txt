@@ -1,0 +1,188 @@
+{{DISPLAYTITLE:Power Series League 2020 - Winter}}
+{{Power Series League Navbox}}
+{{tabs static
+|name1=Main Event|link1=Power Series League/2020/Winter
+|name2= Qualifier|link2=Power Series League/2020/Winter/Qualifier
+|This=1
+}}
+{{Infobox league
+|name=Power Series League 2020 - Winter
+|image=Power Series League 2020 Winter logo.png
+|series=Power Series League
+|abbreviation=Power Series League
+|shortname=2020 - Winter
+|tickername=Power Series League 2020 - Winter
+|icon=Power Series League icon.png
+|organizer=Blizzard Entertainment
+|organizer-link=http://www.blizard.com/
+|organizer2=
+|sponsor=
+|patch=Patch_January_12,_2021
+|type=Offline
+|country=china
+|city=Nanjing
+|venue=Jiangning Exhibition Center
+|format=Single Elimination
+|prizepool=90,000
+|localcurrency=cny
+|prizepoolusd=13,887
+|sdate=
+|edate=
+|date=2021-01-24
+|liquipediatier=3
+|web=http://esports.blizzard.cn/sls
+|weibo=
+|stream=
+|douyu=525207
+|huya=660104
+|bilibili live=3683436
+|cc=163001
+|twitch=
+|bracket=
+|team_number=4
+|previous=Power Series League/2020/Summer
+|next=
+}}
+{{TOClimit|3}}
+
+==Information==
+
+===Format===
+* Semi-finals are {{Abbr/Bo3}}. The final is {{Abbr/Bo5}}.
+* Single Elimination bracket
+
+===Broadcast Talent===
+{{box|start|padding=1em}}
+====Chinese Broadcast====
+{{BroadcasterCard|lang=Chinese
+|position=Commentator
+|b1=9DUO|b1name=|b1flag=
+|b2=XiaoShuang|b2name=|b2flag=
+|b3=|b3name=|b3flag=
+}}
+{{box|end|padding=1em}}
+
+===Prize Pool===
+90,000 (~13,887 {{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start|localcurrency=cny}}
+{{prize pool slot|place=1|usdprize=9258|localprize=60,000|湖南 |lastvs1=陕西 |lastscore1=3 |lastvsscore1=0  }}
+{{prize pool slot|place=2|usdprize=4629|localprize=30,000|陕西 |lastvs1=湖南 |lastscore1=0 |lastvsscore1=3  }}
+{{prize pool slot|place=3-4  |usdprize=0|localprize=0
+|广东|lastvs1=湖南 |lastscore1= |lastvsscore1=
+|tbd|lastvs2= |lastscore2= |lastvsscore2=
+}}
+{{Prize pool end}}
+''Conversion values taken from [http://www.xe.com xe.com] at 2021-01-24. 1 {{Abbr/CNY}} ≈ 0.1543 {{Abbr/USD}}''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=湖南
+|image=Hunan logo.png
+|p1=黑暗圣经|p1flag=cn |pos1=dps
+|p2=爱蜜莉雅 |p2flag=cn |pos2=dps
+|p3=温叙言 |p3flag=cn |pos3=tank
+|p4=小孩 |p4flag=cn |pos4=tank
+|p5=小孤单 |p5flag=cn |pos5=sup
+|p6=戴安娜|p6flag=cn |pos6=sup
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=广东
+|image=Guangdong logo.png
+|p1=|p1flag= |pos1=
+|p2= |p2flag= |pos2=
+|p3= |p3flag= |pos3=
+|p4= |p4flag= |pos4=
+|p5= |p5flag= |pos5=
+|p6=|p6flag= |pos6=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=陕西
+|image=Shaanxi logo.png
+|p1=晴天|p1flag=cn |pos1=dps
+|p2=天依 |p2flag=cn |pos2=dps
+|p3=大能哥 |p3flag=cn |pos3=tank
+|p4=白棠 |p4flag=cn |pos4=tank
+|p5=大饼哥 |p5flag=cn |pos5=tank
+|p6=小铭|p6flag=cn |pos6=tank
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|image=
+|p1=|p1flag= |pos1=
+|p2= |p2flag= |pos2=
+|p3= |p3flag= |pos3=
+|p4= |p4flag= |pos4=
+|p5= |p5flag= |pos5=
+|p6=|p6flag= |pos6=
+|qualifier=Invited
+}}
+{{box|end}}
+{{Roster changes start}}
+{{Roster changes end}}
+
+==Results==
+{{Bracket|Bracket/4|id=7Zf6WQMzmD
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |date= |finished=true
+    |opponent1={{TeamOpponent|湖南}}
+    |opponent2={{TeamOpponent|广东}}
+    |winner=1
+    |overgg=
+    |pf=
+    |wl=
+}}
+|R1M2={{Match
+    |date= |finished=true
+    |opponent1={{TeamOpponent|}}
+    |opponent2={{TeamOpponent|}}
+    |overgg=
+    |pf=
+    |wl=
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |date= |finished=true
+    |opponent1={{TeamOpponent|湖南|score=3}}
+    |opponent2={{TeamOpponent|陕西|score=0}}
+    |winner=1
+    |vod=https://www.bilibili.com/video/BV1cX4y1T7vQ?p=4
+    |overgg=
+    |pf=
+    |wl=
+    |map1={{Map|map=Oasis|mode=Control|winner=1}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|winner=1}}
+    |map3={{Map|map=Lijiang Tower|mode=Control|winner=1}}
+}}
+}}
+
+==Additional Content==
+===Streams===
+{| class="sortable wikitable" style="text-align:center;"
+|-style="background-color:#f3f3f3;"
+|-
+!width="60"|Language
+|width="40"|{{flag/cn}}
+|-
+!rowspan=4|Stream
+|{{DouyuTVIcon|link=525207}}
+|-
+|{{HuyaIcon|link=660104}}
+|-
+|{{BilibiliIcon|link=3683436}}
+|-
+|{{CCIcon|link=163001}}
+|}
+
+===Videos===
+===Interviews===

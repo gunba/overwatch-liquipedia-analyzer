@@ -1,0 +1,663 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "Will English IVitational",
+            "abbreviation": "IV",
+            "name": "IVitational Last Ride - NA",
+            "shortname": "IVitational Last Ride - NA",
+            "tickername": "IVitational Last Ride - NA",
+            "image": "Will English IVitational.png",
+            "organizer": "Will English IV",
+            "organizer-link": "https://twitter.com/WillEnglishIV",
+            "type": "Online",
+            "game": "overwatch",
+            "country": "North America",
+            "format": "Double Elimination",
+            "prizepoolusd": "500",
+            "date": "2022-09-18",
+            "web": "",
+            "bracket": "https://battlefy.com/will-english-iv/the-will-english-ivitational-last-ride-na/630e7f7b785ce61cba4afe3c/stage/6324b2c06f6032368cd511fe/bracket/",
+            "youtube": "",
+            "discord": "",
+            "rulebook": "",
+            "twitch": "willenglishiv",
+            "twitter": "willenglishiv",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "One Piece Minions",
+            "p1": "Lab",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p1link": "Lab (American Player)",
+            "p2": "Noxious",
+            "p2link": "Noxious (Canadian Player)",
+            "p2flag": "ca",
+            "pos2": "dps",
+            "p3": "Frostedd",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Infekted",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Momentum",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Soames",
+            "p6flag": "",
+            "pos6": "sup",
+            "t2title": "Substitutes",
+            "t2p1": "p0int",
+            "t2p1flag": "us",
+            "t2pos1": "sup",
+            "t3title": "Staff",
+            "t3p1": "p0int",
+            "t3p1flag": "us",
+            "t3pos1": "manager",
+            "t3p2": "ducklover",
+            "t3p2flag": "de",
+            "t3pos2": "manager"
+        },
+        {
+            "team": "NSHR",
+            "p1": "Bun",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Excal",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Haven",
+            "p3link": "Haven (American Player)",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "may3reunion",
+            "p4link": "Astronexz",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "debit",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "Abyss",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "graham",
+            "p7flag": "",
+            "pos7": "sup",
+            "p8": "Excal",
+            "p8flag": "",
+            "pos8": "sup"
+        },
+        {
+            "team": "Regen",
+            "p1": "footloose",
+            "p1flag": "ca",
+            "pos1": "dps",
+            "p2": "Noah",
+            "p2link": "Noah (American Player)",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Key",
+            "p3link": "Key (American player)",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Shromo",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "spaghetti",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "keroppi",
+            "p6flag": "us",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2p1": "elijah",
+            "t2p1flag": "uk",
+            "t2pos1": "manager",
+            "t2p2": "Loki",
+            "t2p2flag": "us",
+            "t2pos2": "coach"
+        },
+        {
+            "team": "Shikigami",
+            "p1": "Stone",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Zeerocious",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Saadist",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "AV2RY",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Paradoxed",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Deeko",
+            "p6flag": "us",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2p1": "Aeroplayne",
+            "t2p1flag": "us",
+            "t2pos1": "manager"
+        },
+        {
+            "team": "citrus",
+            "link": "Citrus (team)",
+            "p1": "Danny",
+            "p1link": "Danny (American Player)",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "scissors",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Levi",
+            "p3flag": "ca",
+            "pos3": "dps",
+            "p3link": "Levi (Canadian Player)",
+            "p4": "durpee",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Zeb",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "zman",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Floomfie",
+            "p7flag": "us",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Eponine",
+            "t2c1flag": "us",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Graveyard Szn \u2620\ufe0f",
+            "p1": "bedtimestory",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "our8NewRoach",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Akash",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Sniper",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Noctis",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "reverse",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p6link": "reverse (American Player)"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "winner": "",
+            "date": "2022-09-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Graveyard Szn \u2620\ufe0f",
+            "opponent1_score": 2,
+            "opponent2": "one piece minions",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "winner": "",
+            "date": "2022-09-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "citrus",
+            "opponent1_score": 2,
+            "opponent2": "regen",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "winner": "",
+            "date": "2022-09-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "nshr",
+            "opponent1_score": 0,
+            "opponent2": "Graveyard Szn \u2620\ufe0f",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "winner": "",
+            "date": "2022-09-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "shikigami",
+            "opponent1_score": 0,
+            "opponent2": "citrus",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "winner": "",
+            "date": "2022-09-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Graveyard Szn \u2620\ufe0f",
+            "opponent1_score": 1,
+            "opponent2": "citrus",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "winner": "",
+            "date": "2022-09-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "shikigami",
+            "opponent1_score": 0,
+            "opponent2": "one piece minions",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "winner": "",
+            "date": "2022-09-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "nshr",
+            "opponent1_score": 2,
+            "opponent2": "regen",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "winner": "",
+            "date": "2022-09-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "one piece minions",
+            "opponent1_score": 2,
+            "opponent2": "nshr",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "winner": "",
+            "date": "2022-09-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Graveyard Szn \u2620\ufe0f",
+            "opponent1_score": 2,
+            "opponent2": "one piece minions",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "winner": "",
+            "date": "2022-09-18",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "citrus|score=L",
+            "opponent2": "Graveyard Szn \u2620\ufe0f|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

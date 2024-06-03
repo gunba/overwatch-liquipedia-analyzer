@@ -1,0 +1,135 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Iberian Cup #10",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch IB",
+            "shortname": "10",
+            "ticketname": "Go4OW Iberian #10",
+            "organizer": "ESL Spain",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "game": "overwatch",
+            "type": "Online",
+            "date": "2017-06-05",
+            "prizepool": "120",
+            "localcurrency": "eur",
+            "prizepoolusd": "128",
+            "web": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-spain/",
+            "twitch": "esl_overwatch_es",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-iberica/cup-10/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "7",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Fans del Zonian",
+            "p1": "cesele|p1flag=es",
+            "p2": "Dieguito95|p2flag=es",
+            "p3": "Gaijin|p3flag=es",
+            "p4": "Malakid|p4flag=es",
+            "p5": "Navete|p5flag=es",
+            "p6": "Nay|p6flag=es"
+        },
+        {
+            "team": "Free Pakito",
+            "p1": "DatGazz|p1flag=es",
+            "p2": "SolmyR|p2flag=es",
+            "p3": "Human|p3flag=es",
+            "p4": "minicunga|p4flag=es",
+            "p5": "Networkz|p5flag=es",
+            "p6": "Othax|p6flag=es"
+        },
+        {
+            "team": "Naisuuu!",
+            "p1": "Destroyer97|p1flag=es",
+            "p2": "ESKU|p2flag=es",
+            "p3": "PLaGi0|p3flag=es",
+            "p4": "KroniiK|p4flag=es",
+            "p5": "SUJA|p5flag=es",
+            "p6": "SWAGLOPE|p6flag=es"
+        },
+        {
+            "team": "ObrigadoPeloDinheiro",
+            "p1": "Addicted|p1flag=pt",
+            "p2": "Horthic|p2flag=pt",
+            "p3": "Krellian|p3flag=br",
+            "p4": "MindNerd|p4flag=pt",
+            "p5": "Phatt|p5flag=pt",
+            "p6": "san alex|p6flag=pt"
+        },
+        {
+            "team": "Old Wolves",
+            "p1": "Bakko|p1flag=es",
+            "p2": "Koter |p2flag=es",
+            "p3": "L1theR |p3flag=es",
+            "p4": "Nihilhodie |p4flag=es",
+            "p5": "Periki |p5flag=es",
+            "p6": "roobertoo1 |p6flag=es"
+        },
+        {
+            "team": "Rubydra",
+            "p1": "HuntCrowler|p1flag=es",
+            "p2": "Javs|p2flag=es",
+            "p3": "KokoXx|p3flag=es",
+            "p4": "Leroher|p4flag=es",
+            "p5": "MarcIsLove|p5flag=es",
+            "p6": "Ruuuben|p6flag=es"
+        },
+        {
+            "team": "Work In Progress",
+            "link": "Work In Progress (Spanish team)",
+            "p1": "DrChusta|p1flag=es",
+            "p2": "Myssha|p2flag=es",
+            "p3": "Ounted|p3flag=es",
+            "p4": "Dreamdark|p4flag=es",
+            "p5": "Superchoco25|p5flag=es",
+            "p6": "byAcExX|p6flag=es"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "work in progress (spanish team)",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "obrigadopelodinheiro",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "old wolves",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "obrigadopelodinheiro",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "free pakito",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "obrigadopelodinheiro",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "naisuuu!",
+            "score2": "2",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "old wolves",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

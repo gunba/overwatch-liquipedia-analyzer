@@ -1,0 +1,147 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "AFK Opening Cup",
+            "shortname": "AFK Opening Cup",
+            "tickername": "AFK Opening Cup",
+            "image": "AFK MENA allmode.png",
+            "icon": "AFK MENA allmode.png",
+            "organizer": "LA3EB Esports\t|organizer-link=https://esports.la3eb.com/",
+            "type": "Online",
+            "country": "Middle East",
+            "format": "Single Elimination",
+            "game": "overwatch",
+            "prizepool": "2500",
+            "localcurrency": "sar",
+            "date": "2020-11-27",
+            "bracket": "https://esports.la3eb.com/tournaments/overwatch-opening-cup",
+            "twitch": "la3eb_esports",
+            "discord": "3nW5amFVV6",
+            "instagram": "la3ebcom",
+            "twitter": "la3ebcom",
+            "team_number": "7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "The Ultimates",
+            "p1": "KssarPlayz|pos1=dps",
+            "p2": "YZNSA|pos2=dps",
+            "p3": "KSAA|pos3=tank",
+            "p4": "Antigon|pos4=tank",
+            "p5": "Boostio|pos5=sup|p5link=Boostio (Saudi Arabian player)",
+            "p6": "SirMajed|pos6=sup",
+            "t2title": "Substitute",
+            "t2p1": "FaKeLioN|t2p1flag=sa|t2pos1=tank",
+            "t2p2": "SnipKw|t2pos2=tank",
+            "t2p3": "Fuki|t2pos3=dps"
+        },
+        {
+            "team": "01 Esports",
+            "p1": "Quartz|pos1=dps",
+            "p2": "Youbi|pos2=dps",
+            "p3": "Goku|pos3=dps",
+            "p4": "Kraandop|pos4=tank",
+            "p5": "IMOH97|pos5=tank",
+            "p6": "ANJ|pos6=sup",
+            "p7": "m5rbh22|pos7=sup|p7link=One"
+        },
+        {
+            "team": "C4",
+            "p1": "IGamerx3|pos1=dps",
+            "p2": "Sazuri|pos2=dps",
+            "p3": "BlackSwordz|pos3=tank",
+            "p4": "Kitsukei|p4flag=|pos4=",
+            "p5": "ClaysterBorn|p5flag=|pos5=",
+            "p6": "bader|p6flag=|pos6=",
+            "p7": "verskaat|p7flag=|pos7="
+        },
+        {
+            "team": "Qudans",
+            "p1": "DOOS|p1flag=|pos1=",
+            "p2": "MESHAAL17|p2flag=|pos2=",
+            "p3": "ixyato|p3flag=|pos3=",
+            "p4": "BIGDADDY|p4flag=|pos4=",
+            "p5": "imZaxy|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "BlackHorse",
+            "p1": "Madara1161|pos1=dps",
+            "p2": "Braven|p2flag=tr|pos2=dps",
+            "p3": "Brain|pos3=tank",
+            "p4": "Baraa|p4flag=sa|pos4=tank",
+            "p5": "Adnar|pos5=sup",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Simpulater",
+            "p1": "Choxel7",
+            "p2": "kizkey|p2flag=",
+            "p3": "AJH_1|p3flag=",
+            "p4": "lavadelrey|p4flag=",
+            "p5": "asa50x|p5flag=",
+            "p6": "VioletCozy|p6flag=",
+            "p7": "vader|p7flag=",
+            "p8": "finite|p8flag=",
+            "p9": "OsamhGh|p9flag="
+        },
+        {
+            "team": "Strong\t|link=Strong (ME Team)",
+            "p1": "Ghogy|p1flag=sa|pos1=tank",
+            "p2": "Worusz|p2flag=",
+            "p3": "s3o71|p3flag=",
+            "p4": "72keem|p4flag=",
+            "p5": "Bookr|p5flag=",
+            "p6": "Qriint|p6flag="
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "2020-11-27",
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|C4|score=2}}",
+            "opponent2": "{{TeamOpponent|BlackHorse|score=1}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2020-11-27",
+            "opponent1": "{{TeamOpponent|Simpulater|score=0}}",
+            "opponent2": "{{TeamOpponent|01 Esports|score=2}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2020-11-27",
+            "opponent1": "{{TeamOpponent|Strong (ME Team)|score=0}}",
+            "opponent2": "{{TeamOpponent|The Ultimates|score=2}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2020-11-27",
+            "opponent1": "{{TeamOpponent|Qudans|score=0}}",
+            "opponent2": "{{TeamOpponent|C4|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2020-11-27",
+            "opponent1": "{{TeamOpponent|01 Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|The Ultimates|score=2}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2020-11-27",
+            "bestof": "5",
+            "opponent1": "{{TeamOpponent|C4|score=0}}",
+            "opponent2": "{{TeamOpponent|The Ultimates|score=3}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2020-11-27",
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|Qudans|score=0}}",
+            "opponent2": "{{TeamOpponent|01 Esports|score=2}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

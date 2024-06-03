@@ -1,0 +1,134 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Weekly",
+            "name": "GameBattles Overwatch 2 Online Tournament North America #9",
+            "shortname": "5v5 North America #9",
+            "tickername": "GameBattles North America #9",
+            "icon": "GameBattles icon lightmode.png",
+            "icondark": "GameBattles icon darkmode.png",
+            "image": "GameBattles lightmode.png",
+            "imagedark": "GameBattles darkmode.png",
+            "organizer": "GameBattles",
+            "series": "GameBattles",
+            "abbreviation": "GB",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "500",
+            "date": "2022-12-03",
+            "twitter": "gamebattles",
+            "discord": "gamebattles",
+            "facebook": "gamebattles",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--north---124/rules",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--north---124/bracket",
+            "team_number": "10",
+            "previous": "GameBattles_Overwatch_2_Online_Tournament/NA/8{{!}}#8",
+            "next": "GameBattles_Overwatch_2_Online_Tournament/NA/10{{!}}#10"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "December 3, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|altiora polaris|score=W}}",
+            "opponent2": "{{TeamOpponent|Fellowship eSports|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 3, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|qtip|score=W}}",
+            "opponent2": "{{TeamOpponent|outsiders|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 3, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Texas Roadhouse|score=L}}",
+            "opponent2": "{{TeamOpponent|Quatro Quatro|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "December 3, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|iGaming|score=L}}",
+            "opponent2": "{{TeamOpponent|altiora polaris|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "December 3, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Kessoku band|score=W}}",
+            "opponent2": "{{TeamOpponent|overlooked ent|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "December 3, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|citrus|score=W}}",
+            "opponent2": "{{TeamOpponent|qtip|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "December 3, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Quatro Quatro|score=W}}",
+            "opponent2": "{{TeamOpponent|we scrimmed twice|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "December 3, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|altiora polaris|score=L}}",
+            "opponent2": "{{TeamOpponent|Kessoku band|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "December 3, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|citrus|score=W}}",
+            "opponent2": "{{TeamOpponent|Quatro Quatro|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "December 3, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Kessoku band|score=L}}",
+            "opponent2": "{{TeamOpponent|citrus|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        }
+    ]
+}

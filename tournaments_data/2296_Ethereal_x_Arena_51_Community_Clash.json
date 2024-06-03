@@ -1,0 +1,986 @@
+{
+    "tournament_info": [
+        {
+            "name": "Ethereal x Arena 51 Community Clash",
+            "shortname": "Ethereal x Arena 51 Community Clash",
+            "tickername": "Ethereal x Arena 51 Community Clash",
+            "organizer": "Ethereal Esports",
+            "organizer-link": "http://discord.gg/EtherealEsports",
+            "organizer2": "Arena 51 Gaming",
+            "organizer2-link": "https://twitter.com/Arena_51_Gaming",
+            "type": "Online",
+            "country": "Europe",
+            "prizepool": "90",
+            "localcurrency": "eur",
+            "sdate": "2022-04-02",
+            "edate": "2022-04-03",
+            "liquipediatier": "5",
+            "bracket": "https://battlefy.com/ethrl-esports/ethereal-x-arena-51-community-clash/622e7a4a00a1e204a37980ce/stage/62310890b475da73ec822061/bracket/",
+            "rulebook": "https://battlefy.com/ethrl-esports/ethereal-x-arena-51-community-clash/622e7a4a00a1e204a37980ce/info?infoTab=rules",
+            "twitter": "Arena_51_Gaming",
+            "discord": "EtherealEsports",
+            "twitch": "arena_51_gaming",
+            "team_number": "12",
+            "game": "overwatch"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Nymphicus",
+            "p1": "Tsunderoll",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Ars\u00e9ne",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "ZeusTheGod",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Zenith",
+            "p4flag": "",
+            "pos4": "",
+            "p4link": "Zenith (European player)",
+            "p5": "Feeder",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "TorbyThang",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "Proxima Centauri",
+            "p1": "Benched",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Gungnir",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "IN1TIAL",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Bal0",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Circles",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Jessaiii",
+            "p6flag": "",
+            "pos6": "sup"
+        },
+        {
+            "team": "Aquila",
+            "p1": "AceMango",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "fattyfish",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Melody",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Pazuzu",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "cas",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Taz",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "Hjonk Attacc",
+            "p1": "Darcvox",
+            "p1flag": "",
+            "pos1": "sup",
+            "p2": "Bladery",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Estatica",
+            "p3flag": "nl",
+            "pos3": "tank",
+            "p4": "BishBashBosh",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "\u0191uwa\u0191uwa",
+            "p5flag": "",
+            "pos5": ""
+        },
+        {
+            "team": "SIGMAMALEGRINDSET",
+            "p1": "boyoing",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Ratsail",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Oak",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Bergi",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Emma",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "ReturnMonke",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "Ethereal Luna",
+            "p1": "eifelo",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Pasta",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Seyna",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Missssty",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "MiniMina",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Zipper",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "PingPing",
+            "p7flag": "",
+            "pos7": ""
+        },
+        {
+            "team": "Mandalorians",
+            "p1": "Alex001",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "KANSAI",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Warrkan",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Solnc",
+            "p4flag": "",
+            "pos4": "sup",
+            "p5": "Talos",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Simona",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Punn1k",
+            "p7flag": "",
+            "pos7": "",
+            "p8": "NATAN4ik",
+            "p8flag": "",
+            "pos8": ""
+        },
+        {
+            "team": "Rowen's pals and friends",
+            "p1": "\u01f4eordie\u015cteel",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Rowen",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Khrolar",
+            "p3flag": "ch",
+            "pos3": "sup",
+            "p4": "Weirdo",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Noodles",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Magick",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "Ethereal Elysium",
+            "p1": "Goldblooded",
+            "p1flag": "de",
+            "pos1": "sup",
+            "p2": "Frangipane",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Wardey",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "hira",
+            "pos4": "dps",
+            "p5": "BoomingLp",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Firefly",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "Ben & Jerrys",
+            "p1": "\u01fe\u0156\u0187\u01cd",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "BXVDRKY",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "adrxan",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "EinsKeks",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "DarqFoxx",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "\u0181\u0204N",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Skyess",
+            "p7flag": "",
+            "pos7": "sup"
+        },
+        {
+            "team": "Death Watch",
+            "p1": "Meowth",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Termi120",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "OverMars",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "\u041e\u0440\u043b\u0451\u043d\u043e\u043a",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "NotReal",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "\u041f\u0451\u0442\u0440\u042a\u0441\u0442\u043e\u0440\u043e\u0436",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Avgust",
+            "p7flag": "",
+            "pos7": "",
+            "p8": "Iceberg",
+            "p8flag": "",
+            "pos8": ""
+        },
+        {
+            "team": "Rewind",
+            "p1": "haydenolna32",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "DirePants",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "CynicalCake",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Charmandoure",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Human",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "ROSS",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "NaturE",
+            "p7flag": "",
+            "pos7": "",
+            "p8": "FTMG",
+            "p8flag": "",
+            "pos8": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Proxima Centauri",
+            "opponent1_score": 2,
+            "opponent2": "Hjonk Attacc",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rewind",
+            "opponent1_score": 2,
+            "opponent2": "Nymphicus",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Mandalorians",
+            "opponent1_score": 2,
+            "opponent2": "Ethereal Luna",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ethereal Elysium",
+            "opponent1_score": 2,
+            "opponent2": "Death Watch",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rowen's Pals and Friends",
+            "opponent1_score": 1,
+            "opponent2": "Proxima Centauri",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ben & Jerrys",
+            "opponent1_score": 2,
+            "opponent2": "Rewind",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Aquila",
+            "opponent1_score": 2,
+            "opponent2": "Mandalorians",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SIGMAMALEGRINDSET",
+            "opponent1_score": 2,
+            "opponent2": "Ethereal Elysium",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Proxima Centauri",
+            "opponent1_score": 1,
+            "opponent2": "Ben & Jerrys",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Mandalorians",
+            "opponent1_score": 0,
+            "opponent2": "SIGMAMALEGRINDSET",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ben & Jerrys",
+            "opponent1_score": 2,
+            "opponent2": "SIGMAMALEGRINDSET",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ethereal Elysium",
+            "opponent1_score": 2,
+            "opponent2": "Hjonk Attacc",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Aquila",
+            "opponent1_score": 1,
+            "opponent2": "Nymphicus",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rewind",
+            "opponent1_score": 2,
+            "opponent2": "Ethereal Luna",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rowen's Pals and Friends",
+            "opponent1_score": 2,
+            "opponent2": "Death Watch",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ethereal Elysium",
+            "opponent1_score": 2,
+            "opponent2": "Nymphicus",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Rewind",
+            "opponent1_score": 2,
+            "opponent2": "Rowen's Pals and Friends",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M6="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Proxima Centauri",
+            "opponent1_score": 2,
+            "opponent2": "Ethereal Elysium",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M3="
+        },
+        {
+            "date": "April 02, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Mandalorians",
+            "opponent1_score": 2,
+            "opponent2": "Rewind",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M4="
+        },
+        {
+            "date": "April 03, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Proxima Centauri",
+            "opponent1_score": 1,
+            "opponent2": "Mandalorians",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "April 03, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "SIGMAMALEGRINDSET|score=FF",
+            "opponent2": "Mandalorians|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M2="
+        },
+        {
+            "bestof": "5",
+            "date": "April 03, 2022",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ben & Jerrys",
+            "opponent1_score": 1,
+            "opponent2": "Mandalorians",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R6M1="
+        }
+    ]
+}

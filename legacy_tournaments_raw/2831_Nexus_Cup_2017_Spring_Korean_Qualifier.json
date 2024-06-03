@@ -1,0 +1,144 @@
+{
+    "tournament_info": [
+        {
+            "name": "Nexus Cup 2017 - Spring Korean Qualifier",
+            "shortname": "2016 Grand Finals",
+            "image": "Nexus_Cup_logo.jpg",
+            "icon": "Nexus_Cup_small.png",
+            "series": "Nexus Cup",
+            "organizer": "NetEase CC",
+            "organizer-link": "http://cc.163.com/",
+            "organizer2": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "China",
+            "format": "Single Elimination",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "",
+            "date": "2017-02-23",
+            "sdate": "",
+            "edate": "",
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "web": "",
+            "stream": "",
+            "challonge": "https://challonge.com/nexuscupspringkorqualification",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamfourth": "",
+            "team_number": "8",
+            "team1": "",
+            "team2": "",
+            "team3": "",
+            "team4": "",
+            "team5": "",
+            "team6": "",
+            "team7": "",
+            "team8": "",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Lunatic-Hai",
+            "p1": "Miro",
+            "p2": "Whoru |p2flag=kr",
+            "p3": "zunba",
+            "p4": "EscA",
+            "p5": "Ryujehong",
+            "p6": "tobi",
+            "c": "beast|cflag=kr|clink=beast (Kwang-jin Baek)",
+            "c2": "alwaysoov |c2flag=kr"
+        },
+        {
+            "team": "Team Kongdoo Uncia",
+            "p1": "Bubbly",
+            "p2": "Lucid",
+            "p3": "DNCE",
+            "p4": "Birdring",
+            "p5": "Panker",
+            "p6": "Butcher"
+        },
+        {
+            "team": "wNv.KR",
+            "link": "WNv_Teamwork/wNv.KR",
+            "p1": "Bdosin |p1flag=kr",
+            "p2": "JIN |p2flag=kr|p2link=JIN_(Jin_Yong_Jin)",
+            "p3": "DDing |p3flag=kr",
+            "p4": "Kalios |p4flag=kr",
+            "p5": "Curious |p5flag=kr",
+            "p6": "Hyeonu |p6flag=kr",
+            "p7": "Exia |p7flag=kr",
+            "c": "Crusty"
+        },
+        {
+            "team": "LW Red",
+            "link": "LW/LW_Red",
+            "p1": "NoName|p1flag=kr",
+            "p2": "Pine|p2flag=kr",
+            "p3": "ADIOS|p3flag=kr",
+            "p4": "r0ar|p4flag=kr",
+            "p5": "ArK|p5flag=kr",
+            "p6": "Who|p6flag=kr"
+        },
+        {
+            "team": "Mighty AOD",
+            "link": "Mighty/Mighty_AOD",
+            "p1": "ThornCut|p1flag=kr",
+            "p2": "LifQ|p2flag=kr",
+            "p3": "Sleep|p3link=Sleep (Korean player)|p3flag=kr",
+            "p4": "KariV|p4flag=kr",
+            "p5": "FaTe|p5flag=kr",
+            "p6": "diem|p6flag=kr",
+            "c": "Moon|cflag=kr"
+        },
+        {
+            "team": "MVP Infinity",
+            "link": "MVP/MVP_Infinity",
+            "p1": "WhyNot |p1flag=kr",
+            "p2": "Undine |p2flag=kr",
+            "p3": "OneFact |p3flag=kr",
+            "p4": "Sylph |p4flag=kr",
+            "p5": "EasyBro |p5flag=kr",
+            "p6": "Brek |p6flag=kr",
+            "P7": "BiaNcA|P7flag=kr"
+        },
+        {
+            "team": "Meta Athena",
+            "p1": "Hoon |p1flag=kr",
+            "p2": "Libero |p2flag=kr",
+            "p3": "Sayaplayer |p3flag=kr",
+            "p4": "NUS |p4flag=kr",
+            "p5": "Kris |p5flag=kr",
+            "p6": "Alpha |p6flag=kr",
+            "c": "RoyalLord|cflag=kr"
+        },
+        {
+            "team": "X6-Gaming",
+            "image": "X6-Gaming.png",
+            "p1": "GodsB|p1flag=kr",
+            "p2": "ChoiHyoBin|p2flag=kr",
+            "p3": "NoSmite|p3flag=kr",
+            "p4": "TIMEBOY|p4flag=kr",
+            "p5": "GILY|p5flag=kr",
+            "p6": "BeBe|p6flag=kr",
+            "c": "MuHoLee|cflag=kr",
+            "c2": "BaeDalKoo|c2flag=kr",
+            "c3": "MyoHyunKim|c3flag=kr"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "lw red",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "wnv.kr",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

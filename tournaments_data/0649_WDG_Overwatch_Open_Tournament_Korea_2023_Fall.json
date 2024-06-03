@@ -1,0 +1,258 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "name": "WDG Open Tournament Korea - 2023 Fall",
+            "shortname": "WDG Open Tournament Korea - 2023 Fall",
+            "series": "WDG",
+            "tickername": "WDG Open Korea 2023 Fall",
+            "image": "WDG Overwatch Open 2023 lightmode.png",
+            "imagedark": "WDG Overwatch Open 2023 darkmode.png",
+            "icon": "WDG Overwatch Open icon 2023 lightmode.png",
+            "icondark": "WDG Overwatch Open icon 2023 darkmode.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "WDG",
+            "sponsor": "[https://www.teencash.co.kr/home/main Teencash]",
+            "type": "Online",
+            "game": "overwatch2",
+            "country": "South Korea",
+            "format": "Round Robin<br>Double Elimination",
+            "prizepoolusd": "2500",
+            "sdate": "2023-09-05",
+            "edate": "2023-09-08",
+            "web": "https://www.wara.gg/bbs/board.php?bo_table=official&wr_id=216",
+            "twitter": "WDGKOREA",
+            "twitch": "wdg_esports",
+            "twitch2": "overwatchesportskr",
+            "facebook": "WDGofficial",
+            "bracket": "https://www.wara.gg/bbs/board.php?bo_table=official&wr_id=216",
+            "discord": "wdgtournament",
+            "team_number": "27"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "September 5, 2023 - 19:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "FM",
+            "opponent1_score": 1,
+            "opponent2": "\uc9c0\uc874\uc0cc\uc988\ub9c8\ud06c\uc880\ube44\uace0",
+            "opponent2_score": 2,
+            "optional": "R1M1="
+        },
+        {
+            "date": "September 5, 2023 - 19:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "MDY",
+            "opponent1_score": 0,
+            "opponent2": "JNGK",
+            "opponent2_score": 2,
+            "optional": "R1M2="
+        },
+        {
+            "date": "September 5, 2023 - 19:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Xero",
+            "opponent1_score": 2,
+            "opponent2": "Leamics FC",
+            "opponent2_score": 0,
+            "optional": "R1M3="
+        },
+        {
+            "date": "September 5, 2023 - 19:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ODH",
+            "opponent1_score": 0,
+            "opponent2": "T1 Esports Academy",
+            "opponent2_score": 2,
+            "optional": "R1M4="
+        },
+        {
+            "date": "September 5, 2023 - 19:40",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\uc9c0\uc874\uc0cc\uc988\ub9c8\ud06c\uc880\ube44\uace0",
+            "opponent1_score": 1,
+            "opponent2": "JNGK",
+            "opponent2_score": 2,
+            "optional": "R2M1="
+        },
+        {
+            "date": "September 5, 2023 - 19:40",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Xero",
+            "opponent1_score": 2,
+            "opponent2": "T1 Esports Academy",
+            "opponent2_score": 0,
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "September 8, 2023 - 15:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "overwatchesportskr",
+            "opponent1": "JNGK",
+            "opponent2": "Xero",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "September 5, 2023 - 19:40",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "FM",
+            "opponent1_score": 2,
+            "opponent2": "MDY",
+            "opponent2_score": 1,
+            "optional": "R1M5="
+        },
+        {
+            "date": "September 5, 2023 - 19:40",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Leamics FC",
+            "opponent1_score": 2,
+            "opponent2": "ODH",
+            "opponent2_score": 1,
+            "optional": "R1M6="
+        },
+        {
+            "date": "September 6, 2023 - 19:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "T1 Esports Academy",
+            "opponent1_score": 0,
+            "opponent2": "FM",
+            "opponent2_score": 2,
+            "optional": "R2M3="
+        },
+        {
+            "date": "September 6, 2023 - 19:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "\uc9c0\uc874\uc0cc\uc988\ub9c8\ud06c\uc880\ube44\uace0",
+            "opponent1_score": 0,
+            "opponent2": "Leamics FC",
+            "opponent2_score": 2,
+            "optional": "R2M4="
+        },
+        {
+            "date": "September 6, 2023 - 19:40",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "FM",
+            "opponent1_score": 2,
+            "opponent2": "Leamics FC",
+            "opponent2_score": 0,
+            "optional": "R3M1="
+        },
+        {
+            "bestof": "5",
+            "date": "September 8, 2023 - 16:30",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "overwatchesportskr",
+            "opponent1": "Xero",
+            "opponent2": "FM",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "September 8, 2023 - 18:00",
+            "date_timezone": "KST",
+            "youtube": "",
+            "twitch": "overwatchesportskr",
+            "opponent1": "JNGK",
+            "opponent2": "Xero",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "68.40m",
+                "score2": "125.19m",
+                "winner": "2"
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

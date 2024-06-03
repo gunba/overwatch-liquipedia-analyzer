@@ -1,0 +1,134 @@
+{{DISPLAYTITLE:Go4Overwatch Iberian Cup #20}}
+{{Go4Overwatch ES Navbox}}<br>
+{{Infobox league
+|name=Go4Overwatch Iberian Cup #20
+|image=ESL Overwatch Community Cup.png
+|series=Go4Overwatch IB
+|shortname=20
+|ticketname=Go4OW Iberian #20
+|organizer=ESL Spain
+|country=Europe
+|format=Single Elimination
+|type=Online
+|date=2017-08-14
+|prizepool=120
+|localcurrency=eur
+|prizepoolusd=141.91
+|game=Overwatch
+|web=https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-spain/
+|bracket=https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-iberica/cup-20/rankings/
+|liquipediatier=5|liquipediatiertype=Weekly
+|team_number=5
+}}
+
+==About==
+'''ESL Go4Overwatch Iberian Cup #20''' is the 20th Iberian installment of ESL Go4 cups.
+
+===Format===
+*'''General Rules''': Competitive Mode
+*'''Playoffs''': Single Elimination
+**Bracket: {{Abbr/Bo1}}
+**Semifinals: {{Abbr/Bo3}}
+**Finals: {{Abbr/Bo5}}
+
+
+==Prize Pool==
+{{TeamPrizePool|import=true|localcurrency=eur|points=go4
+|{{Slot|place=1|points=100|localprize=120}}
+|{{Slot|place=2|points=75}}
+|{{Slot|place=3|points=60}}
+|{{Slot|place=4|points=40}}
+|{{Slot|place=5|points=25}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=didex's Bulls
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Gremlins
+|p1=H1zzy|p1flag=pt
+|p2=Hydrixx|p2flag=pt
+|p3=Khalizz|p3flag=pt
+|p4=NoPants|p4flag=pt
+|p5=dYpPer|p5flag=pt
+|p6=kajo15|p6flag=pt
+|c=GizmomcS|cflag=pt
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ING DIREKT
+|p1=Networkz|p1flag=es
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Hallucination
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Limede's Salamanders
+|p1=FoKu|p1flag=pt
+|p2=Munsai|p2flag=pt
+|p3=limede|p3flag=pt
+|p4=rvsk0|p4flag=pt
+|p5=scofield|p5flag=pt
+|p6=lps|p6flag=pt
+}}
+{{box|end|padding=2em}}
+
+==Results==
+{{Bracket|Bracket/2L1DH2L|id=SIR04oVqWJ
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=1
+    |opponent1={{TeamOpponent|hallucination |score=0}}
+    |opponent2={{TeamOpponent|limede's salamanders|score=1}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|bestof=3
+    |opponent1={{TeamOpponent|didex's bulls|score=1}}
+    |opponent2={{TeamOpponent|limede's salamanders|score=2}}
+}}
+|R2M2={{Match
+    |opponent1={{TeamOpponent|gremlins|score=0}}
+    |opponent2={{TeamOpponent|ing direkt|score=2}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|bestof=5
+    |opponent1={{TeamOpponent|limede's salamanders|score=0}}
+    |opponent2={{TeamOpponent|ing direkt|score=3}}
+}}
+<!-- Third Place -->
+|RxMTP={{Match
+	|bestof=5
+    |opponent1={{TeamOpponent|didex's bulls|score=0}}
+    |opponent2={{TeamOpponent|gremlins|score=3}}
+}}
+}}
+
+==References==

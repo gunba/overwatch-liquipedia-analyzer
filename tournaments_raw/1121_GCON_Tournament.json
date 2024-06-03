@@ -1,0 +1,110 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "GCON Tournament",
+            "tickername": "GCON Tournament",
+            "shortname": "GCON Tournament",
+            "image": "GCON allmode.png",
+            "icon": "GCON icon allmode.png",
+            "organizer": "GCON\t|organizer-link=https://twitter.com/GCONEvents",
+            "type": "Online",
+            "country": "Saudi Arabia",
+            "prizepool": "6,000",
+            "localcurrency": "sar",
+            "sdate": "2022-02-23",
+            "edate": "2022-02-25",
+            "web": "https://gconevents.com/",
+            "bracket": "https://stcplay.gg/play/tournament/7231",
+            "instagram": "gconevents",
+            "twitter": "GCONEvents",
+            "team_number": "5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dishwashers\t|link=Dishwashers (Female Team)",
+            "p1": "Aeyyy|p1flag=",
+            "p2": "meeemyo|p2flag=",
+            "p3": "Rawanono|p3flag=",
+            "p4": "Bubul56|p4flag=",
+            "p5": "Ghaidaa|p5flag=",
+            "p6": "hessa747|p6flag="
+        },
+        {
+            "team": "GOLT",
+            "p1": "JEV|p1flag=",
+            "p2": "Electro|p2flag=",
+            "p3": "Dema|p3flag=",
+            "p4": "manarx|p4flag=",
+            "p5": "Shahad|p5flag=",
+            "p6": "shahad praym|p6flag=",
+            "p7": "Noura Alsaad|p7flag=",
+            "p8": "johara|p8flag="
+        },
+        {
+            "team": "Swift\t|link=Swift (Female Team)",
+            "p1": "Lerd|p1flag=",
+            "p2": "dalal|p2flag=",
+            "p3": "xwqit|p3flag=",
+            "p4": "iiHuda|p4flag=",
+            "p5": "Marceline|p5flag=",
+            "p6": "uiuox|p6flag=",
+            "p7": "ohureal|p7flag=",
+            "p8": "oiNayl|p8flag="
+        },
+        {
+            "team": "The Pretty Poisons",
+            "p1": "Realdena|p1flag=",
+            "p2": "Lamar|p2flag=",
+            "p3": "maisa|p3flag=",
+            "p4": "lilith|p4flag=",
+            "p5": "Soft|p5flag=",
+            "p6": "A1sha|p6flag="
+        },
+        {
+            "team": "Ambush",
+            "p1": "Lucy|p1flag=",
+            "p2": "Namine|p2flag=",
+            "p3": "ixhsq|p3flag=",
+            "p4": "riri|p4flag=",
+            "p5": "mimi|p5flag=",
+            "p6": "Lexa|p6flag=",
+            "p7": "amaall|p7flag=",
+            "p8": "Ryoof|p8flag="
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "February 23, 2022",
+            "opponent1": "{{TeamOpponent|Ambush|score=0}}",
+            "opponent2": "{{TeamOpponent|The Pretty Poisons|score=2}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "February 24, 2022",
+            "opponent1": "{{TeamOpponent|GOLT|score=2}}",
+            "opponent2": "{{TeamOpponent|Swift (Female Team)|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "February 24, 2022",
+            "opponent1": "{{TeamOpponent|Dishwashers (Female Team)|score=2}}",
+            "opponent2": "{{TeamOpponent|The Pretty Poisons|score=1}}",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "February 25, 2022",
+            "opponent1": "{{TeamOpponent|GOLT|score=0}}",
+            "opponent2": "{{TeamOpponent|Dishwashers (Female Team)|score=3}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "February 25, 2022",
+            "opponent1": "{{TeamOpponent|Swift (Female Team)|score=3}}",
+            "opponent2": "{{TeamOpponent|The Pretty Poisons|score=0}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

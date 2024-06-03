@@ -1,0 +1,230 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #42",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "42",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "game": "overwatch",
+            "type": "Online",
+            "date": "2017-03-19",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-42/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "63",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "previous": "Go4Overwatch/Europe/Weekly/41{{!}}Go4 Europe Cup #41",
+            "next": "Go4Overwatch/Europe/Weekly/43{{!}}Go4 Europe Cup #43"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Alfa Squad",
+            "p1": "Perttu|p1flag=",
+            "p2": "Talisman|p2flag=",
+            "p3": "BigG00se|p3flag=fi",
+            "p4": "cheridormi|p4flag=fi",
+            "p5": "akke|p5flag=",
+            "p6": "Lalli|p6flag="
+        },
+        {
+            "team": "Otamatone",
+            "p1": "CryZtal|p1flag=no",
+            "p2": "Gustav  |p2flag=se",
+            "p3": "Liveja  |p3flag=no",
+            "p4": "Othax|p4flag=es",
+            "p5": "Strider  |p5flag=no",
+            "p6": "ZorroSeveN  |p6flag=no"
+        },
+        {
+            "team": "ECV eSports",
+            "p1": "Vizyrion|p1flag=nl",
+            "p2": "Jig|p2flag=nl",
+            "p3": "Sensey|p3flag=nl",
+            "p4": "Vizility|p4flag=nl",
+            "p5": "Mahone|p5flag=nl",
+            "p6": "Sundays|p6flag=nl"
+        },
+        {
+            "team": "finmix",
+            "p1": "Bottomi|p1flag=fi",
+            "p2": "Faija|p2flag=fi",
+            "p3": "Gare|p3flag=fi",
+            "p4": "Wilhelmi|p4flag=fi",
+            "p5": "jankkeli|p5flag=fi",
+            "p6": "repomies|p6flag=fi"
+        },
+        {
+            "team": "ENCE eSports",
+            "p1": "BAITO|p1flag=fi",
+            "p2": "Desperado|p2flag=fi",
+            "p3": "Gare|p3flag=fi",
+            "p4": "lhcloudy|p4flag=fi",
+            "p5": "Trickwide|p5flag=fi",
+            "p6": "Ripa|p6flag=fi",
+            "c": "elfi|cflag=fi"
+        },
+        {
+            "team": "b\u00f6da socken",
+            "p1": "Dennia  |p1flag=se",
+            "p2": "Leodeddz|p2flag=se",
+            "p3": "Pug  |p3flag=se",
+            "p4": "bock1  |p4flag=se",
+            "p5": "kangakanga  |p5flag=se",
+            "p6": "snillo  |p6flag=se"
+        },
+        {
+            "team": "The Gatekeepers",
+            "p1": "bulldoq|p1flag=no",
+            "p2": "Pr0len|p2flag=no",
+            "p3": "EpicMouse|p3flag=no",
+            "p4": "Ouch|p4flag=no",
+            "p5": "STK|p5flag=nl",
+            "p6": "nesty|p6flag=nl"
+        },
+        {
+            "team": "Shooting Stars",
+            "p1": "Kao|p1flag=fr",
+            "p2": "Kyb|p2flag=fr|p2link=Kyb (French player)",
+            "p3": "Mess|p3flag=fr",
+            "p4": "Noomii  |p4flag=fr",
+            "p5": "Worss|p5flag=fr",
+            "p6": "ZyK  |p6flag=fr"
+        },
+        {
+            "team": "YaLLa eSports",
+            "p1": "dizzyy|p1flag=ae",
+            "p2": "Celestial|p2flag=ae",
+            "p3": "LastBoss|p3flag=ae",
+            "p4": "Customed|p4flag=ae",
+            "p5": "Pause|p5flag=ae",
+            "p6": "iPlayboy|p6flag=ae",
+            "c": "Klasu|cflag=fi"
+        },
+        {
+            "team": "Death eSport",
+            "p1": "Veteranjr|p1flag=fr",
+            "p2": "XEWER|p2flag=fr",
+            "p3": "Cyd|p3flag=fr",
+            "p4": "Ours2Rue|p4flag=fr",
+            "p5": "Jio|p5flag=fr",
+            "p6": "MoonL|p6flag=fr"
+        },
+        {
+            "team": "Copenhagen Flames",
+            "p1": "Hastr|p1flag=dk",
+            "p2": "Makaveli|p2flag=dk",
+            "p3": "naGGa|p3flag=dk",
+            "p4": "henningsen|p4flag=dk",
+            "p5": "Watio|p5flag=dk",
+            "p6": "Mauz|p6flag=dk",
+            "c": "Smokie|cflag=dk"
+        },
+        {
+            "team": "Beefy Smash Doods",
+            "p1": "Ice|p1flag=fi",
+            "p2": "khave  |p2flag=dk",
+            "p3": "Jellis  |p3flag=uk",
+            "p4": "Spice  |p4flag=uk",
+            "p5": "Wally  |p5flag=dk",
+            "p6": "Zynisch  |p6flag=uk",
+            "c": "Odd|cflag=fr"
+        },
+        {
+            "team": "Team Singularity Ninjas",
+            "p1": "Danii|p1flag=",
+            "p2": "Lind|p2flag=",
+            "p3": "Nerfdd|p3flag=",
+            "p4": "Kellex|p4flag=",
+            "p5": "MandeTrodser|p5flag=dk",
+            "p6": "Lelouch|p6flag=dk"
+        },
+        {
+            "team": "SuperMassive eSports",
+            "p1": "h3x|p1flag=tr",
+            "p2": "Suretler46|p2flag=tr",
+            "p3": "Yaga|p3flag=tr",
+            "p4": "arcade|p4flag=tr",
+            "p5": "he4rtbeat|p5flag=tr",
+            "p6": "edwin|p6flag=tr",
+            "c": "xertys|cflag=tr"
+        },
+        {
+            "team": "Team HoP e-Sport Crew",
+            "p1": "Alienhun28|p1flag=hu",
+            "p2": "Calas  |p2flag=hu",
+            "p3": "Cucu  |p3flag=hu",
+            "p4": "Konti|p4flag=hu",
+            "p5": "Res1st|p5flag=hu",
+            "p6": "ZTAtheNMI  |p6flag=hu"
+        },
+        {
+            "team": "NidhoGG E-sport",
+            "p1": "Coco lapin|p1flag=ch",
+            "p2": "Eneway|p2flag=be",
+            "p3": "Fr3Egun  |p3flag=fr",
+            "p4": "Nejiropxl  |p4flag=fr",
+            "p5": "PJV666  |p5flag=fr",
+            "p6": "mzQQQ  |p6flag=fr"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "nidhogg e-sport",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "alfa squad",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "nidhogg e-sport",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "alfa squad",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team singularity ninjas",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "alfa squad",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team singularity ninjas",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "alfa squad",
+            "score1": "2",
+            "win1": ""
+        },
+        {
+            "team2": "yalla esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "b\u00f6da socken",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

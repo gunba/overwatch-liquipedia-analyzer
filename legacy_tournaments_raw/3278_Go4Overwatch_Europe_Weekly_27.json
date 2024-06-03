@@ -1,0 +1,100 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #27",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "27",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2016-12-04",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-27/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "37",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Vitality",
+            "image": "",
+            "p1": "Asox |p1flag=fr",
+            "p2": "Riskin |p2flag=fr",
+            "p3": "Hexis |p3flag=be",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Potato Team",
+            "image": "",
+            "p1": "Fusions |p1flag=gb",
+            "p2": "Jona   |p2flag=nl",
+            "p3": "Lawliet_91   |p3flag=es",
+            "p4": "NuttyB   |p4flag=se",
+            "p5": "Smex   |p5flag=gb",
+            "p6": "Trob   |p6flag=no"
+        },
+        {
+            "team": "EURONICS Gaming",
+            "image": "",
+            "p1": "MeToR |p1flag=at",
+            "p2": "Casores   |p2flag=nl",
+            "p3": "Feverish  |p3flag=dk",
+            "p4": "Ged   |p4flag=uk",
+            "p5": "Petruskoff   |p5flag=fi",
+            "p6": "Sepi |p6flag=fi"
+        },
+        {
+            "team": "Centurions",
+            "image": "",
+            "p1": "Davin |p1flag=fi",
+            "p2": "Emperor |p2flag=se |p2link=Emperor (Swedish player)",
+            "p3": "Foxiz |p3flag=se",
+            "p4": "poks |p4flag=fi",
+            "p5": "Wasylak |p5flag=pl",
+            "p6": "Wayfast |p6flag=il"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "centurions",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "team vitality",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "centurions",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "potato team",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "euronics gaming",
+            "score2": "W",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "team vitality",
+            "score1": "-",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

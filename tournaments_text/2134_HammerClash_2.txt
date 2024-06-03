@@ -1,0 +1,270 @@
+{{DISPLAYTITLE:HammerClash #2}}
+
+{{Want_to_Help
+|issue=missing roster, flags and positions on teamcards
+|fix=add roster, flags and positions
+|date=20240101
+}}
+
+{{HammerClash_Navbox}}
+{{Infobox league
+|name=HammerClash #2
+|shortname=HC #2
+|series=HammerClash
+|image=
+|icon=
+|tickername=HammerClash #2
+|organizer=HammerKick
+|country=Europe
+|type=Online
+|format=Double Elimination
+|prizepool=150
+|localcurrency=eur
+|date=2021-12-19
+|liquipediatier=5
+|twitter=HammerKick_OW
+|twitch=hammerkick
+|bracket=https://play.toornament.com/en_GB/tournaments/5220646042434887680/stages/5220659106521325568/#nowhere
+|rulebook=https://play.toornament.com/en_US/tournaments/5220646042434887680/rules
+|team_number=8
+|game=overwatch
+|next=Hammerclash/4{{!}}#4
+}}
+
+==Information==
+===Format===
+*Double Elimination Bracket
+** All matches are {{Abbr/Ft2}}
+*All maps in the competitive map pool available. First pick per coin toss, after that maps are chosen by the loser of the previous map.
+
+==Prize Pool==
+{{TeamPrizePool|import=true|localcurrency=eur
+|{{Slot|localprize=100}}
+|{{Slot|localprize=50}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Benched Players
+|p1=Atsuya|p1flag=fr|pos1=dps
+|p2=|p2flag=|pos2=
+|p3=V4lou|p3flag=fr|pos3=tank
+|p4=Bicool|p4flag=fr|pos4=tank
+|p5=HappyDJ|p5flag=fr|pos5=sup
+|p6=|p6flag=|pos6=
+}}
+{{TeamCard
+|team=Hydra Sthéno
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+}}
+{{TeamCard
+|team=PipiBoite
+|p1=Nestor|p1flag=fr|pos1=dps
+|p2=White|p2flag=fr|pos2=dps|p2link=White (French player)
+|p3=Loyn|p3flag=fr|pos3=tank
+|p4=Xzukay|p4flag=fr|pos4=tank
+|p5=Sidoux|p5flag=fr|pos5=sup
+|p6=Razorbake|p6flag=fr|pos6=sup
+}}
+{{TeamCard
+|team=PipiBox
+|p1=Asking|pos1=dps
+|p2=Zaouri|p2flag=fr|pos2=dps
+|p3=Sosucre|p3flag=fr|pos3=tank
+|p4=Lunio|p4flag=fr|pos4=tank
+|p5=Wez|p5flag=be|pos5=sup
+|p6=Flowy35|p6flag=fr|pos6=sup
+}}
+{{TeamCard
+|team=Pipibox Reported
+|p1=Koé|p1flag=fr|pos1=dps
+|p2=Soumis1Trick|p2flag=fr|pos2=dps
+|p3=Skycraft|p3flag=fr|pos3=tank
+|p4=Flambax|p4flag=fr|pos4=tank
+|p5=Sachatouille|p5flag=fr|pos5=tank
+|p6=NoahFPS|p6flag=fr|pos6=sup
+|p7=Funnygastro|p7flag=fr|pos7=sup
+|p8=EASTPACKMAN|p8flag=fr|pos8=sup
+}}
+{{TeamCard
+|team=Rock Gaming
+|p1=Kilaa|pos1=dps
+|p2=Braven|p2flag=ir|pos2=dps
+|p3=Kroxz|pos3=tank
+|p4=Booga|p4flag=uk|pos4=tank
+|p5=Natlocks|pos5=sup
+|p6=Reviewz|pos6=sup
+}}
+{{TeamCard
+|team=Sexiest Gamers
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=Pancake|p3flag=fr|pos3=tank
+|p4=Izko|p4flag=fr|pos4=tank
+|p5=CaptainPrash|pos5=sup
+|p6=|p6flag=|pos6=
+}}
+{{TeamCard
+|team=Washed up players
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|p6=|p6flag=|pos6=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/8U4L2DSL1D|id=r90We2d1XE
+
+<!-- Upper Bracket Quarterfinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=2021-12-19 - 13:00 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Rock Gaming|score=W}}
+    |opponent2={{TeamOpponent|Pipibox Reported|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |date=2021-12-19 - 13:00 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|PipiBoite|score=2}}
+    |opponent2={{TeamOpponent|Washed up players|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M3={{Match
+    |date=2021-12-19 - 13:00 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Sexiest Gamers|score=2}}
+    |opponent2={{TeamOpponent|Hydra Sthéno|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M4={{Match
+    |date=2021-12-19 - 13:00 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|PipiBox|score=2}}
+    |opponent2={{TeamOpponent|Benched Players|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R2M1={{Match
+    |date=2021-12-19 - 13:40 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Rock Gaming|score=2}}
+    |opponent2={{TeamOpponent|PipiBoite|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+    |date=2021-12-19 - 13:40 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Sexiest Gamers|score=0}}
+    |opponent2={{TeamOpponent|PipiBox|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match
+    |date=2021-12-19 - 16:20 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Rock Gaming|score=2}}
+    |opponent2={{TeamOpponent|PipiBox|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M5={{Match
+    |date=2021-12-19 - 13:40 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Washed up players|score=2}}
+    |opponent2={{TeamOpponent|Pipibox Reported|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M6={{Match
+    |date=2021-12-19 - 13:40 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Benched Players|score=2}}
+    |opponent2={{TeamOpponent|Hydra Sthéno|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R2M3={{Match
+    |date=2021-12-19 - 14:20 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Sexiest Gamers|score=2}}
+    |opponent2={{TeamOpponent|Washed up players|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M4={{Match
+    |date=2021-12-19 - 14:20 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|PipiBoite|score=W}}
+    |opponent2={{TeamOpponent|Benched Players|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match
+    |date=2021-12-19 - 15:00 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Sexiest Gamers|score=1}}
+    |opponent2={{TeamOpponent|PipiBoite|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match
+    |date=2021-12-19 - 17:00 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|PipiBox|score=2}}
+    |opponent2={{TeamOpponent|PipiBoite|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R5M1={{Match
+    |date=2021-12-19 - 17:40 {{Abbr/CET}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Rock Gaming|score=1}}
+    |opponent2={{TeamOpponent|PipiBox|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

@@ -1,0 +1,1408 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "Will English IVitational",
+            "abbreviation": "IV",
+            "name": "Will English IVitational 5",
+            "shortname": "Will English IVitational 5",
+            "tickername": "Will English IVitational 5",
+            "image": "Will English IVitational.png",
+            "organizer": "Will English IV",
+            "organizer-link": "https://twitter.com/WillEnglishIV",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Schaumburg",
+            "venue": "[https://us.belong.gg/arenas/Schaumburg-Foxes Belong Arena Schaumburg]",
+            "format": "",
+            "game": "overwatch2",
+            "prizepoolusd": "1,500",
+            "sdate": "2023-01-14",
+            "edate": "2023-01-15",
+            "web": "",
+            "bracket": "https://battlefy.com/will-english-iv/the-will-english-ivitational-5-lan/63b0bcb4ca3764555346e28d/info?infoTab=details",
+            "youtube": "",
+            "discord": "",
+            "rulebook": "https://docs.google.com/document/d/1lIqesivkYhU8uzKikqgrEgtZ5Cnu-HjKksy7ipbybqQ/edit",
+            "twitch": "willenglishiv",
+            "twitter": "willenglishiv",
+            "team_number": "14"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Bro Love",
+            "p1": "Benevolence",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "React",
+            "pos2": "dps",
+            "p3": "AV2RY",
+            "pos3": "tank",
+            "p4": "p0int",
+            "pos4": "sup",
+            "p5": "zulexz",
+            "p5flag": "pr",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Ambiemae",
+            "t2c1flag": "us",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "Don't Mess with Texas",
+            "p1": "Matrix",
+            "pos1": "dps",
+            "p2": "Rymazing",
+            "pos2": "dps",
+            "p3": "Dynasty",
+            "pos3": "dps",
+            "p4": "Lyte",
+            "pos4": "tank",
+            "p5": "Momentum",
+            "pos5": "sup",
+            "p6": "Karova",
+            "pos6": "sup"
+        },
+        {
+            "team": "Gambit",
+            "p1": "UcantCghost",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Ame",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "ManweAinur",
+            "pos3": "tank",
+            "p3link": "Manwe",
+            "p4": "Pando",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "Sketch",
+            "pos5": "sup"
+        },
+        {
+            "team": "Geohazard",
+            "p1": "Bonesaw",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Vyrul",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "ALW",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Stratocaster",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "Shocker",
+            "p5flag": "us",
+            "pos5": "sup"
+        },
+        {
+            "team": "Good Boys",
+            "p1": "StarDrummer",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "juneau",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Keegan",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "ThatAFKNoob",
+            "pos4": "sup",
+            "p5": "quesawolf",
+            "p5flag": "us",
+            "pos5": "sup"
+        },
+        {
+            "team": "Letter League",
+            "link": "Hive Five",
+            "p1": "AJMR",
+            "pos1": "dps",
+            "p2": "peace",
+            "pos2": "dps",
+            "p3": "sniper",
+            "pos3": "tank",
+            "p4": "Wicca",
+            "pos4": "sup",
+            "p5": "Abyss",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "elijah",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Lofi Aim",
+            "p1": "Kabe",
+            "pos1": "dps",
+            "p2": "Performance",
+            "pos2": "dps",
+            "p3": "mycrazycat",
+            "pos3": "dps",
+            "p4": "Akash",
+            "pos4": "tank",
+            "p5": "GRAB",
+            "pos5": "sup",
+            "p6": "squid",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Madero",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "Northwestern Wildcats",
+            "p1": "Hida",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Majestic",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Newb",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "Bizarre",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "OneTrick",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Mazemel",
+            "p6flag": "us",
+            "pos6": "sup"
+        },
+        {
+            "team": "OG RGN",
+            "p1": "Chopper",
+            "pos1": "dps",
+            "p2": "Boat",
+            "pos2": "dps",
+            "p3": "Crimson",
+            "pos3": "tank",
+            "p4": "Schipp",
+            "pos4": "tank",
+            "p5": "Lava",
+            "pos5": "tank",
+            "p6": "Neptune",
+            "pos6": "sup",
+            "p6link": "Neptune (American Player)",
+            "p7": "Cjay",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Yogi",
+            "t2c1flag": "us",
+            "t2c1pos": "coach",
+            "t2c2": "ThatAFKNoob",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "Redbird Esports",
+            "p1": "Vision",
+            "pos1": "dps",
+            "p2": "Lethal",
+            "pos2": "dps",
+            "p3": "GiG",
+            "pos3": "tank",
+            "p4": "MovingFish7",
+            "pos4": "tank",
+            "p5": "Saadist",
+            "pos5": "tank",
+            "p6": "Lyar",
+            "pos6": "sup",
+            "p7": "Renko",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Flutey",
+            "t2c1pos": "head coach",
+            "t2c2": "Wheats",
+            "t2c2pos": "coach",
+            "t2c3": "Aeroplayne",
+            "t2c3pos": "manager"
+        },
+        {
+            "team": "Shikigami",
+            "p1": "Snowl",
+            "pos1": "dps",
+            "p2": "stone",
+            "pos2": "dps",
+            "p3": "Faded",
+            "pos3": "tank",
+            "p4": "Deeko",
+            "pos4": "sup",
+            "p5": "Meman",
+            "p5flag": "us",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Mercury",
+            "t2c1pos": "coach",
+            "t2c2": "Aeroplayne",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "Team Primal",
+            "p1": "Nefarial",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "ifurgat",
+            "p2flag": "",
+            "pos2": "tank",
+            "p3": "Regrow",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "HAZE",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Racer",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Tom",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Flawless",
+            "p7flag": "",
+            "pos7": "",
+            "p7link": "Flawless (North American Player)"
+        },
+        {
+            "team": "Timeless: Die Lit",
+            "p1": "Bun",
+            "pos1": "dps",
+            "p2": "zeruhh",
+            "pos2": "dps",
+            "p3": "Astronexz",
+            "pos3": "tank",
+            "p4": "Infekted",
+            "pos4": "tank",
+            "p5": "CLEAR",
+            "pos5": "tank",
+            "p6": "graham",
+            "pos6": "sup",
+            "p7": "Vega",
+            "pos7": "sup",
+            "p8": "pink",
+            "pos8": "sup",
+            "p9": "HydrA",
+            "p9flag": "kr",
+            "pos9": "sup",
+            "t2title": "Staff",
+            "t2c1": "jVenom",
+            "t2c1pos": "coach",
+            "t2c2": "debit",
+            "t2c2pos": "manager",
+            "t2c3": "LilLucio",
+            "t2c3pos": "manager"
+        },
+        {
+            "team": "SXU Esports",
+            "p1": "Julian",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Xecutor",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Monkey",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "alphabet",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "citronboss27",
+            "p5flag": "us",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Pioneer",
+            "t2c1flag": "us",
+            "t2c1pos": "coach"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "January 14, 2023 - 12:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team primal|score=FF",
+            "opponent2": "shikigami",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "January 14, 2023 - 12:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bro love",
+            "opponent1_score": 1,
+            "opponent2": "geohazard",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "January 14, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports",
+            "opponent1_score": 2,
+            "opponent2": "shikigami",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "January 14, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "og rgn",
+            "opponent1_score": 2,
+            "opponent2": "geohazard",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "January 14, 2023 - 14:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "willenglishiv",
+            "opponent1": "redbird esports",
+            "opponent2": "og rgn",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "January 14, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "geohazard",
+            "opponent1_score": 2,
+            "opponent2": "team primal|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "January 14, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "shikigami",
+            "opponent1_score": 2,
+            "opponent2": "bro love",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "January 14, 2023 - 14:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "geohazard",
+            "opponent1_score": 0,
+            "opponent2": "shikigami",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "3",
+            "date": "January 14, 2023 - 17:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "don't mess with texas",
+            "opponent1_score": 2,
+            "opponent2": "sxu esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "January 14, 2023 - 17:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "good boys",
+            "opponent1_score": 0,
+            "opponent2": "letter league",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "January 14, 2023 - 17:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "willenglishiv",
+            "opponent1": "timeless: die lit",
+            "opponent1_score": 2,
+            "opponent2": "lofi aim",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "January 14, 2023 - 17:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "gambit",
+            "opponent1_score": 2,
+            "opponent2": "northwestern wildcats",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "January 14, 2023 - 18:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "don't mess with texas",
+            "opponent1_score": 2,
+            "opponent2": "letter league",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "January 14, 2023 - 18:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "timeless: die lit",
+            "opponent1_score": 2,
+            "opponent2": "gambit",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "January 14, 2023 - 19:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "don't mess with texas",
+            "opponent1_score": 1,
+            "opponent2": "timeless: die lit",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "January 14, 2023 - 18:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "good boys",
+            "opponent1_score": 2,
+            "opponent2": "sxu esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "January 14, 2023 - 18:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "northwestern wildcats",
+            "opponent1_score": 0,
+            "opponent2": "lofi aim",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "January 14, 2023 - 19:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "gambit",
+            "opponent1_score": 2,
+            "opponent2": "good boys",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "January 14, 2023 - 19:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "letter league",
+            "opponent1_score": 2,
+            "opponent2": "lofi aim",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "January 14, 2023 - 20:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "gambit",
+            "opponent1_score": 0,
+            "opponent2": "letter league",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "3",
+            "date": "January 15, 2023 - 12:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "og rgn",
+            "opponent1_score": 2,
+            "opponent2": "gambit",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "January 14, 2023 - 20:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "don't mess with texas",
+            "opponent1_score": 2,
+            "opponent2": "shikigami",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "January 14, 2023 - 21:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "timeless: die lit",
+            "opponent1_score": 2,
+            "opponent2": "geohazard",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "January 15, 2023 - 12:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports",
+            "opponent1_score": 2,
+            "opponent2": "letter league",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "January 15, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "og rgn",
+            "opponent1_score": 2,
+            "opponent2": "don't mess with texas",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "January 15, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "timeless: die lit",
+            "opponent1_score": 2,
+            "opponent2": "redbird esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "January 15, 2023 - 14:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "og rgn",
+            "opponent1_score": 0,
+            "opponent2": "timeless: die lit",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "January 15, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "shikigami",
+            "opponent1_score": 2,
+            "opponent2": "gambit",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "January 15, 2023 - 13:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "letter league",
+            "opponent1_score": 2,
+            "opponent2": "geohazard",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "January 15, 2023 - 14:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports",
+            "opponent1_score": 2,
+            "opponent2": "shikigami",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "January 15, 2023 - 14:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "don't mess with texas",
+            "opponent1_score": 2,
+            "opponent2": "letter league",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "January 15, 2023 - 15:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "redbird esports",
+            "opponent1_score": 2,
+            "opponent2": "don't mess with texas",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "January 15, 2023 - 16:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "og rgn",
+            "opponent1_score": 0,
+            "opponent2": "redbird esports",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "January 15, 2023 - 17:00",
+            "date_timezone": "CT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "timeless: die lit",
+            "opponent1_score": 2,
+            "opponent2": "redbird esports",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

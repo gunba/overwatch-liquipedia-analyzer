@@ -1,0 +1,114 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "name": "OVERWATCH OPEN TOURNAMENT JAPAN 2022 Season 1",
+            "shortname": "OPENTOURNAMENT JP 2022 S1",
+            "series": "OPENTEST",
+            "abbreviation": "OPENTEST",
+            "tickername": "OPENTEST JP 2022 S1",
+            "image": "Overwatch OPENTOURNAMENT.png",
+            "icon": "Opentest icon.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "WDG",
+            "organizer2-link": "https://twitter.com/wrdngameleague",
+            "sponsor": "[https://ko.roccat.org/ ROCCAT]<br>[https://www.dongsuh.co.kr/2017/02_products/01_brand_view.asp?idx=10 Maxim T.O.P]",
+            "type": "Online",
+            "country": "Japan",
+            "format": "Single Elimination",
+            "prizepoolusd": "1,366",
+            "prizepool": "200,000",
+            "localcurrency": "jpy",
+            "sdate": "2022-11-19",
+            "edate": "2022-11-27",
+            "web": "https://www.wara.gg/bbs/board.php?bo_table=official&wr_id=174",
+            "twitter": "wdgesportsjp",
+            "twitch": "wdg_esports",
+            "facebook": "WDGofficial",
+            "bracket": "https://challonge.com/ebkbphpa",
+            "discord": "jT7U3WGYGp",
+            "team_number": "19"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "winner": "",
+            "date": "November 26, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Chaos Theory (Japanese team)|score=0}}",
+            "opponent2": "{{TeamOpponent|HOP e-Sports|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "winner": "",
+            "date": "November 26, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u307b\u308d\u3088\u3044|score=0}}",
+            "opponent2": "{{TeamOpponent|Invincible|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "winner": "",
+            "date": "November 26, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Unsold Stuff Gaming|score=2}}",
+            "opponent2": "{{TeamOpponent|Unicorn|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "winner": "",
+            "date": "November 26, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|FUNCAST|score=2}}",
+            "opponent2": "{{TeamOpponent|\u30a4\u30aa\u30f3\u4fe1\u8005|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "winner": "",
+            "date": "November 27, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|HOP e-Sports|score=3}}",
+            "opponent2": "{{TeamOpponent|Invincible|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "winner": "",
+            "date": "November 27, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Unsold Stuff Gaming|score=3}}",
+            "opponent2": "{{TeamOpponent|FUNCAST|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "winner": "",
+            "date": "November 27, 2022",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|HOP e-Sports|score=0}}",
+            "opponent2": "{{TeamOpponent|Unsold Stuff Gaming|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        }
+    ]
+}

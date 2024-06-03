@@ -1,0 +1,145 @@
+{
+    "tournament_info": [
+        {
+            "name": "Pro-Gamer League 2016 - Summer",
+            "shortname": "Summer",
+            "image": "",
+            "series": "PGL",
+            "organizer": "PGL",
+            "organizer2": "",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "China",
+            "city": "Wuhan",
+            "format": "'''Group Stage''':<br>Round Robin<br>'''Playoffs''':<br>Single Elimination",
+            "prizepool": "60,000",
+            "localcurrency": "cny",
+            "prizepoolusd": "9,000",
+            "date": "2016-07-21",
+            "sdate": "",
+            "edate": "",
+            "liquipediatier": "{{TierText/3}}",
+            "web": "http://www.pgl-china.com/",
+            "stream": "http://www.douyu.com/640774",
+            "challonge": "",
+            "teamfirst": "igfire",
+            "teamsecond": "jhg",
+            "teamthird": "yl",
+            "teamfourth": "dsg",
+            "team_number": "4",
+            "team1": "",
+            "team2": "",
+            "team3": "",
+            "team4": "",
+            "team5": "",
+            "team6": "",
+            "team7": "",
+            "team8": "",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "DS Gaming",
+            "image": "DS Gaming logo.png",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        },
+        {
+            "team": "JH Gaming",
+            "p1": "\u9633\u5149|p1flag=cn",
+            "p2": "\u77b3\u6cfd|p2flag=cn",
+            "p3": "\u4e1c\u6d77|p3flag=cn",
+            "p4": "\u6bc1\u68a6|p4flag=cn",
+            "p5": "\u767d\u5ba2|p5flag=cn",
+            "p6": "\u57fa\u6069|p6flag=cn"
+        },
+        {
+            "team": "iG.Fire",
+            "link": "Invictus_Gaming/iG.Fire",
+            "p1": "LINKIN",
+            "p2": "PAOPAO",
+            "p3": "Naiba",
+            "p4": "ROY",
+            "p5": "Tresor",
+            "p6": "Yuanqi",
+            "c": "Muzi"
+        },
+        {
+            "team": "Team YL",
+            "image": "Team YL logo.png",
+            "p1": "|p1flag=cn",
+            "p2": "|p2flag=cn",
+            "p3": "|p3flag=cn",
+            "p4": "|p4flag=cn",
+            "p5": "|p5flag=cn",
+            "p6": "|p6flag=cn"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "jhg",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "igfire",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": [
+        {
+            "key": "match1",
+            "team1": "yl",
+            "games1": "1",
+            "team2": "igfire",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match2",
+            "team1": "jhg",
+            "games1": "2",
+            "team2": "dsg",
+            "games2": "0",
+            "winner": ""
+        },
+        {
+            "key": "match3",
+            "team1": "igfire",
+            "games1": "2",
+            "team2": "jhg",
+            "games2": "0",
+            "winner": "1"
+        },
+        {
+            "key": "match4",
+            "team1": "dsg",
+            "games1": "0",
+            "team2": "yl",
+            "games2": "2",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "team1": "igfire",
+            "games1": "2",
+            "team2": "dsg",
+            "games2": "1",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "team1": "jhg",
+            "games1": "2",
+            "team2": "yl",
+            "games2": "1",
+            "winner": "1"
+        }
+    ]
+}

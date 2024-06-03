@@ -1,0 +1,173 @@
+{{DISPLAYTITLE:Pro-Gamer League 2016 - Summer}}
+{{Infobox league
+|name=Pro-Gamer League 2016 - Summer
+|shortname=Summer
+|image=
+|series=PGL
+|organizer=PGL
+|organizer2=
+|sponsor=
+|type=Offline
+|country=China
+|city=Wuhan
+|format='''Group Stage''':<br>Round Robin<br>'''Playoffs''':<br>Single Elimination
+|prizepool=60,000
+|localcurrency=cny
+|prizepoolusd=9,000
+|date=2016-07-21
+|sdate=
+|edate=
+|liquipediatier={{TierText/3}}
+|web=http://www.pgl-china.com/
+|stream=http://www.douyu.com/640774
+|challonge=
+|teamfirst=igfire
+|teamsecond=jhg
+|teamthird=yl
+|teamfourth=dsg
+|team_number=4
+|team1=
+|team2=
+|team3=
+|team4=
+|team5=
+|team6=
+|team7=
+|team8=
+|previous=
+|next=
+}}
+{{TOClimit|3}}
+'''Pro-Gamer League 2016 - Summer''' is a comprehensive e-Sports tournament organized by PGL.
+
+==Information==
+===Prize Pool===
+60,000 {{Abbr/CNY}} (~9,000 {{Abbr/USD}}) is spread among the teams as seen below:
+{{prize pool start|localcurrency=cny|cutafter=4}}
+{{prize pool slot|place=1|usdprize=4,500|localprize=30,000|igfire |lastvs1=jhg |lastscore1=3 |lastvsscore1=1 }}
+{{prize pool slot|place=2|usdprize=3,000|localprize=20,000|jhg |lastvs1=igfire |lastscore1=1 |lastvsscore1=3 }}
+{{prize pool slot|place=3|usdprize=1,500|localprize=10,000|yl |wdl1=1/-/2 }}
+{{prize pool slot|place=4|usdprize=0|localprize=0|dsg |wdl1=0/-/3 }}
+{{Prize pool end}}
+''Conversion values taken from [http://www.xe.com xe.com] at 2016-07-11. 1 {{Abbr/CNY}} ≈ 0.150 {{Abbr/USD}}'
+
+===Format===
+*'''Group Stage''': Round Robin
+**All matches are Bo3.
+**Top 2 advance to Finals.
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Tongxin |b1flag=cn
+|b2= |b2flag=cn
+|b3= |b3flag=cn
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=DS Gaming
+|image=DS Gaming logo.png
+|p1=|p1flag=cn
+|p2=|p2flag=cn
+|p3=|p3flag=cn
+|p4=|p4flag=cn
+|p5=|p5flag=cn
+|p6=|p6flag=cn
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=JH Gaming
+|p1=阳光|p1flag=cn
+|p2=瞳泽|p2flag=cn
+|p3=东海|p3flag=cn
+|p4=毁梦|p4flag=cn
+|p5=白客|p5flag=cn
+|p6=基恩|p6flag=cn
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=iG.Fire
+|link=Invictus_Gaming/iG.Fire
+|p1=LINKIN
+|p2=PAOPAO
+|p3=Naiba
+|p4=ROY
+|p5=Tresor
+|p6=Yuanqi
+|c=Muzi
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team YL
+|image=Team YL logo.png
+|p1=|p1flag=cn
+|p2=|p2flag=cn
+|p3=|p3flag=cn
+|p4=|p4flag=cn
+|p5=|p5flag=cn
+|p6=|p6flag=cn
+}}
+{{box|end}}
+
+==Results==
+===Group Stage===
+{{GroupTableStart| Group A |width=450px
+|date=July 21, 2016
+|stream=
+|lrthread=
+|finished=true
+}}
+{{GroupTableSlot| {{Team|igfire}} |place=1|win_m=3|lose_m=0|win_r=6|lose_r=2|diff=+4|bg=up}}
+{{GroupTableSlot| {{Team|jhg}}    |place=2|win_m=2|lose_m=1|win_r=4|lose_r=3|diff=+1|bg=up}}
+{{GroupTableSlot| {{Team|yl}}     |place=3|win_m=1|lose_m=2|win_r=4|lose_r=4|diff=0|bg=down}}
+{{GroupTableSlot| {{Team|dsg}}    |place=4|win_m=0|lose_m=3|win_r=1|lose_r=6|diff=-5|bg=down}}
+{{GroupTableEnd}}
+{{LegacyMatchList|id=xK4tzKP0fY|title=Group A matches |width=450px
+|match1={{MatchMaps
+|team1=yl |games1=1
+|team2=igfire |games2=2
+|winner=2
+}}
+|match2={{MatchMaps
+|team1=jhg |games1=2
+|team2=dsg |games2=0
+|winner=
+}}
+|match3={{MatchMaps
+|team1=igfire |games1=2
+|team2=jhg |games2=0
+|winner=1
+}}
+|match4={{MatchMaps
+|team1=dsg |games1=0
+|team2=yl |games2=2
+|winner=2
+}}
+|match5={{MatchMaps
+|team1=igfire |games1=2
+|team2=dsg |games2=1
+|winner=1
+}}
+|match6={{MatchMaps
+|team1=jhg |games1=2
+|team2=yl |games2=1
+|winner=1
+}}
+}}
+
+===Playoffs===
+{{LegacyBracket|Bracket/2|2SETeamBracket|type=team|id=aK0OE6g1A4
+|R1=Finals
+<!-- FINALS -->
+|R1D1team=igfire |R1D1score=3 |R1D1win=1
+|R1D2team=jhg |R1D2score=1 |R1D2win=
+}}
+
+==External links==
+*{{flag/cn}} [http://www.pgl-china.com/h-nd-194-101_415.html Official Announcement]
+==References==
+{{Reflist}}

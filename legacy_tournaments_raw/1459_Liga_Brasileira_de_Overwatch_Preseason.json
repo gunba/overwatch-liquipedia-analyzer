@@ -1,0 +1,479 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/5}}",
+            "series": "LBOW",
+            "name": "Liga Brasileira de Overwatch Preseason",
+            "image": "",
+            "icon": "",
+            "organizer": "LBOW",
+            "sponsor": "[http://www.marduktv.com.br/ MKTV]",
+            "type": "Online",
+            "country": "Brazil",
+            "prizepool": "",
+            "sdate": "2016-06-07",
+            "edate": "2016-07-31",
+            "web": "http://www.lbow.com.br/",
+            "bracket": "http://lbow.challonge.com/preseason2016",
+            "teamfirst": "black dragons",
+            "teamsecond": "keep",
+            "teamthird": "2kill",
+            "teamthird2": "viex gaming",
+            "team_number": "32"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Keep Gaming",
+            "p1": "ole |p1flag=br",
+            "p2": "Fastie |p2flag=br",
+            "p3": "powah |p3flag=br",
+            "p4": "TYGER |p4flag=br",
+            "p5": "prod |p5flag=br",
+            "p6": "wings |p6flag=br |p6link=wings (Brazilian player)",
+            "qualifier": ""
+        },
+        {
+            "team": "g0re",
+            "image": "g0re logo.png",
+            "imagesize": "",
+            "p1": "RAFAO |p1flag=br",
+            "p2": "krk |p2flag=br",
+            "p3": "Headless |p3flag=br",
+            "p4": "ZacEfron |p4flag=br |p4link=Dhiren",
+            "p5": "Gemini |p5flag=br",
+            "p6": "dehzinho |p6flag=br",
+            "qualifier": ""
+        },
+        {
+            "team": "NoMercy e-Sports",
+            "image": "",
+            "imagesize": "",
+            "p1": "Aryador |p1flag=br",
+            "p2": "Kalaz |p2flag=br",
+            "p3": "Seth |p3flag=br",
+            "p4": "revoltz |p4flag=br",
+            "p5": "winiking |p5flag=br",
+            "p6": "Stark |p6flag=br",
+            "qualifier": ""
+        },
+        {
+            "team": "Team Warriors",
+            "image": "",
+            "imagesize": "",
+            "p1": "Caveiira |p1flag=br",
+            "p2": "Imperius |p2flag=br",
+            "p3": "Kaeru |p3flag=br",
+            "p4": "Nilknarf |p4flag=br",
+            "p5": "RViel |p5flag=br",
+            "p6": "Peridot |p6flag=br",
+            "qualifier": ""
+        },
+        {
+            "team": "Royal Gaming Quaint",
+            "p1": "Kurt |p1flag=br",
+            "p2": "storm |p2flag=br",
+            "p3": "nada |p3flag=br",
+            "p4": "Zito |p4flag=br",
+            "p5": "eXquisite |p5flag=br",
+            "p6": "Debronx |p6flag=br",
+            "qualifier": ""
+        },
+        {
+            "team": "GATHERS eSports",
+            "image": "Gathers eSports.png",
+            "imagesize": "",
+            "p1": "Domiinguera |p1flag=br",
+            "p2": "Silk |p2flag=br",
+            "p3": "Schei |p3flag=br",
+            "p4": "Henrycacz |p4flag=br",
+            "p5": "Jaraxxus |p5flag=br",
+            "p6": "Gwynbleidd |p6flag=br",
+            "qualifier": ""
+        },
+        {
+            "team": "MyP e-Sports",
+            "image": "Myp.png",
+            "imagesize": "",
+            "p1": "Henry |p1flag=br",
+            "p2": "JEECK |p2flag=br",
+            "p3": "dgm |p3flag=br",
+            "p4": "Grakul |p4flag=br",
+            "p5": "Rikemat |p5flag=br",
+            "p6": "BUCK |p6flag=br",
+            "qualifier": ""
+        },
+        {
+            "team": "Fire Dragons Gaming",
+            "p1": "newLegends |p1flag=br",
+            "p2": "nvD |p2flag=br",
+            "p3": "Gelito |p3flag=br",
+            "p4": "pandaz0rd |p4flag=br",
+            "p5": "Tsumiki |p5flag=br",
+            "p6": "leogra |p6flag=br",
+            "qualifier": ""
+        },
+        {
+            "team": "2Kill Gaming",
+            "image": "2Kill_Gaming.png",
+            "p1": "InVicTubladE |p1flag=br",
+            "p2": "Snow |p2flag=br|p2link=Snow (Brazilian player)",
+            "p3": "Zero |p3flag=br |p3link=Zero (Brazilian player)",
+            "p4": "Insanityz  |p4flag=br",
+            "p5": "Djinn  |p5flag=br",
+            "p6": "Ciskow |p6flag=br"
+        },
+        {
+            "team": "Team Innova",
+            "image": "Team_Innova.png",
+            "p1": "vKR |p1flag=br",
+            "p2": "Pray |p2flag=br",
+            "p3": "RnT |p3flag=br",
+            "p4": "paton |p4flag=br",
+            "p5": "nan |p5flag=br",
+            "p6": "Draek |p6flag=br"
+        },
+        {
+            "team": "Uranus Gaming",
+            "image": "Uranus Gaming.png",
+            "p1": "Pinga1 |p1flag=br",
+            "p2": "babalu |p2flag=br",
+            "p3": "rakz |p3flag=br",
+            "p4": "urso |p4flag=br",
+            "p5": "B1tchx |p5flag=br",
+            "p6": "Kubah |p6flag=br"
+        },
+        {
+            "team": "Tiranus e-Sports",
+            "image": "",
+            "p1": "sung |p1flag=br",
+            "p2": "china |p2flag=br|p2link=china (Brazilian player)",
+            "p3": "Lampiaum |p3flag=br",
+            "p4": "Raisen |p4flag=br",
+            "p5": "Duksten |p5flag=br",
+            "p6": "Infinitywar |p6flag=br"
+        },
+        {
+            "team": "Eternal Rally",
+            "image": "",
+            "p1": "Itnevist |p1flag=br",
+            "p2": "Arkanjo |p2flag=br",
+            "p3": "Mattank |p3flag=br",
+            "p4": "Bruno |p4flag=br",
+            "p5": "Extt |p5flag=br",
+            "p6": "Jaum |p6flag=br"
+        },
+        {
+            "team": "Summoned",
+            "image": "",
+            "p1": "Ozzy |p1flag=br",
+            "p2": "Mastersistem |p2flag=br",
+            "p3": "L\u00facifer |p3flag=br",
+            "p4": "Bns |p4flag=br",
+            "p5": "Light |p5link=Light (Brazilian Player)|p5flag=br",
+            "p6": "Stiflermanz |p6flag=br"
+        },
+        {
+            "team": "Innercium",
+            "image": "",
+            "p1": "Dihlone |p1flag=br",
+            "p2": "Razornerd |p2flag=br",
+            "p3": "Nexus |p3flag=br",
+            "p4": "Joetrier |p4flag=br",
+            "p5": "Ziegler |p5flag=br",
+            "p6": "Error |p6flag=br"
+        },
+        {
+            "team": "Black Dragons e-Sports",
+            "image": "",
+            "p1": "duduzera |p1flag=br",
+            "p2": "neil |p2flag=br",
+            "p3": "KREPSKER |p3flag=br",
+            "p4": "likera |p4flag=br",
+            "p5": "wankador |p5flag=br",
+            "p6": "alemao |p6flag=br"
+        },
+        {
+            "team": "Argonauts",
+            "image": "",
+            "p1": "Nico |p1flag=br|p1link=Nico (Brazilian player)",
+            "p2": "Gabjoy |p2flag=br",
+            "p3": "Poke |p3flag=br",
+            "p4": "Deps |p4flag=br",
+            "p5": "Mikoto |p5flag=br",
+            "p6": "Galego |p6flag=br"
+        },
+        {
+            "team": "Old Noobz",
+            "image": "",
+            "p1": "Macroiss |p1flag=br",
+            "p2": "Hittez |p2flag=br",
+            "p3": "Dragoon |p3flag=br",
+            "p4": "Swooper |p4flag=br",
+            "p5": "Reload |p5flag=br",
+            "p6": "Massakration |p6flag=br"
+        },
+        {
+            "team": "E-Shinobi Gaming",
+            "image": "E-Shinobi Gaming.png",
+            "p1": "Fear |p1flag=br |p1link=Fear (Brazilian player)",
+            "p2": "Hellblazer |p2flag=br",
+            "p3": "Oprocurado |p3flag=br",
+            "p4": "Ban |p4flag=br",
+            "p5": "Pyramid |p5flag=br",
+            "p6": "Link |p6flag=br |p6link=Link (Brazilian player)"
+        },
+        {
+            "team": "HonorBR",
+            "image": "HonorBR.png",
+            "p1": "Jotta |p1flag=br",
+            "p2": "Xraizen |p2flag=br",
+            "p3": "Fid0 |p3flag=br",
+            "p4": "Mawkog |p4flag=br",
+            "p5": "Molina |p5flag=br",
+            "p6": "S7ven |p6flag=br"
+        },
+        {
+            "team": "KaMiKazes",
+            "image": "",
+            "p1": "Raizen |p1flag=br",
+            "p2": "Kraft |p2flag=br",
+            "p3": "Danielkiller |p3flag=br",
+            "p4": "Carnage |p4flag=br",
+            "p5": "Nemolusco |p5flag=br",
+            "p6": "Darkside |p6flag=br"
+        },
+        {
+            "team": "WaiFury Team",
+            "image": "",
+            "p1": "Guigz |p1flag=br",
+            "p2": "Imakawa |p2flag=br",
+            "p3": "Doug |p3flag=br",
+            "p4": "Casa |p4flag=br",
+            "p5": "Mateusarbex |p5flag=br",
+            "p6": "Kholmyr |p6flag=br"
+        },
+        {
+            "team": "The Panthers",
+            "image": "",
+            "p1": "OTKwempers |p1flag=br",
+            "p2": "Shady |p2flag=br",
+            "p3": "Underdeath |p3flag=br",
+            "p4": "Radiel |p4flag=br",
+            "p5": "Rradunz |p5flag=br",
+            "p6": "Luke |p6flag=br"
+        },
+        {
+            "team": "Gate Guardians",
+            "image": "",
+            "p1": "ShadowGOD |p1flag=br",
+            "p2": "Kaiyasaki |p2flag=br",
+            "p3": "Mamonacwb |p3flag=br",
+            "p4": "Maths |p4flag=br",
+            "p5": "Darkfallen |p5flag=br",
+            "p6": "Renamon |p6flag=br"
+        },
+        {
+            "team": "Viex Gaming",
+            "image": "Viex Gaming.png",
+            "p1": "Blumm |p1flag=br",
+            "p2": "\u00c1\u00e1\u00e1 |p2flag=br",
+            "p3": "Rep |p3flag=br",
+            "p4": "Sard |p4flag=br",
+            "p5": "Wyvern911 |p5flag=br",
+            "p6": "Supersonic |p6flag=br"
+        },
+        {
+            "team": "Warlords",
+            "image": "",
+            "p1": "Nano|p1flag=br|p1link=Nano (Brazilian player)",
+            "p2": "Felipe |p2flag=br",
+            "p3": "Dodofu |p3flag=br",
+            "p4": "Saulzera |p4flag=br",
+            "p5": "TMATTEI |p5flag=br",
+            "p6": "Leno |p6flag=br"
+        },
+        {
+            "team": "Team Jesus",
+            "image": "",
+            "p1": "Sleepers |p1flag=br",
+            "p2": "Pearlyk |p2flag=br",
+            "p3": "Soulive |p3flag=br",
+            "p4": "Dunha |p4flag=br",
+            "p5": "Harleyquinn |p5flag=br",
+            "p6": "Gafanhoto |p6flag=br"
+        },
+        {
+            "team": "NYXE",
+            "image": "",
+            "p1": "Mav |p1flag=br",
+            "p2": "Sn4rfx |p2flag=br",
+            "p3": "Nextage |p3flag=br",
+            "p4": "Leomcp |p4flag=br",
+            "p5": "Wagneralfaro |p5flag=br",
+            "p6": "Ninext |p6flag=br"
+        },
+        {
+            "team": "Red Lizards e-Sports",
+            "image": "Red Lizards e-Sports.png",
+            "p1": "R10 |p1flag=br",
+            "p2": "Karma |p2flag=br|p2link=Karma (Brazilian player)",
+            "p3": "BigPiru |p3flag=br",
+            "p4": "MasterChef |p4flag=br",
+            "p5": "Gannicus |p5flag=br",
+            "p6": "HunterXz1 |p6flag=br"
+        },
+        {
+            "team": "Vou te Abra\u00e7ar",
+            "image": "",
+            "p1": "China |p1flag=br|p1link=China (Brazilian player)",
+            "p2": "Vblopes |p2flag=br",
+            "p3": "Tataz1nhow |p3flag=br",
+            "p4": "Doidaum13 |p4flag=br",
+            "p5": "Thogalego |p5flag=br",
+            "p6": "Hexed |p6flag=br"
+        },
+        {
+            "team": "Kureiji Panchi",
+            "image": "",
+            "p1": "Monsoon |p1flag=br",
+            "p2": "Andreycs |p2flag=br",
+            "p3": "Bryneex |p3flag=br",
+            "p4": "Register |p4flag=br",
+            "p5": "Thys |p5flag=br",
+            "p6": "Scoourge |p6flag=br"
+        },
+        {
+            "team": "DarkWatch Reapers",
+            "image": "Darkwatch_Reapers.png",
+            "p1": "Tyra |p1flag=br",
+            "p2": "Kyo |p2flag=br",
+            "p3": "Natsu |p3flag=br",
+            "p4": "Kazuki |p4flag=br",
+            "p5": "Warrada |p5flag=br",
+            "p6": "Mazzei |p6flag=br"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "nomercy e-sports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "the panthers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "nomercy e-sports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "the panthers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "nomercy e-sports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "the panthers",
+            "score1": "0",
+            "win1": "2"
+        },
+        {
+            "team2": "nomercy e-sports",
+            "score2": "0",
+            "win2": "2",
+            "key": "R4W1",
+            "team1": "innova",
+            "score1": "0",
+            "win1": "2"
+        },
+        {
+            "team2": "team warriors",
+            "score2": "0",
+            "win2": "2",
+            "key": "R1D33",
+            "team1": "argonauts",
+            "score1": "W",
+            "win1": ""
+        },
+        {
+            "team2": "royal gaming quaint",
+            "score2": "2",
+            "win2": "0",
+            "key": "R2D1",
+            "team1": "g0re",
+            "score1": "W",
+            "win1": ""
+        },
+        {
+            "team2": "royal gaming quaint",
+            "score2": "0",
+            "win2": "2",
+            "key": "R3W9",
+            "team1": "g0re",
+            "score1": "2",
+            "win1": "0"
+        },
+        {
+            "team2": "gathers",
+            "score2": "2",
+            "win2": "0",
+            "key": "R4D1",
+            "team1": "team jesus",
+            "score1": "2",
+            "win1": "0"
+        },
+        {
+            "team2": "gathers",
+            "score2": "0",
+            "win2": "2",
+            "key": "R5W3",
+            "team1": "team jesus",
+            "score1": "0",
+            "win1": "2"
+        },
+        {
+            "team2": "innova",
+            "score2": "0",
+            "win2": "2",
+            "key": "R6W1",
+            "team1": "viex gaming",
+            "score1": "2",
+            "win1": "0"
+        },
+        {
+            "team2": "black dragons",
+            "score2": "2",
+            "win2": "0",
+            "key": "R5W1",
+            "team1": "keep",
+            "score1": "2",
+            "win1": "0"
+        },
+        {
+            "team2": "black dragons",
+            "score2": "2",
+            "win2": "0",
+            "key": "R8D1",
+            "team1": "2kill",
+            "score1": "0",
+            "win1": "2"
+        },
+        {
+            "team2": "black dragons",
+            "score2": "3",
+            "win2": "1",
+            "score21": "",
+            "score22": "",
+            "key": "R9W1",
+            "team1": "keep",
+            "score1": "1",
+            "win1": "3"
+        }
+    ],
+    "match_maps": []
+}

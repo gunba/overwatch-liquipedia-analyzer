@@ -1,0 +1,262 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "series": "Assembly",
+            "name": "Assembly Winter 2017 BYOC #2",
+            "shortname": "Winter 2017 BYOC 2",
+            "image": "Assembly_Winter_2017.jpg",
+            "organizer": "Assembly Organizing",
+            "organizer-link": "http://www.assembly.org/asmorg",
+            "sponsor": "",
+            "game": "",
+            "type": "Offline",
+            "country": "Finland",
+            "city": "Helsinki",
+            "venue": "",
+            "format": "",
+            "prizepool": "1,640",
+            "localcurrency": "EUR",
+            "prizepoolusd": "1,762",
+            "date": "2017-02-04",
+            "web": "http://www.assembly.org",
+            "bracket": "http://tournaments.peliliiga.fi/winter17/tournaments/overwatch-byoc-2/brackets/index",
+            "twitch": "",
+            "twitch2": "",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamfourth": "",
+            "team_number": "10",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "map4": "",
+            "map5": "",
+            "map6": "",
+            "map7": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Cow's Grotto",
+            "p1": "TheOnlyCow|p1flag=fi",
+            "p2": "Wonbo|p2flag=fi",
+            "p3": "Grizzlyshift|p3flag=fi",
+            "p4": "joonas|p4flag=fi",
+            "p5": "dragonslayer|p5flag=fi",
+            "p6": "Kaces|p6flag=fi"
+        },
+        {
+            "team": "Drift Klubben",
+            "p1": "Lalli|p1flag=fi",
+            "p2": "KissA|p2flag=fi",
+            "p3": "Kyveri|p3flag=fi",
+            "p4": "Perttu|p4flag=fi",
+            "p5": "Whated|p5flag=fi",
+            "p6": "NotAh|p6flag=fi"
+        },
+        {
+            "team": "en tunne kipua",
+            "p1": "xippeli|p1flag=fi",
+            "p2": "Rodamliv|p2flag=fi",
+            "p3": "Kooma|p3flag=fi",
+            "p4": "Joke|p4flag=fi",
+            "p5": "DashWithIt|p5flag=fi",
+            "p6": "Venotrix|p6flag=fi"
+        },
+        {
+            "team": "Hook n Cook",
+            "p1": "gimppa|p1flag=fi",
+            "p2": "purpl3shock|p2flag=fi",
+            "p3": "Coverduck|p3flag=fi",
+            "p4": "Vava|p4flag=fi",
+            "p5": "Sinisteri|p5flag=fi",
+            "p6": "sotilasseppo|p6flag=fi"
+        },
+        {
+            "team": "Juuhelics",
+            "p1": "Pege|p1flag=fi",
+            "p2": "jUGU|p2flag=fi",
+            "p3": "Dankfin|p3flag=fi",
+            "p4": "sarionikka|p4flag=fi",
+            "p5": "Senkko|p5flag=fi",
+            "p6": "Vaksu|p6flag=fi"
+        },
+        {
+            "team": "Nerf Gaming",
+            "image": "nerfgaminglogo.png",
+            "p1": "Konna|p1flag=fi",
+            "p2": "Dommels|p2flag=fi",
+            "p3": "Nitro|p3flag=fi |p3link=Nitro (Finnish player)",
+            "p4": "Tonder|p4flag=fi",
+            "p5": "Eleanthas|p5flag=fi",
+            "p6": "Zypi|p6flag=fi"
+        },
+        {
+            "team": "Panic Art eSports",
+            "p1": "Tatux|p1flag=fi",
+            "p3": "kepa|p3flag=fi",
+            "p2": "Setlet|p2flag=fi",
+            "p4": "sadisti|p4flag=fi",
+            "p5": "qladi|p5flag=fi",
+            "p6": "Anatec|p6flag=fi"
+        },
+        {
+            "team": "Random",
+            "p1": "demishade|p1flag=fi",
+            "p2": "|p2flag=fi",
+            "p3": "|p3flag=fi",
+            "p4": "|p4flag=fi",
+            "p5": "|p5flag=fi",
+            "p6": "|p6flag=fi"
+        },
+        {
+            "team": "Speq",
+            "p1": "nugetti|p1flag=fi",
+            "p2": "Emilkk|p2flag=fi",
+            "p3": "creo|p3flag=fi",
+            "p4": "santtulanttu|p4flag=fi",
+            "p5": "njaksu|p5flag=fi",
+            "p6": "Allyjee|p6flag=fi"
+        },
+        {
+            "team": "Teambag",
+            "p1": "daaapo|p1flag=fi",
+            "p2": "MineTech|p2flag=fi",
+            "p3": "TheVoidBacon|p3flag=fi",
+            "p4": "Support76|p4flag=fi",
+            "p5": "WildRage|p5flag=fi",
+            "p6": "Deathsinger|p6flag=fi"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "nerf gaming",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "en tunne kipua",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "speq",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "panic art esports",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "drift klubben",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "teambag",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "hook n cook",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "juuhelics",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "panic art esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "nerf gaming",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "juuhelics",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "drift klubben",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "drift klubben",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "nerf gaming",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "hook n cook",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "teambag",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "speq",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "en tunne kipua",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "teambag",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "panic art esports",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "en tunne kipua",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D2",
+            "team1": "juuhelics",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "juuhelics",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "panic art esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "panic art esports",
+            "score2": "1",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "nerf gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "nerf gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "drift klubben",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

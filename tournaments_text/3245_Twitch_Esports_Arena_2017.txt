@@ -1,0 +1,79 @@
+{{DISPLAYTITLE:Twitch Esports Arena 2017}}
+{{Infobox league
+|liquipediatier=1|liquipediatiertype=Showmatch
+|name=Twitch Esports Arena 2017
+|image=Twitch 2012 allmode.png
+|icon=Twitch 2012 icon allmode.png
+|organizer=Twitch
+|type=Offline
+|country=United States
+|city=Los Angeles
+|venue=[https://en.wikipedia.org/wiki/Los_Angeles_Convention_Center Los Angeles Convention Center]
+|prizepoolusd=18000
+|game=overwatch
+|date=2017-06-15
+|twitch=twitchesports
+|team_number=2
+}}
+
+==Information==
+*Takes place at E3 2017 in the Twitch Esports Arena
+*The [[Overwatch_World_Cup/2017|Overwatch World Cup 2017]] rosters for Canada and the USA are revealed for the first time before the match
+
+===Format===
+* Teams will play one '''4 Game Set'''.
+
+===Broadcast talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Jason Kaplan
+|b2=Ster |b2name=Steven Serge|b2flag=us
+}}
+
+==Prize Pool==
+{{prize pool start }}
+{{prize pool slot|place=w |united states |usdprize=9000 |lastvs1=canada |lastscore1=4 |lastvsscore1=0}}
+{{prize pool slot|place=l |canada |usdprize=9000 |lastvs1=united states  |lastscore1=0 |lastvsscore1=4}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{Team card columns start|cols=4}}
+{{box|start|padding=2em}}
+{{TeamCardMix
+|team=Canada
+|p1=Roolf|p1flag=ca|p1team=c9
+|p2=Surefour|p2flag=ca|p2team=c9
+|p3=Agilities|p3flag=ca|p3team=imt
+|p4=Mangachu|p4flag=ca|p4team=renegades
+|p5=Joemeister|p5flag=ca|p5team=faze clan
+|p6=xQc|p6flag=ca|p6team=yikes
+}}
+{{box|break|padding=2em}}
+{{TeamCardMix
+|team=United States
+|p1=FCTFCTN|p1flag=us|p1team=faze clan
+|p2=Rawkus|p2flag=us|p2team=faze clan
+|p3=Adam|p3flag=us|p3team=c9
+|p4=coolmatt69|p4flag=us|p4team=
+|p5=sinatraa|p5flag=us|p5team=selfless
+|p6=JAKE|p6flag=us|p6team=lg evil
+}}
+{{box|end}}
+{{Team card columns end}}
+
+==Results==
+{{SingleMatch|id=kLgDWOFPP6
+|{{Match
+    |bestof=4
+    |date=June 15, 2017 - 18:15 {{Abbr/PDT}}
+    |youtube=|twitch=twitchesports
+    |opponent1={{TeamOpponent|usa}}
+    |opponent2={{TeamOpponent|canada}}
+    |map1={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Lijiang Tower|mode=Control|score1=3|score2=0|winner=1}}
+	|overgg=4433
+}}
+}}

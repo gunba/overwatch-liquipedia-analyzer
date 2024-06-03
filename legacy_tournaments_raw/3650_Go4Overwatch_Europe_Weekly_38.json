@@ -1,0 +1,225 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #38",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "38",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "game": "overwatch",
+            "type": "Online",
+            "date": "2017-02-19",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-38/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "44",
+            "previous": "Go4Overwatch/Europe/Weekly/37{{!}}Go4 Europe Cup #37",
+            "next": "Go4Overwatch/Europe/Weekly/39{{!}}Go4 Europe Cup #39"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "nerdRage",
+            "p1": "Fusions |p1flag=gb",
+            "p2": "Jona   |p2flag=nl",
+            "p3": "Lawliet_91   |p3flag=es",
+            "p4": "NuttyB   |p4flag=se",
+            "p5": "Smex   |p5flag=gb",
+            "p6": "Trob   |p6flag=no",
+            "c": "Bloxi|cflag=us"
+        },
+        {
+            "team": "finmix",
+            "p1": "Bottomi|p1flag=fi",
+            "p2": "Faija|p2flag=fi",
+            "p3": "Gare|p3flag=fi",
+            "p4": "Wilhelmi|p4flag=fi",
+            "p5": "jankkeli|p5flag=fi",
+            "p6": "repomies|p6flag=fi"
+        },
+        {
+            "team": "Royal Bandits",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "ALTERNATE aTTaX",
+            "p1": "Talyz|p1flag=de",
+            "p2": "cRNKz|p2flag=de",
+            "p3": "Bossvoice|p3flag=de",
+            "p4": "NexX|p4flag=de",
+            "p5": "Ruby|p5flag=se",
+            "p6": "nil|p6flag=fi"
+        },
+        {
+            "team": "Movistar Riders",
+            "p1": "neptuNo",
+            "p2": "Dante",
+            "p3": "Logix",
+            "p4": "Finnsi",
+            "p5": "CWoosH",
+            "p6": "Kolsti |p6flag=fr",
+            "c": "S\u00e9ns|cflag=es"
+        },
+        {
+            "team": "Team HoP e-Sport Crew",
+            "p1": "Alienhun28|p1flag=hu",
+            "p2": "Calas|p2flag=hu",
+            "p3": "Cucu  |p3flag=hu",
+            "p4": "Hykleri|p4flag=hu",
+            "p5": "Konti|p5flag=hu",
+            "p6": "Res1st|p6flag=hu"
+        },
+        {
+            "team": "BeefySmashDoods",
+            "p1": "Ice|p1flag=fi",
+            "p2": "Jellis|p2flag=uk",
+            "p3": "Spice|p3flag=uk",
+            "p4": "Wally|p4flag=dk",
+            "p5": "Zynisch|p5flag=uk",
+            "p6": "khave|p6flag=dk"
+        },
+        {
+            "team": "Oslo Lions",
+            "p1": "Iko |p1flag=no",
+            "p2": "Invision |p2flag=no",
+            "p3": "mkL|p3flag=no",
+            "p4": "Decod |p4flag=no",
+            "p5": "iPN |p5flag=no",
+            "p6": "Tricky|p6flag=no",
+            "c": "|cflag="
+        },
+        {
+            "team": "x4ckers",
+            "p1": "DeadlyMich |p1flag=il",
+            "p2": "KAFEEEEEE |p2flag=il",
+            "p3": "Mystic |p3flag=il",
+            "p4": "ShonP |p4flag=il",
+            "p5": "Torus |p5flag=il",
+            "p6": "fragon |p6flag=il"
+        },
+        {
+            "team": "Copenhagen Flames",
+            "p1": "Hastrup|p1flag=dk",
+            "p2": "henningsen|p2flag=dk",
+            "p3": "Makaveli|p3flag=dk",
+            "p4": "naGGa|p4flag=dk",
+            "p5": "Pachoot|p5flag=dk",
+            "p6": "Watio|p6flag=dk"
+        },
+        {
+            "team": "Helsinki REDS",
+            "p1": "Ruape |p1flag=fi",
+            "p2": "Exceed|p2flag=fi",
+            "p3": "Woomera|p3flag=fi",
+            "p4": "BBR |p4flag=fi",
+            "p5": "prettyWise|p5flag=fi",
+            "p6": "Effix|p6flag=fi",
+            "c": "Tuutsi |cflag=fi"
+        },
+        {
+            "team": "Wizards Club",
+            "p1": "st0ne|p1flag=es",
+            "p2": "scatmo|p2flag=es",
+            "p3": "roscor|p3flag=es",
+            "p4": "lork|p4flag=es",
+            "p5": "ZoK3R|p5flag=es",
+            "p6": "kurch|p6flag=es",
+            "c": "Soun|cflag=es"
+        },
+        {
+            "team": "Grand Danois",
+            "p1": "Kellex |p1flag=",
+            "p2": "Nerfdd |p2flag=",
+            "p3": "MandeTrodser  |p3flag=dk",
+            "p4": "Danii |p4flag=",
+            "p5": "Lind |p5flag=",
+            "p6": "Lelouch|p6flag=dk"
+        },
+        {
+            "team": "k1ck eSports Club",
+            "p1": "Addicted",
+            "p2": "kiler4fun",
+            "p3": "Phatt",
+            "p4": "didex",
+            "p5": "Horthic|p5flag=pt",
+            "p6": "LUN|p6flag=pt"
+        },
+        {
+            "team": "VMP",
+            "p1": "Freni|p1flag=fi",
+            "p2": "JoonasH|p2flag=fi",
+            "p3": "PapaNasse|p3flag=fi",
+            "p4": "SKIPAH|p4flag=fi",
+            "p5": "j\u00f6nssoni|p5flag=fi",
+            "p6": "perisynti|p6flag=fi"
+        },
+        {
+            "team": "Vivi's Adventure",
+            "p1": "Henzu|p1flag=se",
+            "p2": "Mwumbwahti|p2flag=se",
+            "p3": "ELLIVOTE|p3flag=se",
+            "p4": "LullSiSH|p4flag=se",
+            "p5": "Zekor|p5flag=se",
+            "p6": "BAm|p6flag=se"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "vivi's adventure",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "nerdrage",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "vivi's adventure",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "nerdrage",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "grand danois",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "nerdrage",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "grand danois",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "movistar riders",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "nerdrage",
+            "score2": "1",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "helsinki reds",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

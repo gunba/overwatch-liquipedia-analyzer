@@ -1,0 +1,176 @@
+{{Want_to_Help
+|issue=missing roster, flags and positions on teamcards
+|fix=add roster, flags and positions
+|date=20240409
+}}
+
+{{Infobox league
+|name=Displate Trophy 2nd edition
+|shortname=Displate Trophy 2nd edition
+|image=
+|icon=
+|tickername=Displate Trophy 2nd edition
+|organizer=DSC Esport
+|country=France
+|type=Online
+|game=overwatch2
+|format=Double Elimination
+|prizepool=50
+|localcurrency=eur
+|date=2023-03-25
+|liquipediatier=5
+|twitter=
+|twitch=
+|bracket=https://challonge.com/fr/uxape1au
+|rulebook=
+|team_number=6
+}}
+
+==Information==
+===Format===
+*Double Elimination bracket
+**All matches ''(excl. Round 1 matches and Grand Finals)'' are {{Ft|2}}
+**Round 1 matches are {{Ft|1}}
+**Grand Finals are {{Ft|3}}
+
+===Prize Pool===
+{{TeamPrizePool|localcurrency=eur
+|{{Slot|localprize=50}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=MontQ Eternal
+|p1=TsuSHI|p1flag=fr|pos1=dps
+|p2=Friome|p2flag=fr|pos2=dps
+|p3=Xpariboy|p3flag=fr|pos3=tank
+|p4=Gryfouille|p4flag=fr|pos4=sup
+|p5=Nara |p5flag=fr|pos5=sup
+}}
+{{TeamCard
+|team=BH3 Menace
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=ALH - Moonstone
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=GG - Maison
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=2BOO
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Navy Blue Lightning
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/4L2DSU4L1D|id=dtQpNnwoNE
+
+<!-- Upper Bracket Quarterfinals -->
+|R1M1={{Match
+    |bestof=1
+    |date=2023-03-25
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|MontQ Eternal|score=1}}
+    |opponent2={{TeamOpponent|BH3 Menace|score=0}}
+}}
+|R1M2={{Match
+    |date=2023-03-25
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ALH - Moonstone|score=1}}
+    |opponent2={{TeamOpponent|GG - Maison|score=0}}
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R2M1={{Match
+	|bestof=3
+    |date=2023-03-25
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|2BOO|score=2}}
+    |opponent2={{TeamOpponent|MontQ Eternal|score=0}}
+}}
+|R2M2={{Match
+    |date=2023-03-25
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Navy Blue Lightning|score=2}}
+    |opponent2={{TeamOpponent|ALH - Moonstone|score=1}}
+}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match
+    |date=2023-03-25
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|2BOO|score=2}}
+    |opponent2={{TeamOpponent|Navy Blue Lightning|score=0}}
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R2M3={{Match
+    |date=2023-03-25
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ALH - Moonstone|score=0}}
+    |opponent2={{TeamOpponent|BH3 Menace|score=2}}
+}}
+|R2M4={{Match
+    |date=2023-03-25
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|MontQ Eternal|score=1}}
+    |opponent2={{TeamOpponent|GG - Maison|score=2}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match
+    |date=2023-03-25
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|BH3 Menace|score=2}}
+    |opponent2={{TeamOpponent|GG - Maison|score=1}}
+}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match
+    |date=2023-03-25
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Navy Blue Lightning|score=0}}
+    |opponent2={{TeamOpponent|BH3 Menace|score=2}}
+}}
+
+<!-- Grand Final -->
+|R5M1={{Match
+	|bestof=5
+    |date=2023-03-25
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|2BOO|score=3}}
+    |opponent2={{TeamOpponent|BH3 Menace|score=0}}
+}}
+}}
+
+==References==
+{{Reflist}}

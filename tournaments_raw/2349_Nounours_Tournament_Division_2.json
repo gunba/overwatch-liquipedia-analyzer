@@ -1,0 +1,330 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Nounours Tournament Division 2",
+            "shortname": "Nounours Tournament Division 2",
+            "tickername": "Nounours Tournament Division 2",
+            "image": "",
+            "icon": "",
+            "organizer": "Les Nounours Esport",
+            "type": "Online",
+            "country": "France",
+            "game": "overwatch2",
+            "localcurrency": "eur",
+            "prizepool": "100",
+            "sdate": "2023-09-23",
+            "edate": "2023-10-01",
+            "format": "Swiss<br>Double Elimination",
+            "discord": "STkX3pBCMX",
+            "youtube": "",
+            "rulebook": "https://play.toornament.com/en_US/tournaments/6999067675888164864/rules",
+            "bracket": "https://play.toornament.com/en_US/tournaments/6999067675888164864/",
+            "team_number": "15"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Esports Organisation",
+            "p1": "RubADD|p1flag=se|pos1=dps",
+            "p2": "Iridescent|p2flag=uk|pos2=dps",
+            "p3": "Mordex|p3flag=se|pos3=tank",
+            "p4": "Knowledge|p4flag=uk|pos4=sup",
+            "p5": "Jaix|p5flag=fr|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Kyo|t2c1pos=manager|t2c1link=Kyo (French manager)"
+        },
+        {
+            "team": "Princesses",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "C\u2084N\u2082",
+            "p1": "Swirl|p1flag=dk|pos1=dps",
+            "p2": "wys|p2flag=gb|pos2=dps",
+            "p3": "hdzgz|p3flag=gb|pos3=dps",
+            "p4": "Machu|p4flag=fi|pos4=tank",
+            "p5": "erylio|p5flag=gb|pos5=sup",
+            "p6": "Baxter|p6flag=dk|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "SpikeGaming|t2c1flag=de|t2c1pos=coach",
+            "t2c2": "TweeApollo|t2c2flag=no|t2c2pos=manager"
+        },
+        {
+            "team": "ScAwAine\u2665",
+            "p1": "Mqde|p1flag=fr|pos1=dps",
+            "p2": "Warglabidoo|p2flag=fr|pos2=dps",
+            "p3": "Terozz|p3flag=fr|pos3=tank",
+            "p4": "Bak4ra|p4flag=fr|pos4=sup",
+            "p5": "Kyo|pos5=sup|p5link=Kyo (French manager)",
+            "p6": "Xineo|p6flag=fr|pos6=flex"
+        },
+        {
+            "team": "Les Bambinos",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "YS Youchewb_OW",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "DSC'-Ares",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Team Cardinalis",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "STRAW HATS",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "LN-Cosmiques",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Sublime Snowflakes",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "LN-GrizzlyGOATS",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "GG-Padkom",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Blood Moon",
+            "p1": "BroPlaYer|p1flag=es|pos1=dps",
+            "p2": "HAMON|p2flag=es|pos2=dps",
+            "p3": "Novapro|p3flag=es|pos3=tank",
+            "p4": "Gabriel99194|p4flag=es|pos4=sup",
+            "p5": "DavidNK|p5flag=es|pos5=sup",
+            "p6": "RedditKermit|p6flag=es|pos6=sup"
+        },
+        {
+            "team": "Invaders E-sports",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-09-23 - 17:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|Team Cardinalis|score=0}}",
+            "opponent2": "{{TeamOpponent|DSC'-Ares|score=2}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-09-23 - 17:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|ScAwAine\u2665|score=2}}",
+            "opponent2": "{{TeamOpponent|GG-Padkom|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-09-23 - 17:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|Los Bambinos|score=0}}",
+            "opponent2": "{{TeamOpponent|LN-GrizzlyGOATS|score=2}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-09-23 - 17:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|Princesses|score=0}}",
+            "opponent2": "{{TeamOpponent|Invaders E-sports|score=2}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-09-23 - 17:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|STRAW HATS|score=2}}",
+            "opponent2": "{{TeamOpponent|LN-Cosmiques|score=0}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "2023-09-23 - 17:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|C\u2084N\u2082|score=2}}",
+            "opponent2": "{{TeamOpponent|Blood Moon|score=0}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "2023-09-23 - 17:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|YS YouChewb_OW|score=2}}",
+            "opponent2": "{{TeamOpponent|Sublime Snowflakes|score=0}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "2023-09-23 - 18:15 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|Esports Organisation|score=0}}",
+            "opponent2": "{{TeamOpponent|DSC'-Ares|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-09-23 - 18:15 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|ScAwAine\u2665|score=2}}",
+            "opponent2": "{{TeamOpponent|LN-GrizzlyGOATS|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-09-23 - 18:15 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|Invaders E-sports|score=0}}",
+            "opponent2": "{{TeamOpponent|STRAW HATS|score=2}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2023-09-23 - 18:15 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|C\u2084N\u2082|score=2}}",
+            "opponent2": "{{TeamOpponent|YS YouChewb_OW|score=0}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2023-09-24 - 18:15 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|DSC'-Ares|score=0}}",
+            "opponent2": "{{TeamOpponent|ScAwAine\u2665|score=2}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "2023-09-24 - 18:15 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|STRAW HATS|score=1}}",
+            "opponent2": "{{TeamOpponent|C\u2084N\u2082|score=2}}",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "2023-09-30 - 21:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|ScAwAine\u2665|score=0}}",
+            "opponent2": "{{TeamOpponent|C\u2084N\u2082|score=3}}",
+            "optional": "R6M1="
+        },
+        {
+            "date": "2023-09-23 - 18:15 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|Sublime Snowflakes|score=2}}",
+            "opponent2": "{{TeamOpponent|Blood Moon|score=0}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "2023-09-23 - 18:15 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|LN-Cosmiques|score=2}}",
+            "opponent2": "{{TeamOpponent|Princesses|score=0}}",
+            "optional": "R1M9="
+        },
+        {
+            "date": "2023-09-23 - 18:15 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|Los Bambinos|score=0}}",
+            "opponent2": "{{TeamOpponent|GG-Padkom|score=2}}",
+            "optional": "R1M10="
+        },
+        {
+            "date": "2023-09-24 - 17:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|LN-GrizzlyGOATS|score=0}}",
+            "opponent2": "{{TeamOpponent|Sublime Snowflakes|score=2}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "2023-09-24 - 17:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|Esports Organisation|score=0}}",
+            "opponent2": "{{TeamOpponent|LN-Cosmiques|score=2}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "2023-09-24 - 17:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|YS Youchewb_OW|score=2}}",
+            "opponent2": "{{TeamOpponent|GG-Padkom|score=0}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "2023-09-24 - 17:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|Invaders E-sports|score=0}}",
+            "opponent2": "{{TeamOpponent|Team Cardinalis|score=2}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "2023-09-24 - 18:15 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|Sublime Snowflakes|score=0}}",
+            "opponent2": "{{TeamOpponent|LN-Cosmiques|score=2}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2023-09-24 - 18:15 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|YS Youchewb_OW|score=2}}",
+            "opponent2": "{{TeamOpponent|Team Cardinalis|score=0}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "2023-09-30 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|STRAW HATS|score=2}}",
+            "opponent2": "{{TeamOpponent|LN-Cosmiques|score=0}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "2023-09-30 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|DSC'-Ares|score=2}}",
+            "opponent2": "{{TeamOpponent|YS Youchewb_OW|score=1}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "2023-09-30 - 21:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|STRAW HATS|score=2}}",
+            "opponent2": "{{TeamOpponent|DSC'-Ares|score=1}}",
+            "optional": "R5M1="
+        },
+        {
+            "bestof": "5",
+            "date": "2023-10-01 - 18:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|ScAwAine\u2665|score=3}}",
+            "opponent2": "{{TeamOpponent|STRAW HATS|score=2}}",
+            "optional": "R6M2="
+        },
+        {
+            "bestof": "7",
+            "date": "2023-10-01 - 21:00 {{Abbr/CEST}}",
+            "opponent1": "{{TeamOpponent|C\u2084N\u2082|score=4}}",
+            "opponent2": "{{TeamOpponent|ScAwAine\u2665|score=3}}",
+            "optional": "R7M1="
+        }
+    ]
+}

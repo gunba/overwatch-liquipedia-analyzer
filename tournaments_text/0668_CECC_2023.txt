@@ -1,0 +1,637 @@
+{{DISPLAYTITLE:Collegiate Esports Commissioners Cup 2023}}
+{{Liquipedia links|rocketleague=CECC/2023/Finals|valorant=Collegiate_Esports_Commissioners_Cup_Finals}}
+{{Collegiate Esports Commissioners Cup navbox}}
+{{Tabs static
+|name1=South Regional|link1=CECC/2023/South
+|name2=East Regional|link2=CECC/2023/East
+|name3=West Regional|link3=CECC/2023/West
+|name4=Midwest Regional|link4=CECC/2023/Midwest
+|name5=Canada Regional|link5=CECC/2023/Canada
+|name6=Last Chance Qualifier|link6=CECC/2023/Last Chance Qualifier
+|name7=Finals|link7=CECC/2023
+}}
+{{Infobox league
+|liquipediatier=3
+|series=Collegiate Esports Commissioners Cup
+|abbreviation=CECC
+|name=Collegiate Esports Commissioners Cup 2023
+|shortname=2023 Finals
+|tickername=CECC Finals
+|image=CECC Finals 2023 allmode.png
+|organizer=Collegiate Sports Management Group
+|organizer-link=https://collegiatesmg.com/esportsu/
+|sponsor=[https://www.mcdonalds.com/us/en-us.html McDonald's]
+|type=Offline
+|country=United States
+|game=overwatch2
+|city=Arlington, TX
+|venue=Esports Stadium Arlington
+|venuelink=https://en.wikipedia.org/wiki/Esports_Stadium_Arlington
+|format=GSL Group Stage<br>Single Elimination
+|prizepoolusd=6500
+|sdate=2023-05-06
+|edate=2023-05-07
+|twitter=esportsu
+|web=https://collegiatesmg.com/esportsu
+|twitch=EsportsU
+|discord=esportsu
+|rulebook=https://collegiatesmg.com/wp-content/uploads/2022/09/OVERWATCH-2-RULESET.pdf
+|bracket=https://battlefy.com/csmgesportsu/cecc-finals-overwatch-2/642af5d30f2b5b1b5ccc8d9e/info?infoTab=details
+|previous=CECC/2022 {{!}} 2022
+|next=CECC/2024 {{!}} 2024
+|team_number=16
+}}
+
+==Information==
+===Format===
+*Four GSL groups to determine top 8
+*Single elimination playoffs
+*All matches {{Abbr/Bo5}}
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Host
+|b1=Pauly Hype
+|b2=Space Ghost|b2name=Kari Keone|b2flag=us
+|b3=Septilence
+|b4=Los
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard|lang=
+|position=Commentator
+|b1=ClutchKey|b1name=Keegan Ohta|b1flag=us
+|b2=Dividing
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard|lang=
+|position=Analyst
+|b1=N3rdyBird|b1name=Artemis Rainn|b1flag=us
+}}
+{{box|end}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=7|'''Map Pool'''
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=6|Available Maps
+|-
+![[Control]]
+![[Hybrid]]
+![[Assault]]
+![[Escort]]
+|-
+!1st set
+|''[[Control]] map''
+|width="130" rowspan=5|
+*[[Busan]]
+*[[Ilios]]
+*[[Lijiang Tower]]
+|width="130" rowspan=5|
+*[[Blizzard World]]
+*[[Hollywood]]
+*[[King's Row]]
+|width="130" rowspan=5|
+*[[Hanamura]]
+*[[Volskaya Industries]]
+*[[Temple of Anubis]]
+|width="130" rowspan=5|
+*[[Havana]]
+*[[Rialto]]
+*[[Route 66]]
+|-
+!2nd set
+|''[[Escort]] map''
+|-
+!3rd set
+|''[[Hybrid]] map''
+|-
+!4th set
+|''[[Assault]] map''
+|}
+
+===Prize Pool===
+{{TeamPrizePool
+|tournament1=#Group Stage|tournament2=#Playoffs
+|{{Slot|usdprize=3500}}
+|{{Slot|usdprize=1500}}
+|{{Slot|place=3-4|usdprize=500}}
+}}
+
+===Awards===
+{{AwardPrizePool|type={{SoloOpponent}}
+|{{Slot|award=MVP|usdprize=500|{{Opponent|Joobi|flag=us|team=maryville university}}}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Converse University
+|p1=HaMmEr|pos1=dps
+|p2=Grapha|p2flag=gr|pos2=dps
+|p3=Qwickzzz|pos3=tank
+|p4=Chance|pos4=sup|p4link=Chance (American Player)
+|p5=StillKIWI|pos5=sup
+|p6=Orion|pos6=sup
+|qualifier=[[/South|South Regional]]
+|placement=1
+}}
+{{TeamCard
+|team=Fisher College
+|p1=Forgotten|pos1=dps
+|p2=Kabe|pos2=dps
+|p3=Infernal|pos3=tank
+|p4=Faded|pos4=tank
+|p5=Neb|pos5=sup
+|p6=Abbs|pos6=sup
+|qualifier=[[/East|East Regional]]
+|t2title=Staff
+|t2c1=Tensa|t2pos1=coach
+|t2c2=junseo|t2c2pos=manager
+|t2c3=ducklover|t2c3pos=Manager
+|t2c4=p0int|t2c4pos=manager
+|placement=1
+}}
+{{TeamCard
+|team=Boise State University
+|p1=Goblin|pos1=dps
+|p2=Playto|pos2=dps
+|p3=Kell|pos3=tank
+|p4=MattMerc|pos4=tank
+|p5=CLEAR|pos5=tank
+|p6=Bagel|pos6=sup
+|p7=ChoseN|pos7=sup
+|p8=Lyric|pos8=sup
+|qualifier=[[/West|West Regional]]
+|placement=1
+}}
+{{TeamCard
+|team=Illinois State University
+|p1=Vision|pos1=dps
+|p2=Grathen|pos2=dps
+|p3=GiG|pos3=tank
+|p4=MovingFish7|pos4=tank
+|p5=Saadist|pos5=tank
+|p6=Renko|pos6=sup
+|p7=Deeko|pos7=sup
+|p8=Goose|p8flag=us|pos8=sup|p8link=Goose_(Matthew_Gisi)
+|t2title=Staff
+|t2c1=Flutey|t2c1pos=head coach
+|t2c2=Aeroplayne|t2c2pos=manager
+|qualifier=[[/Midwest|Midwest Regional]]
+|placement=1
+}}
+{{TeamCard
+|team=St. Clair College
+|p1=Crime|pos1=dps
+|p2=Emmeryn|pos2=dps
+|p3=theholyhaun|p3flag=ca|pos3=dps
+|p4=Squeak|pos4=tank
+|p5=Gscales|pos5=tank
+|p6=redex|pos6=sup
+|p7=grave|p7flag=ca|pos7=sup
+|t2title=Staff
+|t2c1=Apostle|t2c1flag=ca|t2c1pos=manager
+|qualifier=[[/Canada|Canada Regional]]
+|placement=1
+}}
+{{TeamCard
+|team=Maryville University
+|p1=TR33|pos1=dps
+|p2=k1ng|pos2=dps
+|p3=False|pos3=tank
+|p4=mikeyy|pos4=tank
+|p5=Joobi|pos5=sup
+|p6=syrus|pos6=sup
+|t2title=Staff
+|t2c1=iced|t2c1pos=manager
+|qualifier=[[/Last Chance Qualifier|Last Chance Qualifier]]
+|placement=1
+}}
+{{TeamCard
+|team=Ball State University
+|p1=NINJACURLYFRY|p1flag=us|pos1=dps
+|p2=Spencer|pos2=dps
+|p3=Manwe|pos3=tank
+|p4=RavenStrider|pos4=sup
+|p5=Yakester|pos5=sup
+|qualifier=ECAC
+|placement=1
+|placementicon=[[File:ECAC esports allmode.png|25px]]
+}}
+{{TeamCard
+|team=Southern New Hampshire
+|p1=pepto|p1flag=us|pos1=
+|p2=ConsoleNoob|p2flag=us|pos2=
+|p3=Osiren|p3flag=us|pos3=
+|p4=OneTrick|p4flag=us|pos4=
+|p5=BSOE|p5flag=us|pos5=
+|t2title=Staff
+|t2c1=Robert Wiemer|t2c1flag=us|t2c1pos=manager
+|qualifier=ECC
+|placement=1
+|placementicon=[[File:East Coast Conference allmode.png|25px]]
+}}
+{{TeamCard
+|team=Miami University
+|p1=BoneSaw|p1flag=us|pos1=dps
+|p2=skrtle|p2flag=us|pos2=dps
+|p3=KaBunga|pos3=tank
+|p4=Jaybird|pos4=sup
+|p5=Shocker|p5flag=us|pos5=sup
+|qualifier=ESC
+|placement=1
+|placementicon=[[File:Esports Collegiate Conference notext allmode.png|25px]]
+}}
+{{TeamCard
+|team=Bethel University
+|p1=SpaceMarine|p1flag=us|pos1=dps
+|p2=BigJ5|p2flag=us|pos2=dps
+|p3=Cuda|p3flag=us|pos3=dps
+|p4=Quibzy|p4flag=us|pos4=tank
+|p5=Momo|p5flag=us|pos5=sup|p5link=Momo (American Player)
+|p6=Daisy|p6link=Zak|p6flag=us|pos6=sup
+|qualifier=GLEC
+|placement=1
+|placementicon=[[File:GLEC lightmode.png|25px]]
+}}
+{{TeamCard
+|team=Mount St. Mary's
+|p1=Moses|p1flag=|pos1=
+|p2=CaptAquinas|p2flag=|pos2=
+|p3=toast|p3flag=|pos3=
+|p4=COZY|p4flag=|pos4=
+|p5=Stixels|p5flag=|pos5=
+|p6=PumaStrike|p6flag=|pos6=
+|p7=Zerial|p7flag=|pos7=
+|p8=Jurgioslakiv|p8flag=|pos8=
+|qualifier=MAAC
+|placement=1
+|placementicon=[[File:Metro Atlantic Athletic Conference allmode.png|25px]]
+}}
+{{TeamCard
+|team=Bryant & Stratton
+|p1=Gymical|pos1=dps
+|p2=Manually|pos2=dps
+|p3=MIRO|p3flag=us|pos3=tank
+|p4=Set|p4flag=us|pos4=sup
+|p5=Prota|pos5=sup
+|t2title=Staff
+|t2c1=Enjoiable|t2c1flag=us|t2c1pos=Manager
+|qualifier=MAEC
+|placement=1
+|placementicon=[[File:Maec.png|30px]]
+}}
+{{TeamCard
+|team=UNLV
+|p1=QwertyTumor|p1flag=us|pos1=dps
+|p2=闲者|p2flag=us|pos2=dps
+|p3=Sesvy|p3flag=us|pos3=dps
+|p4=Hertz|p4flag=us|pos4=tank
+|p5=HaydoGo|p5flag=us|pos5=sup
+|p6=Kernmaster|p6flag=us|pos6=sup
+|qualifier=Mountain West
+|placement=1
+|placementicon=[[File:Mountain West Conference allmode.png|25px]]
+}}
+{{TeamCard
+|team=Blinn College
+|p1=Vader|p1flag=us|pos1=dps|p1link=Vader (American Player)
+|p2=Swef|p2flag=us|pos2=dps
+|p3=gnja2012|p3flag=us|pos3=tank
+|p4=Hutch|p4flag=us|pos4=sup
+|p5=KnuckleBunni|p5flag=us|pos5=sup
+|t2title=Staff
+|t2c1=KyleMurto|t2c1flag=us|t2c1pos=Coach
+|t2c2=CrazyHobo|t2c2pos=manager
+|qualifier=NJCAAE
+|placement=2
+|placementicon=[[File:NJCAAE allmode.png|30px]]
+|inotes={{NoteBig
+|n1=[[Bryant & Stratton College]] wins NJCAAE, the conference bid is given to [[Blinn College]] after BSC received the MAEC bid.
+}}
+}}
+{{TeamCard
+|team=UT Dallas
+|p1=P3t9L|pos1=dps
+|p2=Kashir|pos2=dps
+|p3=STAS1S|pos3=dps
+|p4=abdala|pos4=tank
+|p5=Doyi|pos5=sup
+|p6=Mallarad|p6flag=us|pos6=sup
+|p7=durpee|pos7=flex
+|p8=Nitai|p8flag=us|pos8=flex
+|t2title=Staff
+|t2c1=Bani|t2c1pos=head coach
+|t2c2=BanthaPoodoo|t2c2flag=in|t2c2pos=assistant coach
+|t2c3=DJBlanket|t2c3flag=us|t2c3pos=assistant coach
+|t2c4=Lueyyy|t2c4pos=coach
+|t2c5=MinniePwn|t2c5pos=general manager
+|qualifier=Wildcard
+}}
+{{TeamCard
+|team=Houston Premiere
+|p1=DargoN|p1flag=us|pos1=dps
+|p2=Fooify|p2flag=uk|pos2=dps
+|p3=Greetings|p3flag=us|pos3=tank
+|p4=DinoLobster|p4flag=us|pos4=sup
+|p5=Voux|p5flag=us|pos5=sup
+|t2title=Staff
+|t2c1=Nevino|t2c1flag=us|t2c1pos=coach
+|t2c2=Thunder|t2c2flag=us|t2c2pos=manager|t2c2link=Thunder (American Manager)
+|qualifier=Wildcard
+}}
+{{TeamCard columns end}}
+
+==Results==
+==={{Stage|Group Stage}}===
+{{box|start|padding=2em}}
+====Group A====
+{{GroupTableLeague|title=Group A|width=500px|diff=true|tiebreaker1=series|tiebreaker2=h2h series
+|edate=May 6, 2023 - 19:00 {{Abbr/CDT}}
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=up|team1=illinois state university
+|bg2=down|team2=ball state university
+|bg3=up|team3=bryant & stratton college
+|bg4=down|team4=mount st. mary's university
+|tournament=CECC/2023
+}}
+{{Matchlist|id=IGIGhYS8nc|title=Group A Matches|width=500px
+|M1header=Opening Matches
+|M1={{Match
+|bestof=5
+    |date=May 6, 2023 - 16:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|illinois state university|score=3}}
+    |opponent2={{TeamOpponent|mount st. mary's university|score=0}}
+}}
+|M2={{Match
+    |date=May 6, 2023 - 16:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|ball state university|score=1}}
+    |opponent2={{TeamOpponent|bryant & stratton college|score=3}}
+}}
+|M3header=Winners' Match
+|M3={{Match
+    |date=May 6, 2023 - 17:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|illinois state university|score=3}}
+    |opponent2={{TeamOpponent|bryant & stratton college|score=0}}
+}}
+|M4header=Elimination Match
+|M4={{Match
+    |date=May 6, 2023 - 17:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|mount st. mary's university|score=1}}
+    |opponent2={{TeamOpponent|ball state university|score=3}}
+}}
+|M5header=Decider Match
+|M5={{Match
+    |date=May 6, 2023 - 18:30 {{Abbr/CDT}}
+    |twitch=esportsu
+    |opponent1={{TeamOpponent|bryant & stratton college|score=3}}
+    |opponent2={{TeamOpponent|ball state university|score=2}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====Group B====
+{{GroupTableLeague|title=Group B|width=500px|diff=true|tiebreaker1=series|tiebreaker2=h2h series
+|edate=May 6, 2023 - 19:00 {{Abbr/CDT}}
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=up|team1=maryville university
+|bg2=down|team2=converse university
+|bg3=up|team3=blinn college
+|bg4=down|team4=southern new hampshire university
+|tournament=CECC/2023
+}}
+{{Matchlist|id=VrzLZDWzEu|title=Group B Matches|width=500px
+|M1header=Opening Matches
+|M1={{Match
+|bestof=5
+    |date=May 6, 2023 - 16:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|maryville university|score=3}}
+    |opponent2={{TeamOpponent|southern new hampshire university|score=0}}
+}}
+|M2={{Match
+    |date=May 6, 2023 - 16:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|converse university|score=3}}
+    |opponent2={{TeamOpponent|blinn college|score=1}}
+}}
+|M3header=Winners' Match
+|M3={{Match
+    |date=May 6, 2023 - 17:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|maryville university|score=3}}
+    |opponent2={{TeamOpponent|converse university|score=0}}
+}}
+|M4header=Elimination Match
+|M4={{Match
+    |date=May 6, 2023 - 17:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|southern new hampshire university|score=0}}
+    |opponent2={{TeamOpponent|blinn college|score=3}}
+}}
+|M5header=Decider Match
+|M5={{Match
+    |date=May 6, 2023 - 18:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|converse university|score=2}}
+    |opponent2={{TeamOpponent|blinn college|score=3}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====Group C====
+{{GroupTableLeague|title=Group C|width=500px|diff=true|tiebreaker1=series|tiebreaker2=h2h series
+|edate=May 6, 2023 - 19:00 {{Abbr/CDT}}
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=up|team1=boise state university
+|bg2=up|team2=st. clair college
+|bg3=down|team3=houston premiere
+|bg4=down|team4=bethel university
+|tournament=CECC/2023
+}}
+{{Matchlist|id=jqA1YJXuAh|title=Group C Matches|width=500px
+|M1header=Opening Matches
+|M1={{Match
+|bestof=5
+    |date=May 6, 2023 - 16:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|boise state university|score=3}}
+    |opponent2={{TeamOpponent|houston premiere|score=0}}
+}}
+|M2={{Match
+    |date=May 6, 2023 - 16:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|st. clair college|score=3}}
+    |opponent2={{TeamOpponent|bethel university|score=0}}
+}}
+|M3header=Winners' Match
+|M3={{Match
+    |date=May 6, 2023 - 17:30 {{Abbr/CDT}}
+    |twitch=esportsu
+    |opponent1={{TeamOpponent|boise state university|score=3}}
+    |opponent2={{TeamOpponent|st. clair college|score=0}}
+}}
+|M4header=Elimination Match
+|M4={{Match
+    |date=May 6, 2023 - 17:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|houston premiere|score=3}}
+    |opponent2={{TeamOpponent|bethel university|score=2}}
+}}
+|M5header=Decider Match
+|M5={{Match
+    |date=May 6, 2023 - 18:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|st. clair college|score=3}}
+    |opponent2={{TeamOpponent|houston premiere|score=0}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====Group D====
+{{GroupTableLeague|title=Group D|width=500px|diff=true|tiebreaker1=series|tiebreaker2=h2h series
+|edate=May 6, 2023 - 19:00 {{Abbr/CDT}}
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=up|team1=fisher college
+|bg2=up|team2=ut dallas
+|bg3=down|team3=miami university
+|bg4=down|team4=unlv
+|tournament=CECC/2023
+}}
+{{Matchlist|id=04wKY4Y9xM|title=Group D Matches|width=500px
+|M1header=Opening Matches
+|M1={{Match
+|bestof=5
+    |date=May 6, 2023 - 16:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|fisher college|score=3}}
+    |opponent2={{TeamOpponent|unlv|score=0}}
+}}
+|M2={{Match
+    |date=May 6, 2023 - 16:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|ut dallas|score=3}}
+    |opponent2={{TeamOpponent|miami university|score=0}}
+}}
+|M3header=Winners' Match
+|M3={{Match
+    |date=May 6, 2023 - 17:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|fisher college|score=3}}
+    |opponent2={{TeamOpponent|ut dallas|score=1}}
+}}
+|M4header=Elimination Match
+|M4={{Match
+    |date=May 6, 2023 - 17:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|unlv|score=3}}
+    |opponent2={{TeamOpponent|miami university|score=1}}
+}}
+|M5header=Decider Match
+|M5={{Match
+    |date=May 6, 2023 - 18:30 {{Abbr/CDT}}
+    |twitch=
+    |opponent1={{TeamOpponent|ut dallas|score=3}}
+    |opponent2={{TeamOpponent|unlv|score=0}}
+}}
+}}
+{{box|break|padding=2em}}
+
+==={{Stage|Playoffs}}===
+{{Bracket|Bracket/8|id=vzsTPhpHtR
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=5
+    |date=May 7, 2023 - 10:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|illinois state university|score=1}}
+    |opponent2={{TeamOpponent|ut dallas|score=3}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=Colosseo|mode=Push|score1=0|score2=1|winner=2}}
+    |map4={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |date=May 7, 2023 - 10:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|fisher college|score=3}}
+    |opponent2={{TeamOpponent|bryant & stratton college|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M3={{Match
+    |date=May 7, 2023 - 10:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|maryville university|score=3}}
+    |opponent2={{TeamOpponent|st. clair college|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M4={{Match
+    |date=May 7, 2023 - 10:00 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|boise state university|score=3}}
+    |opponent2={{TeamOpponent|blinn college|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+    |date=May 7, 2023 - 11:30 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|ut dallas|score=0}}
+	|opponent2={{TeamOpponent|fisher college|score=3}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+    |date=May 7, 2023 - 11:30 {{Abbr/CDT}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|maryville university|score=3}}
+	|opponent2={{TeamOpponent|boise state university|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |date=May 7, 2023 - 15:00 {{Abbr/CDT}}
+    |youtube=|twitch=esportsu
+    |opponent1={{TeamOpponent|fisher college|score=}}
+    |opponent2={{TeamOpponent|maryville university|score=}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Colosseo|mode=Push|score1=54.31m|score2=134.75m|winner=2}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}
+
+==Additional Information==
+===Country Representation===
+{{Country representation}}

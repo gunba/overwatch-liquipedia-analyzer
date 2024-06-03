@@ -1,0 +1,320 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "name": "Titans Showdown",
+            "shortname": "Titans Showdown",
+            "tickername": "Titans Showdown",
+            "icon": "Vancouver Titans allmode.png",
+            "image": "Canada Overwatch Fest lightmode.png",
+            "imagedark": "Canada Overwatch Fest darkmode.png",
+            "organizer": "Vancouver Titans",
+            "sponsor": "[https://www.td.com/ca/en/personal-banking/ TD]",
+            "type": "Offline",
+            "country": "Canada",
+            "city": "Richmond",
+            "venue": "[https://www.tgsesports.gg/ The Gaming Stadium]",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepool": "5000",
+            "localcurrency": "cad",
+            "date": "2022-10-29",
+            "twitter": "VancouverTitans",
+            "twitch": "vancouver_titans",
+            "bracket": "https://battlefy.com/vancouvertitans/titans-showdown-presented-by-td/633e1275ce867d30ae83c5ee/info?infoTab=schedule",
+            "rulebook": "https://docs.google.com/document/d/18FLa501uTZ1loW53y4IIICyo2hkS4l5CIC4scmOI7HI/edit",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "October 29, 2022 - 11:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "irl freshie stack|score=",
+            "opponent2": "no brain no aim|score=",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "October 29, 2022 - 11:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "mission marauders",
+            "opponent2": "moms against catboys",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "October 29, 2022 - 11:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "3am ow",
+            "opponent2": "coquitlam crusaders",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "October 29, 2022 - 11:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "tudou",
+            "opponent2": "the tittens",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "October 29, 2022 - 11:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "just gaming",
+            "opponent2": "fishing camp",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "October 29, 2022 - 11:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "mayogurlz",
+            "opponent2": "sfu red",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "October 29, 2022 - 11:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "maybe washed",
+            "opponent2": "mish mash",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "October 29, 2022 - 11:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "shaftow",
+            "opponent2": "ttv yamss_",
+            "map1": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "R1M8="
+        },
+        {
+            "bestof": "1",
+            "date": "October 29, 2022 - 11:30",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "irl freshie stack",
+            "opponent2": "moms against catboys",
+            "map1": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "October 29, 2022 - 11:30",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "3am ow",
+            "opponent2": "tudou",
+            "map1": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "October 29, 2022 - 11:30",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "just gaming",
+            "opponent2": "sfu red",
+            "map1": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "October 29, 2022 - 11:30",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "maybe washed",
+            "opponent2": "shaftow",
+            "map1": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "5",
+            "date": "October 29, 2022 - 12:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "irl freshie stack",
+            "opponent1_score": 3,
+            "opponent2": "3am ow",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "October 29, 2022 - 12:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "sfu red",
+            "opponent2": "maybe washed",
+            "map1": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "5",
+            "date": "October 29, 2022 - 13:30",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "irl freshie stack|score=",
+            "opponent2": "maybe washed|score=",
+            "map1": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R4M1="
+        }
+    ]
+}

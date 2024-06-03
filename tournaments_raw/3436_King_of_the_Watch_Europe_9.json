@@ -1,0 +1,50 @@
+{
+    "tournament_info": [
+        {
+            "name": "King of the Watch Europe #9",
+            "image": "",
+            "series": "King of the Watch",
+            "organizer": "Creation eSports",
+            "country": "Europe",
+            "format": "Showmatch",
+            "type": "Online",
+            "game": "Overwatch",
+            "date": "2016-05-06",
+            "prizepoolusd": "305",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "web": "http://www.creationesports.com/articles/news/gaming/103/king-of-the-watch-open-beta-weekend",
+            "teamfirst": "reunited",
+            "teamsecond": "rogue",
+            "team_number": "2",
+            "previous": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "REUNITED",
+            "p1": "Morte |p1flag=nl",
+            "p2": "2Easy |p2flag=nl",
+            "p3": "Vallutaja |p3flag=ee",
+            "p4": "Winghaven |p4flag=es",
+            "p5": "uNFixed |p5flag=ru",
+            "p6": "Kruise |p6flag=uk"
+        },
+        {
+            "team": "Rogue",
+            "p1": "TviQ |p1flag=se",
+            "p2": "iddqd |p2flag=se",
+            "p3": "Reinforce |p3flag=se",
+            "p4": "winz |p4flag=fr",
+            "p5": "aKm |p5flag=fr",
+            "p6": "uNKOE |p6flag=fr"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "",
+            "opponent1": "{{TeamOpponent|reunited|score=4}}",
+            "opponent2": "{{TeamOpponent|rogue|score=0}}",
+            "optional": "R1M1="
+        }
+    ]
+}

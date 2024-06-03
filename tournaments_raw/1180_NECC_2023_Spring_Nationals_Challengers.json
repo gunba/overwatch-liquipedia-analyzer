@@ -1,0 +1,459 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "NECC",
+            "name": "NECC Challengers Nationals 2023",
+            "tickername": "NECC Challengers Nationals",
+            "image": "NECC 2021 lightmode.png",
+            "imagedark": "NECC 2021 darkmode.png",
+            "organizer": "National Esports Collegiate Conference",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "400",
+            "sdate": "2023-05-11",
+            "edate": "2023-06-16",
+            "twitter": "neccgames",
+            "twitch": "necc_esports",
+            "twitch2": "necc2",
+            "youtube": "channel/UCJ7SpyS-00CYxdkBadshxjQ",
+            "website": "https://neccgames.com/landing/index",
+            "bracket": "https://bit.ly/23_OW_Nationals",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "St. Ambrose University",
+            "p1": "Seur|p1flag=|pos1=tank",
+            "p2": "Heinz|p2flag=|pos2=dps",
+            "p3": "AgentMM7|p3flag=|pos3=dps",
+            "p4": "AzureRose|p4flag=|pos4=sup",
+            "p5": "SwagyFish|p5flag=|pos5=sup",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "1"
+        },
+        {
+            "team": "Valparaiso Shield",
+            "p1": "Famputy|p1flag=|pos1=",
+            "p2": "Solairis|p2flag=|pos2=",
+            "p3": "Churroro|p3flag=|pos3=",
+            "p4": "DirtyWolf22|p4flag=|pos4=",
+            "p5": "Fusyk|p5flag=|pos5=",
+            "p6": "Wistful|p6flag=|pos6=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "2"
+        },
+        {
+            "team": "Purdue White",
+            "p1": "Bananaman|p1flag=|pos1=",
+            "p2": "ohgee|p2flag=|pos2=",
+            "p3": "Gardant|p3flag=|pos3=",
+            "p4": "Sprout|p4flag=|pos4=",
+            "p5": "Azuki|p5flag=|pos5=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "3"
+        },
+        {
+            "team": "Louisville Red",
+            "p1": "K1LLAK1D2|p1flag=|pos1=",
+            "p2": "JoeDaPr0|p2flag=|pos2=",
+            "p3": "Lmagnum|p3flag=|pos3=",
+            "p4": "ERROR|p4flag=|pos4=",
+            "p5": "Renzuwu|p5flag=|pos5=",
+            "p6": "Engineer39|p6flag=|pos6=",
+            "p7": "Joomba|p7flag=|pos7=",
+            "p8": "Tylman|p8flag=|pos8=",
+            "p9": "Sock|p9flag=|pos9=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "4"
+        },
+        {
+            "team": "Murray State Gold",
+            "p1": "TheChief|p1flag=|pos1=",
+            "p2": "Brodo|p2flag=|pos2=",
+            "p3": "sknid|p3flag=|pos3=",
+            "p4": "myreath|p4flag=|pos4=",
+            "p5": "HORIZON|p5flag=|pos5=",
+            "p6": "Dakkon|p6flag=|pos6=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "5"
+        },
+        {
+            "team": "Purdue Steel",
+            "p1": "Monster|p1flag=|pos1=|p1link=Monster (American Player)",
+            "p2": "Clamps|p2flag=|pos2=",
+            "p3": "Cotton621|p3flag=|pos3=",
+            "p4": "Otakuor|p4flag=|pos4=",
+            "p5": "Goodnightjoe|p5flag=|pos5=",
+            "p6": "ShyGuy|p6flag=|pos6=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "6"
+        },
+        {
+            "team": "Wayne State College",
+            "p1": "Whispers|p1flag=|pos1=",
+            "p2": "Mooose|p2flag=|pos2=",
+            "p3": "WaffleArt|p3flag=|pos3=",
+            "p4": "frahmbae|p4flag=|pos4=",
+            "p5": "gingerhair|p5flag=|pos5=",
+            "p6": "kiki|p6flag=|pos6=|p6link=kiki (American Player)",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "7"
+        },
+        {
+            "team": "Arkansas Red",
+            "p1": "Auspat|p1flag=|pos1=",
+            "p2": "QTT|p2flag=|pos2=",
+            "p3": "urfriendlevi|p3flag=|pos3=",
+            "p4": "MegaDerp12|p4flag=|pos4=",
+            "p5": "Agate|p5flag=|pos5=",
+            "p6": "That1Waffle|p6flag=|pos6=",
+            "p7": "FL3XNOVA|p7flag=|pos7=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "8"
+        },
+        {
+            "team": "King's College",
+            "p1": "Faintest|p1flag=|pos1=",
+            "p2": "Virgio|p2flag=|pos2=",
+            "p3": "Frozalic|p3flag=|pos3=",
+            "p4": "MoJoJoJo|p4flag=|pos4=",
+            "p5": "AkaShantara|p5flag=|pos5=",
+            "p6": "ScndPlcLgnd|p6flag=|pos6=",
+            "p7": "aircraft20|p7flag=|pos7=",
+            "p8": "EazyGreezy|p8flag=|pos8=",
+            "p9": "Penguin|p9flag=|pos9=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "9"
+        },
+        {
+            "team": "Arcadia University",
+            "p1": "D1rt|p1flag=|pos1=",
+            "p2": "jbtchir|p2flag=|pos2=",
+            "p3": "zeldawarrior|p3flag=|pos3=",
+            "p4": "Bubba|p4flag=|pos4=",
+            "p5": "Twengo|p5flag=|pos5=",
+            "p6": "Vaayu|p6flag=|pos6=",
+            "p7": "Krusher99|p7flag=|pos7=",
+            "p8": "Plooterman|p8flag=|pos8=",
+            "p9": "Latrick|p9flag=|pos9=",
+            "p10": "Jellie4|p10flag=|pos10=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "10"
+        },
+        {
+            "team": "Howard CC",
+            "p1": "Optimal|p1flag=|pos1=",
+            "p2": "Rosanto|p2flag=|pos2=",
+            "p3": "BigBodyTank|p3flag=|pos3=",
+            "p4": "Toggling|p4flag=|pos4=",
+            "p5": "ChimpMilk|p5flag=|pos5=",
+            "p6": "TehLamb|p6flag=|pos6=",
+            "p7": "MaximumGoose|p7flag=|pos7=",
+            "p8": "Jackari|p8flag=|pos8=",
+            "p9": "Face|p9flag=|pos9=|p9link=Face (American Player)",
+            "p10": "Paulito|p10flag=|pos10=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "11"
+        },
+        {
+            "team": "Sacramento State Gold",
+            "p1": "Dustiercorn|p1flag=|pos1=",
+            "p2": "zorayoni|p2flag=|pos2=",
+            "p3": "FlamingSushi|p3flag=|pos3=",
+            "p4": "Unoh|p4flag=|pos4=",
+            "p5": "OwenG|p5flag=|pos5=",
+            "p6": "KuyaG|p6flag=|pos6=",
+            "p7": "LittleJose|p7flag=|pos7=",
+            "p8": "KikoCooper57|p8flag=|pos8=",
+            "p9": "Kanner|p9flag=|pos9=",
+            "p10": "OriginalTemp|p10flag=|pos10=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "12"
+        },
+        {
+            "team": "uOttawa Grey",
+            "p1": "Lamortdeebo|p1flag=|pos1=",
+            "p2": "impres|p2flag=|pos2=",
+            "p3": "VStriker|p3flag=|pos3=",
+            "p4": "YoChrisyBoi|p4flag=|pos4=",
+            "p5": "Tundra|p5flag=|pos5=",
+            "p6": "achieu|p6flag=|pos6=",
+            "p7": "RED|p7flag=|pos7=",
+            "p8": "FloppyChickn|p8flag=|pos8=",
+            "p9": "Quackles|p9flag=|pos9=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "13"
+        },
+        {
+            "team": "Cleveland State",
+            "p1": "Winter|p1flag=|pos1=|p1link=Winter (Cleveland State Player)",
+            "p2": "Tymunster|p2flag=|pos2=",
+            "p3": "Kakarot|p3flag=|pos3=",
+            "p4": "SupaSweetTea|p4flag=|pos4=",
+            "p5": "Land|p5flag=|pos5=",
+            "p6": "Glyph|p6flag=|pos6=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "14"
+        },
+        {
+            "team": "Mount Vernon Nazarene",
+            "p1": "D\u00f8ster|p1flag=|pos1=",
+            "p2": "Ranster|p2flag=|pos2=",
+            "p3": "NOMMY|p3flag=|pos3=",
+            "p4": "BudgetViking|p4flag=|pos4=",
+            "p5": "egunner2|p5flag=|pos5=",
+            "p6": "Matrixx|p6flag=|pos6=",
+            "p7": "Holmless|p7flag=|pos7=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "15"
+        },
+        {
+            "team": "GVSU Blue",
+            "p1": "TechZen|p1flag=|pos1=",
+            "p2": "Mochi|p2flag=|pos2=",
+            "p3": "AndreYES|p3flag=|pos3=",
+            "p4": "GalaxyGamer|p4flag=|pos4=",
+            "p5": "Inkz|p5flag=|pos5=",
+            "p6": "paigemo|p6flag=|pos6=",
+            "p7": "Canman|p7flag=|pos7=",
+            "p8": "Wolfi|p8flag=|pos8=",
+            "qualifier": "[[NECC/2023/Points/Challengers|Points]]",
+            "placement": "16"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "May 11, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|st. ambrose university|score=W}}",
+            "opponent2": "{{TeamOpponent|gvsu blue|score=FF}}",
+            "optional": "M1="
+        },
+        {
+            "date": "May 13, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|arkansas red|score=3}}",
+            "opponent2": "{{TeamOpponent|king's college|score=0}}",
+            "optional": "M2="
+        },
+        {
+            "date": "May 16, 2023 - 20:30 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|st. ambrose university|score=3}}",
+            "opponent2": "{{TeamOpponent|arkansas red|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "May 17, 2023 - 22:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|gvsu blue|score=3}}",
+            "opponent2": "{{TeamOpponent|king's college|score=1}}",
+            "optional": "M4="
+        },
+        {
+            "date": "May 13, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|arkansas red|score=2}}",
+            "opponent2": "{{TeamOpponent|gvsu blue|score=3}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "May 11, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|valparaiso shield|score=0}}",
+            "opponent2": "{{TeamOpponent|mvnu esports|score=3}}",
+            "optional": "M1="
+        },
+        {
+            "date": "May 16, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|wayne state college|score=3}}",
+            "opponent2": "{{TeamOpponent|arcadia university|score=1}}",
+            "optional": "M2="
+        },
+        {
+            "date": "May 18, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|mvnu esports|score=3}}",
+            "opponent2": "{{TeamOpponent|wayne state college|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "May 12, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|valparaiso shield|score=3}}",
+            "opponent2": "{{TeamOpponent|arcadia university|score=0}}",
+            "optional": "M4="
+        },
+        {
+            "date": "May 13, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|wayne state college|score=3}}",
+            "opponent2": "{{TeamOpponent|valparaiso shield|score=0}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "May 11, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|purdue white|score=3}}",
+            "opponent2": "{{TeamOpponent|cleveland state|score=2}}",
+            "optional": "M1="
+        },
+        {
+            "date": "May 11, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|purdue steel|score=FF}}",
+            "opponent2": "{{TeamOpponent|howard cc|score=W}}",
+            "optional": "M2="
+        },
+        {
+            "date": "May 12, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|purdue white|score=1}}",
+            "opponent2": "{{TeamOpponent|howard cc|score=3}}",
+            "optional": "M3="
+        },
+        {
+            "date": "May 12, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|cleveland state|score=W}}",
+            "opponent2": "{{TeamOpponent|purdue steel|score=FF}}",
+            "optional": "M4="
+        },
+        {
+            "date": "May 13, 2023 - 20:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|purdue white|score=3}}",
+            "opponent2": "{{TeamOpponent|cleveland state|score=0}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "May 11, 2023 - 20:30 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|louisville red|score=3}}",
+            "opponent2": "{{TeamOpponent|uottawa grey|score=2}}",
+            "optional": "M1="
+        },
+        {
+            "date": "May 11, 2023 - 21:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|murray state gold|score=0}}",
+            "opponent2": "{{TeamOpponent|sacramento state gold|score=3}}",
+            "optional": "M2="
+        },
+        {
+            "date": "May 12, 2023 - 21:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|louisville red|score=3}}",
+            "opponent2": "{{TeamOpponent|sacramento state gold|score=0}}",
+            "optional": "M3="
+        },
+        {
+            "date": "May 12, 2023 - 20:30 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|uottawa grey|score=3}}",
+            "opponent2": "{{TeamOpponent|murray state gold|score=1}}",
+            "optional": "M4="
+        },
+        {
+            "date": "May 18, 2023 - 21:00 {{Abbr/EDT}}",
+            "twitch": "",
+            "opponent1": "{{TeamOpponent|sacramento state gold|score=3}}",
+            "opponent2": "{{TeamOpponent|uottawa grey|score=2}}",
+            "optional": "M5="
+        },
+        {
+            "bestof": "5",
+            "date": "June 14, 2023 - 20:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|st. ambrose university|score=3}}",
+            "opponent2": "{{TeamOpponent|purdue white|score=0}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Junkertown|mode=Escort|score1=2|score2=1|winner=1}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "June 14, 2023 - 20:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|louisville red|score=3}}",
+            "opponent2": "{{TeamOpponent|Wayne State College|score=1}}",
+            "map1": "{{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}",
+            "map2": "{{Map|map=Eichenwalde|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "map3": "{{Map|map=Rialto|mode=Escort|score1=2|score2=1|winner=1}}",
+            "map4": "{{Map|map=New Queen Street|mode=Push|score1=1|score2=0|winner=1}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "June 14, 2023 - 22:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|mvnu esports|score=3}}",
+            "opponent2": "{{TeamOpponent|sacramento state gold|score=1}}",
+            "map1": "{{Map|map=Oasis|mode=Control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=5|score2=4|winner=1}}",
+            "map3": "{{Map|map=Havana|mode=Escort|score1=0|score2=1|winner=2}}",
+            "map4": "{{Map|map=Colosseo|mode=Push|score1=1|score2=0|winner=1}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "June 14, 2023 - 20:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|howard cc|score=W}}",
+            "opponent2": "{{TeamOpponent|gvsu blue|score=FF}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "June 15, 2023 - 20:30 {{Abbr/EDT}}",
+            "youtube": "|twitch=NECC Esports",
+            "opponent1": "{{TeamOpponent|st. ambrose university|score=}}",
+            "opponent2": "{{TeamOpponent|louisville red|score=}}",
+            "map1": "{{Map|map=Nepal|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Rialto|mode=Escort|score1=3|score2=2|winner=1}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "June 15, 2023 - 21:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|mvnu esports|score=}}",
+            "opponent2": "{{TeamOpponent|howard cc|score=}}",
+            "map1": "{{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Numbani|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "map3": "{{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "7",
+            "date": "June 16, 2023 - 20:30 {{Abbr/EDT}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|st. ambrose university|score=}}",
+            "opponent2": "{{TeamOpponent|mvnu esports|score=}}",
+            "map1": "{{Map|map=Nepal|mode=Control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=2|winner=1}}",
+            "map3": "{{Map|map=Circuit Royal|mode=Escort|score1=4|score2=3|winner=1}}",
+            "map4": "{{Map|map=Esperan\u00e7a|mode=Push|score1=1|score2=0|winner=1}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        }
+    ]
+}

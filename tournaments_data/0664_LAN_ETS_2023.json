@@ -1,0 +1,603 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "liquipediatiertype": "",
+            "name": "LAN ETS 2023",
+            "shortname": "LAN ETS 2023",
+            "tickername": "LAN ETS 2023",
+            "icon": "",
+            "image": "",
+            "series": "Lan ETS",
+            "abbreviation": "",
+            "organizer": "Lan ETS",
+            "organizer-link": "",
+            "sponsor": "",
+            "type": "Offline",
+            "country": "Canada",
+            "city": "Montreal",
+            "venue": "[https://www.etsmtl.ca/ \u00c9cole de technologie sup\u00e9rieure]",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "prizepoolusd": "",
+            "localcurrency": "CAD",
+            "prizepool": "5000",
+            "sdate": "2023-05-12",
+            "edate": "2023-05-14",
+            "date": "",
+            "twitter": "",
+            "web": "https://lanets.ca/tournaments/69#",
+            "twitch": "",
+            "discord": "",
+            "youtube": "",
+            "rulebook": "",
+            "bracket": "https://play.toornament.com/en_US/tournaments/6485680839965556736/stages/6737289793746026496/",
+            "team_number": "7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Brawl 2 Bronze",
+            "p1": "FlameHimself",
+            "p1flag": "ca",
+            "pos1": "dps",
+            "p2": "Smudge",
+            "p2flag": "ca",
+            "pos2": "dps",
+            "p3": "Mathelite",
+            "p3flag": "ca",
+            "pos3": "tank",
+            "p4": "NolanCoronaV",
+            "pos4": "sup",
+            "p5": "ADKAMII",
+            "p5flag": "ca",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Smawl",
+            "t2c1flag": "ca",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "Bucherons.ca",
+            "p1": "FPGG",
+            "p1flag": "ca",
+            "pos1": "",
+            "p2": "Kraneat",
+            "p2flag": "ca",
+            "pos2": "",
+            "p3": "Bleu",
+            "p3flag": "ca",
+            "pos3": "",
+            "p4": "cthemayhem",
+            "p4flag": "ca",
+            "pos4": "",
+            "p5": "arakin1313",
+            "p5flag": "ca",
+            "pos5": ""
+        },
+        {
+            "team": "MONKEYPOX GAMING",
+            "p1": "sampet11",
+            "p1flag": "ca",
+            "pos1": "",
+            "p2": "Farcenim",
+            "p2flag": "ca",
+            "pos2": "",
+            "p3": "Proto",
+            "p3flag": "ca",
+            "pos3": "",
+            "p4": "Shabalagoo",
+            "p4flag": "ca",
+            "pos4": "",
+            "p5": "isneaky",
+            "p5flag": "ca",
+            "pos5": ""
+        },
+        {
+            "team": "Pandas OW",
+            "p1": "Saikyo",
+            "p1flag": "ca",
+            "pos1": "",
+            "p2": "Virtuosic9",
+            "p2flag": "ca",
+            "pos2": "",
+            "p3": "Clumsy1",
+            "p3flag": "ca",
+            "pos3": "",
+            "p4": "Skittlee",
+            "p4flag": "ca",
+            "pos4": "",
+            "p5": "Xamo",
+            "p5flag": "ca",
+            "pos5": "",
+            "p6": "DraiZinG",
+            "p6flag": "ca",
+            "pos6": ""
+        },
+        {
+            "team": "Thicc Mei",
+            "p1": "Fawkes",
+            "p1flag": "ca",
+            "pos1": "",
+            "p2": "foizlee",
+            "p2flag": "ca",
+            "pos2": "",
+            "p3": "Topring555",
+            "p3flag": "ca",
+            "pos3": "",
+            "p4": "Simonize",
+            "p4flag": "ca",
+            "pos4": "",
+            "p5": "Toxicsalt",
+            "p5flag": "ca",
+            "pos5": ""
+        },
+        {
+            "team": "Trash Pandas",
+            "p1": "alexdeth",
+            "p1flag": "ca",
+            "pos1": "",
+            "p2": "Akyrelle",
+            "p2flag": "ca",
+            "pos2": "",
+            "p3": "QcEloctinar",
+            "p3flag": "ca",
+            "pos3": "",
+            "p4": "EFI",
+            "p4flag": "ca",
+            "pos4": "",
+            "p5": "Quarton",
+            "p5flag": "ca",
+            "pos5": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Pandas OW",
+            "opponent1_score": 3,
+            "opponent2": "MONKEYPOX GAMING",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Trash Pandas",
+            "opponent1_score": 3,
+            "opponent2": "Thicc Mei",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Brawl 2 Bronze",
+            "opponent1_score": 3,
+            "opponent2": "Pandas OW",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bucherons.ca",
+            "opponent1_score": 3,
+            "opponent2": "Trash Pandas",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Brawl 2 Bronze",
+            "opponent1_score": 3,
+            "opponent2": "Bucherons.ca",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Trash Pandas",
+            "opponent1_score": 3,
+            "opponent2": "MONKEYPOX GAMING",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Pandas OW|score=W",
+            "opponent2": "Thicc Mei|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Trash Pandas",
+            "opponent1_score": 3,
+            "opponent2": "Pandas OW",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bucherons.ca",
+            "opponent1_score": 3,
+            "opponent2": "Trash Pandas",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Brawl 2 Bronze|score=W",
+            "opponent2": "Bucherons.ca|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

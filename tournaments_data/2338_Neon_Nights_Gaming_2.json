@@ -1,0 +1,527 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "liquipediatiertype": "",
+            "name": "Neon Nights Gaming #2",
+            "shortname": "Neon Nights Gaming 2",
+            "tickername": "Neon Nights Gaming 2",
+            "icon": "Neon Nights Gaming Icon allmode.png",
+            "image": "Neon Nights Gaming allmode.png",
+            "series": "Neon Nights Gaming",
+            "abbreviation": "NNG",
+            "organizer": "Neon Nights",
+            "type": "Online",
+            "country": "usca",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "100",
+            "date": "2023-10-21",
+            "discord": "https://discord.gg/3AznG3BNqw",
+            "team_number": "8",
+            "previous": "Neon_Nights_Gaming/1{{!}}Neon Nights Gaming #1",
+            "next": "Neon_Nights_Gaming/3{{!}}Neon Nights Gaming #3"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Atlas Arcadia",
+            "p1": "_akuua,dr.g.n",
+            "p1flag": "usca",
+            "pos1": "",
+            "p2": "greninja.",
+            "p2flag": "usca",
+            "pos2": "",
+            "p3": "gallant2109",
+            "p3flag": "usca",
+            "pos3": "",
+            "p4": "onbow",
+            "p4flag": "usca",
+            "pos4": "",
+            "p5": "tesskue",
+            "p5flag": "usca",
+            "pos5": "",
+            "p6": "Kurlington",
+            "p6flag": "usca",
+            "pos6": "",
+            "p7": "hoshi_ichiban",
+            "p7flag": "usca",
+            "pos7": ""
+        },
+        {
+            "team": "Bronco Gold",
+            "p1": ".thets",
+            "p1flag": "usca",
+            "pos1": "",
+            "p2": "corseny",
+            "p2flag": "usca",
+            "pos2": "",
+            "p3": "sjb2207",
+            "p3flag": "usca",
+            "pos3": "",
+            "p4": "dagreatdane1028",
+            "p4flag": "usca",
+            "pos4": "",
+            "p5": "rubbishcoffee",
+            "p5flag": "usca",
+            "pos5": "",
+            "p6": "pogwoman",
+            "p6flag": "usca",
+            "pos6": ""
+        },
+        {
+            "team": "Gaming Gators",
+            "p1": "tm04",
+            "p1flag": "usca",
+            "pos1": "",
+            "p2": "yino",
+            "p2flag": "usca",
+            "pos2": "",
+            "p3": "jangoln",
+            "p3flag": "usca",
+            "pos3": "",
+            "p4": "tokopiyon",
+            "p4flag": "usca",
+            "pos4": "",
+            "p5": "kevkunnn",
+            "p5flag": "usca",
+            "pos5": "",
+            "p6": "wafflewhale",
+            "p6flag": "usca",
+            "pos6": ""
+        },
+        {
+            "team": "Bronco Black",
+            "p1": "fusionnfps",
+            "p1flag": "usca",
+            "pos1": "DPS",
+            "p2": "a1d0",
+            "p2flag": "usca",
+            "pos2": "DPS",
+            "p3": "soapsalesmann",
+            "p3flag": "usca",
+            "pos3": "TANK",
+            "p4": "ShartCandy",
+            "p4flag": "USA",
+            "pos4": "SUP",
+            "p5": "helicopet",
+            "p5flag": "usca",
+            "pos5": "SUP",
+            "p6": "uselessaqua",
+            "p6flag": "usca",
+            "pos6": "SUP"
+        },
+        {
+            "team": "Gordon Ramsay Esports",
+            "p1": "Sky5niper",
+            "p1flag": "USA",
+            "pos1": "DPS",
+            "p2": "Lich",
+            "p2flag": "USA",
+            "pos2": "DPS",
+            "p3": "Zyteu",
+            "p3flag": "USA",
+            "pos3": "DPS",
+            "p4": "Kephrii",
+            "p4flag": "USA",
+            "pos4": "DPS",
+            "p5": "Squatl3",
+            "p5flag": "USA",
+            "pos5": "TANK",
+            "p6": "Rajeem",
+            "p6flag": "India",
+            "pos6": "SUP",
+            "p7": "Winter",
+            "p7flag": "USA",
+            "pos7": "SUP",
+            "p7link": "Winter (North American player)",
+            "p8": "Graveyard",
+            "p8flag": "CA",
+            "pos8": "SUP"
+        },
+        {
+            "team": "Kitty Kats",
+            "p1": "broly211",
+            "p1flag": "usca",
+            "pos1": "",
+            "p2": "nephine",
+            "p2flag": "usca",
+            "pos2": "",
+            "p3": "x14o",
+            "p3flag": "usca",
+            "pos3": "",
+            "p4": "residude",
+            "p4flag": "usca",
+            "pos4": "",
+            "p5": "maxwell01d",
+            "p5flag": "usca",
+            "pos5": "",
+            "p6": "diijon",
+            "p6flag": "usca",
+            "pos6": "",
+            "p7": "anarchi",
+            "p7flag": "usca",
+            "pos7": ""
+        },
+        {
+            "team": "Mizzou Esports",
+            "p1": "backstabbud",
+            "p1flag": "us",
+            "pos1": "DPS",
+            "p2": "Gambit",
+            "p2flag": "us",
+            "pos2": "DPS",
+            "p3": "PingAnXile",
+            "p3flag": "us",
+            "pos3": "DPS",
+            "p4": "clairvoyant",
+            "p4flag": "us",
+            "pos4": "TANK",
+            "p5": "ashli",
+            "p5flag": "us",
+            "pos5": "SUP",
+            "p6": "TommySalami",
+            "p6flag": "us",
+            "pos6": "SUP"
+        },
+        {
+            "team": "Cardinals",
+            "p1": "vex",
+            "p1flag": "usca",
+            "pos1": "",
+            "p2": "shrimps21",
+            "p2flag": "usca",
+            "pos2": "",
+            "p3": "reyynaaa.",
+            "p3flag": "usca",
+            "pos3": "",
+            "p4": "yourfriend1111",
+            "p4flag": "usca",
+            "pos4": "",
+            "p5": "dnat233",
+            "p5flag": "usca",
+            "pos5": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Mizzou Esports",
+            "opponent1_score": 0,
+            "opponent2": "Kitty Kats",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Gordon Ramsay Esports",
+            "opponent1_score": 2,
+            "opponent2": "Atlas Arcadia",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bronco Gold",
+            "opponent1_score": 0,
+            "opponent2": "Bronco Black",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Gaming Gators",
+            "opponent1_score": 2,
+            "opponent2": "Cardinals",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Kitty Kats",
+            "opponent1_score": 0,
+            "opponent2": "Gordon Ramsay Esports",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Bronco Black",
+            "opponent1_score": 3,
+            "opponent2": "Gaming Gators",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Gordon Ramsay Esports",
+            "opponent1_score": 3,
+            "opponent2": "Bronco Black",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{{DISPLAYTITLE:Academy Gaming Overwatch Weekly #18}}
+{{Academy Gaming Overwatch Weekly Navbox}}<br>
+{{Infobox league
+|name=Academy Gaming Overwatch Weekly #18
+|shortname=18
+|image=AGFull.png
+|series=Academy Gaming
+|organizer=Academy Gaming
+|organizer-link=http://www.battlefy.com/academy-gaming/
+|sponsor=[http://www.matcherino.com/ Matcherino], [http://haste.net/ Haste]
+|type=Online
+|game=Overwatch
+|country=USA
+|format=Single Elimination {{Abbr/Bo3}}
+|date=2016-09-26
+|prizepoolusd=100
+|web=https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-18/57e1d3580ff1f21c0c735e88/info?infoTab=details
+|twitch=gamewithstorm
+|bracket=https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-18/57e1d3580ff1f21c0c735e88/stage/57e1d3580ff1f21c0c735e89/bracket/
+|liquipediatier=5|liquipediatiertype=Weekly
+|team_number=8
+}}
+
+==Overview==
+The '''Academy Gaming Overwatch Weekly #18'' is the 18th weekly tournament hosted by Academy Gaming.
+
+===Format===
+*Single Elimination Bracket
+**All rounds before the quarterfinals are {{Abbr/Bo1}}; quarterfinals, semifinals, and final are {{Abbr/Bo3}}
+**Round of 32: Hollywood
+**Round of 16: Watchpoint: Gibraltar
+**Round of 8:  King's Row -> Numbani -> Hollywood
+**Semifinals and Finals use OWDraft for map drafting on stream.
+
+===Prize Pool===
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=60}}
+|{{Slot|usdprize=40}}
+|{{Slot|place=3-4}}
+|{{Slot|place=5-8}}
+}}
+
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=GameWithStorm|b1flag=us|b1name=Joe Nowasell
+|b2=Heurix|b2flag=us|b2name=Christian Thomasser
+}}
+
+==Top 16==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Hammers eSports
+|image=
+|p1=Newmarket|p1flag=ca
+|p2=Packing10|p2flag=us
+|p3=Cynistre|p3flag=us
+|p4=Lorde|p4flag=us
+|p5=HotDate|p5flag=us
+|p6=daniel|p6flag=ca
+|p7=Taeyeon|p7flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=H2K
+|image=
+|p1=b1am|p1flag=
+|p2=Bird|p2flag=
+|p3=Kresnik|p3flag=
+|p4=m4risa|p4flag=us
+|p5=Esper|p5flag=
+|p6=Jordan|p6flag=
+|t2title=Staff
+|t2p1=Jsr|t2pos1=coach
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team AGG
+|image=
+|p1=Ferks|p1flag=us
+|p2=NicKk|p2flag=us
+|p3=Yuma|p3flag=us
+|p4=Lurma|p4flag=us
+|p5=sariel|p5flag=us
+|p6=Noobicabra|p6flag=us
+|p7=wildr0y|p7flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Wobbuffet Gaming
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Together We Stand
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=20 Tick Gaming
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=CCE
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Bubble Trouble
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|end|padding=2em}}
+
+==Results==
+{{Bracket|Bracket/8|id=8HzFlofGwi
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=3
+    |opponent1={{TeamOpponent|h2k|score=2}}
+    |opponent2={{TeamOpponent|together we stand|score=0}}
+}}
+|R1M2={{Match
+    |opponent1={{TeamOpponent|team agg|score=2}}
+    |opponent2={{TeamOpponent|20 tick gaming|score=0}}
+}}
+|R1M3={{Match
+    |opponent1={{TeamOpponent|cce|score=0}}
+    |opponent2={{TeamOpponent|wobbuffet gaming|score=2}}
+}}
+|R1M4={{Match
+    |opponent1={{TeamOpponent|hammers esports|score=2}}
+    |opponent2={{TeamOpponent|bubble trouble|score=0}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+    |opponent1={{TeamOpponent|h2k|score=2}}
+    |opponent2={{TeamOpponent|team agg||score=0}}
+}}
+|R2M2={{Match
+    |opponent1={{TeamOpponent|wobbuffet gaming|score=0}}
+    |opponent2={{TeamOpponent|hammers esports|score=2}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |opponent1={{TeamOpponent|h2k|score=1}}
+    |opponent2={{TeamOpponent|hammers esports|score=2}}
+}}
+}}

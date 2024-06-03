@@ -1,0 +1,481 @@
+{
+    "tournament_info": [
+        {
+            "name": "Pachimari Esports Brawl For All",
+            "shortname": "PEBFA",
+            "image": "Pachimari Arcade.png",
+            "icon": "Pachimari Arcade.png",
+            "organizer": "Pachimari Esports",
+            "sponsor": "",
+            "country": "Europe",
+            "type": "Online",
+            "format": "Double Elimination",
+            "prizepool": "50",
+            "localcurrency": "eur",
+            "prizepoolusd": "56",
+            "date": "2021-04-03",
+            "liquipediatier": "{{TierText/5}}",
+            "web": "",
+            "twitter": "",
+            "twitch": "",
+            "bracket": "",
+            "rulebook": "",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "23",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "AddFriend",
+            "image": "",
+            "p1": "Tim",
+            "p1flag": "de",
+            "pos1": "",
+            "p1link": "Tim (German Player)",
+            "p2": "Takumei",
+            "p2flag": "uk",
+            "pos2": "",
+            "p3": "Giyu",
+            "p3flag": "de",
+            "pos3": "",
+            "p4": "W1ll",
+            "p4flag": "de",
+            "pos4": "",
+            "p5": "MaDetho",
+            "p5flag": "dk",
+            "pos5": "",
+            "p6": "Seagu",
+            "p6flag": "de",
+            "pos6": "",
+            "p7": "TrqstMe",
+            "p8flag": "de",
+            "pos8": ""
+        },
+        {
+            "team": "Pachimari Arcade",
+            "image": "",
+            "p1": "Hitori",
+            "p1flag": "de",
+            "pos1": "Tank",
+            "p2": "Ellominati",
+            "p2flag": "de",
+            "pos2": "Tank",
+            "p3": "DeCeiVeR",
+            "p3flag": "at",
+            "pos3": "dps",
+            "p4": "Phnx",
+            "p4flag": "",
+            "pos4": "dps",
+            "p5": "Karma",
+            "p5flag": "",
+            "pos5": "support",
+            "p6": "Tsuyoku",
+            "p6flag": "de",
+            "pos6": "support",
+            "t2title": "Staff",
+            "t2c1": "Algos05",
+            "t2c1flag": "de",
+            "t2c1pos": "Manager"
+        },
+        {
+            "team": "Team Rolled",
+            "image": "",
+            "p1": "T\u01feM",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "CBTFan1",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Quan",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Challenge",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Tarantino",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Combo",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Emily",
+            "p7flag": "",
+            "pos7": ""
+        },
+        {
+            "team": "Jamyoole Esports",
+            "image": "",
+            "p1": "TomyB",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Fleischwurst",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "\u013f\u01fc\u014a",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "NLdiego",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "MayzG",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Raffaa",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Victrola",
+            "p7flag": "",
+            "pos7": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "AddFriend",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "PE Wisps: Requiem",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "HT Kitsune",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "I need Healing",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Jamyoole Esports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "PE StepUp",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "PE BronzeChamps",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "Try Me",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Silfur Mosfellsb\u00e6jar",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D9",
+            "team1": "PERMATILTED",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Server Name",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "Pachimari Arcade",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "PE Poetic Chaos",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D13",
+            "team1": "Strammen Burschen",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Team Rolled",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "Strong",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "HT Kitsune",
+            "score2": "",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "AddFriend",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Try Me",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W3",
+            "team1": "Jamyoole Esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Pachimari Arcade",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W5",
+            "team1": "Silfur Mosfellsb\u00e6jar",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Team Rolled",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W7",
+            "team1": "PE Poetic Chaos",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Jamyoole Esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "AddFriend",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Team Rolled",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W3",
+            "team1": "Pachimari Arcade",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Pachimari Arcade",
+            "score2": "2",
+            "win2": "",
+            "key": "R7W1",
+            "team1": "AddFriend",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "PE System Athena",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D17",
+            "team1": "Strong",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "PE Decade",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D19",
+            "team1": "Strammen Burschen",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "MKH REIGN",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D21",
+            "team1": "Server Name",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "PE Couch Potatoes",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D23",
+            "team1": "PERMATILTED",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ArcaneMILK",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D25",
+            "team1": "PE BronzeChamps",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Coconut Crew",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D27",
+            "team1": "PE StepUp",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "SpacePB",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D29",
+            "team1": "I need Healing",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Juewang",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D31",
+            "team1": "PE Wisps: Requiem",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Strammen Burschen",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "PE System Athena",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "PE Couch Potatoes",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "Server Name",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "PE StepUp",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W5",
+            "team1": "PE BronzeChamps",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "PE Wisps: Requiem",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "SpacePB",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Strammen Burschen",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3D1",
+            "team1": "Try Me",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "PE Couch Potatoes",
+            "score2": "0",
+            "win2": "",
+            "key": "R3D2",
+            "team1": "HT Kitsune",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "PE StepUp",
+            "score2": "1",
+            "win2": "",
+            "key": "R3D3",
+            "team1": "PE Poetic Chaos",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "SpacePB",
+            "score2": "0",
+            "win2": "",
+            "key": "R3D4",
+            "team1": "Silfur Mosfellsb\u00e6jar",
+            "score1": "2",
+            "win1": "0"
+        },
+        {
+            "team2": "HT Kitsune",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "Strammen Burschen",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Silfur Mosfellsb\u00e6jar",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W3",
+            "team1": "PE Poetic Chaos",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Strammen Burschen",
+            "score2": "0",
+            "win2": "",
+            "key": "R5D1",
+            "team1": "Team Rolled",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "PE Poetic Chaos",
+            "score2": "0",
+            "win2": "",
+            "key": "R5D2",
+            "team1": "Jamyoole Esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Jamyoole Esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R6W1",
+            "team1": "Team Rolled",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Team Rolled",
+            "score2": "2",
+            "win2": "",
+            "key": "R7D1",
+            "team1": "Pachimari Arcade",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "Pachimari Arcade",
+            "score2": "0",
+            "win2": "",
+            "key": "R8W1",
+            "team1": "AddFriend",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

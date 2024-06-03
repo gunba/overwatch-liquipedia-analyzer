@@ -1,0 +1,545 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "liquipediatiertype": "Showmatch",
+            "name": "Lulu's Throwdown",
+            "shortname": "Lulu's Throwdown",
+            "tickername": "Lulu's Throwdown",
+            "image": "Lulu's Throwdown 2023 allmode.png",
+            "icon": "Lulu's Throwdown 2023 allmode.png",
+            "organizer": "LuluLuvely",
+            "organizer2": "BoomTV",
+            "sponsor": "Monster Energy",
+            "type": "Online",
+            "game": "overwatch2",
+            "country": "North America",
+            "format": "Group Stage<br>Double Elimination",
+            "prizepoolusd": "50000",
+            "date": "2023-03-18",
+            "twitter": "lululuvely",
+            "twitch": "lululuvely",
+            "bracket": "https://boom.tv/lululuvely/52881/bracket",
+            "rulebook": "https://boom.tv/lululuvely/52881/events/rules",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "March 18, 2023 - 12:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team lululuvely",
+            "opponent1_score": 0,
+            "opponent2": "team eskay",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "March 18, 2023 - 12:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team quaso",
+            "opponent1_score": 2,
+            "opponent2": "team flats",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "March 18, 2023 - 13:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team lululuvely",
+            "opponent1_score": 1,
+            "opponent2": "team quaso",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "March 18, 2023 - 13:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team flats",
+            "opponent1_score": 0,
+            "opponent2": "team eskay",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "March 18, 2023 - 14:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team lululuvely",
+            "opponent1_score": 2,
+            "opponent2": "team flats",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "March 18, 2023 - 14:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team quaso",
+            "opponent1_score": 2,
+            "opponent2": "team eskay",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "3",
+            "date": "March 18, 2023 - 12:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team fareeha",
+            "opponent1_score": 1,
+            "opponent2": "team somjuu",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "March 18, 2023 - 12:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team jay3",
+            "opponent1_score": 2,
+            "opponent2": "team emongg",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "March 18, 2023 - 13:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team emongg",
+            "opponent1_score": 2,
+            "opponent2": "team somjuu",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M3="
+        },
+        {
+            "date": "March 18, 2023 - 13:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team fareeha",
+            "opponent1_score": 0,
+            "opponent2": "team jay3",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M4="
+        },
+        {
+            "date": "March 18, 2023 - 14:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team fareeha",
+            "opponent1_score": 0,
+            "opponent2": "team emongg",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M5="
+        },
+        {
+            "date": "March 18, 2023 - 14:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team jay3",
+            "opponent1_score": 2,
+            "opponent2": "team somjuu",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "M6="
+        },
+        {
+            "bestof": "3",
+            "date": "March 18, 2023 - 15:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team quaso",
+            "opponent1_score": 2,
+            "opponent2": "team eskay",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "March 18, 2023 - 15:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team jay3",
+            "opponent1_score": 2,
+            "opponent2": "team emongg",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "March 18, 2023 - 16:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team quaso",
+            "opponent1_score": 0,
+            "opponent2": "team jay3",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "March 18, 2023 - 16:00",
+            "date_timezone": "PDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team eskay",
+            "opponent1_score": 0,
+            "opponent2": "team emongg",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "RxMTP="
+        }
+    ]
+}

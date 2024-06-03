@@ -1,0 +1,186 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "series": "Nerd Street Gamers",
+            "abbreviation": "NSG",
+            "shortname": "NSG - 6v6 Tournament #6",
+            "name": "Nerd Street Gamers - 6v6 Tournament #6",
+            "tickername": "NSG 6v6 Tournament #6",
+            "image": "Nerd Street Gamers Overwatch Tournament.png",
+            "organizer": "Nerd Street Gamers",
+            "organizer-link": "https://nerdstgamers.com",
+            "sponsor": "[https://www.zipchairgaming.com Zipchair Gaming]<br>[https://www.mikeandike.com/product/original-fruits/ Mike and Ike]",
+            "type": "Online",
+            "country": "North America",
+            "format": "Double Elimination",
+            "prizepoolusd": "500",
+            "date": "2021-06-03",
+            "web": "https://events.nerdstgamers.com/",
+            "bracket": "https://battlefy.com/nerd-street-gamers/overwatch-6v6-tournament/608b576172a5c762ca43b890/stage/60b94cbff6db3e0ee06f6b6d/bracket/",
+            "rulebook": "https://battlefy.com/nerd-street-gamers/overwatch-6v6-tournament/608b576172a5c762ca43b890/info?infoTab=rules",
+            "team_number": "6",
+            "previous": "Nerd Street Gamers/6v6 Tournament/5{{!}}#5",
+            "next": "Nerd Street Gamers/6v6 Tournament/7{{!}}#7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Deus Chimpus",
+            "image": "",
+            "p1": "Sugureru|p1flag=us|pos1=dps",
+            "p2": "THTWeeaboo|p2flag=us|pos2=dps|p2link=peace",
+            "p3": "Dovokiin|p3flag=us|pos3=tank",
+            "p4": "Fidxl|p4flag=us|pos4=tank",
+            "p5": "reverse|p5flag=us|pos5=sup|p5link=reverse (American Player)",
+            "p6": "AJMR|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2p1": "Debit|t2pos1=Manager",
+            "t2p2": "Doc|t2pos2=Manager"
+        },
+        {
+            "team": "BSE PogFlyingFish",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Lofi Aim",
+            "image": "LofiLogo.jpg",
+            "p1": "Pummy|p1flag=us|pos1=dps",
+            "p2": "Bizz|p2flag=us|pos2=dps",
+            "p3": "Bolbi|p3flag=us|pos3=tank",
+            "p4": "Cash|p4flag=us|pos4=tank",
+            "p5": "Noctis|p5flag=us|pos5=sup",
+            "p6": "Geo|p6flag=us|pos6=sup|p6link=Geo (American Player)",
+            "c": "Denzel"
+        },
+        {
+            "team": "AHJA",
+            "image": "",
+            "p1": "Vision|p1flag=|pos1=dps",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        },
+        {
+            "team": "Redhawks",
+            "image": "Miami University Esports.png",
+            "p1": "CGS |p1flag=us |pos1=dps",
+            "p2": "Fahzix |p2flag=us |pos2=dps",
+            "p3": "Qinku |p3flag=us |pos3=tank",
+            "p4": "Heartache |p4flag=us |pos4=tank",
+            "p5": "Jaybird |p5flag=us |pos5=sup",
+            "p6": "CSACC |p6flag=us |pos6=sup"
+        },
+        {
+            "team": "Phoenix Rebirth",
+            "image": "",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "p6": "|p6flag=|pos6="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "BSE PogFlyingFish",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "Phoenix Rebirth",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Redhawks",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "AHJA",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BSE PogFlyingFish",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "Deus Chimpus",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "AHJA",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D2",
+            "team1": "Lofi Aim",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Lofi Aim",
+            "score2": "2",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "Deus Chimpus",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "Phoenix Rebirth",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D3",
+            "team1": "AHJA",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Redhawks",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D5",
+            "team1": "BSE PogFlyingFish",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Redhawks",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "AHJA",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "AHJA",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "Lofi Aim",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "AHJA",
+            "score2": "3",
+            "win2": "1",
+            "key": "R5W1",
+            "team1": "Deus Chimpus",
+            "score1": "2",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

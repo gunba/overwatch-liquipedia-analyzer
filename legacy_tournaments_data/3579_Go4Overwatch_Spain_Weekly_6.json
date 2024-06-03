@@ -1,0 +1,193 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Spain cup #6",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch ES",
+            "shortname": "6",
+            "ticketname": "Go4OW Spain #6",
+            "organizer": "ESL Spain",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "game": "overwatch",
+            "type": "Online",
+            "date": "2017-05-08",
+            "prizepool": "120",
+            "localcurrency": "eur",
+            "prizepoolusd": "128",
+            "web": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-spain/",
+            "twitch": "esl_overwatch_es",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-spain/cup-6/rankings/",
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "DragonsZ Gaming",
+            "p1": "Chopito  ",
+            "p1flag": "es",
+            "p2": "Gago  ",
+            "p2flag": "es",
+            "p3": "SandySanchez",
+            "p3flag": "es",
+            "p4": "Thorim",
+            "p4flag": "es",
+            "p5": "Tormenta",
+            "p5flag": "es",
+            "p6": "magulano",
+            "p6flag": "es"
+        },
+        {
+            "team": "GFoxes",
+            "p1": "HiImVistor",
+            "p1flag": "es",
+            "p2": "LionHearT ",
+            "p2flag": "es",
+            "p3": "Mrskoko ",
+            "p3flag": "es",
+            "p4": "Pablolo14 ",
+            "p4flag": "es",
+            "p5": "jorgesss30 ",
+            "p5flag": "es",
+            "p6": "Skareface ",
+            "p6flag": "es"
+        },
+        {
+            "team": "Panthers",
+            "p1": "Ardul",
+            "p1flag": "es",
+            "p2": "FattetHummus",
+            "p2flag": "es",
+            "p3": "Geletejo",
+            "p3flag": "es",
+            "p4": "Marty",
+            "p4flag": "es",
+            "p5": "PiLaXpa",
+            "p5flag": "es",
+            "p6": "Unknown",
+            "p6flag": "es"
+        },
+        {
+            "team": "PlayMight Gaming",
+            "p1": "RaulGenius",
+            "p1flag": "es",
+            "p2": "Woi  ",
+            "p2flag": "es",
+            "p3": "Cidonxa  ",
+            "p3flag": "es",
+            "p4": "Zackre  ",
+            "p4flag": "es",
+            "p5": "barcos94  ",
+            "p5flag": "es",
+            "p6": "portos  ",
+            "p6flag": "es"
+        },
+        {
+            "team": "Rubydra",
+            "p1": "HuntCrowler",
+            "p1flag": "es",
+            "p2": "Javs",
+            "p2flag": "es",
+            "p3": "KokoXx",
+            "p3flag": "es",
+            "p4": "Leroher",
+            "p4flag": "es",
+            "p5": "MarcIsLove",
+            "p5flag": "es",
+            "p6": "Ruuuben",
+            "p6flag": "es"
+        },
+        {
+            "team": "Wizards e-Sports Club",
+            "p1": "KRYP",
+            "p1flag": "",
+            "p2": "Nightyz",
+            "p2flag": "",
+            "p3": "Saura",
+            "p3flag": "",
+            "p4": "Shevatas",
+            "p4flag": "",
+            "p5": "Woolridge",
+            "p5flag": "es",
+            "p6": "vinanrra",
+            "p6flag": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "wizards e-sports club",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "gfoxes",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "dragonsz gaming",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "playmight gaming",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "rubydra",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "panthers",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "bye",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "dragonsz gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "wizards e-sports club",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "panthers",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "playmight gaming",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "panthers",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "wizards e-sports club",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "playmight gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "dragonsz gaming",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

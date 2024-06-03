@@ -1,0 +1,533 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "liquipediatiertype": "Qualifier",
+            "series": "FACEIT League",
+            "name": "FACEIT League Season 1 - SA Master Qualifier 1",
+            "tickername": "FACEIT League S1 SA Master Qualifier 1",
+            "image": "FACEIT League Master lightmode.png",
+            "imagedark": "FACEIT League Master darkmode.png",
+            "icon": "FACEIT League Master icon allmode.png",
+            "organizer": "FACEIT",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "South America",
+            "prizepoolusd": "1200",
+            "format": "Swiss<br>Single Elimination",
+            "sdate": "2024-04-06",
+            "edate": "2024-04-07",
+            "site": "https://www.faceit.com/",
+            "twitter": "FACEIT",
+            "facebook": "FaceitCommunity",
+            "instagram": "faceitcom",
+            "youtube": "FACEIT",
+            "twitch": "faceittv",
+            "discord": "faceit-overwatch2",
+            "faceit": "https://www.faceit.com/en/organizers/f0e8a591-08fd-4619-9d59-d97f0571842e/FACEIT%20League%20-%20Overwatch%202",
+            "rulebook": "https://www.faceit.com/en/championship/1a1af795-7e55-44c1-848d-e8d2596bd7a8/Master:%20Road%20to%20Esports%20World%20Cup%202024%20-%20SA%20Qualifier%201/rules",
+            "bracket": "https://www.faceit.com/en/championship/3c08b743-2b9d-4920-afd8-cbfaa01a6d79/Master:%20Road%20to%20Esports%20World%20Cup%202024%20-%20SA%20Qualifier%201",
+            "bracket2": "https://www.faceit.com/en/championship/ad0fc3c2-9765-45b5-958d-8b138386cb6a/Master:%20Road%20to%20Esports%20World%20Cup%202024%20-%20SA%20Closed%20Qualifier%201%20(Stage%202)",
+            "team_number": "13"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "War Pigs",
+            "p1": "Ludwig",
+            "pos1": "dps",
+            "p2": "ShawnOFF",
+            "pos2": "dps",
+            "p3": "Fanp",
+            "pos3": "dps",
+            "p4": "Lendario",
+            "pos4": "tank",
+            "p5": "Dalca",
+            "pos5": "tank",
+            "p6": "Nyohl",
+            "pos6": "sup",
+            "p7": "Pardal",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Levitate",
+            "t2c1flag": "",
+            "t2c1pos": "coach",
+            "qualifier": "[https://www.faceit.com/en/championship/3c08b743-2b9d-4920-afd8-cbfaa01a6d79/Master:%20Road%20to%20Esports%20World%20Cup%202024%20-%20SA%20Qualifier%201/standings/leaderboard Swiss]",
+            "placement": "1"
+        },
+        {
+            "team": "Loaded",
+            "p1": "Nitrao",
+            "pos1": "dps",
+            "p2": "Lucas42g",
+            "pos2": "dps",
+            "p3": "Sloth",
+            "pos3": "dps",
+            "p4": "Kani",
+            "p4flag": "br",
+            "pos4": "tank",
+            "p5": "Scarione",
+            "pos5": "sup",
+            "p6": "Froakie",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Come2Brazil",
+            "t2c1flag": "br",
+            "t2c1pos": "coach",
+            "qualifier": "[https://www.faceit.com/en/championship/3c08b743-2b9d-4920-afd8-cbfaa01a6d79/Master:%20Road%20to%20Esports%20World%20Cup%202024%20-%20SA%20Qualifier%201/standings/leaderboard Swiss]",
+            "placement": "2"
+        },
+        {
+            "team": "And They Say",
+            "p1": "Cabelada",
+            "p1flag": "br",
+            "pos1": "dps",
+            "p2": "Svenko",
+            "pos2": "dps",
+            "p3": "Luppo",
+            "pos3": "tank",
+            "p4": "TheSeriusGui",
+            "pos4": "tank",
+            "p5": "Bazzanella",
+            "pos5": "sup",
+            "p6": "XII",
+            "p6flag": "br",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Yax",
+            "t2c1flag": "br",
+            "t2c1pos": "coach",
+            "qualifier": "[https://www.faceit.com/en/championship/3c08b743-2b9d-4920-afd8-cbfaa01a6d79/Master:%20Road%20to%20Esports%20World%20Cup%202024%20-%20SA%20Qualifier%201/standings/leaderboard Swiss]",
+            "placement": "3"
+        },
+        {
+            "team": "team_neilwww",
+            "p1": "dudu",
+            "pos1": "dps",
+            "p2": "Lubbock",
+            "pos2": "dps",
+            "p3": "neil",
+            "pos3": "tank",
+            "p4": "wetter",
+            "pos4": "sup",
+            "p5": "alemao",
+            "pos5": "sup",
+            "qualifier": "[https://www.faceit.com/en/championship/3c08b743-2b9d-4920-afd8-cbfaa01a6d79/Master:%20Road%20to%20Esports%20World%20Cup%202024%20-%20SA%20Qualifier%201/standings/leaderboard Swiss]",
+            "placement": "4"
+        },
+        {
+            "team": "Gatitos",
+            "p1": "reach",
+            "p1flag": "br",
+            "pos1": "dps",
+            "p2": "Shin",
+            "p2flag": "br",
+            "pos2": "dps",
+            "p3": "Frack",
+            "p3flag": "cl",
+            "pos3": "tank",
+            "p4": "Lokjiiu",
+            "pos4": "sup",
+            "p5": "Poke",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "R3dder",
+            "t2c1flag": "pe",
+            "t2c1pos": "coach",
+            "t2c2": "weird",
+            "t2c2flag": "us",
+            "t2c2pos": "coach",
+            "t3title": "Substitutes",
+            "t3p1": "Persona",
+            "t3p1pos": "dps",
+            "t3p2": "Sas",
+            "t3p2flag": "br",
+            "t3p2pos": "sup",
+            "qualifier": "[https://www.faceit.com/en/championship/3c08b743-2b9d-4920-afd8-cbfaa01a6d79/Master:%20Road%20to%20Esports%20World%20Cup%202024%20-%20SA%20Qualifier%201/standings/leaderboard Swiss]",
+            "placement": "5"
+        },
+        {
+            "team": "team_marcelovs",
+            "p1": "Ligtat",
+            "p1flag": "br",
+            "pos1": "dps",
+            "p2": "ZombWu",
+            "p2flag": "br",
+            "pos2": "dps",
+            "p3": "Talkird",
+            "p3flag": "ar",
+            "pos3": "dps",
+            "p4": "GiuSaGoBo",
+            "p4flag": "br",
+            "pos4": "tank",
+            "p5": "MarceloVs",
+            "p5flag": "br",
+            "pos5": "sup",
+            "p6": "Capiom",
+            "p6flag": "br",
+            "pos6": "sup",
+            "qualifier": "[https://www.faceit.com/en/championship/3c08b743-2b9d-4920-afd8-cbfaa01a6d79/Master:%20Road%20to%20Esports%20World%20Cup%202024%20-%20SA%20Qualifier%201/standings/leaderboard Swiss]",
+            "placement": "6"
+        },
+        {
+            "team": "team_b0keh",
+            "p1": "Meeker",
+            "p1flag": "cl",
+            "pos1": "dps",
+            "p2": "lowlife",
+            "p2flag": "cl",
+            "pos2": "dps",
+            "p3": "Poplots",
+            "p3flag": "cl",
+            "pos3": "tank",
+            "p4": "Aramis",
+            "pos4": "sup",
+            "p5": "Bokeh",
+            "p5flag": "cl",
+            "pos5": "sup",
+            "qualifier": "[https://www.faceit.com/en/championship/3c08b743-2b9d-4920-afd8-cbfaa01a6d79/Master:%20Road%20to%20Esports%20World%20Cup%202024%20-%20SA%20Qualifier%201/standings/leaderboard Swiss]",
+            "placement": "7"
+        },
+        {
+            "team": "Caramujos",
+            "p1": "Grilo",
+            "pos1": "dps",
+            "p2": "MidZ",
+            "p2flag": "br",
+            "pos2": "dps",
+            "p3": "Zirael",
+            "p3flag": "br",
+            "pos3": "tank",
+            "p4": "Qwerty",
+            "p4flag": "br",
+            "pos4": "sup",
+            "p5": "LUCID",
+            "p5flag": "br",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "zigoss",
+            "t2c1flag": "br",
+            "t2c1pos": "coach",
+            "qualifier": "[https://www.faceit.com/en/championship/3c08b743-2b9d-4920-afd8-cbfaa01a6d79/Master:%20Road%20to%20Esports%20World%20Cup%202024%20-%20SA%20Qualifier%201/standings/leaderboard Swiss]",
+            "placement": "8"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "April 7, 2024 - 17:05",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "War Pigs",
+            "opponent2": "Caramujos",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "map5": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-c91f7ec2-b86e-49e2-aa9d-d5d36497aef3",
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 7, 2024 - 17:05",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "team_neilwww",
+            "opponent2": "Gatitos",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "map5": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-cf6a39e1-a98d-4674-be05-1b52ef21231e",
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 7, 2024 - 17:05",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Loaded",
+            "opponent2": "team_b0keh",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "map5": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-78e47feb-bff0-4911-8bf7-a16c1ebc43d9",
+            "optional": "R1M3="
+        },
+        {
+            "date": "April 7, 2024 - 17:05",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "And They Say",
+            "opponent2": "team_marcelovs",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "map5": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-7d84bc66-710b-4d5c-b580-1d6d9c772134",
+            "optional": "R1M4="
+        },
+        {
+            "date": "April 7, 2024 - 18:05",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "War Pigs",
+            "opponent2": "Gatitos",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "map5": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-bc25c93e-12b9-469b-8121-496bf4279041",
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 7, 2024 - 18:20",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Loaded",
+            "opponent2": "And They Say",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Rialto",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-eed8ef69-7a3e-436a-a5b8-363c1dcf40b8",
+            "optional": "R2M2="
+        },
+        {
+            "date": "April 7, 2024 - 19:35",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "War Pigs",
+            "opponent2": "Loaded",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "",
+                "score2": "",
+                "winner": "skip"
+            },
+            "faceit": "1-47f5ed36-aa5e-432e-8240-3780285d85da",
+            "optional": "R3M1="
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "tournament_info": [
+        {
+            "name": "Sino-Korean e-Sports Competition 2018",
+            "image": "Sino-Korea e-Sports Competition icon.png",
+            "series": "",
+            "abbreviation": "SKC",
+            "shortname": "2018",
+            "tickername": "SKC 2018",
+            "icon": "Sino-Korea e-Sports Competition icon.png",
+            "organizer": "Zhejiang e-Sports Association",
+            "organizer2": "",
+            "sponsor": "",
+            "patch": "1.31",
+            "type": "Offline",
+            "country": "China",
+            "city": "Huzhou",
+            "venue": "Huzhou Galaxy Media Cinema",
+            "format": "",
+            "prizepoolusd": "",
+            "date": "2018-12-31",
+            "liquipediatier": "2|liquipediatiertype=Showmatch",
+            "web": "http://nga.178.com/read.php?tid=16031853&rand=601",
+            "zhanqi": "152563108",
+            "twitter": "",
+            "facebook": "",
+            "youtube": "",
+            "instagram": "",
+            "weibo": "",
+            "team_number": "2",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Gen.G esports",
+            "p1": "Stalk3r|p1flag=kr|pos1=dps",
+            "p2": "Agnes|p2flag=kr|pos2=dps",
+            "p3": "shubil|p3flag=kr|pos3=flex",
+            "p4": "LUKE|p4flag=kr|pos4=tank",
+            "p5": "Umtae|p5flag=kr|pos5=tank",
+            "p6": "LVLZ|p6flag=kr|pos6=sup",
+            "p7": "DNCE|p7flag=kr|pos7=sup",
+            "c": "Zelgadiss|cflag=kr",
+            "c2": "MMA|c2flag=kr"
+        },
+        {
+            "team": "Flag Gaming",
+            "p1": "evillx|p1flag=cn|pos1=dps",
+            "p2": "Jason|p2flag=cn|pos2=dps",
+            "p3": "mAsk|p3flag=cn|pos3=dps",
+            "p4": "Lie|p4flag=cn|pos4=flex",
+            "p5": "MG|p5flag=cn|pos5=flex",
+            "p6": "Over|p6flag=cn|pos6=tank",
+            "p7": "Mika|p7flag=cn|pos7=support",
+            "p8": "Coldest|p8flag=cn|pos8=support",
+            "c": "U4|cflag=cn"
+        }
+    ],
+    "legacy_match_cards": [],
+    "match_maps": []
+}

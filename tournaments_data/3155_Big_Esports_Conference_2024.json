@@ -1,0 +1,779 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "liquipediatiertype": "Qualifier",
+            "series": "",
+            "abbreviation": "",
+            "name": "Big Esports Conference 2024 Playoffs",
+            "tickername": "Big Esports Conference 2024 Playoffs",
+            "image": "Big Esports Conference allmode.png",
+            "icon": "Big Esports Conference allmode.png",
+            "organizer": "Big Esports Conference",
+            "organizer-link": "",
+            "organizer2": "NECC",
+            "sponsor": "[https://collegiatesmg.com/esportsu/ Collegiate Sports Management Group/ESPORTSU]<br>[https://www.game-arena.co/ Game Arena]<br>[https://esportsfoundry.com/ Esports Foundry]",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Columbus, OH",
+            "venue": "Ohio State University Esports Arena",
+            "venuelink": "https://esports.osu.edu/the-arena",
+            "venuedesc": "Day 1 & Semifinals",
+            "venue2": "Game Arena",
+            "venue2link": "https://www.game-arena.co/",
+            "venue2desc": "Grand Finals",
+            "game": "overwatch2",
+            "prizepoolusd": "",
+            "sdate": "2024-04-12",
+            "edate": "2024-04-13",
+            "twitch": "esportsu",
+            "twitter": "BigEsportsConf",
+            "instagram": "esportsugaming",
+            "youtube": "@bigesportsconf",
+            "web": "https://bec.leagueos.gg/",
+            "discord": "a8NuqN6r5z",
+            "rulebook": "",
+            "bracket": "https://bec.leagueos.gg/league/seasons/J306DM7knYESrliw12kH/stages/635tfqfifsydgg9cfndzz48tc",
+            "bracket2": "https://bec.leagueos.gg/league/seasons/J306DM7knYESrliw12kH/stages/6weu8l0q3wton95tulms091o8",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "University of Michigan",
+            "p1": "Ikai",
+            "p1flag": "cn",
+            "pos1": "dps",
+            "p2": "Nervytitan40",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Tobywan",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Yimitra",
+            "pos4": "sup",
+            "p5": "Claymore",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Kajie",
+            "p6flag": "pe",
+            "pos6": "sup"
+        },
+        {
+            "team": "Northwestern University",
+            "p1": "Soy",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Sabbath",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Bizarre",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Mazemel",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "OneTrick",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Charybdis",
+            "p6flag": "us",
+            "pos6": "flex",
+            "p7": "LACKLUSTER",
+            "p7flag": "us",
+            "pos7": "",
+            "t2title": "Staff",
+            "t2c1": "Neptune",
+            "t2c1link": "Neptune_(American_player)",
+            "t2c1pos": "coach",
+            "t2c2": "Shannon",
+            "t2c2flag": "",
+            "t2c2pos": "Manager"
+        },
+        {
+            "team": "UCLA Main",
+            "p1": "Courier",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Xerxies",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "LIME",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Arcane",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p4link": "Arcane (American player)",
+            "p5": "Lyte",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p5link": "Lyte (Collegiate player)",
+            "p6": "TropicGem50",
+            "p6flag": "us",
+            "pos6": "sup"
+        },
+        {
+            "team": "Purdue University",
+            "p1": "blaze",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "abcastaj",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "ckruki",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "Goose1173",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "SmAugust",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "SwigS",
+            "p6flag": "",
+            "pos6": "",
+            "t2title": "Staff",
+            "t2c1": "monsterico",
+            "t2c1flag": "",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "University of Maryland",
+            "p1": "Jkesus",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Speep",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Infectious",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "C3E",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "Moosey",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Pumpkin",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Tony",
+            "p7flag": "us",
+            "pos7": "flex"
+        },
+        {
+            "team": "Ohio State University",
+            "p1": "Mafia",
+            "pos1": "dps",
+            "p2": "1yum",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Asterio",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "Crazerio",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Vovie",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "zZzBellazZz",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Orangutan",
+            "p7flag": "us",
+            "pos7": "sup",
+            "p8": "Skyph",
+            "p8flag": "us",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "Sockdolager",
+            "t2c1pos": "Coach",
+            "t2c2": "Moony",
+            "t2c2flag": "us",
+            "t2c2pos": "Manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "April 12, 2024 - 9:30",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "university of michigan",
+            "opponent2": "purdue university",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "3",
+                "winner": "1"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "April 12, 2024 - 9:30",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ucla main",
+            "opponent2": "northwestern university",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Shambali Monastery",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "April 12, 2024 - 9:30",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "university of maryland",
+            "opponent2": "ohio state university",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "April 12, 2024 - 10:45",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ucla main",
+            "opponent2": "university of michigan",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "April 12, 2024 - 10:45",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "purdue university",
+            "opponent2": "university of maryland",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "April 12, 2024 - 10:45",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "northwestern university",
+            "opponent2": "ohio state university",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "April 12, 2024 - 12:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "university of michigan",
+            "opponent2": "university of maryland",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "April 12, 2024 - 12:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ohio state university",
+            "opponent2": "ucla main",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "April 12, 2024 - 12:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "northwestern university",
+            "opponent2": "purdue university",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "April 12, 2024 - 13:45",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ohio state university",
+            "opponent2": "university of michigan",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "April 12, 2024 - 13:45",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "university of maryland",
+            "opponent2": "northwestern university",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "April 12, 2024 - 13:45",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ucla main",
+            "opponent2": "purdue university",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "3",
+            "date": "April 12, 2024 - 15:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "university of michigan",
+            "opponent2": "northwestern university",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "M1="
+        },
+        {
+            "date": "April 12, 2024 - 15:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "purdue university",
+            "opponent2": "ohio state university",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M2="
+        },
+        {
+            "date": "April 12, 2024 - 15:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "ucla main",
+            "opponent2": "university of maryland",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "M3="
+        },
+        {
+            "bestof": "5",
+            "date": "April 12, 2024 - 16:45",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Ohio State University|score=",
+            "opponent2": "Northwestern University|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "April 12, 2024 - 16:45",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "University of Michigan|score=",
+            "opponent2": "Purdue University|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "April 13, 2024 - 9:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "TerpsEsports",
+            "opponent1": "University of Maryland|score=",
+            "opponent2": "Ohio State University|score=",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "April 13, 2024 - 9:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "UCLA Main|score=",
+            "opponent2": "University of Michigan|score=",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "besotf": "7",
+            "date": "April 13, 2024 - 11:45",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "ESPORTSU",
+            "opponent1": "University of Maryland|score=",
+            "opponent2": "University of Michigan|score=",
+            "map1": {
+                "map": "Samoa",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        }
+    ]
+}

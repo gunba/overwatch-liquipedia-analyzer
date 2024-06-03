@@ -1,0 +1,935 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "name": "Calling All Heroes Challengers Cup Final",
+            "shortname": "Challengers Cup Final",
+            "series": "Calling All Heroes",
+            "abbreviation": "Calling All Heroes",
+            "tickername": "Challengers Cup Final",
+            "image": "Calling All Heroes Challengers Cup lightmode.png",
+            "imagedark": "Calling All Heroes Challengers Cup darkmode.png",
+            "icon": "Calling All Heroes allmode.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "Overwatch League",
+            "organizer3": "Raidiant",
+            "sponsor": "",
+            "type": "Online",
+            "game": "overwatch2",
+            "country": "North America",
+            "format": "Double Elimination",
+            "sdate": "2022-12-11",
+            "edate": "2022-12-18",
+            "prizepoolusd": "25000",
+            "web": "",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/CAH-Challengers-Cup-Final/info",
+            "twitch": "playoverwatch",
+            "twitter": "overwatchleague",
+            "discord": "wJFWdzsjHU",
+            "rulebook": "https://s3.amazonaws.com/mlg-gamebattles-production/assets/arenacp/files/1664499079/CAH-Challengers-Cup-Official-Rules-2022.pdf",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Altiora Artemis",
+            "p1": "Bun",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Hkeybroke",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "m5ri",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Evei",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Haley",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "annierisu",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Wicca",
+            "p7flag": "",
+            "pos7": "sup",
+            "p8": "Aniyun",
+            "p8flag": "",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "Jon",
+            "t2c1pos": "coach",
+            "t2c2": "elijah",
+            "t2c2pos": "manager",
+            "qualifier": "[[/Qualifier 1|Qualifier 1]]",
+            "placement": "1"
+        },
+        {
+            "team": "Altiora Polaris",
+            "p1": "sheep",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Sera",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Kjersti",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "Terra",
+            "p4flag": "mx",
+            "pos4": "tank",
+            "p5": "Mixvi",
+            "p5flag": "co",
+            "pos5": "sup",
+            "p6": "frogies44",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Dax",
+            "p7flag": "us",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Firinn",
+            "t2c1flag": "uksc",
+            "t2pos1": "coach",
+            "t2c2": "TFBuffalo",
+            "t2c2flag": "us",
+            "t2pos2": "manager",
+            "qualifier": "[[/Qualifier 1|Qualifier 1]]",
+            "placement": "2"
+        },
+        {
+            "team": "<span style=\"font-size:90%\">Washington Justice Red</span>",
+            "link": "Washington Justice Red",
+            "p1": "Fone",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Wutt",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Glitter",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "auburne",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "Doggo",
+            "p5flag": "",
+            "pos5": "sup",
+            "t2title": "Substitutes",
+            "t2p1": "Mini",
+            "t2p1flag": "uk",
+            "t2p1pos": "flex",
+            "t2p1link": "Mini (British player)",
+            "t3title": "Staff",
+            "t3c1": "SacredEnd",
+            "t3c1flag": "us",
+            "t3c1pos": "coach",
+            "qualifier": "[[/Qualifier 1|Qualifier 1]]",
+            "placement": "3-4",
+            "inotes": "{{NoteBig",
+            "n1": "[[OpeN]] leaves [[1:30 timezone]].",
+            "n2": "[[Doggo]] joins [[1:30 timezone]].",
+            "n3": "[[Washington Justice]] acquires [[1:30 timezone]] and rebrands them to [[Washington Justice Red]].<ref name=\"washington justice red\">{{cite web|url=https://twitter.com/washjustice/status/1600173221373829124|title=Presenting the Heroes representing us in the upcoming finals of the Calling All Heroes tournament:|publisher='''[[Washington Justice]]'''|date=2022-12-06}}</ref>"
+        },
+        {
+            "team": "Shikigami CAH",
+            "p1": "Dicey",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Spero",
+            "p2flag": "ca",
+            "pos2": "dps",
+            "p3": "Bogglingly",
+            "p3link": "Bog",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "AV2RY",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "shush",
+            "p5flag": "mx",
+            "pos5": "sup",
+            "p5link": "shush (Mexican Player)",
+            "p6": "Megatron",
+            "p6flag": "us",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "jVenom",
+            "t2c1pos": "coach",
+            "t2c2": "Aeroplayne",
+            "t2c2pos": "manager",
+            "qualifier": "[[/Qualifier 1|Qualifier 1]]",
+            "placement": "3-4"
+        },
+        {
+            "team": "Dart Monkeys",
+            "p1": "barcode",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Zemrit",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "MovingFish7",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Eskay",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "Aspen",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Somnus",
+            "p6flag": "de",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "JAKE",
+            "t2c1pos": "coach",
+            "qualifier": "[[/Qualifier 2|Qualifier 2]]",
+            "placement": "1"
+        },
+        {
+            "team": "Timeless Ethereal",
+            "p1": "JiM",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Azurae",
+            "p2flag": "ca",
+            "pos2": "dps",
+            "p3": "Santana",
+            "p3flag": "cu",
+            "pos3": "tank",
+            "p4": "Rubii",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "jamm",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Aramori",
+            "p6flag": "us",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "overworld",
+            "t2c1flag": "us",
+            "t2c1pos": "coach",
+            "t2c2": "psev",
+            "t2c2flag": "ca",
+            "t2c2pos": "coach",
+            "t2c3": "debit",
+            "t2c3pos": "manager",
+            "qualifier": "[[/Qualifier 2|Qualifier 2]]",
+            "placement": "2"
+        },
+        {
+            "team": "Rizz Sorority",
+            "p1": "Senna",
+            "p1flag": "gr",
+            "pos1": "dps",
+            "p2": "Essull",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "AJMR",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "steady",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "sniper",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "Meman",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "keroppi",
+            "p7flag": "us",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "chime",
+            "t2c1pos": "coach",
+            "t2c2": "Infekted",
+            "t2c2pos": "coach",
+            "t2c3": "Spilo",
+            "t2c3pos": "coach",
+            "qualifier": "[[/Qualifier 2|Qualifier 2]]",
+            "placement": "3-4",
+            "inotes": "{{NoteBig",
+            "n1": "Senna joins [[Rizz Sorority]].",
+            "n2": "[[Rizz Academy]] acquires [[Altiora Nimbus]] and rebrands them to [[Rizz Sorority]]. <ref name=\"rizz sorority\">{{cite web|url=https://twitter.com/RizzAcad/status/1603857579209285646|title=Announcing our #CallingAllHeroes roster this weekend, Rizz Sorority.|publisher='''[[Rizz Academy]]'''|date=2022-12-16}}</ref>"
+        },
+        {
+            "team": "kaiju corp blnt",
+            "p1": "MoMo",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Zabi",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "azu",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Zetsubou!",
+            "p4flag": "ph",
+            "pos4": "tank",
+            "p5": "ashen",
+            "p5flag": "us",
+            "pos5": "supp",
+            "p6": "OpeN",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "ItsBB",
+            "p7flag": "us",
+            "pos7": "sup",
+            "p8": "makabre",
+            "p8flag": "us",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "Arietta",
+            "t2c1flag": "us",
+            "t2pos1": "coach",
+            "t2c2": "kittenly",
+            "t2c2flag": "us",
+            "t2pos2": "manager",
+            "qualifier": "[[/Qualifier 2|Qualifier 2]]",
+            "placement": "3-4",
+            "inotes": "{{NoteBig",
+            "n1": "[[Afran]] leaves [[Ban on Choccy Milk]].",
+            "n2": "[[kaiju corp]] acquires [[Ban on Choccy Milk]] and rebrands them to [[kaiju corp blnt]]."
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "December 11, 2022 - 13:00",
+            "date_timezone": "PST",
+            "opponent1": "altiora artemis",
+            "opponent2": "kaiju corp blnt",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 11, 2022 - 13:00",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "washington justice red",
+            "opponent2": "timeless ethereal",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "111.72m",
+                "score2": "111.73m",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 11, 2022 - 14:30",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "altiora polaris|score=",
+            "opponent2": "Rizz Sorority|score=",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "December 11, 2022 - 14:30",
+            "date_timezone": "PST",
+            "opponent1": "shikigami cah",
+            "opponent2": "dart monkeys",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "December 11, 2022 - 16:00",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "altiora artemis|score=",
+            "opponent2": "washington justice red|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "December 11, 2022 - 17:30",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "Rizz Sorority",
+            "opponent1_score": 0,
+            "opponent2": "dart monkeys",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "December 18, 2022 - 13:00",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "altiora artemis|score=",
+            "opponent2": "dart monkeys|score=",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "December 17, 2022 - 13:00",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "kaiju corp blnt",
+            "opponent1_score": 0,
+            "opponent2": "timeless ethereal",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "December 17, 2022 - 14:30",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "altiora polaris",
+            "opponent1_score": 3,
+            "opponent2": "shikigami cah",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "83.77m",
+                "score2": "66.42m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "December 17, 2022 - 16:00",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "Rizz Sorority|score=",
+            "opponent2": "timeless ethereal|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "December 17, 2022 - 17:30",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "washington justice red|score=",
+            "opponent2": "altiora polaris|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "98.40m",
+                "score2": "62.59m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "December 18, 2022 - 14:30",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "timeless ethereal|score=",
+            "opponent2": "altiora polaris|score=",
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Para\u00edso",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "61.60m",
+                "score2": "98.20m",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "December 18, 2022 - 16:00",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "dart monkeys|score=",
+            "opponent2": "timeless ethereal|score=",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "7",
+            "date": "December 18, 2022 - 17:30",
+            "date_timezone": "PST",
+            "youtube": "overwatchleague",
+            "twitch": "playoverwatch",
+            "opponent1": "altiora artemis|score=",
+            "opponent2": "dart monkeys|score=",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Route 66",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "127.45m",
+                "score2": "33.88m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map6": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map7": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

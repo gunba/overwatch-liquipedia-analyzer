@@ -1,0 +1,75 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "-1|liquipediatiertype=Weekly",
+            "name": "GameBattles 3v3 Elimination North America #2",
+            "shortname": "3v3 North America #2",
+            "tickername": "GameBattles 3v3 NA #2",
+            "icon": "GameBattles icon lightmode.png",
+            "icondark": "GameBattles icon darkmode.png",
+            "image": "GameBattles lightmode.png",
+            "imagedark": "GameBattles darkmode.png",
+            "organizer": "GameBattles",
+            "series": "GameBattles",
+            "abbreviation": "GB",
+            "sponsor": "",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "250",
+            "date": "2022-10-23",
+            "twitter": "gamebattles",
+            "discord": "gamebattles",
+            "facebook": "gamebattles",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3-250-na6/info",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3-250-na6/bracket",
+            "team_number": "7"
+        }
+    ],
+    "team_cards": [],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the one piece is real!!!|score=L}}",
+            "opponent2": "{{TeamOpponent|kryix|score=W}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|cold war champs|score=W}}",
+            "opponent2": "{{TeamOpponent|spooky szn|score=L}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|those fellas|score=W}}",
+            "opponent2": "{{TeamOpponent|sundayfundayow|score=L}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|chimp club|score=L}}",
+            "opponent2": "{{TeamOpponent|kryix|score=W}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|cold war champs|score=L}}",
+            "opponent2": "{{TeamOpponent|those fellas|score=W}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|kryix|score=W}}",
+            "opponent2": "{{TeamOpponent|those fellas|score=L}}",
+            "optional": "R3M1="
+        }
+    ]
+}

@@ -1,0 +1,286 @@
+{{Infobox league
+|liquipediatier=3|liquipediatiertype=Showmatch
+|name=AverageJonas & LuluLuvely Community Tournament
+|shortname=AJLL Tournament
+|tickername=AJLL Community Tournament
+|image=Overwatch 2 Community Tournament lightmode.png
+|imagedark=Overwatch 2 Community Tournament darkmode.png
+|icon=Overwatch 2 default lightmode.png
+|icondark=Overwatch 2 default darkmode.png
+|organizer=AverageJonas
+|organizer2=LuluLuvely
+|organizer3=Blizzard Entertainment
+|sponsor=
+|type=Online
+|game=overwatch2
+|country=North America
+|format=Round Robin<br>Single Elimination
+|prizepoolusd=25000
+|date=2022-12-20
+|web=https://overwatch.blizzard.com/en-us/news/23892141/
+|twitch=averagejonas
+|twitch2=lululuvely
+|bracket=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/Showdown-Group-A/teams
+|bracket2=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/Showdown-Group-B/teams
+|team_number=8
+}}
+
+==Information==
+*{{Abbr/Bo3}} round robin
+*Top two teams from each group advance
+*{{Abbr/Bo5}} Playoffs
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=15000}}
+|{{Slot|usdprize=6000}}
+|{{Slot|usdprize=2000|place=3-4}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start}}
+{{TeamCard
+|team=4 Nerds 1 Bird
+|p1=Seagull|p1flag=|pos1=dps
+|p2=Flats|p2flag=us|pos2=dps
+|p3=AverageJonas|p3flag=|pos3=tank
+|p4=KarQ|p4flag=ca|pos4=sup
+|p5=Emongg|p5flag=|pos5=sup
+}}
+{{TeamCard
+|team=Team LuluLuvely
+|p1=Jay3|p1flag=us|pos1=dps
+|p2=Fareeha|p2flag=ca|pos2=dps
+|p3=super|p3flag=|pos3=tank
+|p4=Custa|p4flag=|pos4=sup
+|p5=LuluLuvely|p5flag=us|pos5=sup
+}}
+{{TeamCard
+|team=Team Sleepy
+|p1=Deku|p1flag=us|pos1=dps
+|p2=Wanted|p2flag=us|pos2=dps
+|p3=Akash|p3flag=|pos3=tank
+|p4=Paintbrush|p4flag=|pos4=sup|p4team=nix
+|p5=sleepy|p5flag=|pos5=sup
+}}
+{{TeamCard
+|team=Team Guru
+|p1=wsps|p1flag=us|pos1=dps
+|p2=Surefour|p2flag=|pos2=dps
+|p3=Guru|p3flag=|pos3=tank|p3team=Project S+
+|p4=Mohr|p4flag=|pos4=sup
+|p5=cjay|p5flag=|pos5=sup|p5team=odyssey
+}}
+{{TeamCard
+|team=Team Jake
+|p1=JAKE|p1flag=|pos1=dps
+|p2=Syrus|p2flag=|pos2=dps
+|p3=Cyx|p3flag=us|pos3=tank
+|p4=ShartCandy|p4flag=us|pos4=sup
+|p5=Gorilla|p5flag=ca|pos5=sup
+}}
+{{TeamCard
+|team=Team TheBeast5000
+|p1=barcode|p1flag=us|pos1=dps
+|p2=Warn|p2flag=ca|pos2=dps
+|p3=bowie|p3flag=us|pos3=tank
+|p4=August|p4flag=|pos4=sup
+|p5=eskay|p5flag=us|pos5=sup
+}}
+{{TeamCard
+|team=Walkaway
+|p1=P3t9L|p1flag=|pos1=dps
+|p2=Apply|p2flag=|pos2=dps
+|p3=parker|p3flag=us|pos3=tank
+|p4=Aspen|p4flag=|pos4=sup
+|p5=Momo|p5flag=us|pos5=sup
+}}
+{{TeamCard
+|team=Team Meow
+|p1=Kragie|p1flag=|pos1=dps
+|p2=Eqo|p2flag=|pos2=dps
+|p3=Bogur|p3flag=|pos3=tank
+|p4=Somnus|p4flag=de|pos4=sup
+|p5=mL7|p5flag=ro|pos5=sup
+}}
+{{TeamCard columns end}}
+<section end="Participants"/>
+
+==Results==
+===Group Stage===
+{{box|start|padding=2em}}
+{{GroupTableLeague
+|width=450px|title=Group 1
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down|walkover_win=2
+|bg1=up|team1=team meow (ow2)
+|bg2=down|team2=4 nerds 1 bird
+|bg3=up|team3=team jake (ow2)
+|bg4=down|team4=team guru
+}}
+{{Matchlist|id=wmPlagCkBe|width=450px
+|M1={{Match
+    |bestof=3
+    |date=December 20, 2022 - 12:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|4 nerds 1 bird|score=}}
+    |opponent2={{TeamOpponent|team meow (ow2)|score=}}
+	|map1={{Map|map=New Queen Street|mode=Push|score1=0.00m|score2=128.00m|winner=2}}
+	|map2={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+	|map3={{Map|map=Dorado|mode=Escort|score1=|score2=|winner=skip}}
+}}
+|M2={{Match
+    |date=December 20, 2022 - 12:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team jake (ow2)|score=}}
+    |opponent2={{TeamOpponent|team guru|score=}}
+	|map1={{Map|map=New Queen Street|mode=Push|score1=119.41m|score2=88.74m|winner=1}}
+	|map2={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+	|map3={{Map|map=Dorado|mode=Escort|score1=3|score2=2|winner=1}}
+}}
+|M3={{Match
+    |date=December 20, 2022 - 13:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team jake (ow2)|score=}}
+    |opponent2={{TeamOpponent|4 nerds 1 bird|score=}}
+	|map1={{Map|map=Colosseo|mode=Push|score1=140.00m|score2=61.60m|winner=1}}
+	|map2={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+	|map3={{Map|map=Shambali Monastery|mode=Escort|score1=|score2=|winner=skip}}
+}}
+|M4={{Match
+    |date=December 20, 2022 - 13:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team meow (ow2)|score=}}
+    |opponent2={{TeamOpponent|team guru|score=}}
+	|map1={{Map|map=Colosseo|mode=Push|score1=120.74m|score2=80.30m|winner=1}}
+	|map2={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+	|map3={{Map|map=Shambali Monastery|mode=Escort|score1=|score2=|winner=skip}}
+}}
+|M5={{Match
+    |date=December 20, 2022 - 14:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team guru|score=}}
+    |opponent2={{TeamOpponent|4 nerds 1 bird|score=}}
+	|map1={{Map|map=Esperança|mode=Push|score1=97.22m|score2=93.08m|winner=1}}
+	|map2={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+	|map3={{Map|map=Route 66|mode=Escort|score1=|score2=|winner=skip}}
+}}
+|M6={{Match
+    |date=December 20, 2022 - 14:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team meow (ow2)|score=}}
+    |opponent2={{TeamOpponent|team jake (ow2)|score=}}
+	|map1={{Map|map=Esperança|mode=Push|score1=73.45m|score2=141.10m|winner=2}}
+	|map2={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+	|map3={{Map|map=Route 66|mode=Escort|score1=2|score2=3|winner=2}}
+}}
+}}
+{{box|break|padding=2em}}
+{{GroupTableLeague
+|width=450px|title=Group 2
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down|walkover_win=2
+|bg1=down|team1=team lululuvely
+|bg2=up|team2=team sleepy
+|bg3=down|team3=team thebeast5000
+|bg4=up|team4=walkaway (ow2)
+}}
+{{Matchlist|id=8Lo0lhlFoD|width=450px
+|M1={{Match
+    |bestof=3
+    |date=December 20, 2022 - 12:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team sleepy|score=}}
+    |opponent2={{TeamOpponent|team thebeast5000|score=}}
+	|map1={{Map|map=New Queen Street|mode=Push|score1=121.95m|score2=86.61m|winner=1}}
+	|map2={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+	|map3={{Map|map=Dorado|mode=Escort|score1=5|score2=4|winner=1}}
+}}
+|M2={{Match
+    |date=December 20, 2022 - 12:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team lululuvely|score=}}
+    |opponent2={{TeamOpponent|walkaway (ow2)|score=}}
+	|map1={{Map|map=New Queen Street|mode=Push|score1=77.83m|score2=124.57m|winner=2}}
+	|map2={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+	|map3={{Map|map=Dorado|mode=Escort|score1=|score2=|winner=skip}}
+}}
+|M3={{Match
+    |date=December 20, 2022 - 13:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team lululuvely|score=}}
+    |opponent2={{TeamOpponent|team sleepy|score=}}
+	|map1={{Map|map=Colosseo|mode=Push|score1=77.58m|score2=128.51m|winner=2}}
+	|map2={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+	|map3={{Map|map=Shambali Monastery|mode=Escort|score1=|score2=|winner=skip}}
+}}
+|M4={{Match
+    |date=December 20, 2022 - 13:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team thebeast5000|score=}}
+    |opponent2={{TeamOpponent|walkaway (ow2)|score=}}
+	|map1={{Map|map=Colosseo|mode=Push|score1=57.01m|score2=90.86m|winner=2}}
+	|map2={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+	|map3={{Map|map=Shambali Monastery|mode=Escort|score1=|score2=|winner=skip}}
+}}
+|M5={{Match
+    |date=December 20, 2022 - 14:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|walkaway (ow2)|score=}}
+    |opponent2={{TeamOpponent|team sleepy|score=}}
+	|map1={{Map|map=Esperança|mode=Push|score1=103.86m|score2=53.60m|winner=1}}
+	|map2={{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}
+	|map3={{Map|map=Route 66|mode=Escort|score1=|score2=|winner=skip}}
+}}
+|M6={{Match
+    |date=December 20, 2022 - 14:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team lululuvely|score=}}
+    |opponent2={{TeamOpponent|team thebeast5000|score=}}
+	|map1={{Map|map=Esperança|mode=Push|score1=52.31m|score2=140.00m|winner=2}}
+	|map2={{Map|map=Busan|mode=Control|score1=1|score2=2|winner=2}}
+	|map3={{Map|map=Route 66|mode=Escort|score1=|score2=|winner=skip}}
+}}
+}}
+{{box|end}}
+
+===Playoffs===
+{{Bracket|Bracket/4|id=e6fmWXZTWt
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=5
+    |date=December 20, 2022 - 15:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team jake (ow2)}}
+    |opponent2={{TeamOpponent|team sleepy}}
+    |map1={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Esperança|mode=Push|score1=0.00m|score2=141.10m|winner=2}}
+    |map4={{Map|map=Circuit Royal|mode=Escort|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+}}
+|R1M2={{Match
+    |date=December 20, 2022 - 16:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team meow (ow2)}}
+    |opponent2={{TeamOpponent|walkaway (ow2)}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=Esperança|mode=Push|score1=138.13m|score2=25.98m|winner=1}}
+    |map4={{Map|map=Circuit Royal|mode=Escort|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |date=December 20, 2022 - 17:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team sleepy}}
+    |opponent2={{TeamOpponent|team meow (ow2)}}
+    |map1={{Map|map=Nepal|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=New Queen Street|mode=Push|score1=68.05m|score2=97.37m|winner=2}}
+    |map4={{Map|map=Shambali Monastery|mode=Escort|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+}}
+}}

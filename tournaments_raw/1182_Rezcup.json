@@ -1,0 +1,353 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "abbreviation": "Rezcup",
+            "name": "Rez Community Cup",
+            "shortname": "Rezcup",
+            "tickername": "Rezcup",
+            "icon": "",
+            "image": "",
+            "series": "Rezcup",
+            "organizer": "Rez",
+            "game": "overwatch2",
+            "prizepool": "",
+            "localcurrency": "",
+            "type": "Online",
+            "country": "Russia",
+            "format": "Double Elimination",
+            "prizepoolusd": "600",
+            "sdate": "2023-06-03",
+            "edate": "2023-06-03",
+            "twitter": "rezsuu",
+            "web": "",
+            "twitch": "rezsuu",
+            "discord": "f8quYPzKMs",
+            "youtube": "@rezsuu",
+            "vk": "",
+            "rulebook": "",
+            "bracket": "https://challonge.com/rezcup",
+            "teamfirst": "",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team DOORSTUCK",
+            "p1": "\u044e\u0437\u043b\u0435\u0441|p1flag=|pos1=tank",
+            "p2": "avalanche|p2flag=|pos2=dps",
+            "p3": "exlnt|p3flag=|pos3=dps",
+            "p4": "DOORSTUCK|p4flag=|pos4=sup",
+            "p5": "distribution|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team EvoChad",
+            "p1": "EvoChad|p1flag=|pos1=tank",
+            "p2": "SlavishBow95|p2flag=|pos2=dps",
+            "p3": "Flammable|p3flag=|pos3=dps",
+            "p4": "Motorola|p4flag=|pos4=sup",
+            "p5": "S0SOCHKA|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team Jebaited",
+            "p1": "\u0412\u0435\u0440\u043e\u043d\u0438\u043a\u0430|p1flag=|pos1=tank",
+            "p2": "BiDonia|p2flag=|pos2=dps",
+            "p3": "NyeUveren|p3flag=|pos3=dps",
+            "p4": "Jebaited|p4flag=ru|pos4=sup",
+            "p5": "Juicy|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team \u01f6\u0198\u0212\u01fa\u0194\u01f6",
+            "p1": "DarthMurloc|p1flag=ru|pos1=tank",
+            "p2": "\u01f6\u0198\u0212\u01fa\u0194\u01f6|p2flag=|pos2=dps",
+            "p3": "svevoloch|p3flag=|pos3=dps",
+            "p4": "Wisparian|p4flag=|pos4=sup",
+            "p5": "Implantator|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team \u0422\u0430\u0439\u043d\u043e\u043a\u0440\u0430\u0431",
+            "p1": "\u0422\u0430\u0439\u043d\u043e\u043a\u0440\u0430\u0431|p1flag=ru|pos1=tank",
+            "p2": "french|p2flag=ru|pos2=dps",
+            "p3": "\u043f\u043e\u044d\u0437\u0438\u044f\u0444\u043e\u043b\u044c\u0433\u0438|p3flag=|pos3=dps",
+            "p4": "Dikey|p4flag=|pos4=sup",
+            "p5": "LUNA|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team \u0411\u043b\u0430\u0436\u0435\u043d\u043d\u044b\u0439",
+            "p1": "montegro|p1flag=|pos1=tank",
+            "p2": "Slook|p2flag=|pos2=dps",
+            "p3": "Loneer|p3flag=|pos3=dps",
+            "p4": "\u0411\u043b\u0430\u0436\u0435\u043d\u043d\u044b\u0439|p4flag=|pos4=sup",
+            "p5": "dtango|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team \u0411\u041e\u0416\u0415\u041f\u041e\u041c\u041e\u0413\u041876",
+            "p1": "PuSHkiN99|p1flag=|pos1=tank",
+            "p2": "\u0411\u041e\u0416\u0415\u041f\u041e\u041c\u041e\u0413\u041876|p2flag=|pos2=dps",
+            "p3": "Oikawa|p3flag=|pos3=dps",
+            "p4": "DirtyLord|p4flag=|pos4=sup",
+            "p5": "SadZero|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team KGBKILLER",
+            "p1": "morphia|p1flag=|pos1=tank",
+            "p2": "KGBKILLER|p2flag=ru|pos2=dps",
+            "p3": "Avsy|p3flag=|pos3=dps",
+            "p4": "Frieza666|p4flag=|pos4=sup",
+            "p5": "xZhmih|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team kovaakdebil",
+            "p1": "\u0421\u0442\u0440\u0430\u0441\u0442\u044c|p1flag=|pos1=tank",
+            "p2": "kovaakdebil|p2flag=|pos2=dps",
+            "p3": "OnePunchMan|p3flag=|pos3=dps",
+            "p4": "finnik|p4flag=|pos4=sup",
+            "p5": "\u0422\u043e\u043b\u044e\u0448\u0430|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team \u0425\u043e\u0447\u0443\u041b\u044e\u0431\u0438\u0442\u044c",
+            "p1": "\u041b\u0435\u0442\u044f\u0449\u0438\u0439\u0421\u0432\u0438\u043d|p1flag=|pos1=tank",
+            "p2": "tracker|p2flag=|pos2=dps",
+            "p3": "Duuumpling|p3flag=|pos3=dps",
+            "p4": "SilentAshley|p4flag=ru|pos4=sup",
+            "p5": "CoffeMachine|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team HeadHunter",
+            "p1": "HeadHunter|p1flag=|pos1=tank",
+            "p2": "marmeladka|p2flag=|pos2=dps",
+            "p3": "\u041f\u0440\u043e\u0441\u0442\u0438\u0442\u0435\u041c\u0435\u043d\u044f|p3flag=|pos3=dps",
+            "p4": "getrolled|p4flag=|pos4=sup",
+            "p5": "Grafonya|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team dasha21cm",
+            "p1": "TenYokai|p1flag=ru|pos1=tank",
+            "p2": "\u0412\u043e\u0432\u0430\u043d\u044b\u0447|p2flag=|pos2=dps",
+            "p3": "\u041b\u042e\u0411\u041b\u042e\u041c\u0410\u041c\u0423|p3flag=|pos3=dps",
+            "p4": "dasha21cm|p4flag=|pos4=sup",
+            "p5": "\u01c2\u01c2\u01c2|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team Scorp",
+            "p1": "lessmore|p1flag=|pos1=tank",
+            "p2": "Scorp|p2flag=|pos2=dps",
+            "p3": "unLucky|p3flag=|pos3=dps",
+            "p4": "KarenShi|p4flag=|pos4=sup",
+            "p5": "Bambi|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team zerotsu",
+            "p1": "Flash|p1flag=|pos1=tank",
+            "p2": "zerotsu|p2flag=|pos2=dps",
+            "p3": "Dadknows|p3flag=|pos3=dps",
+            "p4": "DeaMoris|p4flag=|pos4=sup",
+            "p5": "Jjosskkii|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team \u0425\u0440\u0430\u043f\u043e\u0432\u0438\u043a2009",
+            "p1": "INDIGO|p1flag=ru|pos1=tank",
+            "p2": "\u0425\u0440\u0430\u043f\u043e\u0432\u0438\u043a2009|p2flag=|pos2=dps",
+            "p3": "Smoke|p3flag=|pos3=dps",
+            "p4": "Dionyss|p4flag=|pos4=sup",
+            "p5": "\u0414\u0440\u0435\u0439\u043d\u041f\u0440\u043e\u0444\u0438|p5flag=|pos5=sup"
+        },
+        {
+            "team": "Team Glebabase",
+            "p1": "OverlorD|p1flag=ru|pos1=tank",
+            "p2": "Glebabase|p2flag=ru|pos2=dps",
+            "p3": "l0ng|p3flag=|pos3=dps",
+            "p4": "Bibichiha|p4flag=|pos4=sup",
+            "p5": "SockOfFate|p5flag=|pos5=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|Team DOORSTUCK|score=2}}",
+            "opponent2": "{{TeamOpponent|Team EvoChad|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team Jebaited|score=0}}",
+            "opponent2": "{{TeamOpponent|Team \u01f6\u0198\u0212\u01fa\u0194\u01f6|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u0422\u0430\u0439\u043d\u043e\u043a\u0440\u0430\u0431|score=2}}",
+            "opponent2": "{{TeamOpponent|Team \u0411\u043b\u0430\u0436\u0435\u043d\u043d\u044b\u0439|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u0411\u041e\u0416\u0415\u041f\u041e\u041c\u041e\u0413\u041876|score=2}}",
+            "opponent2": "{{TeamOpponent|Team KGBKILLER|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team kovaakdebil|score=2}}",
+            "opponent2": "{{TeamOpponent|Team \u0425\u043e\u0447\u0443\u041b\u044e\u0431\u0438\u0442\u044c|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team HeadHunter|score=2}}",
+            "opponent2": "{{TeamOpponent|Team dasha21cm|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team Scorp|score=0}}",
+            "opponent2": "{{TeamOpponent|Team zerotsu|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u0425\u0440\u0430\u043f\u043e\u0432\u0438\u043a2009|score=1}}",
+            "opponent2": "{{TeamOpponent|Team Glebabase|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team DOORSTUCK|score=0}}",
+            "opponent2": "{{TeamOpponent|Team \u01f6\u0198\u0212\u01fa\u0194\u01f6|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u0422\u0430\u0439\u043d\u043e\u043a\u0440\u0430\u0431|score=2}}",
+            "opponent2": "{{TeamOpponent|Team \u0411\u041e\u0416\u0415\u041f\u041e\u041c\u041e\u0413\u041876|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team kovaakdebil|score=0}}",
+            "opponent2": "{{TeamOpponent|Team HeadHunter|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team zerotsu|score=2}}",
+            "opponent2": "{{TeamOpponent|Team Glebabase|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u01f6\u0198\u0212\u01fa\u0194\u01f6|score=2}}",
+            "opponent2": "{{TeamOpponent|Team \u0422\u0430\u0439\u043d\u043e\u043a\u0440\u0430\u0431|score=1}}",
+            "optional": "R4M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team HeadHunter|score=2}}",
+            "opponent2": "{{TeamOpponent|Team zerotsu|score=0}}",
+            "optional": "R4M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u01f6\u0198\u0212\u01fa\u0194\u01f6|score=2}}",
+            "opponent2": "{{TeamOpponent|Team HeadHunter|score=0}}",
+            "optional": "R6M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team EvoChad|score=2}}",
+            "opponent2": "{{TeamOpponent|Team Jebaited|score=0}}",
+            "optional": "R1M9="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u0411\u043b\u0430\u0436\u0435\u043d\u043d\u044b\u0439|score=2}}",
+            "opponent2": "{{TeamOpponent|Team KGBKILLER|score=0}}",
+            "optional": "R1M10="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u0425\u043e\u0447\u0443\u041b\u044e\u0431\u0438\u0442\u044c|score=2}}",
+            "opponent2": "{{TeamOpponent|Team dasha21cm|score=1}}",
+            "optional": "R1M11="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team Scorp|score=1}}",
+            "opponent2": "{{TeamOpponent|Team \u0425\u0440\u0430\u043f\u043e\u0432\u0438\u043a2009|score=2}}",
+            "optional": "R1M12="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team Glebabase|score=1}}",
+            "opponent2": "{{TeamOpponent|Team EvoChad|score=2}}",
+            "optional": "R2M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team kovaakdebil|score=0}}",
+            "opponent2": "{{TeamOpponent|Team \u0411\u043b\u0430\u0436\u0435\u043d\u043d\u044b\u0439|score=2}}",
+            "optional": "R2M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u0411\u041e\u0416\u0415\u041f\u041e\u041c\u041e\u0413\u041876|score=1}}",
+            "opponent2": "{{TeamOpponent|Team \u0425\u043e\u0447\u0443\u041b\u044e\u0431\u0438\u0442\u044c|score=2}}",
+            "optional": "R2M7="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team DOORSTUCK|score=0}}",
+            "opponent2": "{{TeamOpponent|Team \u0425\u0440\u0430\u043f\u043e\u0432\u0438\u043a2009|score=2}}",
+            "optional": "R2M8="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team EvoChad|score=2}}",
+            "opponent2": "{{TeamOpponent|Team \u0411\u043b\u0430\u0436\u0435\u043d\u043d\u044b\u0439|score=1}}",
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u0425\u043e\u0447\u0443\u041b\u044e\u0431\u0438\u0442\u044c|score=2}}",
+            "opponent2": "{{TeamOpponent|Team \u0425\u0440\u0430\u043f\u043e\u0432\u0438\u043a2009|score=0}}",
+            "optional": "R3M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u0422\u0430\u0439\u043d\u043e\u043a\u0440\u0430\u0431|score=2}}",
+            "opponent2": "{{TeamOpponent|Team EvoChad|score=0}}",
+            "optional": "R4M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team zerotsu|score=2}}",
+            "opponent2": "{{TeamOpponent|Team \u0425\u043e\u0447\u0443\u041b\u044e\u0431\u0438\u0442\u044c|score=0}}",
+            "optional": "R4M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u0422\u0430\u0439\u043d\u043e\u043a\u0440\u0430\u0431|score=2}}",
+            "opponent2": "{{TeamOpponent|Team zerotsu|score=0}}",
+            "optional": "R5M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team HeadHunter|score=1}}",
+            "opponent2": "{{TeamOpponent|Team \u0422\u0430\u0439\u043d\u043e\u043a\u0440\u0430\u0431|score=2}}",
+            "optional": "R6M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Team \u01f6\u0198\u0212\u01fa\u0194\u01f6|score=0}}",
+            "opponent2": "{{TeamOpponent|Team \u0422\u0430\u0439\u043d\u043e\u043a\u0440\u0430\u0431|score=2}}",
+            "optional": "R7M1="
+        }
+    ]
+}

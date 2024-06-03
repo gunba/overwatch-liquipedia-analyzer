@@ -1,0 +1,141 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch World Cup 2023 Belgium Open Trials",
+            "image": "Overwatch World Cup 2023 allmode.png",
+            "series": "Overwatch World Cup",
+            "shortname": "World Cup 2023",
+            "tickername": "OWWC BEL Open Trials",
+            "icon": "Overwatch World Cup logo.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "GameBattles",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Belgium",
+            "country2": "",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "game": "overwatch2",
+            "prizepoolusd": "2000",
+            "sdate": "2023-02-17",
+            "edate": "2023-02-19",
+            "liquipediatier": "4",
+            "blizzardtier": "owwc",
+            "web": "https://overwatchworldcup.com",
+            "twitter": "playoverwatch",
+            "youtube": "overwatchcontenders",
+            "twitch": "reflashprod",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/WC-Trials-BE/info",
+            "rulebook": "https://s3.amazonaws.com/mlg-gamebattles-production/assets/arenacp/files/1675265987/2023-OWWC-Trials-Rules-GB-Feb-1-EN.pdf",
+            "team_number": "5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "5head",
+            "p1": "KeebZ|p1flag=be|pos1=dps",
+            "p2": "Stain|p2flag=be|pos2=dps",
+            "p3": "Terrabite|p3flag=be|pos3=tank",
+            "p4": "Badou|p4flag=be|pos4=sup",
+            "p5": "Zephie|p5flag=be|pos5=sup"
+        },
+        {
+            "team": "Belgium team",
+            "p1": "Logix|p1flag=be|pos1=dps",
+            "p2": "Ken|p2flag=be|pos2=dps",
+            "p3": "Hades|p3flag=be|pos3=tank",
+            "p4": "Shyraa|p4flag=be|pos4=sup",
+            "p5": "Chaba|p5flag=be|pos5=sup"
+        },
+        {
+            "team": "Team Bozo",
+            "p1": "Alexein|p1flag=be|pos1=dps",
+            "p2": "Thosti|p2flag=be|pos2=dps",
+            "p3": "Mouldesstere|p3flag=be|pos3=tank",
+            "p4": "Leflemar|p4flag=be|pos4=sup",
+            "p5": "Sicarius|p5flag=be|pos5=sup"
+        },
+        {
+            "team": "les outsiders",
+            "p1": "DamS|p1flag=be|pos1=dps",
+            "p2": "SPREE|p2flag=be|pos2=dps",
+            "p3": "Kathannas|p3flag=be|pos3=dps",
+            "p4": "Pyrolesse|p4flag=be|pos4=tank",
+            "p5": "Frulax|p5flag=be|pos5=sup",
+            "p6": "Podonova|p6flag=be|pos6=sup"
+        },
+        {
+            "team": "Team Belgium|link=Team Belgium (Trials Team)",
+            "p1": "Tavish|p1flag=be|pos1=dps",
+            "p2": "JoCo|p2flag=be|pos2=dps",
+            "p3": "Dez|p3flag=be|pos3=tank",
+            "p4": "Smurf4Head|p4flag=be|pos4=sup",
+            "p5": "Yeat|p5flag=be|pos5=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "",
+            "date": "February 18, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|belgium team|score=W}}",
+            "opponent2": "{{TeamOpponent|les outsiders|score=L}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "February 18, 2023 - 16:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team belgium (trials team)|score=L}}",
+            "opponent2": "{{TeamOpponent|belgium team|score=W}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "February 18, 2023 - 16:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team bozo|score=L}}",
+            "opponent2": "{{TeamOpponent|5head|score=W}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "February 19, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|belgium team|score=W}}",
+            "opponent2": "{{TeamOpponent|5head|score=L}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "February 19, 2023 - 14:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team bozo|score=L}}",
+            "opponent2": "{{TeamOpponent|les outsiders|score=W}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "February 19, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team belgium (trials team)|score=L}}",
+            "opponent2": "{{TeamOpponent|les outsiders|score=W}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "February 19, 2023 - 16:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|5head|score=L}}",
+            "opponent2": "{{TeamOpponent|les outsiders|score=W}}",
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "February 19, 2023 - 17:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|belgium team|score=}}",
+            "opponent2": "{{TeamOpponent|les outsiders|score=}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=Route 66|mode=Escort|score1=1|score2=3|winner=2}}",
+            "map3": "{{Map|map=New Queen Street|mode=Push|score1=116.95m|score2=60.30m|winner=1}}",
+            "map4": "{{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "optional": "R5M1="
+        }
+    ]
+}

@@ -1,0 +1,772 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "NECC",
+            "abbreviation": "NECC",
+            "name": "NECC - 2022 Nationals - Champions Division",
+            "tickername": "NECC 2022 Nationals Champions Division",
+            "image": "NECC 2021 lightmode.png",
+            "imagedark": "NECC 2021 darkmode.png",
+            "organizer": "National Esports Collegiate Conference",
+            "sponsor": "[https://collegiatesmg.com/ CSMG]",
+            "type": "Online",
+            "country": "United States",
+            "country2": "Canada",
+            "game": "overwatch",
+            "prizepoolusd": "5000",
+            "sdate": "2022-05-24",
+            "edate": "2022-05-26",
+            "twitter": "neccgames",
+            "twitch": "necc_esports",
+            "twitch2": "necc2",
+            "youtube": "channel/UCJ7SpyS-00CYxdkBadshxjQ",
+            "website": "https://neccgames.com/landing/index",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "University of Kansas",
+            "p1": "Bencrorules",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Fuwa",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Ella",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Denizen",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "NyanSox",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "SwyrlHawk",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "awasp",
+            "p7flag": "us",
+            "pos7": "sup",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Champions Cyan|Champions Cyan]]",
+            "placement": "1"
+        },
+        {
+            "team": "RPI Engineers",
+            "p1": "Tevetron",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Bigf00t",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Declan",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "arjay12345",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "zhobo",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Bluez",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Grappleee",
+            "p7flag": "",
+            "p7pos": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Champions Yellow|Champions Yellow]]",
+            "placement": "1"
+        },
+        {
+            "team": "SIUE Esports",
+            "p1": "Reverb",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Pyrocat",
+            "p2flag": "us",
+            "pos2": "tank",
+            "p3": "Lucky0wl",
+            "p3flag": "us",
+            "pos3": "sup",
+            "p4": "Nibli",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "KURZAC",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Enforcer",
+            "p6flag": "",
+            "pos6": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Champions Cyan|Champions Cyan]]",
+            "placement": "3-4"
+        },
+        {
+            "team": "Marian University",
+            "p1": "AdvancedP1r8",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "Zidster85",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "James",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Luke",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Sariel",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Primo",
+            "p6flag": "",
+            "pos6": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Champions Yellow|Champions Yellow]]",
+            "placement": "3-4"
+        },
+        {
+            "team": "uOttawa",
+            "p1": "Norman",
+            "p1flag": "ca",
+            "pos1": "dps",
+            "p2": "Dunks",
+            "p2flag": "ca",
+            "pos2": "tank",
+            "p3": "Supreme",
+            "p3flag": "ca",
+            "pos3": "sup",
+            "p3link": "Supreme (Canadian_Player)",
+            "p4": "Tundra",
+            "p4flag": "ca",
+            "pos4": "flex",
+            "p5": "VStriker",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Java",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "YoChrisyBoi",
+            "p7flag": "",
+            "pos7": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Champions Yellow|Champions Yellow]]",
+            "placement": "5-8"
+        },
+        {
+            "team": "MSOE Esports",
+            "p1": "Pa\u015fa",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "C0rg1",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Shrill",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Aidanholc",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Kete",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "ramraz",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Dragon",
+            "p7flag": "",
+            "pos7": "",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Champions Yellow|Champions Yellow]]",
+            "placement": "3-4"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "opponent1": "university of kansas|score=W",
+            "opponent2": "|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "marian university",
+            "opponent1_score": 3,
+            "opponent2": "uottawa",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "university of kansas",
+            "opponent1_score": 3,
+            "opponent2": "marian university",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "uottawa|score=W",
+            "opponent2": "|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "marian university",
+            "opponent1_score": 0,
+            "opponent2": "uottawa",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "opponent1": "rpi engineers|score=W",
+            "opponent2": "|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "siue esports",
+            "opponent1_score": 3,
+            "opponent2": "msoe esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "rpi engineers",
+            "opponent1_score": 3,
+            "opponent2": "siue esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "msoe esports|score=W",
+            "opponent2": "|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "siue esports",
+            "opponent1_score": 3,
+            "opponent2": "msoe esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "7",
+            "date": "2022-05-25 - 20:00",
+            "date_timezone": "EDT",
+            "opponent1": "university of kansas",
+            "opponent1_score": 4,
+            "opponent2": "siue esports",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map6": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map7": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2022-05-25 - 20:00",
+            "date_timezone": "EDT",
+            "opponent1": "rpi engineers",
+            "opponent1_score": 4,
+            "opponent2": "uottawa",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map6": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map7": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2022-05-26 - 18:00",
+            "date_timezone": "EDT",
+            "opponent1": "university of kansas",
+            "opponent1_score": 0,
+            "opponent2": "rpi engineers",
+            "opponent2_score": 4,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map6": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map7": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        }
+    ]
+}

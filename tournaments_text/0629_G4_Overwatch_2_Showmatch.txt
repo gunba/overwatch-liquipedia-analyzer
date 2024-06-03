@@ -1,0 +1,118 @@
+{{Infobox league
+|name=G4 Overwatch 2 Showmatch
+|tickername=G4 Overwatch 2 Showmatch
+|shortname=G4 Overwatch 2 Showmatch
+|image=G4 Overwatch 2 Showmatch allmode.png
+|icon=G4 Overwatch 2 Showmatch allmode.png
+|series=
+|organizer=G4
+|organizer-link=https://g4tv.com
+|country=United States
+|type=Online
+|game=overwatch2
+|prizepoolusd=10,000
+|format=
+|date=2022-05-03
+|liquipediatier=3|liquipediatiertype=Showmatch
+|web=https://g4tv.com
+|youtube=g4tvesports
+|twitter=g4tv
+|twitch=g4tv
+|team_number=2
+}}
+
+==Information==
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Reinforce
+|b2=Goldenboy
+}}
+{{BroadcasterCard
+|position=Observer
+|b1=Vflight
+|b2=Reef
+|b3=FirstKnightOfNi
+}}
+
+==Prize Pool==
+{{prize pool start}}
+{{prize pool slot|place=w |usdprize=10000|team bren (g4) |lastvs1=team sideshow (g4) |lastscore1=3 |lastvsscore1=0}}
+{{prize pool slot|place=l |usdprize=0|team sideshow (g4) |lastvs1=team bren (g4) |lastscore1=0 |lastvsscore1=3}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=2}}
+{{TeamCard|players=5
+|team=Team Bren
+|image=Overwatch 2 lightmode.png
+|imagedark=Overwatch 2 darkmode.png
+|p1=GaleAdelade|pos1=dps|p1flag=us
+|p2=Kephrii|pos2=dps
+|p3=Flats|pos3=tank|p3flag=us|p3team=fla
+|p4=KarQ|pos4=sup|p4flag=ca|p4team=tor
+|p5=Bren|pos5=sup
+}}
+{{TeamCard|players=5
+|team=Team Sideshow
+|image=Overwatch 2 lightmode.png
+|imagedark=Overwatch 2 darkmode.png
+|p1=Sleepy|pos1=dps
+|p2=ZP|pos2=dps
+|p3=Emongg|pos3=tank|p3team=sfs
+|p4=Aspen|pos4=sup|p4team=dice gaming
+|p5=Sideshow|pos5=sup
+}}
+{{TeamCard columns end}}
+
+==Draft==
+{{box|start|padding=2em}}
+===Draft 1v1===
+*First to 5 blind pick duels to determine first pick in the player draft.
+{{SingleMatch|id=eoMt2RFOvj
+|{{Match
+    |bestof=5
+    |date=May 3, 2022 - 15:00 {{Abbr/PDT}}
+	|twitch=g4tv
+	|youtube=g4tvesports
+    |opponent1={{SoloOpponent|Bren|flag=uk}}
+    |opponent2={{SoloOpponent|Sideshow|flag=uk}}
+    |map1={{Map|map=Workshop Island|mode=Elimination|score1=7|score2=2|winner=1}}
+	|vod=https://www.twitch.tv/videos/1474126905
+}}
+}}
+{{box|break|padding=2em}}
+===Draft Results===
+{|class="wikitable"
+!{{Abbr|Rd.|Round}}
+!Team Bren Pick
+!Team Sideshow Pick
+|-
+|1 || {{player|Kephrii|flag=us|pos=dps}} || {{player|Emongg|flag=us|pos=tank}}
+|-
+|2 || {{player|Flats|flag=us|pos=tank}} || {{player|Aspen|flag=us|pos=sup}}
+|-
+|3 || {{player|KarQ|flag=ca|pos=sup}} || {{player|Sleepy|flag=us|pos=sup}}
+|-
+|4 || {{player|GaleAdelade|flag=us|pos=sup}} || {{player|ZP|flag=us|pos=dps}}
+|}
+{{box|end}}
+
+==Showmatch==
+{{SingleMatch|id=zpkIcClRpL
+|{{Match
+    |bestof=5
+    |date=May 3, 2022 - 15:00 {{Abbr/PDT}}
+	|twitch=g4tv
+	|youtube=g4tvesports
+    |opponent1={{TeamOpponent|team bren (g4)}}
+    |opponent2={{TeamOpponent|team sideshow (g4)}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=140.00m|score2=52.09m|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=0|winner=1}}
+    |map4={{Map|map=King's Row|mode=Hybrid|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|vod=https://www.twitch.tv/videos/1474126905
+}}
+}}

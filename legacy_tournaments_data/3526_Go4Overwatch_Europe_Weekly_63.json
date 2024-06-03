@@ -1,0 +1,130 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #63",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "63",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2017-08-13",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-63/rankings/",
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "team_number": "24",
+            "previous": "Go4Overwatch/Europe/Weekly/62{{!}}Go4 Europe Cup #62",
+            "next": "Go4Overwatch/Europe/Weekly/64{{!}}Go4 Europe Cup #64"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Vivi's Adventure",
+            "image": "",
+            "p1": "Henzu",
+            "p1flag": "se",
+            "pos1": "dps",
+            "p2": "Mwumbwahti",
+            "p2flag": "se",
+            "pos2": "dps",
+            "p3": "ELLIVOTE",
+            "p3flag": "se",
+            "pos3": "flex",
+            "p4": "LullSiSH",
+            "p4flag": "se",
+            "pos4": "tank",
+            "p5": "Zekor",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Epzz",
+            "p6flag": "",
+            "pos6": "sup"
+        },
+        {
+            "team": "Golden Sausage",
+            "image": "Gsausagelogo.jpg",
+            "p1": "Izzy",
+            "p1flag": "fr",
+            "p2": "NLaaeR",
+            "p2flag": "ru",
+            "p3": "nuja",
+            "p3flag": "fr",
+            "p4": "Polly",
+            "p4flag": "se",
+            "p5": "Scaler",
+            "p5flag": "dk",
+            "p6": "wat7",
+            "p6flag": "au"
+        },
+        {
+            "team": "Team YP",
+            "image": "",
+            "p1": "Jio",
+            "p1flag": "fr",
+            "p2": "Osnazeni",
+            "p2flag": "fr",
+            "p3": "Quoizamama",
+            "p3flag": "fr",
+            "p4": "Valmaster",
+            "p4flag": "fr",
+            "p5": "XEWER",
+            "p5flag": "fr",
+            "p6": "Zenko",
+            "p6flag": "fr"
+        },
+        {
+            "team": "Wizards e-Sports Club",
+            "image": "",
+            "p1": "minicunga",
+            "p1flag": " es",
+            "p2": "Saura",
+            "p2flag": "sp",
+            "p3": "Shevatas",
+            "p3flag": "sp",
+            "p4": "veteranjr",
+            "p4flag": "fr",
+            "p5": "vinanrra",
+            "p5flag": "sp",
+            "p6": "Woolridge",
+            "p6flag": "sp"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "team yp",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "vivi's adventure",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "wizards e-sports club",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "golden sausage",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "vivi's adventure",
+            "score2": "3",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "team yp",
+            "score1": "2",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,70 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "Collegiate Esports Commissioners Cup",
+            "abbreviation": "CECC",
+            "name": "CECC 2023 Canada Regional",
+            "shortname": "2023 Canada Regional",
+            "tickername": "CECC 2023 Canada",
+            "icon": "CECCLogo-2.png",
+            "image": "CECCLogo-2.png",
+            "organizer": "Collegiate Sports Management Group",
+            "organizer-link": "https://collegiatesmg.com/esportsu/",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Canada",
+            "game": "overwatch2",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "prizepoolusd": "",
+            "date": "2023-03-19",
+            "twitter": "Ceccevents",
+            "web": "https://collegiatesmg.com/esportsu",
+            "twitch": "EsportsU",
+            "discord": "esportsu",
+            "rulebook": "https://collegiatesmg.com/wp-content/uploads/2022/09/OVERWATCH-2-RULESET.pdf",
+            "bracket": "https://battlefy.com/csmgesportsu/cecc-canada-qualifiers-overwatch-2/640f3ad860ec133fd3191a84/info?infoTab=details",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "St. Clair Saints",
+            "p1": "Crime|p1flag=|pos1=dps",
+            "p2": "Emmeryn|p2flag=|pos2=dps",
+            "p3": "theholyhaun|p3flag=ca|pos3=dps",
+            "p4": "Squeak|p4flag=|pos4=tank",
+            "p5": "Gscales|p5flag=|pos5=tank",
+            "p6": "redex|p6flag=|pos6=sup",
+            "p7": "Arjunk|p7flag=|pos7=sup",
+            "p8": "grave|p8flag=ca|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Apostle|t2c1flag=ca|t2c1pos=manager"
+        },
+        {
+            "team": "SFU Red",
+            "p1": "Zephyr|p1flag=|pos1=dps",
+            "p2": "Zaie|p2flag=|pos2=dps",
+            "p3": "JDAC|p3flag=|pos3=dps",
+            "p4": "BunzNakS|p4flag=|pos4=tank",
+            "p5": "Kaizen|p5flag=|pos5=sup|p5link=Kaizen (Canadian player)",
+            "p6": "\u0197m\u0197|p6flag=|pos6=sup",
+            "p7": "Jagmaster|p7flag=|pos7=flex"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "March 19, 2023 - 17:00 {{Abbr/EDT}}",
+            "youtube": "|twitch=esportsu",
+            "opponent1": "{{TeamOpponent|st. clair saints|score=}}",
+            "opponent2": "{{TeamOpponent|sfu red|score=}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Dorado|mode=Escort|score1=1|score2=0|winner=1}}",
+            "map3": "{{Map|map=Colosseo|mode=Push|score1=124.96m|score2=8.70m|winner=1}}",
+            "optional": "R1M1="
+        }
+    ]
+}

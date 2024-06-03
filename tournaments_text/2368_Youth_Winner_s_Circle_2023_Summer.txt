@@ -1,0 +1,232 @@
+{{Infobox league
+|liquipediatier=5<!--Number corresponding to tier, 1 for S, 2 for A, etc.-->
+|name=Youth Winner's Circle
+|shortname=Youth Winner's Circle Summer 2023
+|tickername=Youth Winner's Circle
+|image=Youth Winner's Circle lightmode.png
+|series=Generation Esports
+|abbreviation=GE
+|organizer=Generation Esports|organizer-link=https://generationesports.com/
+|type=Online
+|country=North America
+|game=overwatch2
+|prizepoolusd=1,075
+|sdate=2023-07-20
+|edate=2023-07-22
+|twitter=joingenesports
+|facebook=joingenesports
+|instagram=joingenesports
+|web=https://generationesports.com/
+|discord=DMkEjWj
+|youtube=UC4qtF91PT2qjmDv6xKTGraQ
+|rulebook=https://help.generationesports.com/hc/en-us/articles/4414749515028-Youth-Winner-s-Circle-Overwatch-Rules
+|bracket=https://app.generationesports.com/tournament/bde33f6c-873e-4be6-b9b8-c728cd492a5b
+|team_number=29
+}}
+
+==Information==
+===Format===
+*High school esports league
+*Six swiss rounds to determine top teams
+*Single-elimination playoffs
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=7|'''Map Pool'''
+|-
+![[Control]]
+![[Hybrid]]
+![[Flashpoint]]
+![[Push]]
+![[Escort]]
+|-
+|width="130" rowspan=5|
+*[[Busan]]
+*[[Ilios]]
+*[[Lijiang Tower]]
+*[[Oasis]]
+*[[Antarctic Peninsula]]
+|width="130" rowspan=5|
+*[[Eichenwalde]]
+*[[Numbani]]
+*[[Midtown]]
+*[[King's Row]]
+|width="130" rowspan=5|
+*[[New Junk City]]
+*[[Suravasa]]
+|width="130" rowspan=5|
+*[[Colosseo]]
+*[[Esperança]]
+*[[New Queen Street]]
+|width="130" rowspan=5|
+*[[Circuit Royal]]
+*[[Dorado]]
+*[[Route 66]]
+*[[Watchpoint: Gibraltar]]
+|}
+
+
+===Prize Pool===
+{{prize pool start|cutafter=4}}
+{{prize pool slot |place=1|usdprize=500|Wichitans|lastvs1=Eternity E-sports|lastscore1=4|lastvsscore1=0}}
+{{prize pool slot |place=2|usdprize=250|Eternity E-sports|lastvs1=Wichitans|lastscore1=0|lastvsscore1=4}}
+{{prize pool slot |place=3|usdprize=125|NCHS Mustangs|walkoverfrom1=Vanguards}}
+{{prize pool slot |place=4|usdprize=50|Vanguards|walkoverto1=NCHS Mustangs}}
+{{prize pool slot |place=5-8|usdprize=50
+|FLVS Fury|walkoverto1=NCHS Mustangs
+|HHS Patriots|lastvs2=Wichitans|lastscore2=0|lastvsscore2=3
+|Anthony HS|lastvs3=Eternity E-sports|lastscore3=0|lastvsscore3=3
+|Green Hope Falcons|walkoverto4=Vanguards
+}}
+{{prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Wichitans
+|p1=Nuek|p1flag=us|pos1=dps
+|p2=WidowWonTwix|p2flag=us|pos2=dps
+|p3=Voz|p3flag=us|pos3=tank
+|p4=Shiny|p4flag=us|pos4=supp
+|p5=Asoulius|p5flag=us|pos5=supp
+}}
+{{TeamCard
+|team=NCHS Mustangs
+|p1=Wypan|p1flag=us|pos1=dps
+|p2=Jaidam|p2flag=us|pos2=dps
+|p3=PlanetWock|p3flag=us|pos3=tank
+|p4=FrostyToast|p4flag=us|pos4=supp
+|p5=ChezGalaxy|p5flag=us|pos5=supp
+}}
+{{TeamCard
+|team=Vanguards
+|p1=Bob|p1flag=us|pos1=dps
+|p2=Fika|p2flag=us|pos2=dps
+|p3=Zika|p3flag=us|pos3=tank
+|p4=EmareldBoa|p4flag=us|pos4=supp
+|p5=Crysis|p5flag=us|pos5=supp
+}}
+{{TeamCard
+|team=Green Hope Falcons
+|p1=Hryoukin|p1flag=us|pos1=dps
+|p2=SpicyPepper|p2flag=us|pos2=dps
+|p3=ShadowStorm|p3flag=us|pos3=tank
+|p4=Overotaku|p4flag=us|pos4=supp
+|p5=Oblivon|p5flag=us|pos5=supp
+}}
+{{TeamCard
+|team=Eternity E-sports
+|p1=ELPOPPA|p1flag=|pos1=
+|p2=Daantonelle|p2flag=|pos2=
+|p3=Andre|p3flag=|pos3=
+|p4=TheMyak|p4flag=|pos4=
+|p5=DuallYT|p5flag=|pos5=
+}}
+{{TeamCard
+|team=HHS Patriots
+|p1=keyfragz|p1flag=|pos1=
+|p2=CLAYBEE5|p2flag=|pos2=
+|p3=Lightfira|p3flag=|pos3=
+|p4=EliteNinja|p4flag=|pos4=
+|p5=Dunnere|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Anthony HS
+|p1=H4lloo|p1flag=|pos1=
+|p2=Willingdock|p2flag=|pos2=
+|p3=HolyToast|p3flag=|pos3=
+|p4=King57hearts|p4flag=|pos4=
+|p5=SP1R1TBO1|p5flag=|pos5=
+}}
+{{TeamCard
+|team=FLVS Fury
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Results==
+<!-- Generate a bracket from https://liquipedia.net/overwatch/index.php?title=Special:RunQuery/BracketCopyPaste, find bracket names at https://liquipedia.net/commons/Liquipedia:BracketRegister -->
+{{Bracket|Bracket/8|id=WpDDV1NQ79
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=5
+    |winner=Wichitans
+    |opponent1={{TeamOpponent|Wichitans|score=W}}
+    |opponent2={{TeamOpponent|HHS Patriots|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+	|map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+    |winner=NCHS Mustangs
+    |opponent1={{TeamOpponent|NCHS Mustangs|score=W}}
+    |opponent2={{TeamOpponent|FLVS Fury|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+	|map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M3={{Match
+    |winner=Vanguards
+    |opponent1={{TeamOpponent|Vanguards|score=3}}
+    |opponent2={{TeamOpponent|Green Hope Falcons|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+	|map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M4={{Match
+    |winner=Eternity E-Sports
+    |opponent1={{TeamOpponent|Eternity E-Sports|score=W}}
+    |opponent2={{TeamOpponent|Anthony HS|score=FF}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+	|map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+    |winner=Wichitans
+    |opponent1={{TeamOpponent|Wichitans|score=3}}
+    |opponent2={{TeamOpponent|NCHS Mustangs|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+	|map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+    |winner=Eternity E-Sports
+    |opponent1={{TeamOpponent|Eternity E-Sports|score=3}}
+    |opponent2={{TeamOpponent|Vanguards|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+	|map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |winner=Wichitans
+    |opponent1={{TeamOpponent|Wichitans|score=3}}
+    |opponent2={{TeamOpponent|Eternity E-Sports|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+	|map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+}}

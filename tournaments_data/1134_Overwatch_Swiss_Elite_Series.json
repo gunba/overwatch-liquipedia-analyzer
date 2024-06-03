@@ -1,0 +1,838 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "",
+            "name": "Overwatch Swiss Elite Series #1",
+            "shortname": "Overwatch Swiss Elite Series #1",
+            "tickername": "Overwatch Swiss Elite Series #1",
+            "image": "Overwatch Swiss Elite Series allmode.png",
+            "icon": "Overwatch Swiss Elite Series allmode.png",
+            "organizer": "Overwatch Switzerland",
+            "type": "Online",
+            "country": "Switzerland",
+            "game": "overwatch2",
+            "format": "Swiss<br>Double Elimination",
+            "localcurrency": "chf",
+            "prizepool": "700",
+            "date": "2023-12-03",
+            "web": "https://www.overwatch-switzerland.ch/",
+            "twitter": "OWSwitzerland",
+            "twitch": "OWSwitzerland",
+            "discord": "owswitzerland",
+            "rulebook": "https://drive.google.com/file/d/1th_0eHoZOYz4XYdkFD07LK6V2NUYmL_W/view?usp=sharing",
+            "bracket": "https://www.start.gg/tournament/overwatch-swiss-elite-series/event/overwatch-swiss-elite-series-1/brackets",
+            "team_number": "32"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "swiss yes",
+            "p1": "sxj",
+            "pos1": "dps",
+            "p2": "Abstract",
+            "pos2": "dps",
+            "p3": "Clowd",
+            "pos3": "dps",
+            "p4": "Tred",
+            "pos4": "tank",
+            "p5": "Luca",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "p5link": "Luca (Swiss manager)",
+            "p6": "fate",
+            "pos6": "sup",
+            "p6link": "fate (British Player)",
+            "p7": "dewcio",
+            "p7flag": "ch",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "Marf",
+            "t2c1pos": "coach",
+            "qualifier": "[https://www.start.gg/tournament/overwatch-swiss-elite-series/event/overwatch-swiss-elite-series-1/brackets Swiss]",
+            "placement": "1"
+        },
+        {
+            "team": "Pretty Based",
+            "p1": "Hikari",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p1link": "Hikari (French player)",
+            "p2": "Tobzi",
+            "p2flag": "no",
+            "pos2": "dps",
+            "p3": "Mystery",
+            "p3flag": "ch",
+            "pos3": "tank",
+            "p4": "Anxious",
+            "p4flag": "ch",
+            "pos4": "sup",
+            "p5": "esc",
+            "p5flag": "de",
+            "pos5": "sup",
+            "qualifier": "[https://www.start.gg/tournament/overwatch-swiss-elite-series/event/overwatch-swiss-elite-series-1/brackets Swiss]",
+            "placement": "2"
+        },
+        {
+            "team": "Team Schweppes",
+            "p1": "Barcode",
+            "p1flag": "ch",
+            "pos1": "dps",
+            "p1link": "Barcode (Swiss player)",
+            "p2": "Stellios",
+            "pos2": "dps",
+            "p3": "ariel2",
+            "pos3": "tank",
+            "p4": "Xerion",
+            "pos4": "sup",
+            "p5": "Lore",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "G4sich",
+            "t2c1flag": "at",
+            "t2c1pos": "Coach",
+            "qualifier": "[https://www.start.gg/tournament/overwatch-swiss-elite-series/event/overwatch-swiss-elite-series-1/brackets Swiss]",
+            "placement": "3"
+        },
+        {
+            "team": "INEEDMOREBOOLETS",
+            "p1": "Pak",
+            "pos1": "dps",
+            "p2": "divine",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p2link": "divine (French player)",
+            "p3": "Swak0o",
+            "p3flag": "ch",
+            "pos3": "tank",
+            "p4": "Razael",
+            "p4flag": "pt",
+            "pos4": "sup",
+            "p5": "Yukei",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "qualifier": "[https://www.start.gg/tournament/overwatch-swiss-elite-series/event/overwatch-swiss-elite-series-1/brackets Swiss]",
+            "placement": "4"
+        },
+        {
+            "team": "Overwatch Reforged",
+            "p1": "StarWinks",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Toshuiyama",
+            "p2flag": "ch",
+            "pos2": "dps",
+            "p3": "Stadam",
+            "p3flag": "ch",
+            "pos3": "tank",
+            "p4": "Monkeboi",
+            "p4flag": "dk",
+            "pos4": "tank",
+            "p5": "\u010cr\u012fs",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "p6": "R3M1X",
+            "p6flag": "ch",
+            "pos6": "sup",
+            "p7": "Fall0x",
+            "p7flag": "ch",
+            "pos7": "sup",
+            "qualifier": "[https://www.start.gg/tournament/overwatch-swiss-elite-series/event/overwatch-swiss-elite-series-1/brackets Swiss]",
+            "placement": "5"
+        },
+        {
+            "team": "The Unwanted",
+            "p1": "\u00c5ce",
+            "pos1": "dps",
+            "p2": "kaiBa",
+            "p2flag": "nl",
+            "pos2": "dps",
+            "p3": "Erikek",
+            "pos3": "tank",
+            "p4": "Morty",
+            "p4flag": "fr",
+            "pos4": "sup",
+            "p5": "Schef",
+            "p5flag": "nl",
+            "pos5": "sup",
+            "p6": "Rimura",
+            "p6flag": "ch",
+            "pos6": "sup",
+            "qualifier": "[https://www.start.gg/tournament/overwatch-swiss-elite-series/event/overwatch-swiss-elite-series-1/brackets Swiss]",
+            "placement": "6"
+        },
+        {
+            "team": "CUQUELORDS",
+            "p1": "czaKes",
+            "p1flag": "fr",
+            "pos1": "dps",
+            "p2": "Flashou",
+            "p2flag": "fr",
+            "pos2": "dps",
+            "p3": "Mazouty",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "wlag",
+            "p4flag": "ch",
+            "pos4": "sup",
+            "p5": "ery0",
+            "p5flag": "ch",
+            "pos5": "sup",
+            "qualifier": "[https://www.start.gg/tournament/overwatch-swiss-elite-series/event/overwatch-swiss-elite-series-1/brackets Swiss]",
+            "placement": "7"
+        },
+        {
+            "team": "The Swiss Yokai",
+            "p1": "EASTPACKMAN",
+            "p1flag": "fr",
+            "pos1": "",
+            "p2": "MisterFish",
+            "p2flag": "ch",
+            "pos2": "",
+            "p3": "nizeylechou",
+            "p3flag": "fr",
+            "pos3": "",
+            "p4": "Hell",
+            "p4flag": "fr",
+            "pos4": "",
+            "p5": "Spitan",
+            "p5flag": "ch",
+            "pos5": "",
+            "qualifier": "[https://www.start.gg/tournament/overwatch-swiss-elite-series/event/overwatch-swiss-elite-series-1/brackets Swiss]",
+            "placement": "8"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "December 3, 2023 - 13:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "swiss yes",
+            "opponent1_score": 3,
+            "opponent2": "The Swiss Yokai",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 3, 2023 - 13:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "INEEDMOREBOOLETS",
+            "opponent1_score": 3,
+            "opponent2": "Overwatch Reforged",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 3, 2023 - 13:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Pretty Based",
+            "opponent1_score": 3,
+            "opponent2": "CUQUELORDS",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "December 3, 2023 - 13:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Team Schweppes",
+            "opponent1_score": 3,
+            "opponent2": "The Unwanted",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "December 3, 2023 - 14:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "swiss yes",
+            "opponent1_score": 2,
+            "opponent2": "INEEDMOREBOOLETS",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "December 3, 2023 - 14:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Pretty Based",
+            "opponent1_score": 1,
+            "opponent2": "Team Schweppes",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Numbani",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo ",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "December 3, 2023 - 16:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "INEEDMOREBOOLETS",
+            "opponent1_score": 0,
+            "opponent2": "Team Schweppes",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "December 3, 2023 - 14:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "The Swiss Yokai",
+            "opponent1_score": 0,
+            "opponent2": "Overwatch Reforged",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "December 3, 2023 - 14:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "CUQUELORDS",
+            "opponent1_score": 0,
+            "opponent2": "The Unwanted",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "December 3, 2023 - 16:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Pretty Based",
+            "opponent1_score": 1,
+            "opponent2": "Overwatch Reforged",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "December 3, 2023 - 16:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "swiss yes",
+            "opponent1_score": 3,
+            "opponent2": "The Unwanted",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "December 3, 2023 - 17:30",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Overwatch Reforged|score=",
+            "opponent2": "swiss yes|score=",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "4",
+                "score2": "5",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "December 3, 2023 - 19:00",
+            "date_timezone": "CET",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "INEEDMOREBOOLETS|score=",
+            "opponent2": "swiss yes|score=",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "December 3, 2023 - 20:30",
+            "date_timezone": "CET",
+            "opponent1": "Team Schweppes",
+            "opponent2": "swiss yes",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Blizzard World",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

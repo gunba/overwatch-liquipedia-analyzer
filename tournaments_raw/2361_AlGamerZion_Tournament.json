@@ -1,0 +1,274 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "AlGamerZion Tournament",
+            "tickername": "AlGamerZion Tournament",
+            "icon": "",
+            "image": "",
+            "organizer": "AlGamerZion",
+            "sponsor": "[https://kozmo-store.com/ Kozmo]",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Middle East",
+            "format": "Single Elimination",
+            "prizepoolusd": "350",
+            "sdate": "2023-08-24",
+            "edate": "2023-08-26",
+            "bracket": "https://challonge.com/qaasx261",
+            "discord": "sion",
+            "instagram": "AlGamerZion",
+            "twitter": "AlGamerZion",
+            "tiktok": "algamerzion",
+            "twitch": "AlGamerZion",
+            "team_number": "24"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "AKUMA",
+            "p1": "LordZero|p1flag=|pos1=dps",
+            "p2": "DeadlyDaddy|p2flag=|pos2=dps",
+            "p3": "Struggling|p3flag=|pos3=tank",
+            "p4": "Mavis|p4flag=|pos4=sup",
+            "p5": "Afiln|p5flag=|pos5=sup",
+            "t2title": "Substitute",
+            "t2p1": "|t2c1pos=",
+            "t2p2": "|t2c2pos="
+        },
+        {
+            "team": "Espada",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "t2title": "Substitute",
+            "t2p1": "|t2c1pos=",
+            "t2p2": "|t2c2pos="
+        },
+        {
+            "team": "Golden Glory|link=Golden Glory (MENA Team)",
+            "p1": "Rex|p1flag=|pos1=dps",
+            "p2": "akoz|p2flag=sa|pos2=dps",
+            "p3": "REXER|p3flag=sa|pos3=tank",
+            "p4": "Leo2k|p4flag=sa|pos4=sup",
+            "p5": "usf|p5flag=sa|pos5=sup",
+            "t2title": "Substitute",
+            "t2p1": "|t2c1pos=",
+            "t2p2": "|t2c2pos="
+        },
+        {
+            "team": "\u0627\u0644\u0635\u0642\u0631 \u0627\u0644\u062c\u0627\u0631\u062d",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "t2title": "Substitute",
+            "t2p1": "|t2c1pos=",
+            "t2p2": "|t2c2pos="
+        },
+        {
+            "team": "Westros Look",
+            "p1": "Seeu|p1flag=|pos1=dps",
+            "p2": "Eissa|p2flag=|pos2=dps",
+            "p3": "amdp|p3flag=sa|pos3=tank",
+            "p4": "Satoru|p4flag=|pos4=sup",
+            "p5": "kingdayM7|p5flag=|pos5=sup",
+            "t2title": "Substitute",
+            "t2p1": "|t2c1pos=",
+            "t2p2": "|t2c2pos="
+        },
+        {
+            "team": "\u0627\u0644\u062c\u0644\u0645\u0648\u062f \u0627\u0644\u0627\u0633\u0648\u062f",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "t2title": "Substitute",
+            "t2p1": "|t2c1pos=",
+            "t2p2": "|t2c2pos="
+        },
+        {
+            "team": "Strong",
+            "p1": "Cait|p1flag=|p1link=Cait (Middle Eastern player)|pos1=dps",
+            "p2": "Heather|p2flag=|pos2=dps",
+            "p3": "Halberd|p3flag=|pos3=tank",
+            "p4": "SadFitzy|p4flag=|pos4=sup",
+            "p5": "M7MD65|p5flag=|pos5=sup",
+            "t2title": "Substitute",
+            "t2p1": "|t2c1pos=",
+            "t2p2": "|t2c2pos="
+        },
+        {
+            "team": "\u0634\u0628\u0627\u0628 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5=",
+            "t2title": "Substitute",
+            "t2p1": "|t2c1pos=",
+            "t2p2": "|t2c2pos="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|Akuma|score=W}}",
+            "opponent2": "{{TeamOpponent|Night Watch|score=L}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|Espada|score=W}}",
+            "opponent2": "{{TeamOpponent|Trolls|score=L}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|DARK|score=L}}",
+            "opponent2": "{{TeamOpponent|Golden Glory (MENA Team)|score=W}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|DARK WAVE|score=L}}",
+            "opponent2": "{{TeamOpponent|\u0627\u0644\u0635\u0642\u0631 \u0627\u0644\u062c\u0627\u0631\u062d|score=W}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|AviodedSa|score=L}}",
+            "opponent2": "{{TeamOpponent|Westros Look|score=W}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|\u0627\u0644\u062c\u0644\u0645\u0648\u062f \u0627\u0644\u0627\u0633\u0648\u062f|score=W}}",
+            "opponent2": "{{TeamOpponent|173|score=L}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|Strong|score=W}}",
+            "opponent2": "{{TeamOpponent|GoodFellas (ME Team)|score=L}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|Alain|score=L}}",
+            "opponent2": "{{TeamOpponent|\u0634\u0628\u0627\u0628 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644|score=W}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|\u062d\u064a\u062f\u0631 \u0634\u0627\u0648\u0631\u0645\u0627|score=L}}",
+            "opponent2": "{{TeamOpponent|Akuma|score=W}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|Victory Esports G|score=L}}",
+            "opponent2": "{{TeamOpponent|Espada|score=W}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|Tuna Power|score=L}}",
+            "opponent2": "{{TeamOpponent|Golden Glory (MENA Team)|score=W}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|\u0628\u0642\u0627\u0644\u0629 \u0641\u0627\u0637\u0645\u0629|score=L}}",
+            "opponent2": "{{TeamOpponent|\u0627\u0644\u0635\u0642\u0631 \u0627\u0644\u062c\u0627\u0631\u062d|score=W}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629|score=L}}",
+            "opponent2": "{{TeamOpponent|Westros Look|score=W}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|Wolves Killers|score=L}}",
+            "opponent2": "{{TeamOpponent|\u0627\u0644\u062c\u0644\u0645\u0648\u062f \u0627\u0644\u0627\u0633\u0648\u062f|score=W}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|\u0628\u0648\u0641\u064a\u0629 \u0641\u0627\u0637\u0645\u0629|score=L}}",
+            "opponent2": "{{TeamOpponent|Strong|score=W}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|\u0627\u0644\u062e\u0628\u0627\u0632\u0648\u0646|score=L}}",
+            "opponent2": "{{TeamOpponent|\u0634\u0628\u0627\u0628 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644|score=W}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|Akuma|score=W}}",
+            "opponent2": "{{TeamOpponent|Espada|score=L}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|Golden Glory (MENA Team)|score=W}}",
+            "opponent2": "{{TeamOpponent|\u0627\u0644\u0635\u0642\u0631 \u0627\u0644\u062c\u0627\u0631\u062d|score=L}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|Westros Look|score=W}}",
+            "opponent2": "{{TeamOpponent|\u0627\u0644\u062c\u0644\u0645\u0648\u062f \u0627\u0644\u0627\u0633\u0648\u062f|score=L}}",
+            "optional": "R3M3="
+        },
+        {
+            "date": "August 24, 2023",
+            "opponent1": "{{TeamOpponent|Strong|score=W}}",
+            "opponent2": "{{TeamOpponent|\u0634\u0628\u0627\u0628 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644|score=L}}",
+            "optional": "R3M4="
+        },
+        {
+            "bestof": "3",
+            "date": "August 26, 2023",
+            "twitch": "AlGamerZion",
+            "opponent1": "{{TeamOpponent|Akuma}}",
+            "opponent2": "{{TeamOpponent|Golden Glory (MENA Team)}}",
+            "map1": "{{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Rialto|mode=Escort|score1=2|score2=3|winner=2}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "August 26, 2023",
+            "twitch": "AlGamerZion",
+            "opponent1": "{{TeamOpponent|Westros Look}}",
+            "opponent2": "{{TeamOpponent|Strong}}",
+            "map1": "{{Map|map=Blizzard World|mode=Hybrid|score1=2|score2=1|winner=1}}",
+            "map2": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "August 26, 2023",
+            "twitch": "AlGamerZion",
+            "opponent1": "{{TeamOpponent|Golden Glory (MENA Team)}}",
+            "opponent2": "{{TeamOpponent|Westros Look}}",
+            "map1": "{{Map|map=Blizzard World|mode=Hybrid|score1=0|score2=3|winner=2}}",
+            "map2": "{{Map|map=Circuit Royal|mode=Escort|score1=0|score2=1|winner=2}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "August 26, 2023",
+            "opponent1": "{{TeamOpponent|Akuma|score=W}}",
+            "opponent2": "{{TeamOpponent|Strong|score=L}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

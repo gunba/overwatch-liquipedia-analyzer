@@ -1,0 +1,258 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/3}}",
+            "shortname": "AM Esports",
+            "name": "LANime Matsuri: Overwatch",
+            "image": "Anime Matsuri 2015 lightmode.png",
+            "imagedark": "Anime Matsuri 2015 darkmode.png",
+            "icon": "Anime Matsuri 2015 icon lightmode.png",
+            "icondark": "Anime Matsuri 2015 icon darkmode.png",
+            "organizer": "Anime Matsuri",
+            "type": "Offline",
+            "country": "United States",
+            "city": "Houston",
+            "venue": "[https://www.grbhouston.com/ George R. Brown Convention Center]",
+            "twitch": "",
+            "format": "Double Elimination",
+            "prizepoolusd": "8,000",
+            "sdate": "2018-03-29",
+            "edate": "2018-04-01",
+            "web": "https://www.animematsuri.com/am-esports/",
+            "bracket": "https://battlefy.com/am-esports/lanime-matsuri-overwatch/5ab3b470787944038d5eebd5/stage/5ab3b4b4998cd5038945a172/bracket/",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Arizona State University",
+            "p1": "Amadien",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Chumcha",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "ChroNoDotA",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Spades",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "chris",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "djdobro",
+            "p6flag": "us",
+            "pos6": "sup"
+        },
+        {
+            "team": "World Champions of the World",
+            "image": "",
+            "p1": "jigglyworm",
+            "p1flag": "",
+            "p2": "Crunchbite389",
+            "p2flag": "",
+            "p3": "Elrond",
+            "p3flag": "",
+            "p4": "oisenpai",
+            "p4flag": "",
+            "p5": "camo",
+            "p5flag": "",
+            "p6": "Zaxal",
+            "p6flag": ""
+        },
+        {
+            "team": "Solo Q",
+            "image": "",
+            "p1": "DawgyPI ",
+            "p1flag": "",
+            "p2": "Spiral ",
+            "p2flag": "",
+            "p3": "Adrian480 ",
+            "p3flag": "",
+            "p4": "zainthemain ",
+            "p4flag": "",
+            "p5": "TexasSurfer ",
+            "p5flag": "",
+            "p6": "NoMoreLvLs ",
+            "p6flag": ""
+        },
+        {
+            "team": "Lionheart",
+            "image": "",
+            "p1": "Nin",
+            "p1flag": "",
+            "p2": "hugioh",
+            "p2flag": "",
+            "p3": "Jacket",
+            "p3flag": "",
+            "p4": "Pr1mal",
+            "p4flag": "",
+            "p5": "Soma",
+            "p5flag": "",
+            "p6": "R1GO",
+            "p6flag": ""
+        },
+        {
+            "team": "Lord FarQuadTanks",
+            "image": "",
+            "p1": "Del",
+            "p1flag": "us",
+            "p2": "Waifu ",
+            "p2flag": "us",
+            "p3": "Minish ",
+            "p3flag": "us",
+            "p4": "Shereshoy ",
+            "p4flag": "us",
+            "p5": "jkw",
+            "p5flag": "us",
+            "p6": "Aether ",
+            "p6flag": "us"
+        },
+        {
+            "team": "eSports @ University of Houston",
+            "image": "",
+            "p1": "aimiQ ",
+            "p1flag": "",
+            "p2": "woof ",
+            "p2flag": "",
+            "p3": "Milkfaucet ",
+            "p3flag": "",
+            "p4": "Neeek ",
+            "p4flag": "",
+            "p5": "Eli871 ",
+            "p5flag": "",
+            "p6": "Xandog ",
+            "p6flag": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "lord farquadtanks",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "solo q",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "lionheart",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "arizona state",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "esports @ university of houston",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "world champions of the world",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "solo q",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "lord farquadtanks",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "world champions of the world",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "arizona state",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "arizona state",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "lord farquadtanks",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "lionheart",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D9",
+            "team1": "bye",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "esports @ university of houston",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D11",
+            "team1": "bye",
+            "score1": "",
+            "win1": ""
+        },
+        {
+            "team2": "lionheart",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "world champions of the world",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "esports @ university of houston",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D2",
+            "team1": "solo q",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "esports @ university of houston",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "world champions of the world",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "world champions of the world",
+            "score2": "0",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "arizona state",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "arizona state",
+            "score2": "2",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "lord farquadtanks",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

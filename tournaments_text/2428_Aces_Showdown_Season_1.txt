@@ -1,0 +1,200 @@
+{{Infobox league
+|liquipediatier=5
+|name=Aces’Showdown Season 1
+|shortname=Aces’Showdown S1
+|tickername=Aces’Showdown S1
+|icon=Aces’Showdown .png
+|image=Aces’Showdown .png
+|series=
+|abbreviation=
+|organizer=Swem
+|organizer-link=https://twitter.com/SwemTv
+|organizer-link=
+|sponsor=
+|type=Online
+|country=Poland
+|game=overwatch2
+|format=Single elimination
+|localcurrency=pln
+|prizepool=1000
+|sdate=2022-11-30
+|edate=2023-02-01
+|twitter=AcesShowdown
+|web=
+|twitch=acesshowdown
+|discord=acesshowdown
+|youtube=@acesshowdown7656
+|rulebook=
+|bracket=
+|team_number=
+}}
+
+==Information==
+*<!--Rules, including "best of" number of maps, and tournament format-->
+*
+*
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=
+|position=Commentator
+|b1= |b1flag= |b1name=
+|b2= |b2flag= |b2name=
+}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=7|'''Map Pool'''
+|-
+![[Control]]
+![[Hybrid]]
+![[Push]]
+![[Escort]]
+|-
+|width="130" rowspan=5|
+*[[Busan]]
+*[[Ilios]]
+*[[Lijiang Tower]]
+|width="130" rowspan=5|
+*[[Blizzard World]]
+*[[Hollywood]]
+*[[King's Row]]
+|width="130" rowspan=5|
+*[[Colosseo]]
+*[[Esperança]]
+*[[New Queen Street]]
+|width="130" rowspan=5|
+*[[Havana]]
+*[[Rialto]]
+*[[Route 66]]
+|}
+
+
+===Prize Pool===
+{{TeamPrizePool|localcurrency=pln
+|{{Slot|localprize=500}}
+|{{Slot|localprize=250}}
+|{{Slot|localprize=150}}
+|{{Slot|localprize=100}}
+}}
+
+
+==Top8 Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=metaboiz
+|p1=Philion|p1flag=|pos1=dps
+|p2=Icav|p2flag=pl|pos2=dps
+|p3=FakeJake|p3flag=pl|pos3=dps
+|p4=Kapey774|p4flag=pl|pos4=tank
+|p5=Teksol|p5flag=pl|pos5=sup
+|p6=Webster|p6flag=pl|pos6=sup
+|t2title=Staff
+|t2c1=Algos05|t2c1flag=de|t2c1pos=Manager
+}}
+{{TeamCard
+|team=Dziadyga Gaming
+|p1=Dxtr|p1flag=pl|pos1=dps
+|p2=Konwerz|p2flag=pl|pos2=dps
+|p3=United|p3flag=pl|pos3=tank
+|p4=Nexo|p4flag=pl|pos4=tank
+|p5=Siboth|p5flag=pl|pos5=sup
+|p6=Quader|p6flag=pl|pos6=sup
+|p7=Kaju|p7flag=pl|pos7=Flex
+|p8=Flipper|p8flag=pl|pos8=Flex
+}}
+{{TeamCard
+|team=Bingus Squad
+|p1=Luv|p1flag=pl|pos1=dps
+|p2=Skito|p2flag=pl|pos2=dps
+|p3=Senji|p3flag=pl|pos3=dps
+|p4=Eight|p4flag=pl|pos4=tank
+|p5=LondonRick|p5flag=pl|pos5=tank
+|p6=TheSnake|p6flag=pl|pos6=sup
+|p7=Merix|p7flag=pl|pos7=sup
+}}
+{{TeamCard
+|team=Broken Shards
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=SmashRoomGames
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=AŻMS
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Goryle Archy
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=The Patrons
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/8|id=w5f1YZEVho
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=
+    |opponent1={{TeamOpponent|Bingus Squad|score=3}}
+    |opponent2={{TeamOpponent|SmashRoomGames|score=0}}
+}}
+|R1M2={{Match
+    |opponent1={{TeamOpponent|Metaboiz|score=3}}
+    |opponent2={{TeamOpponent|AŻMS|score=0}}
+}}
+|R1M3={{Match
+    |opponent1={{TeamOpponent|Goryle Archy|score=0}}
+    |opponent2={{TeamOpponent|Dziadyga Gaming|score=3}}
+}}
+|R1M4={{Match
+    |opponent1={{TeamOpponent|Broken Shards|score=3}}
+    |opponent2={{TeamOpponent|The Patrons|score=0}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+    |opponent1={{TeamOpponent|Bingus Squad|score=0}}
+    |opponent2={{TeamOpponent|Metaboiz|score=3}}
+}}
+|R2M2={{Match
+    |opponent1={{TeamOpponent|Dziadyga Gaming|score=3}}
+    |opponent2={{TeamOpponent|Broken Shards|score=0}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |opponent1={{TeamOpponent|Metaboiz|score=4}}
+    |opponent2={{TeamOpponent|Dziadyga Gaming|score=0}}
+}}
+
+|RxMTP={{Match
+    |opponent1={{TeamOpponent|Bingus Squad|score=3}}
+    |opponent2={{TeamOpponent|Broken Shards|score=0}}
+}}
+}}

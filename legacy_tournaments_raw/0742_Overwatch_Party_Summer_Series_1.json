@@ -1,0 +1,125 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "{{TierText/4}}",
+            "series": "",
+            "name": "Overwatch Party Summer Series #1",
+            "image": "",
+            "icon": "",
+            "organizer": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "North America",
+            "format": "",
+            "prizepoolusd": "120",
+            "sdate": "2016-05-24",
+            "edate": "2016-05-25",
+            "bracket": "http://na.cybergamer.com/tournaments/5806/bracket/",
+            "twitch": "houseparty5v5",
+            "teamfirst": "4-25",
+            "teamsecond": "its gonna be mei",
+            "teamthird": "veritas",
+            "teamfourth": "",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "4-25",
+            "image": "",
+            "imagesize": "",
+            "p1": "Anak",
+            "p2": "Dikker",
+            "p3": "Godspeed",
+            "p4": "GunroX",
+            "p5": "kensi",
+            "p6": "Rubikon"
+        },
+        {
+            "team": "Its Gonna Be Mei",
+            "image": "",
+            "imagesize": "",
+            "p1": "Havoc |p1flag=us",
+            "p2": "Candy |p2flag=us",
+            "p3": "Nuke |p3flag=us",
+            "p4": "Spoony |p4flag=us",
+            "p5": "Estalibar |p5flag=us",
+            "p6": "DeniedINC |p6flag=us"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Tropic Gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "SmiteX",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "4-25",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "Veritas",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "4-25",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "Veritas",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Tropic Gaming",
+            "score2": "2",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "SmiteX",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Team Fate",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D1",
+            "team1": "it's gonna be mei",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Team Fate",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "it's gonna be mei",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "it's gonna be mei",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "Veritas",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "it's gonna be mei",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "4-25",
+            "score1": "1",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

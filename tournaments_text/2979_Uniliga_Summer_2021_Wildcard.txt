@@ -1,0 +1,207 @@
+{{DISPLAYTITLE:Uniliga - Summer 2021 - Wildcard Tournament}}
+{{Liquipedia links|rocketleague=Uniliga/Summer/2021/League_Play}}
+{{Uniliga navbox}}
+{{Tabs static
+|name1=Overview
+|link1=Uniliga/Summer_2021
+|name2=1st League
+|link2=Uniliga/Summer_2021/1st_League
+|name3=2nd League
+|link3=Uniliga/Summer_2021/2nd_League
+|name4=Wildcard
+|link4=Uniliga/Summer_2021/Wildcard
+|name5=Relegation
+|link5=Uniliga/Summer_2021/Relegation
+|This=4
+}}
+{{Infobox league
+|name=Uniliga - Summer 2021 - Wildcard Tournament
+|shortname=Uniliga Summer '21 WCT
+|image=University eSports Germany.png
+|series=uniliga
+|abbreviation=Uniliga
+|icon=Uniliga_icon.png
+|tickername=Uniliga Wildcard
+|organizer=University eSports Germany
+|organizer-link=https://uniliga.gg
+|sponsor=[https://de.msi.com MSI Deutschland]<br>[https://studitemps.de/ Studitemps]
+|country=Europe
+|type=Online
+|format=Double Elimination
+|patch=
+|prizepool=
+|prizepoolusd=
+|sdate=2021-04-18
+|edate=2021-04-18
+|liquipediatier=4|liquipediatiertype=Qualifier
+|web=http://uniliga.gg/ow/
+|twitch=uniligagg
+|twitch2=uniligagg2
+|bracket=https://play.toornament.com/en_GB/tournaments/4405442484637384704/stages/4539943546993459200/
+|rulebook=https://www.uniliga.gg/ow-regelwerk/
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=
+|previous=Uniliga/Winter_2020/Wildcard {{!}} Uniliga Winter '20
+|next=
+}}{{Upcoming matches tournament|Uniliga/Summer 2021/Wildcard}}
+
+==About==
+
+===Information===
+*All players must be students at a German university.
+*Each team must have a minimum of 6 and a maximum of 12 players.
+*Winners will qualify for the 1st League of the Uniliga.
+*Losers will play in the 2nd League of the Uniliga.
+
+===Format===<!--
+*Double Elimination
+**Top two (2) seeds start in the upper bracket finals.
+**Bottom three (3) seeds start in the lower bracket.
+*Qualifying Slots depend on accepted invites for the 1st League.
+*Matches are played in a First-to-3 format.
+*All maps in active in competitive play are allowed.
+*First map is decided by tournament administration.
+*All other maps are picked by the loser previous map.
+*Map types are played in this order: 1. Control, 2. Escort, 3. Hybrid, 4. Assault.
+**This repeats if necessary.-->
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=German
+|position=Commentator
+|b1=KenZ        |b1name=Luke              |b1flag=de
+|b2=JLEPS      |b2name=Jakob Schwinn     |b2flag=de
+}}
+
+==Prize Pool==
+{{prize pool start|noprize=true|points=seed|cutafter=4|qualifiedseed=[[Uniliga/Summer 2021/1st League|1st League]]}}
+{{prize pool slot|place=1-2 |points=[[Uniliga/Summer 2021/1st League|1st League]]
+|munich esports academy |lastvs1=kit sc sphinx |lastscore1=2 |lastvsscore1=1 |date1=
+|big boops htw esports berlin |lastvs2=egt dracoons |lastscore2=2 |lastvsscore2=0 |date2=
+}}
+{{prize pool slot|place=3-4 |points=[[Uniliga/Summer 2021/1st League|1st League]]
+|egt dracoons |lastvs1=for fox sake esa |lastscore1=2 |lastvsscore1=0 |date1=
+|kit sc sphinx |lastvs2=hsk combodunus |lastscore2=2 |lastvsscore2=0 |date2=
+}}
+{{prize pool slot|place=5-6 |points=[[Uniliga/Summer 2021/2nd League|2nd League]]
+|for fox sake esa |lastvs1=egt dracoons |lastscore1=0 |lastvsscore1=2 |date1=
+|hsk cambodunum centauri |lastvs2=kit sc sphinx |lastscore2=0 |lastvsscore2=2 |date2=
+}}
+{{Prize pool end}}
+
+<!--==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=KIT SC Sphinx
+|image=KIT-SC bw Logo.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|placement=9
+|qualifier=[[Uniliga/Summer 2020/1st League|Summer '20 - 1st League]]
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Summer 2020/1st League|name=Uniliga Summer '20 - 1st League}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Victorious Mainz
+|image=Victorious Mainz 2020.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|placement=2
+|qualifier=[[Uniliga/Summer 2020/2nd League|Summer '20 - 2nd League]]
+|placementicon={{LeagueIconSmall/uniliga|Uniliga/Summer 2020/2nd League|name=Uniliga Summer '20 - 2nd League}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Uni Mannheim Crusaders
+|image=Uni Mannheim Crusaders Logo.png
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=Mannheim
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=DG Infinite
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+|p7=|p7flag=
+|p8=|p8flag=
+|qualifier=Düsseldorf
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=eUwUe X-Rays
+|image=EUwUe X-Rays.png
+|p1=Lerogan|p1flag=de|captain=yes
+|p2=SheshBesh|p2flag=de
+|p3=Gollo|p3flag=de
+|p4=Caipi|p4flag=de
+|p5=Firebolt2222|p5flag=de
+|p6=Rektbekka|p6flag=de
+|p7=Kampfhamster|p7flag=de
+|p8=Pudding|p8flag=de
+|p9=Fibre|p9flag=de
+|p10=Elli|p10flag=de
+|p11=Wolfix|p11flag=de
+|p12=Tobi|p12flag=de|p12link=Tobi (German player)
+|qualifier=Würzburg
+}}
+{{box|end|padding=2em}}
+
+{{Roster changes start}}
+{{Roster changes end}}-->
+
+==Results==
+{{LegacyBracket|Bracket/8-2Q-U-4L2D-2Q|4Qual-8DETeamBracket|type=team|id=SuzPuWXhOZ
+|column-width=210
+|R1D3team=for fox sake esa |R1D3score=0 |R1D3win=
+|R1D4team=munich esports academy |R1D4score=2 |R1D4win=1
+
+|R1D7team=hsk cambodunum centauri |R1D7score=0 |R1D7win=
+|R1D8team=big boops htw esports berlin |R1D8score=2 |R1D8win=1
+
+|R2W1team=kit sc sphinx |R2W1score=1 |R2W1win=
+|R2W2team=munich esports academy |R2W2score=2 |R2W2win=1
+
+|R2W3team=egt dracoons |R2W3score=0 |R2W3win=
+|R2W4team=big boops htw esports berlin |R2W4score=2 |R2W4win=1
+
+<!-- LOSERS BRACKET -->
+|R2D1team=egt dracoons |R2D1score=2|R2D1win=1
+|R2W5team=for fox sake esa |R2W5score=0 |R2W5win=
+
+|R2D2team=kit sc sphinx |R2D2score=2 |R2D2win=1
+|R2W6team=hsk cambodunum centauri |R2W6score=0 |R2W6win=
+<!-- QUALIFIED TEAMS -->
+|Q1team=munich esports academy|Q1win=1 
+|Q2team=big boops htw esports berlin|Q2win=1 
+|Q3team=egt dracoons|Q3win=1 
+|Q4team=kit sc sphinx|Q4win=1
+}}
+
+==Additional Content==

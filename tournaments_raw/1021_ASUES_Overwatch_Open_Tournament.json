@@ -1,0 +1,339 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "abbreviation": "ASU OWOT",
+            "name": "ASUES Overwatch Open Tournament",
+            "shortname": "ASUES OW Open",
+            "tickername": "ASUES OW Open Tournament",
+            "icon": "Arizona State University Esports allmode.png",
+            "image": "Arizona State University Esports allmode.png",
+            "series": "ASUES",
+            "organizer": "ASU Esports",
+            "organizer-link": "https://twitter.com/asuesports",
+            "sponsor": "XP Sports",
+            "type": "Online",
+            "country": "North America",
+            "format": "Round Robin<br>Double Elimination",
+            "prizepoolusd": "630",
+            "sdate": "2021-03-12",
+            "edate": "2021-03-14",
+            "twitter": "asuesports",
+            "rulebook": "https://docs.google.com/document/d/1SyYrJwgb-Q62GP1jkS1FsKaXex4UXKDUFUo9C2ipsaQ/edit",
+            "bracket": "https://battlefy.com/asu-esports-association/asues-6v6-overwatch-open-tournament/601b1a4403f1bc1bc8479851/stage/604ab1abb6074611ad197456/bracket/?groupName=A",
+            "team_number": "20",
+            "game": "overwatch"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "The Weird Squad",
+            "p1": "Emmeryn|pos1=dps",
+            "p2": "JrobW|p2flag=us|pos2=dps",
+            "p3": "SuperGomez|pos3=tank",
+            "p4": "Lunacy|pos4=tank",
+            "p5": "Johnno|p5flag=ca|pos5=sup",
+            "p6": "Neutral|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "MegaMulani|t2c1pos=coach",
+            "t2c2": "Pootrscootr|t2c2flag=us|t2c2pos=manager"
+        },
+        {
+            "team": "Empyrean",
+            "p1": "tnecca|p1flag=|pos1=",
+            "p2": "Ragnar\u00f6k|p2flag=|pos2=",
+            "p3": "InhaleExhale|p3flag=|pos3=",
+            "p4": "Jimmies|p4flag=|pos4=",
+            "p5": "Hanbei|pos5=sup",
+            "p6": "Kinetic|p6flag=|pos6=",
+            "p7": "RBM|p7flag=|pos7=",
+            "p8": "zzzy|p8flag=|pos8=",
+            "p9": "Miracle|p9flag=|pos9=",
+            "p10": "Juna|p10flag=|pos10="
+        },
+        {
+            "team": "Shikigami",
+            "p1": "Trevstacks|p1flag=us|pos1=dps",
+            "p2": "Polar|p2flag=us|pos2=dps",
+            "p3": "Alw122001|p3flag=us|pos3=tank",
+            "p4": "Walex|p4flag=us|pos4=tank",
+            "p5": "Scylla|pos5=sup",
+            "p6": "Legolaa|p6flag=mx|pos6=sup",
+            "p7": "Breesus|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Aeroplayne|t2c1pos=manager"
+        },
+        {
+            "team": "False Appearance",
+            "p1": "\u0191\u0168\u015c\u0128\u01ea\u014a|p1flag=|pos1=",
+            "p2": "Caiqile|p2flag=|pos2=",
+            "p3": "Juru|p3flag=|pos3=",
+            "p4": "Deadlock|p4flag=|pos4=",
+            "p5": "Hushed|p5flag=|pos5=",
+            "p6": "theorytropic|p6flag=|pos6=",
+            "p7": "Kurome|p7flag=|pos7="
+        },
+        {
+            "team": "Solstice",
+            "p1": "AsPeCT|p1flag=us|pos1=dps",
+            "p2": "Lambent|p2flag=us|pos2=dps",
+            "p3": "Khosrow|p3flag=us|pos3=tank",
+            "p4": "Fofey|p4flag=us|pos4=tank",
+            "p5": "Joey|pos5=sup|p5link=Joey (American Player)",
+            "p6": "freNoc|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Chanyoung67|t2c1pos=analyst",
+            "t2c2": "Raven|t2c2pos=manager"
+        },
+        {
+            "team": "ZooWeeMama",
+            "p1": "Remag|p1flag=|pos1=",
+            "p2": "Unforgiven|p2flag=|pos2=",
+            "p3": "\u015c\u0187\u0126\u014a\u0204\u0114|p3flag=|pos3=",
+            "p4": "hallux|p4flag=|pos4=",
+            "p5": "TAB|p5flag=|pos5=",
+            "p6": "Mana|p6flag=|pos6=",
+            "p7": "chris|p7flag=|pos7="
+        },
+        {
+            "team": "Limitless",
+            "p1": "AbsoluteTori|p1flag=|pos1=",
+            "p2": "Solstice|p2flag=|pos2=",
+            "p3": "Nile|p3flag=|pos3=",
+            "p4": "Tres|p4flag=|pos4=",
+            "p5": "IMainLMB|p5flag=|pos5=",
+            "p6": "GoldenEric|p6flag=|pos6="
+        },
+        {
+            "team": "UW-Whitewater Esports",
+            "p1": "JavierTMT|p1flag=|pos1=",
+            "p2": "ItsepicGage|p2flag=|pos2=",
+            "p3": "Hostile|p3flag=|pos3=",
+            "p4": "gskillers237|p4flag=|pos4=",
+            "p5": "Cataclysm|p5flag=|pos5=",
+            "p6": "OmegaBofa|p6flag=|pos6=",
+            "p7": "Werdy|p7flag=|pos7=",
+            "p8": "Phantom10395|p8flag=|pos8=",
+            "p9": "ALPHAGAY|p9flag=|pos9=",
+            "p10": "TwinsanityB|p10flag=|pos10=",
+            "p11": "MadTapestry|p11flag=|pos11=",
+            "p12": "ShortDude|p12flag=|pos12=",
+            "p13": "SnoozeCTRL|p13flag=|pos13="
+        },
+        {
+            "team": "UTK Esports",
+            "p1": "Alex|p1flag=|pos1=|p1link=Alex (UTK Esports player)",
+            "p2": "Parivir|p2flag=|pos2=",
+            "p3": "luckydog305|p3flag=|pos3=",
+            "p4": "DaHubs901|p4flag=|pos4=",
+            "p5": "Corvus|p5flag=|pos5=",
+            "p6": "youngman69|p6flag=|pos6=",
+            "p7": "Senath|p7flag=|pos7=",
+            "p8": "Bashur|p8flag=|pos8=",
+            "p9": "Lucarin|p9flag=|pos9="
+        },
+        {
+            "team": "Avidity Esports",
+            "p1": "IllegalPanda|p1flag=us|pos1=sup",
+            "p2": "Shade|p2flag=|pos2=|p2link=Shade (American player)",
+            "p3": "\u014aEINHARDT|p3flag=us|pos3=tank",
+            "p4": "ueanders|p4flag=|pos4=",
+            "p5": "slay|p5flag=us|pos5=|p5link=slay (American player)",
+            "p6": "NPC|p6flag=ca|pos6=dps",
+            "p7": "Two4One|p7flag=|pos7=",
+            "p8": "MightyOwl|p8flag=us|pos8=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2021-03-14 - 09:00",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ZooWeeMama|score=0}}",
+            "opponent2": "{{TeamOpponent|Limitless|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Empyrean|score=2}}",
+            "opponent2": "{{TeamOpponent|uw-whitewater esports|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|The Weird Squad|score=2}}",
+            "opponent2": "{{TeamOpponent|Limitless|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Avidity Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|False Appearance|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Shikigami|score=2}}",
+            "opponent2": "{{TeamOpponent|Empyrean|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Solstice|score=2}}",
+            "opponent2": "{{TeamOpponent|UTK Esports|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|The Weird Squad|score=1}}",
+            "opponent2": "{{TeamOpponent|Avidity Esports|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Shikigami|score=0}}",
+            "opponent2": "{{TeamOpponent|Solstice|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "5",
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Avidity Esports|score=1}}",
+            "opponent2": "{{TeamOpponent|Solstice|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|UTK Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|ZooWeeMama|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|False Appearance|score=2}}",
+            "opponent2": "{{TeamOpponent|uw-whitewater esports|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ZooWeeMama|score=0}}",
+            "opponent2": "{{TeamOpponent|Empyrean|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|False Appearance|score=2}}",
+            "opponent2": "{{TeamOpponent|Limitless|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|The Weird Squad|score=2}}",
+            "opponent2": "{{TeamOpponent|Empyrean|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M3="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Shikigami|score=0}}",
+            "opponent2": "{{TeamOpponent|False Appearance|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M4="
+        },
+        {
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|The Weird Squad|score=2}}",
+            "opponent2": "{{TeamOpponent|False Appearance|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "bestof": "5",
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Avidity Esports|score=1}}",
+            "opponent2": "{{TeamOpponent|The Weird Squad|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M2="
+        },
+        {
+            "bestof": "5",
+            "date": "2021-03-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Solstice|score=1}}",
+            "opponent2": "{{TeamOpponent|The Weird Squad|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M1="
+        }
+    ]
+}

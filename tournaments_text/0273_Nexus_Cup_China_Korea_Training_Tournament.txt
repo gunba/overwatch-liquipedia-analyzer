@@ -1,0 +1,513 @@
+{{DISPLAYTITLE:Nexus Cup - China-Korea Training Tournament}}
+{{NC Navbox}}<br>
+{{Infobox league
+|name=Nexus Cup - China-Korea Training Tournament
+|shortname=CN vs KR
+|image=Nexus_Cup_logo.jpg
+|series=Nexus Cup
+|organizer=NetEase CC
+|organizer-link=http://cc.163.com/
+|organizer2=
+|sponsor=
+|type=Online
+|country=China
+|format=
+|prizepool=58,000
+|localcurrency=CNY
+|prizepoolusd=8,700
+|date=
+|sdate=2016-08-05
+|edate=2016-09-11
+|liquipediatier={{TierText/3}}
+|web=http://play.163.com/special/ow/nexuscup.html
+|stream=http://cc.163.com/ow
+|bracket=http://en.game-tournaments.com/overwatch/nexus-cup-china-korea-training-tournament/playoff
+|challonge=
+|teamfirst=nga
+|teamsecond=af.blue
+|teamthird=af.red
+|teamfourth=mvps
+|team_number=8
+|team1=wildest dog
+|team2=snake
+|team3=1246
+|team4=nga
+|team5=af.blue
+|team6=af.red
+|team7=mvp space
+|team8=mighty aod
+|previous=Nexus_Cup/Recall{{!}}Recall
+|next=Nexus_Cup/Halloween{{!}}Halloween
+}}
+{{TOClimit|3}}
+'''Nexus Cup''' is a series of Overwatch tournaments organized by NetEase CC.
+
+==Information==
+===Prize Pool===
+58,000 {{Abbr/CNY}} (~8,700 {{Abbr/USD}}) is spread among the players as seen below:
+{{box|start|padding=2em}}
+{{prize pool start|localcurrency=cny}}
+{{prize pool slot|place=1|usdprize=2,625|localprize=17,500|nga |lastvs1=af.blue |lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot|place=2|usdprize=1,800|localprize=12,000|af.blue |lastvs1=nga |lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot|place=3|usdprize=1,575|localprize=10,500|af.red |wdl1=7/-/1 }}
+{{prize pool slot|place=4|usdprize=1,125|localprize=7,500|mvps |wdl1=5/-/3 }}
+{{prize pool slot|place=5|usdprize=675|localprize=4,500|mighty aod|wdl1=3/-/5 }}
+{{prize pool slot|place=6|usdprize=450|localprize=3,000|snake |wdl1=2/-/6 }}
+{{prize pool slot|place=7-8|usdprize=0|localprize=0
+|wildest dog |wdl1=0/-/8
+|1246 |wdl2=0/-/8
+}}
+{{Prize pool end}}
+''Conversion values taken from [http://www.xe.com xe.com] on 2016-07-11. 1 {{Abbr/CNY}} ≈ 0.150 {{Abbr/USD}}''
+{{Box|break|padding=2em}}
+{| class="wikitable" style="text-align:center;"
+! colspan="3"|Prize winnings per victory
+|-
+! Team
+! Victories
+! Winnings ($)
+|-
+|style="text-align:left;"|{{Team|afblue}}||{{#vardefineecho:afblue_win|8}}||{{#expr:{{#var:afblue_win}}*225}}
+|-
+|style="text-align:left;"|{{Team|afred}}||{{#vardefineecho:afred_win|7}}||{{#expr:{{#var:afred_win}}*225}}
+|-
+|style="text-align:left;"|{{Team|nga}}||{{#vardefineecho:nga_win|5}}||{{#expr:{{#var:nga_win}}*225}}
+|-
+|style="text-align:left;"|{{Team|mvp space}}||{{#vardefineecho:mvps_win|5}}||{{#expr:{{#var:mvps_win}}*225}}
+|-
+|style="text-align:left;"|{{Team|mighty aod}}||{{#vardefineecho:mighty_win|3}}||{{#expr:{{#var:mighty_win}}*225}}
+|-
+|style="text-align:left;"|{{Team|snake}}||{{#vardefineecho:snake_win|2}}||{{#expr:{{#var:snake_win}}*225}}
+|-
+|style="text-align:left;"|{{Team|wildest dog}}||-||-
+|-
+|style="text-align:left;"|{{Team|1246}}||-||-
+|}
+{{box|end|padding=2em}}
+
+===Format===
+*'''General rules''': Stopwatch
+*'''Group Stage''': 
+**Each team from one region will compete with teams from another twice. 
+**All match are Bo3.
+**Winner in each match will receive 1,500 {{Abbr/CNY}} (~225 {{Abbr/USD}}).
+**Team from each region which gains highest scores will advance to '''Playoffs'''.
+*'''Playoffs''':
+**Match is Bo5.
+**Winner will receive 10,000 {{Abbr/CNY}} (~1,500 {{Abbr/USD}}).
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=TBD|b1flag=cn
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Wildest Dog
+|p1=DJB|p1flag=cn
+|p2=Wind|p2flag=cn
+|p3=lxppp|p3flag=cn
+|p4=井星邦|p4flag=cn
+|p5=老瓜|p5flag=cn
+|p6=233333|p6flag=cn
+|qualifier='''CN Invited'''
+|notes=3
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Snake eSports
+|p1=FateHolder
+|p2=Key
+|p3=HuaMao
+|p4=Pangge
+|p5=700
+|p6=Izaya
+|qualifier='''CN Invited'''
+}}
+{{Box|break|padding=2em}}
+{{TeamCard
+|team=1246
+|p1=Tian |p1flag=cn |p1link=Shi Chen
+|p2=RMe |p2flag=cn
+|p3=BBcat |p3flag=cn
+|p4=SOMEONE |p4flag=cn|p4link=Wang Dixun
+|p5=Billyoo |p5flag=cn
+|p6=SMILEToT |p6flag=cn
+|qualifier='''CN Invited'''
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NGA Club
+|link=NGA Club/NGA Club
+|p1=ShaDowCat
+|p2=Fury|p2link=Cheng Chao
+|p3=LittleCat
+|p4=AcyOrt
+|p5=Hysteria
+|p6=Maps|p6link=Maps (Chinese player)
+|qualifier='''CN Invited'''
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=AF.Blue
+|link=Afreeca Freecs/AF.Blue
+|p1=TaiRong |p1flag=kr
+|p2=yesman |p2flag=kr
+|p3=ArHaN |p3flag=kr
+|p4=Adam |p4flag=kr |p4link=Adam (Korean player)
+|p5=attune |p5flag=kr
+|p6=J1N |p6flag=kr
+|qualifier='''KR Invited'''
+|notes=2
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=AF.Red
+|link=Afreeca Freecs/AF.Red
+|p1=Qmain |p1flag=kr
+|p2=Hyeonu |p2flag=kr
+|p3=LagerMan |p3flag=kr
+|p4=gokon |p4flag=kr
+|p5=Recry |p5flag=kr
+|p6=takethis |p6flag=kr
+|qualifier='''KR Invited'''
+|notes=2
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=MVP Space
+|link=MVP/MVP Space
+|p1=Poro |p1flag=kr
+|p2=Pelka |p2flag=kr
+|p3=sylph |p3flag=kr
+|p4=Kuki |p4flag=kr
+|p5=JuNe |p5flag=kr
+|p6=Daily |p6flag=kr
+|qualifier='''KR Invited'''
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Mighty AOD
+|link=Mighty/Mighty AOD
+|image=Mighty_logo.png
+|p1=F3LHO |p1flag=kr
+|p2=AIR |p2flag=kr
+|p3=RR |p3flag=kr
+|p4=KariV |p4flag=kr
+|p5=AE |p5flag=kr
+|p6=Tcut |p6flag=kr
+|c=Moon|cflag=kr
+|qualifier='''KR Invited'''
+|notes=1
+}}
+{{box|end}}
+*<sup>1</sup> <small>[[Unplugged]] forfeited due to disbanding, [[Mighty AOD]] replaced it from 2016-08-18 and carried on its scores.</small><br>
+*<sup>2</sup> <small>Two [[MiG]] squads were acquired by [[Afreeca Freecs]].</small><br>
+*<sup>3</sup> <small>[[Wildest Dog]] squad were acquired by [[eStar Gaming]].{{citation needed}}</small>
+
+==Results==
+===Group Stage===
+{{box|start|padding=2em}}
+===={{hiddenSort|Week 1}}====
+{{LegacyMatchList|id=EZBZYEj4zo|title=Week 1 matches |width=450px |hide=false
+|match1={{MatchMaps
+|date=August 5, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=mvp space |games1=2
+|team2=wildest dog |games2=0
+|winner=1
+}}
+|match2={{MatchMaps
+|date=August 5, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=unplugged  |games1=1
+|team2=nga |games2=2
+|winner=2
+}}
+|match3={{MatchMaps
+|date=August 6, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=af.red |games1=1
+|team2=nga |games2=2
+|winner=2
+}}
+|match4={{MatchMaps
+|date=August 6, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=af.red |games1=2
+|team2=1246 |games2=0
+|winner=1
+}}
+|match5={{MatchMaps
+|date=August 7, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=af.blue |games1=2
+|team2=wildest dog |games2=0
+|winner=1
+}}
+|match6={{MatchMaps
+|date=August 7, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=af.blue |games1=2
+|team2=snake |games2=1
+|winner=1
+}}
+}}
+{{Box|break|padding=2em}}
+
+===={{hiddenSort|Week 2}}====
+{{LegacyMatchList|id=dKIhnCIIRc|title=Week 2 matches |width=450px |hide=false
+|match1={{MatchMaps
+|date=August 12, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=mvps |games1=0
+|team2=nga |games2=2
+|winner=2
+}}
+|match2={{MatchMaps
+|date=August 12, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=unplugged |games1=0
+|team2=snake |games2=2
+|winner=2
+}}
+|match3={{MatchMaps
+|date=August 13, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=af.red |games1=2
+|team2=snake |games2=0
+|winner=1
+}}
+|match4={{MatchMaps
+|date=August 13, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=af.red |games1=2
+|team2=1246 |games2=0
+|winner=1
+}}
+|match5={{MatchMaps
+|date=August 14, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=af.blue |games1=2
+|team2=nga |games2=0
+|winner=1
+}}
+|match6={{MatchMaps
+|date=August 14, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=af.blue |games1=2
+|team2=1246 |games2=0
+|winner=1
+}}
+}}
+{{Box|break|padding=2em}}
+
+===={{hiddenSort|Week 3}}====
+{{LegacyMatchList|id=rExoefhSDY|title=Week 3 matches |width=450px |hide=false
+|match1={{MatchMaps
+|date=August 19, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=mvps |games1=2
+|team2=snake |games2=0
+|winner=1
+}}
+|match2={{MatchMaps
+|date=August 19, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=mighty aod|games1=2
+|team2=wildest dog |games2=0
+|winner=1
+}}
+|match3={{MatchMaps
+|date=August 20, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=af.red |games1=2
+|team2=nga |games2=0
+|winner=1
+}}
+|match4={{MatchMaps
+|date=August 20, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=af.red |games1=2
+|team2=wildest dog |games2=0
+|winner=1
+}}
+|match5={{MatchMaps
+|date=August 21, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=af.blue |games1=2
+|team2=wildest dog |games2=0
+|winner=1
+}}
+|match6={{MatchMaps
+|date=August 21, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=af.blue |games1=2
+|team2=snake |games2=0
+|winner=1
+}}
+}}
+{{Box|break|padding=2em}}
+
+===={{hiddenSort|Week 4}}====
+{{LegacyMatchList|id=pasVdkYuWG|title=Week 4 matches |width=450px |hide=false
+|match1={{MatchMaps
+|date=August 26, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=mvps |games1=2
+|team2=1246 |games2=0
+|winner=1
+}}
+|match2={{MatchMaps
+|date=August 26, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=mighty aod|games1=0
+|team2=nga |games2=2
+|winner=2
+}}
+|match3={{MatchMaps
+|date=August 27, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=af.red |games1=2
+|team2=wildest dog |games2=0
+|winner=1
+}}
+|match4={{MatchMaps
+|date=August 27, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=af.red |games1=2
+|team2=snake |games2=1
+|winner=1
+}}
+|match5={{MatchMaps
+|date=August 28, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=af.blue |games1=2
+|team2=nga |games2=0
+|winner=1
+}}
+|match6={{MatchMaps
+|date=August 28, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=af.blue |games1=2
+|team2=1246 |games2=1
+|winner=1
+}}
+}}
+{{Box|break|padding=2em}}
+
+===={{hiddenSort|Week 5}}====
+{{LegacyMatchList|id=mE7GWt3Vyy|title=Week 5 matches |width=450px |hide=false
+|match1={{MatchMaps
+|date=September 2, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=mighty aod|games1=2
+|team2=wildest dog |games2=0
+|winner=1
+}}
+|match2={{MatchMaps
+|date=September 2, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=mighty aod|games1=2
+|team2=1246 |games2=0
+|winner=1
+}}
+|match3={{MatchMaps
+|date=September 3, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=mvps |games1=0
+|team2=nga |games2=2
+|winner=2
+}}
+|match4={{MatchMaps
+|date=September 3, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=mvps |games1=0
+|team2=snake |games2=2
+|winner=2
+}}
+|match5={{MatchMaps
+|date=September 4, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|team1=mvps |games1=2
+|team2=1246 |games2=1
+|winner=1
+}}
+|match6={{MatchMaps
+|date=September 4, 2016 - 20:30 {{Abbr/CST}}
+|finished=true
+|team1=mvps |games1=2
+|team2=wildest dog |games2=
+|winner=1
+}}
+}}
+{{Box|break|padding=2em}}
+
+===={{hiddenSort|Week 6}}====
+{{LegacyMatchList|id=h6VwMuAp2c|title=Week 6 matches |width=450px |hide=false
+|match1={{MatchMaps
+|date=September 9, 2016 - 19:30 {{Abbr/CST}}
+|finished=
+|team1=mighty aod|games1=
+|team2=snake |games2=
+|winner=
+}}
+|match2={{MatchMaps
+|date=September 9, 2016 - 20:30 {{Abbr/CST}}
+|finished=
+|team1=mighty aod|games1=
+|team2=1246 |games2=
+|winner=
+}}
+}}
+{{Box|end}}
+
+===Playoffs===
+{{LegacyBracket|Bracket/2|2SETeamBracket|type=team|id=E8MiApGZJI
+<!-- FINALS -->
+|R1D1team=af.blue |R1D1score=0 |R1D1win=0
+|R1D2team=nga |R1D2score=3 |R1D2win=1
+|R1G1details={{BracketMatchSummary
+|date=September 10, 2016 - 19:30 {{Abbr/CST}}
+|finished=true
+|match1={{Match/old
+|map=Numbani
+|team1side=  |team2side=  |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+|match2={{Match/old
+|map=Volskaya Industries
+|team1side=  |team2side=  |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+|match3={{Match/old
+|map=Hollywood
+|team1side=  |team2side=  |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=2
+}}
+|match4={{Match/old
+|map=
+|team1side=  |team2side=  |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=
+}}
+|match5={{Match/old
+|map=
+|team1side=  |team2side=  |team1checkpoints= |team1time=
+|team1side2= |team2side2= |team2checkpoints= |team2time=
+|win=
+}}
+}}
+}}
+
+==External links==
+*{{flag/cn}} [http://nga.178.com/read.php?tid=9697557 Official Announcement on ow.178.com]
+
+==References==
+{{Reflist}}

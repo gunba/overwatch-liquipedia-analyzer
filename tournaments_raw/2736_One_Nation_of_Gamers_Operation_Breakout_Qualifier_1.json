@@ -1,0 +1,345 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2|liquipediatiertype=Qualifier",
+            "series": "ONOG",
+            "name": "Operation Breakout: Qualifier #1",
+            "image": "Operation Breakout OW.png",
+            "icon": "",
+            "organizer": "One Nation of Gamers",
+            "organizer2": "VGVN",
+            "sponsor": "[http://masteroverwatch.com/ Master Overwatch]<br>[http://videogamevoters.org/ VGVN]<br>[http://www.razerzone.com/ Razer]",
+            "country": "North America",
+            "type": "Online",
+            "format": "Single-Elimination Bracket",
+            "prizepoolusd": "15,000",
+            "date": "2016-06-07",
+            "gosugamers": "http://www.gosugamers.net/overwatch/events/524-onog-operation-breakout",
+            "web": "",
+            "twitch": "onenationofgamers",
+            "team_number": "32"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Rogue",
+            "p1": "TviQ",
+            "p2": "ToxikeN |p2flag=es",
+            "p3": "Reinforce",
+            "p4": "winz",
+            "p5": "aKm",
+            "p6": "uNKOE"
+        },
+        {
+            "team": "nubris",
+            "image": "",
+            "size": "",
+            "p1": "coolmatt69 |p1flag=",
+            "p2": "Minstrel |p2flag=",
+            "p3": "id_ |p3flag=ca",
+            "p4": "Stoop |p4flag=",
+            "p5": "custa |p5flag=ca",
+            "p6": "Buds |p6flag="
+        },
+        {
+            "team": "OWKings",
+            "image": "",
+            "size": "",
+            "p1": "ADETONIAN |p1flag=nl",
+            "p2": "michr |p2flag=",
+            "p3": "OLBAA |p3flag=fi",
+            "p4": "twidi |p4flag=fi",
+            "p5": "ryb |p5flag=se",
+            "p6": "Oksii |p6flag=de"
+        },
+        {
+            "team": "ANOX",
+            "image": "Anox.png",
+            "size": "",
+            "p1": "COOLLER|p1flag=ru",
+            "p2": "Rubikon |p2flag=ru",
+            "p3": "Kensi |p3flag=ua",
+            "p4": "Anak |p4flag=by",
+            "p5": "cYpheR|p5flag=by",
+            "p6": "sharyk |p6flag=uk"
+        },
+        {
+            "team": "1SHOT Esports",
+            "image": "",
+            "size": "",
+            "p1": "Spazzo |p1flag=us",
+            "p2": "Ultimawep |p2flag=us",
+            "p3": "Exi |p3flag=us",
+            "p4": "PsychoWaffle |p4flag=us",
+            "p5": "Krawnnic |p5flag=us",
+            "p6": "MtG |p6flag=us"
+        },
+        {
+            "team": "No Fast Guns",
+            "image": "",
+            "size": "",
+            "p1": "AgM |p1flag=us|p1link= agm(american player)",
+            "p2": "Frisco |p2flag=us",
+            "p3": "Pho |p3flag=us",
+            "p4": "theJeffreh |p4flag=us",
+            "p5": "vee |p5flag=us",
+            "p6": "kasper |p6flag=us"
+        },
+        {
+            "team": "Northern Gaming Blue |link=Northern_Gaming/Northern_Gaming_Blue",
+            "image": "",
+            "size": "",
+            "p1": "zaphe |p1flag=",
+            "p2": "liddano |p2flag=",
+            "p3": "NuttyB |p3flag=se",
+            "p4": "Mint |p4flag=",
+            "p5": "Shadez |p5flag=",
+            "p6": "eure |p6flag=",
+            "c": "mkL|cflag="
+        },
+        {
+            "team": "Northern Gaming Red",
+            "image": "",
+            "size": "",
+            "p1": "Exeon|p1flag=",
+            "p2": "BreadExpert |p2flag=",
+            "p3": "NapTime |p3flag=",
+            "p4": "Mangachu |p4flag=",
+            "p5": "Chance |p5flag=",
+            "p6": "Wolf |p6flag= |p6link=Wolf_(American_player)"
+        },
+        {
+            "team": "Colorado Clutch",
+            "size": "",
+            "p1": "Lumberjack |p1flag=us",
+            "p2": "hamsword |p2flag=us",
+            "p3": "wgb |p3flag=us",
+            "p4": "hotsforshots |p4flag=us",
+            "p5": "Korra |p5flag=us",
+            "p6": "Lui |p6flag=us"
+        },
+        {
+            "team": "Assertion Failed",
+            "image": "",
+            "size": "",
+            "p1": "Mini |p1flag=",
+            "p2": "horrific |p2flag=us",
+            "p3": "Dahun |p3flag=us",
+            "p4": "YouMustHooey |p4flag=us",
+            "p5": "Techicide |p5flag=us",
+            "p6": "DoT |p6flag=ca"
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|rogue|score=W}}",
+            "opponent2": "{{TeamOpponent|bye}}",
+            "winner": "1",
+            "optional": "R1M1="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|caf\u00e9|score=0}}",
+            "opponent2": "{{TeamOpponent|nexus|score=2}}",
+            "winner": "2",
+            "optional": "R1M2="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|anox|score=0}}",
+            "opponent2": "{{TeamOpponent|assertion failed|score=2}}",
+            "winner": "2",
+            "optional": "R1M3="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|boules|score=0}}",
+            "opponent2": "{{TeamOpponent|paragon|score=2}}",
+            "winner": "2",
+            "optional": "R1M4="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|still here|score=2}}",
+            "opponent2": "{{TeamOpponent|rooftop pigeon's|score=0}}",
+            "winner": "1",
+            "optional": "R1M5="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|no fast guns|score=2}}",
+            "opponent2": "{{TeamOpponent|punchboys|score=1}}",
+            "winner": "1",
+            "optional": "R1M6="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|owkings|score=2}}",
+            "opponent2": "{{TeamOpponent|boiled dirt|score=0}}",
+            "winner": "1",
+            "optional": "R1M7="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|1shot|score=2}}",
+            "opponent2": "{{TeamOpponent|sensei|score=0}}",
+            "winner": "1",
+            "optional": "R1M8="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|nubris|score=2}}",
+            "opponent2": "{{TeamOpponent|neighborhood overwatch|score=0}}",
+            "winner": "1",
+            "optional": "R1M9="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|inigma|score=2}}",
+            "opponent2": "{{TeamOpponent|nightwatch|score=0}}",
+            "winner": "1",
+            "optional": "R1M10="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|northern gaming red|score=2}}",
+            "opponent2": "{{TeamOpponent|life in danger|score=0}}",
+            "winner": "1",
+            "optional": "R1M11="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|mrkn|score=2}}",
+            "opponent2": "{{TeamOpponent|zfz|score=0}}",
+            "winner": "1",
+            "optional": "R1M12="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|colorado clutch|score=2}}",
+            "opponent2": "{{TeamOpponent|kingdom esports|score=0}}",
+            "winner": "1",
+            "optional": "R1M13="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|team gates|score=2}}",
+            "opponent2": "{{TeamOpponent|jerkz_squad|score=0}}",
+            "winner": "1",
+            "optional": "R1M14="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|northern gaming blue|score=2}}",
+            "opponent2": "{{TeamOpponent|flipadelphia|score=0}}",
+            "winner": "1",
+            "optional": "R1M15="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|r\u00f6\u00f6ki|score=0}}",
+            "opponent2": "{{TeamOpponent|fundamentals of coop|score=2}}",
+            "winner": "2",
+            "optional": "R1M16="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|rogue|score=2}}",
+            "opponent2": "{{TeamOpponent|nexus|score=0}}",
+            "winner": "1",
+            "optional": "R2M1="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|assertion failed|score=2}}",
+            "opponent2": "{{TeamOpponent|paragon|score=0}}",
+            "winner": "1",
+            "optional": "R2M2="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|still here|score=0}}",
+            "opponent2": "{{TeamOpponent|no fast guns|score=2}}",
+            "winner": "2",
+            "optional": "R2M3="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|owkings|score=2}}",
+            "opponent2": "{{TeamOpponent|1shot|score=0}}",
+            "winner": "1",
+            "optional": "R2M4="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|nubris|score=2}}",
+            "opponent2": "{{TeamOpponent|inigma|score=0}}",
+            "winner": "1",
+            "optional": "R2M5="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|northern gaming red|score=2}}",
+            "opponent2": "{{TeamOpponent|mrkn|score=0}}",
+            "winner": "1",
+            "optional": "R2M6="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|colorado clutch|score=2}}",
+            "opponent2": "{{TeamOpponent|team gates|score=0}}",
+            "winner": "1",
+            "optional": "R2M7="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|northern gaming blue|score=2}}",
+            "opponent2": "{{TeamOpponent|fundamentals of coop|score=0}}",
+            "winner": "1",
+            "optional": "R2M8="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|rogue|score=2}}",
+            "opponent2": "{{TeamOpponent|assertion failed|score=1}}",
+            "winner": "1",
+            "optional": "R3M1="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|no fast guns|score=2}}",
+            "opponent2": "{{TeamOpponent|owkings|score=1}}",
+            "winner": "1",
+            "optional": "R3M2="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|nubris|score=2}}",
+            "opponent2": "{{TeamOpponent|northern gaming red|score=0}}",
+            "winner": "1",
+            "optional": "R3M3="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|colorado clutch|score=0}}",
+            "opponent2": "{{TeamOpponent|northern gaming blue|score=2}}",
+            "winner": "2",
+            "optional": "R3M4="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|rogue|score=2}}",
+            "opponent2": "{{TeamOpponent|no fast guns|score=0}}",
+            "winner": "1",
+            "optional": "R4M1="
+        },
+        {
+            "date": "|finished=",
+            "opponent1": "{{TeamOpponent|nubris|score=2}}",
+            "opponent2": "{{TeamOpponent|northern gaming blue|score=0}}",
+            "winner": "1",
+            "optional": "R4M2="
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "tournament_info": [
+        {
+            "name": "King of the Hill #8",
+            "image": "",
+            "series": "ESL",
+            "organizer": "ESL",
+            "country": "North America",
+            "format": "",
+            "type": "Online",
+            "date": "2016-09-27",
+            "prizepoolusd": "1,000",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "twitch": "esl",
+            "twitch2": "",
+            "bracket": "http://play.eslgaming.com/overwatch/north-america/overwatch/major/koth-cup-8/rankings/",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "3",
+            "map1": "",
+            "map2": "",
+            "map3": "",
+            "previous": "ESL/King_of_the_Hill/7{{!}}#7",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "compLexity Gaming",
+            "image": "",
+            "size": "",
+            "notes": "1",
+            "p1": "KyKy |p1flag=",
+            "p2": "Grego |p2flag=",
+            "p3": "Adam |p3flag=",
+            "p4": "reaver |p4flag=",
+            "p5": "deBett |p5flag=",
+            "p6": "Surefour |p6flag=",
+            "qualifier": "[[ESL/King_of_the_Hill/7|King #7]]"
+        },
+        {
+            "team": "eLusive",
+            "image": "eLusive_logo.png",
+            "size": "",
+            "p1": "ConnorJJ |p1flag=ca",
+            "p2": "Stin |p2flag=us",
+            "p3": "j3sus |p3flag=us",
+            "p4": "Sherlockey |p4flag=us",
+            "p5": "manOFsnow |p5flag=us",
+            "p6": "Ajax |p6flag=us",
+            "qualifier": "Open Qualifier"
+        },
+        {
+            "team": "Selfless Gaming",
+            "image": "",
+            "size": "",
+            "p1": "Cynic |p1flag=us",
+            "p2": "kellar |p2flag=ca",
+            "p3": "dhaK |p3flag=us",
+            "p4": "robwiz |p4flag=ca",
+            "p5": "emongg |p5flag=us",
+            "p6": "RinaVX |p6flag=us",
+            "qualifier": "Invited"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "date": "September 27, 2016 - 19:00  {{Abbr/EDT}}",
+            "finished": "true",
+            "team2": "selfless",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "elusive",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "date": "September 27, 2016 - 21:00  {{Abbr/EDT}}",
+            "finished": "true",
+            "team2": "elusive",
+            "score2": "-",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2D1",
+            "team1": "col",
+            "score1": "W",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

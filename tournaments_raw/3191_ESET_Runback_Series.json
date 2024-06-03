@@ -1,0 +1,74 @@
+{
+    "tournament_info": [
+        {
+            "name": "ESET Runback Series",
+            "tickername": "ESET Runback Series",
+            "shortname": "ESET Runback Series",
+            "image": "ESET Runback Series allmode.png",
+            "icon": "ESET Runback Series allmode.png",
+            "organizer": "San Francisco Shock",
+            "sponsor": "[https://www.eset.com/us/ ESET]",
+            "country": "South Korea",
+            "city": "Seoul",
+            "venue": "[https://daehancinema.co.kr/PETC/ WDG eSports Studio]",
+            "type": "Offline",
+            "game": "overwatch2",
+            "prizepoolusd": "",
+            "date": "2022-12-27",
+            "liquipediatier": "1|liquipediatiertype=Showmatch",
+            "twitter": "sfshock",
+            "twitter2": "dallasfuel",
+            "youtube": "@sanfranciscoshock",
+            "youtube2": "overwatchleague",
+            "team_number": "2"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dallas Fuel",
+            "p1": "guriyo|pos1=dps",
+            "p2": "Sp9rk1e|pos2=dps",
+            "p3": "Hanbin|pos3=tank",
+            "p4": "ChiYo|pos4=sup",
+            "p5": "Bliss|pos5=sup|p5team=O2 Blast",
+            "p6": "Fielder|pos6=sup",
+            "p7": "MCD|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Rush|t2c1pos=head coach",
+            "t2c2": "Aid|t2c2pos=assistant coach",
+            "t2c3": "Rascal|t2c3pos=assistant coach",
+            "t2c4": "TazMo|t2c4pos=manager",
+            "t2c5": "Dear|t2c5pos=manager"
+        },
+        {
+            "team": "San Francisco Shock",
+            "p1": "Proper|pos1=dps",
+            "p2": "HeeSang|pos2=dps",
+            "p3": "MAX|pos3=tank",
+            "p4": "Vindaim|pos4=sup",
+            "p5": "FiNN|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Crusty|t2c1pos=head coach",
+            "t2c2": "NineK|t2c2pos=assistant coach",
+            "t2c3": "Thugnasty|t2c3pos=manager",
+            "t2c4": "bikeage|t2c4pos=manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "7",
+            "date": "December 26, 2022 - 20:00 {{Abbr/PST}}",
+            "youtube": "overwatchleague",
+            "vod": "https://www.youtube.com/watch?v=wsDl8W9ceOg",
+            "opponent1": "{{TeamOpponent|sfs}}",
+            "opponent2": "{{TeamOpponent|dal}}",
+            "map1": "{{Map|map=Esperan\u00e7a|mode=Push|score1=143.00m|score2=0.90m|winner=1}}",
+            "map2": "{{Map|map=Numbani|mode=Hybrid|score1=2|score2=3|winner=2}}",
+            "map3": "{{Map|map=Oasis|mode=Control|score1=2|score2=1|winner=1}}",
+            "map4": "{{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}",
+            "map5": "{{Map|map=Dorado|mode=Escort|score1=2|score2=3|winner=2}}",
+            "map6": "{{Map|map=King's Row|mode=Hybrid|score1=4|score2=5|winner=2}}",
+            "map7": "{{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}"
+        }
+    ]
+}

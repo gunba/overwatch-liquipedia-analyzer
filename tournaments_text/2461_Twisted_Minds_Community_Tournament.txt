@@ -1,0 +1,135 @@
+{{Infobox league
+|liquipediatier=5
+|name=Twisted Minds Community Tournament
+|shortname=Twisted Minds Community Tournament
+|tickername=Twisted Minds Community Tournament
+|icon=Twisted Minds 2023 full lightmode.png
+|image=Twisted Minds 2023 full lightmode.png
+|imagedark=Twisted Minds 2023 full darkmode.png
+|organizer=Twisted Minds
+|type=Online
+|country=Middle East
+|game=overwatch2
+|format=Single Elimination
+|localcurrency=sar
+|prizepool=500
+|sdate=2024-05-05
+|edate=2024-05-08
+|twitter=TwisMinds
+|instagram=TwisMinds
+|discord=twisminds
+|bracket=https://challonge.com/kajv4wmk
+|twitch=owbrain
+|twitch2=w1llyvv
+|team_number=32
+}}
+
+==Information==
+===Format===
+* Single Elimination bracket
+* Round 1 is {{Abbr/Ft1}}
+* Finals are {{Abbr/Ft3}}
+* All other matches are {{Abbr/Ft2}}
+
+{{box|start|padding=2em}}
+===Prize Pool===
+{{TeamPrizePool|localcurrency=sar
+|{{Slot|localprize=500}}
+}}
+{{box|break|padding=1em}}
+===Awards===
+{{AwardPrizePool|localcurrency=sar
+|{{Slot|localprize=100|award=MVP|{{Opponent|Sun|link=Sun (Middle Eastern player)|flag=|team=westros}}}}
+}}
+{{box|end}}
+
+==Top 4 Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4|height=210}}
+{{TeamCard
+|team=Brain Fans
+|p1=Miraculous|pos1=dps
+|p2=TVNT|pos2=dps
+|p3=ZIYAD|pos3=tank
+|p4=Jhst|pos4=sup
+|p5=Heartlyn|p5flag=sa|pos5=sup
+|p6=Ciel|p6flag=sa|pos6=sup
+}}
+{{TeamCard
+|team=ripjaws
+|p1=Azoz|p1flag=|pos1=dps
+|p2=Kuvira|p2flag=|pos2=dps
+|p3=Icon|p3flag=|pos3=tank
+|p4=Emma|p4flag=|pos4=sup
+|p5=Kayden|p5flag=|pos5=sup
+}}
+{{TeamCard
+|team=Anarchy|link=Anarchy (ME team)
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=westros
+|p1=amdp|pos1=dps
+|p2=Supra|p2flag=|pos2=dps
+|p3=Xtmsa7wrdyX|p3flag=|pos3=tank
+|p4=Sun|p4flag=|pos4=sup|p4link=Sun (Middle Eastern player)
+|p5=Satoru|p5flag=|pos5=sup
+|p6=Starset|p6flag=|pos6=sup
+}}
+{{TeamCard columns end}}
+
+==Top 8 Results==
+{{Bracket|Bracket/8|id=OGNyp1aDfI
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |date=May 6, 2024
+    |opponent1={{TeamOpponent|Brain Fans|score=1}}
+    |opponent2={{TeamOpponent|Dark players|score=0}}
+}}
+|R1M2={{Match
+    |date=May 6, 2024
+    |opponent1={{TeamOpponent|Team shifters|score=0}}
+    |opponent2={{TeamOpponent|ripjaws|score=1}}
+}}
+|R1M3={{Match
+    |date=May 6, 2024
+    |opponent1={{TeamOpponent|Anarchy (ME team)|score=1}}
+    |opponent2={{TeamOpponent|Jaguar E sports|score=0}}
+}}
+|R1M4={{Match
+    |date=May 6, 2024
+    |opponent1={{TeamOpponent|hear me roar|score=0}}
+    |opponent2={{TeamOpponent|westros|score=1}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+    |date=May 7, 2024
+    |opponent1={{TeamOpponent|Brain Fans|score=1}}
+    |opponent2={{TeamOpponent|ripjaws|score=0}}
+}}
+|R2M2={{Match
+    |date=May 7, 2024
+    |opponent1={{TeamOpponent|Anarchy (ME team)|score=0}}
+    |opponent2={{TeamOpponent|westros|score=1}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |bestof=5
+    |date=May 8, 2024
+    |opponent1={{TeamOpponent|Brain Fans}}
+    |opponent2={{TeamOpponent|westros}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+	|map2={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=0|winner=1}}
+	|map3={{Map|map=Suravasa|mode=Flashpoint|score1=3|score2=2|winner=1}}
+}}
+}}
+
+==References==
+{{Reflist}}

@@ -1,0 +1,220 @@
+{
+    "tournament_info": [
+        {
+            "name": "Academy Gaming Overwatch Weekly #6",
+            "shortname": "6",
+            "image": "ag-logo.png",
+            "series": "Academy Gaming",
+            "organizer": "Academy Gaming",
+            "sponsor": "Academy Gaming",
+            "type": "Online",
+            "country": "USA",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "prizepoolusd": "68",
+            "date": "2016-07-05",
+            "sdate": "",
+            "edate": "",
+            "web": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-5/57685c7a26bafe2c0c537b95/info",
+            "bracket": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-5/57685c7a26bafe2c0c537b95/stage/57685c7a26bafe2c0c537b96/bracket/",
+            "twitch": "gamewithstorm",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "kingdom esports",
+            "teamsecond": "bold purpose gaming",
+            "team_number": "13",
+            "map1": "King's Row",
+            "map2": "Numbani",
+            "map3": "Watchpoint: Gibraltar",
+            "map4": "Dorado",
+            "map5": "Hanamura",
+            "map6": "Temple of Anubis",
+            "map7": "Volskaya Industries",
+            "map8": "Nepal",
+            "map9": "Lijiang Tower",
+            "map10": "Hollywood",
+            "map11": "Ilios",
+            "map12": "Route 66"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Kingdom Esports"
+        },
+        {
+            "team": "Bold Purpose Gaming",
+            "p1flag": "us |p1=Clutter",
+            "p2flag": "ca |p2=Natsu",
+            "p3flag": "us |p3=Firefox",
+            "p4flag": "us |p4=timmychrist",
+            "p5flag": "us |p5=Taeyeon",
+            "p6flag": "us |p6=Verbo"
+        },
+        {
+            "team": "Bloodbath & Beyond"
+        },
+        {
+            "team": "Helix.Carbon"
+        },
+        {
+            "team": "Savage Gold"
+        },
+        {
+            "team": "Primal"
+        },
+        {
+            "team": "Payload is Hard"
+        },
+        {
+            "team": "Circle With Bloom"
+        },
+        {
+            "team": "Far From Good"
+        },
+        {
+            "team": "Salt'em"
+        },
+        {
+            "team": "Catch'aFire Gaming"
+        },
+        {
+            "team": "Filthy Casuals"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "kingdom esports",
+            "score1": "0",
+            "win1": "1"
+        },
+        {
+            "team2": "Helix.Carbon",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "Bloodbath & Beyond",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Primal",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "Savage Gold",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Guerreros del Mouse",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "Filthy Casuals",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "bold purpose gaming",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "Circle With Bloom",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "Payload is Hard",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "Far From Good",
+            "score1": "",
+            "win1": "1"
+        },
+        {
+            "team2": "Catch'aFire Gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D15",
+            "team1": "Salt'em",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Helix.Carbon",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "kingdom esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Guerreros del Mouse",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "Primal",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Circle With Bloom",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "bold purpose gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Salt'em",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W7",
+            "team1": "Far From Good",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "Primal",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "kingdom esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Salt'em",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W3",
+            "team1": "bold purpose gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bold purpose gaming",
+            "score2": "1",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "kingdom esports",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

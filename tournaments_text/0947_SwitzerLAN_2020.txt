@@ -1,0 +1,154 @@
+{{DISPLAYTITLE:Switzerlan 2020}}
+{{SwitzerLAN Navbox}}
+{{Infobox league
+|liquipediatier=4
+|series=Switzerlan
+|name=SwitzerLAN 2020
+|shortname=SwitzerLAN 2020
+|tickername=SwitzerLAN 2020
+|image=swizerlan.jpg
+|icon=Switzerlan_std.jpg
+|abbreviation=SwitzerLAN
+|organizer=SwitzerLAN
+|organizer-link=https://switzerlan.ch/
+|type=Offline
+|city=Bern
+|country=Switzerland
+|sponsor=Cisco<br>Mifcom
+|format=Round Robin Group Stage<br>Double Elimination
+|localcurrency=chf
+|prizepool==620
+|sdate=2020-10-09
+|edate=2020-10-10
+|web=https://switzerlan.ch/
+|twitter=switzerlanCH
+|discord=AwJb9mF
+|bracket=https://battlefy.com/switzerlan-2020/switzerlan-2020-overwatch/5f78cb6d9e3a973b0246c6b0/stage/5f81110d45a7710748bf0e47/bracket/?groupName=A
+|team_number=6
+|game=overwatch
+}}
+
+==Overview==
+'''SwitzerLAN''' is an annual lan tournament organized by SwitzerLAN. Reduced player count due to COVID.
+
+==Information==
+*'''Round Robin Group Stage''': ''October 09<sup>th</sup> 2020''
+**5 rounds
+**All matches are {{Ft|2}}
+**<span class="bg-up">Top 4 teams</span> advance to Playoffs
+
+*'''Playoffs''': ''October 10<sup>th</sup> 2020''
+**Double elimination bracket
+**All matches are {{Ft|3}}
+
+==Prize Pool==
+{{TeamPrizePool|localcurrency=chf|import=true
+|{{Slot|localprize=360}}
+|{{Slot|localprize=180}}
+|{{Slot|localprize=90}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=BringBackSirGibson
+|p1=Spartan|p1flag=ch|pos1=dps
+|p2=Åce|p2flag=ch|pos2=dps
+|p3=TsuNà|p3flag=fr|pos3=tank
+|p4=Vazer|p4flag=ch|pos4=tank
+|p5=Kandarz|p5flag=ch|pos5=sup
+|p6=Tyb|p6flag=ch|pos6=sup
+}}
+{{TeamCard
+|team=Neuchâtel Xamax eSport
+|p1=Vari|p1flag=ch|pos1=dps
+|p2=Mahaw|p2flag=fr|pos2=dps
+|p3=OMEGALHULK|p3flag=ch|pos3=tank
+|p4=AruMai|p4flag=ch|pos4=tank
+|p5=Črįs|p5flag=ch|pos5=sup
+|p6=Aidokyx|p6flag=ch|pos6=sup
+|p7=Nawexxx|p7flag=ch|pos7=sup
+}}
+{{TeamCard
+|team=Röstigrabe Defenders
+|p1=Soldakk|p1flag=ch|pos1=dps
+|p2=SwissMade|p2flag=ch|pos2=dps
+|p3=Captainpb|p3flag=ch|pos3=tank
+|p4=Noise2See|p4flag=ch|pos4=tank
+|p5=Muffinqt|p5flag=ch|pos5=sup
+|p6=Mammut|p6flag=ch|pos6=sup
+}}
+{{TeamCard
+|team=Turban Turtles
+|p1=Savy|p1flag=ch|pos1=dps
+|p2=Oddy|p2flag=ch|pos2=dps
+|p3=Bubi40|p3flag=ch|pos3=tank
+|p4=Lenyen|p4flag=ch|pos4=tank
+|p5=Archy|p5flag=ch|pos5=sup
+|p6=Esmeralda|p6flag=ch|pos6=sup
+}}
+{{TeamCard
+|team=Randspieli
+|p1=Enjoyz|p1flag=ch|pos1=dps
+|p3=gianni|p2flag=ch|pos2=dps
+|p3=Abragabranth|p3flag=ch|pos3=tank
+|p4=Tsu|p4flag=ch|pos4=tank
+|p5=NeoCH|p5flag=ch|pos5=Support
+|p6=Tao|p6flag=ch|pos6=Support
+}}
+{{TeamCard
+|team=Swiss Spooky Rebels 
+|p1=Mopu|p1flag=ch|pos1=dps
+|p2=KILLER|p2flag=ch|pos2=dps
+|p3=Horus|p3flag=ch|pos3=tank
+|p4=Kaktus|p4flag=ch|pos4=tank
+|p5=Bigniel|p5flag=ch|pos5=sup
+|p6=Sleeping|p6flag=ch|pos6=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/4U2L1D|id=iCMCJGj3Xg
+
+<!-- Upper Bracket Semifinals -->
+|R1M1={{Match
+    |bestof=5
+	|date=October 10, 2020 - 19:00 {{Abbr/CET}}
+    |opponent1={{TeamOpponent|BringBackSirGibson|score=3}}
+    |opponent2={{TeamOpponent|Turban Turtles|score=1}}
+}}
+|R1M2={{Match
+	|date=October 10, 2020 - 19:00 {{Abbr/CET}}
+    |opponent1={{TeamOpponent|Neuchâtel Xamax eSport|score=3}}
+    |opponent2={{TeamOpponent|Röstigrabe Defenders|score=0}}
+}}
+
+<!-- Upper Bracket Final -->
+|R2M1={{Match
+	|date=October 10, 2020 - 20:00 {{Abbr/CET}}
+    |opponent1={{TeamOpponent|BringBackSirGibson|score=3}}
+    |opponent2={{TeamOpponent|Neuchâtel Xamax eSport|score=1}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R1M3={{Match
+	|date=October 10, 2020 - 20:00 {{Abbr/CET}}
+    |opponent1={{TeamOpponent|Röstigrabe Defenders|score=3}}
+    |opponent2={{TeamOpponent|Turban Turtles|score=1}}
+}}
+
+<!-- Lower Bracket Final -->
+|R2M2={{Match
+	|date=October 10, 2020 - 21:00 {{Abbr/CET}}
+    |opponent1={{TeamOpponent|Neuchâtel Xamax eSport|score=3}}
+    |opponent2={{TeamOpponent|Röstigrabe Defenders|score=1}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|date=October 10, 2020 - 22:00 {{Abbr/CET}}
+    |opponent1={{TeamOpponent|BringBackSirGibson|score=3}}
+    |opponent2={{TeamOpponent|Neuchâtel Xamax eSport|score=0}}
+}}
+}}

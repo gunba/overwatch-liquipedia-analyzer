@@ -1,0 +1,374 @@
+{{DISPLAYTITLE:BEAT Invitational - Season 4}}
+{{Beat Invitational Navbox}}
+{{Infobox league
+|name=BEAT Invitational - Season 4
+|shortname=Season 4
+|image=Beat_Invitational_Season_4.png
+|series=BEAT Invitational
+|icon=Beatoverwatch icon.png
+|organizer=BEAT Gaming
+|organizer-link=http://beat.gl/
+|sponsor=[https://www.twitch.tv Twitch]<br>[https://www.soylent.com/ Soylent]<br>[https://www.amd.com/en AMD]<br>[http://www.goplextor.com/ Plextor]<br>[https://www.sennheiser.com Sennheiser]
+|country=North America
+|type=Online
+|patch=1.24
+|format=Double Elimination
+|game=overwatch
+|prizepoolusd=6,600
+|sdate=2018-05-28
+|edate=2018-05-29
+|liquipediatier={{TierText/3}}
+|web=http://beat.gl/
+|twitch=beatesports
+|twitter=beatesports
+|facebook=beatesports/
+|youtube=channel/UC92GGbpUJ7IeS2br6LmDO7w
+|team_number=8
+}}
+
+==Information==
+===Format===
+* '''Double Elimination'''
+** Games are Best-of-three
+** Upper bracket final and grand final are Best-of-five
+
+===Broadcast Talent===
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Commentator|lang=English
+|b1=ZP
+|b2=Jason Kaplan
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard|lang=English
+|position=Observer
+|b1=Dashner|b1name=Alex Pylyshyn|b1flag=ca
+}}
+{{box|end}}
+
+===Prize Pool===
+6,600 {{Abbr/USD}} is spread among the teams as seen below:
+{{prize pool start}}
+{{prize pool slot|place=1|usdprize=3,000|goats|lastvs1= nrg esports|lastscore1= 3|lastvsscore1= 0}}
+{{prize pool slot|place=2|usdprize=1,800|nrg esports|lastvs1= goats|lastscore1= 0|lastvsscore1= 3}}
+{{prize pool slot|place=3|usdprize=1,200|envision esports|lastvs1= goats|lastscore1= 0|lastvsscore1= 2}}
+{{prize pool slot|place=4|usdprize=600|bye week|lastvs1= goats|lastscore1= 0|lastvsscore1= 2}}
+{{prize pool slot|place=5-6|usdprize=0
+|karasuno (skyfoxes)|lastvs1= goats|lastscore1= 0|lastvsscore1= 2
+|grizzlys|lastvs2= bye week|lastscore2= 0|lastvsscore2= 2
+}}
+{{prize pool slot|place=7-8|usdprize=0
+|last night's leftovers|lastvs1= goats|lastscore1= 0|lastvsscore1= 2
+|no clout|lastvs2= bye week|lastscore2= 0|lastvsscore2= 2
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Bye Week
+|p1=Iefa|p1flag=us|pos1=dps
+|p2=Minish|p2flag=us|pos2=dps
+|p3=Kapo|p3flag=us|pos3=flex
+|p4=Waifu|p4flag=us|pos4=flex
+|p5=Shereshoy|p5flag=us|pos5=tank
+|p6=Pizzademon|p6flag=us|pos6=sup
+|p7=Jkw|p7flag=us|pos7=sup
+|c=FrAgOn |cflag=il
+|c2=Rusto |c2flag=us
+|qualifier=Invited
+}}
+{{TeamCard
+|team=NRG Esports
+|p1=Poise|pos1=dps
+|p2=Stratus|pos2=dps
+|p3=Smex|pos3=flex
+|p4=Swon|pos4=tank
+|p5=robdab|pos5=sup
+|p6=Fahzix|pos6=sup
+|c=Chance|cflag=
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Grizzlys Esports
+|p1=Zaprey|pos1=dps
+|p2=Sypeh|pos2=dps
+|p3=Graceful|pos3=flex
+|p4=Pagh|pos4=tank
+|p5=evokje|pos5=sup
+|p6=Ding|pos6=sup
+|c=Sovereign|cflag=us|clink=Sovereign (American coach)
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Last Night's Leftovers
+|p1=NLaaeR|pos1=dps
+|p2=Sugarfree|p2flag=us|pos2=dps
+|p3=TracK|pos3=dps
+|p4=NexX|pos4=flex
+|p5=Decod|pos5=tank
+|p6=Ajax|pos6=sup
+|p7=Dogman|pos7=sup
+|c=Sephy|cflag=us
+|c2=LegitRc|c2flag=us
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Karasuno
+|link=karasuno (skyfoxes)
+|notes=1
+|p1=Far|p1flag=us|pos1=dps
+|p2=Boostio|p2flag=us|pos2=dps
+|p3=Guru|p3flag=us|pos3=flex
+|p4=AceOFSpades|p4flag=us|pos4=tank
+|p5=Hidan|p5flag=fr|pos5=sup
+|p6=TheFrogKing|p6flag=se|pos6=sup
+|c=Faustus|cflag=us
+|qualifier=Invited
+}}
+{{TeamCard
+|team=EnVision eSports
+|p1=buds|pos1=dps
+|p2=Fischer|pos2=dps
+|p3=McGravy|pos3=flex
+|p4=iShiny|pos4=tank
+|p5=Fire|pos5=support
+|p6=Crimzo|pos6=sup
+|c=roflgator|cflag=
+|c2=Chu|c2flag=uk
+|qualifier=Invited
+}}
+{{TeamCard
+|team=No Clout
+|p1=Hobbs|p1flag=us|pos1=dps
+|p2=Pugz|p2flag=ca|pos2=dps
+|p3=Hawk|p3flag=us|pos3=flex
+|p4=Vitacoco|p4flag=us|pos4=tank
+|p5=Dino|p5flag=us|pos5=sup
+|p6=Insomniaq|p6flag=us|pos6=sup
+|c=Massive|cflag=us
+|qualifier=Invited
+}}
+{{TeamCard
+|team=GOATS
+|p1=Wavey|p1flag=ca|pos1=dps
+|p2=Sit|p2flag=kr|pos2=dps
+|p3=Coluge|p3flag=us|pos3=flex
+|p4=Gator|p4flag=us|pos4=tank
+|p5=Akimbo|p5flag=us|pos5=sup
+|p6=Tensa|p6flag=us|pos6=sup
+|c=Reklats|cflag=us
+|qualifier=Invited
+}}
+{{box|end}}
+{{note|1|[[Simplicity]] drop out before the tournament starts, [[karasuno (skyfoxes)]] replace them.}}
+
+==Results==
+{{LegacyBracket|Bracket/8U4L2DSL1D|8DETeamBracket|type=team|id=1vY4DFx2bx
+<!-- QUARTERFINALS -->
+|R1D1team= envision|R1D1score= 2|R1D1win=1
+|R1D2team= goats|R1D2score= 0|R1D2win=
+|R1G1details={{BracketMatchSummary
+|date=May 28, 2018 - 16:00 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= Lijiang Tower|map1score= 2-0|map1win=1
+|map2= King's Row|map2score= 1-0|map2win=1
+|map3= |map3score= |map3win=
+|overgg=8334
+|pf=50752
+|wl=
+}}
+|R1D3team= grizzlys|R1D3score= 2|R1D3win=1
+|R1D4team= last night's leftovers|R1D4score= 0|R1D4win=
+|R1G2details={{BracketMatchSummary
+|date=May 28, 2018 - 17:00 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= Lijiang Tower|map1score= 2-1|map1win=1
+|map2= Temple of Anubis|map2score= 4-4|map2win=draw
+|map3= King's Row|map3score= 4-3|map3win=1
+|overgg=8335
+|pf=50753
+|wl=
+}}
+|R1D5team= nrg|R1D5score= 2|R1D5win=1
+|R1D6team= no clout|R1D6score= 0|R1D6win=
+|R1G3details={{BracketMatchSummary
+|date=May 28, 2018 - 18:00 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= King's Row|map1score= 3-2|map1win=1
+|map2= Dorado|map2score= 3-2|map2win=1
+|map3= |map3score= |map3win=
+|overgg=8336
+|pf=50754
+|wl=
+}}
+|R1D7team= bye week|R1D7score= 0|R1D7win=
+|R1D8team= karasuno (skyfoxes)|R1D8score= 2|R1D8win=1
+|R1G4details={{BracketMatchSummary
+|date=May 28, 2018 - 19:00 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= Lijiang Tower|map1score= 0-2|map1win=2
+|map2= King's Row|map2score= 0-1|map2win=2
+|map3= |map3score= |map3win=
+|overgg=8337
+|pf=50755
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R2W1team= envision|R2W1score= 2|R2W1win=1
+|R2W2team= grizzlys|R2W2score= 0|R2W2win=
+|R2G1details={{BracketMatchSummary
+|date=May 28, 2018 - 20:00 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= Lijiang Tower|map1score= 2-0|map1win=1
+|map2= King's Row|map2score= 3-2|map2win=1
+|map3= |map3score= |map3win=
+|overgg=8338
+|pf=50756
+|wl=
+}}
+|R2W3team= nrg|R2W3score= 2|R2W3win=1
+|R2W4team= karasuno (skyfoxes)|R2W4score= 0|R2W4win=
+|R2G2details={{BracketMatchSummary
+|date=May 28, 2018 - 21:00 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= King's Row|map1score=1-0 |map1win=1
+|map2= Lijiang Tower|map2score= 2-0|map2win=1
+|map3= |map3score= |map3win=
+|overgg=8339
+|pf=50757
+|wl=
+}}
+<!-- WINNER'S FINALS -->
+|R4W1team=envision |R4W1score= 1|R4W1win=
+|R4W2team= nrg|R4W2score= 3|R4W2win=1
+|R4G1details={{BracketMatchSummary
+|date=May 28, 2018 - 22:00 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= King's Row|map1score= 0-1|map1win=2
+|map2= Lijiang Tower|map2score=0-2 |map2win=2
+|map3= Dorado|map3score= 3-1|map3win=1
+|map4= Hollywood|map4score= 4-5|map4win=2
+|overgg=8340
+|pf=50758
+|wl=
+}}
+<!-- LOSER'S ROUND 1 -->
+|R1D9team= goats|R1D9score= 2|R1D9win=1
+|R1D10team= last night's leftovers|R1D10score= 0|R1D10win=
+|R1G5details={{BracketMatchSummary
+|date=May 29, 2018 - 16:00 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= Lijiang Tower|map1score= 2-0|map1win=1
+|map2= Temple of Anubis|map2score= 2-1|map2win=1
+|map3= |map3score= |map3win=
+|overgg=8341
+|pf=50759
+|wl=
+}}
+|R1D11team= no clout|R1D11score= 0|R1D11win=
+|R1D12team= bye week|R1D12score= 2|R1D12win=1
+|R1G6details={{BracketMatchSummary
+|date=May 29, 2018 - 17:00 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= Dorado|map1score= 2-3|map1win=2
+|map2= Lijiang Tower|map2score= 0-2|map2win=2
+|map3= |map3score= |map3win=
+|overgg=8342
+|pf=50760
+|wl=
+}}
+<!-- LOSER'S ROUND 2 -->
+|R2D1team= karasuno (skyfoxes)|R2D1score= 0|R2D1win=
+|R2W5team= goats|R2W5score= 2|R2W5win=1
+|R2G3details={{BracketMatchSummary
+|date=May 29, 2018 - 18:00 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= Lijiang Tower|map1score= 1-2|map1win=2
+|map2= King's Row|map2score= 4-5|map2win=2
+|map3= |map3score= |map3win=
+|overgg=8343
+|pf=50761
+|wl=
+}}
+|R2D2team= grizzlys|R2D2score= 0|R2D2win=
+|R2W6team= bye week|R2W6score= 2|R2W6win=1
+|R2G4details={{BracketMatchSummary
+|date=May 29, 2018 - 18:30 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= King's Row|map1score= 1-2|map1win=2
+|map2= Lijiang Tower|map2score= 0-2|map2win=2
+|map3= |map3score= |map3win=
+|overgg=8344
+|pf=50762
+|wl=
+}}
+<!-- LOSER'S ROUND 3 -->
+|R3W1team= goats|R3W1score= 2|R3W1win=1
+|R3W2team= bye week|R3W2score= 0|R3W2win=
+|R3G1details={{BracketMatchSummary
+|date=May 29, 2018 - 19:30 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= King's Row|map1score= 4-3|map1win=1
+|map2= Dorado|map2score= 3-1|map2win=1
+|map3= |map3score= |map3win=
+|overgg=8345
+|pf=50763
+|wl=
+}}
+<!-- LOSER'S FINALS -->
+|R4D1team= envision|R4D1score= 0|R4D1win=
+|R4W3team= goats|R4W3score= 2|R4W3win=1
+|R4G2details={{BracketMatchSummary
+|date=May 29, 2018 - 20:30 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= King's Row|map1score= 0-2|map1win=2
+|map2= Lijiang Tower|map2score= 0-2|map2win=2
+|map3= |map3score= |map3win=
+|overgg=8346
+|pf=50764
+|wl=
+}}
+<!-- GRAND FINALS -->
+|R5W1team= nrg|R5W1score= 0|R5W1win=
+|R5W2team= goats|R5W2score= 3|R5W2win=1
+|R5G1details={{BracketMatchSummary
+|date=May 29, 2018 - 21:15 {{Abbr/EDT}}
+|twitch=BEATesports
+|finished=true
+|map1= Hollywood|map1score= 3-4|map1win=2
+|map2= King's Row|map2score= 2-3|map2win=2
+|map3= Route 66|map3score= 3-4|map3win=2
+|map4= |map4score= |map4win=
+|map5= |map5score= |map5win=
+|overgg=8347
+|pf=50765
+|wl=
+}}
+}}
+
+==View Games==
+===Streams===
+*{{flag/usuk}} [https://www.twitch.tv/beatesports Official Twitch Stream]
+
+==External links==
+*{{flag/usuk}} [http://beat.gl/overwatch-beat-invitational-season-4-announcement/ Official Announcement]
+*{{flag/usuk}} [http://beat.gl/overwatch-beat-invitational-rules/ Official Rules]
+*{{flag/usuk}} [https://beat.gl/overwatch-beat-invitational-schedule/ Official Schedule]
+
+==References==
+{{Reflist}}

@@ -1,0 +1,436 @@
+{
+    "tournament_info": [
+        {
+            "name": "HammerClash #7",
+            "shortname": "HC #7",
+            "series": "HammerClash",
+            "image": "",
+            "icon": "",
+            "tickername": "HammerClash #7",
+            "organizer": "HammerKick",
+            "country": "Europe",
+            "type": "Online",
+            "game": "overwatch2",
+            "format": "Double Elimination",
+            "prizepool": "300",
+            "localcurrency": "eur",
+            "prizepoolusd": "300",
+            "date": "2023-03-18",
+            "liquipediatier": "5",
+            "twitter": "HammerKick_OW",
+            "twitch": "hammerkick",
+            "bracket": "https://play.toornament.com/fr/tournaments/6539432800432955392/stages/6539433212687294464/",
+            "rulebook": "https://play.toornament.com/fr/tournaments/6539432800432955392/stages/6539433212687294464/rules",
+            "team_number": "16",
+            "previous": "HammerClash/6{{!}}#6",
+            "next": "HammerClash/8{{!}}#8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "MontQ Eternal",
+            "p1": "TsuSHI|p1flag=fr|pos1=dps",
+            "p2": "Friome|p2flag=fr|pos2=dps",
+            "p3": "Zappeur|p3flag=fr|pos3=tank",
+            "p4": "Xpariboy|p4flag=fr|pos4=tank",
+            "p5": "Gryfouille|p5flag=fr|pos5=sup",
+            "p6": "Nara|p6flag=fr|pos6=sup",
+            "p7": "Belesprit|p7flag=be|pos7=sup"
+        },
+        {
+            "team": "Little Gigantes",
+            "p1": "Lumwalker|p1flag=fr|pos1=dps",
+            "p2": "Versio|p2flag=fr|pos2=dps",
+            "p3": "Kyo|pos3=tank|p3link=Kyo (French manager)",
+            "p4": "FDPGod|p4flag=fr|pos4=sup",
+            "p5": "Minefine|p5flag=fr|pos5=sup",
+            "t2title": "staff",
+            "t2c1": "Camchapo|t2c1flag=fr|t2c1pos=manager"
+        },
+        {
+            "team": "Dragon's Homies",
+            "p1": "Warglabidoo|p1flag=fr|p1team=|pos1=dps",
+            "p2": "potinounou|p2flag=fr|p2team=|pos2=dps",
+            "p3": "Terozz|p3flag=fr|p3team=|pos3=tank",
+            "p4": "Bak4ra|p4flag=fr|p4team=|pos4=sup",
+            "p5": "Timinyhappy|p5flag=fr|p5team=|pos5=sup"
+        },
+        {
+            "team": "2BOO",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Feur",
+            "p1": "Away|p1flag=fr|pos1=dps",
+            "p2": "HyAKu|p2flag=fr|pos2=dps",
+            "p3": "supersaucise|p3flag=fr|pos3=tank",
+            "p4": "lhine|p4flag=fr|pos4=sup",
+            "p5": "scynzo|p5flag=fr|pos5=sup"
+        },
+        {
+            "team": "RIIX ESPORT",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Brazil (Pug Team)",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "HTB",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Rombish Corp",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "I GUESS",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Pipibox Reported",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Team Schweppes",
+            "p1": "Stellios|pos1=dps",
+            "p2": "Matriera|p2flag=fr |pos2=dps",
+            "p3": "KroxZ |pos3=tank",
+            "p4": "Xerion|pos4=sup",
+            "p5": "GOGO|pos5=sup"
+        },
+        {
+            "team": "DSP Helix",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Les semis-croustillants",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Pulsar Academy",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Watermelon Juice",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Team Schweppes|score=2}}",
+            "opponent2": "{{TeamOpponent|Pulsar Academy|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Little GIgantes|score=2}}",
+            "opponent2": "{{TeamOpponent|DSP Helix|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|HTB|score=W}}",
+            "opponent2": "{{TeamOpponent|Brazil (Pug Team)|score=FF}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|2BOO|score=2}}",
+            "opponent2": "{{TeamOpponent|MontQ Eternal|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Rombish Corp|score=2}}",
+            "opponent2": "{{TeamOpponent|I GUESS|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Pipibox Reported|score=2}}",
+            "opponent2": "{{TeamOpponent|Feur|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Les semis-croustillants|score=0}}",
+            "opponent2": "{{TeamOpponent|RIIX ESPORT|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Watermelon Juice|score=0}}",
+            "opponent2": "{{TeamOpponent|Dragon's Homies|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Team Schweppes|score=2}}",
+            "opponent2": "{{TeamOpponent|Little GIgantes|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|HTB|score=FF}}",
+            "opponent2": "{{TeamOpponent|2BOO|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Rombish Corp|score=2}}",
+            "opponent2": "{{TeamOpponent|Pipibox Reported|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|RIIX ESPORT|score=0}}",
+            "opponent2": "{{TeamOpponent|Dragon's Homies|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Team Schweppes|score=2}}",
+            "opponent2": "{{TeamOpponent|2BOO|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Rombish Corp|score=2}}",
+            "opponent2": "{{TeamOpponent|Dragon's Homies|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Team Schweppes|score=2}}",
+            "opponent2": "{{TeamOpponent|Rombish Corp|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Watermelon juice|score=W}}",
+            "opponent2": "{{TeamOpponent|Les semis-croustillants|score=FF}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M9="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Feur|score=W}}",
+            "opponent2": "{{TeamOpponent|I GUESS|score=FF}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M10="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|MontQ Eternal|score=2}}",
+            "opponent2": "{{TeamOpponent|Brazil (Pug Team)|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M11="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|DSP Helix|score=2}}",
+            "opponent2": "{{TeamOpponent|Pulsar Academy|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M12="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|HTB|score=FF}}",
+            "opponent2": "{{TeamOpponent|Watermelon Juice|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Little Gigantes|score=2}}",
+            "opponent2": "{{TeamOpponent|Feur|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|RIIX ESPORT|score=1}}",
+            "opponent2": "{{TeamOpponent|MontQ Eternal|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Pipibox Reported|score=2}}",
+            "opponent2": "{{TeamOpponent|DSP Helix|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Watermelon Juice|score=0}}",
+            "opponent2": "{{TeamOpponent|Little Gigantes|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|MontQ Eternal|score=FF}}",
+            "opponent2": "{{TeamOpponent|Pipibox Reported|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Dragon's Homies|score=2}}",
+            "opponent2": "{{TeamOpponent|Little Gigantes|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|2BOO|score=W}}",
+            "opponent2": "{{TeamOpponent|Pipibox Reported|score=FF}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Dragon's Homies|score=2}}",
+            "opponent2": "{{TeamOpponent|2BOO|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Rombish Corp|score=2}}",
+            "opponent2": "{{TeamOpponent|Dragon's Homies|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M2="
+        },
+        {
+            "date": "2023-03-18",
+            "opponent1": "{{TeamOpponent|Team Schweppes|score=2}}",
+            "opponent2": "{{TeamOpponent|Rombish Corp|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R7M1="
+        }
+    ]
+}

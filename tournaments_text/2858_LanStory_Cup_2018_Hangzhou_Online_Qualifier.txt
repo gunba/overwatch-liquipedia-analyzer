@@ -1,0 +1,738 @@
+{{DISPLAYTITLE:LanStory Cup 2018 - Hangzhou Online Qualifier}}
+{{LSC Tabs|2018Hangzhou=2}}
+{{tabs static
+|name1=Main Event|link1=LanStory Cup/2018/Hangzhou
+|name2=Online Qualifiers|link2=LanStory Cup/2018/Hangzhou/Online Qualifier
+|This=2
+}}
+{{Infobox league
+|name=LanStory Cup 2018 - Hangzhou Online Qualifiers
+|image=Lan_Story_Cup_logo.png
+|series=LanStory Cup
+|abbreviation=LSC
+|shortname=Hangzhou
+|tickername=LSC 2018 - Hangzhou Qualifier
+|icon=LanStory_Cup_logo_small.png
+|organizer=zhanqi.tv
+|organizer-link=https://www.zhanqi.tv/
+|organizer2=
+|sponsor=
+|type=Online
+|patch=1.29
+|epatch=1.30
+|country=China
+|city=Hangzhou
+|venue=
+|format=
+|prizepool=
+|localcurrency=CNY
+|prizepoolusd=
+|date=
+|sdate=2018-11-12
+|edate=2018-11-27
+|liquipediatier=2|liquipediatiertype=Qualifier
+|web=
+|stream=https://www.zhanqi.tv/tcms/OWLSC
+|twitch=
+|bracket=
+|team_number=10
+|previous=
+|next=
+}}
+{{TOClimit|3}}
+
+==Information==
+===Format===
+* '''Group Stage:'''
+**Round robin for 2 groups.
+**Top two teams of each group advance to playoffs.
+* '''Playoffs:'''
+**Single Elimination
+** All matches are {{Abbr/Bo5}}
+**Top 3 teams of playoffs advance to offline [[LanStory Cup/2018/Hangzhou|main event]] in Hangzhou.
+
+===Broadcast Talent===
+{{box|start|padding=1em}}
+====Chinese Broadcast====
+{{BroadcasterCard|lang=Chinese
+|position=Commentator
+|b1=9duo
+|b2=Lilgho
+|b3=Chen
+}}
+{{box|end|padding=1em}}
+
+===Qualified Results===
+{{prize pool start|noprize=1|points=qualified|cutafter=3}}
+{{prize pool slot|place=1-2|points=q |link=LanStory Cup/2018/Guangzhou
+|cc |lastvs1=triple six legend|lastscore1=3|lastvsscore1=0|date1=2018-11-27
+|flag gaming |lastvs2=tfv|lastscore2=3|lastvsscore2=1|date2=2018-11-27
+}}
+{{prize pool slot|place=3|points=q |link=LanStory Cup/2018/Guangzhou
+|triple six legend |lastvs1=tfv|lastscore1=3|lastvsscore1=2|date1=2018-11-27
+}}
+{{prize pool slot|place=4|points=0
+|tfv |lastvs1=triple six legend|lastscore1=2|lastvsscore1=3|date1=2018-11-27
+}}
+{{prize pool slot|place=5-6
+|lge |wdl1=3/-/1|date1=2018-11-26
+|lf |wdl2=2/-/2|date2=2018-11-26
+}}
+{{prize pool slot|place=7-8
+|big time ragel gaming |wdl1=2/-/2|date1=2018-11-26
+|lgd |wdl2=1/-/3|date2=2018-11-26
+}}
+{{prize pool slot|place=9-10
+|restart |wdl1=0/-/4|date1=2018-11-20
+|avengers |wdl2=0/-/4|date2=2018-11-20
+}}
+{{prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Flag Gaming
+|p1=evillx |pos1=dps
+|p2=JWJ |p2link=Jason |p2flag=cn |pos2=dps
+|p3=lily |p3flag=cn |pos3=dps
+|p4=MG|p4flag=cn |pos4=flex
+|p5=Over|p5flag=cn |pos5=tank
+|p6=Mika |pos6=sup
+|p7=Coldest |pos7=sup
+|c=U4 |cflag=cn
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team CC
+|p1=KHeart|pos1=dps
+|p2=Yakumo|pos2=dps
+|p3=ieatuup|pos3=dps
+|p4=SonGBoos|p4flag=kr|pos4=dps
+|p5=ZiJin|pos5=flex
+|p6=jiqiren|pos6=tank
+|p7=SIO|pos7=sup
+|p8=Orchid|p8flag=cn|pos8=sup
+|c=HuaMao |cflag=cn
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Big Time Regal Gaming
+|p1=Effort |pos1=dps
+|p2=4E |p2flag=cn |pos2=dps
+|p3=E1EGY |p3flag=cn |pos3=flex
+|p4=Reborn |p4flag=cn |pos4=tank
+|p5=Fengm1an |pos5=sup
+|p6=Gudan |pos6=sup
+|p7= |pos7=
+|c=SNOW |cflag=cn
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Lucky Future
+|p1=BLACKBEAN |p1flag=kr |pos1=dps
+|p2=Tamper |p2flag=kr |pos2=dps
+|p3=Wanli |p3flag=cn |pos3=dps
+|p4=SleepyBear |p4flag=kr |pos4=flex
+|p5=Sowhat |p5flag=kr |pos5=tank
+|p6=Euterpe |p6flag=kr |pos6=support
+|p7=PunkyYager |p7flag=kr |pos7=support
+|p8= |pos8=
+|c=Beka |cflag=kr
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ReStart
+|image=ReStart_logo.png
+|notes=1
+|p1=Cloud |p1flag=kr |pos1=dps|p1link=Cloud (Korean Player)
+|p2=QiyueOvO |p2flag=cn|pos2=dps
+|p3=MMDD |pos3=flex
+|p4=AnAn |p4flag=cn |pos4=flex
+|p5=WonZ |p5flag=kr |pos5=tank
+|p6=Dream |p6flag=cn |pos6=tank|p6link=Dream (Chinese player)
+|p7=WinWinQ |pos7=support
+|p8=B612 |pos8=support
+|p9=Aay |p9flag=cn |pos9=support
+|c=YoungJin |cflag=cn|clink=Jin Zihang
+|qualifier=Warming Cup S3
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=LGD Gaming
+|p1=Rikka |pos1=dps
+|p2=Eternal |p2flag=cn |pos2=dps|p2link=Liu Nian
+|p3=Rookie |pos3=flex
+|p4=GAGA |pos4=tank
+|p5=tanqiu |pos5=tank
+|p6=OnlyWish |pos6=support
+|p7=secret |pos7=support
+|c=huiy1 |cflag=cn
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=LinGan e-Sports
+|p1=KaMi |pos1=dps
+|p2=nex |p2flag=cn|pos2=dps
+|p3=NvM |pos3=tank
+|p4=Duck |p4flag=cn |pos4=tank
+|p5=Molly|p5flag=cn|pos5=sup
+|p6=Lengsa|p6flag=cn |pos6=sup
+|p7= |pos7=
+|c=N0rth |cflag=cn
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Triple Six Legend
+|image=Triple Six Legend.png
+|p1=n1ghtg0d|p1flag=cn|pos1=dps
+|p2=Runcheng|p2flag=cn|pos2=dps
+|p3=UMBRA|p3flag=cn|pos3=flex
+|p4=DPS|p4flag=kr|pos4=tank
+|p5=Sober|p5flag=cn|pos5=support
+|p6=399|p6flag=cn|pos6=support
+|c=技师 |cflag=cn
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team For Victory
+|p1=斗鱼丶明栀明 |p1flag=cn|pos1=dps
+|p2=Fish |p2flag=cn|pos2=dps
+|p3=乖乖月野兔 |p3flag=cn|pos3=dps
+|p4=Hanzo |p4flag=cn|pos4=dps |p4link=Hanzo (Chinese player)
+|p5=Hammond|p5flag=cn|pos5=tank
+|p6=Jimmy |p6flag=cn|pos6=support |p6link=Ze Lin
+|p7= |pos7=
+|c= |cflag=
+|qualifier=Warming Cup S3
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Avengers
+|image=Avengers cn logo.png
+|notes=2
+|p1=izumi |p1flag=cn|pos1=tank
+|p2=守护慧慧的双马尾 |p2flag=cn|pos2=flex
+|p3=余光里都是你 |p3flag=cn|pos3=dps
+|p4=Yapvictory |p4flag=cn|pos4=dps
+|p5=Model6HaoRan |p5flag=cn|pos5=support
+|p6=今天阿菜少女了嘛 |p6flag=cn|pos6=support
+|p7= |pos7=
+|c= |cflag=
+|qualifier=Warming Cup S3
+}}
+{{box|end}}
+
+{{note|1|The [[Young Kaiser Gaming.Red]] roster leaves the org, and continues to play together as [[ReStart]].}}
+{{note|2|[[Avengers]] forfeits.<ref name="Avengers forfeits">{{cite web|url=https://weibo.com/6209810133/H3pAxAeVN|title=Avengers forfeits|author=[[Chen]]|date=2018-11-20|language={{flag/cn}} Chinese|}}</ref>}}
+
+==Results==
+===Group Stage===
+{{Box|start|padding=4em}}
+===={{HiddenSort|Group A}}====
+{{GroupTableStart| Group A |width=415px
+|date=
+|stream=
+|lrthread=
+|finished=
+|vod1=
+|vod2=
+|vod3=
+|vod4=
+|vod5=
+|vod6=
+}}
+{{GroupTableSlot| {{Team|cc}}  |place=1|win_m=4|lose_m=0|win_r=12|lose_r=1|diff=|bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|flag gaming}} |place=2|win_m=2|lose_m=2|win_r=9|lose_r=6|diff=|bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|lf}}  |place=3|win_m=2|lose_m=2|win_r=6|lose_r=7|diff=|bg=down|show_p=false}}
+{{GroupTableSlot| {{Team|btrg}} |place=4|win_m=2|lose_m=2|win_r=6|lose_r=8|diff=|bg=down|show_p=false}}
+{{GroupTableSlot| {{Team|restart}}  |place=5|win_m=0|lose_m=4|win_r=1|lose_r=12|diff=|bg=down|show_p=false}}
+
+{{GroupTableEnd}}
+{{LegacyMatchList|id=y5f6dORB0u|title=Group A matches |width=415px
+|match1={{MatchMaps
+|date=November 12, 2018
+|finished=true
+|team1=flag gaming |games1=1
+|team2=team cc |games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 12, 2018 - 18:00 {{Abbr/CST}}
+|finished=true
+|vodgame1=https://www.zhanqi.tv/v2/videos/857368.html
+|vodgame2=https://www.zhanqi.tv/v2/videos/857510.html
+|map1=Ayutthaya|map1score=3-2|map1win=1
+|map2=Busan|map2score=0-2|map2win=2
+|map3=Dorado|map3score=3-4|map3win=2
+|map4=Hollywood|map4score=3-4|map4win=2
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match2={{MatchMaps
+|date=
+|finished=true
+|team1=btrg |games1=0
+|team2=lf |games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 12, 2018 - 19:30 {{Abbr/CST}}
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/857600.html
+|map1=Necropolis|map1score=2-3|map1win=2
+|map2=Busan|map2score=0-2|map2win=2
+|map3=Numbani|map3score=3-4|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match3={{MatchMaps
+|date=November 13, 2018
+|finished=true
+|team1=btrg |games1=3
+|team2=restart |games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=November 13, 2018 - 19:30 {{Abbr/CST}}
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/858147.html
+|map1=Necropolis|map1score=3-2|map1win=1
+|map2=Busan|map2score=2-0|map2win=1
+|map3=Route 66|map3score=1-0|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match4={{MatchMaps
+|date=November 14, 2018
+|finished=true
+|team1=flag gaming |games1=3
+|team2=restart |games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=November 14, 2018 - 18:00 {{Abbr/CST}}
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/858684.html
+|map1=Necropolis|map1score=3-0|map1win=1
+|map2=Busan|map2score=2-0|map2win=1
+|map3=Route 66|map3score=2-1|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match5={{MatchMaps
+|date=
+|finished=true
+|team1=cc |games1=3
+|team2=lf |games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=November 14, 2018 - 19:30 {{Abbr/CST}}
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/858738.html
+|map1=Black Forest|map1score=3-0|map1win=1
+|map2=Busan|map2score=2-0|map2win=1
+|map3=Route 66|map3score=2-1|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match6={{MatchMaps
+|date=November 19, 2018
+|finished=true
+|team1=lf |games1=3
+|team2=restart |games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=November 19, 2018 - 19:30 {{Abbr/CST}}
+|finished=true
+|vodgame1=https://www.zhanqi.tv/v2/videos/861526.html
+|vodgame2=https://www.zhanqi.tv/v2/videos/861254.html
+|map1=Ayutthaya|map1score=1-3|map1win=2
+|map2=Busan|map2score=2-1|map2win=1
+|map3=Route 66|map3score=1-0|map3win=1
+|map4=Numbani|map4score=3-2|map4win=1
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match7={{MatchMaps
+|date=
+|finished=true
+|team1=cc |games1=3
+|team2=btrg |games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=November 19, 2018 - 21:00 {{Abbr/CST}}
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/861384.html
+|map1=Black Forest|map1score=3-2|map1win=1
+|map2=Ilios|map2score=2-1|map2win=1
+|map3=Route 66|map3score=4-3|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match8={{MatchMaps
+|date=November 20, 2018
+|finished=true
+|team1=restart |games1=0
+|team2=cc |games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 20, 2018 - 21:00 {{Abbr/CST}}
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/861786.html
+|map1=Castillo|map1score=0-3|map1win=2
+|map2=Busan|map2score=0-2|map2win=2
+|map3=Rialto|map3score=1-2|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match9={{MatchMaps
+|date=November 21, 2018
+|finished=true
+|team1=lf |games1=0
+|team2=flag gaming |games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 21, 2018 - 21:00 {{Abbr/CST}}
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/862616.html
+|map1=Castillo|map1score=1-3|map1win=2
+|map2=Ilios|map2score=0-2|map2win=2
+|map3=Route 66|map3score=1-2|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match10={{MatchMaps
+|date=November 26, 2018
+|finished=true
+|team1=flag gaming |games1=2
+|team2=btrg |games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 26, 2018 - 19:30 {{Abbr/CST}}
+|finished=true
+|vodgame1=https://www.zhanqi.tv/v2/videos/865531.html
+|vodgame2=https://www.zhanqi.tv/v2/videos/865526.html
+|map1=Castillo|map1score=3-2|map1win=1
+|map2=Busan|map2score=2-0|map2win=1
+|map3=Dorado|map3score=2-3|map3win=2
+|map4=Eichenwalde|map4score=0-1|map4win=2
+|map5=Temple of Anubis|map5score=2-3|map5win=2
+|overgg=
+|pf=
+|wl=
+}}
+}}
+}}
+{{Box|break|padding=4em}}
+
+===={{HiddenSort|Group B}}====
+{{GroupTableStart| Group B |width=415px
+|date=
+|stream=
+|lrthread=
+|finished=
+|vod1=
+|vod2=
+|vod3=
+|vod4=
+|vod5=
+|vod6=
+}}
+{{GroupTableSlot| {{Team|tfv}}  |place=1|win_m=3|lose_m=1|win_r=10|lose_r=3|diff=|bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|triple six legend}}  |place=2|win_m=3|lose_m=1|win_r=10|lose_r=4|diff=|bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|lge}}  |place=3|win_m=3|lose_m=1|win_r=9|lose_r=5|diff=|bg=down|show_p=false}}
+{{GroupTableSlot| {{Team|lgd}}  |place=4|win_m=1|lose_m=3|win_r=4|lose_r=9|diff=|bg=down|show_p=false}}
+{{GroupTableSlot| {{Team|avengers}}  |place=5|win_m=0|lose_m=4|win_r=0|lose_r=12|diff=|bg=down|show_p=false}}
+
+{{GroupTableEnd}}
+{{LegacyMatchList|id=vE4QHhWwSv|title=Group B matches |width=415px
+|match1={{MatchMaps
+|date=November 12, 2018
+|finished=true
+|team1=lgd |games1=1
+|team2=lge |games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 12, 2018 - 21:00 {{Abbr/CST}}
+|finished=true
+|vodgame1=https://www.zhanqi.tv/v2/videos/857677.html
+|vodgame2=https://www.zhanqi.tv/v2/videos/857633.html
+|map1=Castillo|map1score=2-3|map1win=2
+|map2=Busan|map2score=2-1|map2win=1
+|map3=Dorado|map3score=0-3|map3win=2
+|map4=Numbani|map4score=0-1|map4win=2
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match2={{MatchMaps
+|date=November 13, 2018
+|finished=true
+|team1=lge |games1=3
+|team2=triple six legend |games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=November 13, 2018 - 18:00 {{Abbr/CST}}
+|finished=true
+|vodgame1=https://www.zhanqi.tv/v2/videos/857985.html
+|vodgame2=https://www.zhanqi.tv/v2/videos/857996.html
+|map1=Ecopoint: Antarctica|map1score=3-1|map1win=1
+|map2=Ilios|map2score=1-2|map2win=2
+|map3=Dorado|map3score=3-1|map3win=1
+|map4=Hollywood|map4score=3-2|map4win=1
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match3={{MatchMaps
+|date=
+|finished=true
+|team1=lgd |games1=3
+|team2=avengers |games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=November 13, 2018 - 21:00 {{Abbr/CST}}
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/858198.html
+|map1=Ayutthaya|map1score=3-0|map1win=1
+|map2=Busan|map2score=2-0|map2win=1
+|map3=Rialto|map3score=1-0|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match4={{MatchMaps
+|date=November 14, 2018
+|finished=true
+|team1=lgd |games1=0
+|team2=triple six legend |games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 14, 2018 - 21:00 {{Abbr/CST}}
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/858739.html
+|map1=Ecopoint: Antarctica|map1score=1-3|map1win=2
+|map2=Busan|map2score=0-2|map2win=2
+|map3=Dorado|map3score=1-3|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match5={{MatchMaps
+|date=November 19, 2018
+|finished=true
+|team1=tfv |games1=
+|team2=avengers |games2=
+|walkover=1
+|winner=1
+|details={{BracketMatchSummary
+|date=November 19, 2018 - 18:00 {{Abbr/CST}}
+|finished=true
+|vodgame1=
+|vodgame2=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|comment=[[Avengers]] forfeited this match.
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match6={{MatchMaps
+|date=November 20, 2018
+|finished=true
+|team1=lge |games1=0
+|team2=tfv |games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=November 20, 2018 - 18:00 {{Abbr/CST}}
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/861731.html
+|map1=Ecopoint: Antarctica|map1score=1-3|map1win=2
+|map2=Busan|map2score=0-2|map2win=2
+|map3=Route 66|map3score=3-4|map3win=2
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match7={{MatchMaps
+|date=
+|finished=true
+|team1=triple six legend |games1=
+|team2=avengers |games2=
+|winner=1
+|walkover=1
+|details={{BracketMatchSummary
+|date=November 20, 2018 - 19:30 {{Abbr/CST}}
+|finished=true
+|vodgame1=
+|vodgame2=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+|comment=[[Avengers]] forfeited this match.
+}}
+}}
+|match8={{MatchMaps
+|date=November 21, 2018
+|finished=true
+|team1=triple six legend |games1=3
+|team2=tfv |games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=November 21, 2018 - 18:00 {{Abbr/CST}}
+|finished=true
+|vodgame1=https://www.zhanqi.tv/v2/videos/862384.html
+|vodgame2=https://www.zhanqi.tv/v2/videos/862435.html
+|map1=Castillo|map1score=3-1|map1win=1
+|map2=Busan|map2score=1-2|map2win=2
+|map3=Route 66|map3score=5-4|map3win=1
+|map4=Eichenwalde|map4score=2-1|map4win=1
+|overgg=
+|pf=
+|wl=
+}}
+}}
+|match9={{MatchMaps
+|date=
+|finished=true
+|team1=avengers |games1=
+|team2=lge |games2=
+|walkover=2
+|winner=2
+|details={{BracketMatchSummary
+|date=November 21, 2018 - 19:30 {{Abbr/CST}}
+|finished=true
+|vodgame1=
+|vodgame2=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+|comment=[[Avengers]] forfeited this match.
+}}
+}}
+|match10={{MatchMaps
+|date=November 26, 2018
+|finished=true
+|team1=tfv |games1=3
+|team2=lgd |games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=November 26, 2018 - 18:00 {{Abbr/CST}}
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/865456.html
+|map1=Ayutthaya|map1score=3-2|map1win=1
+|map2=Ilios|map2score=2-1|map2win=1
+|map3=Route 66|map3score=4-3|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+}}
+}}
+{{box|end}}
+
+==Playoffs==
+{{LegacyBracket|Bracket/4-2Q|2Qual-4SETeamBracket|type=team|id=I0D7CwmfmO
+|column-width=180
+<!-- ROUND OF 4 -->|round=
+|R1D1team=cc |R1D1score=3 |R1D1win=1
+|R1D2team=triple six legend |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=November 27, 2018 - 18:00 {{Abbr/CST}}
+|stream=
+|finished=true
+|vod=https://www.zhanqi.tv/v2/videos/866036.html
+|map1=Ayutthaya|map1score=3-2|map1win=1
+|map2=Ilios|map2score=2-0|map2win=1
+|map3=Route 66|map3score=1-0|map3win=1
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=tfv |R1D3score=1 |R1D3win=
+|R1D4team=flag gaming |R1D4score=3 |R1D4win=1
+|R1G2details={{BracketMatchSummary 
+|date=November 27, 2018 - 19:30 {{Abbr/CST}}
+|stream=
+|finished=true
+|vodgame1=https://www.zhanqi.tv/v2/videos/866123.html
+|vodgame2=https://www.zhanqi.tv/v2/videos/866187.html
+|map1=Black Forest|map1score=2-3|map1win=2
+|map2=Busan|map2score=2-1|map2win=1
+|map3=Dorado|map3score=2-3|map3win=2
+|map4=King's Row|map4score=4-6|map4win=2
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- QUALIFIERS -->
+|Q1team=cc |Q1win=1
+|Q2team=flag gaming |Q2win=1
+}}
+
+===3rd Place Decider===
+{{LegacyBracket|Bracket/2-1Q|1Qual-2SETeamBracket|type=team|id=5P6CjqJ4kB
+<!-- ROUND OF 2 -->|round=
+|R1D1team=triple six legend|R1D1score=3 |R1D1win=1
+|R1D2team=tfv|R1D2score=2 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=November 27, 2018 - 21:00 {{Abbr/CST}}
+|stream=
+|finished=true
+|vodgame1=https://www.zhanqi.tv/v2/videos/866233.html
+|vodgame2=https://www.zhanqi.tv/v2/videos/866223.html
+|map1=Necropolis|map1score=1-3|map1win=2
+|map2=Nepal|map2score=1-2|map2win=2
+|map3=Route 66|map3score=3-0|map3win=1
+|map4=King's Row|map4score=2-1|map4win=1
+|map5=Temple of Anubis|map5score=1-0|map5win=1
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- QUALIFIERS -->
+|Q1team=triple six legend |Q1win=1
+}}

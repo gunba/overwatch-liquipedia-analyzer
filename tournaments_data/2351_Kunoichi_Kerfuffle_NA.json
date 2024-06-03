@@ -1,0 +1,1334 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Kunoichi Kerfuffle NA",
+            "shortname": "Kunoichi Kerfuffle NA",
+            "tickername": "Kunoichi Kerfuffle NA",
+            "icon": "Kunoichi allmode.png",
+            "image": "Kunoichi allmode.png",
+            "organizer": "Kunoichi",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Round Robin<br>Double Elimination",
+            "prizepoolusd": "300",
+            "sdate": "2023-09-22",
+            "edate": "2023-09-24",
+            "twitter": "KunoichiCGL",
+            "twitch1": "KunoichiCGL",
+            "twitch2": "CGL1",
+            "youtube": "ConsoleGamingLeagueYT",
+            "rulebook": "https://docs.google.com/document/d/12un1ZTtnsPwbTMVmZ5klI5azwtoMhPa-DJkTjOVuuNI/edit#heading=h.rjg4jrxt6v0d",
+            "bracket": "https://manage.consolegamingleague.com/event/209/",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Elo Heaven",
+            "p1": "Blissful",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "kuna",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Monarch",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "azu",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "flores",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "makabre",
+            "p6flag": "us",
+            "pos6": "sup"
+        },
+        {
+            "team": "Chengdu Guardians",
+            "p1": "Senna",
+            "pos1": "dps",
+            "p2": "peace",
+            "pos2": "dps",
+            "p3": "yves",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "kindred",
+            "pos4": "tank",
+            "p5": "m5ri",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "Wicca",
+            "pos6": "sup",
+            "p7": "Doggo",
+            "pos7": "sup",
+            "p8": "ZepTurn",
+            "pos8": "sup",
+            "p8flag": "se",
+            "p9": "lain",
+            "pos9": "sup",
+            "p9flag": "nl",
+            "t2title": "Staff",
+            "t2c1": "Chimanzy",
+            "t2c1flag": "us",
+            "t2c1pos": "coach"
+        },
+        {
+            "team": "Vancouver Titans Blue",
+            "p1": "Fone",
+            "pos1": "dps",
+            "p2": "wutt",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Harlequin",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "Spynor",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "Clare",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "Saffrona",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "jVenom",
+            "t2c1pos": "head coach",
+            "t2c2": "clicky",
+            "t2c2pos": "assistant coach",
+            "t2c3": "Chibi",
+            "t2c3pos": "manager",
+            "t2c4": "flashmob",
+            "t2c4flag": "pr",
+            "t2c4pos": "assistant manager"
+        },
+        {
+            "team": "Kunoichi",
+            "p1": "barcode",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "zemrit",
+            "pos2": "dps",
+            "p3": "Evei",
+            "pos3": "tank",
+            "p4": "Eskay",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "Skiesti",
+            "p5flag": "ca",
+            "pos5": "sup",
+            "p6": "RealBossBaby",
+            "pos6": "sup",
+            "p6link": "AJMR",
+            "p7": "Megatron",
+            "p7flag": "us",
+            "pos7": "sup"
+        },
+        {
+            "team": "KQA Stinks",
+            "p1": "fifi",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "bion",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Santana",
+            "p3flag": "cu",
+            "pos3": "tank",
+            "p4": "Rajeem",
+            "p4flag": "in",
+            "pos4": "sup",
+            "p5": "kaede",
+            "p5flag": "us",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2p1": "Sky5niper",
+            "t2p1flag": "us",
+            "t2p1pos": "manager",
+            "t2p2": "suni",
+            "t2p2flag": "us",
+            "t2p2pos": "coach"
+        },
+        {
+            "team": "gob ears",
+            "p1": "LowQuality",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "woopah",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Orchin",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Litchi",
+            "p4flag": "",
+            "pos4": "sup",
+            "p5": "Lizsun",
+            "p5flag": "",
+            "pos5": "sup"
+        },
+        {
+            "team": "YippeeKari",
+            "p1": "sunshine",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "reesesfeeses",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "terra",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "kayla",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "UnluckyMain",
+            "p5flag": "de",
+            "pos5": "sup",
+            "p6": "HowtoWASD",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Santyx",
+            "p7flag": "uk",
+            "pos7": "sup"
+        },
+        {
+            "team": "Flamboyant Flamingos",
+            "p1": "LawnFlamingo",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Saya",
+            "p2flag": "",
+            "pos2": "dps",
+            "p2link": "Saya (American player)",
+            "p3": "Lunamare",
+            "p3flag": "us",
+            "pos3": "dps",
+            "p4": "Velly",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Violet",
+            "p5flag": "",
+            "pos5": "sup",
+            "p5link": "Violet (American player)",
+            "p6": "WowItsCow",
+            "p6flag": "us",
+            "pos6": "sup"
+        },
+        {
+            "team": "Faeble",
+            "p1": "aria",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p1link": "Aria (American Player)",
+            "p2": "Zoey",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Garchomp",
+            "pos3": "dps",
+            "p4": "deergirl",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "AV2RY",
+            "pos5": "tank",
+            "p6": "zPanthr",
+            "pos6": "sup",
+            "p7": "annierisu",
+            "p7flag": "us",
+            "pos7": "sup",
+            "p8": "deliriumattic",
+            "p8flag": "",
+            "pos8": "sup"
+        },
+        {
+            "team": "Valiant Guardians",
+            "p1": "wsps",
+            "pos1": "dps",
+            "p2": "Hkeybroke",
+            "pos2": "dps",
+            "p3": "xten",
+            "pos3": "dps",
+            "p4": "MovingFish7",
+            "pos4": "tank",
+            "p5": "CAT",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "keroppi",
+            "pos6": "sup",
+            "p7": "Aramori",
+            "pos7": "sup",
+            "p8": "Meman",
+            "p8flag": "us",
+            "pos8": "sup",
+            "p9": "Halo",
+            "pos9": "sup",
+            "t2title": "Staff",
+            "t2c1": "Gyomin",
+            "t2c1pos": "Coach",
+            "t2c2": "elijah",
+            "t2c2pos": "manager"
+        },
+        {
+            "team": "The Hostages",
+            "p1": "Omelette",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "ImSleepy",
+            "pos2": "",
+            "p3": "Cara",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "Suguru",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Killixir",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Catboy",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "Pickmyhero",
+            "p7flag": "",
+            "pos7": "",
+            "p8": "SamiBoi",
+            "p8flag": "",
+            "pos8": "",
+            "p9": "faeriegirl",
+            "p9flag": "",
+            "pos9": "",
+            "p10": "Winter",
+            "p10flag": "",
+            "pos10": "",
+            "p10link": "Winter (American player)"
+        },
+        {
+            "team": "Hour Zero: Debit Island",
+            "p1": "Bun",
+            "pos1": "dps",
+            "p2": "par",
+            "pos2": "dps",
+            "p3": "Azurae",
+            "pos3": "dps",
+            "p4": "sawhill",
+            "pos4": "tank",
+            "p5": "PizzaPenguin",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "sniper",
+            "pos6": "tank",
+            "p7": "KQA",
+            "p7flag": "us",
+            "pos7": "sup",
+            "p8": "G\u00fcnther",
+            "pos8": "sup",
+            "p9": "PotsNPans",
+            "p9flag": "uksc",
+            "pos9": "sup",
+            "p10": "Orion",
+            "pos10": "sup",
+            "p11": "zman",
+            "pos11": "sup",
+            "t2title": "Staff",
+            "t2c1": "Infekted",
+            "t2c1pos": "coach",
+            "t2c2": "debit",
+            "t2c2pos": "manager",
+            "t2c3": "Urzo",
+            "t2c3pos": "manager",
+            "t2c4": "Cointree",
+            "t2c4pos": "manager"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "flamboyant flamingos",
+            "opponent1_score": 0,
+            "opponent2": "yippeekari",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "faeble",
+            "opponent1_score": 2,
+            "opponent2": "the hostages",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "kqa stinks",
+            "opponent1_score": 2,
+            "opponent2": "kunoichi",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "chengdu guardians",
+            "opponent1_score": 2,
+            "opponent2": "gob ears",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "bestof": "3",
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "hour zero: debit island",
+            "opponent1_score": 2,
+            "opponent2": "yippeekari",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "vancouver titans blue",
+            "opponent1_score": 2,
+            "opponent2": "faeble",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "valiant guardians",
+            "opponent1_score": 2,
+            "opponent2": "kqa stinks",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "elo heaven",
+            "opponent1_score": 0,
+            "opponent2": "chengdu guardians",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Midtown",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "bestof": "3",
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "hour zero: debit island",
+            "opponent1_score": 2,
+            "opponent2": "vancouver titans blue",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "valiant guardians",
+            "opponent1_score": 1,
+            "opponent2": "chengdu guardians",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "bestof": "5",
+            "date": "2023-09-24",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "hour zero: debit island|score=",
+            "opponent2": "chengdu guardians|score=",
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        },
+        {
+            "bestof": "3",
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "flamboyant flamingos",
+            "opponent1_score": 0,
+            "opponent2": "elo heaven",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "the hostages",
+            "opponent1_score": 0,
+            "opponent2": "kqa stinks",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "kunoichi",
+            "opponent1_score": 0,
+            "opponent2": "faeble",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "3",
+                "winner": "draw"
+            },
+            "map3": {
+                "map": "New Junk City",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "gob ears",
+            "opponent1_score": 0,
+            "opponent2": "yippeekari",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "elo heaven",
+            "opponent1_score": 2,
+            "opponent2": "kqa stinks",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "faeble",
+            "opponent1_score": 2,
+            "opponent2": "yippeekari",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "6",
+                "score2": "3",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M6="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "vancouver titans blue",
+            "opponent1_score": 0,
+            "opponent2": "elo heaven",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "Antarctic Peninsula",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M3="
+        },
+        {
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "valiant guardians",
+            "opponent1_score": 2,
+            "opponent2": "faeble",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M4="
+        },
+        {
+            "bestof": "5",
+            "date": "2023-09-23",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "elo heaven|score=",
+            "opponent2": "valiant guardians|score=",
+            "map1": {
+                "map": "Busan",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "4",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "2023-09-24",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "chengdu guardians|score=",
+            "opponent2": "valiant guardians|score=",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "3",
+                "score2": "2",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M2="
+        },
+        {
+            "bestof": "7",
+            "date": "2023-09-24",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "hour zero: debit island|score=",
+            "opponent2": "chengdu guardians|score=",
+            "map1": {
+                "map": "Ilios",
+                "mode": "Control",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "5",
+                "score2": "4",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Suravasa",
+                "mode": "Flashpoint",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "New Queen Street",
+                "mode": "Push",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map5": {
+                "map": "Havana",
+                "mode": "Escort",
+                "score1": "2",
+                "score2": "3",
+                "winner": "2"
+            },
+            "optional": "R6M1="
+        }
+    ]
+}

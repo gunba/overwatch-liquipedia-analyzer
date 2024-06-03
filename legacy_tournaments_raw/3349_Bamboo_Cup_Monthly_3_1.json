@@ -1,0 +1,91 @@
+{
+    "tournament_info": [
+        {
+            "name": "Bamboo Cup - Monthly #3 Week #1",
+            "shortname": "M3W1",
+            "image": "",
+            "series": "Bamboo Cup",
+            "organizer": "PandaTV",
+            "organizer-link": "http://www.panda.tv/",
+            "organizer2": "",
+            "sponsor": "",
+            "country": "cn",
+            "type": "Online",
+            "format": "Single Elimination",
+            "prizepool": "10,000",
+            "localcurrency": "cny",
+            "prizepoolusd": "1,500",
+            "date": "",
+            "sdate": "2016-08-19",
+            "edate": "2016-08-20",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "web": "",
+            "stream": "http://www.panda.tv/act/zhusuncup20160527.html",
+            "challonge": "https://challonge.com/ow3s3s",
+            "teamfirst": "ba",
+            "teamsecond": "we.red",
+            "teamthird": "newbee",
+            "teamfourth": "qg.craze",
+            "team_number": "44",
+            "team1": "",
+            "team2": "",
+            "team3": "",
+            "team4": "",
+            "team5": "",
+            "team6": "",
+            "team7": "",
+            "team8": "",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [],
+    "legacy_match_cards": [
+        {
+            "team2": "wildest dog",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "qg.craze",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "as",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "qg.craze",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "newbee",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "qg.craze",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "ba",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "we.red",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "newbee",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "qg.craze",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

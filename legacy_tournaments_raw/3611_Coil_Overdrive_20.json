@@ -1,0 +1,144 @@
+{
+    "tournament_info": [
+        {
+            "name": "Coil Overdrive #20",
+            "image": "Coil Gaming logo.png",
+            "series": "Coil Overdrive",
+            "shortname": "CO #20",
+            "organizer": "Coil Gaming",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "",
+            "prizepoolusd": "63",
+            "localcurrency": "eur",
+            "prizepool": "60",
+            "web": "",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://battlefy.com/coil-gaming/coil-overdrive-20/58be864b938ed04103d7579a/info?infoTab=details",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "",
+            "teamsecond": "",
+            "edate": "2017-03-29",
+            "sdate": "2017-03-22",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "7",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Singularity Gorillaz",
+            "p1": "Kragie|pos1=DPS",
+            "p2": "Shax|pos2=DPS",
+            "p3": "Cizti|pos3=Flex|p3flag=dk",
+            "p4": "PaghMinister|pos4=Tank",
+            "p5": "Scaler|pos5=Support",
+            "p6": "Sindustries|pos6=Support"
+        },
+        {
+            "team": "ShootingStars",
+            "p1": "Kyb",
+            "p2": "Kao",
+            "p3": "Mess",
+            "p4": "zYKK",
+            "p5": "TontonAfro",
+            "p6": "Shakyss",
+            "p7": "Noomi"
+        },
+        {
+            "team": "Copenhagen Flames",
+            "p1": "Mauz|pos1=DPS",
+            "p2": "Makaveli|p2flag=dk|pos2=DPS",
+            "p3": "Naga|pos3=Tank",
+            "p4": "Pachoot|p4flag=dk|pos4=Tank",
+            "p5": "Hunni|p5flag=dk|pos5=Flex",
+            "p6": "Hastrup|p6flag=dk|pos6=Support",
+            "t2title": "Staff",
+            "t2p1": "Smokie|t2pos1=coach|t2p1flag=dk"
+        },
+        {
+            "team": "Team Oxygen eSports",
+            "p1": "Chevelle",
+            "p2": "KrukAN",
+            "p3": "FinFreezer",
+            "p4": "actofgod",
+            "p5": "eoeddie27",
+            "p6": "Varience",
+            "p7": "CptTrashh"
+        },
+        {
+            "team": "Gameplay DNA",
+            "image": "",
+            "p1": "Megalodon|p1flag=|pos1= |p1link=",
+            "p2": "Traxyrr|p2flag=|pos2=",
+            "p3": "Gytoox|p3flag=|pos3=",
+            "p4": "Dwayne|p4flag=|pos4=",
+            "p5": "ELOHELL|p5flag=|pos5=",
+            "p6": "Fitzys|p6flag=|pos6=",
+            "p7": "JesusIsMyQ|p7flag=|pos7="
+        },
+        {
+            "team": "redbeaks eSports OW",
+            "p1": "qwirzo",
+            "p2": "BigBen",
+            "p3": "D\u0114\u0114\u0174",
+            "p4": "Zexys\u01f6",
+            "p5": "EpresShake",
+            "p6": "Synopsis"
+        },
+        {
+            "team": "Sick City",
+            "p1": "Leya",
+            "p2": "QvisT",
+            "p3": "Baconthief",
+            "p4": "Dommels",
+            "p5": "Brokkie",
+            "p6": "scatmo"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Team Oxygen eSports",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "Team Singularity Gorillaz",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "Team Oxygen eSports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "Team Singularity Gorillaz",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "ShootingStars",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "Team Singularity Gorillaz",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

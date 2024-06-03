@@ -1,0 +1,175 @@
+{{DISPLAYTITLE:DreamHack Winter 2018 - Female Tournament}}
+{{DreamHack Navbox}}<br>
+
+{{Infobox league
+|liquipediatier={{TierText/4}}
+|series=DreamHack
+|shortname=Winter 2018 - Female
+|name=DreamHack Winter 2018 - Female
+|image=DreamHack Black-RGB.png
+|icon=DH-star.png
+|organizer=DreamHack
+|sponsor=
+|type=Offline
+|country=Sweden
+|city=Jönköping
+|venue=
+|format=Double Elimination
+|twitch=
+|prizepool=12,000
+|localcurrency=SEK
+|prizepoolusd=1,258
+|date=2018-12-02
+|web=
+|bracket=https://challonge.com/9qiewesy
+|rulebook=https://docs.google.com/document/d/1zh_dnIG58F1fDUnAKw46l-KP04wQLp9VMYrPjmbnK-Y/edit
+|team_number=4
+}}
+
+==About==
+DreamHack Winter 2018 Overwatch Female Tournament is a BYOC LAN event held at DreamHack Winter 2018 for the Female community.
+
+===Format===
+* '''Playoffs''': Double Elimination
+** Grand Finals are {{Abbr/Bo7}}.
+** Winners' Finals and Losers' Finals are {{Abbr/Bo5}}.
+** All other matches are {{Abbr/Bo3}}.
+
+==Prize Pool==
+12,000 kr {{Abbr/SEK}} (~$1,258 {{Abbr/USD}}) are spread among the teams as seen below:
+<br>Second place gets tickets to DreamHack Summer 2019.
+
+{{prize pool start|localcurrency=sek|cutafter=4}}
+{{prize pool slot |place=1 |usdprize=1,258|localprize=12,000|team contemno|lastvs1=e-girls|lastscore1=4 |lastvsscore1=3 }}
+{{prize pool slot |place=2 |usdprize=0|localprize=0|e-girls|lastvs1=team contemno|lastscore1=3 |lastvsscore1=4 }}
+{{prize pool slot|place=3|usdprize=0|localprize=0|team leia|lastvs1=team contemno |lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot|place=4|usdprize=0|localprize=0|eagle of the tiger|lastvs2=team leia |lastscore2=0 |lastvsscore2=2 }}
+{{Prize pool end}}
+''Conversion values taken from [https://www.exchange-rates.org/Rate/USD/SEK/12-02-2019 exchange-rates.org] at 2019-12-02. 1 {{Abbr/USD}} ≈ 9.5408 {{Abbr/SEK}}''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Team Contemno
+|p1=Rezle |p1flag=se |pos1=dps
+|p2=Leonix |p2flag=se |pos2=dps
+|p3=Ettan |p3flag=se |pos3=tank
+|p4=Taruha |p4flag=se |pos4=tank
+|p5=Terezi96 |p5flag=se |pos5=sup
+|p6=Ponkerino |p6flag=se |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=e-girls
+|p1=Guldfisk |p1flag=se |pos1=dps
+|p2=Aokami |p2flag= |pos2=tank
+|p3=MeanieMy |p3flag=se |pos3=tank
+|p4=Venus |p4flag= |pos4=tank
+|p5=IvanWasTaken |p5flag=se |pos5=sup |p5link=Naviii
+|p6=xaRies |p6flag=se |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Leia
+|image=
+|p1= |p1flag= |pos1=
+|p2= |p2flag= |pos2=
+|p3= |p3flag= |pos3=
+|p4= |p4flag= |pos4=
+|p5= |p5flag= |pos5=
+|p6= |p6flag= |pos6=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Eagle of the Tiger
+|image=
+|p1= |p1flag= |pos1=
+|p2= |p2flag= |pos2=
+|p3= |p3flag= |pos3=
+|p4= |p4flag= |pos4=
+|p5= |p5flag= |pos5=
+|p6= |p6flag= |pos6=
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/4U2L1D|4DETeamBracket|type=team|id=PVh5Ak7fgJ
+<!-- SEMIFINALS -->
+|R1D1team=team contemno |R1D1score=2 |R1D1win=1
+|R1D2team=eagle of the tiger |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary
+|date=December 2, 2018
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=team leia |R1D3score=0 |R1D3win=
+|R1D4team=e-girls |R1D4score=2 |R1D4win=1
+|R1G2details={{BracketMatchSummary
+|date=December 2, 2018
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- WINNER'S FINALS -->
+|R2W1team=team contemno |R2W1score=2 |R2W1win=
+|R2W2team=e-girls |R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary
+|date=December 2, 2018
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 1 -->
+|R1D5team=eagle of the tiger |R1D5score=0 |R1D5win=
+|R1D6team=team leia |R1D6score=2 |R1D6win=1
+|R1G3details={{BracketMatchSummary
+|date=December 2, 2018
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S FINALS -->
+|R2D1team=team contemno |R2D1score=3 |R2D1win=1
+|R2W3team=team leia |R2W3score=0 |R2W3win=
+|R2G2details={{BracketMatchSummary
+|date=December 2, 2018
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- GRAND FINALS -->
+|R3W1team=e-girls |R3W1score=3 |R3W1win=
+|R3W2team=team contemno |R3W2score=4 |R3W2win=1
+|R3G1details={{BracketMatchSummary
+|date=December 2, 2018
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}

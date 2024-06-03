@@ -1,0 +1,325 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Monthly",
+            "series": "all-star brawl",
+            "abbreviation": "All-Star Brawl",
+            "name": "Overwatch All-Star Brawl IV",
+            "shortname": "oasb4",
+            "icon": "All-Star Brawl icon.png",
+            "image": "Star eSports logo.png",
+            "organizer": "Star eSports",
+            "organizer-link": "https://twitter.com/StareSportsLive",
+            "type": "Online",
+            "country": "North America",
+            "format": "Double Elimination",
+            "prizepoolusd": "560",
+            "sdate": "2020-01-06",
+            "edate": "2020-01-31",
+            "twitter": "StareSportsLive",
+            "web": "https://drive.google.com/file/d/1zSfnj_wv0yzZCdGuU484j4_DLOV0VetP/edit",
+            "twitch": "staresportslive",
+            "youtube": "StareSportsLive",
+            "discord": "DsPrVSxCX8",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Citizens",
+            "p1": "Zeus|p1flag=ca|pos1=dps",
+            "p2": "Boat|pos2=dps",
+            "p3": "Leocakes|p3flag=ca|pos3=tank",
+            "p4": "KoreanSnack|p4flag=us|pos4=tank",
+            "p5": "squid|pos5=sup",
+            "p6": "Mercio|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "jVenom|t2c1pos=coach"
+        },
+        {
+            "team": "Feeders With Benefits",
+            "p1": "Tydra|p1flag=us|pos1=dps",
+            "p2": "Tuna|pos2=dps",
+            "p3": "Vampiro|p3flag=us|pos3=tank",
+            "p4": "Perfectity|p4flag=us|pos4=tank",
+            "p5": "Vanilla|p5flag=us|pos5=sup",
+            "p6": "Y3shay3m|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Forefront Esports",
+            "p1": "Kydra|p1flag=ca|pos1=dps",
+            "p2": "1DK|p2flag=us|pos2=dps",
+            "p3": "banandemon1|p3flag=us|pos3=tank",
+            "p4": "Finchu|p4flag=us|pos4=tank",
+            "p5": "NyanSox|p5flag=us|pos5=sup",
+            "p6": "Archs|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "What's Your Peak?",
+            "p1": "zeruhh|pos1=dps",
+            "p2": "Bun|pos2=dps",
+            "p3": "Koodle|p3flag=ca|pos3=dps",
+            "p4": "Melon|p4flag=us|pos4=dps|p4link=Melon (American player)",
+            "p5": "Itsnogoodjr|p5flag=us|pos5=tank",
+            "p6": "Obeluisc|p6flag=us|pos6=tank",
+            "p7": "Ultra|p7flag=fr|pos7=tank",
+            "p8": "Gagbag|p8flag=us|pos8=tank",
+            "p9": "Baz|p9flag=us|pos9=sup",
+            "p10": "Beeboi|p10flag=us|pos10=sup"
+        },
+        {
+            "team": "Scion Esports",
+            "p1": "cyy|pos1=dps",
+            "p2": "Cohesion|pos2=dps",
+            "p3": "Nich|pos3=tank",
+            "p4": "Gummy|pos4=tank",
+            "p5": "PMAJellies|p5flag=us|pos5=sup",
+            "p6": "Supreme|pos6=sup"
+        },
+        {
+            "team": "S.E. No Use For a Name",
+            "p1": "TeaTime|p1flag=us|pos1=dps",
+            "p2": "Gatos|p2flag=us|pos2=dps",
+            "p3": "OhJason|p3flag=us|pos3=tank",
+            "p4": "StormHornet|p4flag=us|pos4=tank",
+            "p5": "Raid|p5flag=us|pos5=sup",
+            "p6": "Micro|pos6=sup|p6link=Micro (American Coach)",
+            "t2title": "Staff",
+            "t2c1": "Refused|t2c1flag=ca|t2c1pos=manager"
+        },
+        {
+            "team": "Team 2",
+            "p1": "Nic|p1flag=us|pos1=dps",
+            "p2": "WannaB|pos2=dps",
+            "p3": "Devil|p3flag=us|pos3=tank",
+            "p4": "PG1|pos4=tank",
+            "p5": "MagicM8Ball|pos5=sup",
+            "p6": "Seajay|pos6=sup|p6link=Cjay"
+        },
+        {
+            "team": "6ixGuns",
+            "p1": "HiddenShadow|p1flag=us|pos1=dps",
+            "p2": "Death|p2flag=us|pos2=dps|p2link=Death (American player)",
+            "p3": "DonTony|p3flag=us|pos3=tank",
+            "p4": "Hiisuya|p4flag=us|pos4=tank",
+            "p5": "Boartle|p5flag=us|pos5=sup",
+            "p6": "Legolaa|p6flag=mx|pos6=sup"
+        },
+        {
+            "team": "Torbulance",
+            "p1": "Air|p1flag=us|pos1=dps",
+            "p2": "Essull|p2flag=us|pos2=dps",
+            "p3": "JakeOfTrades|p3flag=us|pos3=tank",
+            "p4": "Noro|p4flag=us|pos4=tank",
+            "p5": "Skarm|p5flag=us|pos5=sup",
+            "p6": "Tony|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Reckless",
+            "p1": "Renzoku|p1flag=us|pos1=dps",
+            "p2": "Krinzen|p2flag=|pos2=dps",
+            "p3": "Paskul|pos3=tank",
+            "p4": "Andy|pos4=tank",
+            "p5": "KurtLabert|p5flag=|pos5=sup",
+            "p6": "Toastt|p6flag=|pos6=sup"
+        },
+        {
+            "team": "Astray",
+            "p1": "Mercedes|p1flag=us|pos1=dps",
+            "p2": "Rawry|p2flag=us|pos2=dps",
+            "p3": "ShadowJr|p3flag=us|pos3=dps",
+            "p4": "Crimson|pos4=tank",
+            "p5": "TrainCloud|p5flag=us|pos5=tank",
+            "p6": "Aero!|p6flag=us|pos6=sup",
+            "p7": "Switch|pos7=sup"
+        },
+        {
+            "team": "Project Tribunes",
+            "p1": "Annie|p1flag=ph|pos1=dps",
+            "p2": "Wutt|p2flag=us|pos2=dps",
+            "p3": "Lava|pos3=tank",
+            "p4": "Jay|p4flag=us|pos4=tank|p4link=Jay (American player)",
+            "p5": "EMF|p5flag=us|pos5=tank",
+            "p6": "Garmmz|p6flag=us|pos6=tank",
+            "p7": "Geo|p7flag=us|pos7=sup|p7link=Geo (American player)",
+            "p8": "Noctis|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Whistle|t2c1flag=us|t2c1pos=coach"
+        },
+        {
+            "team": "T$GMHC",
+            "notes": "1",
+            "p1": "Again|p1flag=us|pos1=dps",
+            "p2": "Osias|p2flag=us|pos2=dps",
+            "p3": "dusk|pos3=tank",
+            "p4": "Aster|p4flag=us|pos4=tank",
+            "p5": "Flabajack|p5flag=uk|pos5=sup",
+            "p6": "KittyKing|pos6=sup"
+        },
+        {
+            "team": "Celtic Cross Revenant",
+            "p1": "Sterben|p1flag=cn|pos1=dps",
+            "p2": "Peanut|p2flag=us|pos2=dps",
+            "p3": "BigNick|p3flag=us|pos3=tank",
+            "p4": "Vintagio|p4flag=ca|pos4=tank",
+            "p5": "Jonn|p5flag=ca|pos5=sup",
+            "p6": "Slyrl|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Plus Mafia",
+            "p1": "zemrit|pos1=dps",
+            "p2": "Tryhard|p2flag=us|pos2=dps",
+            "p3": "Noxious|pos3=dps|p3link=Noxious (Canadian Player)",
+            "p4": "LucidScience|p4flag=us|pos4=tank",
+            "p5": "Aspect|pos5=tank",
+            "p6": "Obeluisc|p6flag=us|pos6=tank",
+            "p7": "Skyward|pos7=sup",
+            "p8": "Scylla|pos8=sup"
+        },
+        {
+            "team": "Atlas",
+            "p1": "Styx|p1flag=|pos1=dps",
+            "p2": "Jadon|p2flag=us|pos2=dps",
+            "p3": "Lucid|p3flag=us|pos3=dps|p3link=Lucid (American player)",
+            "p4": "Mikey|p4flag=|pos4=tank",
+            "p5": "Phoenix|p5flag=|pos5=tank",
+            "p6": "Roses|p6flag=|pos6=sup",
+            "p7": "NukeLlama|p7flag=us|pos7=sup"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "date": "January 6, 2020 - 21:00 {{Abbr/EST}}",
+            "twitch": "star esports}}",
+            "team2": "atlas",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "citizens",
+            "score1": "3",
+            "win1": "y"
+        },
+        {
+            "date": "January 16, 2020 - 21:00 {{Abbr/EST}}",
+            "twitch": "star esports}}",
+            "team2": "plus mafia",
+            "score2": "3",
+            "win2": "y",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2W1",
+            "team1": "citizens",
+            "score1": "3",
+            "win1": "y"
+        },
+        {
+            "date": "January 21, 2020 - 21:00 {{Abbr/EST}}",
+            "twitch": "star esports}}",
+            "team2": "plus mafia",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R4W1",
+            "team1": "citizens",
+            "score1": "3",
+            "win1": "y"
+        },
+        {
+            "date": "January 24, 2020 - 21:00 {{Abbr/EST}}",
+            "twitch": "star esports}}",
+            "team2": "astray",
+            "score2": "1",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R6W1",
+            "team1": "citizens",
+            "score1": "3",
+            "win1": "y"
+        },
+        {
+            "date": "January 14, 2020 - 21:00 {{Abbr/EST}}",
+            "twitch": "star esports}}",
+            "team2": "atlas",
+            "score2": "1",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D17",
+            "team1": "feeders with benefits",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "January 20, 2020 - 21:00 {{Abbr/EST}}",
+            "twitch": "star esports}}",
+            "team2": "t$gmhc",
+            "score2": "3",
+            "win2": "y",
+            "details2": "{{BracketMatchSummary",
+            "key": "R2D1",
+            "team1": "celtic cross revenant",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "date": "January 23, 2020 - 21:00 {{Abbr/EST}}",
+            "twitch": "star esports}}",
+            "team2": "t$gmhc",
+            "score2": "0",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R3W1",
+            "team1": "what's your peak?",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "date": "January 25, 2020 - 22:00 {{Abbr/EST}}",
+            "twitch": "star esports}}",
+            "team2": "scion esports",
+            "score2": "3",
+            "win2": "y",
+            "details2": "{{BracketMatchSummary",
+            "key": "R4D1",
+            "team1": "plus mafia",
+            "score1": "2",
+            "win1": ""
+        },
+        {
+            "date": "January 27, 2020 - 21:00 {{Abbr/EST}}",
+            "twitch": "star esports}}",
+            "team2": "scion esports",
+            "score2": "3",
+            "win2": "y",
+            "details2": "{{BracketMatchSummary",
+            "key": "R5W1",
+            "team1": "what's your peak?",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "date": "January 29, 2020 - 21:00 {{Abbr/EST}}",
+            "twitch": "star esports}}",
+            "team2": "scion esports",
+            "score2": "3",
+            "win2": "y",
+            "details2": "{{BracketMatchSummary",
+            "key": "R6D1",
+            "team1": "astray",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "date": "January 31, 2020 - 21:00 {{Abbr/EST}}",
+            "twitch": "star esports}}",
+            "team2": "scion esports",
+            "score2": "4",
+            "win2": "y",
+            "details2": "{{BracketMatchSummary",
+            "key": "R7W1",
+            "team1": "citizens",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

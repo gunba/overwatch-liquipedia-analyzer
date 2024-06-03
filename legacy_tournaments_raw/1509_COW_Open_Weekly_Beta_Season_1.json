@@ -1,0 +1,175 @@
+{
+    "tournament_info": [
+        {
+            "name": "COW Open Weekly: Beta Season #1",
+            "image": "cow-logo.png",
+            "series": "COW League Beta Season",
+            "shortname": "1",
+            "organizer": "COW",
+            "format": "Single Elimination",
+            "type": "Online",
+            "country": "United States",
+            "date": "2016-06-17",
+            "prizepool": "",
+            "web": "https://softlocke.com/cowleague/",
+            "sponsors": "COW <br> Matcherino <br> Random CS <br> CyberGamer <br> MasterOverwatch",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "32",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Bold Purpose Gaming",
+            "image": "",
+            "p1": "natsu|p1flag=",
+            "p2": "timmychrist|p2flag=",
+            "p3": "Firefox|p3flag=",
+            "p4": "Taeyeon|p4flag=",
+            "p5": "aksfjh|p5flag=",
+            "p6": "napcat|p6flag=",
+            "p7": "clutter",
+            "p8": "Verbo"
+        },
+        {
+            "team": "Del +5",
+            "image": "",
+            "p1": "Vellor|p1flag=",
+            "p2": "Ruby|p2flag=",
+            "p3": "arbacus|p3flag=",
+            "p4": "shred|p4flag=",
+            "p5": "Gillz|p5flag=",
+            "p6": "Del|p6flag="
+        },
+        {
+            "team": "TOP6",
+            "image": "",
+            "p1": "Zealot|p1flag=",
+            "p2": "Cothurnus|p2flag=",
+            "p3": "OzawaMaria|p3flag=",
+            "p4": "Sam|p4flag=",
+            "p5": "Wolfgang|p5flag=",
+            "p6": "JTftw|p6flag=",
+            "p7": "MoonPomelo"
+        },
+        {
+            "team": "Chewbacca Gaming",
+            "image": "",
+            "p1": "eNe|p1flag=",
+            "p2": "Nekta|p2flag=",
+            "p3": "zizouu|p3flag=",
+            "p4": "Shini|p4flag=",
+            "p5": "ChaiLatte|p5flag=",
+            "p6": "sdufen|p6flag="
+        },
+        {
+            "team": "Free Agents",
+            "image": "",
+            "p1": "Chucklenutz|p1flag=",
+            "p2": "ultimawep|p2flag=",
+            "p3": "TriiXz|p3flag=",
+            "p4": "Supabitez|p4flag=",
+            "p5": "Rakathun|p5flag=",
+            "p6": "Lilia|p6flag="
+        },
+        {
+            "team": "Team Exorcist Gaming",
+            "image": "",
+            "p1": "j3rrm|p1flag=",
+            "p2": "TheEndBoss|p2flag=",
+            "p3": "PeepTheKD|p3flag=",
+            "p4": "Vehx|p4flag=",
+            "p5": "Pro702|p5flag=",
+            "p6": "Raelir|p6flag=",
+            "p7": "Shep",
+            "p8": "slambo"
+        },
+        {
+            "team": "WIP",
+            "image": "",
+            "p1": "mattb|p1flag=",
+            "p2": "jamison|p2flag=",
+            "p3": "cloudmaker|p3flag=",
+            "p4": "aim|p4flag=",
+            "p5": "purple|p5flag=",
+            "p6": "jcb|p6flag="
+        },
+        {
+            "team": "Alphabet Soup",
+            "image": "",
+            "p1": "Bowline|p1flag=",
+            "p2": "Nubcub|p2flag=",
+            "p3": "GatorDan|p3flag=",
+            "p4": "Katakos|p4flag=",
+            "p5": "Foerest|p5flag=",
+            "p6": "Cards|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "d.va's protoss",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "free agents #6",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "sauf reborn",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "free agents #6",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "alphabet soup",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "chewbacca gaming",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "top6",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "chewbacca gaming",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "del +5",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "bold purpose gaming",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "top6",
+            "score2": "1",
+            "win2": "1",
+            "key": "R5D1",
+            "team1": "chewbacca gaming",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

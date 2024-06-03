@@ -1,0 +1,1122 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "series": "Oceanic Summer Series",
+            "abbreviation": "Oceanic Summer Series",
+            "icon": "Full Circle Esports icon.png",
+            "shortname": "",
+            "name": "Oceanic Summer Series: Southeast Asia Qualifier",
+            "image": "Oceanic_Summer_Series_by_FCE_logo_transparent.png",
+            "imagedark": "Oceanic Summer Series by FCE darkmode.png",
+            "organizer": "Full Circle Esports",
+            "organizer-link": "http://fullcircleesports.com/",
+            "sponsor": "",
+            "country": "SEA",
+            "type": "Online",
+            "twitch": "FullCircle",
+            "twitter": "FullCircle_ES",
+            "facebook": "FullCircleEsports",
+            "youtube": "heroesleaguetv",
+            "format": "Swiss",
+            "sdate": "2017-02-15",
+            "edate": "2017-02-16",
+            "web": "http://fullcircleesports.com/",
+            "team_number": "20",
+            "map1": "Hanamura",
+            "map2": "Temple of Anubis",
+            "map3": "Volskaya Industries",
+            "map4": "Dorado",
+            "map5": "Route 66",
+            "map6": "Watchpoint: Gibraltar",
+            "map7": "Ilios",
+            "map8": "Lijiang Tower",
+            "map9": "Nepal",
+            "map10": "Oasis",
+            "map11": "Eichenwalde",
+            "map12": "Hollywood",
+            "map13": "King's Row",
+            "map14": "Numbani"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Unestablished.Juniors",
+            "image": "unestablishedlogo.png",
+            "p1": "Legend |p1flag=sg",
+            "p2": "Teejay |p2flag=my",
+            "p3": "Revenant |p3flag=sg |",
+            "p4": "Yuki |p4flag=sg|p4link=Yuki_(Singaporean_player)",
+            "p5": "fearLess |p5flag=sg",
+            "p6": "ta1yo |p6flag=jp"
+        },
+        {
+            "team": "BBONG_mE",
+            "image": "",
+            "p1": "Hyper |p1flag=hk",
+            "p2": "JzHook3r |p2flag=hk",
+            "p3": "K4real |p3flag=tw",
+            "p4": "Lemonade |p4flag=hk",
+            "p5": "ManGoLongJai |p5flag=hk",
+            "p6": "\u5341\u56db\u8ed2 |p6flag=tw"
+        },
+        {
+            "team": "Team Alacrity",
+            "image": "",
+            "p1": "Arcadia |p1flag=sg",
+            "p2": "Distrion |p2flag=sg",
+            "p3": "iNyX |p3flag=sg",
+            "p4": "HellaJaush |p4flag=sg",
+            "p5": "MeePokBoy |p5flag=sg",
+            "p6": "Kitteh|p6flag=sg",
+            "p7": "Novus |p7flag=sg",
+            "p8": "Xexo |p8flag=sg"
+        },
+        {
+            "team": "WhiteFang E-sports",
+            "p1": "Bozz |p1flag=th",
+            "p2": "pAnDeV |p2flag=th",
+            "p3": "Timone |p3flag=th",
+            "p4": "Providence |p4flag=th",
+            "p5": "Vall |p5flag=th",
+            "p6": "SADISTIC |p6flag=th",
+            "p7": "NutsuruSama|p7flag=th"
+        },
+        {
+            "team": "THE WANDERER",
+            "image": "",
+            "p1": "BlackLotus |p1flag=vn",
+            "p2": "EddyNguyen |p2flag=vn",
+            "p3": "KwonJiYong |p3flag=vn",
+            "p4": "Tide |p4flag=vn",
+            "p5": "slbsinnn |p5flag=vn",
+            "p6": "ruahero |p6flag=vn"
+        },
+        {
+            "team": "1st-eSports",
+            "image": "1st-esports logo.png",
+            "p1": "Producerboom |p1flag=th",
+            "p2": "Cherie |p2flag=th",
+            "p3": "RaCha |p3flag=th",
+            "p4": "mush2oom |p4flag=th",
+            "p5": "ZEUS |p5flag=th|p5link=ZEUS (Thai player)",
+            "p6": "MeMarkz |p6flag=th",
+            "p7": "BurningRoses|p7flag=th"
+        },
+        {
+            "team": "Avalon Tempo",
+            "image": "",
+            "p1": "Doubted |p1flag=sg",
+            "p2": "Jia |p2flag=sg",
+            "p3": "RandomName69|p3flag=sg",
+            "p4": "Amzeyy |p4flag=sg",
+            "p5": "JokeBOT|p5flag=sg",
+            "p6": "Avengyy |p6flag=sg"
+        },
+        {
+            "team": "Mineski",
+            "image": "",
+            "p1": "Jorun |p1flag=",
+            "p2": "Caladbolg |p2flag=",
+            "p3": "Meister |p3flag=ph",
+            "p4": "SuperLocs |p4flag=",
+            "p5": "JessieVash |p5flag=",
+            "p6": "Zyrille |p6flag=",
+            "p7": "whome|p7flag="
+        },
+        {
+            "team": "M8 Echo",
+            "image": "",
+            "p1": "Kaho|p1flag=",
+            "p2": "Esport|p2flag=th",
+            "p3": "Andistic|p3flag=my",
+            "p4": "Vermillion|p4flag=my",
+            "p5": "Hackulo|p5flag=my",
+            "p6": "Shorea|p6flag=sg"
+        },
+        {
+            "team": "Avalon Hexa",
+            "image": "AvalonLogo.png",
+            "p1": "Cryptic|p1flag=sg",
+            "p2": "JUBOJUICESKI|p2flag=sg",
+            "p3": "Labels|p3flag=sg",
+            "p4": "XiphiuS|p4flag=sg",
+            "p5": "bry|p5flag=sg",
+            "p6": "kippani|p6flag=sg"
+        },
+        {
+            "team": "Don't Make Me Angry",
+            "image": "",
+            "p1": "Aice|p1flag=th",
+            "p2": "Knave|p2flag=th",
+            "p3": "LastLight|p3flag=th",
+            "p4": "SUNSERIES|p4flag=th",
+            "p5": "Zadrishz|p5flag=th",
+            "p6": "shivs|p6flag=th"
+        },
+        {
+            "team": "Orion",
+            "image": "",
+            "p1": "L0Y|p1flag=sg",
+            "p2": "AJEN|p2flag=sg",
+            "p3": "AviK|p3flag=sg",
+            "p4": "Jervissss|p4flag=sg",
+            "p5": "Owl|p5flag=sg|p5link=Owl (Singaporean player)",
+            "p6": "Vienna|p6flag=sg",
+            "p7": "Vips|p7flag=sg"
+        },
+        {
+            "team": "Team RANDOM",
+            "image": "",
+            "p1": "SOR|p1flag=my",
+            "p2": "Darkaz|p2flag=my",
+            "p3": "EspNobie|p3flag=my",
+            "p4": "Ethanzor|p4flag=my",
+            "p5": "NickayTan|p5flag=my",
+            "p6": "Rae|p6flag=my",
+            "p7": "ZmirBurger|p7flag=my",
+            "p8": "fLameShot|p8flag=my"
+        },
+        {
+            "team": "XunwuTeamwork",
+            "image": "Xunwu teamwork.png",
+            "p1": "Maiyo|p1flag=th",
+            "p2": "Angeredb|p2flag=th",
+            "p3": "Groundzer|p3flag=th",
+            "p4": "Nerol|p4flag=th",
+            "p5": "Purincest|p5flag=th",
+            "p6": "Whimsy|p6flag=th",
+            "p7": "XIIXV|p7flag=th",
+            "p8": "PANNYS|p8flag=th"
+        },
+        {
+            "team": "Quantum",
+            "image": "",
+            "p1": "Zest|p1flag=sg",
+            "p2": "UEColbat|p2flag=sg",
+            "p3": "JUNGEUNJI|p3flag=sg",
+            "p4": "Nano|p4flag=sg",
+            "p5": "Pamyu|p5flag=sg",
+            "p6": "Sindrax|p6flag=sg"
+        },
+        {
+            "team": "Up2You",
+            "image": "",
+            "p1": "UEAzalea|p1flag=sg",
+            "p2": "Chronos|p2flag=sg",
+            "p3": "Clement|p3flag=sg",
+            "p4": "Schweitzer|p4flag=sg",
+            "p5": "Sev|p5flag=sg|p5link=Sev_(Singaporean_player)",
+            "p6": "TanuKi|p6flag=sg",
+            "p7": "Vas|p7flag=sg"
+        },
+        {
+            "team": "Crystal Gaming",
+            "image": "",
+            "p1": "Link|p1flag=ph|p1link=Link_(Filipino_player)",
+            "p2": "ClarkVB|p2flag=ph",
+            "p3": "Daily420|p3flag=ph",
+            "p4": "DreadRaven07|p4flag=ph",
+            "p5": "PandaUser|p5flag=ph",
+            "p6": "Regr3tsu|p6flag=ph",
+            "p7": "XenosPH|p7flag=ph",
+            "p8": "eLdooD|p8flag=ph",
+            "p9": "volitudo|p9flag=ph"
+        },
+        {
+            "team": "M8 Omega",
+            "image": "",
+            "p1": "LAT|p1flag=my",
+            "p2": "NeonFaith|p2flag=my",
+            "p3": "RoboNinja|p3flag=my",
+            "p4": "Shifu|p4flag=my",
+            "p5": "Heliscout|p5flag=my",
+            "p6": "SkyTblood2|p6flag=my",
+            "p7": "TheNameSiRR|p7flag=my",
+            "p8": "nexu|p8flag=my"
+        },
+        {
+            "team": "Timeless (Asia Team)",
+            "image": "",
+            "p1": "LinkJoker|p1flag=th",
+            "p2": "ArtzozazaTH|p2flag=th",
+            "p3": "BigcBow|p3flag=th",
+            "p4": "DERPGUYZ|p4flag=th",
+            "p5": "MCTskyshort|p5flag=th",
+            "p6": "Saekung|p6flag=th",
+            "p7": "Undie|p7flag=th",
+            "p8": "WINBRGMTV|p8flag=th",
+            "p9": "Xcaster|p9flag=th",
+            "p10": "lvlz|p10flag=th"
+        },
+        {
+            "team": "KappaPride",
+            "image": "",
+            "p1": "Graves|p1flag=tw",
+            "p2": "Kant|p2flag=tw",
+            "p3": "\u66fe\u7d93\u8f38\u5149|p3flag=tw",
+            "p4": "SmallPon|p4flag=tw",
+            "p5": "HanJi|p5flag=tw",
+            "p6": "smileabel|p6flag=tw",
+            "p7": "Doodoopig|p7flag=tw"
+        }
+    ],
+    "legacy_match_cards": [],
+    "match_maps": [
+        {
+            "key": "match1",
+            "team1": "avalon hexa",
+            "team2": "quantum",
+            "games1": "4",
+            "games2": "3",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "team1": "team alacrity",
+            "team2": "orion",
+            "games1": "4",
+            "games2": "3",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "team1": "m8 omega",
+            "team2": "avalon tempo",
+            "games1": "0",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "team1": "m8 echo",
+            "team2": "unestablished.juniors",
+            "games1": "0",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "team1": "kappapride",
+            "team2": "timeless",
+            "games1": "1",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "team1": "1st-esports",
+            "team2": "team random",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match7",
+            "team1": "crystal gaming",
+            "team2": "don't make me angry",
+            "games1": "0",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match8",
+            "team1": "up2you",
+            "team2": "bbong_me hk",
+            "games1": "0",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match9",
+            "team1": "the wanderer",
+            "team2": "xunwu teamwork",
+            "games1": "1",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match10",
+            "team1": "whitefang e-sports",
+            "team2": "mineski",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "team1": "whitefang e-sports",
+            "team2": "xunwu teamwork",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "team1": "1st-esports",
+            "team2": "bbong_me hk",
+            "games1": "1",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match3",
+            "team1": "kappapride",
+            "team2": "don't make me angry",
+            "games1": "0",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "team1": "team alacrity",
+            "team2": "unestablished.juniors",
+            "games1": "2",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "team1": "avalon hexa",
+            "team2": "avalon tempo",
+            "games1": "0",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match6",
+            "team1": "the wanderer",
+            "team2": "mineski",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match7",
+            "team1": "up2you",
+            "team2": "team random",
+            "games1": "3",
+            "games2": "4",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match8",
+            "team1": "crystal gaming",
+            "team2": "timeless",
+            "games1": "3",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match9",
+            "team1": "m8 echo",
+            "team2": "orion",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match10",
+            "team1": "m8 omega",
+            "team2": "quantum",
+            "games1": "0",
+            "games2": "1",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match1",
+            "team1": "bbong_me hk",
+            "team2": "avalon hexa",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "team1": "avalon tempo",
+            "team2": "don't make me angry",
+            "games1": "4",
+            "games2": "3",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "team1": "whitefang e-sports",
+            "team2": "unestablished.juniors",
+            "games1": "1",
+            "games2": "2",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "team1": "m8 echo",
+            "team2": "kappapride",
+            "games1": "4",
+            "games2": "5",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "team1": "team alacrity",
+            "team2": "crystal gaming",
+            "games1": "3",
+            "games2": "2",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "team1": "xunwu teamwork",
+            "team2": "quantum",
+            "games1": "1",
+            "games2": "1",
+            "map": "",
+            "winner": "draw"
+        },
+        {
+            "key": "match7",
+            "team1": "1st-esports",
+            "team2": "the wanderer",
+            "games1": "1",
+            "games2": "2",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match8",
+            "team1": "m8 omega",
+            "team2": "team random",
+            "games1": "2",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match9",
+            "team1": "timeless",
+            "team2": "up2you",
+            "games1": "0",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match10",
+            "team1": "mineski",
+            "team2": "orion",
+            "games1": "2",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "team1": "avalon hexa",
+            "team2": "xunwu teamwork",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "team1": "team alacrity",
+            "team2": "kappapride",
+            "games1": "3",
+            "games2": "2",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "team1": "whitefang e-sports",
+            "team2": "the wanderer",
+            "games1": "1",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "team1": "bbong_me hk",
+            "team2": "don't make me angry",
+            "games1": "3",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "team1": "unestablished.juniors",
+            "team2": "avalon tempo",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "team1": "quantum",
+            "team2": "team random",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match7",
+            "team1": "crystal gaming",
+            "team2": "1st-esports",
+            "games1": "0",
+            "games2": "2",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match8",
+            "team1": "up2you",
+            "team2": "m8 echo",
+            "games1": "4",
+            "games2": "3",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match9",
+            "team1": "m8 omega",
+            "team2": "mineski",
+            "games1": "1",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match10",
+            "team1": "timeless",
+            "team2": "orion",
+            "games1": "0",
+            "games2": "1",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match1",
+            "team1": "avalon hexa",
+            "team2": "team random",
+            "games1": "3",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "team1": "team alacrity",
+            "team2": "quantum",
+            "games1": "3",
+            "games2": "2",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "team1": "the wanderer",
+            "team2": "avalon tempo",
+            "games1": "3",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match4",
+            "team1": "unestablished.juniors",
+            "team2": "bbong_me hk",
+            "games1": "3",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "team1": "don't make me angry",
+            "team2": "mineski",
+            "games1": "3",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "team1": "whitefang e-sports",
+            "team2": "up2you",
+            "games1": "1",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match7",
+            "team1": "1st-esports",
+            "team2": "kappapride",
+            "games1": "3",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match8",
+            "team1": "m8 echo",
+            "team2": "xunwu teamwork",
+            "games1": "1",
+            "games2": "2",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match9",
+            "team1": "orion",
+            "team2": "crystal gaming",
+            "games1": "2",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match10",
+            "team1": "timeless",
+            "team2": "m8 omega",
+            "games1": "1",
+            "games2": "2",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match1",
+            "team1": "whitefang e-sports",
+            "team2": "avalon hexa",
+            "games1": "3",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "team1": "avalon tempo",
+            "team2": "1st-esports",
+            "games1": "5",
+            "games2": "6",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match3",
+            "team1": "bbong_me hk",
+            "team2": "team alacrity",
+            "games1": "4",
+            "games2": "3",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match4",
+            "team1": "unestablished.juniors",
+            "team2": "the wanderer",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "team1": "don't make me angry",
+            "team2": "xunwu teamwork",
+            "games1": "0",
+            "games2": "2",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match6",
+            "team1": "orion",
+            "team2": "team random",
+            "games1": "4",
+            "games2": "3",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match7",
+            "team1": "mineski",
+            "team2": "quantum",
+            "games1": "3",
+            "games2": "2",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match8",
+            "team1": "crystal gaming",
+            "team2": "up2you",
+            "games1": "0",
+            "games2": "1",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match9",
+            "team1": "m8 echo",
+            "team2": "m8 omega",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "team1": "mineski",
+            "team2": "up2you",
+            "games1": "2",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "team1": "whitefang e-sports",
+            "team2": "don't make me angry",
+            "games1": "1",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "team1": "quantum",
+            "team2": "orion",
+            "games1": "0",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "team1": "xunwu teamwork",
+            "team2": "avalon tempo",
+            "games1": "3",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "team1": "timeless",
+            "team2": "team random",
+            "games1": "0",
+            "games2": "2",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match6",
+            "team1": "crystal gaming",
+            "team2": "m8 echo",
+            "games1": "0",
+            "games2": "2",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match7",
+            "team1": "team alacrity",
+            "team2": "1st-esports",
+            "games1": "3",
+            "games2": "4",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match8",
+            "team1": "unestablished.juniors",
+            "team2": "avalon hexa",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match9",
+            "team1": "bbong_me hk",
+            "team2": "the wanderer",
+            "games1": "3",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "team1": "whitefang e-sports",
+            "team2": "orion",
+            "games1": "3",
+            "games2": "2",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "team1": "avalon hexa",
+            "team2": "mineski",
+            "games1": "0",
+            "games2": "1",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match3",
+            "team1": "the wanderer",
+            "team2": "team alacrity",
+            "games1": "3",
+            "games2": "4",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "team1": "team random",
+            "team2": "avalon tempo",
+            "games1": "2",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "team1": "m8 echo",
+            "team2": "don't make me angry",
+            "games1": "2",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match6",
+            "team1": "m8 omega",
+            "team2": "up2you",
+            "games1": "2",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match7",
+            "team1": "timeless",
+            "team2": "quantum",
+            "games1": "0",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match8",
+            "team1": "bbong_me hk",
+            "team2": "xunwu teamwork",
+            "games1": "3",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match9",
+            "team1": "unestablished.juniors",
+            "team2": "1st-esports",
+            "games1": "3",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "team1": "avalon tempo",
+            "team2": "orion",
+            "games1": "3",
+            "games2": "2",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "team1": "the wanderer",
+            "team2": "up2you",
+            "games1": "2",
+            "games2": "1",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match3",
+            "team1": "quantum",
+            "team2": "m8 echo",
+            "games1": "3",
+            "games2": "4",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "team1": "1st-esports",
+            "team2": "avalon hexa",
+            "games1": "5",
+            "games2": "4",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match5",
+            "team1": "timeless",
+            "team2": "don't make me angry",
+            "games1": "0",
+            "games2": "1",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match6",
+            "team1": "m8 omega",
+            "team2": "crystal gaming",
+            "games1": "0",
+            "games2": "1",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match7",
+            "team1": "team alacrity",
+            "team2": "xunwu teamwork",
+            "games1": "5",
+            "games2": "4",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match8",
+            "team1": "bbong_me hk",
+            "team2": "whitefang e-sports",
+            "games1": "1",
+            "games2": "2",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match9",
+            "team1": "unestablished.juniors",
+            "team2": "mineski",
+            "games1": "4",
+            "games2": "3",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match1",
+            "team1": "unestablished.juniors",
+            "team2": "xunwu teamwork",
+            "games1": "3",
+            "games2": "2",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match2",
+            "team1": "up2you",
+            "team2": "orion",
+            "games1": "2",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match3",
+            "team1": "m8 omega",
+            "team2": "don't make me angry",
+            "games1": "0",
+            "games2": "1",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match4",
+            "team1": "timeless",
+            "team2": "avalon hexa",
+            "games1": "0",
+            "games2": "1",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match5",
+            "team1": "crystal gaming",
+            "team2": "team random",
+            "games1": "0",
+            "games2": "3",
+            "map": "",
+            "winner": "2"
+        },
+        {
+            "key": "match6",
+            "team1": "team alacrity",
+            "team2": "mineski",
+            "games1": "3",
+            "games2": "2",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match7",
+            "team1": "bbong_me hk",
+            "team2": "avalon tempo",
+            "games1": "3",
+            "games2": "2",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match8",
+            "team1": "the wanderer",
+            "team2": "m8 echo",
+            "games1": "5",
+            "games2": "4",
+            "map": "",
+            "winner": "1"
+        },
+        {
+            "key": "match9",
+            "team1": "whitefang e-sports",
+            "team2": "1st-esports",
+            "games1": "1",
+            "games2": "0",
+            "map": "",
+            "winner": "1"
+        }
+    ]
+}

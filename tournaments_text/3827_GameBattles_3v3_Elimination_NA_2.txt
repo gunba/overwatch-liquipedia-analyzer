@@ -1,0 +1,141 @@
+{{DISPLAYTITLE:GameBattles 3v3 Elimination North America #2}}
+{{GameBattles navbox}}
+{{Tabs static
+|link1=GameBattles_3v3 Elimination/NA/2|name1=NA
+|link2=GameBattles_3v3 Elimination/EU/2|name2=EU
+}}
+{{Infobox league
+|liquipediatier=-1|liquipediatiertype=Weekly
+|name=GameBattles 3v3 Elimination North America #2
+|shortname=3v3 North America #2
+|tickername=GameBattles 3v3 NA #2
+|icon=GameBattles icon lightmode.png
+|icondark=GameBattles icon darkmode.png
+|image=GameBattles lightmode.png
+|imagedark=GameBattles darkmode.png
+|organizer=GameBattles
+|series=GameBattles
+|abbreviation=GB
+|sponsor=
+|type=Online
+|country=North America
+|game=overwatch2
+|prizepoolusd=250
+|date=2022-10-23
+|twitter=gamebattles
+|discord=gamebattles
+|facebook=gamebattles
+|rulebook=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3-250-na6/info
+|bracket=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3-250-na6/bracket
+|team_number=7
+}}
+
+==Information==
+===Format===
+*All matches are {{Abbr/Ft2}}
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=200}}
+|{{Slot|usdprize=50}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard|players=3
+|team=Chimp Club
+|p1=HYPER|p1flag=us|pos1=
+|p2=Oats|p2flag=ca|pos2=
+|p3=PixelMaster3|p3flag=us|pos3=
+}}
+{{TeamCard|players=3
+|team=The One Piece Is Real!!!
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=Kryix
+|p1=Rymazing|p1flag=|pos1=dps
+|p2=opia|p2flag=|pos2=tank
+|p3=Karova|p3flag=|pos3=sup
+|t2title=Staff
+|t2c1=Matrix|t2c1pos=head coach
+|t2c2=Micro|t2c2pos=assistant coach|t2c2link=Micro (American Coach)
+|t2c3=Shyam|t2c3pos=assistant coach
+|t2c4=Chanyoung67|t2c4pos=analyst
+|t2c5=CrazyHobo|t2c5pos=manager
+}}
+{{TeamCard|players=3
+|team=cold war champs
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=Spooky Szn
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=those fellas
+|p1=SoSure|p1flag=|pos1=
+|p2=BigT|p2flag=|pos2=
+|p3=roses|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=SundayFundayOW
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2L1DH4L|id=luYtbd9lnS
+
+<!-- Round 1 -->
+|R1M1={{Match
+    |bestof=3
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|the one piece is real!!!|score=L}}
+    |opponent2={{TeamOpponent|kryix|score=W}}
+}}
+|R1M2={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|cold war champs|score=W}}
+    |opponent2={{TeamOpponent|spooky szn|score=L}}
+}}
+|R1M3={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|those fellas|score=W}}
+    |opponent2={{TeamOpponent|sundayfundayow|score=L}}
+}}
+
+<!-- Quarterfinals -->
+|R2M1={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|chimp club|score=L}}
+    |opponent2={{TeamOpponent|kryix|score=W}}
+}}
+|R2M2={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|cold war champs|score=L}}
+    |opponent2={{TeamOpponent|those fellas|score=W}}
+}}
+
+<!-- Semifinals -->
+|R3M1={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|kryix|score=W}}
+    |opponent2={{TeamOpponent|those fellas|score=L}}
+}}
+}}

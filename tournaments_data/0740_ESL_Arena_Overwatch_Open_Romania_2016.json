@@ -1,0 +1,128 @@
+{
+    "tournament_info": [
+        {
+            "name": "ESL Arena Open Romania",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "",
+            "shortname": "2",
+            "organizer": "ESL",
+            "format": "Single Elimination",
+            "type": "Online/Offline",
+            "country": "Romania",
+            "date": "2016-05-29",
+            "prizepoolusd": "1,117",
+            "localcurrency": "eur",
+            "prizepool": "1,000",
+            "web": "http://play.eslgaming.com/overwatch/europe/overwatch/open/esl-arena-romania/",
+            "twitch": "esl_romania",
+            "bracket": "http://play.eslgaming.com/overwatch/europe/overwatch/open/esl-arena-romania/rankings/",
+            "liquipediatier": "{{TierText/4}}",
+            "team_number": "12"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Balkan Bears",
+            "p1": "ang ",
+            "p1flag": "ro",
+            "p2": "Daryus ",
+            "p2flag": "ro",
+            "p3": "Mezamorphis ",
+            "p3flag": "ro",
+            "p4": "Mineral",
+            "p5": "pronic ",
+            "p5flag": "nl",
+            "p6": "shadder2k ",
+            "p6flag": "ro"
+        },
+        {
+            "team": "nVision",
+            "p1": "aleclord ",
+            "p1flag": "ro",
+            "p2": "eXecut1on ",
+            "p2flag": "ro",
+            "p3": "KyR ",
+            "p3flag": "ro",
+            "p4": "Mitzeh ",
+            "p4flag": "ro",
+            "p5": "Recken ",
+            "p5flag": "ro",
+            "p6": "Wizlerr ",
+            "p6flag": "ro"
+        },
+        {
+            "team": "One Up",
+            "p1": "Arrka ",
+            "p1flag": "ro",
+            "p2": "Starlinka ",
+            "p2flag": "ro",
+            "p3": "Blindster ",
+            "p3flag": "ro",
+            "p4": "omulmicsinegru ",
+            "p4flag": "ro",
+            "p5": "zoxtree ",
+            "p5flag": "ro",
+            "p6": "Neavasile ",
+            "p6flag": "ro"
+        },
+        {
+            "team": "ManiacX Gaming",
+            "p1": "Nightmar3",
+            "p1flag": "ro",
+            "p2": "Bumtsi",
+            "p2flag": "ro",
+            "p3": "Speedylawl",
+            "p3flag": "ro",
+            "p4": "Cladzy",
+            "p4flag": "ro",
+            "p5": "BoboSanta",
+            "p5flag": "ro",
+            "p6": "Billiej",
+            "p6flag": "ro"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "May 8, 2016 - 17:00",
+            "date_timezone": "EET",
+            "opponent1": "one up",
+            "opponent1_score": 0,
+            "opponent2": "nvision",
+            "opponent2_score": 2,
+            "optional": "R1M1="
+        },
+        {
+            "date": "May 8, 2016 - 15:00",
+            "date_timezone": "EET",
+            "opponent1": "maniacx gaming",
+            "opponent1_score": 0,
+            "opponent2": "balkan bears",
+            "opponent2_score": 2,
+            "optional": "R1M2="
+        },
+        {
+            "date": "May 29, 2016 - 18:00",
+            "date_timezone": "EET",
+            "twitch": "esl_romania",
+            "opponent1": "nvision",
+            "opponent2": "balkan bears",
+            "map1": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Watchpoint: Gibraltar",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "3",
+                "winner": "2"
+            },
+            "vod": "https://www.twitch.tv/videos/69291236",
+            "optional": "R2M1="
+        }
+    ]
+}

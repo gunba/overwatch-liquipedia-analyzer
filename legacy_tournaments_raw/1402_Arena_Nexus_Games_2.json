@@ -1,0 +1,130 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Monthly",
+            "series": "",
+            "name": "Arena Nexus Games #2",
+            "image": "Arena Nexus -2 logo.png",
+            "icon": "",
+            "organizer": "Lotus Imperium",
+            "sponsor": "",
+            "type": "Online",
+            "game": "Overwatch",
+            "country": "Brazil",
+            "format": "",
+            "prizepool": "300",
+            "localcurrency": "brl",
+            "prizepoolusd": "92",
+            "date": "2016-10-02",
+            "bracket": "https://battlefy.com/organiza%C3%A7%C3%A3o-lotus-imperium/arena-nexus-games-overwatch-cup/57ab8bb280d6c9320c5bb182/stage/57ab8bb280d6c9320c5bb183/bracket/",
+            "twitch": "cantss",
+            "twitch2": "vecettv",
+            "team_number": "16",
+            "previous": "Arena Nexus Games/1{{!}}#1"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Keep Gaming",
+            "p1": "prod |p1flag=br",
+            "p2": "wings |p2flag=br",
+            "p3": "TYGER |p3flag=br",
+            "p4": "kyo |p4flag=br",
+            "p5": "ole |p5flag=br",
+            "p6": "powah |p6flag=br"
+        },
+        {
+            "team": "Black Dragons e-Sports",
+            "p1": "alemao |p1flag=br",
+            "p2": "neil |p2flag=br",
+            "p3": "likera |p3flag=br",
+            "p4": "duduzera |p4flag=br",
+            "p5": "krk |p5flag=br",
+            "p6": "KREPSKER |p6flag=br"
+        },
+        {
+            "team": "Dogma e-Sports",
+            "p1": "Nextage |p1flag=br",
+            "p2": "Nexus |p2flag=br",
+            "p3": "BUCK |p3flag=br",
+            "p4": "rikemat |p4flag=br",
+            "p5": "Japow |p5flag=br",
+            "p6": "Aryador |p6flag=br"
+        },
+        {
+            "team": "First e-Sports",
+            "p1": "Kodo |p1flag=br",
+            "p2": "honorato |p2flag=br",
+            "p3": "Mestreak |p3flag=br",
+            "p4": "deh |p4flag=br",
+            "p5": "nosfa |p5flag=br",
+            "p6": "LEO |p6flag=br"
+        },
+        {
+            "team": "Wobbuffet Gaming",
+            "p1": "Autz |p1flag=br",
+            "p2": "JuniorRios |p2flag=br",
+            "p3": "Rankioshi |p3flag=br",
+            "p4": "Th1ago |p4flag=br",
+            "p5": "pHz |p5flag=br",
+            "p6": "Koda |p6flag=br"
+        },
+        {
+            "team": "Fire Dragons Gaming",
+            "p1": "pandaz0rd |p1flag=br",
+            "p2": "Gelito |p2flag=br",
+            "p3": "ShadowGOD |p3flag=br",
+            "p4": "Nyul |p4flag=br",
+            "p5": "Leogra |p5flag=br",
+            "p6": "Renamon |p6flag=br"
+        },
+        {
+            "team": "Supreme",
+            "p1": "omar2511 |p1flag=us",
+            "p2": "guru |p2flag=us",
+            "p3": "Shades |p3flag=us",
+            "p4": "squaggly |p4flag=sa",
+            "p5": "SnakeDaoust |p5flag=us",
+            "p6": "Rickster518 |p6flag=us"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "first e-sports",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "wobbuffet gaming",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "keep gaming",
+            "score2": "1",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "wobbuffet gaming",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "black dragons",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "dogma e-sports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

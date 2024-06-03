@@ -1,0 +1,207 @@
+{{DISPLAYTITLE:Overwatch GeForce Cup}}
+
+{{Infobox league
+|liquipediatier={{TierText/3}}
+|series=Overwatch GeForce Cup
+|abbreviation=GeForce Cup
+
+|name=Overwatch GeForce Cup
+|image=
+|organizer=NVIDIA
+|organizer-link=http://www.nvidia.com.br/
+|organizer2=GamersOrigin
+|organizer2-link=http://overwatch.gamersorigin.com/
+|sponsor=
+|type=Offline
+|country=France
+|city=Paris
+|venue=Paris Game Week
+|format=Single Elimination
+|sdate=2016-10-27
+|edate=2016-10-28
+|web=
+|twitch=nvidiafrance
+|bracket=
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=8
+}}<br>
+
+==About==
+===Broadcast talent===
+
+===Format===
+*Single Elimination
+
+===Prize Pool===
+{{prize pool start |noprize=1}}
+{{prize pool slot |place=1 |gamersorigin |lastvs1=team vitality |lastscore1=2 |lastvsscore1=0}}
+{{prize pool slot |place=2 |team vitality |lastvs1=gamersorigin |lastscore1=0 |lastvsscore1=2}}
+{{prize pool slot |place=3-4 
+|sydioda |lastvs1=team vitality|lastscore1=0 |lastvsscore1=2 |date1=2016-10-28
+|ecorp goldrush |lastvs2=gamersorigin|lastscore2=0 |lastvsscore2=2 |date2=2016-10-28
+}}
+{{prize pool slot |place=5-8 
+|no mercy |lastvs1=team vitality |lastscore1=0 |lastvsscore1=2 |date1=2016-10-27
+|eidolon |lastvs2=sydioda |lastscore2=0 |lastvsscore2=2 |date2=2016-10-27
+|aaa |lastvs3=gamersorigin |lastscore3=0 |lastvsscore3=2 |date3=2016-10-27
+|nickel |lastvs4=ecorp goldrush |lastscore4=0 |lastvsscore4=2 |date4=2016-10-27
+}}
+{{prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Team Vitality
+|image=Team Vitality.png
+|p1=Lilbow|p1flag=fr 
+|p2=Chubz|p2flag=fr 
+|p3=Hexis|p3flag=be 
+|p4=Riskin|p4flag=fr
+|p5=Flash0or|p5flag=be 
+|p6=Asox|p6flag=fr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=No Mercy
+|image=No_MercyLogo.jpg
+|p1=Kalimsshar|p1flag=fr 
+|p2=Ortie|p2flag=fr
+|p3=Nanna|p3flag=fr
+|p4=Mikadow|p4flag=fr
+|p5=Néf4ste|p5flag=fr
+|p6=Sonatic|p6flag=fr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Sydioda
+|image=
+|p1=AsuraxX|p1flag=fr 
+|p2=Djoula|p2flag=fr
+|p3=Egidorp|p3flag=fr
+|p4=kolsti|p4flag=fr
+|p5=Malicium|p5flag=fr
+|p6=moonL|p6flag=fr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Eidolon
+|image=
+|p1=Adnan|p1flag=fr 
+|p2=Ares|p2flag=fr
+|p3=EaglesV1|p3flag=fr
+|p4=Reigeko|p4flag=fr
+|p5=SYGMA|p5flag=fr 
+|p6=Wiiky|p6flag=fr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=GamersOrigin
+|image=Gamersorigin.png
+|p1=WhiTeFire|p1flag=fr 
+|p2=HyP|p2flag=fr
+|p3=Narwak|p3flag=fr
+|p4=Leaf|p4flag=fr
+|p5=Jenkins|p5flag=fr 
+|p6=Noki|p6flag=fr
+|c=daemoN|cflag=fr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=against All authority
+|image=
+|p1=aKm|p1flag=fr 
+|p2=soOn|p2flag=fr
+|p3=eki22|p3flag=fr
+|p4=wezan|p4flag=fr
+|p5=babou|p5flag=fr 
+|p6=Lanf3ust|p6flag=fr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ECORP Goldrush
+|image=
+|p1=Izzy|p1flag=fr 
+|p2=Greg2fram|p2flag=fr
+|p3=KaoFenrir|p3flag=fr
+|p4=Dismay|p4flag=fr
+|p5=Worss|p5flag=fr
+|p6=Sliaf|p6flag=fr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Nickel
+|image=
+|p1=Zakhan|p1flag=fr 
+|p2=TheSuperSexy|p2flag=fr
+|p3=ChupaShoot|p3flag=fr
+|p4=Ark|p4flag=fr|p4link=Ark (French player)
+|p5=Lloyd|p5flag=fr 
+|p6=DDaFox|p6flag=fr
+}}
+{{box|end}}
+
+==Results==
+===Playoffs===
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=sCUZEcc5OU
+<!-- QUARTERFINALS -->
+|R1D1team=team vitality |R1D1score=2 |R1D1win=1
+|R1D2team=no mercy |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=October 27, 2016 - 14:00 {{Abbr/CEST}}
+|finished=true
+}}
+|R1D3team=sydioda |R1D3score=2 |R1D3win=1
+|R1D4team=eidolon|R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary 
+|date=October 27, 2016 - 15:00 {{Abbr/CEST}}
+|finished=
+}}
+|R1D5team=gamersorigin |R1D5score=2 |R1D5win=1
+|R1D6team=aaa |R1D6score=0 |R1D6win=
+|R1G3details={{BracketMatchSummary 
+|date=October 27, 2016 - 16:00 {{Abbr/CEST}}
+|finished=
+}}
+|R1D7team=ecorp goldrush |R1D7score=2 |R1D7win=1
+|R1D8team=nickel |R1D8score=0 |R1D8win=
+|R1G4details={{BracketMatchSummary 
+|date=October 27, 2016 - 17:00 {{Abbr/CEST}}
+|finished=
+}}
+<!-- SEMIFINALS -->
+|R2W1team=team vitality |R2W1score=2 |R2W1win=1
+|R2W2team=sydioda |R2W2score=0 |R2W2win=
+|R2G1details={{BracketMatchSummary 
+|date=
+|finished=true
+}}
+|R2W3team=gamersorigin |R2W3score=2 |R2W3win=1
+|R2W4team=ecorp goldrush |R2W4score=0 |R2W4win=
+|R2G2details={{BracketMatchSummary 
+|date=
+|finished=true
+}}
+<!-- FINALS -->
+|R3W1team=team vitality |R3W1score=0 |R3W1win=
+|R3W2team=gamersorigin |R3W2score=2 |R3W2win=1
+|R3G1details={{BracketMatchSummary 
+|date=
+|finished=true
+|preview=
+}}
+<!-- 3RD PLACE (optional) -->
+|R3D1team= |R3D1score= |R3D1win=
+|R3D2team= |R3D2score= |R3D2win=
+|R3G2details={{BracketMatchSummary 
+|date=
+|finished=
+}}
+}}
+
+==References==
+{{Reflist}}

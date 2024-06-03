@@ -1,0 +1,126 @@
+{{DISPLAYTITLE:Asia Community Cup: SG Qualifier}}
+{{tabs static
+|name1=Main Event|link1=Asia Community Cup
+|name2=TW, VN & PH Qualifier|link2=Asia Community Cup/TW_VN_PH Qualifier
+|name3=JP Qualifier|link3=Asia Community Cup/JP Qualifier
+|name4=TH Qualifier 1|link4=Asia Community Cup/TH Qualifier 1
+|name5=SG Qualifier|link5=Asia Community Cup/SG Qualifier
+|name6= MY, ID & HK Qualifier|link6=Asia Community Cup/MY_ID_HK Qualifier
+|name7=TH Qualifier 2|link7=Asia Community Cup/TH Qualifier 2
+|name8=KR Qualifier 1|link8=Asia Community Cup/KR Qualifier 1
+|name9=All-Asia Qualifier|link9=Asia Community Cup/All-Asia Qualifier
+|name10=KR Qualifier 2|link10=Asia Community Cup/KR Qualifier 2
+|name11=Last Chance Qualifier (All-Asia)|link11=Asia Community Cup/Last Chance Qualifier
+|This=5
+}}
+{{Infobox league
+|liquipediatier=4|liquipediatiertype=Qualifier
+|series=Asia Community Cup
+|abbreviation=Asia Community Cup
+|shortname=
+|name=Asia Community Cup: SG Qualifier
+|tickername=Asia Community Cup
+|icon=Asia Community Cup icon.png
+|image=
+|organizer=
+|organizer2=
+|sponsor=
+|type=Online
+|country=Singapore
+|city=
+|venue=
+|patch=1.32
+|format=Single Elimination
+|game=overwatch
+|prizepool=35,000 Razer Silver
+|localcurrency=
+|prizepoolusd=117
+|sdate=2019-02-09
+|edate=2019-02-09
+|web=
+|bracket=https://arena.mogul.gg/tournaments/details/1802
+|youtube=
+|twitch=
+|team_number=4
+}}
+
+==About==
+===Format===
+* '''General Rules''': Competitive Mode
+* '''Playoffs''': Single Elimination
+* Top 2 from qualifier will qualify for the main event
+
+==Prize Pool==
+35,000 Razer Silver (≅$117 {{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=points|cutafter=4|points=qualified}}
+{{prize pool slot |place=1 |points=q |usdprize=117 |localprize=35,000|volatile|lastvs1=mismatch|lastscore1=1 |lastvsscore1=0 }}
+{{prize pool slot |place=2 |points=q |usdprize=0|localprize=0|mismatch|lastvs1=volatile|lastscore1=0 |lastvsscore1=1 }}
+{{prize pool slot |place=3-4|usdprize=0|localprize=0
+|bus 142|lastvs1=volatile|lastscore1=0 |lastvsscore1=1
+|incipience|lastvs2=mismatch |lastscore2=0 |lastvsscore2=1
+}}
+{{Prize pool end}}
+''$5 {{Abbr/USD}} = a Razer Gift Card worth 1,500 razer silver''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Volatile
+|p1=CZwc |p1flag=sg |pos1=
+|p2=Vips |p2flag=sg |pos2=
+|p3=Akame |p3flag=sg |pos3=
+|p4=Torii |p4flag=sg |pos4=
+|p5=Ayako |p5flag=sg |pos5=
+|p6=Infectious |p6flag=sg |pos6=
+|p7=kyshio |p7flag=sg |pos7=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Mismatch
+|p1=CML |p1link=camilaa|p1flag=jp |pos1=
+|p2=Kuu |p2flag=sg |pos2=
+|p3=Bnetplayer |p3flag=sg |pos3=
+|p4=SKRRA |p4flag=sg |pos4=
+|p5=BlueDot |p5flag=sg |pos5=
+|p6=HolyStarZ |p6flag=sg |pos6=
+|p7=Jill |p7flag=sg |pos7=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Bus 142
+|p1=Vytal |p1flag=sg |pos1= |p1link=Vytal
+|p2=Evian |p2flag=sg |pos2=
+|p3=ZhEnG |p3flag=sg |pos3=|p3link=ZhEnG
+|p4=APPL3 |p4flag=sg |pos4=
+|p5=Shinzuki |p5flag=sg |pos5=
+|p6=Galaxik |p6flag=sg |pos6=
+|p7=tuataokay |p7flag=sg |pos7=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Incipience
+|p1=lilraxx |p1flag=sg |pos1=dps
+|p2=Bubblekitty |p2flag=sg |pos2=dps
+|p3=Xenofly |p3flag=sg |pos3=flex
+|p4=Sachokk |p4flag=sg |pos4=tank
+|p5=Mel |p5flag=sg |pos5=tank
+|p6=Azure |p6flag=sg |pos6=sup
+|p7=ZeonFlux |p7flag=sg |pos7=sup
+|p8=Cup |p8flag=sg |pos8=sup
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=ZCZWMZkEcw
+<!-- SEMIFINALS -->
+|R1D1team=bus 142 |R1D1score=0 |R1D1win=
+|R1D2team=volatile |R1D2score=1 |R1D2win=1
+
+|R1D3team=incipience |R1D3score=0 |R1D3win=
+|R1D4team=mismatch |R1D4score=1 |R1D4win=1
+
+<!-- FINALS -->
+|R2W1team=volatile |R2W1score=1 |R2W1win=1
+|R2W2team=mismatch |R2W2score=0 |R2W2win=
+}}

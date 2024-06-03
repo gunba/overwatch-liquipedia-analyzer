@@ -1,0 +1,220 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "liquipediatiertype": "<!--Qualifier, Monthly, Weekly, etc.-->",
+            "name": "Esports Gateway Overwatch North America #1",
+            "shortname": "ESG OW NA",
+            "tickername": "Esports Gateway Overwatch North America #1",
+            "icon": "",
+            "image": "ESG lightmode.png",
+            "imagedarkmode": "ESG darkmode.png",
+            "series": "",
+            "abbreviation": "ESG",
+            "organizer": "Esports Gateway",
+            "organizer-link": "https://esports-gateway.com/",
+            "sponsor": "",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "100",
+            "sdate": "2023-05-27",
+            "edate": "2023-05-28",
+            "twitter": "https://twitter.com/eSportsGateway",
+            "web": "https://huntapp.gg/tournaments/ESG-OW-North-America---1/646a0831f7d37670419847eb/overview",
+            "twitch": "https://www.twitch.tv/esportsgatewaytv",
+            "discord": "https://discord.gg/esports-gateway-633627881242886144",
+            "youtube": "https://www.youtube.com/@eSportsGateway",
+            "tiktok": "https://www.tiktok.com/@esports.gateway",
+            "rulebook": "https://huntapp.gg/tournaments/ESG-OW-North-America---1/646a0831f7d37670419847eb/rules",
+            "bracket": "https://huntapp.gg/tournaments/ESG-OW-North-America---1/646a0831f7d37670419847eb/bracket",
+            "team_number": "10"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Astral Eclipse",
+            "p1": "MightyOwl456|p1flag=|pos1=",
+            "p2": "vrtualhug|p2flag=|pos2=",
+            "p3": "jedipenguin|p3flag=uk|pos3=",
+            "p4": "GhostTown|p4flag=|pos4=",
+            "p5": "IconMasta2004|p5flag=|pos5=",
+            "p6": "NoFaceYing|p6flag=|pos6=",
+            "p7": "Spacerocket|p7flag=|pos7="
+        },
+        {
+            "team": "PeakCheckSummit",
+            "p1": "BlooTheKolor|p1flag=us|pos1=",
+            "p2": "Peppered|p2flag=|pos2=",
+            "p3": "Habutai|p3flag=|pos3=",
+            "p4": "StickDryft|p4flag=us|pos4=",
+            "p5": "krick|p5flag=|pos5=",
+            "p6": "21stcenturyblues|p6flag=|pos6=",
+            "p7": "Chan|p7flag=|pos7="
+        },
+        {
+            "team": "Sprinkley Barrel Puffs",
+            "p1": "MatthewFruedman|p1flag=|pos1=",
+            "p2": "Tetrazile|p2flag=|pos2=",
+            "p3": "SoulVerse|p3flag=|pos3=",
+            "p4": "DThor|p4flag=|pos4=",
+            "p5": "butterot|p5flag=us|pos5=",
+            "p6": "Rinnywoo|p6flag=|pos6="
+        },
+        {
+            "team": "DaSusBus",
+            "p1": "red|p1flag=|pos1=",
+            "p2": "GrandmasBadussy|p2flag=|pos2=",
+            "p3": "Wildman28|p3flag=|pos3=",
+            "p4": "DeadByPlayer|p4flag=|pos4=",
+            "p5": "jetzer_dk|p5flag=us|pos5=",
+            "p6": "ESCAPE|p6flag=|pos6="
+        },
+        {
+            "team": "Harmony",
+            "p1": "OukOuk|p1flag=|pos1=",
+            "p2": "Noctra|p2flag=|pos2=",
+            "p3": "Karl|p3flag=|pos3=",
+            "p4": "Pixels|p4flag=|pos4=",
+            "p5": "Kanlze|p5flag=|pos5=",
+            "p6": "quiet|p6flag=|pos6="
+        },
+        {
+            "team": "Titan",
+            "p1": "Bill|p1flag=us|pos1=dps",
+            "p2": "Heavenly|p2flag=us|pos2=dps",
+            "p3": "P2K|p3flag=ca|pos3=tank",
+            "p4": "Silent|p4flag=us|pos4=sup|p4link=Silent (American Player)",
+            "p5": "prozXriot|p5flag=us|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Algos05|t2c1pos=manager"
+        },
+        {
+            "team": "Delphox",
+            "p1": "OniiChanz|p1flag=|pos1=",
+            "p2": "Allison|p2flag=|pos2=",
+            "p3": "AshtonRamos|p3flag=|pos3=",
+            "p4": "FalconX7200|p4flag=us|pos4=",
+            "p5": "plebiian|p5flag=|pos5="
+        },
+        {
+            "team": "Brimstone-Bashers",
+            "p1": "FormalFly|p1flag=us|pos1=",
+            "p2": "E54Player|p2flag=|pos2=",
+            "p3": "Teja|p3flag=|pos3=",
+            "p4": "Mori|p4flag=|pos4=",
+            "p5": "ScramPlease|p5flag=|pos5="
+        },
+        {
+            "team": "SHU Saints",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "AMES",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|shu saints|score=L}}",
+            "opponent2": "{{TeamOpponent|Titan|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|DaSusBus|score=L}}",
+            "opponent2": "{{TeamOpponent|Sprinkley Barrel Puffs|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Astral Eclipse|score=L}}",
+            "opponent2": "{{TeamOpponent|Titan|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|AMES|score=L}}",
+            "opponent2": "{{TeamOpponent|Sprinkley Barrel Puffs|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Harmony|score=W}}",
+            "opponent2": "{{TeamOpponent|PeakCheckSummit|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Brimstone-Bashers|score=W}}",
+            "opponent2": "{{TeamOpponent|Delphox|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Titan|score=W}}",
+            "opponent2": "{{TeamOpponent|Sprinkley Barrel Puffs|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Harmony|score=W}}",
+            "opponent2": "{{TeamOpponent|Brimstone-Bashers|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Titan|score=W}}",
+            "opponent2": "{{TeamOpponent|Harmony|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        }
+    ]
+}

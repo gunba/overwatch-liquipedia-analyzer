@@ -1,0 +1,175 @@
+{
+    "tournament_info": [],
+    "team_cards": [
+        {
+            "team": "Catboy Esports",
+            "p1": "Noxious|pos1=dps|p1link=Noxious (Canadian Player)",
+            "p2": "TR33|pos2=dps",
+            "p3": "Schiz|pos3=tank",
+            "p4": "Soko|pos4=tank",
+            "p5": "MuffinMan|p5flag=us|pos5=sup",
+            "p6": "AutumnSouls|pos6=sup"
+        },
+        {
+            "team": "VTILTE Reborn",
+            "p1": "Nena|p1flag=ru|pos1=dps",
+            "p2": "alexey|pos2=dps",
+            "p3": "rez|p3flag=ru|pos3=tank",
+            "p4": "Chasetorch|pos4=tank",
+            "p5": "Andreyko|pos5=sup",
+            "p6": "Vlad|p6flag=ru|pos6=sup"
+        },
+        {
+            "team": "Anteiku",
+            "p1": "denthead98|p1flag=us|pos1=dps",
+            "p2": "Bizz|pos2=dps",
+            "p3": "zemrit|pos3=dps",
+            "p4": "Bubbles|pos4=tank",
+            "p5": "dusk|pos5=tank",
+            "p6": "Vega|pos6=sup",
+            "p7": "Pascal|pos7=sup",
+            "p8": "cal|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Careless|t2c1pos=head coach",
+            "t2c2": "Alex|t2c2flag=ie|t2c2pos=assistant coach|t2c2link=Alex (Irish coach)",
+            "t2c3": "SeoJaeYoon|t2c3flag=kr|t2c3pos=analyst",
+            "t2c4": "Sumyeonje|t2c4flag=kr|t2c4pos=general manager",
+            "t2c5": "Jennifer|t2c5pos=assistant manager"
+        },
+        {
+            "team": "Ignition Esports",
+            "p1": "Mori|p1flag=us|pos1=dps",
+            "p2": "Jazza|p2flag=us|pos2=dps",
+            "p3": "kef|p3flag=us|pos3=dps",
+            "p4": "HaMmEr|pos4=tank",
+            "p5": "CLAY|p5flag=us|pos5=tank",
+            "p6": "Melchio|p6flag=ca|pos6=sup",
+            "p7": "HaydenRHN|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Animated|t2c1pos=head coach"
+        },
+        {
+            "team": "wapai",
+            "p1": "DoNotSpamPls",
+            "p2": "ToXiC",
+            "p3": "Bunnyhop",
+            "p4": "shadows",
+            "p5": "Bumera",
+            "p6": "Boni2We"
+        },
+        {
+            "team": "McDonalds",
+            "p1": "Alonso2803",
+            "p2": "marleo",
+            "p3": "Milo|p3link=Milo (American player)",
+            "p4": "WHOMEGALUL",
+            "p5": "Arkanay",
+            "p6": "capa8"
+        },
+        {
+            "team": "x)",
+            "p1": "Chrysalis",
+            "p2": "sslsodox",
+            "p3": "rbhbkk",
+            "p4": "Exicross",
+            "p5": "AYAYA",
+            "p6": "wayward",
+            "p7": "EHGDNB"
+        },
+        {
+            "team": "Relentless Esports",
+            "p1": "Brassy|p1flag=us|pos1=dps",
+            "p2": "wave|p2flag=uk|pos2=dps",
+            "p3": "Lpzo1|p3flag=ca|pos3=tank",
+            "p4": "Jay|p4flag=us|pos4=tank|p4link=Jay (American player)",
+            "p5": "Dhillon|pos5=tank",
+            "p6": "Owl|p6flag=us|pos6=sup|p6link=Owl (American player)",
+            "p7": "Shuki|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Guffy Gang",
+            "p1": "VALDEMOR",
+            "p2": "J7tro",
+            "p3": "Y4nd3r3",
+            "p4": "V3nelin7BG",
+            "p5": "Pupsi",
+            "p6": "Kwait",
+            "p7": "Sasook"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "November 1, 2020",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Relentless Esports|score=1}}",
+            "opponent2": "{{TeamOpponent|Guffy Gang|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 1, 2020",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|VTILTE Reborn|score=1}}",
+            "opponent2": "{{TeamOpponent|Relentless Esports|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 1, 2020",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|x)|score=0}}",
+            "opponent2": "{{TeamOpponent|Ignition Esports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "November 1, 2020",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|wapai|score=0}}",
+            "opponent2": "{{TeamOpponent|Catboy Esports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "November 1, 2020",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|McDonalds|score=0}}",
+            "opponent2": "{{TeamOpponent|Anteiku|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "November 1, 2020",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|VTILTE Reborn|score=1}}",
+            "opponent2": "{{TeamOpponent|Ignition Esports|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "November 1, 2020",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Catboy Esports|score=1}}",
+            "opponent2": "{{TeamOpponent|Anteiku|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "November 1, 2020",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|VTILTE Reborn|score=0}}",
+            "opponent2": "{{TeamOpponent|Catboy Esports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "November 1, 2020",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ignition Esports|score=0}}",
+            "opponent2": "{{TeamOpponent|Anteiku|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

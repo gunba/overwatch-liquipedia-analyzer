@@ -1,0 +1,123 @@
+{
+    "tournament_info": [
+        {
+            "name": "People Premier League",
+            "image": "People Premier League_logo.jpg",
+            "series": "People Premier League",
+            "abbreviation": "PPL",
+            "shortname": "",
+            "tickername": "People Premier League",
+            "icon": "People_Premier_League_icon.png",
+            "organizer": "Administration\u2002of\u2002Sport\u2002of\u2002Nanning\u2002City",
+            "organizer2": "Xingning District People's Government",
+            "organizer3": "People's Esport Beijing",
+            "organizer4": "Beijing UTime Network Technology",
+            "organizer4-link": "http://www.utntc.com/",
+            "organizer5": "Guangxi Esports Time Technology",
+            "sponsor": "",
+            "patch": "December 12, 2022 Patch",
+            "type": "Offline",
+            "country": "China",
+            "city": "Nanning",
+            "venue": "Esports Stadium, Guangxi Esports Industrial Park",
+            "format": "Single Elimination",
+            "prizepool": "140,000",
+            "localcurrency": "CNY",
+            "prizepoolusd": "20,048",
+            "sdate": "2022-12-24",
+            "edate": "2022-12-25",
+            "liquipediatier": "3",
+            "web": "",
+            "weibo": "https://weibo.com/renmindianjing",
+            "douyu": "158",
+            "stream": "https://www.douyu.com/7241181",
+            "twitch": "",
+            "bracket": "",
+            "team_number": "8",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Mata Raise|players=5",
+            "p1": "Akato|pos1=dps|p1link=Ni Haotian",
+            "p2": "Ak1te|pos2=dps",
+            "p3": "Lie|pos3=tank",
+            "p4": "M1ka|p4flag=|pos4=sup",
+            "p5": "Mercury|p5flag=cn|pos5=sup |p5link=Chen Guanru",
+            "qualifier": "Invited"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "Dec 24th, 2022 - 14:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "vod": "https://v.douyu.com/show/n8GzMXmEwgVW6qyP?ap=1",
+            "opponent1": "{{TeamOpponent|Tidal destruction gaming|score=3}}",
+            "opponent2": "{{TeamOpponent|XXXX|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "Dec 24th, 2022 - 15:45 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "vod": "https://v.douyu.com/show/aRbBv3Plo8D76PYV?ap=1",
+            "vod2": "https://v.douyu.com/show/n8GzMXmEraxW6qyP?ap=1",
+            "opponent1": "{{TeamOpponent|\u6e90\u6c0f\u7535\u7ade|score=2}}",
+            "opponent2": "{{TeamOpponent|Zones|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "Dec 24th, 2022 - 17:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "vod": "https://v.douyu.com/show/n8GzMXmEraxW6qyP?ap=1",
+            "opponent1": "{{TeamOpponent|Mata Raise|score=0}}",
+            "opponent2": "{{TeamOpponent|\u6597\u9c7c\u7535\u7ade|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "Dec 25th, 2022 - 13:40 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "vod": "https://v.douyu.com/show/DrwnvzZEw0jvPNaX?ap=1",
+            "opponent1": "{{TeamOpponent|Team Arslan|score=3}}",
+            "opponent2": "{{TeamOpponent|Tidal destruction gaming|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "Dec 25th, 2022 - 15:10 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "vod": "https://v.douyu.com/show/brN0Mm4XXR57pyxA?ap=1",
+            "opponent1": "{{TeamOpponent|ZONES|score=0}}",
+            "opponent2": "{{TeamOpponent|\u6597\u9c7c\u7535\u7ade|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "Dec 25th, 2022 - 16:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "vod": "https://v.douyu.com/show/brN0Mm4XXR57pyxA?ap=1",
+            "vod2": "https://v.douyu.com/show/JmbBMk9X5JQv40XA?ap=1",
+            "opponent1": "{{TeamOpponent|Team Arslan|score=0}}",
+            "opponent2": "{{TeamOpponent|\u6597\u9c7c\u7535\u7ade|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        }
+    ]
+}

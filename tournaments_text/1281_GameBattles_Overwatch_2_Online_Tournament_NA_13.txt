@@ -1,0 +1,154 @@
+{{DISPLAYTITLE:GameBattles Overwatch 2 Online Tournament North America #13}}
+{{GameBattles navbox}}
+{{Tabs static
+|link1=GameBattles_Overwatch_2_Online_Tournament/NA/13|name1=NA
+|link2=GameBattles_Overwatch_2_Online_Tournament/EU/13|name2=EU
+}}
+{{Infobox league
+|liquipediatier=4|liquipediatiertype=Weekly
+|name=GameBattles Overwatch 2 Online Tournament North America #13
+|shortname=5v5 North America #13
+|tickername=GameBattles North America #13
+|icon=GameBattles icon lightmode.png
+|icondark=GameBattles icon darkmode.png
+|image=GameBattles lightmode.png
+|imagedark=GameBattles darkmode.png
+|organizer=GameBattles
+|series=GameBattles
+|abbreviation=GB
+|type=Online
+|country=North America
+|game=overwatch2
+|prizepoolusd=500
+|date=2023-01-07
+|twitter=gamebattles
+|discord=gamebattles
+|facebook=gamebattles
+|rulebook=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--north-america--17/rules
+|bracket=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5--500--north-america--17/bracket
+|team_number=7
+|previous=GameBattles_Overwatch_2_Online_Tournament/NA/12{{!}}#12
+|next=GameBattles_Overwatch_2_Online_Tournament/NA/14{{!}}#14
+}}
+
+==Information==
+===Format===
+*All matches are {{Abbr/Ft2}}
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=400}}
+|{{Slot|usdprize=100}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard|players=5
+|team=Team GP
+|p1=Kammy|p1flag=|pos1=
+|p2=Jump|p2flag=|pos2=
+|p3=Ran|p3flag=|pos3=
+|p4=Issues|p4flag=|pos4=
+|p5=Sowavybands|p5flag=|pos5=
+}}
+{{TeamCard|players=5
+|team=NotYTS
+|p1=GreaterThan|p1flag=|pos1=
+|p2=CR7|p2flag=|pos2=
+|p3=Cryo|p3flag=|pos3=
+|p4=Lazybrazyz|p4flag=|pos4=
+|p5=NotYT|p5flag=|pos5=
+}}
+{{TeamCard|players=5
+|team=Inferno NA
+|p1=onetap|p1flag=us|pos1=dps
+|p2=death|p2link=death (American Player)|p2flag=us|pos2=dps
+|p3=Aspect|p3flag=us|pos3=tank
+|p4=keroppi|p4flag=us|pos4=sup
+|p5=Click|p5flag=us|pos5=sup
+}}
+{{TeamCard|players=5
+|team=Hive Five
+|p1=Sugureru|p1flag=us|pos1=dps
+|p2=peace|p2flag=us|pos2=dps
+|p3=Astronexz|p3flag=ca|pos3=tank
+|p4=Wicca|p4flag=us|pos4=sup
+|p5=Abyss|p5flag=us|pos5=sup
+|t2title=Staff
+|t2c1=elijah|t2c1pos=manager
+}}
+{{TeamCard|players=5
+|team=Kryix
+|p1=Rymazing|p1flag=us|pos1=dps
+|p2=Dynasty|p2flag=us|pos2=dps
+|p3=Stryder|p3flag=us|pos3=tank
+|p4=Momentum|p4flag=us|pos4=sup
+|p5=Karova|p5flag=us|pos5=sup
+|t2title=Staff
+|t2c1=Matrix|t2c1pos=head coach
+|t2c2=Micro|t2c2pos=assistant coach|t2c2link=Micro (American Coach)
+|t2c3=Shyam|t2c3pos=assistant coach
+|t2c4=Chanyoung67|t2c4pos=analyst
+|t2c5=CrazyHobo|t2c5pos=manager
+}}
+{{TeamCard|players=5
+|team=Debit Island
+|p1=Arrow|p1flag=kr|pos1=dps
+|p2=Doomed|p2flag=us|pos2=dps
+|p3=CLEAR|p3flag=us|pos3=tank
+|p4=RaiN|p4flag=|pos4=sup
+|p5=otters|p5flag=us|pos5=sup
+|t2title=Staff
+|t2p1=debit|t2pos1=manager
+}}
+{{TeamCard|players=5
+|team=AOS
+|p1=FunkyMonkey|p1flag=|pos1=
+|p2=Matnabz|p2flag=|pos2=
+|p3=Sickotic|p3flag=|pos3=
+|p4=PushinP|p4flag=|pos4=
+|p5=Stinkytoepic|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2L1DH4L|id=YycvKs4QAK
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=
+	|date=2023-01-07
+    |opponent1={{TeamOpponent|kryix|score=W}}
+    |opponent2={{TeamOpponent|letter league|score=L}}
+}}
+|R1M2={{Match
+	|date=2023-01-07
+    |opponent1={{TeamOpponent|inferno na|score=L}}
+    |opponent2={{TeamOpponent|debit island|score=W}}
+}}
+|R1M3={{Match
+	|date=2023-01-07
+    |opponent1={{TeamOpponent|aos|score=W}}
+    |opponent2={{TeamOpponent|notyts|score=L}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|date=2023-01-07
+    |opponent1={{TeamOpponent|team gp|score=L}}
+    |opponent2={{TeamOpponent|kryix|score=W}}
+}}
+|R2M2={{Match
+	|date=2023-01-07
+    |opponent1={{TeamOpponent|debit island|score=W}}
+    |opponent2={{TeamOpponent|aos|score=L}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|date=2023-01-07
+    |opponent1={{TeamOpponent|kryix|score=W}}
+    |opponent2={{TeamOpponent|debit island|score=L}}
+}}
+}}

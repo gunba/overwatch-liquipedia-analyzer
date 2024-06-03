@@ -1,0 +1,107 @@
+{{DISPLAYTITLE:Altiora Pride Cup - Diamond/Masters Division}}
+{{Tabs static
+|name1=EU Grandmaster|link1=Altiora Pride Cup/Grandmaster
+|name2=EU Diamond/Masters|link2=Altiora Pride Cup/Diamond/Masters
+|name3=EU Platinum|link3=Altiora Pride Cup/Platinum
+|name4=NA Grandmaster|link4=Alternate Pride Cup/Grandmaster
+|name5=NA Diamond/Masters|link5=Alternate Pride Cup/Diamond/Masters
+|name6=NA Platinum|link6=Alternate Pride Cup/Platinum
+}}
+{{Infobox league
+|liquipediatier=5
+|name=Altiora Pride Cup - Diamond/Masters Division
+|shortname=Altiora Pride Cup - Diamond/Masters Division
+|tickername=Altiora Pride Cup Diamond/Masters
+|icon=Altiora 2022 lightmode.png
+|icondark=Altiora 2022 darkmode.png
+|image=Altiora 2022 lightmode.png
+|imagedark=Altiora 2022 darkmode.png
+|series=Altiora
+|abbreviation=Altiora
+|organizer=Altiora
+|organizer2=Alternate Esports
+|sponsor=[https://www.communitygaming.io/ Community Gaming]
+|type=Online
+|country=Europe
+|game=overwatch2
+|prizepoolusd=100
+|date=2023-07-01
+|twitter=Altiora_gaming
+|rulebook=https://t.co/8RsRO8YDcG
+|bracket=https://altiora.slmn.gg/bracket
+|team_number=2
+}}
+
+==Information==
+===Format===
+*<s>Single Elimination Bracket
+**First three rounds are {{Abbr/Bo3}}</s>
+**Grand Finals are {{Abbr/Bo5}}
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Commentator
+|b1=Biscuit
+|b2=Spectrion
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard
+|position=Producer
+|b1=Little Joe
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard
+|position=Observer Director
+|b1=Zusor
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard
+|position=Observer
+|b1=Marc
+|b2=LotU|b2flag=nl
+|b3=beamgarden|b3flag=us
+}}
+{{box|end}}
+
+==Prize Pool==
+{{TeamPrizePool
+|{{Slot|usdprize=100}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Altered Atlas
+|p1=RAGE_AYA|p1flag=|pos1=
+|p2=Potatypus|p2flag=|pos2=
+|p3=Caromell|p3flag=|pos3=
+|p4=Lovelee|p4flag=|pos4=
+|p5=Willowtron|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Esports Organisation
+|p1=Regulus|p1flag=|pos1=
+|p2=Parzival|p2flag=|pos2=|p2link=Parzival (European Player)
+|p3=Noisia|p3flag=|pos3=
+|p4=Oritas|p4flag=|pos4=
+|p5=HanaSophie|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2|id=ADJGcqGlw6
+
+<!-- Round 1 -->
+|R1M1={{Match
+    |bestof=5
+    |date=July 1, 2023 - 20:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Altered Atlas|score=}}
+    |opponent2={{TeamOpponent|Esports Organisation|score=}}
+    |map1={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=New Queen Street|mode=Push|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=0|score2=3|winner=2}}
+}}
+}}

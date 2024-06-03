@@ -1,0 +1,285 @@
+{
+    "tournament_info": [
+        {
+            "name": "The Overguard: Haste Overwatch $1k Series 2: Qualifier 1",
+            "tickername": "Haste Overwatch $1k Series 2: Q1",
+            "series": "The Overguard",
+            "image": "Overguard Logo.png",
+            "icon": "Overguard Logo small.png",
+            "organizer": "The Overguard",
+            "format": "Qualifiers <br> Single Elimination",
+            "type": "Online",
+            "country": "United States",
+            "date": "2017-06-17",
+            "prizepoolusd": "",
+            "web": "https://battlefy.com/the-overguard/haste-overwatch-pc-1k-tournament-series/593a92f3fdf8730339a6ae75/info?infoTab=details",
+            "sponsor": "[https://haste.net/ Haste]",
+            "twitch": "theoverguard",
+            "twitter": "theoverguard",
+            "bracket": "https://battlefy.com/the-overguard/haste-overwatch-pc-1k-tournament-series/593a92f3fdf8730339a6ae75/stage/593a92f3fdf8730339a6ae76/bracket/",
+            "liquipediatier": "3|liquipediatiertype=Qualifier",
+            "team_number": "11"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Kangaroo Jacks",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "The Savages",
+            "image": "The_savages_logo.png",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Aceless",
+            "image": "Aceless logo.png",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Vzla eSports Gaming",
+            "image": "Vzla.png",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "SponsorUS esports",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Barbaric Dusk",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "RuuKee",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Phantom Juggernauts",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Disaster",
+            "link": "Disaster (NA team)",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "FanasyGaming",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        },
+        {
+            "team": "1nFamy",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag=",
+            "c": "|cflag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "kangaroo jacks",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "1nfamy",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "sponsorus esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "barbaric dusk",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "vzla esports gaming",
+            "score1": "W",
+            "win1": ""
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "the savages",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "fanasygaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "ruukee",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "aceless",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "disaster (na team)",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D15",
+            "team1": "phantom juggernauts",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "sponsorus esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "kangaroo jacks",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "vzla esports gaming",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "barbaric dusk",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "ruukee",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "the savages",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "phantom juggernauts",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "aceless",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "vzla esports gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "kangaroo jacks",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "aceless",
+            "score2": "3",
+            "win2": "1",
+            "key": "R3W3",
+            "team1": "the savages",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "aceless",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "kangaroo jacks",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

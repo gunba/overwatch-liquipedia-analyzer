@@ -1,0 +1,512 @@
+{
+    "tournament_info": [
+        {
+            "name": "Calamari Clash #1",
+            "shortname": "Calamari Clash #1",
+            "tickername": "Calamari Clash #1",
+            "image": "",
+            "series": "Calamari Clash",
+            "icon": "",
+            "organizer": "Squid Squad",
+            "type": "Online",
+            "country": "United States",
+            "prizepoolusd": "100",
+            "format": "Double Elimination",
+            "game": "overwatch",
+            "sdate": "2022-01-14",
+            "edate": "2022-02-18",
+            "liquipediatier": "5",
+            "bracket": "https://battlefy.com/calamari-cup-season-1/calamari-cup/61abc1d946048f6bffdf226d/info?infoTab=details",
+            "rulebook": "https://drive.google.com/file/d/1gTsJ9RrsRYuJRBeoCyPZJdUfyJadK0fA/view",
+            "twitter": "CephaloIsland",
+            "discord": "VcKytYnuRf",
+            "twitch": "squidsquad_ow",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "WSU Gold",
+            "p1": "DarkSNPX|p1flag=us|pos1=tank",
+            "p2": "Calster|p2flag=us|pos2=tank",
+            "p3": "JDB|p3flag=|pos3=",
+            "p4": "Apex|p4flag=|pos4=",
+            "p5": "Vrixiko|p5flag=|pos5=",
+            "p6": "MommaMercy|p6flag=|pos6="
+        },
+        {
+            "team": "Project Banana",
+            "p1": "aprisepic|p1flag=|pos1=",
+            "p2": "CitrusFruit|p2flag=|pos2=",
+            "p3": "Fros\u0166|p3flag=|pos3=",
+            "p4": "VictxriaRxse|p4flag=|pos4=",
+            "p5": "DangerNoodle|p5flag=|pos5=",
+            "p6": "mouser|p6flag=|pos6=",
+            "p7": "MILO|p7flag=|pos7=",
+            "p8": "FelixFelicis|p8flag=|pos8=",
+            "p9": "jbrocks4ever|p9flag=|pos9="
+        },
+        {
+            "team": "Waypoint Esports",
+            "p1": "IceCleric|p1flag=us|pos1=",
+            "p2": "OneMoreThan0|p2flag=us|pos2=",
+            "p3": "Nutdust|p3flag=us|pos3=",
+            "p4": "Dirtydan|p4flag=|pos4=",
+            "p5": "Grim|p5flag=|pos5=",
+            "p6": "TranspoLord|p6flag=|pos6=",
+            "p7": "zebracookie|p7flag=|pos7=",
+            "p8": "BUDG3T|p8flag=|pos8=",
+            "p9": "North|p9flag=|pos9="
+        },
+        {
+            "team": "EMU Esports Green",
+            "p1": "blook|p1flag=|pos1=",
+            "p2": "Slurmp|p2flag=|pos2=",
+            "p3": "Dabatable|p3flag=|pos3=",
+            "p4": "Tributary|p4flag=|pos4=",
+            "p5": "OverwatchFan|p5flag=|pos5=",
+            "p6": "Intellektt|p6flag=|pos6=",
+            "p7": "SilverBee|p7flag=|pos7=",
+            "p8": "Indigo|p8flag=|pos8=",
+            "p9": "Calsifer|p9flag=|pos9="
+        },
+        {
+            "team": "Wichita Wolves Academy",
+            "p1": "Flexecution|p1flag=us|pos1=dps",
+            "p2": "Accelerator|p2flag=us|pos2=dps",
+            "p3": "Squiggle|p3flag=us|pos3=dps",
+            "p4": "LittleDMon|p4flag=us|pos4=tank",
+            "p5": "Ponsbey|p5flag=us|pos5=tank",
+            "p6": "ehflep|p6flag=us|pos6=tank",
+            "p7": "DonCheadle|p7flag=us|pos7=sup",
+            "p8": "tubrat|p8flag=us|pos8=sup"
+        },
+        {
+            "team": "LSFC",
+            "size": "500x500px",
+            "p1": "SnoCoke|p1flag=us|pos1=dps",
+            "p2": "Optimal|p2flag=us|pos2=dps",
+            "p3": "Sunlessfiber|p3flag=us|pos3=dps",
+            "p4": "Dynamic|p4flag=us|pos4=tank",
+            "p5": "Yaboywings|p5flag=pak",
+            "pos5": "tank",
+            "p6": "Poison44|p6flag=us|pos6=sup",
+            "p7": "Onyx|p7flag=can|pos7=sup",
+            "p8": "DuhItzCleb|p8flag=us|pos8=sup"
+        },
+        {
+            "team": "Council of Catgirls",
+            "p1": "tamaki|p1flag=|pos1=",
+            "p2": "Tw7stZ|p2flag=|pos2=",
+            "p3": "SweKingdom|p3flag=|pos3=",
+            "p4": "BCthe2nd|p4flag=|pos4=",
+            "p5": "Honor|p5flag=|pos5=",
+            "p6": "mommyissues|p6flag=|pos6="
+        },
+        {
+            "team": "Terminut",
+            "p1": "Mimi|p1flag=|pos1=",
+            "p2": "Hovsep|p2flag=|pos2=",
+            "p3": "Flynn|p3flag=|pos3=",
+            "p4": "Seasaw|p4flag=|pos4=",
+            "p5": "TGISaiV|p5flag=|pos5=",
+            "p6": "catboy|p6flag=|pos6=",
+            "p7": "MakiRoll|p7flag=|pos7=",
+            "p8": "Elliegance|p8flag=|pos8=",
+            "p9": "vinzasian|p9flag=|pos9=",
+            "p10": "AMoistLamp|p10flag=|pos10=",
+            "p11": "Forx|p11flag=us|pos11="
+        },
+        {
+            "team": "Squid Squad Nautilus",
+            "p1": "Campion|p1flag=|pos1=dps",
+            "p2": "MyPingSucks|p2flag=|pos2=dps",
+            "p3": "That1Gamer|p3flag=|pos3=tank",
+            "p4": "AntiSkid|p4flag=us|pos4=tank",
+            "p5": "Sullysw|p5flag=|pos5=sup",
+            "p6": "ASHIE\u01c3|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Rhino|t2c1flag=|t2c1pos=coach"
+        },
+        {
+            "team": "Cosmic Castaways",
+            "p1": "train|p1flag=|pos1=|p1link=train (Cosmic Castaways player)",
+            "p2": "Kryy|p2flag=|pos2=",
+            "p3": "ScrimBux|p3flag=|pos3=|p3link=ScrimBux (Cosmic Castaways player)",
+            "p4": "Sippin\u01f7Fanta|p4flag=|pos4=",
+            "p5": "Pyro|p5flag=|pos5=",
+            "p6": "Polar|p6flag=|pos6=",
+            "p7": "apathy|p7flag=|pos7=",
+            "p8": "vix|p8flag=|pos8="
+        },
+        {
+            "team": "UNCW Seahawks",
+            "p1": "Whispy|p1flag=|pos1=dps",
+            "p2": "Cyr3n3|p2flag=|pos2=dps",
+            "p3": "H2O|p3flag=|pos3=",
+            "p4": "Banana|p4flag=|pos4=",
+            "p5": "Custard|p5flag=|pos5=",
+            "p6": "ChiefCandy|p6flag=|pos6="
+        },
+        {
+            "team": "N0t Dismiss3d Blue",
+            "p1": "Fireball|p1flag=|pos1=",
+            "p2": "Rosy|p2flag=|pos2=",
+            "p3": "Bohil|p3flag=|pos3=",
+            "p4": "\uc778\uc6d4|p4flag=|pos4=",
+            "p5": "LeBronzeJame|p5flag=|pos5=",
+            "p6": "Lalyx|p6flag=|pos6="
+        },
+        {
+            "team": "The 7 Stooges",
+            "p1": "Hades|p1flag=|pos1=|p1link=Hades (The 7 Stooges player)",
+            "p2": "PlasmaZX|p2flag=|pos2=",
+            "p3": "Applesauce|p3flag=|pos3=",
+            "p4": "Cag|p4flag=|pos4=",
+            "p5": "Blue|p5flag=|pos5=",
+            "p6": "OXYGEN|p6flag=|pos6=",
+            "p7": "Fluffy|p7flag=|pos7="
+        },
+        {
+            "team": "The Circus",
+            "p1": "alex|p1flag=|pos1=|p1link=alex (The Circus player)",
+            "p2": "ilikepliers|p2flag=|pos2=",
+            "p3": "deadlykitten|p3flag=|pos3=",
+            "p4": "Ennui|p4flag=|pos4=",
+            "p5": "OneTwo|p5flag=|pos5=",
+            "p6": "deity|p6flag=|pos6=",
+            "p7": "Emmeryn|pos7="
+        },
+        {
+            "team": "Council of Anime Girls",
+            "p1": "growloo|p1flag=us|pos1=dps",
+            "p2": "sempra|p2flag=ca|pos2=dps",
+            "p3": "Mushrooom|p3flag=us|pos3=dps",
+            "p4": "\u01f4\u013f\u016c\u0114D\u0114\u0194\u014e\u016c\u0212\u0114\u0212|p4flag=bd|pos4=tank",
+            "p5": "NyanMudkip|p5flag=us|pos5=tank",
+            "p6": "McSlammy|p6flag=us|pos6=sup",
+            "p7": "TheTrueGeek|p7flag=ca|pos7=sup",
+            "p8": "Mira|p8flag=us|pos8=sup",
+            "p9": "Clowndog500|p9flag=us|pos9=sup"
+        },
+        {
+            "team": "LSFC Academy",
+            "p1": "Quadrusk|p1flag=us|captain=true|pos1=dps",
+            "p2": "DaddyHanzo|p2flag=us|pos2=dps",
+            "p3": "Vexx|p3flag=us|pos3=tank",
+            "p4": "bndzaff|p4flag=us|pos4=tank",
+            "p5": "krovy|p5flag=us|pos5=tank",
+            "p6": "lanrekk|p6flag=us|pos6=sup",
+            "p7": "Fury|p7flag=us|pos7=sup|p7link=Fury (LSFC Academy player)",
+            "t2title": "Staff",
+            "t2c1": "MarcoDude|t2c1flag=ca|t2c1pos=coach",
+            "t2c2": "KVN|t2c2flag=ca|t2c2pos=coach"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2022-01-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|uncw seahawks|score=2}}",
+            "opponent2": "{{TeamOpponent|squid squad nautilus|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2022-01-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|council of catgirls|score=1}}",
+            "opponent2": "{{TeamOpponent|the circus|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2022-01-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|wichita wolves academy|score=2}}",
+            "opponent2": "{{TeamOpponent|emu esports|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2022-01-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|n0t dismiss3d|score=0}}",
+            "opponent2": "{{TeamOpponent|terminut|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2022-01-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|cosmic castaways|score=1}}",
+            "opponent2": "{{TeamOpponent|council of anime girls|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "2022-01-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|wsu gold|score=0}}",
+            "opponent2": "{{TeamOpponent|waypoint esports|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "2022-01-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|lsfc|score=2}}",
+            "opponent2": "{{TeamOpponent|project banana|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "2022-01-14",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|lsfc academy|score=2}}",
+            "opponent2": "{{TeamOpponent|the 7 stooges|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "2022-01-21",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|uncw seahawks|score=0}}",
+            "opponent2": "{{TeamOpponent|the circus|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2022-01-21",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|wichita wolves academy|score=2}}",
+            "opponent2": "{{TeamOpponent|terminut|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2022-01-21",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|council of anime girls|score=2}}",
+            "opponent2": "{{TeamOpponent|waypoint esports|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2022-01-21",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|lsfc|score=2}}",
+            "opponent2": "{{TeamOpponent|lsfc academy|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2022-01-28",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the circus|score=2}}",
+            "opponent2": "{{TeamOpponent|wichita wolves academy|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "2022-01-28",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|council of anime girls|score=2}}",
+            "opponent2": "{{TeamOpponent|lsfc|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "2022-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the circus|score=0}}",
+            "opponent2": "{{TeamOpponent|council of anime girls|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M1="
+        },
+        {
+            "date": "2022-01-21",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|council of catgirls|score=1}}",
+            "opponent2": "{{TeamOpponent|squid squad nautilus|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M9="
+        },
+        {
+            "date": "2022-01-21",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|n0t dismiss3d|score=0}}",
+            "opponent2": "{{TeamOpponent|emu esports|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M10="
+        },
+        {
+            "date": "2022-01-21",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|wsu gold|score=0}}",
+            "opponent2": "{{TeamOpponent|cosmic castaways|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M11="
+        },
+        {
+            "date": "2022-01-21",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the 7 stooges|score=0}}",
+            "opponent2": "{{TeamOpponent|project banana|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M12="
+        },
+        {
+            "date": "2022-01-28",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|lsfc academy|score=1}}",
+            "opponent2": "{{TeamOpponent|squid squad nautilus|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "2022-01-28",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|waypoint esports|score=0}}",
+            "opponent2": "{{TeamOpponent|emu esports|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "2022-01-28",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|terminut|score=2}}",
+            "opponent2": "{{TeamOpponent|cosmic castaways|score=1}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "2022-01-28",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|uncw seahawks|score=2}}",
+            "opponent2": "{{TeamOpponent|project banana|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "2022-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|squid squad nautilus|score=1}}",
+            "opponent2": "{{TeamOpponent|emu esports|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2022-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|terminut|score=2}}",
+            "opponent2": "{{TeamOpponent|uncw seahawks|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "2022-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|wichita wolves academy|score=2}}",
+            "opponent2": "{{TeamOpponent|emu esports|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "2022-02-04",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|lsfc|score=1}}",
+            "opponent2": "{{TeamOpponent|terminut|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "2022-02-11",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|wichita wolves academy|score=2}}",
+            "opponent2": "{{TeamOpponent|terminut|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "2022-02-11",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|the circus|score=2}}",
+            "opponent2": "{{TeamOpponent|wichita wolves academy|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M2="
+        },
+        {
+            "bestof": "5",
+            "date": "2022-02-18",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|council of anime girls|score=3}}",
+            "opponent2": "{{TeamOpponent|the circus|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R7M1="
+        }
+    ]
+}

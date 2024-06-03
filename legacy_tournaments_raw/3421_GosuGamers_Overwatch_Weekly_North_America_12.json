@@ -1,0 +1,342 @@
+{
+    "tournament_info": [
+        {
+            "name": "GosuGamers Overwatch Weekly NA #12",
+            "image": "",
+            "series": "GosuGamers NA",
+            "shortname": "12",
+            "organizer": "GosuGamers",
+            "country": "North America",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "type": "Online",
+            "date": "2016-06-12",
+            "prizepoolusd": "500",
+            "twitch": "gosugamers",
+            "twitch2": "",
+            "twitch3": "",
+            "gosugamers": "http://www.gosugamers.net/overwatch/tournaments/10906-gosugamers-overwatch-weekly-na-12/bracket",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "envy",
+            "teamsecond": "lg",
+            "teamthird": "gfe",
+            "teamthird2": "reunited",
+            "team_number": "127",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team EnVyUs",
+            "image": "",
+            "size": "",
+            "p1": "Talespin |p1flag=us",
+            "p2": "INTERNETHULK |p2flag=de",
+            "p3": "Taimou |p3flag=fi",
+            "p4": "cocco |p4flag=se",
+            "p5": "chipshajen |p5flag=se",
+            "p6": "HarryHook |p6flag=es"
+        },
+        {
+            "team": "REUNITED",
+            "image": "",
+            "size": "",
+            "p1": "Morte |p1flag=nl",
+            "p2": "2Easy |p2flag=nl",
+            "p3": "Kruise |p3flag=uk",
+            "p4": "Winghaven |p4flag=es",
+            "p5": "uNFixed |p5flag=ru",
+            "p6": "Vallutaja |p6flag=ee"
+        },
+        {
+            "team": "Luminosity Gaming",
+            "p1": "Seagull  |p1flag=us",
+            "p2": "Gods |p2flag=us",
+            "p3": "milo  |p3flag=us",
+            "p4": "Pookz  |p4flag=us",
+            "p5": "Esper  |p5flag=us",
+            "p6": "enigma  |p6flag=us"
+        },
+        {
+            "team": "Gale Force eSports",
+            "p1": "Jkw",
+            "p2": "NicolasTJO",
+            "p3": "torkTJO",
+            "p4": "harbleu",
+            "p5": "Joemeister |p5flag=us",
+            "p6": "Shake |p6flag=us"
+        },
+        {
+            "team": "SG-1",
+            "image": "",
+            "imagesize": "",
+            "p1": "hymzi |p1flag=fi",
+            "p2": "Seita |p2flag=fi",
+            "p3": "Lazei |p3flag=fi",
+            "p4": "mafu |p4flag=fi",
+            "p5": "Fragi |p5flag=fi",
+            "p6": "zappis |p6flag=fi"
+        },
+        {
+            "team": "Del + 5",
+            "image": "",
+            "size": "",
+            "p1": "NoNander |p1flag=se",
+            "p2": "Goldin |p2flag=us",
+            "p3": "Syvette |p3flag=us",
+            "p4": "DelTaco |p4flag=us",
+            "p5": "Arbacus |p5flag=ca",
+            "p6": "Gillz |p6flag=ca"
+        },
+        {
+            "team": "Sorry Mike",
+            "image": "",
+            "size": "",
+            "p1": "Manseau |p1flag=ca",
+            "p2": "chasm |p2flag=ca",
+            "p3": "Ethiopiaaaa |p3flag=us",
+            "p4": "pharaohz |p4flag=us",
+            "p5": "suff |p5flag=us",
+            "p6": "pMadnesS |p6flag=us"
+        },
+        {
+            "team": "Holobobos",
+            "image": "",
+            "size": "",
+            "p1": "CleanUpGuy |p1flag=se",
+            "p2": "fakeroo |p2flag=uk",
+            "p3": "LeKaiM |p3flag=nl",
+            "p4": "JiePie |p4flag=nl",
+            "p5": "vibbo |p5flag=se",
+            "p6": "Thy |p6flag=de"
+        },
+        {
+            "team": "Devastation",
+            "image": "",
+            "size": "",
+            "p1": "BurnseyGreen  |p1flag=us",
+            "p2": "junkbuck |p2flag=us",
+            "p3": "betea |p3flag=ca",
+            "p4": "Bani |p4flag=ca",
+            "p5": "cynikaL |p5flag=us",
+            "p6": "CutePoro |p6flag=kr"
+        },
+        {
+            "team": "1SHOT Esports",
+            "p1": "Ned |p1flag=us",
+            "p2": "Ultimawep |p2flag=us",
+            "p3": "Exi |p3flag=us",
+            "p4": "PsychoWaffle |p4flag=us",
+            "p5": "Krawnnic |p5flag=us",
+            "p6": "APotentBeast |p6flag=us"
+        },
+        {
+            "team": "b1am's boys",
+            "p1": "Sicarri |p1flag=us",
+            "p2": "juv3nile |p2flag=us",
+            "p3": "Innoruuk |p3flag=ca",
+            "p4": "b1am |p4flag=us",
+            "p5": "Michael3D |p5flag=us",
+            "p6": "emongg |p6flag=us"
+        },
+        {
+            "team": "Assertion Failed",
+            "p1": "Mini |p1flag=rs",
+            "p2": "horrific |p2flag=us",
+            "p3": "Dahun |p3flag=us",
+            "p4": "YouMustHooey |p4flag=us",
+            "p5": "Techicide |p5flag=us",
+            "p6": "DoT |p6flag=ca"
+        },
+        {
+            "team": "I'm your huckleberry",
+            "p1": "Pharaoh |p1flag=us",
+            "p2": "Avast |p2flag=us",
+            "p3": "Doom |p3flag=us",
+            "p4": "Ma3laa |p4flag=us",
+            "p5": "Piehero |p5flag=us",
+            "p6": "KinderParty |p6flag=us"
+        },
+        {
+            "team": "Team Eggplant",
+            "image": "",
+            "size": "",
+            "p1": "Bdropped |p1flag=us",
+            "p2": "TKQ |p2flag=us",
+            "p3": "CaptainPlanet |p3flag=us",
+            "p4": "ToxicTesla |p4flag=us",
+            "p5": "Rastsy |p5flag=us",
+            "p6": "tappedon |p6flag=us"
+        },
+        {
+            "team": "Street Hoops",
+            "image": "",
+            "size": "",
+            "p1": "D1sasta |p1flag=us",
+            "p2": "ShaneisaGhost |p2flag=us",
+            "p3": "ninjanick |p3flag=us",
+            "p4": "bl4nk |p4flag=us",
+            "p5": "duwatna |p5flag=us",
+            "p6": "shrugger |p6flag=us"
+        },
+        {
+            "team": "No Fast Guns",
+            "image": "",
+            "size": "",
+            "p1": "AgM |p1flag=us|p1link=agm(American Player)",
+            "p2": "Frisco |p2flag=us",
+            "p3": "Pho |p3flag=us",
+            "p4": "theJeffreh |p4flag=us",
+            "p5": "vee |p5flag=us",
+            "p6": "kasper |p6flag=us"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "i'm your huckleberry",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "envy",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "sg-1",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "assertion failed",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "sorry mike",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "gale force esports",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "del + 5",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "street hoops",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "holobobos",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "reunited",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "b1am's boys",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D11",
+            "team1": "1shot esports",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "devastation",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "lg",
+            "score1": "1",
+            "win1": "1"
+        },
+        {
+            "team2": "no fast guns",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "team eggplant",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "sg-1",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "envy",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "street hoops",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "gale force esports",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "b1am's boys",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "reunited",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "no fast guns",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "lg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "gale force esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "envy",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "lg",
+            "score2": "2",
+            "win2": "2",
+            "key": "R3W3",
+            "team1": "reunited",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "lg",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W1",
+            "team1": "envy",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,141 @@
+{{DISPLAYTITLE:DreamHack Summer 2018 - Female Tournament}}
+{{DreamHack Navbox}}<br>
+
+{{Infobox league
+|liquipediatier={{TierText/4}}
+|series=DreamHack
+|shortname=Summer 2018 - Female
+|name=DreamHack Summer 2018 - Female
+|image=DreamHack Black-RGB.png
+|icon=DH-star.png
+|organizer=DreamHack
+|sponsor=
+|type=Offline
+|country=Sweden
+|city=Jönköping
+|venue=
+|format=Double Elimination
+|twitch=
+|prizepool=9,000
+|localcurrency=SEK
+|prizepoolusd=1,021
+|date=2018-06-18
+|web=
+|bracket=https://challonge.com/om2rlimb
+|rulebook=
+|team_number=3
+}}
+
+==About==
+DreamHack Summer 2018 Overwatch Female Tournament is a BYOC LAN event held at DreamHack Summer 2018 for the Female community.
+
+===Format===
+* '''Playoffs''': Double Elimination
+** All matches are {{Abbr/Bo5}}.
+
+==Prize Pool==
+9,000 kr {{Abbr/SEK}} (~$1,021 {{Abbr/USD}}) are spread among the teams as seen below:
+{{prize pool start|localcurrency=sek|cutafter=4}}
+{{prize pool slot |place=1 |usdprize=1,021|localprize=9,000|team contemno|lastvs1=space monkey mafia|lastscore1=4 |lastvsscore1=3 }}
+{{prize pool slot |place=2 |usdprize=0|localprize=0|space monkey mafia|lastvs1=team contemno|lastscore1=3 |lastvsscore1=4 }}
+{{prize pool slot|place=3|usdprize=0|localprize=0|blueberries!|lastvs1=team contemno |lastscore1=0 |lastvsscore1=3 }}
+{{Prize pool end}}
+''Conversion values taken from [https://www.exchange-rates.org/Rate/USD/SEK/06-18-2018 exchange-rates.org] at 2018-06-18. 1 {{Abbr/USD}} ≈ 8.8156 {{Abbr/SEK}}''
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Team Contemno
+|p1=Leonix |p1flag=se |pos1=dps
+|p2=Daddysgirl |p2flag=se |pos2=dps |p2link=Emelichen
+|p3=Ettan |p3flag=se |pos3=tank
+|p4=Rezle |p4flag=se |pos4=tank
+|p5=Hemulen |p5flag=se |pos5=sup
+|p6=Ponkerino |p6flag=se |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Space Monkey Mafia
+|p1=Szanto |p1flag=se |pos1=dps
+|p2=Naviii |p2flag=se |pos2=dps
+|p3=Månike |p3flag=se |pos3=tank
+|p4=MeanieMy |p4flag=se |pos4=tank
+|p5=xaRies |p5flag=se |pos5=sup
+|p6=Liveja |p6flag=no |pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Blueberries!
+|image=
+|p1= |p1flag= |pos1=
+|p2= |p2flag= |pos2=
+|p3= |p3flag= |pos3=
+|p4= |p4flag= |pos4=
+|p5= |p5flag= |pos5=
+|p6= |p6flag= |pos6=
+}}
+{{box|end}}
+
+==Results==
+{{LegacyBracket|Bracket/4U2L1D|4DETeamBracket|type=team|id=AaNQ6x509L
+<!-- SEMIFINALS -->
+|R1D1team=team contemno |R1D1score=W |R1D1win=1
+|R1D2team=bye |R1D2score=- |R1D2win=
+
+|R1D3team=blueberries! |R1D3score=0 |R1D3win=
+|R1D4team=space monkey mafia |R1D4score=3 |R1D4win=1
+|R1G2details={{BracketMatchSummary
+|date=June 18, 2018
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- WINNER'S FINALS -->
+|R2W1team=team contemno |R2W1score=1 |R2W1win=
+|R2W2team=space monkey mafia |R2W2score=3 |R2W2win=1
+|R2G1details={{BracketMatchSummary
+|date=June 18, 2018
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- LOSER'S ROUND 1 -->
+|R1D5team=blueberries! |R1D5score=W |R1D5win=1
+|R1D6team=bye |R1D6score=- |R1D6win=
+
+<!-- LOSER'S FINALS -->
+|R2D1team=team contemno |R2D1score=3 |R2D1win=1
+|R2W3team=blueberries! |R2W3score=0 |R2W3win=
+|R2G2details={{BracketMatchSummary
+|date=June 18, 2018
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+<!-- GRAND FINALS -->
+|R3W1team=space monkey mafia |R3W1score=2 |R3W1win=
+|R3W2team=team contemno |R3W2score=3 |R3W2win=1
+|R3G1details={{BracketMatchSummary
+|date=June 18, 2018
+|finished=true
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}

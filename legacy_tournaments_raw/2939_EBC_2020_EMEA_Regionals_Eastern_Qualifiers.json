@@ -1,0 +1,530 @@
+{
+    "tournament_info": [
+        {
+            "name": "EBC EMEA Regionals Eastern Qualifiers",
+            "shortname": "EMEA Eastern Qualifiers",
+            "image": "EMEA_Eastern.png",
+            "series": "ebc",
+            "abbreviation": "EMEA Regionals",
+            "icon": "",
+            "tickername": "EBC Eastern Quali",
+            "organizer": "EBC",
+            "organizer-link": "https://ebc.gg",
+            "sponsor": "",
+            "country": "Europe",
+            "type": "Online",
+            "format": "Double Elimination",
+            "prizepool": "",
+            "prizepoolusd": "",
+            "sdate": "2020-07-20",
+            "edate": "2020-07-22",
+            "liquipediatier": "4|liquipediatiertype=Qualifier",
+            "web": "https://ebc.gg/",
+            "twitch": "EBC_gg",
+            "bracket": "https://battlefy.com/ebc/emea-regionals-eastern-qualifiers/5ee65fba39f34e119c7aa207/stage/5f142c7f2cba8f11c2a42b27/bracket/",
+            "rulebook": "https://docs.google.com/document/d/1Dxf1H216MFv27Shs4dJQ4WIup0SMA7NL75J5XeEE9yg/edit#heading=h.bk2mq2hgcbj4",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "29",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "\u0410\u0433\u0440\u0443\u0441\u0438\u0444 Studio"
+        },
+        {
+            "team": "ANBU"
+        },
+        {
+            "team": "BloodTrail",
+            "p1": "Azee|p1flag=ru|pos1=dps",
+            "p2": "Txao|pos2=flex",
+            "p3": "\u0422\u0430\u0439\u043d\u043e\u041a\u0440\u0430\u0431|p3flag=ru|pos3=tank",
+            "p4": "Alexey|p4flag=ru|pos4=tank",
+            "p5": "TSorcerer|p5flag=ru|pos5=sup",
+            "p6": "JuZu|p6flag=ru",
+            "p7": "SaKKiX22"
+        },
+        {
+            "team": "Carpe Diem",
+            "image": "",
+            "p1": "Miklekolp|p1flag=ru|pos1=tank",
+            "p2": "Sayh|p2flag=ru|pos2=tank",
+            "p3": "xwx|p3flag=ru|pos3=flex",
+            "p4": "Persephone|p4flag=ru|pos4=dps",
+            "p5": "Bekketilo|p5flag=ru|pos5=dps",
+            "p6": "Amber|p6flag=ru|pos6=sup",
+            "p7": "Chryzer|p7flag=ru|pos7=sup",
+            "p8": "Marijka|p8flag=ru|pos8=sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc |t2p1flag=ru |t2pos1=Coach"
+        },
+        {
+            "team": "Cura Te Ipsum",
+            "image": "Cura Te Ipsum.png",
+            "p1": "Kvilton|p1flag=ru|pos1=tank",
+            "p2": "Edicius|p2flag=ru|pos2=tank",
+            "p3": "Zitrox|p3flag=ru|pos3=flex",
+            "p4": "Laffy|p4flag=ru|pos4=dps",
+            "p5": "\u0421\u043e\u0441\u0438\u0441\u043e\u0447\u043a\u0430|p5flag=ru|pos5=dps",
+            "p6": "Kanodian|p6flag=ru|pos6=sup",
+            "p7": "Destruction|p7flag=lv|pos7=sup",
+            "p8": "BuLLDog|p8flag=ru|pos8=flex",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc |t2p1flag=ru |t2pos1=manager"
+        },
+        {
+            "team": "Damoclis Gladius",
+            "image": "",
+            "p1": "M\u0435l|p1flag=ru|pos1=tank",
+            "p2": "m0lner|p2flag=ru|pos2=tank",
+            "p3": "r4Nd1|p3flag=ru|pos3=dps",
+            "p4": "Tensi|p4flag=ru|pos4=dps",
+            "p5": "Pantagruel|p5flag=ru|pos5=sup",
+            "p6": "SamBugatti|p6flag=ru|pos6=sup",
+            "p7": "Rosenrot|p7flag=ru|pos7=flex",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc |t2p1flag=ru |t2pos1=manager"
+        },
+        {
+            "team": "Erebor Dwarfs"
+        },
+        {
+            "team": "F30"
+        },
+        {
+            "team": "FAC MEDIE"
+        },
+        {
+            "team": "Green grass"
+        },
+        {
+            "team": "Last6BrainCells",
+            "p1": "Samurai|p1flag=ee|pos1=tank",
+            "p2": "Chroo|p2flag=ee|pos2=tank",
+            "p3": "Yuki |p3link=Yuki (British Player)|p3flag=uk|pos3=dps",
+            "p4": "SKyZOs |p4flag=be|pos4=dps",
+            "p5": "Swedishsanta |p5flag=se|pos5=sup",
+            "p6": "Oxy |p6flag=dk|pos6=sup"
+        },
+        {
+            "team": "Legion of Light"
+        },
+        {
+            "team": "LVA Agro"
+        },
+        {
+            "team": "LVA Lynxes",
+            "p1": "imaleo|p1flag=lv|pos1=tank",
+            "p2": "Secret|p2flag=be|pos2=tank|p2link=Secret(be player)",
+            "p3": "Derpyyy|p3flag=uk|pos3=dps",
+            "p4": "Kuraki|p4flag=fi|pos4=dps",
+            "p5": "z1d9ne|p5flag=uk|pos5=dps",
+            "p6": "Blessie|p6flag=lv|pos6=sup",
+            "p7": "BuhenValds|p7flag=lv|pos7=sup",
+            "c1": "GGMentality"
+        },
+        {
+            "team": "Modern renegades"
+        },
+        {
+            "team": "Oniel Team"
+        },
+        {
+            "team": "SOFA HEROES"
+        },
+        {
+            "team": "Spirans Cadaver",
+            "image": "",
+            "p1": "XStrike|p1flag=ru|pos1=tank",
+            "p2": "Sunders99|p2flag=ru|pos2=tank",
+            "p3": "Antonis|p3flag=ru|pos3=tank",
+            "p4": "Sudden|p4flag=ru|pos4=dps",
+            "p5": "Barbarossa|p5flag=ru|pos5=dps",
+            "p6": "Sehrsch\u00f6ne|p6flag=ru|pos6=flex",
+            "p7": "k0p4|p7flag=ru|pos7=flex",
+            "p8": "GnKonkort|p8flag=ru|pos8=sup",
+            "p9": "Khimik|p9flag=ru|pos9=sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc |t2p1flag=ru |t2pos1=manager"
+        },
+        {
+            "team": "Tale Quale",
+            "image": "Tale Quale.png",
+            "p1": "Baboska|p1flag=ru|pos1=tank",
+            "p2": "MyRKa|p2flag=ru|pos2=tank",
+            "p3": "Alix|p3flag=ru|pos3=flex",
+            "p4": "SanekTheRio|p4flag=ru|pos4=dps",
+            "p5": "Indris|p5flag=ru|pos5=dps",
+            "p6": "\u0410\u043d\u0434\u0440\u0435\u0439\u041a\u043e\u043b\u0434\u0443\u043d|p6flag=ru|pos6=dps",
+            "p7": "DarthMurloc|p7flag=ru|pos7=sup",
+            "p8": "Oawin|p8flag=ru|pos8=sup",
+            "p9": "ChosenBrad10|p9flag=ru|pos9=sup",
+            "c1": "Willow|c1flag=ru"
+        },
+        {
+            "team": "Team Fury"
+        },
+        {
+            "team": "The 7th Squad"
+        },
+        {
+            "team": "Toxic Tea"
+        },
+        {
+            "team": "Yarus"
+        },
+        {
+            "team": "Zmeuyga \u049b\u0430\u0440\u0430\u043b\u0434\u044b 56 \u0416\u044b\u043b \u0431\u04b1\u0440\u044b\u043d"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "the 7th squad",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "f30",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "lva lynxes",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "damoclis gladius",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "toxic tea",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D5",
+            "team1": "carpe diem",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bloodtrail",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "modern renegades",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "team fury",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "Zmeuyga \u049b\u0430\u0440\u0430\u043b\u0434\u044b 56 \u0416\u044b\u043b \u0431\u04b1\u0440\u044b\u043d",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "anbu",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "oniel team",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "green grass",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D13",
+            "team1": "spirans cadaver",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "last6braincells",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D15",
+            "team1": "lva agro",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "lva lynxes",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "f30",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "bloodtrail",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W3",
+            "team1": "toxic tea",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "oniel team",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W5",
+            "team1": "Zmeuyga \u049b\u0430\u0440\u0430\u043b\u0434\u044b 56 \u0416\u044b\u043b \u0431\u04b1\u0440\u044b\u043d",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "last6braincells",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W7",
+            "team1": "spirans cadaver",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "bloodtrail",
+            "score2": "2",
+            "win2": "1",
+            "key": "R5W1",
+            "team1": "f30",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "last6braincells",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W3",
+            "team1": "Zmeuyga \u049b\u0430\u0440\u0430\u043b\u0434\u044b 56 \u0416\u044b\u043b \u0431\u04b1\u0440\u044b\u043d",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Zmeuyga \u049b\u0430\u0440\u0430\u043b\u0434\u044b 56 \u0416\u044b\u043b \u0431\u04b1\u0440\u044b\u043d",
+            "score2": "0",
+            "win2": "",
+            "key": "R7W1",
+            "team1": "bloodtrail",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "legion of light",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D17",
+            "team1": "lva agro",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "tale quale",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D19",
+            "team1": "green grass",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "cura te ipsum",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D21",
+            "team1": "anbu",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "\u0410\u0433\u0440\u0443\u0441\u0438\u0444 Studio",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D23",
+            "team1": "team fury",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "sofa heroes",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D25",
+            "team1": "modern renegades",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "erebor dwarfs",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D27",
+            "team1": "carpe diem",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "fac medie",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D29",
+            "team1": "damoclis gladius",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "yarus",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D31",
+            "team1": "the 7th squad",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "tale quale",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "lva agro",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "\u0410\u0433\u0440\u0443\u0441\u0438\u0444 Studio",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "anbu",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "carpe diem",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W5",
+            "team1": "modern renegades",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "the 7th squad",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W7",
+            "team1": "damoclis gladius",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "tale quale",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3D1",
+            "team1": "toxic tea",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "\u0410\u0433\u0440\u0443\u0441\u0438\u0444 Studio",
+            "score2": "1",
+            "win2": "",
+            "key": "R3D2",
+            "team1": "lva lynxes",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "modern renegades",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3D3",
+            "team1": "spirans cadaver",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "damoclis gladius",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3D4",
+            "team1": "oniel team",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "lva lynxes",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "tale quale",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "damoclis gladius",
+            "score2": "0",
+            "win2": "",
+            "key": "R4W3",
+            "team1": "modern renegades",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "lva lynxes",
+            "score2": "2",
+            "win2": "1",
+            "key": "R5D1",
+            "team1": "last6braincells",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "modern renegades",
+            "score2": "0",
+            "win2": "",
+            "key": "R5D2",
+            "team1": "f30",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "f30",
+            "score2": "2",
+            "win2": "1",
+            "key": "R6W1",
+            "team1": "lva lynxes",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "f30",
+            "score2": "2",
+            "win2": "1",
+            "key": "R7D1",
+            "team1": "Zmeuyga \u049b\u0430\u0440\u0430\u043b\u0434\u044b 56 \u0416\u044b\u043b \u0431\u04b1\u0440\u044b\u043d",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "f30",
+            "score2": "0",
+            "win2": "",
+            "key": "R8W1",
+            "team1": "bloodtrail",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

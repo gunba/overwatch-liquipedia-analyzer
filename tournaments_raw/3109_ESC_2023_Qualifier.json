@@ -1,0 +1,156 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Qualifier",
+            "name": "Esports Collegiate Conference 2023",
+            "tickername": "ESC Playoffs",
+            "shortname": "ESC Playoffs 23",
+            "series": "Esports Collegiate Conference|abbreviation=ESC",
+            "image": "Esports_Collegiate_Conference_overwatch_allmode.png",
+            "icon": "Esports_Collegiate_Conference_overwatch_icon_allmode.png",
+            "organizer": "eFuse",
+            "sponsor": "[https://efuse.gg/ eFuse]<br>[https://nelnet.com/welcome Nelnet]",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "United States",
+            "format": "Single Elimination",
+            "sdate": "2023-01-24",
+            "edate": "2023-04-11",
+            "rules": "https://docs.google.com/document/d/e/2PACX-1vTJgcTa5bIb_RIe5HcNVvzn7NYKKenOqcPpL7-3H54_t4bmh60EGO-8U-fKk36Sq6GkEt_nKC6PZSPn/pub",
+            "twitter": "ESC_Conference",
+            "twitch": "ESC_Conference",
+            "team_number": "13"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Akron University",
+            "p1": "maxxrz31|p1flag=us|pos1=flex",
+            "p2": "Jettcon|p2flag=us|pos2=dps",
+            "p3": "DSGElement|p3flag=us|pos3=sup",
+            "p4": "Tosmino|p4flag=us|pos4=sup",
+            "p5": "PIxeledstar|p5flag=us|pos5=sup",
+            "p6": "DSGElement|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Ball State Red",
+            "p1": "Spencer|p1flag=us|pos1=dps",
+            "p2": "NinjaCurlyFry|p2flag=us|pos2=dps",
+            "p3": "Manwe|p3flag=us|pos3=tank",
+            "p4": "Yakester|p4flag=us|pos4=sup",
+            "p5": "RavenStrider|p5flag=us|pos5=sup"
+        },
+        {
+            "team": "Bowling Green",
+            "p1": "Echo|p1flag=us|pos1=dps|p1link=Echo (American Player)",
+            "p2": "Shadysnare|p2flag=us|pos2=dps",
+            "p3": "N1ghtmare|p3flag=us|pos3=tank",
+            "p4": "Whiteviper|p4flag=us|pos4=flex",
+            "p5": "Wubz|p5flag=us|pos5=flex"
+        },
+        {
+            "team": "Central Michigan",
+            "p1": "Pooper|p1flag=us|pos1=flex",
+            "p2": "Wazoo|p2flag=us|pos2=dps",
+            "p3": "VGLBobcat|p3flag=us|pos3=tank",
+            "p4": "KnightMarina|p4flag=us|pos4=sup",
+            "p5": "Kiefer|p5flag=us|pos5=sup",
+            "p6": "Niro|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Kent State",
+            "p1": "Vyrul|p1flag=us|pos1=dps",
+            "p2": "Vortex|p2flag=us|pos2=dps",
+            "p3": "Abluecard|p3flag=us|pos3=dps",
+            "p4": "Wildthing|p4flag=us|pos4=tank",
+            "p5": "Icarus|p5flag=us|pos5=sup",
+            "p6": "Secret|p6flag=us|pos6=sup|p6link=Secret (American Player)",
+            "p7": "ScatmanShawn|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Miami University",
+            "p1": "CGS|p1flag=us|pos1=dps",
+            "p2": "Bonesaw|p2flag=us|pos2=dps",
+            "p3": "skrtle|p3flag=us|pos3=dps",
+            "p4": "KaBunga|p4flag=us|pos4=tank",
+            "p5": "Shocker|p5flag=us|pos5=sup",
+            "p6": "Fahzix|p6flag=us|pos6=sup",
+            "p7": "Jaybird|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Northeastern University|link=Northeastern University",
+            "p1": "Hedwig|p1flag=us|pos1=dps",
+            "p2": "Woah|p2flag=us|pos2=dps",
+            "p3": "NeatZ|p3flag=us|pos3=dps",
+            "p4": "Frisco|p4flag=us|pos4=tank|p4link=Frisco (American Player)",
+            "p5": "SCL33|p5flag=us|pos5=tank",
+            "p6": "qghop|p6flag=us|pos6=sup",
+            "p7": "timid|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Temporal|t2cflag=us|t2c1pos=Coach"
+        },
+        {
+            "team": "Northern Illinois University",
+            "p1": "Tokotoro|p1flag=us|pos1=dps",
+            "p2": "Austy125|p2flag=us|pos2=dps",
+            "p3": "Flawless|p3flag=us|pos3=tank|p3link=Flawless (American player)",
+            "p4": "Dietox|p4flag=us|pos4=tank",
+            "p5": "HAZE|p5flag=us|pos5=sup",
+            "p6": "PKZER0|p6flag=us|pos6=sup",
+            "p7": "Racer|p7flag=us|pos7=sup",
+            "p8": "raspberry34|p8flag=us|pos8=sup"
+        },
+        {
+            "team": "Northern Kentucky University",
+            "p1": "Slippy|p1flag=us|pos1=dps",
+            "p2": "zecktron|p2flag=us|pos2=dps",
+            "p3": "Reowned|p3flag=us|pos3=tank",
+            "p4": "Amari|p4flag=us|pos4=sup",
+            "p5": "Kiwi|p5flag=us|pos5=sup|p5link=Kiwi (American player)",
+            "p6": "Missplay|p6flag=us|pos6=sup"
+        },
+        {
+            "team": "Ohio University",
+            "p1": "Akusoura|p1flag=us|pos1=dps",
+            "p2": "kuna|p2flag=us|pos2=dps",
+            "p3": "craZmanG|p3flag=us|pos3=tank",
+            "p4": "Slowo|p4flag=gr|pos4=sup",
+            "p5": "Water|p5flag=us|pos5=sup|p5link=Water (American player)",
+            "p6": "Lando|p6flag=us|pos6=sup",
+            "p7": "Muck|p7flag=us|pos7=flex"
+        },
+        {
+            "team": "University of Toledo",
+            "p1": "Momo|p1flag=us|pos1=dps",
+            "p2": "Neomve|p2flag=us|pos2=dps",
+            "p3": "SKRRSKRR|p3flag=us|pos3=dps",
+            "p4": "Jbart|p4flag=us|pos4=dps",
+            "p5": "Flake|p5flag=us|pos5=dps|p5link=Flake (American player)",
+            "p6": "RogueVoid|p6flag=us|pos6=sup",
+            "p7": "Drew16|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "University of Buffalo",
+            "p1": "Mudkip|p1flag=us|pos1=dps|p1link=Mudkip (American Player)",
+            "p2": "Alive|p2flag=us|pos2=dps",
+            "p3": "Rozerai|p3flag=us|pos3=dps",
+            "p4": "Plasma|p4flag=us|pos4=tank",
+            "p5": "Firealizon|p5flag=us|pos5=tank",
+            "p6": "LordThethan|p6flag=us|pos6=sup",
+            "p7": "carrot|p7flag=us|pos7=sup",
+            "p8": "EvilEmpireKid|p8flag=us|pos8=flex",
+            "p9": "Bezo|p9flag=us|pos9=flex"
+        },
+        {
+            "team": "Western Michigan University",
+            "p1": "Keefr|p1flag=us|pos1=dps",
+            "p2": "Brother|p2flag=us|pos2=dps|p2link=Brother (American player)",
+            "p3": "Arcane|p3flag=us|pos3=dps|p3link=Arcane (American player)",
+            "p4": "Tyco|p4flag=us|pos4=tank",
+            "p5": "Vexa|p5flag=us|pos5=sup",
+            "p6": "PrimeEvil|p6flag=us|pos6=sup",
+            "p7": "V2BE|p7flag=us|pos7=sup"
+        }
+    ],
+    "match_cards": []
+}

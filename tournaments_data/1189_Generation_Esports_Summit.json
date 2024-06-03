@@ -1,0 +1,707 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "Generation Esports Summit Invitational",
+            "shortname": "Generation Esports Summit Invitational",
+            "tickername": "GenE Summit Invitational",
+            "image": "Generation Esports Summits allmode.png",
+            "series": "Generation Esports",
+            "abbreviation": "GE",
+            "organizer": "Generation Esports",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "prizepoolusd": "1500",
+            "date": "2023-05-06",
+            "edate": "2023-05-07",
+            "twitter": "joingenesports",
+            "twitch": "BadPachimariLeague",
+            "web": "https://generationesports.com/",
+            "web2": "https://gene.slmn.gg/",
+            "youtube": "UC4qtF91PT2qjmDv6xKTGraQ",
+            "facebook": "joingenesports",
+            "instagram": "joingenesports",
+            "discord": "DMkEjWj",
+            "rulebook": "https://help.generationesports.com/hc/en-us/articles/12261235599252-Summits-Overwatch-2-Rules",
+            "bracket": "https://gene.slmn.gg/bracket",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "citrus",
+            "p1": "Danny",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p1link": "Danny (American Player)",
+            "p2": "ultimawep",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "Zeb",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Floomfie",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "zman",
+            "p5flag": "us",
+            "pos5": "sup",
+            "p6": "M1kan",
+            "p6flag": "us",
+            "pos6": "sup",
+            "qualifier": "[[/Qualifier 1|Qualifier 1]]",
+            "placement": "1"
+        },
+        {
+            "team": "Nuclear Levels of Sour",
+            "p1": "Melophobia",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Fone",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "m5ri",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "Meman",
+            "p4flag": "us",
+            "pos4": "sup",
+            "p5": "keroppi",
+            "p5flag": "us",
+            "pos5": "sup",
+            "qualifier": "[[/Qualifier 1|Qualifier 1]]",
+            "placement": "2"
+        },
+        {
+            "team": "Malaka",
+            "p1": "AbductorP",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Chief",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Exitium",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Malkery",
+            "p4flag": "",
+            "pos4": "sup",
+            "p5": "Classic",
+            "p5flag": "",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "h2dr0gen",
+            "t2c1flag": "kr",
+            "t2c1pos": "coach",
+            "qualifier": "[[/Qualifier 1|Qualifier 1]]",
+            "placement": "3"
+        },
+        {
+            "team": "O3 Splash",
+            "p1": "LukeWarm",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Aeko",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "MattMerc",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "cowman711",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "graham",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Fix",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "Neutral",
+            "p7flag": "",
+            "pos7": "sup",
+            "t2title": "Staff",
+            "t2c1": "debit",
+            "t2c1pos": "manager",
+            "t2c2": "junseo",
+            "t2c2pos": "manager",
+            "qualifier": "[[/Qualifier 2|Qualifier 2]]",
+            "placement": "1",
+            "inotes": "{{NoteBig",
+            "n1": "[[03 Splash]] replaces to [[The Matrix]]."
+        },
+        {
+            "team": "NAvoided",
+            "p1": "Xomba",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Quiet7Entity",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "ZBRA",
+            "p3flag": "us",
+            "pos3": "tank",
+            "p4": "luka",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Cyber",
+            "p5flag": "us",
+            "pos5": "tank",
+            "p6": "YouFool",
+            "p6flag": "us",
+            "pos6": "sup",
+            "p7": "Gorilla",
+            "p7flag": "ca",
+            "pos7": "sup",
+            "qualifier": "[[/Qualifier 2|Qualifier 2]]",
+            "placement": "2"
+        },
+        {
+            "team": "Worldwide",
+            "p1": "Crime",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Emmeryn",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "sawhill",
+            "p3flag": "ca",
+            "pos3": "tank",
+            "p4": "Baz",
+            "p4flag": "us",
+            "pos4": "tank",
+            "p5": "redex",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "NolanCoronaV",
+            "p6flag": "ca",
+            "pos6": "sup",
+            "qualifier": "[[/Qualifier 2|Qualifier 2]]",
+            "placement": "3"
+        },
+        {
+            "team": "Sleepover Party",
+            "p1": "Jazza",
+            "p1flag": "us",
+            "pos1": "dps",
+            "p2": "Glacial",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "HaMmEr",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "jishua",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Garchomp",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "G\u00fcnther",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "Shaq",
+            "p7flag": "",
+            "pos7": "sup",
+            "p8": "Orion",
+            "p8flag": "",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "GoldFish",
+            "t2c1flag": "us",
+            "t2c1pos": "coach",
+            "qualifier": "[[/Last Chance Qualifier|Last Chance Qualifier]]",
+            "placement": "1"
+        },
+        {
+            "team": "Pellissippi State",
+            "p1": "RikuKaneko",
+            "p1flag": "us",
+            "pos1": "",
+            "p2": "OrcaElite",
+            "p2flag": "us",
+            "pos2": "",
+            "p3": "Jesse14556",
+            "p3flag": "us",
+            "pos3": "",
+            "p4": "Sk3tch",
+            "p4flag": "us",
+            "pos4": "",
+            "p5": "Poob",
+            "p5flag": "us ",
+            "pos5": "",
+            "p6": "Terrako",
+            "p6flag": "us",
+            "pos6": "",
+            "p7": "Suspencer",
+            "p7flag": "us",
+            "pos7": "",
+            "p8": "Repto",
+            "p8flag": "us",
+            "pos8": "",
+            "qualifier": "[[/Last Chance Qualifier|Last Chance Qualifier]]",
+            "placement": "2"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "May 6, 2023 - 15:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "BadPachimariLeague",
+            "opponent1": "citrus|score=",
+            "opponent2": "pellissippi state|score=",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "King's Row",
+                "mode": "Hybrid",
+                "score1": "2",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "1",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "May 6, 2023 - 15:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "navoided",
+            "opponent1_score": 3,
+            "opponent2": "worldwide",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "May 6, 2023 - 15:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "nuclear levels of sour",
+            "opponent1_score": 3,
+            "opponent2": "malaka",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "May 6, 2023 - 15:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "o3 splash",
+            "opponent1_score": 3,
+            "opponent2": "sleepover party",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "May 6, 2023 - 16:30",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "citrus",
+            "opponent1_score": 3,
+            "opponent2": "navoided",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "May 6, 2023 - 16:30",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "BadPachimariLeague",
+            "opponent1": "nuclear levels of sour|score=",
+            "opponent2": "o3 splash|score=",
+            "map1": {
+                "map": "Oasis",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Eichenwalde",
+                "mode": "Hybrid",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "May 6, 2023 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "BadPachimariLeague",
+            "opponent1": "citrus|score=",
+            "opponent2": "o3 splash|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Dorado",
+                "mode": "Escort",
+                "score1": "0",
+                "score2": "1",
+                "winner": "2"
+            },
+            "map4": {
+                "map": "Colosseo",
+                "mode": "Push",
+                "score1": "75.42m",
+                "score2": "76.75m",
+                "winner": "2"
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "May 6, 2023 - 16:30",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "pellissippi state|score=W",
+            "opponent2": "worldwide|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "May 6, 2023 - 16:30",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "malaka",
+            "opponent1_score": 0,
+            "opponent2": "sleepover party",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "May 6, 2023 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "nuclear levels of sour",
+            "opponent1_score": 3,
+            "opponent2": "pellissippi state",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "May 6, 2023 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "navoided",
+            "opponent1_score": 3,
+            "opponent2": "sleepover party",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "May 7, 2023 - 15:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "nuclear levels of sour",
+            "opponent1_score": 0,
+            "opponent2": "navoided",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "May 7, 2023 - 16:30",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "BadPachimariLeague",
+            "opponent1": "citrus|score=",
+            "opponent2": "navoided|score=",
+            "map1": {
+                "map": "Lijiang Tower",
+                "mode": "Control",
+                "score1": "0",
+                "score2": "2",
+                "winner": "2"
+            },
+            "map2": {
+                "map": "Hollywood",
+                "mode": "Hybrid",
+                "score1": "1",
+                "score2": "3",
+                "winner": "2"
+            },
+            "map3": {
+                "map": "Circuit Royal",
+                "mode": "Escort",
+                "score1": "3",
+                "score2": "1",
+                "winner": "1"
+            },
+            "map4": {
+                "map": "Esperan\u00e7a",
+                "mode": "Push",
+                "score1": "105.28m",
+                "score2": "97.59m",
+                "winner": "1"
+            },
+            "map5": {
+                "map": "Nepal",
+                "mode": "Control",
+                "score1": "2",
+                "score2": "0",
+                "winner": "1"
+            },
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "7",
+            "date": "May 7, 2023 - 18:00",
+            "date_timezone": "EDT",
+            "youtube": "",
+            "twitch": "BadPachimariLeague",
+            "opponent1": "o3 splash|score=W",
+            "opponent2": "citrus|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "comment": "[[Citrus]] forfeit due to scheduling conflicts with [[Open_Division/2023/Summer_Qualifier/North_America|Open Division]].",
+            "optional": "R5M1="
+        }
+    ]
+}

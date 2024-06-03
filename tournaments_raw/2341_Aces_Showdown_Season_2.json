@@ -1,0 +1,278 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Aces\u2019Showdown Season 2",
+            "shortname": "Aces\u2019Showdown S2",
+            "tickername": "Aces\u2019Showdown S2",
+            "icon": "Aces\u2019Showdown2.png",
+            "image": "Aces\u2019Showdown2.png",
+            "series": "",
+            "abbreviation": "",
+            "organizer": "Swem",
+            "organizer-link": "",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Poland",
+            "game": "overwatch2",
+            "format": "Double elimination",
+            "localcurrency": "pln",
+            "prizepool": "2300",
+            "sdate": "2023-09-01",
+            "edate": "2023-10-15",
+            "twitter": "AcesShowdown",
+            "web": "",
+            "twitch": "acesshowdown",
+            "discord": "acesshowdown",
+            "youtube": "@acesshowdown7656",
+            "rulebook": "",
+            "bracket": "",
+            "team_number": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Metaboiz",
+            "p1": "Philion|p1flag=|pos1=dps",
+            "p2": "Icav|p2flag=pl|pos2=dps",
+            "p3": "FakeJake|p3flag=pl|pos3=dps",
+            "p4": "FOREVER774|pos4=tank",
+            "p5": "Mika26b|p5flag=pl|pos5=tank",
+            "p6": "Teksol|p6flag=pl|pos6=sup",
+            "p7": "Flipper|p7flag=pl|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Algos05|t2c1flag=de|t2c1pos=Manager"
+        },
+        {
+            "team": "Domino G4mbit",
+            "p1": "Szatan|p1flag=pl|pos1=dps",
+            "p2": "Mewer|p2flag=pl|pos2=dps",
+            "p3": "Aniov|p3flag=pl|pos3=dps",
+            "p4": "Outsider|p4flag=pl|pos4=tank",
+            "p5": "Shaddo|p5flag=pl|pos5=tank",
+            "p6": "Alex2389|p6flag=pl|pos6=sup",
+            "p7": "Lunatic|p7flag=pl|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Weza|t2c1flag=pl|t2c1pos=Manager",
+            "t2c2": "Merc|t2c2flag=se|t2c2pos=Coach"
+        },
+        {
+            "team": "Bingus Squad",
+            "p1": "Senji|p1flag=pl|pos1=dps",
+            "p2": "Shy.|p2flag=pl|pos2=dps",
+            "p3": "Serein|p3flag=pl|pos3=dps",
+            "p4": "Eight|p4flag=pl|pos4=tank",
+            "p5": "Rezlusiowa|p5flag=pl|pos5=tank",
+            "p6": "Merix|p6flag=pl|pos6=sup",
+            "p7": "TheSnake|p7flag=pl|pos7=sup",
+            "p8": "Cygi|p8flag=pl|pos8=sup",
+            "p9": "LondonRick|p9flag=pl|pos9=sup",
+            "t2title": "Staff",
+            "t2c1": "LondonRick|t2c1flag=pl|t2c1pos=Coach"
+        },
+        {
+            "team": "BlackListed",
+            "p1": "Senju|p1flag=pl|pos1=dps",
+            "p2": "BlasQu|p2flag=pl|pos2=dps",
+            "p3": "Skyy|p3flag=pl|pos3=dps",
+            "p4": "Smoro|p4flag=pl|pos4=tank",
+            "p5": "Pasiw0|p5flag=pl|pos5=tank",
+            "p6": "Szynszyl|p6flag=pl|pos6=sup",
+            "p7": "UnUm|p7flag=pl|pos7=sup",
+            "p8": "Ugu\u015b|p8flag=pl|pos8=sup",
+            "p9": "Eliot|p9flag=pl|pos9=sup",
+            "t2title": "Staff",
+            "t2c1": "Laz|t2c1flag=pl|t2c1pos=Manager",
+            "t2c2": "Virtuzz|t2c2flag=pl|t2c2pos=Manager"
+        },
+        {
+            "team": "L9",
+            "p1": "Buldo\u017cer|p1flag=pl|pos1=dps",
+            "p2": "Blacha2115|p2flag=pl|pos2=dps",
+            "p3": "CichyZefir|p3flag=pl|pos3=dps",
+            "p4": "Pgcl|p4flag=pl|pos4=tank",
+            "p5": "CQX|p5flag=pl|pos5=tank",
+            "p6": "Lily.|p6flag=pl|pos6=tank",
+            "p7": "Oceanicpit|p7flag=pl|pos7=sup",
+            "p8": "Virtuzz|p8flag=pl|pos8=sup"
+        },
+        {
+            "team": "Midnight",
+            "p1": "Sadeg|p1flag=pl|pos1=dps",
+            "p2": "r0NNiM|p2flag=pl|pos2=dps",
+            "p3": "No240Hz|p3flag=pl|pos3=dps",
+            "p4": "Curse|p4flag=pl|pos4=tank",
+            "p5": "Szczawik|p5flag=pl|pos5=tank",
+            "p6": "Sapphire|p6flag=pl|pos6=sup",
+            "p7": "GoracaJusta|p7flag=pl|pos7=sup",
+            "p8": "Alastor|p8flag=pl|pos8=sup"
+        },
+        {
+            "team": "United kittens",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Eclipse Enforcers",
+            "p1": "Sental|p1flag=pl|pos1=dps",
+            "p2": "Sounes|p2flag=pl|pos2=dps",
+            "p3": "Dogge|p3flag=pl|pos3=tank",
+            "p4": "Szymis|p4flag=pl|pos4=tank",
+            "p5": "Maksmh|p5flag=pl|pos5=tank",
+            "p6": "Marselid|p6flag=pl|pos6=sup",
+            "p7": "TheWilczur|p7flag=pl|pos7=sup",
+            "p8": "Nuxty|p8flag=pl|pos8=sup",
+            "p9": "Policarp|p9flag=pl|pos9=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "{{TeamOpponent|Bingus Squad|score=3}}",
+            "opponent2": "{{TeamOpponent|Babolownia|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|The Avoided|score=1}}",
+            "opponent2": "{{TeamOpponent|L9|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Royal dogs|score=0}}",
+            "opponent2": "{{TeamOpponent|Eclipse|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Broken shards|score=0}}",
+            "opponent2": "{{TeamOpponent|Midnight|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Blacklisted|score=3}}",
+            "opponent2": "{{TeamOpponent|Bingus Squad|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|United kittens|score=0}}",
+            "opponent2": "{{TeamOpponent|L9|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|G4mbit|score=3}}",
+            "opponent2": "{{TeamOpponent|Eclipse|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Metaboiz|score=3}}",
+            "opponent2": "{{TeamOpponent|Midnight|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Bingus Squad|score=3}}",
+            "opponent2": "{{TeamOpponent|L9|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|G4mbit|score=0}}",
+            "opponent2": "{{TeamOpponent|Metaboiz|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Bingus Squad|score=0}}",
+            "opponent2": "{{TeamOpponent|Metaboiz|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Blacklisted|score=3}}",
+            "opponent2": "{{TeamOpponent|United kittens|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Eclipse|score=0}}",
+            "opponent2": "{{TeamOpponent|Midnight|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "opponent1": "{{TeamOpponent|L9|score=0}}",
+            "opponent2": "{{TeamOpponent|Blacklisted|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M3="
+        },
+        {
+            "opponent1": "{{TeamOpponent|G4mbit|score=3}}",
+            "opponent2": "{{TeamOpponent|Midnight|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M4="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Blacklisted|score=2}}",
+            "opponent2": "{{TeamOpponent|G4mbit|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Bingus Squad|score=0}}",
+            "opponent2": "{{TeamOpponent|G4mbit|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M2="
+        },
+        {
+            "opponent1": "{{TeamOpponent|Metaboiz|score=4}}",
+            "opponent2": "{{TeamOpponent|G4mbit|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R6M1="
+        }
+    ]
+}

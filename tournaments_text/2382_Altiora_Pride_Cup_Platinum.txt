@@ -1,0 +1,103 @@
+{{DISPLAYTITLE:Altiora Pride Cup - Platinum & Below Division}}
+{{Tabs static
+|name1=EU Grandmaster|link1=Altiora Pride Cup/Grandmaster
+|name2=EU Diamond/Masters|link2=Altiora Pride Cup/Diamond/Masters
+|name3=EU Platinum|link3=Altiora Pride Cup/Platinum
+|name4=NA Grandmaster|link4=Alternate Pride Cup/Grandmaster
+|name5=NA Diamond/Masters|link5=Alternate Pride Cup/Diamond/Masters
+|name6=NA Platinum|link6=Alternate Pride Cup/Platinum
+}}
+{{Infobox league
+|liquipediatier=5
+|name=Altiora Pride Cup - Platinum & Below Division
+|shortname=Altiora Pride Cup - Platinum & Below Division
+|tickername=Altiora Pride Cup Platinum & Below
+|icon=Altiora 2022 lightmode.png
+|icondark=Altiora 2022 darkmode.png
+|image=Altiora 2022 lightmode.png
+|imagedark=Altiora 2022 darkmode.png
+|series=Altiora
+|abbreviation=Altiora
+|organizer=Altiora
+|organizer2=Alternate Esports
+|sponsor=[https://www.communitygaming.io/ Community Gaming]
+|type=Online
+|country=Europe
+|game=overwatch2
+|prizepoolusd=100
+|date=2023-06-30
+|twitter=Altiora_gaming
+|rulebook=https://altiora.gg/wp-content/uploads/2023/04/Pride-Cup-Overwatch-Handbook-v2.pdf
+|bracket=https://www.communitygaming.io/tournament/altiora-pride-cup-platinum-below
+|team_number=2
+}}
+
+==Information==
+===Format===
+*<s>Single Elimination Bracket
+**First three rounds are {{Abbr/Bo3}}</s>
+**Grand Finals are {{Abbr/Bo5}}
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Commentator
+|b1=Biscuit
+|b2=KWing
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard
+|position=Producer
+|b1=Solomon
+|b2=Zusor
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard
+|position=Observer
+|b1=m4ra|b1flag=us
+|b2=Nikozma
+|b3=Marc
+|b4=beamgarden
+}}
+{{box|end}}
+
+==Prize Pool==
+{{TeamPrizePool
+|{{Slot|usdprize=100}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team= Altiora Valley
+|p1=KAI|p1flag=ps|pos1=dps
+|p2=ƔƔƔ|p2flag=uk|pos2=dps
+|p3=Joemama|p3flag=uk|pos3=tank
+|p4=Ember|p4flag=uk|pos4=sup
+|p5=KJB00|p5flag=nl|pos5=sup
+}}
+{{TeamCard
+|team=Zaryassified
+|p1=Moozle|p1flag=|pos1=dps
+|p2=Fysiik|p2flag=|pos2=dps
+|p3=Luna|p3flag=|pos3=tank|p3link=Luna (EU Player)
+|p4=queensferra|p4flag=|pos4=sup
+|p5=kiks|p5flag=|pos5=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2|id=K2joLBzhCy
+<!-- Grand Final -->
+|R1M1={{Match
+|bestof=5
+    |date=June 30, 2023 - 22:00 {{Abbr/CEST}}
+	|vod=https://www.twitch.tv/videos/1860732080
+    |opponent1={{TeamOpponent|Altiora Valley}}
+    |opponent2={{TeamOpponent|Zaryassified}}
+    |map1={{Map|map=Oasis|mode=control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Colosseo|mode=push|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Route 66|mode=escort|score1=1|score2=0|winner=1}}
+}}
+}}

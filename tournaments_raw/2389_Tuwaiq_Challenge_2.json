@@ -1,0 +1,118 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "name": "Tuwaiq Challenge: 2",
+            "tickername": "Tuwaiq Challenge: 2",
+            "icon": "Tuwaiq Challenge allmode.png",
+            "image": "Tuwaiq Challenge allmode.png",
+            "organizer": "Tuwaiq Esports",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Middle East",
+            "format": "Single Elimination",
+            "prizepoolusd": "250",
+            "date": "2023-06-14",
+            "bracket": "https://play.toornament.com/en_US/tournaments/6812521640018247680/stages/6829280723605250048/#structure",
+            "web": "https://twq.world/tc/",
+            "discord": "pEf9g8uGJt",
+            "instagram": "TuwaiqEC",
+            "twitter": "TuwaiqEC",
+            "team_number": "22",
+            "previous": "Tuwaiq Challenge /1 {{!}} #1",
+            "next": "Tuwaiq Challenge/3 {{!}} #3"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "the vicious",
+            "p1": "djevel|p1flag=sa|pos1=tank",
+            "p2": "Sadfitzy|p2flag=sa|pos2=sup",
+            "p3": "UPSET|p3flag=|pos3=",
+            "p4": "M7MD65|p4flag=sa|pos4=",
+            "p5": "kamsuri|p5flag=|pos5="
+        },
+        {
+            "team": "goblins69",
+            "p1": "Traio|p1flag=|pos1=",
+            "p2": "rust|p2flag=|pos2=",
+            "p3": "ewqr|p3flag=|pos3=",
+            "p4": "yuichi|p4flag=|pos4=",
+            "p5": "xea12|p5flag=|pos5="
+        },
+        {
+            "team": "ALGAMERZION ESPORTS",
+            "p1": "nawaf20k|p1flag=|pos1=tank",
+            "p2": "bandar|p2flag=sa|pos2=sup",
+            "p3": "odin|p3flag=|pos3=|p3link=odin (Middle Eastern Player)",
+            "p4": "MO7EB|p4flag=|pos4=",
+            "p5": "void5|p5flag=|pos5="
+        },
+        {
+            "team": "noximapex",
+            "p1": "kingslayer|p1flag=|pos1=dps",
+            "p2": "amdp|p2flag=sa|pos2=tank",
+            "p3": "kqrj|p3flag=|pos3=sup",
+            "p4": "YORX|p4flag=|pos4=",
+            "p5": "starlight|p5flag=|pos5="
+        },
+        {
+            "team": "ROC Esports",
+            "p1": "Qlm|p1flag=|pos1=dps",
+            "p2": "Sazuri|p2flag=|pos2=dps",
+            "p3": "TVNT|p3flag=|pos3=tank",
+            "p4": "AOY|p4flag=|pos4=sup",
+            "p5": "Facator|p5flag=|pos5=sup"
+        },
+        {
+            "team": "saudi hurricane",
+            "p1": "wacveri|p1flag=sa|pos1=dps",
+            "p2": "Lawyer|p2flag=sa|pos2=dps",
+            "p3": "ILOVEU|p3flag=sa|pos3=tank",
+            "p4": "YONKO|p4flag=|pos4=sup",
+            "p5": "musashi|p5link=VBASEL|p5flag=sa|pos5=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "1",
+            "date": "June 14, 2023",
+            "opponent1": "{{TeamOpponent|the vicious|score=1}}",
+            "opponent2": "{{TeamOpponent|goblins69|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "June 14, 2023",
+            "opponent1": "{{TeamOpponent|ALGAMERZION ESPORTS|score=0}}",
+            "opponent2": "{{TeamOpponent|noximapex|score=1}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "June 14, 2023",
+            "opponent1": "{{TeamOpponent|ROC Esports|score=DQ}}",
+            "opponent2": "{{TeamOpponent|saudi hurricane|score=W}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "June 14, 2023",
+            "opponent1": "{{TeamOpponent|the vicious|score=1}}",
+            "opponent2": "{{TeamOpponent|noximapex|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "June 14, 2023",
+            "opponent1": "{{TeamOpponent|bye|score=F}}",
+            "opponent2": "{{TeamOpponent|saudi hurricane|score=W}}",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "3",
+            "date": "June 14, 2023",
+            "opponent1": "{{TeamOpponent|the vicious}}",
+            "opponent2": "{{TeamOpponent|saudi hurricane}}",
+            "map1": "{{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=King's Row|mode=Hybrid|score1=1|score2=2|winner=2}}",
+            "optional": "R3M1="
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "tournament_info": [
+        {
+            "name": "Respawn Community Cup #2",
+            "shortname": "Respawn Cup 2",
+            "image": "Respawn Logo.png",
+            "abbreviation": "RCC",
+            "icon": "Respawn Logo std.png",
+            "tickername": "RCC #2",
+            "organizer": "Respawn eSports Bar Vienna",
+            "sponsor": "",
+            "platform": "PC",
+            "series": "Respawn Community Cup",
+            "type": "Offline",
+            "country": "Europe",
+            "format": "Playoffs (Single Elimination)",
+            "prizepool": "295",
+            "localcurrency": "eur",
+            "sdate": "2018-06-09",
+            "edate": "2018-06-09",
+            "liquipediatier": "{{TierText/5}}",
+            "web": "",
+            "twitch": "",
+            "youtube": "",
+            "bracket": "https://www.toornament.com/tournaments/1459513941114372096/stages/1459523945293225984/",
+            "team_number": "7"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Entourage",
+            "image": "",
+            "p1": "DrysTc|p1flag=at |pos1=dps",
+            "p2": "HeroRay|p2flag=at |pos2=dps",
+            "p3": "Kain|p3flag=at |p3link=Crow |pos3=tank",
+            "p4": "Sensotix|p4flag=at  |pos4=tank",
+            "p5": "Minimi|p5flag=at |pos5=sup",
+            "p6": "Pachelor|p6flag=at |pos6=sup",
+            "c": "|cflag="
+        },
+        {
+            "team": "E-Sport Ennstal Academy",
+            "image": "E-Sport-Ennstal logo.png",
+            "p1": "Sylvanas|p1flag=ch |pos1=dps",
+            "p2": "Carisma|p2flag=at |pos2=",
+            "p3": "hanfii|p3flag=at  |pos3=tank",
+            "p4": "Baaaanger76|p4flag=at |pos4=",
+            "p5": "Itzeru|p5flag=at |pos5=sup",
+            "p6": "Onemanrammy|p6flag=at |pos6=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Mein Lieblingsteam",
+            "image": "",
+            "p1": "Ventari|p1flag=at |pos1=",
+            "p2": "Uwi|p2flag=at |pos2=",
+            "p3": "Chippy|p3flag=at  |pos3=",
+            "p4": "Moma|p4flag=at |pos4=",
+            "p5": "leBackfisch|p5flag=at |pos5=",
+            "p6": "chargi|p6flag=at |pos6=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Pachi 7",
+            "image": "",
+            "p1": "Fuch|p1flag=at |pos1=",
+            "p2": "Oja|p2flag=de |pos2=",
+            "p3": "Heisenberg|p3flag=at  |pos3=",
+            "p4": "Hugin|p4flag=at |pos4=",
+            "p5": "Quarian|p5flag=at |pos5=",
+            "p6": "Grisu|p6flag=at |pos6=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Quickplay-Legends",
+            "image": "",
+            "p1": "Markus|p1flag=at |pos1=",
+            "p2": "Aleks|p2flag=at |pos2=",
+            "p3": "Hausi|p3flag=at  |pos3=",
+            "p4": "Mayer|p4flag=at |pos4=",
+            "p5": "Clemens|p5flag=at |pos5=",
+            "p6": "DanjiLaijn|p6flag=at |pos6=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Team Gunde",
+            "image": "",
+            "p1": "Oskar|p1flag=at |pos1=",
+            "p2": "Zydra|p2flag=at |pos2=",
+            "p3": "Sinistra|p3flag=at  |pos3=",
+            "p4": "Kiwigo22|p4flag=us |pos4=",
+            "p5": "CloseToSkill|p5flag=at |pos5=",
+            "p6": "Voltaa|p6flag=at |pos6=",
+            "c": "|cflag="
+        },
+        {
+            "team": "Team RDML",
+            "image": "",
+            "p1": "roman|p1flag=at |pos1=",
+            "p2": "xta|p2flag=at |pos2=",
+            "p3": "xero|p3flag=at |pos3=",
+            "p4": "Agonized|p4flag=at |pos4=",
+            "p5": "vaterybots|p5flag=at |pos5=",
+            "p6": "AkaiNeko|p6flag=at |pos6=",
+            "c": "|cflag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "bye",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "entourage",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "e-sport ennstal academy",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "quickplay-legends",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "pachi 7",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "team gunde",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "team rdml",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "mein lieblingsteam",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "e-sport ennstal academy",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "entourage",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "mein lieblingsteam",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "team gunde",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "mein lieblingsteam",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "entourage",
+            "score1": "3",
+            "win1": "1"
+        },
+        {
+            "date": "",
+            "stream": "",
+            "finished": "",
+            "vodgame1": "",
+            "vodgame2": "",
+            "vodgame3": "",
+            "map1": "",
+            "map1score": "",
+            "map1win": "",
+            "map2": "",
+            "map2score": "",
+            "map2win": "",
+            "map3": "",
+            "map3score": "",
+            "map3win": "",
+            "overgg": "",
+            "pf": "",
+            "wl": "",
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "details2": "{{BracketMatchSummary",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

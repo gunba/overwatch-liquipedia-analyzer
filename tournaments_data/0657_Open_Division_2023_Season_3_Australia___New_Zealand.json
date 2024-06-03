@@ -1,0 +1,842 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "3",
+            "name": "Open Division 2023 Season 3 - Australia & New Zealand",
+            "shortname": "OD 2023 S3 - ANZ",
+            "series": "Open Division",
+            "abbreviation": "Open Division",
+            "tickername": "Open Division ANZ Season 3",
+            "image": "Overwatch Open Division 2023 lightmode.png",
+            "imagedark": "Overwatch Open Division 2023 darkmode.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "GameBattles",
+            "type": "Online",
+            "game": "overwatch2",
+            "country": "Australia",
+            "country2": "New Zealand",
+            "format": "Swiss<br>Double Elimination",
+            "prizepoolusd": "2500",
+            "sdate": "2023-07-14",
+            "edate": "2023-07-23",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S3/info",
+            "bracket2": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S3P/info",
+            "twitter": "owpathtopro",
+            "discord": "du7mVRd",
+            "rulebook": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S3/rules",
+            "team_number": "30"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Quetzal",
+            "p1": "Atol",
+            "pos1": "dps",
+            "p2": "Nanda",
+            "pos2": "dps",
+            "p3": "Jkap",
+            "pos3": "tank",
+            "p4": "Seqtar",
+            "pos4": "sup",
+            "p5": "numu",
+            "p5flag": "au",
+            "pos5": "sup",
+            "qualifier": "[https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S3/standings Swiss]",
+            "placement": "1"
+        },
+        {
+            "team": "Currency Exchange",
+            "p1": "Luca",
+            "pos1": "dps",
+            "p1link": "Luca (Australian player)",
+            "p2": "Zuper",
+            "pos2": "dps",
+            "p3": "Quatz",
+            "pos3": "tank",
+            "p4": "Don",
+            "pos4": "sup",
+            "p4link": "Don (Australian Player)",
+            "p5": "Crimsyn",
+            "pos5": "sup",
+            "qualifier": "[https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S3/standings Swiss]",
+            "placement": "2"
+        },
+        {
+            "team": "Bruisin' and Cruisin'",
+            "p1": "Peterful52",
+            "pos1": "dps",
+            "p1flag": "au",
+            "p2": "Slaymetra",
+            "pos2": "dps",
+            "p2flag": "au",
+            "p3": "Tungston",
+            "pos3": "tank",
+            "p3flag": "au",
+            "p4": "SwiftZz",
+            "pos4": "sup",
+            "p4link": "Exrai",
+            "p5": "Grimace",
+            "pos5": "sup",
+            "p5link": "Kurikiai",
+            "p6": "PaulMiller",
+            "pos6": "sup",
+            "p6flag": "au",
+            "qualifier": "[https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S3/standings Swiss]",
+            "placement": "3"
+        },
+        {
+            "team": "Astronic Esports",
+            "p1": "D3MLL",
+            "pos1": "dps",
+            "p2": "shkyp",
+            "pos2": "dps",
+            "p3": "Ikari",
+            "p3flag": "au",
+            "pos3": "tank",
+            "p4": "Blimp1",
+            "pos4": "sup",
+            "p5": "hamster",
+            "p5flag": "au",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2c1": "Blazing",
+            "t2c1pos": "head coach",
+            "t2c2": "estreichh",
+            "t2c2pos": "coach",
+            "qualifier": "[https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S3/standings Swiss]",
+            "placement": "4"
+        },
+        {
+            "team": "QP Warriors",
+            "p1": "Natty",
+            "p1flag": "nz",
+            "pos1": "dps",
+            "p2": "Regr3T",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Onz",
+            "p3flag": "nz",
+            "pos3": "tank",
+            "p4": "J1ggs",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Eli",
+            "p5flag": "au",
+            "pos5": "sup",
+            "p5link": "Eli (Australian player)",
+            "p6": "Kate",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "Zoyd",
+            "p7flag": "au",
+            "pos7": "sup",
+            "qualifier": "[https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S3/standings Swiss]",
+            "placement": "5"
+        },
+        {
+            "team": "Covenant Esports Club",
+            "p1": "tobothehobo",
+            "p1flag": "au",
+            "pos1": "dps",
+            "p2": "sneakysnake",
+            "p2flag": "au",
+            "pos2": "dps",
+            "p3": "BroodStike",
+            "p3flag": "au",
+            "pos3": "tank",
+            "p4": "Jamin",
+            "p4flag": "au",
+            "pos4": "sup",
+            "p5": "Party14",
+            "p5flag": "au",
+            "pos5": "sup",
+            "p6": "Atomite",
+            "p6flag": "nz",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Nbow",
+            "t2c1flag": "au",
+            "t2c1pos": "coach",
+            "qualifier": "[https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S3/standings Swiss]",
+            "placement": "6"
+        },
+        {
+            "team": "mud dog",
+            "p1": "Jake",
+            "pos1": "dps",
+            "p1link": "Jake (Australian player)",
+            "p2": "Hypnotic",
+            "pos2": "dps",
+            "p3": "Lumi",
+            "pos3": "tank",
+            "p4": "Jae",
+            "pos4": "sup",
+            "p5": "Kame",
+            "pos5": "sup",
+            "p6": "Asher",
+            "pos6": "sup",
+            "p6link": "Asher (Australian player)",
+            "t2title": "Staff",
+            "t2c1": "Nozumo",
+            "t2c1pos": "manager",
+            "t2c2": "Mince",
+            "t2c2pos": "manager",
+            "t2c3": "Cointree",
+            "t2c3pos": "manager",
+            "t2c4": "W1LL!AM",
+            "t2c4pos": "manager",
+            "qualifier": "[https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S3/standings Swiss]",
+            "placement": "7"
+        },
+        {
+            "team": "Remarkable",
+            "p1": "Kizza",
+            "p1flag": "au",
+            "pos1": "",
+            "p2": "Controler",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "Solace",
+            "pos3": "sup",
+            "p4": "Mikasa",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "Hanwul",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "Scruffy",
+            "p6flag": "",
+            "pos6": "",
+            "p7": "BasedGod",
+            "p7flag": "au",
+            "pos7": "",
+            "p8": "zBepis",
+            "p8flag": "nz",
+            "pos8": "",
+            "qualifier": "[https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/ANZ-Open-Division-23-S3/standings Swiss]",
+            "placement": "8"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "July 22, 2023 - 14:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "quetzal|score=W",
+            "opponent2": "remarkable|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "July 22, 2023 - 14:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "qp warriors|score=L",
+            "opponent2": "astronic|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "July 22, 2023 - 14:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bruisin' and cruisin'",
+            "opponent1_score": 2,
+            "opponent2": "covenant esports club",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "July 22, 2023 - 14:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "mud dog|score=W",
+            "opponent2": "currency exchange|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "July 22, 2023 - 15:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "quetzal|score=W",
+            "opponent2": "astronic|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "July 22, 2023 - 15:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bruisin' and cruisin'|score=W",
+            "opponent2": "mud dog|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "July 23, 2023 - 14:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "quetzal|score=W",
+            "opponent2": "bruisin' and cruisin'|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "July 22, 2023 - 15:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "remarkable|score=W",
+            "opponent2": "qp warriors|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "date": "July 22, 2023 - 15:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "covenant esports club|score=L",
+            "opponent2": "currency exchange|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "date": "July 22, 2023 - 16:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "mud dog|score=W",
+            "opponent2": "remarkable|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "July 22, 2023 - 16:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "astronic|score=L",
+            "opponent2": "currency exchange|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "July 23, 2023 - 14:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "mud dog|score=W",
+            "opponent2": "currency exchange|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "July 23, 2023 - 15:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bruisin' and cruisin'|score=W",
+            "opponent2": "mud dog|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "bestof": "5",
+            "date": "July 23, 2023 - 16:00",
+            "date_timezone": "AEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "quetzal|score=W",
+            "opponent2": "bruisin' and cruisin'|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{{Open Division Navbox}}
+{{DISPLAYTITLE:Open Division 2017 Season 1 - Southeast Asia}}
+{{Infobox league
+|name=Open Division 2017 Season 1 - Southeast Asia
+|shortname=OD 2017 S1 - SEA
+|image=Open Division.png
+|icon=Open Division small.png
+|series=Open Division
+|abbreviation=Open Division
+|tickername=Open Division 2017 S1 - SEA
+|organizer=ESL
+|organizer2=Blizzard
+|sponsor=
+|type=Online
+|country=SEA
+|city=
+|format=
+|prizepool=
+|localcurrency=
+|prizepoolusd=
+|sdate=2017-08-26
+|edate=2017-08-29
+|liquipediatier=4
+|web=https://play.eslgaming.com/overwatch/open-division/southeast-asia/
+|twitter=
+|bracket=https://play.eslgaming.com/overwatch/southeast-asia/overwatch/major/overwatch-open-division/season-1-playoffs/rankings/
+|twitch=overwatchsea
+|team_number=33
+}}
+{{TOClimit|3}}
+
+==About==
+===Format===
+*'''Group Stage''': Swiss System
+**All matches are {{Abbr/Bo5}}
+**'''Top 8''' advance to Playoffs
+*'''Playoffs''': Single Elimination
+**Quarter and Semifinals are {{Abbr/Bo5}}.
+**Grand Finals are {{Abbr/Bo7}}.
+
+===Broadcast Talent===
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Commentator
+|b1=Sodafiz|b1flag=sg|b1name=Afiz M. Noor
+|b2=Tsuki|b2flag=sg|b2name=Stephanie Tan
+|b3=TeddyPay|b3flag=sg|b3name=Theodoric Phay
+|b4=DeathAdderSG|b4flag=sg|b4name=Philibert Santhanaraj
+}}
+{{BroadcasterCard
+|position=Observer
+|b1=Zest|b1link=Zest (overgg)|b1name=Bryan Lim|b1flag=sg
+|b2=Lambdadelta |b2name=Allan Tay|b2flag=sg
+}}
+{{box|end}}
+
+==Prize Pool==
+{{box|start|padding=2em}}
+{{prize pool start|noprize=y|cutafter=4}}
+{{prize pool slot|place=1 |bazaar|lastvs1=xavier e-sports|lastscore1=4 |lastvsscore1=1 }}
+{{prize pool slot|place=2 |xavier e-sports|lastvs1=bazaar|lastscore1=1 |lastvsscore1=4 }}
+{{prize pool slot |place=3-4 
+|elvellon|lastvs1=xavier e-sports|lastscore1=1 |lastvsscore1=3
+|fire dragoon e-sports|lastvs2=bazaar|lastscore2=0 |lastvsscore2=3
+}}
+{{prize pool slot|place=5-8
+|gamehome|lastvs1=fire dragoon e-sports|lastscore1=1 |lastvsscore1=3
+|owol|lastvs2=xavier e-sports|lastscore2=0 |lastvsscore2=3
+|no use talking|lastvs3=bazaar|lastscore3=0 |lastvsscore3=3
+|keep going bois|lastvs4=elvellon|lastscore4= |lastvsscore4=
+}}
+{{Prize pool end}}
+{{Box|break|padding=2em}}
+{| class="wikitable" style="text-align:center; margin-top: 0px;"
+! colspan="3"|Base prize
+|-
+!Place
+!Prize<br>(''Battle.net points'')
+|-
+|{{Placement|1}} [[File:Gold.png]]||$ 50 {{Abbr/USD}}
+|-
+|{{Placement|2}} [[File:Silver.png]]||$ 40 {{Abbr/USD}}
+|-
+|{{Placement|3-4}} [[File:SF.png]]||$ 30 {{Abbr/USD}}
+|-
+|{{Placement|5-8}}||$ 20 {{Abbr/USD}}
+|-
+|{{Placement|9}} '''>'''||$ 10 {{Abbr/USD}}
+|}
+{{box|end|padding=2em}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Bazaar
+|image=Bazaarlogo.png
+|p1=NutsuruSama|p1flag=th|pos1=dps
+|p2=SADISTIC|p2flag=th|pos2=dps
+|p3=Bozz|p3flag=th|pos3=flex
+|p4=HeadHawk|p4flag=th|pos4=tank
+|p5=PannyS|p5flag=th|pos5=sup
+|p6=pAnDeV|p6flag=th|pos6=sup
+|p7=|p7flag=
+|p8=|p8flag=
+|c= |cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Elvellon
+|p1=Zest|p1flag=sg|pos1=tank
+|p2=Arin|p2flag=my
+|p3=JUNGEUNJI|p3flag=sg|pos3=dps
+|p4=NangTrngVuon|p4flag=vn
+|p5=Pamyu|p5flag=sg|pos5=sup
+|p6=Teejay|p6flag=my|pos6=dps
+|p7=Xenofly|p7flag=sg|pos7=tank
+|p8=Xexo|p8flag=sg|pos8=sup
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Fire Dragoon E-sports
+|image=Fire Dragoon 2017.png
+|p1=CKay|p1flag=my|pos1=dps
+|p2=fLameShot|p2flag=my|pos2=dps
+|p3=SOR|p3flag=my|pos3=flex
+|p4=Darkaz|p4flag=my|pos4=tank
+|p5=Vertexity|p5flag=my|pos5=sup
+|p6=Ribbon|p6flag=my|pos6=sup|p6link=Ribbon (Malaysian player)
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=GameHome
+|image=
+|p1=Torisetsu|p1flag=vn|pos1=dps
+|p2=Sentinal|p2flag=vn|pos2=flex
+|p3=SeaIrabi|p3flag=vn|pos3=flex
+|p4=GnaS|p4flag=vn|pos4=tank
+|p5=Gilgamesh|p5flag=vn|pos5=sup
+|p6=RageM|p6flag=vn|pos6=sup
+|p7=|p7flag=vn
+|p8=|p8flag=vn
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Keep Going Bois
+|image=Keep_Going_Bois_logo.png
+|p1=JohnCena|p1flag=vn
+|p2=ALVIN|p2flag=vn
+|p3=Aryasin|p3flag=vn
+|p4=faster274|p4flag=vn
+|p5=ĜȀǸƘƐǷƄŶMǾM|p5flag=vn
+|p6=RaZe|p6flag=vn
+|p7=XoPSoMai|p7flag=vn
+|p8=|p8flag=
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=No Use Talking
+|image=No Use Talking.png
+|p1=Esport|p1flag=th|pos1=dps
+|p2=kyshio|p2flag=sg|pos2=dps
+|p3=Andistic|p3flag=my|pos3=flex
+|p4=Twilights|p4flag=sg|pos4=tank
+|p5=Sayuri|p5flag=sg|pos5=sup
+|p6=v1sc0s1ty|p6flag=sg|pos6=sup
+|p7=|p7flag=
+|p8=|p8flag=
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=OWOL
+|image=OWOL_logo.png
+|p1=ZhiEn|p1flag=sg|pos1=dps
+|p2=vincenity|p2flag=sg|pos2=dps
+|p3=yykcool|p3flag=sg|pos3=flex
+|p4=hilmo|p4flag=sg|pos4=tank
+|p5=beer|p5flag=sg|pos5=sup
+|p6=Shorea|p6flag=sg|pos6=sup
+|p7=|p7flag=sg
+|p8=|p8flag=sg
+|c=|cflag=
+|qualifier=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Xavier Esports
+|image=Xavier_Esports_logo.png
+|p1=PKHI|p1flag=th|pos1=dps
+|p2=SaiyajinGOD|p2flag=th|pos2=dps
+|p3=SUNSERIES|p3flag=th|pos3=flex
+|p4=NATNATz|p4flag=th|pos4=tank
+|p5=GoldenJet|p5flag=th|pos5=sup
+|p6=ztPp|p6flag=th|pos6=sup
+|p7=|p7flag=
+|p8=|p8flag=
+|c=|cflag=
+|qualifier=
+}}
+{{box|end}}
+
+==Results==
+===Playoffs===
+{{LegacyBracket|Bracket/8|8SETeamBracket|type=team|id=N6WqrZPl1q
+|column-width=190
+<!-- QUARTERFINALS -->
+|R1D1team=bazaar |R1D1score=3 |R1D1win=1
+|R1D2team=no use talking |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary 
+|date=August 26, 2017 - 12:45 {{Abbr/SGT}}
+|stream=
+|finished=true
+|vod=https://www.twitch.tv/videos/169854024?t=1h42m05s
+|map1=Lijiang Tower|map1score=3-2|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=1-0|map2win=1
+|map3=Temple of Anubis|map3score=2-1|map3win=1
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=5493
+|pf=33549
+|wl=
+}}
+|R1D3team=gamehome |R1D3score=1 |R1D3win=
+|R1D4team=fire dragoon e-sports |R1D4score=3 |R1D4win=1
+|R1G2details={{BracketMatchSummary 
+|date=August 26, 2017 - 11:00 {{Abbr/SGT}}
+|stream=
+|finished=true
+|vod=https://www.twitch.tv/videos/169854024?t=32m24s
+|map1=Default win|map1score=|map1win=2
+|map2=Default win|map2score=|map2win=2
+|map3=Horizon Lunar Colony|map3score=4-3|map3win=1
+|map4=Hollywood|map4score=2-3|map4win=2
+|map5=|map5score=|map5win=
+|overgg=5494
+|pf=33550
+|wl=
+}}
+|R1D5team=elvellon |R1D5score=W |R1D5win=1
+|R1D6team=keep going bois |R1D6score=- |R1D6win=
+|R1G3details={{BracketMatchSummary 
+|date=August 26, 2017 - 14:30 {{Abbr/SGT}}
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=5495
+|pf=33551
+|wl=
+}}
+|R1D7team=owol |R1D7score=0 |R1D7win=
+|R1D8team=xavier e-sports |R1D8score=3 |R1D8win=1
+|R1G4details={{BracketMatchSummary 
+|date=August 26, 2017 - 16:00 {{Abbr/SGT}}
+|stream=
+|finished=true
+|vod=https://www.twitch.tv/videos/169854024?t=4h40m10s
+|map1=Oasis|map1score=0-3|map1win=2
+|map2=Dorado|map2score=1-2|map2win=2
+|map3=Horizon Lunar Colony|map3score=1-2|map3win=2
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=5496
+|pf=33552
+|wl=
+}}
+<!-- SEMIFINALS -->
+|R2W1team=bazaar |R2W1score=3 |R2W1win=1
+|R2W2team=fire dragoon e-sports |R2W2score=0 |R2W2win=
+|R2G1details={{BracketMatchSummary 
+|date=August 27, 2017 - 13:00 {{Abbr/SGT}}
+|stream=
+|finished=true
+|vod=https://www.twitch.tv/videos/170127027?t=18m40s
+|map1=Lijiang Tower|map1score=3-1|map1win=1
+|map2=Dorado|map2score=2-1|map2win=1
+|map3=Horizon Lunar Colony|map3score=2-1|map3win=1
+|overgg=5498
+|pf=33554
+|wl=
+}}
+|R2W3team=elvellon |R2W3score=1 |R2W3win=
+|R2W4team=xavier e-sports |R2W4score=3 |R2W4win=1
+|R2G2details={{BracketMatchSummary 
+|date=August 27, 2017 - 11:00 {{Abbr/SGT}}
+|stream=
+|finished=true
+|vod=https://www.twitch.tv/videos/170109633?t=21m30s
+|map1=Oasis|map1score=3-0|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=1-2|map2win=2
+|map3=Horizon Lunar Colony|map3score=1-2|map3win=2
+|map4=King's Row|map4score=1-2|map4win=2
+|overgg=5497
+|pf=33553
+|wl=
+}}
+<!-- FINALS -->
+|R3W1team=bazaar |R3W1score=4 |R3W1win=1
+|R3W2team=xavier e-sports |R3W2score=1 |R3W2win=
+|R3G1details={{BracketMatchSummary 
+|date=August 27, 2017 - 14:30 {{Abbr/SGT}}
+|stream=
+|finished=true
+|vod=https://www.twitch.tv/videos/170127027?t=1h40m59s
+|map1=Lijiang Tower|map1score=3-0|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=3-2|map2win=1
+|map3=Horizon Lunar Colony|map3score=6-7|map3win=2
+|map4=King's Row|map4score=5-4|map4win=1
+|map5=Oasis|map5score=3-1|map5win=1
+|overgg=5499
+|pf=33555
+|wl=
+}}
+<!-- 3RD PLACE (optional) -->
+|R3D1team= |R3D1score= |R3D1win=
+|R3D2team= |R3D2score= |R3D2win=
+|R3G2details={{BracketMatchSummary 
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|vodgame5=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|map4=|map4score=|map4win=
+|map5=|map5score=|map5win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+
+==Additional Data==
+===Country Representation===
+
+<section begin="Country Representation"/>
+{{Country representation}}
+<section begin="Country Representation"/>
+
+==References==
+{{Reflist}}

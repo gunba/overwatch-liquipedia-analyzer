@@ -1,0 +1,247 @@
+{
+    "tournament_info": [
+        {
+            "name": "Open Division 2017 Season 3 - Brazil",
+            "shortname": "OD 2017 S3 - Brazil",
+            "image": "Open Division.png",
+            "icon": "Open Division small.png",
+            "series": "Open Division",
+            "abbreviation": "Open Division",
+            "tickername": "Open Division 2017 S3 - Brazil",
+            "organizer": "ESL",
+            "organizer2": "Blizzard",
+            "sponsor": "",
+            "type": "Online",
+            "country": "Brazil",
+            "city": "",
+            "format": "",
+            "prizepool": "",
+            "localcurrency": "",
+            "prizepoolusd": "",
+            "sdate": "2017-12-09",
+            "edate": "2017-12-10",
+            "liquipediatier": "{{TierText/4}}",
+            "web": "https://play.eslgaming.com/overwatch/open-division/brazil/",
+            "twitter": "",
+            "bracket": "https://play.eslgaming.com/overwatch/south-america/overwatch/major/overwatch-open-division-brazil/season-3-regular-season/results/",
+            "bracket2": "https://play.eslgaming.com/overwatch/south-america/overwatch/major/overwatch-open-division-brazil/season-3-playoffs/rankings/",
+            "twitch": "",
+            "team_number": "24"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dogma e-Sports",
+            "p1": "Edigas |p1flag=br |pos1=dps",
+            "p2": "exquisite |p2flag=br |pos2=",
+            "p3": "Shadowsong |p3flag=br |pos3=tank",
+            "p4": "Xikon |p4flag=br |pos4=flex",
+            "p5": "Trickkz |p5flag=br |pos5=",
+            "p6": "Storm |p6flag=br |pos6=",
+            "p7": "Hideo |p7flag=br |pos7=",
+            "p8": "Tracker |p8flag=br |pos8=",
+            "p9": "Saulzera |p9flag=br |pos9=sup",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (1)"
+        },
+        {
+            "team": "North Lions Black",
+            "p1": "SNG |p1flag=br |pos1=dps",
+            "p2": "Wahw |p2flag=br |pos2=dps",
+            "p3": "Zerolotus |p3flag=br |pos3=tank",
+            "p4": "Michel |p4flag=br |pos4=tank",
+            "p5": "Curtis |p5flag=br |pos5=flex",
+            "p6": "Bac4naguy |p6flag=br |pos6=sup",
+            "p7": "Alexmats |p7flag=br |pos7=sup",
+            "p8": "Raizen7 |p8flag=br |pos8=sup",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (2)"
+        },
+        {
+            "team": "North Lions White",
+            "p1": "xHM  |p1flag=br|pos1=dps",
+            "p2": "Sarpedon |p2flag=br |pos2=dps",
+            "p3": "Venix |p3flag=br |pos3=dps",
+            "p4": "Fgmarques |p4flag=br |pos4=flex",
+            "p5": "Th3o |p5flag=br |pos5=flex",
+            "p6": "Koni |p6flag=br |pos6=sup",
+            "p7": "Quejadinha |p7flag=br |pos7=sup",
+            "p8": "Kazma |p8flag=br |pos8=sup",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (3)"
+        },
+        {
+            "team": "Caverna e-Sports",
+            "p1": "Darken2k |p1flag=br |pos1=dps",
+            "p2": "Dezert |p2flag=br |pos2=",
+            "p3": "Gunblade|p3flag=br |pos3=tank",
+            "p4": "Gh0st |p4flag=br |pos4=",
+            "p5": "Insanez0rd |p5flag=br |pos5=",
+            "p6": "Doctorbones |p6flag=br |pos6=sup",
+            "p7": "PseudoPRO |p7flag= |pos7=",
+            "c": "Notanorgy |cflag=br",
+            "qualifier": "Regular Season (4)"
+        },
+        {
+            "team": "CrucialBullet",
+            "p1": "CapyMac |p1flag=br |pos1=dps",
+            "p2": "Suaran |p2flag=ar |pos2=dps",
+            "p3": "Mate1230 |p3flag=br |pos3=tank",
+            "p4": "Owlouco |p4flag=br |pos4=flex",
+            "p5": "Barijan |p5flag=br |pos5=sup",
+            "p6": "Himura |p6flag=br |pos6=sup",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (5)"
+        },
+        {
+            "team": "Crossbones E-Sports Red",
+            "p1": "Leo |p1flag=br |pos1=dps|p1link=leo2",
+            "p2": "Meliodas |p2flag=br |pos2=dps",
+            "p3": "Doutora |p3flag=br |pos3=tank",
+            "p4": "Allicia |p4flag=br |pos4=flex",
+            "p5": "Doctor |p5flag=br |pos5=sup|p5link=doctor (braziliam player)",
+            "p6": "Highwind |p6flag=br |pos6=sup",
+            "p7": "Portuga |p7flag=br |pos7=",
+            "p8": "neemiasvf |p8flag=br |pos8=",
+            "c": "Tedbrown |cflag=br",
+            "qualifier": "Regular Season (6)"
+        },
+        {
+            "team": "Shiroyama",
+            "p1": "Dolce |p1flag=ar |pos1=",
+            "p2": "HyperKill |p2flag=br |pos2=",
+            "p3": "Momo |p3flag=br |pos3= |p3link=Momo (Brazilian player)",
+            "p4": "Poetic |p4flag=br |pos4=",
+            "p5": "Rayschmidt |p5flag=br |pos5=",
+            "p6": "TedyZ |p6flag=br |pos6=",
+            "p7": "ludwig |p7flag=br |pos7=",
+            "c": "|cflag=",
+            "qualifier": "Regular Season (6)"
+        },
+        {
+            "team": "Crossbones E-Sports Blue",
+            "p1": "ArtpokeBr |p1flag=br |pos1=dps",
+            "p2": "Killerkk |p2flag=br |pos2=dps",
+            "p3": "Manuelita |p3flag=ar |pos3=dps",
+            "p4": "Dvulhatka |p4flag=br |pos4=tank",
+            "p5": "Noksyk |p5flag=br |pos5=",
+            "p6": "Ziggy |p6flag= |pos6=",
+            "p7": "Eterno1212 |p7flag=br |pos7=",
+            "p8": "HexZero |p8flag= |pos8=",
+            "c": "Tedbrown |cflag=br",
+            "qualifier": "Regular Season (8)"
+        },
+        {
+            "team": "F\u00e1brica de Lendas",
+            "p1": "Caleebe |p1flag=br |pos1=",
+            "p2": "Jocadie |p2flag=br |pos2=",
+            "p3": "Legionario |p3flag=br |pos3=",
+            "p4": "Mcecy |p4flag=br |pos4=",
+            "p5": "Pargon |p5flag=br |pos5=",
+            "p6": "PedroZ|p6flag=br |pos6=",
+            "p7": "Skaipira|p7flag=br |pos7=",
+            "p8": "Vitoness|p8flag=br |pos8=",
+            "c": "Lodea |cflag=br",
+            "qualifier": "Regular Season (8)"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "December 9, 2017 - 17:00 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|F\u00e1brica de Lendas|score=2}}",
+            "opponent2": "{{TeamOpponent|crossbones e-sports blue|score=3}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "December 9, 2017 - 17:45 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|dogma e-sports|score=3}}",
+            "opponent2": "{{TeamOpponent|crossbones e-sports blue|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "December 9, 2017 - 17:45 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|crucialbullet|score=1}}",
+            "opponent2": "{{TeamOpponent|caverna e-sports|score=3}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "December 9, 2017 - 17:45 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|north lions white|score=3}}",
+            "opponent2": "{{TeamOpponent|crossbones e-sports red|score=0}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "December 9, 2017 - 17:45 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|shiroyama|score=2}}",
+            "opponent2": "{{TeamOpponent|north lions black|score=3}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "December 9, 2017 - 19:15 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|dogma e-sports|score=3}}",
+            "opponent2": "{{TeamOpponent|caverna e-sports|score=2}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "December 9, 2017 - 19:15 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|north lions white|score=3}}",
+            "opponent2": "{{TeamOpponent|north lions black|score=0}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "December 9, 2017 - 20:45 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|dogma e-sports|score=3}}",
+            "opponent2": "{{TeamOpponent|north lions white|score=2}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "December 9, 2017 - 18:30 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|shiroyama|score=3}}",
+            "opponent2": "{{TeamOpponent|f\u00e1brica de lendas|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "December 9, 2017 - 19:15 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|crucialbullet|score=3}}",
+            "opponent2": "{{TeamOpponent|crossbones e-sports blue|score=0}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "December 9, 2017 - 19:15 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|crossbones e-sports red|score=0}}",
+            "opponent2": "{{TeamOpponent|shiroyama|score=3}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "December 9, 2017 - 20:00 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|north lions black|score=1}}",
+            "opponent2": "{{TeamOpponent|crucialbullet|score=3}}",
+            "optional": "R3M3="
+        },
+        {
+            "date": "December 9, 2017 - 20:00 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|caverna e-sports|score=3}}",
+            "opponent2": "{{TeamOpponent|shiroyama|score=1}}",
+            "optional": "R3M4="
+        },
+        {
+            "date": "December 9, 2017 - 20:45 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|crucialbullet|score=2}}",
+            "opponent2": "{{TeamOpponent|caverna e-sports|score=3}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "December 9, 2017 - 21:30 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|north lions white|score=1}}",
+            "opponent2": "{{TeamOpponent|caverna e-sports|score=3}}",
+            "optional": "R5M2="
+        },
+        {
+            "date": "December 10, 2017 - 17:00 {{Abbr/BRT}}",
+            "opponent1": "{{TeamOpponent|dogma e-sports|score=4}}",
+            "opponent2": "{{TeamOpponent|caverna e-sports|score=1}}",
+            "optional": "R6M1="
+        }
+    ]
+}

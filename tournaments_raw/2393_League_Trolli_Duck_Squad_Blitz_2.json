@@ -1,0 +1,109 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "name": "Duck Squad Blitz #2",
+            "shortname": "League Trolli Duck Squad Blitz 2",
+            "tickername": "League Trolli Duck Squad Blitz #2",
+            "icon": "LeagueTrolli.png",
+            "image": "LeagueTrolli.png",
+            "series": "League Trolli",
+            "abbreviation": "Blitz #2",
+            "organizer": "Duck Squad",
+            "organizer2": "League Trolli",
+            "sponsor": "[https://www.trolli.com/ Trolli]",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "100",
+            "date": "2023-06-04",
+            "twitter": "DuckSquadNA",
+            "web": "https://leaguetrolli.challonge.com/",
+            "discord": "https://discord.gg/Vh4tSrcNkV",
+            "rulebook": "https://docs.google.com/document/d/1GWPwg70BONoSKSjSRn_huvZ2OgBzjMcPfoMb_46GPDw/edit",
+            "bracket": "https://leaguetrolli.challonge.com/k8tkqdrn",
+            "team_number": "5"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Dhillon Inspired League Destroying Overwatchers",
+            "p1": "footloose|p1flag=ca|pos1=dps",
+            "p2": "Emmeryn|pos2=dps",
+            "p3": "Tristan|p3flag=ca|pos3=dps",
+            "p4": "sawhill|pos4=tank",
+            "p5": "Lunacy|pos5=tank",
+            "p6": "redex|pos6=sup",
+            "p7": "Onda|pos7=sup",
+            "p8": "NolanCoronaV|pos8=sup"
+        },
+        {
+            "team": "Dinoco Squad",
+            "p1": "Lump|p1flag=us|pos1=dps",
+            "p2": "Nebu|p2flag=es|pos2=dps",
+            "p3": "Vinu|p3flag=es|pos3=tank",
+            "p4": "Aleks|p4flag=es|pos4=tank",
+            "p5": "Gokhqueen|p5flag=es|pos5=sup",
+            "p6": "Zuero|p6flag=us|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Ivhod|t2c1flag=es|t2c1pos=manager"
+        },
+        {
+            "team": "Ngq",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "NovaC9",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "lolz245",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "June 4th, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|lolz245|score=1}}",
+            "opponent2": "{{TeamOpponent|Dhillon Inspired League Destroying Overwatchers|score=2}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "June 4th, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dinoco Squad|score=2}}",
+            "opponent2": "{{TeamOpponent|NovaC9|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "June 4th, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Ngq|score=0}}",
+            "opponent2": "{{TeamOpponent|Dhillon Inspired League Destroying Overwatchers|score=2}}",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "June 4th, 2023",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Dinoco Squad|score=0}}",
+            "opponent2": "{{TeamOpponent|Dhillon Inspired League Destroying Overwatchers|score=3}}",
+            "optional": "R3M1="
+        }
+    ]
+}

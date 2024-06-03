@@ -1,0 +1,151 @@
+{
+    "tournament_info": [
+        {
+            "name": "Coil Overdrive #21",
+            "image": "Coil Gaming logo.png",
+            "series": "Coil Overdrive",
+            "shortname": "CO #21",
+            "organizer": "Coil Gaming",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "",
+            "prizepoolusd": "63",
+            "localcurrency": "eur",
+            "prizepool": "60",
+            "web": "",
+            "twitch": "",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://battlefy.com/coil-gaming/coil-overdrive-21/58d81b7edc66513303a0c6b0/info?infoTab=details",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "teamfirst": "",
+            "teamsecond": "",
+            "edate": "2017-04-05",
+            "sdate": "2017-03-29",
+            "teamthird": "",
+            "teamthird2": "",
+            "team_number": "8",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Team Singularity Gorillaz",
+            "p1": "Kragie|pos1=DPS",
+            "p2": "Shax|pos2=DPS",
+            "p3": "Cizti|pos3=Flex|p3flag=dk",
+            "p4": "PaghMinister|pos4=Tank",
+            "p5": "Scaler|pos5=Support",
+            "p6": "Sindustries|pos6=Support"
+        },
+        {
+            "team": "Gameplay DNA",
+            "image": "",
+            "p1": "Megalodon|p1flag=|pos1= |p1link=",
+            "p2": "Traxyrr|p2flag=|pos2=",
+            "p3": "Gytoox|p3flag=|pos3=",
+            "p4": "Dwayne|p4flag=|pos4=|p4link=Dwayne (European Player)",
+            "p5": "ELOHELL|p5flag=|pos5=",
+            "p6": "Fitzys|p6flag=|pos6=",
+            "p7": "JesusIsMyQ|p7flag=|pos7="
+        },
+        {
+            "team": "Boom eSports",
+            "p1": "ZiCdaMASTA|p1flag=ee|",
+            "p2": "Jannukaz|p2flag=ee|",
+            "p3": "midy|p3flag=ee|",
+            "p4": "Paandee|p4flag=ee|",
+            "p5": "Yoko|p5flag=ee|",
+            "p6": "ThaPhoenix|p6flag=ee|"
+        },
+        {
+            "team": "Royal Bandits",
+            "image": "RoyalBanditslogo_std.png",
+            "p1": "TBAGG",
+            "p2": "thefamcemmy",
+            "p3": "JohnSinan",
+            "p4": "IamAhri",
+            "p5": "lou2hot",
+            "p6": "TheAdmiral"
+        },
+        {
+            "team": "Myth's Legion",
+            "p1": "Zagarah",
+            "p2": "soow",
+            "p3": "Amen",
+            "p4": "Motors",
+            "p5": "Martine",
+            "p6": "Zabu"
+        },
+        {
+            "team": "Team Oxygen eSports",
+            "p1": "Chevelle",
+            "p2": "KrukAN",
+            "p3": "FinFreezer",
+            "p4": "actofgod",
+            "p5": "eoeddie27",
+            "p6": "Varience",
+            "p7": "CptTrashh"
+        },
+        {
+            "team": "redbeaks eSports OW",
+            "p1": "qwirzo",
+            "p2": "BigBen",
+            "p3": "D\u0114\u0114\u0174",
+            "p4": "Zexys\u01f6",
+            "p5": "EpresShake",
+            "p6": "Synopsis"
+        },
+        {
+            "team": "UnrealeSport",
+            "p1": "Kyrr",
+            "p2": "Xaaridan",
+            "p3": "Quadish",
+            "p4": "Denta",
+            "p5": "WeirdoX",
+            "p6": "Tradtruck"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "Royal Bandits",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "Team Singularity Gorillaz",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Royal Bandits",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "Team Singularity Gorillaz",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "Gameplay DNA",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "Team Singularity Gorillaz",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R3D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

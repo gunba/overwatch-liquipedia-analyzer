@@ -1,0 +1,162 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "2|liquipediatiertype=Qualifier",
+            "series": "Overwatch Contenders",
+            "abbreviation": "OWC",
+            "shortname": "OWC 2022 RIB: EU - S TB",
+            "name": "Overwatch Contenders 2022 Run It Back: Europe - Spot Tiebreaker",
+            "tickername": "OWC Run It Back: Europe - Spot Tiebreaker",
+            "image": "Overwatch Contenders Run It Back lightmode.png",
+            "imagedark": "Overwatch Contenders Run It Back darkmode.png",
+            "icon": "Overwatch Contenders 2018 allmode.png",
+            "organizer": "Blizzard",
+            "game": "overwatch2",
+            "type": "Online",
+            "country": "Europe",
+            "format": "Double Elimination",
+            "sdate": "2022-11-12",
+            "edate": "2022-11-13",
+            "web": "https://overwatchleague.com/en-us/contenders/",
+            "bracket": "",
+            "youtube": "overwatchcontenders",
+            "twitter": "owpathtopro",
+            "team_number": "12",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "NightShades",
+            "p1": "Avoria|p1flag=|pos1=dps",
+            "p2": "Kilaa|p2flag=jp|pos2=dps",
+            "p3": "LukStar|p3flag=dk|pos3=dps",
+            "p4": "KroxZ|p4flag=|pos4=tank",
+            "p5": "GaaRa|p5flag=|pos5=sup",
+            "p6": "reviewz|p6flag=|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Zorfen|t2c1pos=manager",
+            "t2c2": "SofiJonson|t2c2pos=manager|t2c2flag=ru",
+            "qualifier": "[[Open Division/2022/Season 2/Europe|Open Division Season 2]]",
+            "placementicon": "{{LeagueIconSmall/open division}}",
+            "placement": "9-12"
+        },
+        {
+            "team": "Anghells",
+            "p1": "sxj|p1flag=mt|pos1=DPS",
+            "p2": "Wex|pos2=DPS",
+            "p3": "Teemo|p3flag=|pos3=Tank",
+            "p4": "Eis|p4flag=|pos4=Tank",
+            "p5": "ilppi13|p5flag=|pos5=Support",
+            "p6": "Natlocks|p6flag=|pos6=Support",
+            "p7": "Alpha|p7flag=uk|pos7=Support|p7link=Alpha (British player)",
+            "t2title": "Staff",
+            "t2c1": "Zorfen|t2c1pos=manager",
+            "t2c2": "PapaC|t2c2pos=Coach",
+            "t2c3": "natdoekje|t2c3pos=Coach",
+            "t2c4": "Bulle|t2c4pos=Coach",
+            "t2c5": "Roup|t2c5flag=fi|t2c5pos=Coach",
+            "qualifier": "[[Open Division/2022/Season 2/Europe|Open Division Season 2]]",
+            "placementicon": "{{LeagueIconSmall/open division}}",
+            "placement": "9-12"
+        },
+        {
+            "team": "Mind Goblin",
+            "p1": "Sardonyx|p1flag=uk|pos1=dps",
+            "p2": "Juuzo|p2flag=uk|pos2=dps",
+            "p3": "Condi|p3flag=za|pos3=dps",
+            "p4": "Theomatic|p4flag=za|pos4=tank",
+            "p5": "Tred|p5flag=uk|pos5=tank",
+            "p6": "Yoham|p6flag=dk|pos6=sup",
+            "p7": "Strebor|p7flag=uk|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "S\u00f8eny|t2c1pos=Manager",
+            "t2c2": "PnR|t2c2pos=coach|t2c2flag=sct",
+            "t2c3": "VisionPB|t2c3pos=coach|t2c3flag=uk",
+            "qualifier": "[[Open Division/2022/Season 2/Europe|Open Division Season 2]]",
+            "placementicon": "{{LeagueIconSmall/open division}}",
+            "placement": "9-12"
+        },
+        {
+            "team": "AWW YEAH",
+            "p1": "Ken|p1flag=|pos1=dps",
+            "p2": "Kaya|p2flag=|pos2=dps",
+            "p3": "Necros|p3flag=|pos3=dps",
+            "p4": "chazm|p4flag=|pos4=tank",
+            "p5": "Isack|p5flag=|pos5=tank",
+            "p6": "TSorcerer|p6flag=|pos6=sup",
+            "p7": "Abbs|p7flag=|pos7=sup",
+            "p8": "h9mpe|p8flag=|pos8=sup",
+            "t2title": "Staff",
+            "t2c1": "Lightbringer|t2c1pos=coach",
+            "t2c2": "Minimi|t2c2pos=coach",
+            "t2c3": "Jaydasch|t2c3pos=manager",
+            "qualifier": "[[Open Division/2022/Season 2/Europe|Open Division Season 2]]",
+            "placementicon": "{{LeagueIconSmall/open division}}",
+            "placement": "9-12"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "November 12, 2022 - 18:30 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|NightShades|score=L}}",
+            "opponent2": "{{TeamOpponent|AWW YEAH|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "November 12, 2022 - 18:30 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Mind Goblin|score=W}}",
+            "opponent2": "{{TeamOpponent|Anghells|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "November 12, 2022 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|AWW YEAH|score=L}}",
+            "opponent2": "{{TeamOpponent|Mind Goblin|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "November 12, 2022 - 20:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|NightShades|score=L}}",
+            "opponent2": "{{TeamOpponent|Anghells|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "November 13, 2022 - 17:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|AWW YEAH|score=W}}",
+            "opponent2": "{{TeamOpponent|Anghells|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "November 13, 2022 - 18:30 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Mind Goblin|score=W}}",
+            "opponent2": "{{TeamOpponent|AWW YEAH|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        }
+    ]
+}

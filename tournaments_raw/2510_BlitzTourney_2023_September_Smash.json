@@ -1,0 +1,308 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4|liquipediatiertype=Monthly",
+            "name": "September Smash",
+            "shortname": "September Smash",
+            "tickername": "September Smash",
+            "image": "BlitzTourney allmode.png",
+            "icon": "BlitzTourney allmode.png",
+            "organizer": "Blitz (American manager)",
+            "organizer-name": "Blitz",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "450",
+            "date": "2023-09-16",
+            "twitter": "BlitzTourney",
+            "twitch": "blitztourneys",
+            "discord": "stUkmzatCz",
+            "youtube": "channel/UCSwNeOEYG_BXCqHmdVOcidw",
+            "rulebook": "https://battlefy.com/blitz-esports-tournaments/september-smash/64e96000f5a6cf674c2f134a/info?infoTab=rules",
+            "bracket": "https://battlefy.com/blitz-esports-tournaments/september-smash/64e96000f5a6cf674c2f134a/info?infoTab=details",
+            "team_number": "16",
+            "previous": "BlitzTourney/2023/August Offensive{{!}}August Offensive",
+            "next": "BlitzTourney/2023/Halloween Havoc{{!}}Halloween Havoc"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Timeless Obsidian",
+            "p1": "Sloth|pos1=dps",
+            "p2": "Hcpeful|pos2=dps",
+            "p3": "Dynasty|pos3=dps",
+            "p4": "Sonne|pos4=tank",
+            "p5": "m5ri|pos5=tank",
+            "p6": "Unread|pos6=sup|p6link=M1kan",
+            "p7": "AJMR|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Doc|t2c1pos=manager"
+        },
+        {
+            "team": "Bingus\u2019 Little Pogchamps",
+            "p1": "DVOWR|p1flag=|pos1=",
+            "p2": "FearlessECHO|p2flag=|pos2=",
+            "p3": "Danietta|p3flag=us|pos3=",
+            "p4": "ledzeps|p4flag=|pos4=",
+            "p5": "Simp|p5flag=|pos5=",
+            "p6": "Rob|p6flag=|pos6=",
+            "p7": "Uraniumboss|p7flag=us|pos7=",
+            "p8": "Crowbar|p8flag=us|pos8="
+        },
+        {
+            "team": "Genesis Replenish",
+            "p1": "yves|p1flag=us|pos1=dps",
+            "p2": "JuicerQT|p2flag=us|pos2=dps",
+            "p3": "8goist|p3flag=us|pos3=tank",
+            "p4": "Bomber|p4flag=us|pos4=sup",
+            "p5": "Poryuu|p5flag=us|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Argonaut|t2c1flag=us|t2c1pos=coach",
+            "t2c2": "Seur|t2c2flag=us|t2c2pos=coach",
+            "t2c3": "cici|t2c3flag=tw|t2c3pos=general manager"
+        },
+        {
+            "team": "Breaking Watch",
+            "p1": "Squillers5|p1flag=us|pos1=",
+            "p2": "Dirt|p2flag=tr|pos2=tank",
+            "p3": "Bdawg|p3flag=us|pos3=",
+            "p4": "K0RTAL|p4flag=us|pos4=sup",
+            "p5": "Miharu|p5flag=us|pos5=",
+            "p6": "FodCarry|pos6=dps",
+            "p7": "Zyteu|p7flag=us|pos7=dps"
+        },
+        {
+            "team": "Shikigami",
+            "p1": "Walex|p1flag=us|pos1=dps",
+            "p2": "Spero|p2flag=ca|pos2=dps",
+            "p3": "Solo|pos3=tank",
+            "p4": "Aspect|pos4=tank",
+            "p5": "Pando|p5flag=us|pos5=sup",
+            "p6": "Thunder|pos6=sup",
+            "p7": "Graveyard|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "Cuffy|t2c1flag=uk|t2c1pos=coach",
+            "t2c2": "NightKnight|t2c2flag=us|t2c2pos=analyst",
+            "t2c3": "Aeroplayne|t2c3pos=general manager"
+        },
+        {
+            "team": "Krazy 88s",
+            "p1": "JUTSU|p1flag=us|pos1=dps",
+            "p2": "Melophobia|pos2=dps",
+            "p3": "Zmurfiex|pos3=tank",
+            "p4": "Reinguy|p4flag=us|pos4=sup",
+            "p5": "Ricky|p5flag=us|pos5=sup|p5link=Ricky (American player)",
+            "t2title": "Staff",
+            "t2c1": "Raine|t2c1pos=manager"
+        },
+        {
+            "team": "Sheer Hot",
+            "p1": "M3WS|pos1=dps",
+            "p2": "Nebu|p2flag=es|pos2=dps",
+            "p3": "opa1x|p3flag=es|pos3=dps",
+            "p4": "Crabby|p4flag=es|pos4=tank",
+            "p5": "Gokhqueen|p5flag=es|pos5=sup",
+            "p6": "Aleexia|p6flag=es|pos6=sup"
+        },
+        {
+            "team": "Slate",
+            "p1": "m4rv3lous|p1flag=us|pos1=dps",
+            "p2": "Talisman|p2flag=pr|pos2=dps|p2link=Talisman (Puerto Rican player)",
+            "p3": "HK3|pos3=tank",
+            "p4": "Nostalgia|p4flag=us|pos4=sup",
+            "p5": "Sketch|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Brick|t2c1flag=us|t2c1pos=head coach",
+            "t2c2": "flashmob|t2c2flag=pr|t2c2pos=manager"
+        },
+        {
+            "team": "8D",
+            "p1": "bedtimestory|p1flag=us|pos1=dps",
+            "p2": "footloose|pos2=dps",
+            "p3": "Today|p3flag=us|pos3=tank",
+            "p4": "Romani|pos4=tank",
+            "p5": "Narwhal|p5flag=us|pos5=sup",
+            "p6": "Andrew|p6flag=us|pos6=sup|p6link=Andrew (American Player)",
+            "p7": "Floomfie|p7flag=us|pos7=sup"
+        },
+        {
+            "team": "Puppy Shelter",
+            "p1": "varsity|p1flag=ca|pos1=dps",
+            "p2": "Absolute|pos2=dps",
+            "p3": "Santana|p3flag=cu|pos3=tank",
+            "p4": "KimChaewon|p4flag=|pos4=sup",
+            "p5": "KQA|p5flag=us|pos5=sup"
+        },
+        {
+            "team": "Imperium",
+            "p1": "turtletime|p1flag=|pos1=",
+            "p2": "Magicly|p2flag=|pos2=",
+            "p3": "htaedse|p3flag=us|pos3=",
+            "p4": "LIME|p4flag=|pos4=",
+            "p5": "ume|p5flag=|pos5=",
+            "p6": "Fusion|p6flag=|pos6="
+        },
+        {
+            "team": "EF Flexodiax",
+            "p1": "p0lis|p1flag=pt|pos1=dps",
+            "p2": "Tricky|p2flag=dk|pos2=dps",
+            "p3": "Kurama|pos3=dps",
+            "p4": "Lunar|p4flag=se|pos4=tank",
+            "p5": "Reisu|p5flag=uk|pos5=sup",
+            "p6": "RodFD|p6flag=pt|pos6=sup",
+            "p7": "RedmanFire|p7flag=de|pos7=sup",
+            "p8": "AkkuFastLeer|p8flag=de|pos8=sup"
+        },
+        {
+            "team": "UC Shawn Duong",
+            "p1": "WannaB|pos1=dps",
+            "p2": "Pakko|pos2=dps",
+            "p3": "Zinnia|pos3=dps",
+            "p4": "Frostedd|pos4=tank",
+            "p5": "Minefan006|pos5=sup",
+            "p6": "Danky|pos6=sup"
+        },
+        {
+            "team": "DomlyyNation",
+            "p1": "Ryan|pos1=dps|p1link=Ryan (American player)",
+            "p2": "lolztehtroll|p2flag=us|pos2=dps",
+            "p3": "Baz|p3flag=us|pos3=tank",
+            "p4": "Niann03|pos4=tank",
+            "p5": "Log|p5flag=ca|pos5=sup",
+            "p6": "BallerSteve|p6flag=us|pos6=sup",
+            "p7": "Domlyy|p7flag=us|pos7=sup",
+            "t2title": "Staff",
+            "t2c1": "rohin|t2c1flag=in|t2c1pos=coach",
+            "t2c2": "Sama|t2c2pos=coach"
+        },
+        {
+            "team": "Hivemind",
+            "p1": "Juvn|p1flag=us|pos1=dps",
+            "p2": "Rakuna|p2flag=ca|pos2=dps",
+            "p3": "Adren|p3flag=us|pos3=tank",
+            "p4": "Bagel|pos4=sup",
+            "p5": "seaborn|p5flag=us|pos5=sup",
+            "p6": "Dhillon|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "Smawl|t2c1flag=ca|t2c1pos=coach",
+            "t2c2": "Daz|t2c2flag=ca|t2c2pos=manager"
+        },
+        {
+            "team": "MECH BRAIN MECH BRAIN MECH BRAIN",
+            "p1": "Recurve|p1flag=us|pos1=dps",
+            "p2": "pengolex|p2flag=us|pos2=dps",
+            "p3": "dust|p3flag=ca|pos3=tank",
+            "p4": "shush|p4link=shush (Mexican player)|p4flag=mx|pos4=sup",
+            "p5": "Th3E|p5flag=ca|pos5=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "",
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Timeless Obsidian|score=2}}",
+            "opponent2": "{{TeamOpponent|Bingus\u2019 Little Pogchamps|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Genesis Replenish|score=0}}",
+            "opponent2": "{{TeamOpponent|Breaking Watch|score=2}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Shikigami|score=2}}",
+            "opponent2": "{{TeamOpponent|Krazy 88s|score=1}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Sheer Hot|score=0}}",
+            "opponent2": "{{TeamOpponent|Slate|score=2}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|8D|score=2}}",
+            "opponent2": "{{TeamOpponent|Puppy Shelter|score=0}}",
+            "optional": "R1M5="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Imperium|score=0}}",
+            "opponent2": "{{TeamOpponent|Flexodiax|score=2}}",
+            "optional": "R1M6="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|UC Shawn Duong|score=0}}",
+            "opponent2": "{{TeamOpponent|DomlyyNation|score=2}}",
+            "optional": "R1M7="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Hivemind|score=0}}",
+            "opponent2": "{{TeamOpponent|MECH BRAIN MECH BRAIN MECH BRAIN|score=2}}",
+            "optional": "R1M8="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Timeless Obsidian|score=2}}",
+            "opponent2": "{{TeamOpponent|Breaking Watch|score=0}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Shikigami|score=2}}",
+            "opponent2": "{{TeamOpponent|Slate|score=1}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|8D|score=2}}",
+            "opponent2": "{{TeamOpponent|Flexodiax|score=0}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|DomlyyNation|score=2}}",
+            "opponent2": "{{TeamOpponent|MECH BRAIN MECH BRAIN MECH BRAIN|score=0}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Timeless Obsidian|score=2}}",
+            "opponent2": "{{TeamOpponent|Shikigami|score=1}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|8D|score=0}}",
+            "opponent2": "{{TeamOpponent|DomlyyNation|score=2}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "2023-09-16",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Timeless Obsidian|score=1}}",
+            "opponent2": "{{TeamOpponent|DomlyyNation|score=3}}",
+            "optional": "R4M1="
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{{DISPLAYTITLE:Go4Overwatch Europe Cup #31}}
+{{Go4Overwatch Navbox}}<br>
+{{Infobox league
+|name=Go4Overwatch Europe Cup #31
+|image=ESL Overwatch Community Cup.png
+|series=Go4Overwatch EU
+|shortname=31
+|organizer=ESL
+|country=Europe
+|format=Single Elimination
+|type=Online
+|date=2017-01-01
+|prizepoolusd=163
+|localcurrency=eur
+|prizepool=150
+|web=http://play.eslgaming.com/overwatch/europe/
+|twitch=esl_overwatch
+|twitch2=
+|twitch3=
+|bracket=https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-31/rankings/
+|liquipediatier=5|liquipediatiertype=Weekly
+|team_number=7
+|map1=
+|map2=
+|map3=
+|previous=Go4Overwatch/Europe/Weekly/30{{!}}Go4 Europe Cup #30
+|next=Go4Overwatch/Europe/Weekly/32{{!}}Go4 Europe Cup #32
+}}
+
+==Overview==
+'''ESL Go4Overwatch Europe Cup #31''' is the 31st European installment of ESL Go4 cups.
+
+€150 ({{Abbr/EUR}}) winner takes all:
+{{prize pool start |localcurrency=eur |points=go4}}
+{{prize pool slot |place=1 |points=100 |usdprize=163 |localprize=150 |cyclone|lastvs1=x4ckers|lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot |place=2 |points=75 |usdprize=0 |x4ckers|lastvs1=cyclone|lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot |place=3 |points=60 |usdprize=0 |robert |lastvs1=death esport|lastscore1=3 |lastvsscore1=0}}
+{{prize pool slot |place=4 |points=40 |usdprize=0 |death esport|lastvs1=robert |lastscore1=0 |lastvsscore1=3}}
+{{prize pool end}}
+
+===Format===
+*Single Elimination Bracket
+**Game Mode
+***Bracket: {{Abbr/Bo1}}
+***Quarterfinals: {{Abbr/Bo3}}
+***Finals: {{Abbr/Bo5}}
+**1 Hero Limit
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=French
+|position=Commentator
+|b1=HammerKick|b1flag=fr | b1name=Antoine Bournier
+|b2=DDaFox |b2flag=fr | b2name=Antoine Raynaud
+}}
+
+==Top4 Teams==
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Cyclone
+|image=
+|p1=Cabz |p1flag=de
+|p2=Davin |p2flag=fi
+|p3=Foxiz |p3flag=se
+|p4=Ryskaposten |p4flag=se
+|p5=Wasylak |p5flag=pl
+|p6=poks |p6flag=fi
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Death eSport
+|image=
+|p1=XEWER |p1flag=fr
+|p2=Veteranjr
+|p3=Cyd |p3flag=fr
+|p4=Ours2Rue |p4flag=fr
+|p5=BenBest|p5flag=fr
+|p6=Jio |p6flag=fr
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Robert
+|image=
+|p1=DuckOnQuack |p1flag=se
+|p2=GoofBall |p2flag=Iceland
+|p3=Kram |p3flag=se
+|p4=Mamutz |p4flag=se
+|p5=Paq |p5flag=se
+|p6=almostpanda |p6flag=se
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=x4ckers
+|image=X4ckersLogo.png
+|p1=DeadlyMich |p1flag=il
+|p2=KAFEEEEEE |p2flag=il
+|p3=Mystic |p3flag=il
+|p4=ShonP |p4flag=il
+|p5=Torus |p5flag=il
+|p6=fragon |p6flag=il
+}}
+{{box|end|padding=2em}}
+
+==Results==
+Complete bracket [https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-31/rankings/ here]
+
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=2K9cctUeQP
+<!-- SEMIFINALS -->
+|R1D1team=cyclone |R1D1score=2 |R1D1win=1
+|R1D2team=death esport|R1D2score=1 |R1D2win=
+|R1D3team=robert |R1D3score=0 |R1D3win=
+|R1D4team=x4ckers |R1D4score=2 |R1D4win=1
+<!-- FINALS -->
+|R2W1team=cyclone |R2W1score=3 |R2W1win=1
+|R2W2team=x4ckers |R2W2score=0 |R2W2win=
+<!-- 3RD PLACE (optional) -->
+|R2D1team=death esport|R2D1score=0 |R2D1win=
+|R2D2team=robert |R2D2score=3 |R2D2win=1
+}}

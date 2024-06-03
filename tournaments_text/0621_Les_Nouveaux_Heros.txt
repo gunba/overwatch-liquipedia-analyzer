@@ -1,0 +1,516 @@
+{{Infobox league
+|liquipediatier=3
+|abbreviation=LNH
+|name=Les Nouveaux Héros
+|shortname=Les Nouveaux Héros
+|tickername=Les Nouveaux Héros
+|icon=
+|image=
+|series=
+|organizer=An4rchy
+|type=Offline
+|country=France
+|city=Paris
+|venue= [https://espot.fr/ Espot Paris]
+|format=Round Robin<br>Single Elimination
+|localcurrency=eur
+|game=overwatch2
+|prizepool=5000
+|date=2022-10-15
+|twitter=espotparis
+|web=https://espot.fr/
+|twitch=FefeGG
+|discord=mj7nXU92
+|bracket=https://play.toornament.com/fr/tournaments/6022967382820134912/stages/6099181041599258624/
+|rulebook=https://docs.google.com/document/d/1_D6Z-GQ_KkC14EFlGmjxDVVwNiSuQXmdO1_7g0xKNPg/edit
+|team_number=16
+}}
+
+==Information==
+===Format===
+*'''Group Stage'''
+**Round Robin format
+**All matches are {{Abbr/Ft2}}
+**Top eight teams advance to the '''Playoffs'''
+
+*'''Playoffs'''
+**Single elimination bracket
+**All matches excl. Grand Finals are {{Abbr/Ft2}}
+**Grand Finals are {{Abbr/Ft3}} 
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|-
+!width="160" rowspan=2; colspan=2|Map Rotation
+!width="480" colspan=6|Available Maps
+|-
+![[Control]]
+![[Escort]]
+![[Push]]
+![[Hybrid]]
+|-
+!1st set
+|''[[Control]]''
+|width="130" rowspan=7|[[Lijiang Tower]]<br><br>[[Ilios]]<br><br>[[Busan]]
+|width="130" rowspan=7|[[Circuit Royal]]<br><br>[[Dorado]]<br><br>[[Junkertown]]
+|width="130" rowspan=7|[[Colosseo]]<br><br>[[New Queen Street]]<br><br>[[Esperança]]
+|width="130" rowspan=7|[[Paraíso]]<br><br>[[King's Row]]<br><br>[[Midtown]]
+|-
+!2nd set
+|''[[Escort]] map''
+|-
+!3rd set
+|''[[Push]] map''
+|-
+!4th set
+|''[[Hybrid]] map''
+|-
+|}
+
+==Prize Pool==
+{{TeamPrizePool|localcurrency=eur
+|{{Slot|localprize=1600|{{Opponent|anghells|lastvs=atlas|lastvsscore=3-0}}}}
+|{{Slot|localprize=1000|{{Opponent|atlas|lastvs=anghells|lastvsscore=0-3}}}}
+|{{Slot|localprize=500|{{Opponent|frost tails esport|lastvs=atlas|lastvsscore=1-2}}}}
+|{{Slot|place=4-5|localprize=250|{{Opponent|team peps|lastvs=anghells|lastvsscore=0-2}}|{{Opponent|5 kings|lastvs=atlas|lastvsscore=1-2}}}}
+|{{Slot|place=6-8|localprize=200|{{Opponent|pipibox|lastvs=team peps|lastvsscore=0-2}}|{{Opponent|alterego (eu team)|lastvs=anghells|lastvsscore=1-2}}|{{Opponent|jake's dungeon|lastvs=frost tails esport|lastvsscore=0-2}}}}
+|{{Slot|place=9-12|localprize=100|{{Opponent|namaste|wdl=1/2}}|{{Opponent|sexiest gaimers|wdl=1/2}}|{{Opponent|les otp|wdl=1/2}}|{{Opponent|astral thunder|wdl=1/0}}}}
+|{{Slot|place=13-16|localprize=100|{{Opponent|yokai|wdl=0/3}}|{{Opponent|lzard's fans|wdl=0/3}}|{{Opponent|montpellier esport club|wdl=0/2}}|{{Opponent|Doofenshmirtz Evil Overwatch 2 Team|wdl=0/2}}}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Anghells
+|p1=Sxj|pos1=dps
+|p2=Wex|pos2=dps
+|p3=Teemo|pos3=tank
+|p4=eis|pos4=tank
+|p5=Natlocks|pos5=sup
+|p6=ilppi13|pos6=sup
+|t2title=Staff
+|t2c1=Natdoekje|t2c1pos=coach
+|t2c2=Zorfen|t2c2pos=manager
+}}
+{{TeamCard
+|team=AlterEgo
+|link=alterego (eu team)
+|p1=Alex|pos1=dps
+|p2=Legend|p2flag=fr|pos2=dps
+|p3=Skytorr|pos3=tank
+|p4=Ayanador|p4flag=fr|pos4=tank
+|p5=Nat|pos5=sup
+|p6=Makkarof|p6flag=fr|pos6=sup
+|t2title=Staff
+|t2c1=Indiid|t2c1flag=fr|t2c1pos=manager
+}}
+{{TeamCard
+|team= Atlas
+|p1=Requiem|p1flag=fr|pos1=dps
+|p2=Zao|p2flag=fr|pos2=dps
+|p3=Mipha|p3flag=fr|pos3=dps
+|p4=GrouinK|pos4=tank
+|p5=Majin|p5flag=fr|pos5=tank
+|p6=GOGO|pos6=sup
+|p7=WiifitG0D|p7flag=fr|pos7=sup
+|t2title=Staff
+|t2c1=Rogers|t2c1flag=fr|t2c1pos=coach
+}}
+{{TeamCard
+|team=Pipibox
+|p1=NiCOgdh|pos1=dps
+|p2=Zaouri|p2flag=fr|pos2=dps
+|p3=Sairqo|p3flag=fr|pos3=tank
+|p4=Lunio|p4flag=fr|pos4=tank
+|p5=Flowy35|p5flag=fr|pos5=sup
+|p6=GRD|p6flag=fr|pos6=sup
+}}
+{{TeamCard
+|team=Namaste
+|p1=Matriera|p1flag=fr|pos1=dps
+|p2=Stellios|pos2=dps
+|p3=Supersaucise|p3flag=fr|pos3=tank
+|p4=Twinkle|p4flag=fr|pos4=tank
+|p5=RabZa|p5flag=fr|pos5=sup
+|p6=Shenzo|p6flag=fr|pos6=sup
+|t2title=Staff
+|t2c1=Lystoae|t2c1flag=fr|t2c1pos=manager
+}}
+{{TeamCard
+|team=Doofenshmirtz Evil Overwatch 2 Team
+|p1=Senna|pos1=dps
+|p2=nwd|p2flag=de|pos2=dps
+|p3=KMS|p3flag=de|pos3=dps
+|p4=Staunag|p4flag=fr|pos4=tank
+|p5=Tally|p5flag=nl|pos5=sup
+|p6=Evergarden|p6flag=uk|pos6=sup
+|p7=DetPikachu|p7flag=no|pos7=sup
+}}
+{{TeamCard
+|team=Team Peps
+|p1=Xerion|pos1=flex
+|p2=Tsuyo|pos2=flex
+|p3=GetAmazed|pos3=flex
+|p4=BenBest|pos4=flex
+|p5=FDGod|pos5=flex
+|t2title=Staff
+|t2c1=Søeny|t2c1pos=manager
+|t2c2=Féfé|t2c2pos=manager
+}}
+{{TeamCard
+|team=Frost Tails Esport
+|p1=Kilaa|pos1=dps
+|p2=Avoria|pos2=dps
+|p3=KroxZ|pos3=tank
+|p4=Reviewz|pos4=sup
+|p5=CaptainPrash|pos5=sup
+|t2title=Staff
+|t2c1=Zorfen|t2c1pos=manager
+}}
+{{TeamCard
+|team=Astral Thunder
+|p1=M3WS|pos1=dps
+|p2=Meliø|pos2=dps
+|p3=Choose|pos3=tank
+|p4=Marked|pos4=sup
+|p5=Azzo|p5flag=fr|pos5=sup
+|t2title=Staff
+|t2c1=Stazz|t2c1flag=fr|t2c1pos=manager
+|t2c2=Bak4ra|t2c2flag=fr|t2c2pos=manager
+}}
+{{TeamCard
+|team=Jake's Dungeon
+|p1=EFF0RT|pos1=dps
+|p2=Kio|pos2=dps
+|p3=Chroo|pos3=tank
+|p4=Ashi|p4flag=fi|pos4=tank
+|p5=Soax|pos5=sup
+|p6=R3flect|pos6=sup
+|p7=Gilix|pos7=sup
+}}
+{{TeamCard
+|team=5 kings
+|p1=TurboSmooth|p1flag=fr|pos1=dps
+|p2=Asaru|p2flag=fr|pos2=dps
+|p3=NevsH200|p3flag=de|pos3=tank
+|p4=AzBlue|p4flag=fr|pos4=sup
+|p5=Xen|p5flag=fr|pos5=sup
+}}
+{{TeamCard
+|team=Dragon's Yokai
+|p1=Niel|p1flag=fr|pos1=dps
+|p2=Kanrater|p2flag=fr|pos2=dps
+|p3=Nizey|p3flag=fr|pos3=tank
+|p4=Hell|p4flag=fr|pos4=sup
+|p5=Lenkwyn|p5flag=fr|pos5=sup
+|p6=EASTPACKMAN|p6flag=fr|pos6=sup
+|t2title=Staff
+|t2p1=Kyo|t2pos1=manager|t2p1link=Kyo (French manager)
+}}
+{{TeamCard
+|team=Lzard's Fans
+|p1=Chihiro|p1flag=fr|pos1=dps
+|p2=Cloud.|p2flag=fr|pos2=dps
+|p3=Mojo|p3flag=fr|pos3=tank
+|p4=Mojolepro|p4flag=fr|pos4=sup
+|p5=Lzard|p5flag=fr|pos5=sup
+|p6=Sined|p6flag=fr|pos6=flex
+}}
+{{TeamCard
+|team=Sexiest Gaimers
+|p1=GeneralDelta|p1flag=fr|pos1=dps
+|p2=PatrickJopi|p2flag=fr|pos2=dps
+|p3=Izko|p3flag=fr|pos3=tank
+|p4=LBV|p4flag=fr|pos4=sup
+|p5=Neaph|p5flag=fr|pos5=sup
+}}
+{{TeamCard
+|team=les otp
+|p1=Golden|p1flag=fr|pos1=flex
+|p2=Protoz|p2flag=fr|pos2=flex
+|p3=Eilkei|p3flag=fr|pos3=flex
+|p4=ygul|p4flag=fr|pos4=flex
+|p5=Flixd|p5flag=fr|pos5=flex
+}}
+{{TeamCard
+|team=Montpellier Esport Club
+|p1=Ayovas|p1flag=fr|pos1=dps
+|p2=Lvcky|p2flag=fr|pos2=dps
+|p3=ClemK|p3flag=fr|pos3=dps
+|p4=Player|p4flag=fr|pos4=tank
+|p5=Karospik|p5flag=fr|pos5=sup
+|p6=IzzyDie|p6flag=fr|pos6=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+===Group Stage===
+
+{{Toggle group start|state=hide}}
+{{box|start|padding=2em}}
+{{GroupTableLeague|width=480px
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|title=Group 1
+|team1=team peps
+|team2=5 kings
+|team3=namaste
+|team4=Dragon's Yokai
+}}
+{{Matchlist|id=1G1KcabxGx|width=480px
+|M1={{Match
+    |bestof=3
+    |date=October 15, 2022 - 10:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team peps|score=2}}
+    |opponent2={{TeamOpponent|5 kings|score=0}}
+}}
+|M2={{Match
+    |date=October 15, 2022 - 10:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|namaste|score=2}}
+    |opponent2={{TeamOpponent|Dragon's Yokai|score=0}}
+}}
+|M3={{Match
+    |date=October 15, 2022 - 11:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team peps|score=2}}
+    |opponent2={{TeamOpponent|Dragon's Yokai|score=0}}
+}}
+|M4={{Match
+    |date=October 15, 2022 - 11:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|namaste|score=0}}
+    |opponent2={{TeamOpponent|5 kings|score=2}}
+}}
+|M5={{Match
+    |date=October 15, 2022 - 12:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team peps|score=2}}
+    |opponent2={{TeamOpponent|namaste|score=0}}
+}}
+|M6={{Match
+    |date=October 15, 2022 - 12:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|5 kings|score=2}}
+    |opponent2={{TeamOpponent|Dragon's Yokai|score=0}}
+}}
+}}
+{{box|break|padding=2em}}
+
+{{GroupTableLeague|width=480px
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|title=Group 2
+|team1=atlas
+|team2=pipibox
+|team3=sexiest gaimers
+|team4=lzard's fans
+}}
+{{Matchlist|id=6zSfVUhNwu|width=480
+|M1={{Match
+    |bestof=3
+    |date=October 15, 2022 - 10:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|pipibox|score=1}}
+    |opponent2={{TeamOpponent|atlas|score=2}}
+}}
+|M2={{Match
+    |date=October 15, 2022 - 10:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|sexiest gaimers|score=2}}
+    |opponent2={{TeamOpponent|lzard's fans|score=1}}
+}}
+|M3={{Match
+    |date=October 15, 2022 - 11:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|pipibox|score=2}}
+    |opponent2={{TeamOpponent|lzard's fans|score=0}}
+}}
+|M4={{Match
+    |date=October 15, 2022 - 11:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|sexiest gaimers|score=0}}
+    |opponent2={{TeamOpponent|atlas|score=2}}
+}}
+|M5={{Match
+    |date=October 15, 2022 - 12:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|pipibox|score=2}}
+    |opponent2={{TeamOpponent|sexiest gaimers|score=0}}
+}}
+|M6={{Match
+    |date=October 15, 2022 - 12:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|atlas|score=2}}
+    |opponent2={{TeamOpponent|lzard's fans|score=0}}
+}}
+}}
+{{box|break|padding=2em}}
+
+{{GroupTableLeague|width=480px
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|title=Group 3
+|team1=anghells
+|team2=jake's dungeon
+|team3=montpellier esport club
+|team4=les otp
+}}
+{{Matchlist|id=8sMdts3VGO|width=480
+|M1={{Match
+    |bestof=3
+    |date=October 15, 2022 - 10:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|anghells|score=2}}
+    |opponent2={{TeamOpponent|jake's dungeon|score=1}}
+}}
+|M2={{Match
+    |date=October 15, 2022 - 10:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|montpellier esport club|score=0}}
+    |opponent2={{TeamOpponent|les otp|score=2}}
+}}
+|M3={{Match
+    |date=October 15, 2022 - 11:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|anghells|score=2}}
+    |opponent2={{TeamOpponent|montpellier esport club|score=0}}
+}}
+|M4={{Match
+    |date=October 15, 2022 - 11:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|jake's dungeon|score=2}}
+    |opponent2={{TeamOpponent|les otp|score=0}}
+}}
+|M5={{Match
+    |date=October 15, 2022 - 12:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|anghells|score=2}}
+    |opponent2={{TeamOpponent|les otp|score=0}}
+}}
+|M6={{Match
+    |date=October 15, 2022 - 12:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|jake's dungeon|score=2}}
+    |opponent2={{TeamOpponent|montpellier esport club|score=0}}
+}}
+}}
+{{box|break|padding=2em}}
+
+{{GroupTableLeague|width=480px
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|title=Group 4
+|team1=frost tails esport
+|team2=doofenshmirtz evil overwatch 2 team
+|team3=alterego (eu team)
+|team4=astral thunder
+}}
+{{Matchlist|id=h6SlsAqE18|width=480
+|M1={{Match
+    |bestof=3
+    |date=October 15, 2022 - 10:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|frost tails esport|score=2}}
+    |opponent2={{TeamOpponent|doofenshmirtz evil overwatch 2 team|score=0}}
+}}
+|M2={{Match
+    |date=October 15, 2022 - 10:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|alterego (eu team)|score=2}}
+    |opponent2={{TeamOpponent|astral thunder|score=1}}
+}}
+|M3={{Match
+    |date=October 15, 2022 - 11:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|frost tails esport|score=2}}
+    |opponent2={{TeamOpponent|alterego (eu team)|score=0}}
+}}
+|M4={{Match
+    |date=October 15, 2022 - 11:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|doofenshmirtz evil overwatch 2 team|score=1}}
+    |opponent2={{TeamOpponent|astral thunder|score=2}}
+}}
+|M5={{Match
+    |date=October 15, 2022 - 12:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|frost tails esport|score=2}}
+    |opponent2={{TeamOpponent|astral thunder|score=0}}
+}}
+|M6={{Match
+    |date=October 15, 2022 - 12:00 {{Abbr/CEST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|alterego (eu team)|score=2}}
+    |opponent2={{TeamOpponent|doofenshmirtz evil overwatch 2 team|score=0}}
+}}
+}}
+{{box|end|padding=2em}}
+
+===Playoffs===
+{{Bracket|Bracket/8|id=uOxj5xFoJQ
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=3
+	|date=2022-10-15 - 14:00 {{Abbr/CEST}}
+    |opponent1={{TeamOpponent|Team Peps|score=2}}
+    |opponent2={{TeamOpponent|Pipibox|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M2={{Match
+	|date=2022-10-15 - 14:00 {{Abbr/CEST}}
+    |opponent1={{TeamOpponent|Anghells|score=2}}
+    |opponent2={{TeamOpponent|AlterEgo (eu team)|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M3={{Match
+	|date=2022-10-15 - 14:00 {{Abbr/CEST}}
+    |opponent1={{TeamOpponent|5 Kings|score=1}}
+    |opponent2={{TeamOpponent|Atlas|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R1M4={{Match
+	|date=2022-10-15 - 14:00 {{Abbr/CEST}}
+    |opponent1={{TeamOpponent|Frost Tails eSport|score=2}}
+    |opponent2={{TeamOpponent|Jake's Dungeon|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|date=2022-10-15 - 15:00 {{Abbr/CEST}}
+    |opponent1={{TeamOpponent|Team Peps|score=0}}
+    |opponent2={{TeamOpponent|Anghells|score=2}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+	|date=2022-10-15 - 15:00 {{Abbr/CEST}}
+    |opponent1={{TeamOpponent|Atlas|score=2}}
+    |opponent2={{TeamOpponent|Frost Tails eSport|score=1}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|bestof=5
+	|date=2022-10-15 - 16:00 {{Abbr/CEST}}
+    |opponent1={{TeamOpponent|Anghells|score=3}}
+    |opponent2={{TeamOpponent|Atlas|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+	|map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

@@ -1,0 +1,207 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "name": "Nadiya Cup 2023 Winter",
+            "shortname": "Nadiya Cup 2023 Winter",
+            "tickername": "Nadiya Cup 2023 Winter",
+            "image": "Nadiya Cup 2023 Winter logo.jpg",
+            "icon": "EZK allmode.png",
+            "organizer": "EZK Gaming",
+            "organizer-link": "https://ezk.gg/",
+            "organizer2": "PLANET9",
+            "organizer2-link": "https://www.planet9.gg/HK/zh/home",
+            "sponsor": "[https://www.acer.com/tw-zh Acer]<br>[https://www.openshop.com.hk/ 2000Fun]",
+            "type": "Online",
+            "country": "Taiwan",
+            "country2": "Hong Kong",
+            "country3": "Macau",
+            "format": "Single Elimination",
+            "prizepoolusd": "487",
+            "prizepool": "3,800",
+            "localcurrency": "hkd",
+            "sdate": "2023-01-14",
+            "edate": "2023-01-15",
+            "game": "overwatch2",
+            "twitch": "ezk_gg",
+            "instagram": "ezk.gg",
+            "facebook": "ezk.gg",
+            "youtube": "channel/UCaNDG07xees0ApNrF2uqP2Q",
+            "rulebook": "https://docs.google.com/document/d/1uA7KK1mHa-A39qkkYy-imCPZCL-GfZekJEXHnRCDnGI/edit?usp=share_link",
+            "discord": "R3KbRDTMTM",
+            "web": "https://www.planet9.gg/HK/zh/tournament/list/T8T22115TJHT/home",
+            "bracket": "https://www.planet9.gg/HK/zh/tournament/list/T8T22115TJHT/brackets",
+            "team_number": "16"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Avoided TW",
+            "p1": "Casper|pos1=dps|p1link=Casper (Taiwanese player)",
+            "p2": "\u591c\u5919|p2flag=tw|pos2=dps",
+            "p3": "OH1YO|p3flag=tw|pos3=dps",
+            "p4": "FEEL1NG|p4flag=tw|pos4=tank",
+            "p5": "BATA|p5flag=tw|pos5=tank|p5link=BATA (Taiwanese player)",
+            "p6": "Yuokami|p6flag=hk|pos6=sup",
+            "p7": "Burberry|p7flag=tw|pos7=sup"
+        },
+        {
+            "team": "NoOverwatchPlayer",
+            "p1": "notK0|p1flag=hk|pos1=",
+            "p2": "nokia3310|p2flag=hk|pos2=",
+            "p3": "DuskIsMe|p3flag=hk|pos3=",
+            "p4": "\u718a\u8c93\u96de\u60f3\u8981\u5403\u8178|p4flag=hk|pos4=",
+            "p5": "CHASYBLOOM|p5flag=hk|pos5="
+        },
+        {
+            "team": "Meow",
+            "p1": "Selecao|p1flag=hk|pos1=dps",
+            "p2": "Kurumi|pos2=dps",
+            "p3": "Phant0mz|p3flag=hk|pos3=tank",
+            "p4": "talesrunner|p4flag=hk|pos4=sup",
+            "p5": "Nisovin|p5flag=hk|pos5=sup",
+            "p6": "hasty88|p6flag=hk|pos6=sup"
+        },
+        {
+            "team": "HKHAPPYHOUR",
+            "p1": "2only3fans4|p1flag=tw|pos1=",
+            "p2": "Helenz|p2flag=hk|pos2=",
+            "p3": "Lillian|p3flag=hk|pos3=",
+            "p4": "jackling|p4flag=hk|pos4=",
+            "p5": "lessismore|p5flag=hk|pos5="
+        },
+        {
+            "team": "LCBS",
+            "p1": "TianDi|p1flag=tw|pos1=",
+            "p2": "LeiXun|p2flag=tw|pos2=",
+            "p3": "PAPAMAO|p3flag=tw|pos3=",
+            "p4": "SHARONBO|p4flag=tw|pos4=",
+            "p5": "JAXSONKEN|p5flag=tw|pos5="
+        },
+        {
+            "team": "\u75be\u98a8x\u843d\u8449",
+            "p1": "KiNoMVP|p1flag=tw|pos1=dps",
+            "p2": "Nimbus|p2flag=tw|pos2=dps",
+            "p3": "VFire|p3flag=tw|pos3=tank",
+            "p4": "TiAmo|pos4=sup",
+            "p5": "wompWomp|p5flag=tw|pos5=sup"
+        },
+        {
+            "team": "Roll Momo",
+            "p1": "Hope|pos1=dps",
+            "p2": "R3K|pos2=dps",
+            "p3": "Tomato|pos3=tank",
+            "p4": "Freaks|p4flag=tw|pos4=sup|p4link=CR2CUIQ",
+            "p5": "RAYMOMO|pos5=sup"
+        },
+        {
+            "team": "\u57fa\u982d\u7279\u6230\u968a",
+            "p1": "\u5229\u5929\u6a02\u5927\u5e2b|p1flag=tw|pos1=",
+            "p2": "Danielhei|p2flag=hk|pos2=",
+            "p3": "supersn|p3flag=tw|pos3=",
+            "p4": "distrust|p4flag=hk|pos4=",
+            "p5": "HAN11|p5flag=tw|pos5=",
+            "p6": "\u6211\u4fc2\u6703\u73a9\u7684\u5c0f\u670b\u53cb|p6flag=tw|pos6=",
+            "p7": "SQDjinFeng|p7flag=tw|pos7="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "January 14, 2023 - 18:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Avoided TW|score=3}}",
+            "opponent2": "{{TeamOpponent|NoOverwatchPlayer|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "January 14, 2023 - 18:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Meow|score=3}}",
+            "opponent2": "{{TeamOpponent|HKHAPPYHOUR|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "January 14, 2023 - 18:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|LCBS|score=0}}",
+            "opponent2": "{{TeamOpponent|\u75be\u98a8x\u843d\u8449|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "January 14, 2023 - 18:30 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Roll Momo|score=3}}",
+            "opponent2": "{{TeamOpponent|\u57fa\u982d\u7279\u6230\u968a|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "January 15, 2023 - 14:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Avoided TW|score=3}}",
+            "opponent2": "{{TeamOpponent|Meow|score=0}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "January 15, 2023 - 14:00 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|\u75be\u98a8x\u843d\u8449|score=3}}",
+            "opponent2": "{{TeamOpponent|Roll Momo|score=2}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "January 15, 2023 - 16:15 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Avoided TW|score=0}}",
+            "opponent2": "{{TeamOpponent|\u75be\u98a8x\u843d\u8449|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "January 15, 2023 - 16:15 {{Abbr/CST}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Meow|score=1}}",
+            "opponent2": "{{TeamOpponent|Roll Momo|score=3}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map4": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map5": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "RxMTP="
+        }
+    ]
+}

@@ -1,0 +1,407 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "NECC",
+            "abbreviation": "NECC",
+            "name": "NECC - 2022 Nationals - Legends Division",
+            "tickername": "NECC 2022 Nationals Legends Division",
+            "image": "NECC 2021 lightmode.png",
+            "imagedark": "NECC 2021 darkmode.png",
+            "organizer": "National Esports Collegiate Conference",
+            "sponsor": "[https://collegiatesmg.com/ CSMG]",
+            "type": "Online",
+            "country": "United States",
+            "country2": "Canada",
+            "game": "overwatch",
+            "prizepoolusd": "5000",
+            "sdate": "2022-05-24",
+            "edate": "2022-05-26",
+            "twitter": "neccgames",
+            "twitch": "necc_esports",
+            "twitch2": "necc2",
+            "youtube": "channel/UCJ7SpyS-00CYxdkBadshxjQ",
+            "website": "https://neccgames.com/landing/index",
+            "team_number": "4"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Converse Esports",
+            "p1": "HaMmEr",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Maxwell",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Garchomp",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "Qwickzzz",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "StillKIWI",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Chance",
+            "p6flag": "",
+            "pos6": "sup",
+            "p6link": "Chance (American_Player)",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Legends|Legends]]",
+            "placement": "3-4"
+        },
+        {
+            "team": "Northwood University",
+            "p1": "Boat",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Dynasty",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "SZNS",
+            "p3flag": "",
+            "pos3": "tank",
+            "p4": "cowman711",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Yimitra",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Landon",
+            "p6flag": "",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "Morb",
+            "t2c1pos": "coach",
+            "t2c2": "Tubesock",
+            "t2c2pos": "manager",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Legends|Legends]]",
+            "placement": "3-4"
+        },
+        {
+            "team": "UTD Esports",
+            "p1": "P3t9l",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Kashir",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Aero",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "Lueyyy",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Jukebox",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "Tinspire",
+            "p6flag": "",
+            "pos6": "tank",
+            "p7": "NoneType",
+            "p7flag": "",
+            "pos7": "sup",
+            "p8": "ArtsyFartsy",
+            "p8flag": "",
+            "pos8": "sup",
+            "t2title": "Staff",
+            "t2c1": "Bani",
+            "t2c1pos": "head coach",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Legends|Legends]]",
+            "placement": "2"
+        },
+        {
+            "team": "Bay State",
+            "p1": "Kabe",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Forgotten",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Chimera",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "Faded",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Avani",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "M1kan",
+            "p6flag": "",
+            "pos6": "sup",
+            "p7": "Neb",
+            "p7flag": "",
+            "pos7": "sup",
+            "p8": "Abbs",
+            "p8flag": "",
+            "pos8": "sup",
+            "qualifier": "[[NECC/2022/Spring/Regular Season Playoffs/Legends|Legends]]",
+            "placement": "1"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "opponent1": "northwood university|score=W",
+            "opponent2": "bay state|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "utd esports",
+            "opponent1_score": 3,
+            "opponent2": "converse esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "northwood university",
+            "opponent1_score": 3,
+            "opponent2": "utd esports",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "bay state|score=FF",
+            "opponent2": "converse esports|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "utd esports|score=W",
+            "opponent2": "converse esports|score=FF",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "7",
+            "opponent1": "northwood university",
+            "opponent1_score": 4,
+            "opponent2": "utd esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map6": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map7": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        }
+    ]
+}

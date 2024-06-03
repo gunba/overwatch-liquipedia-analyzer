@@ -1,0 +1,60 @@
+{
+    "tournament_info": [
+        {
+            "name": "WirForce Overwatch Invitational",
+            "tickername": "WirForce OW Invitational",
+            "image": "Wirforce.jpeg",
+            "icon": "WirForce_Icon.png",
+            "organizer": "WirForce TW",
+            "organizer-link": "http://wirforce.com.tw/",
+            "sponsor": "[http://www.ahq.com.tw/ ahq-eSports Club] <br> [http://www.4gamers.com.tw/ 4Gamers] <br> [https://www.twitch.tv/ TwitchTv] <br>[http://tw.pikolive.com/ PikoLive ] <br> [http://www.nvidia.com.tw/page/home.html Nvidia TW] <br> [http://www.hyperxgaming.com/tw HyperX]<br> [http://www.gigabyte.tw/?f=g GIGABYTE]",
+            "type": "Offline",
+            "country": "Taiwan",
+            "city": "Taipei",
+            "venue": "Taipei International Flora Exposition- EXPO Dome",
+            "series": "",
+            "number": "",
+            "format": "{{Abbr/Bo5}} Series",
+            "date": "2016-11-12",
+            "web": "http://wirforce.com.tw/hightlight.html",
+            "bracket": "",
+            "prizepoolusd": "3,140",
+            "prizepool": "100,000",
+            "localcurrency": "twd",
+            "teamfirst": "",
+            "teamsecond": "",
+            "teamthird": "",
+            "teamfourth": "",
+            "team_number": "2",
+            "previous": "",
+            "next": "",
+            "liquipediatier": "{{TierText/3}}"
+        }
+    ],
+    "team_cards": [],
+    "legacy_match_cards": [
+        {
+            "date": "November 12, 2016 - 15:00",
+            "date_timezone": "TST",
+            "finished": "true",
+            "stream": "",
+            "winner": "",
+            "match1": "{{Match/old",
+            "map": "Nepal",
+            "controlwin1": "2",
+            "controlwin2": "1",
+            "controlwin3": "1",
+            "controlwin4": "2",
+            "controlwin5": "2",
+            "team2": "nvidia black",
+            "score2": "3",
+            "win2": "2",
+            "details2": "{{BracketMatchSummary",
+            "key": "R1D1",
+            "team1": "nvidia green",
+            "score1": "1",
+            "win1": "2"
+        }
+    ],
+    "match_maps": []
+}

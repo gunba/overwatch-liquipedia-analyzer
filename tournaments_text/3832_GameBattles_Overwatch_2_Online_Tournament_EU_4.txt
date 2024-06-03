@@ -1,0 +1,176 @@
+{{DISPLAYTITLE:GameBattles Overwatch 2 Online Tournament Europe #4}}
+{{GameBattles navbox}}
+{{Tabs static
+|link1=GameBattles_Overwatch_2_Online_Tournament/NA/4|name1=NA
+|link2=GameBattles_Overwatch_2_Online_Tournament/EU/4|name2=EU
+}}
+{{Infobox league
+|liquipediatier=4|liquipediatiertype=Weekly
+|name=GameBattles Overwatch 2 Online Tournament Europe #4
+|shortname=5v5 Europe #4
+|tickername=GameBattles Europe #4
+|icon=GameBattles icon lightmode.png
+|icondark=GameBattles icon darkmode.png
+|image=GameBattles lightmode.png
+|imagedark=GameBattles darkmode.png
+|organizer=GameBattles
+|series=GameBattles
+|abbreviation=GB
+|type=Online
+|country=North America
+|game=overwatch2
+|prizepoolusd=500
+|date=2022-10-15
+|twitter=gamebattles
+|discord=gamebattles
+|facebook=gamebattles
+|rulebook=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5-500-europe-free-entry-3/info
+|bracket=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/5v5-500-europe-free-entry-3/bracket
+|team_number=8
+|previous=GameBattles_Overwatch_2_Online_Tournament/EU/3{{!}}#3
+|next=GameBattles_Overwatch_2_Online_Tournament/EU/5{{!}}#5
+}}
+
+==Information==
+===Format===
+*All matches are {{Abbr/Ft2}}
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=400}}
+|{{Slot|usdprize=100}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Avengers
+|p1=vEmpiree|p1flag=|pos1=
+|p2=Enxiun|p2flag=|pos2=
+|p3=KingImBett|p3flag=|pos3=
+|p4=abWizz|p4flag=|pos4=
+|p5=qbzy|p5flag=|pos5=
+}}
+{{TeamCard
+|team=DramaTeam
+|p1=Erso|p1flag=|pos1=
+|p2=Osef|p2flag=|pos2=
+|p3=GaMMaGab|p3flag=|pos3=
+|p4=RANK |p4flag=|pos4=
+|p5=WhiteRCK|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Milla & The Bois
+|p1=Milla|p1flag=|pos1=
+|p2=PapaC|p2flag=|pos2=
+|p3=Roup|p3flag=|pos3=
+|p4=Slayer|p4flag=|pos4=
+|p5=sheverus|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Astro
+|link=Astro (EU Team)
+|p1=Potatypus|p1flag=|pos1=dps
+|p2=Caromell|p2flag=|pos2=
+|p3=NightShadow|p3flag=|pos3=
+|p4=LOV3LEE|p4flag=|pos4=
+|p5=RjWolf|p5flag=|pos5=
+}}
+{{TeamCard
+|team=numberthree
+|p1=Phi|pos1=DPS
+|p2=Sauna|pos2=DPS
+|p3=twolzz|pos3=Tank
+|p4=ANJ|pos4=Support
+|p5=ghost91|p5flag=fi|pos5=Support
+|t2title=Staff
+|t2p1=junseo|t2pos1=Manager
+|t2p2=Raajaro|t2pos2=Manager
+|t2p3=damen|t2pos3=Manager
+}}
+{{TeamCard
+|team=Everfrost Ares
+|p1=kurama|p1flag=uk|pos1=dps
+|p2=unto|p2flag=|pos2=dps
+|p3=depsi|p3flag=fi|pos3=tank
+|p4=Zoom|p4flag=|pos4=sup
+|p5=Karrodd|p5flag=|pos5=sup
+}}
+{{TeamCard
+|team=House Vikings
+|p1=ChrizZ|p1flag=|pos1=
+|p2=JayP7|p2flag=|pos2=
+|p3=Kane|p3flag=|pos3=
+|p4=Laxlay|p4flag=|pos4=
+|p5=Slicx|p5flag=|pos5=
+|p6=ogympisk|p6flag=|pos6=
+}}
+{{TeamCard
+|team=Mind Goblin
+|p1=Sardonyx|p1flag=uk|pos1=dps
+|p2=Juuzo|p2flag=uk|pos2=dps
+|p3=Condi|p3flag=za|pos3=dps
+|p4=Theomatic|p4flag=za|pos4=tank
+|p5=Tred|p5flag=uk|pos5=tank
+|p6=Yoham|p6flag=dk|pos6=sup
+|p7=Strebor|p7flag=uk|pos7=sup
+|t2title=Staff
+|t2c1=Søeny|t2c1pos=Manager
+|t2c2=PnR|t2c2pos=coach|t2c2flag=sct
+|t2c3=VisionPB|t2c3pos=coach|t2c3flag=uk
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/8|id=OXe1zeKy3o
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |bestof=3
+	|date=2022-10-15
+    |winner=
+    |opponent1={{TeamOpponent|Avengers|score=L}}
+    |opponent2={{TeamOpponent|DramaTeam|score=W}}
+}}
+|R1M2={{Match
+	|date=2022-10-15
+    |winner=
+    |opponent1={{TeamOpponent|Astro (EU Team)|score=L}}
+    |opponent2={{TeamOpponent|Milla & The Bois|score=W}}
+}}
+|R1M3={{Match
+	|date=2022-10-15
+    |winner=
+    |opponent1={{TeamOpponent|Numberthree|score=W}}
+    |opponent2={{TeamOpponent|Everfrost Ares|score=L}}
+}}
+|R1M4={{Match
+	|date=2022-10-15
+    |winner=
+    |opponent1={{TeamOpponent|House Vikings|score=L}}
+    |opponent2={{TeamOpponent|Mind Goblin|score=W}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|date=2022-10-15
+    |winner=
+    |opponent1={{TeamOpponent|Milla & The Bois|score=L}}
+    |opponent2={{TeamOpponent|DramaTeam|score=W}}
+}}
+|R2M2={{Match
+	|date=2022-10-15
+    |winner=
+    |opponent1={{TeamOpponent|Mind Goblin|score=L}}
+    |opponent2={{TeamOpponent|Numberthree|score=W}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|date=2022-10-15
+    |winner=
+    |opponent1={{TeamOpponent|DramaTeam|score=L}}
+    |opponent2={{TeamOpponent|Numberthree|score=W}}
+}}
+}}

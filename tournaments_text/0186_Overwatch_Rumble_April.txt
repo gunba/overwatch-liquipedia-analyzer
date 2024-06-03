@@ -1,0 +1,942 @@
+{{DISPLAYTITLE:Overwatch Rumble - April}}
+{{OW_Rumble_Navbox}}
+<br>
+{{Tabs static
+|name1=Main Event |link1=Overwatch_Rumble/April
+|name2=Open Qualifier|link2=Overwatch_Rumble/April/Open Qualifier
+|This=1
+}}
+{{Infobox league
+|name=Overwatch Rumble - April
+|shortname=April
+|image=Overwatch Rumblelogo.png
+|series=Overwatch Rumble
+|abbreviation=OW Rumble
+|tickername=OW Rumble
+|organizer=Rivalcade
+|sponsor= [http://rivalcades.com/ Rivalcade] <br> [https://xsolla.academy/ Xsolla Academy] <br> [https://www.dxracer.com DXRacer] <br> [https://www.razerzone.com Razer] <br> [http://us.blizzard.com Blizzard]
+|type=Online
+|country=North America
+|city=
+|format=Qualifiers <br> Group Stage <br> Playoffs
+|prizepool=
+|localcurrency=
+|prizepoolusd=10,000
+|sdate=2017-04-22
+|edate=2017-04-23
+|liquipediatier=2
+|web=http://rivalcades.com/owrumble.php
+|twitter=livethebattle
+|bracket=https://arena.razerzone.com/tournaments/details/6751/overwatch-rumble/brackets
+|twitch=livethebattle
+|team_number=16
+}}
+{{TOClimit|3}}
+
+The '''Overwatch Rumble''' by ''Rivalcade'' is a $10,000 {{Abbr/USD}} online tournament, featuring 8 directly invited teams and 8 teams from the [[Overwatch_Rumble/April/Open Qualifier |Open Qualifier]].
+
+==Format==
+*'''Qualifiers''': Single Elimination
+**Top 8 teams advance to '''Group Stage'''.
+*'''Group Stage''': Round Robin.
+**All matches are {{Abbr/Bo3}}.
+*'''Playoffs''': Double Elimination
+**All matches are {{Abbr/Bo3}}.
+**Grand Finals are {{Abbr/Bo5}}.
+***If Lower Bracket team wins, bracket reset is used, using {{Abbr/Bo3}} as the deciding game.
+
+==Broadcast Talent==
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=AskJoshy
+|b2=JoRoSaR |b2flag=us
+|b3=GameWithStorm|b3flag=us
+|b4=Heurix|b4flag=us|b4name=Christian Thomasser
+}}
+{{BroadcasterCard|lang=Korean
+|position=Commentator
+|b1=NamedHwi|b1flag=kr |b1name=Go Se-Hwi 고세휘
+}}
+
+==Prize Pool==
+$10,000 {{Abbr/USD}} are spread among the teams as seen below:
+{{prize pool start|cutafter=4}}
+{{prize pool slot|place=1 |usdprize=6,000|rogue|lastvs1=envyus|lastscore1= 3|lastvsscore1= 2}}
+{{prize pool slot|place=2 |usdprize=3,000|envyus|lastvs1=rogue|lastscore1= 2|lastvsscore1= 3}}
+{{prize pool slot |place=3 |usdprize=1,000|selfless|lastvs1=envyus|lastscore1=1 |lastvsscore1=2|date1=2017-04-23}}
+{{prize pool slot |place=4 |usdprize=0|lg evil|lastvs1=selfless|lastscore1=0 |lastvsscore1=2|date1=2017-04-23
+}}
+{{prize pool slot |place=5-6 |usdprize=0 
+|immortals|lastvs1=selfless|lastscore1=0 |lastvsscore1=2|date1=2017-04-23
+|cloud9|lastvs2=lg evil|lastscore2=1 |lastvsscore2=2|date2=2017-04-23
+}}
+{{prize pool slot |place=7-8 |usdprize=0 
+|splyce|lastvs1=selfless|lastscore1=1 |lastvsscore1=2|date1=2017-04-23
+|rise nation|lastvs2=lg evil|lastscore2=0 |lastvsscore2=2|date2=2017-04-23
+}}
+{{prize pool slot |place=9-12 |usdprize=0 
+|team liquid|wdl1=1/-/2 |date1=2017-04-22
+|you guys get paid?|wdl2=1/-/2 |date2=2017-04-22
+|tempo storm na|wdl3=1/-/2 |date3=2017-04-22
+|complexity gaming|wdl4=1/-/2 |date4=2017-04-22
+}}
+{{prize pool slot |place=13-16 |usdprize=0 
+|envision esports|wdl1=0/-/3 |date1=2017-04-22
+|nrg esports|wdl2=0/-/3 |date2=2017-04-22
+|gale force esports|wdl3=0/-/3 |date3=2017-04-22
+|counter logic gaming|wdl4=0/-/3 |date4=2017-04-22
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=EnVyUs
+|p1=Taimou
+|p2=HarryHook
+|p3=cocco
+|p4=chipshajen
+|p5=Mickie
+|p6=Lui
+|c=KyKy|cflag=us
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Rogue
+|p1=aKm|p1flag=
+|p2=SoOn|p2flag=
+|p3=winz|p3flag=
+|p4=NiCOgdh|p4flag=
+|p5=uNKOE|p5flag=
+|p6=KnOxXx|p6flag=
+|t2title=Staff
+|t2p1=Lanf3ust|t2pos1=coach
+|t2p2=Mex|t2pos2=manager
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Cloud9
+|p1=Selly |p1flag=kr
+|p2=Surefour |p2flag=
+|p3=Gods |p3flag=
+|p4=xepheR |p4flag=kr
+|p5=Adam |p5flag=
+|p6=Roolf |p6flag=
+|c=Bishop|cflag=kr
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Selfless Gaming
+|p1=sinatraa|p1flag=
+|p2=dafran|p2flag=
+|p3=emongg|p3flag=
+|p4=Kresnik|p4flag=
+|p5=Michael3D|p5flag=
+|p6=dhaK|p6flag=
+|c=Sephy|cflag=us
+|c2=LegitRc
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Immortals
+|p1=GrimReality|p1flag=
+|p2=Agilities|p2flag=
+|p3=Hyped|p3flag=
+|p4=nomy|p4flag=
+|p5=Aythen|p5flag=
+|p6=Verbo|p6flag=
+|c= Chance|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Luminosity Gaming Evil
+|p1=JAKE|p1flag=
+|p2=train|p2flag=
+|p3=Voll|p3flag=
+|p4=super|p4flag=
+|p5=rob420|p5flag=
+|p6=Avast|p6flag=
+|c= Precision|cflag=us
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Splyce
+|p1=babybay
+|p2=mykL
+|p3=Graceful
+|p4=iRemix
+|p5=PYYYOUR
+|p6=Dogman
+|c=|cflag=
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=compLexity Gaming
+|p1=Shake
+|p2=torkTJO
+|p3=NicolasTJO
+|p4=Joemeister
+|p5=Meza
+|p6=eqo|p6flag=il
+|c=RaptorZ|cflag=us
+|qualifier=Invited
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Counter Logic Gaming
+|p1= Mikado
+|p2= The
+|p3= Waffletastic
+|p4= Hydration
+|p5= Miso
+|p6= iShiny
+|c= Cuddles|cflag=uk
+|qualifier=[[Overwatch_Rumble/April/Open Qualifier | Open Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Gale Force eSports
+|p1= Muma|p1flag=us
+|p2= Bani|p2flag=ca
+|p3= Shrugger
+|p4= CLOCKWORK
+|p5= Boink|p5flag=us
+|p6= exi
+|c= wgb
+|qualifier=[[Overwatch_Rumble/April/Open Qualifier | Open Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Tempo Storm NA
+|p1= DreamKazper
+|p2= TiG
+|p3= Mini
+|p4= Cosi
+|p5= jkw
+|p6= TwoEasy
+|c= Novx|cflag=us
+|qualifier=[[Overwatch_Rumble/April/Open Qualifier | Open Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Rise Nation
+|p1= Desro
+|p2= Midnight
+|p3= Phaz
+|p4= Spirit
+|p5= xRetzi
+|p6= Locke
+|c= Winlogon|cflag=ca
+|qualifier=[[Overwatch_Rumble/April/Open Qualifier | Open Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=EnVision eSports
+|p1= Tseini
+|p2= Fire|p2flag=us
+|p3= Fahzix|p3flag=us
+|p4= McGravy|p4flag=us
+|p5= Kophee|p5flag=us
+|p6= Darksma|p6flag=us
+|c= Packing10|cflag=us
+|qualifier=[[Overwatch_Rumble/April/Open Qualifier | Open Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=You guys get paid?
+|p1= KSF|p1flag=us
+|p2= PsychoWaffle|p2flag=
+|p3= Moffitt|p3flag=
+|p4= MrSquishee|p4flag=ca
+|p5= Beasthalo|p5flag=us
+|p6= SPACE|p6flag=us
+|c= |cflag=
+|qualifier=[[Overwatch_Rumble/April/Open Qualifier | Open Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=NRG Esports
+|p1= Ajax
+|p2= Harbleu
+|p3= numlocked
+|p4= iddqd
+|p5= dummy
+|p6= ultimawep
+|c= |cflag=
+|qualifier=[[Overwatch_Rumble/April/Open Qualifier | Open Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Liquid
+|p1= DaHanG
+|p2= MESR
+|p3= AZK
+|p4= Rapha
+|p5= shadder2k
+|p6= id
+|c= Aurace|cflag=us
+|qualifier=[[Overwatch_Rumble/April/Open Qualifier | Open Qualifier]]
+}}
+{{box|end|padding=2em}}
+
+==Results==
+===Group Stage===
+{{Toggle group start|state=show}}
+{{box|start|}}
+{{box|start|padding=2em}}
+====Group A====
+{{GroupTableStart| Group A |width=450px
+|vod1=https://youtu.be/aPIHUKMRSss
+|vod2=https://youtu.be/bXs4yD6J7aQ
+|vod3=https://youtu.be/GYtMaGWZ-6U
+|vod4=https://youtu.be/m7VsL9kejiM
+|vod5=
+|vod6=
+}}
+{{GroupTableSlot| {{Team|rogue}} |place=1 |win_m=3 |lose_m=0 |win_r=6 |lose_r=1 |diff=+5 |bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|rise nation}} |place=2 |win_m=2 |lose_m=1 |win_r=5 |lose_r=2 |diff=+3 |bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|complexity gaming}} |place=3 |win_m=1 |lose_m=2 |win_r=2 |lose_r=4 |diff=-2 |bg=down|show_p=false}}
+{{GroupTableSlot| {{Team|clg}} |place=4 |win_m=0 |lose_m=3 |win_r=0 |lose_r=6 |diff=-6 |bg=down|show_p=false}}
+{{GroupTableEnd}}
+
+{{LegacyMatchList|id=TtTxQcCnwc |title=Group A Matches |width=450px
+|match1={{MatchMaps
+|team1=rogue|team2=clg|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 15:00 {{Abbr/EDT}}
+|finished=true
+|map1=Watchpoint: Gibraltar|map1score=3-1|map1win=1
+|map2=Hollywood|map2score=3-2|map2win=1
+|map3=|map3score=|map3win=
+|overgg=3610/rogue-vs-clg-rivalcade-overwatch-rumble-groups-group-a
+|pf=24555/Rogue-vs-Counter-Logic-Gaming/
+|wl=933
+}}
+}}
+|match2={{MatchMaps
+|team1=rogue|team2=rise nation|winner=1
+|games1=2|games2=1
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 16:00 {{Abbr/EDT}}
+|finished=true
+|map1=King's Row|map1score=3-4|map1win=2
+|map2=Watchpoint: Gibraltar|map2score=3-2|map2win=1
+|map3=Lijiang Tower|map3score=3-0|map3win=1
+|overgg=3611/rogue-vs-rise-rivalcade-overwatch-rumble-groups-group-a
+|pf=24556/Rogue-vs-Rise-Nation/
+|wl=934
+}}
+}}
+|match3={{MatchMaps
+|team1=complexity gaming|team2=clg|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 16:00 {{Abbr/EDT}}
+|finished=true
+|map1=Numbani|map1score=1-0|map1win=1
+|map2=King's Row|map2score=4-3|map2win=1
+|map3=|map3score=|map3win=
+|overgg=3612/col-vs-clg-rivalcade-overwatch-rumble-groups-group-a
+|pf=24557/compLexity-vs-Counter-Logic-Gaming/
+|wl=935
+}}
+}}
+|match4={{MatchMaps
+|team1=rogue|team2=complexity gaming|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 17:00 {{Abbr/EDT}}
+|finished=true
+|map1=King's Row|map1score=2-1|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=3-0|map2win=1
+|map3=|map3score=|map3win=
+|overgg=3613/rogue-vs-col-rivalcade-overwatch-rumble-groups-group-a
+|pf=24558/Rogue-vs-compLexity/
+|wl=936
+}}
+}}
+|match5={{MatchMaps
+|team1=clg|team2=rise nation|winner=2
+|games1=0|games2=2
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 17:00 {{Abbr/EDT}}
+|finished=true
+|map1=King's Row|map1score=|map1win=2
+|map2=Lijiang Tower|map2score=2-3|map2win=2
+|map3=|map3score=|map3win=
+|overgg=3614/clg-vs-rise-rivalcade-overwatch-rumble-groups-group-a
+|pf=24559/Counter-Logic-Gaming-vs-Rise-Nation/
+|wl=937
+}}
+}}
+|match6={{MatchMaps
+|team1=complexity gaming|team2=rise nation|winner=2
+|games1=0|games2=2
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 18:00 {{Abbr/EDT}}
+|finished=true
+|map1=Watchpoint: Gibraltar|map1score=|map1win=2
+|map2=King's Row|map2score=|map2win=2
+|map3=|map3score=|map3win=
+|overgg=3615/col-vs-rise-rivalcade-overwatch-rumble-groups-group-a
+|pf=24560/compLexity-vs-Rise-Nation/
+|wl=938
+}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+====Group B====
+{{GroupTableStart| Group B |width=450px
+|vod1=https://youtu.be/2mllG-PSSsw
+|vod2=https://youtu.be/P9r3Vo01X68
+|vod3=https://youtu.be/iGUQxTR8Oso
+|vod4=
+|vod5=
+|vod6=
+}}
+{{GroupTableSlot| {{Team|immortals}} |place=1 |win_m=3 |lose_m=0 |win_r=6 |lose_r=1 |diff=+5 |bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|cloud9}} |place=2 |win_m=2 |lose_m=1 |win_r=5 |lose_r=2 |diff=+3 |bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|tempo storm na}} |place=3 |win_m=1 |lose_m=2 |win_r=2 |lose_r=5 |diff=-3 |bg=down|show_p=false}}
+{{GroupTableSlot| {{Team|gale force esports}} |place=4 |win_m=0 |lose_m=3 |win_r=1|lose_r=6 |diff=-5 |bg=down|show_p=false}}
+{{GroupTableEnd}}
+
+{{LegacyMatchList|id=c86UambQR0 |title=Group B Matches |width=450px
+|match1={{MatchMaps
+|team1=cloud9|team2=immortals|winner=2
+|games1=1|games2=2
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 17:00 {{Abbr/EDT}}
+|finished=true
+|map1=Lijiang Tower|map1score=3-0|map1win=1
+|map2=Nepal|map2score=1-3|map2win=2
+|map3=Dorado|map3score=2-3|map3win=2
+|overgg=3616/c9-vs-imt-rivalcade-overwatch-rumble-groups-group-b
+|pf=24561/Cloud9-vs-Immortals/
+|wl=939
+}}
+}}
+|match2={{MatchMaps
+|team1=cloud9|team2=gale force esports|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 18:00 {{Abbr/EDT}}
+|finished=true
+|map1=Watchpoint: Gibraltar|map1score=3-0|map1win=1
+|map2=Lijiang Tower|map2score=3-0|map2win=1
+|map3=King's Row|map3score=|map3win=skip
+|overgg=3617/c9-vs-gfe-rivalcade-overwatch-rumble-groups-group-b
+|pf=24562/Cloud9-vs-Gale-Force-eSports/
+|wl=940
+}}
+}}
+|match3={{MatchMaps
+|team1=immortals|team2=tempo storm na|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 18:00 {{Abbr/EDT}}
+|finished=true
+|map1=King's Row|map1score=4-3|map1win=1
+|map2=Numbani|map2score=3-2|map2win=1
+|map3=|map3score=|map3win=
+|overgg=3618/imt-vs-tempo-rivalcade-overwatch-rumble-groups-group-b
+|pf=24563/Immortals-vs-Tempo-Storm-NA/
+|wl=941
+}}
+}}
+|match4={{MatchMaps
+|team1=gale force esports|team2=tempo storm na|winner=2
+|games1=1|games2=2
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 19:00 {{Abbr/EDT}}
+|finished=true
+|map1=Lijiang Tower|map1score=|map1win=1
+|map2=King's Row|map2score=|map2win=2
+|map3=Numbani|map3score=|map3win=2
+|overgg=3619/gfe-vs-tempo-rivalcade-overwatch-rumble-groups-group-b
+|pf=24564/Gale-Force-eSports-vs-Tempo-Storm-NA/
+|wl=942
+}}
+}}
+|match5={{MatchMaps
+|team1=immortals|team2=gale force esports|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 20:00 {{Abbr/EDT}}
+|finished=true
+|map1=Lijiang Tower|map1score=3-1|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=2-1|map2win=1
+|map3=|map3score=|map3win=
+|overgg=3620/imt-vs-gfe-rivalcade-overwatch-rumble-groups-group-b
+|pf=24565/Immortals-vs-Gale-Force-eSports/
+|wl=943
+}}
+}}
+|match6={{MatchMaps
+|team1=cloud9|team2=tempo storm na|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 20:00 {{Abbr/EDT}}
+|finished=true
+|map1=King's Row|map1score=4-3|map1win=1
+|map2=Lijiang Tower|map2score=3-1|map2win=1
+|map3=|map3score=|map3win=
+|overgg=3621/c9-vs-tempo-rivalcade-overwatch-rumble-groups-group-b
+|pf=24566/Cloud9-vs-Tempo-Storm-NA/
+|wl=944
+}}
+}}
+}}
+{{box|end}}
+{{box|break}}
+{{box|start|padding=2em}}
+
+====Group C====
+{{GroupTableStart| Group C |width=450px
+|vod1=https://youtu.be/dhp_rQ2xqCA
+|vod2=https://youtu.be/_pHIuRQvcfc
+|vod3=https://youtu.be/HI74v_mGDLQ
+|vod4=https://youtu.be/_dAWLo0n6hY
+|vod5=https://youtu.be/UJdUXXg4Emo
+|vod6=https://youtu.be/IFrXXz5vgPw
+}}
+{{GroupTableSlot| {{Team|selfless}} |place=1 |win_m=3 |lose_m=0 |win_r=6 |lose_r=1 |diff=+5 |bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|lg evil}} |place=2 |win_m=2 |lose_m=1 |win_r=4 |lose_r=3 |diff=+1 |bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|you guys get paid?}} |place=3 |win_m=1 |lose_m=2 |win_r=4 |lose_r=4 |diff=0 |bg=down|show_p=false}}
+{{GroupTableSlot| {{Team|envision esports}} |place=4 |win_m=0 |lose_m=3 |win_r=0 |lose_r=6 |diff=-6 |bg=down|show_p=false}}
+{{GroupTableEnd}}
+
+{{LegacyMatchList|id=QmtC3uwR0D |title=Group C Matches |width=450px
+|match1={{MatchMaps
+|team1=selfless|team2=lg evil|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 19:00 {{Abbr/EDT}}
+|finished=true
+|map1=Nepal|map1score=3-0|map1win=1
+|map2=Lijiang Tower|map2score=3-0|map2win=1
+|map3=King's Row|map3score=|map3win=skip
+|overgg=3623/selfless-vs-lg-evil-rivalcade-overwatch-rumble-groups-group-c
+|pf=24567/Selfless-vs-Luminosity-Gaming-Evil/
+|wl=945
+}}
+}}
+|match2={{MatchMaps
+|team1=selfless|team2=envision esports|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 20:00 {{Abbr/EDT}}
+|finished=true
+|map1=Nepal|map1score=3-0|map1win=1
+|map2=King's Row|map2score=3-2|map2win=1
+|map3=Numbani|map3score=|map3win=skip
+|overgg=3624/selfless-vs-envision-rivalcade-overwatch-rumble-groups-group-c
+|pf=24568/Selfless-vs-EnVision-eSports/
+|wl=946
+}}
+}}
+|match3={{MatchMaps
+|team1=lg evil|team2=you guys get paid?|winner=1
+|games1=2|games2=1
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 20:00 {{Abbr/EDT}}
+|finished=true
+|map1=Nepal|map1score=3-1|map1win=1
+|map2=Lijiang Tower|map2score=1-3|map2win=2
+|map3=Dorado|map3score=2-1|map3win=1
+|overgg=3625/lg-evil-vs-rivalcade-overwatch-rumble-groups-group-c
+|pf=24569/Luminosity-Gaming-Evil-vs-You-guys-get-paid/
+|wl=947
+}}
+}}
+|match4={{MatchMaps
+|team1=selfless|team2=you guys get paid?|winner=1
+|games1=2|games2=1
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 21:00 {{Abbr/EDT}}
+|finished=true
+|map1=Volskaya Industries|map1score=3-2|map1win=1
+|map2=Nepal|map2score=2-3|map2win=2
+|map3=Numbani|map3score=3-2|map3win=1
+|overgg=3626/selfless-vs-rivalcade-overwatch-rumble-groups-group-c
+|pf=24570/Selfless-vs-You-guys-get-paid/
+|wl=948
+}}
+}}
+|match5={{MatchMaps
+|team1=lg evil|team2=envision esports|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 21:00 {{Abbr/EDT}}
+|finished=true
+|map1=Nepal|map1score=3-0|map1win=1
+|map2=Lijiang Tower|map2score=3-0|map2win=1
+|map3=|map3score=|map3win=
+|overgg=3627/lg-evil-vs-envision-rivalcade-overwatch-rumble-groups-group-c
+|pf=24571/Luminosity-Gaming-Evil-vs-EnVision-eSports/
+|wl=949
+}}
+}}
+|match6={{MatchMaps
+|team1=envision esports|team2=you guys get paid?|winner=2
+|games1=0|games2=2
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 22:00 {{Abbr/EDT}}
+|finished=true
+|map1=Nepal|map1score=1-3|map1win=2
+|map2=King's Row|map2score=0-1|map2win=2
+|map3=|map3score=|map3win=
+|overgg=3628/envision-vs-rivalcade-overwatch-rumble-groups-group-c
+|pf=24572/EnVision-eSports-vs-You-guys-get-paid/
+|wl=950
+}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====Group D====
+{{GroupTableStart| Group D |width=450px
+|vod1=https://youtu.be/d_Ac-f8zl1A
+|vod2=https://youtu.be/jZ3kaEhpKDQ
+|vod3=https://youtu.be/MNrINpEQcHg
+|vod4=https://youtu.be/J5Jl6Um1PXg
+|vod5=https://youtu.be/zm-HJJoYfiA
+|vod6=
+}}
+{{GroupTableSlot| {{Team|envyus}} |place=1 |win_m=3 |lose_m=0 |win_r=6 |lose_r=1 |diff=+5 |bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|splyce}} |place=2 |win_m=2 |lose_m=1 |win_r=4 |lose_r=3 |diff=+1 |bg=up|show_p=false}}
+{{GroupTableSlot| {{Team|team liquid}} |place=3 |win_m=1 |lose_m=2 |win_r=4 |lose_r=4 |diff=0 |bg=down|show_p=false}}
+{{GroupTableSlot| {{Team|nrg esports}} |place=4 |win_m=0 |lose_m=3 |win_r=0 |lose_r=6 |diff=-6 |bg=down|show_p=false}}
+{{GroupTableEnd}}
+
+{{LegacyMatchList|id=hfwkO2vF4H |title=Group D Matches |width=450px
+|match1={{MatchMaps
+|team1=nrg esports|team2=team liquid|winner=2
+|games1=0|games2=2
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 19:00 {{Abbr/EDT}}
+|finished=true
+|map1=Watchpoint: Gibraltar|map1score=0-1|map1win=2
+|map2=Nepal|map2score=0-3|map2win=2
+|map3=|map3score=|map3win=
+|overgg=3631/nrg-vs-tl-rivalcade-overwatch-rumble-groups-group-d
+|pf=24573/NRG-Esports-vs-Team-Liquid/
+|wl=951
+}}
+}}
+|match2={{MatchMaps
+|team1=envyus|team2=splyce|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 19:00 {{Abbr/EDT}}
+|finished=true
+|map1=King's Row|map1score=3-2|map1win=1
+|map2=Numbani|map2score=3-2|map2win=1
+|map3=|map3score=|map3win=
+|overgg=3632/envyus-vs-splyce-rivalcade-overwatch-rumble-groups-group-d
+|pf=24574/EnVyUs-vs-Splyce/
+|wl=952
+}}
+}}
+|match3={{MatchMaps
+|team1=nrg esports|team2=splyce|winner=2
+|games1=0|games2=2
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 20:00 {{Abbr/EDT}}
+|finished=true
+|map1=Hollywood|map1score=1-2|map1win=2
+|map2=Nepal|map2score=0-3|map2win=2
+|map3=|map3score=|map3win=
+|overgg=3633/nrg-vs-splyce-rivalcade-overwatch-rumble-groups-group-d
+|pf=24575/NRG-Esports-vs-Splyce/
+|wl=953
+}}
+}}
+|match4={{MatchMaps
+|team1=envyus|team2=team liquid|winner=1
+|games1=2|games2=1
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 21:00 {{Abbr/EDT}}
+|finished=true
+|map1=Watchpoint: Gibraltar|map1score=1-2|map1win=2
+|map2=Numbani|map2score=3-2|map2win=1
+|map3=Nepal|map3score=3-2|map3win=1
+|overgg=3629/envyus-vs-tl-rivalcade-overwatch-rumble-groups-group-d
+|pf=24576/EnVyUs-vs-Team-Liquid/
+|wl=954
+}}
+}}
+|match5={{MatchMaps
+|team1=envyus|team2=nrg esports|winner=1
+|games1=2|games2=0
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 22:00 {{Abbr/EDT}}
+|finished=true
+|map1=King's Row|map1score=3-2|map1win=1
+|map2=Nepal|map2score=3-2|map2win=1
+|map3=Hollywood|map3score=|map3win=skip
+|overgg=3630/envyus-vs-nrg-rivalcade-overwatch-rumble-groups-group-d
+|pf=24577/EnVyUs-vs-NRG-Esports/
+|wl=955
+}}
+}}
+|match6={{MatchMaps
+|team1=splyce|team2=team liquid|winner=1
+|games1=2|games2=1
+|details={{BracketMatchSummary
+|date=April 22, 2017 - 22:00 {{Abbr/EDT}}
+|finished=true
+|map1=Watchpoint: Gibraltar|map1score=|map1win=1
+|map2=Hollywood|map2score=|map2win=2
+|map3=Volskaya Industries|map3score=|map3win=1
+|overgg=3634/splyce-vs-tl-rivalcade-overwatch-rumble-groups-group-d
+|pf=24578/Splyce-vs-Team-Liquid/
+|wl=956
+}}
+}}
+}}
+{{box|end}}
+{{box|end}}
+
+===Playoffs===
+{{LegacyBracket|Bracket/8U4L2DSL1D|8DETeamBracket|type=team|id=1aZ0hK886h
+<!-- QUARTERFINALS -->
+|R1D1team=rogue |R1D1score=2 |R1D1win=1
+|R1D2team=splyce |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary
+|date=April 23, 2017 - 15:00 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=Watchpoint: Gibraltar |map1score=2-1 |map1win=1
+|map2=Hollywood |map2score=3-1 |map2win=1
+|map3=Numbani |map3score= |map3win=skip
+|overgg=3555
+|pf=24653
+|wl=968
+|vod=https://youtu.be/x_G3R0aEOpk
+}}
+|R1D3team=cloud9 |R1D3score=2 |R1D3win=1
+|R1D4team=selfless |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary
+|date=April 23, 2017 - 15:00 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=Nepal |map1score=3-2 |map1win=1
+|map2=Lijiang Tower |map2score=3-1 |map2win=1
+|map3=Hollywood |map3score= |map3win=skip
+|overgg=3556
+|pf=24654
+|wl=969
+|vod=https://youtu.be/1OS1t1asbeQ
+}}
+|R1D5team=rise nation |R1D5score=0 |R1D5win=
+|R1D6team=envyus |R1D6score=2 |R1D6win=1
+|R1G3details={{BracketMatchSummary
+|date=April 23, 2017 - 15:00 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=Numbani |map1score=1-3 |map1win=2
+|map2=King's Row |map2score=2-3 |map2win=2
+|map3=Hollywood |map3score= |map3win=skip
+|overgg=3557
+|pf=24655
+|wl=970
+|vod=https://youtu.be/IlSwxmWuYDA
+}}
+|R1D7team=immortals |R1D7score=2 |R1D7win=1
+|R1D8team=lg evil |R1D8score=0 |R1D8win=
+|R1G4details={{BracketMatchSummary
+|date=April 23, 2017 - 15:00 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=Hollywood |map1score=3-2 |map1win=1
+|map2=Numbani |map2score=4-3 |map2win=1
+|map3=Nepal |map3score= |map3win=skip
+|overgg=3558
+|pf=24656
+|wl=971
+|vod=https://youtu.be/Y45azfL37nQ
+}}
+<!-- SEMIFINALS -->
+|R2W1team=rogue |R2W1score=2 |R2W1win=1
+|R2W2team=cloud9 |R2W2score=0 |R2W2win=
+|R2G1details={{BracketMatchSummary
+|date=April 23, 2017 - 16:15 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=Watchpoint: Gibraltar |map1score=6-4 |map1win=1
+|map2=Lijiang Tower |map2score=3-0 |map2win=1
+|map3=Dorado |map3score= |map3win=skip
+|overgg=3559
+|pf=24657
+|wl=974
+|vod=https://youtu.be/Fi7kwVkSpiE
+}}
+|R2W3team=envyus |R2W3score=2 |R2W3win=1
+|R2W4team=immortals |R2W4score=0 |R2W4win=
+|R2G2details={{BracketMatchSummary
+|date=April 23, 2017 - 17:15 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=Numbani |map1score=3-2 |map1win=1
+|map2=King's Row |map2score=4-3 |map2win=1
+|map3=Hollywood |map3score= |map3win=skip
+|overgg=3560
+|pf=24658
+|wl=975
+|vod=https://youtu.be/pwgBjvrRQp8
+}}
+<!-- WINNER'S FINALS -->
+|R4W1team=rogue |R4W1score=2 |R4W1win=1
+|R4W2team=envyus |R4W2score=0 |R4W2win=
+|R4G1details={{BracketMatchSummary
+|date=April 23, 2017 - 18:00 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=Watchpoint: Gibraltar |map1score=3-1 |map1win=1
+|map2=Numbani |map2score=1-0 |map2win=1
+|map3=Lijiang Tower |map3score= |map3win=skip
+|overgg=3561
+|pf=24661
+|wl=978
+|vod=https://youtu.be/Z33kOB38ano
+}}
+<!-- LOSER'S ROUND 1 -->
+|R1D9team=splyce |R1D9score=1 |R1D9win=
+|R1D10team=selfless |R1D10score=2 |R1D10win=1
+|R1G5details={{BracketMatchSummary
+|date=April 23, 2017 - 16:15 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=King's Row |map1score=2-3 |map1win=2
+|map2=Watchpoint: Gibraltar |map2score=3-0 |map2win=1
+|map3=Dorado |map3score=2-3 |map3win=2
+|overgg=3562
+|pf=24659
+|wl=972
+|vod=https://youtu.be/4oE6CTgG9mk
+}}
+|R1D11team=rise nation |R1D11score=0 |R1D11win=
+|R1D12team=lg evil |R1D12score=2 |R1D12win=1
+|R1G6details={{BracketMatchSummary
+|date=April 23, 2017 - 16:15 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=King's Row |map1score=0-1 |map1win=2
+|map2=Hollywood |map2score=3-3 |map2win=draw
+|map3=Nepal |map3score=0-2 |map3win=2
+|map4=Volskaya Industries |map4score= |map4win=skip
+|overgg=3563
+|pf=24660
+|wl=973
+|vod=https://youtu.be/-Rmlu36vhiM
+}}
+<!-- LOSER'S ROUND 2 -->
+|R2D1team=immortals |R2D1score=0 |R2D1win=
+|R2W5team=selfless |R2W5score=2 |R2W5win=1
+|R2G3details={{BracketMatchSummary
+|date=April 23, 2017 - 18:15 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=Lijiang Tower |map1score=2-3 |map1win=2
+|map2=King's Row |map2score=1-2 |map2win=2
+|map3=Nepal |map3score= |map3win=skip
+|overgg=3564
+|pf=24662
+|wl=976
+|vod=https://youtu.be/4wiWE249AyQ
+}}
+|R2D2team=cloud9 |R2D2score=1 |R2D2win=
+|R2W6team=lg evil |R2W6score=2 |R2W6win=1
+|R2G4details={{BracketMatchSummary
+|date=April 23, 2017 - 17:30 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=Hollywood |map1score=2-3 |map1win=2
+|map2=Nepal |map2score=3-1 |map2win=1
+|map3=Watchpoint: Gibraltar |map3score=2-3 |map3win=2
+|overgg=3565
+|pf=24663
+|wl=977
+|vod=https://youtu.be/6LlP04uhw7M
+}}
+<!-- LOSER'S ROUND 3 -->
+|R3W1team=selfless |R3W1score=2 |R3W1win=1
+|R3W2team=lg evil |R3W2score=0 |R3W2win=
+|R3G1details={{BracketMatchSummary
+|date=April 23, 2017 - 19:15 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=Hollywood |map1score=4-3 |map1win=1
+|map2=Nepal |map2score=3-2 |map2win=1
+|map3=Dorado |map3score= |map3win=skip
+|overgg=3566
+|pf=24664
+|wl=979
+|vod=https://youtu.be/LpQRP4jr6rY
+}}
+<!-- LOSER'S FINALS -->
+|R4D1team=envyus |R4D1score=2 |R4D1win=1
+|R4W3team=selfless |R4W3score=1 |R4W3win=
+|R4G2details={{BracketMatchSummary
+|date=April 23, 2017 - 20:15 {{Abbr/EDT}}
+|stream=
+|finished=true
+|map1=Nepal |map1score=1-3 |map1win=2
+|map2=King's Row |map2score=2-1 |map2win=1
+|map3=Lijiang Tower |map3score=3-0 |map3win=1
+|overgg=3567
+|pf=24665
+|wl=980
+|vod=https://youtu.be/KxznRIII1Bk
+}}
+<!-- GRAND FINALS -->
+|R5W1team=rogue |R5W1score=3 |R5W1win=1
+|R5W2team=envyus |R5W2score=2 |R5W2win=
+|R5G1details={{BracketMatchSummary
+|date=April 23, 2017 - 21:15 {{Abbr/EDT}}
+|stream=livethebattle
+|finished=true
+|map1=Watchpoint: Gibraltar |map1score=3-0 |map1win=1
+|map2=King's Row |map2score=3-4 |map2win=2
+|map3=Dorado |map3score= 2-3|map3win=2
+|map4=Hollywood |map4score=3-1 |map4win=1
+|map5=Nepal |map5score= 3-1|map5win=1
+|overgg=3568
+|pf=24666
+|wl=981
+|vod=https://youtu.be/98GY4NPzP_U
+}}
+}}
+
+==Additional content==
+===Streams===
+{| class="sortable wikitable" style="text-align:center;"
+|-style="background-color:#f3f3f3;"
+|-
+!width="60"|Language
+|width="40"|{{flag/usuk}}
+|width="40"|{{flag/kr}}
+|width="40"|{{flag/ru}}
+|-
+!rowspan=1|Stream
+|[https://www.twitch.tv/livethebattle <i class="lp-icon lp-twitch"></i>]
+|[https://www.twitch.tv/namedhwi <i class="lp-icon lp-twitch"></i>]
+|[https://www.twitch.tv/gamanoid_overwatch <i class="lp-icon lp-twitch"></i>]
+|}
+===VODs===
+* [https://www.youtube.com/watch?v=6LlP04uhw7M&list=PLteyPKdEu0CFtdaw9SXy1OMs1a4vEYffG YouTube]
+
+==References==
+{{Reflist}}

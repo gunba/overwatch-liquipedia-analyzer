@@ -1,0 +1,133 @@
+{{Infobox league
+|liquipediatier={{TierText/4}}
+|name=AFK Overwatch Community 2 Playoffs
+|shortname=AFK Overwatch Community 2 Playoffs
+|tickername=AFK Overwatch Community 2 Playoffs
+|image=AFK MENA allmode.png
+|icon=AFK MENA allmode.png
+|organizer=AFK MENA
+|sponsor=[https://esports.la3eb.com/ LA3EB]
+|type=Online
+|country=Middle East
+|format=Single Elimination
+|prizepool=10000
+|localcurrency=sar
+|date=2021-09-16
+|bracket=https://esports.la3eb.com/tournaments/afk-overwatch-community-playoffs
+|twitch=afk_mena
+|discord=3nW5amFVV6
+|instagram=afk_mena
+|twitter=afk_mena
+|team_number=4
+|previous=AFK_Overwatch_Community_Playoffs {{!}} #1
+|next=
+}}
+
+==Information==
+===Format===
+* Single-Elimination Bracket.
+* Final is {{Abbr/Ft3}}, All other matches are {{Abbr/Ft2}}.
+
+==Prize Pool==
+10,000 {{Abbr/SAR}} are spread among the teams as seen below:
+{{prize pool start|cutafter=4|localcurrency=sar}}
+{{prize pool slot|place=1|localprize=5,500|usdprize=1,464
+|Falcons Esport|lastvs1=01 Esports|lastscore1=3|lastvsscore1=1|date1=2021-09-16}}
+{{prize pool slot|place=2|localprize=3,000|usdprize=800
+|01 Esports|lastvs1=Falcons Esport|lastscore1=1|lastvsscore1=3|date1=2021-09-16}}
+{{prize pool slot|place=3|localprize=1,500|usdprize=400
+|Osh-Tekk Warriors|lastvs1=Dynasty (ME Team)|lastscore1=2|lastvsscore1=0|date1=2021-09-16}}
+{{prize pool slot|place=4|localprize=0|usdprize=0
+|Dynasty (ME Team)|lastvs1=Osh-Tekk Warriors|lastscore1=0|lastvsscore1=2|date1=2021-09-16}}
+{{Prize pool end}}
+<section end="Prize Pool"/>
+
+==Participants==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|team=Falcons Esport
+|p1=Fuki|pos1=dps
+|p2=KssarPlayz|pos2=dps
+|p3=YZNSA|pos3=dps
+|p4=LullSiSH|pos4=tank
+|p5=KSAA|pos5=tank
+|p6=Antigon|pos6=tank
+|p7=Boostio|p7link=Boostio (Saudi Arabian player)|pos7=sup
+|p8=SirMajed|pos8=sup
+|qualifier=[https://esports.la3eb.com/tournaments/afk-overwatch-community-qualifier-1-1 Qualifier 1]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Osh-Tekk Warriors
+|p1=SIXSIXSIXSIX|p1flag=sa|pos1=dps
+|p2=Tex|p2flag=sa|pos2=dps
+|p3=VisT0|pos3=tank
+|p4=Francium|p4flag=sa|pos4=tank
+|p5=3zo|pos5=tank
+|p6=Qalz|p6flag=sa|pos6=sup
+|p7=RAW|p7flag=sa|pos7=sup
+|qualifier=[https://esports.la3eb.com/tournaments/afk-overwatch-community-qualifier-1-1 Qualifier 1]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=01 Esports
+|p1=Quartz|pos1=dps
+|p2=Youbi|pos2=dps
+|p3=Goku|pos3=dps
+|p4=Kraandop|pos4=tank
+|p5=iMOH97|pos5=tank
+|p6=ANJ|pos6=sup|p6team=Sheer Cold
+|p7=One|pos7=sup
+|qualifier=[https://esports.la3eb.com/tournaments/afk-overwatch-community-qualifier-2-1 Qualifier 2]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Dynasty
+|link=Dynasty (ME Team)
+|p1=IJdxs|pos1=dps
+|p2=Sazuri|pos2=dps
+|p3=BlackSwordz|pos3=tank
+|p4=FLAWLESS|pos4=sup
+|p5=TaR2GeT|p5flag=|pos5=
+|p6=realfahad|p6flag=|pos6=
+|p7=JackyBoy|p7flag=|pos7=
+|qualifier=[https://esports.la3eb.com/tournaments/afk-overwatch-community-qualifier-2-1 Qualifier 2]
+}}
+{{box|break|padding=2em}}
+{{box|end}}
+
+==Bracket==
+{{Bracket|Bracket/4|id=iosMye02bd
+
+<!-- Semi-Finals -->
+|R1M1={{Match
+    |bestof=3
+    |date=June 19, 2021 - 20:00 {{Abbr/AST}}
+    |opponent1={{TeamOpponent|Falcons Esport|score=2}}
+    |opponent2={{TeamOpponent|Dynasty (ME Team)|score=0}}
+}}
+
+|R1M2={{Match
+    |bestof=3
+    |date=June 19, 2021 - 20:00 {{Abbr/AST}}
+    |opponent1={{TeamOpponent|Osh-Tekk Warriors|score=0}}
+    |opponent2={{TeamOpponent|01 Esports|score=2}}
+}}
+
+<!-- Final -->
+|R2M1={{Match
+    |bestof=5
+    |date=June 19, 2021 - 20:00 {{Abbr/AST}}
+    |opponent1={{TeamOpponent|Falcons Esport|score=3}}
+    |opponent2={{TeamOpponent|01 Esports|score=1}}
+}}
+
+<!-- Third Place Match -->
+|RxMTP={{Match
+    |bestof=3
+    |date=June 19, 2021 - 20:00 {{Abbr/AST}}
+    |opponent1={{TeamOpponent|Dynasty (ME Team)|score=0}}
+    |opponent2={{TeamOpponent|Osh-Tekk Warriors|score=2}}
+}}
+}}

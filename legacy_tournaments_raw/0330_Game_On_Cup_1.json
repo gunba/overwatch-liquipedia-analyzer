@@ -1,0 +1,209 @@
+{
+    "tournament_info": [
+        {
+            "name": "Game On Overwatch Cup 1",
+            "image": "Game On logo.png",
+            "series": "Game On",
+            "number": "1",
+            "organizer": "Game On",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "type": "Online",
+            "country": "Europe",
+            "date": "2016-02-21",
+            "prizepoolusd": "574",
+            "game": "ow",
+            "beta": "true",
+            "stream": "",
+            "bracket": "http://www.gosugamers.net/overwatch/tournaments/9518-game-on-overwatch-cup-1/bracket",
+            "liquipediatier": "{{TierText/3}}",
+            "teamfirst": "flatearth",
+            "teamsecond": "reunited.gg",
+            "teamthird": "arcane esports",
+            "teamthird2": "sg-1",
+            "team_number": "16",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "SG-1",
+            "image": "",
+            "size": "",
+            "p1": "hymzi |p1flag=fi",
+            "p2": "zappis |p2flag=fi",
+            "p3": "mafu |p3flag=fi",
+            "p4": "kyynel |p4flag=fi",
+            "p5": "Punpu |p5flag=fi",
+            "p6": "hocz |p6flag=fi"
+        },
+        {
+            "team": "G2 Esports",
+            "image": "",
+            "size": "",
+            "p1": "Forsak3n |p1flag=ru",
+            "p2": "Mike |p2flag=wa |p2link=Mike (Welsh player)",
+            "p3": "ShaDowBurn |p3flag=ru",
+            "p4": "numlocked |p4flag=uk",
+            "p5": "KnOxXx |p5flag=fr",
+            "p6": "Taimou |p6flag=fi"
+        },
+        {
+            "team": "REUNITED.gg",
+            "p1": "Morte |p1flag=nl",
+            "p2": "2Easy |p2flag=nl",
+            "p3": "Vallutaja |p3flag=ee",
+            "p4": "uNFixed |p4flag=ru",
+            "p5": "BromaS |p5flag=es",
+            "p6": "Winghaven |p6flag=es"
+        },
+        {
+            "team": "Creation eSports",
+            "image": "",
+            "size": "",
+            "p1": ".kr4tosdigga |p1flag=de",
+            "p2": "Zebbosai |p2flag=se",
+            "p3": "RazorsEdge |p3flag=de",
+            "p4": "Tseini |p4flag=fi",
+            "p5": "mkL |p5flag=no",
+            "p6": "ryb |p6flag=se"
+        },
+        {
+            "team": "Broken Edge",
+            "image": "",
+            "size": "",
+            "p1": "san alex |p1flag=pt",
+            "p2": "poinT |p2flag=it",
+            "p3": "Klanton |p3flag=se",
+            "p4": "Mezamorphis |p4flag=ro",
+            "p5": "Atomicus |p5flag=ro",
+            "p6": "Zhyx |p6flag=se"
+        },
+        {
+            "team": "Cotton Candy Club",
+            "image": "Cotton Candy Club.png",
+            "size": "",
+            "p1": "FaRmeZZ |p1flag=de",
+            "p2": "SenorHenning |p2flag=de",
+            "p3": "Loki_a |p3flag=uk",
+            "p4": "VIPace |p4flag=de",
+            "p5": "Neex |p5flag=de",
+            "p6": "DooMoo |p6flag=de"
+        },
+        {
+            "team": "FlatEarth",
+            "image": "",
+            "size": "",
+            "p1": "art1er |p1flag=de",
+            "p2": "outc1der |p2flag=de",
+            "p3": "LiNkz |p3flag=fi",
+            "p4": "Vonethil |p4flag=se",
+            "p5": "kowa |p5flag=se",
+            "p6": "Draceus |p6flag=se"
+        },
+        {
+            "team": "WarLegenD",
+            "image": "",
+            "size": "",
+            "p1": "Pukly |p1flag=be",
+            "p2": "Donov |p2flag=fr",
+            "p3": "Trylian |p3flag=fr",
+            "p4": "denpxc |p4flag=fr",
+            "p5": "Ziha |p5flag=fr",
+            "p6": "Moliol |p6flag=fr"
+        },
+        {
+            "team": "PROJECT X",
+            "image": "",
+            "size": "",
+            "p1": "h8m3 |p1flag=ru",
+            "p2": "coolerz |p2flag=ru",
+            "p3": "Anarkidorf |p3flag=ru",
+            "p4": "dnrShadow |p4flag=ru",
+            "p5": "Rell |p5flag=ru",
+            "p6": "pavel_ |p6flag=ru"
+        },
+        {
+            "team": "Evokate Gaming",
+            "image": "",
+            "size": "",
+            "p1": "KillAri |p1flag=be",
+            "p2": "Tsu |p2flag=fr",
+            "p3": "Origo |p3flag=fr",
+            "p4": "odKINS |p4flag=fr",
+            "p5": "cami |p5flag=fr",
+            "p6": "DaGonz |p6flag=fr"
+        },
+        {
+            "team": "Paragon",
+            "image": "Paragon_Logo.png",
+            "size": "",
+            "p1": "fragi |p1flag=fi",
+            "p2": "yliajo |p2flag=fi",
+            "p3": "Seita |p3flag=fi",
+            "p4": "Lazei |p4flag=fi",
+            "p5": "unpl |p5flag=fi",
+            "p6": "Nertz |p6flag=fi"
+        },
+        {
+            "team": "Arcane eSports",
+            "image": "",
+            "size": "",
+            "p1": "Ruster |p1flag=de",
+            "p2": "Kruise |p2flag=uk",
+            "p3": "Sanchez |p3flag=de",
+            "p4": "Nevix |p4flag=se",
+            "p5": "Violate |p5flag=be",
+            "p6": "LULLABYQ |p6flag=es"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "war legend",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "reunited.gg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "evokate gaming",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "reunited.gg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "flatearth",
+            "score2": "2",
+            "win2": "1",
+            "key": "R3W1",
+            "team1": "reunited.gg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "flatearth",
+            "score2": "3",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "reunited.gg",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R4D1",
+            "team1": "",
+            "score1": "",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

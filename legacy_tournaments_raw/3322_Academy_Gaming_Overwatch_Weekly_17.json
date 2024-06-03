@@ -1,0 +1,153 @@
+{
+    "tournament_info": [
+        {
+            "name": "Academy Gaming Overwatch Weekly #17",
+            "shortname": "17",
+            "image": "AGFull.png",
+            "series": "Academy Gaming",
+            "organizer": "Academy Gaming",
+            "organizer-link": "http://www.battlefy.com/academy-gaming/",
+            "sponsor": "[http://www.matcherino.com/ Matcherino], [http://haste.net/ Haste]",
+            "type": "Online",
+            "country": "USA",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "date": "2016-09-20",
+            "prizepoolusd": "34",
+            "web": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-17/57d8ecc62892e7230c9f3eca/info?infoTab=details",
+            "twitch": "gamewithstorm",
+            "bracket": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-17/57d8ecc62892e7230c9f3eca/stage/57d8ecc62892e7230c9f3ecb/bracket/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "6"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "H2K",
+            "image": "",
+            "p1": "b1am|p1flag=",
+            "p2": "Bird|p2flag=",
+            "p3": "Kresnik|p3flag=",
+            "p4": "m4risa|p4flag=us",
+            "p5": "Esper|p5flag=",
+            "p6": "Jordan|p6flag=us",
+            "t2title": "Staff",
+            "t2p1": "Jsr|t2pos1=coach"
+        },
+        {
+            "team": "CCE",
+            "image": "",
+            "p1": "MyntyPhresh|p1flag=",
+            "p2": "Maxmorey|p2flag=",
+            "p3": "Bubbletea|p3flag=",
+            "p4": "Teabubbles|p4flag=",
+            "p5": "NashIDaHome|p5flag=",
+            "p6": "Kilroy720|p6flag="
+        },
+        {
+            "team": "Atheris",
+            "image": "",
+            "p1": "Sapphire|p1flag=mx",
+            "p2": "Thunder|p2flag=mx|p2link=thunder (Mexican player)",
+            "p3": "UnReal|p3flag=",
+            "p4": "maaW|p4flag=",
+            "p5": "iBumbleborg|p5flag=",
+            "p6": "Layer|p6flag="
+        },
+        {
+            "team": "Triggered eSports Red",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Swift 6",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Low Sodium",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "h2k",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "atheris",
+            "score2": "1",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "swift 6",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "BYE",
+            "score2": "",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "triggered esports red",
+            "score1": "W",
+            "win1": "1"
+        },
+        {
+            "team2": "cce",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "low sodium",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "atheris",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "h2k",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "cce",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W3",
+            "team1": "triggered esports red",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "cce",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "h2k",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

@@ -1,0 +1,212 @@
+{
+    "tournament_info": [
+        {
+            "name": "H18 Overwatch Gaming Arena",
+            "shortname": "H18 Overwatch Gaming Arena",
+            "image": "h18profile.jpg",
+            "icon": "Favicon owadria.png",
+            "organizer": "H18 Megastore",
+            "organizer-link": "http://megastore.hr/",
+            "organizer2": "OWadria.org",
+            "organizer2-link": "https://liquipedia.net/overwatch/OWadria/",
+            "sponsor": "[http://megastore.hr/ H18 Megastore]",
+            "platform": "PC",
+            "series": "OWadria",
+            "type": "Offline",
+            "country": "Croatia",
+            "city": "Zagreb",
+            "format": "Double Elimination",
+            "prizepool": "3,500\u20ac",
+            "prizepoolusd": "3,651",
+            "date": "2016-12-19",
+            "liquipediatier": "{{TierText/3}}",
+            "web": "",
+            "twitch": "",
+            "youtube": "",
+            "bracket": "https://challonge.com/h18ow",
+            "team_number": "7",
+            "teamfirst": "acertas",
+            "teamsecond": "trokut",
+            "teamthird": "chronicallycompressed",
+            "teamfourth": "rigged",
+            "previous": "",
+            "next": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Acertas Gaming",
+            "link": "Acertas_Gaming",
+            "p1": "sprEEEzy ",
+            "p1flag": "hr",
+            "p2": "SkrakZ ",
+            "p2flag": "hr",
+            "p3": "sfcMedo ",
+            "p3flag": "hr",
+            "p4": "FRESHY ",
+            "p4flag": "hr",
+            "p5": "aRxEs ",
+            "p5flag": "hr",
+            "p6": "Ivekcina ",
+            "p6flag": "hr"
+        },
+        {
+            "team": "TrokuT Gaming",
+            "image": "trokutGaming.png",
+            "p1": "neLo ",
+            "p1flag": "hr",
+            "p2": "bexx ",
+            "p2flag": "hr",
+            "p3": "MR4V ",
+            "p3flag": "rs",
+            "p4": "Shock ",
+            "p4flag": "hr",
+            "p5": "Nerthus ",
+            "p5flag": "hr",
+            "p6": "noyyz ",
+            "p6flag": "hr"
+        },
+        {
+            "team": "Chronically Compressed",
+            "image": "",
+            "imagesize": "",
+            "p1": "Panic ",
+            "p1flag": "hr",
+            "p2": "Coldburnz ",
+            "p2flag": "hr",
+            "p3": "Psycho ",
+            "p3flag": "hr",
+            "p4": "Helven ",
+            "p4flag": "hr",
+            "p5": "Scag ",
+            "p5flag": "hr",
+            "p6": "Duality ",
+            "p6flag": "hr"
+        },
+        {
+            "team": "Rigged",
+            "image": "",
+            "imagesize": "",
+            "p1": "Pay ",
+            "p1flag": "hr",
+            "p2": "Xenochrist ",
+            "p2flag": "hr",
+            "p3": "Autisticon ",
+            "p3flag": "hr",
+            "p4": "Walkindallas ",
+            "p4flag": "hr",
+            "p5": "Sakurama ",
+            "p5flag": "hr",
+            "p6": "Grimwolf ",
+            "p6flag": "hr"
+        },
+        {
+            "team": "DD",
+            "image": "",
+            "imagesize": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": ""
+        },
+        {
+            "team": "COD Scumbacks",
+            "image": "",
+            "imagesize": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": ""
+        },
+        {
+            "team": "Hammertime",
+            "image": "",
+            "imagesize": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": "",
+            "p5": "",
+            "p6": ""
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "acertas",
+            "score2": "W",
+            "win2": "1",
+            "key": "R1D1",
+            "team1": "trokut",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "acertas",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "trokut",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "acertas",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "trokut",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "",
+            "score2": "",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "chronicallycompressed",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "hammertime",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "chronicallycompressed",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "rigged",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "chronicallycompressed",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "trokut",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "chronicallycompressed",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "team2": "trokut",
+            "score2": "0",
+            "win2": "",
+            "key": "R5W1",
+            "team1": "acertas",
+            "score1": "3",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

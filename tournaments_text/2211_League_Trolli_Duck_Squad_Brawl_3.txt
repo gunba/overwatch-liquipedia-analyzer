@@ -1,0 +1,109 @@
+{{DISPLAYTITLE:League Trolli Duck Squad Brawl #3}}
+{{League Trolli Navbox}}
+{{Infobox league
+|liquipediatier=5|liquipediatiertype=Weekly
+|name=Duck Squad Brawl #3
+|shortname=League Trolli Duck Squad Brawl 3
+|tickername=League Trolli Duck Squad Brawl #3
+|icon=LeagueTrolli.png
+|image=LeagueTrolli.png
+|series=League Trolli
+|organizer=Duck Squad
+|organizer2=League Trolli
+|sponsor=[https://www.trolli.com/ Trolli]
+|type=Online
+|country=North America
+|game=overwatch2
+|prizepoolusd=100
+|date=2022-12-30
+|twitter=l8tency
+|web=https://leaguetrolli.challonge.com/
+|twitch=l8tency
+|discord=9z6hfQfcz2
+|rulebook=https://docs.google.com/document/d/13pY0DpQF8aeDoCcSkjqJpv0_UOIk5uZdEr-Zzt1LWTc/edit?usp=sharing
+|bracket=https://leaguetrolli.challonge.com/oqcc0jpf
+|team_number=5
+}}
+
+==Information==
+===Format===
+*Single elimination
+*All matches are {{Abbr/Bo3}}
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=70}}
+|{{Slot|usdprize=30}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=KRONOS Odyssey Gaming
+|p1=|pos1=|p1flag=
+|p2=|pos2=|p2flag=
+|p3=|pos3=|p3flag=
+|p4=|pos4=|p4flag=
+|p5=|pos5=|p5flag=
+}}
+{{TeamCard
+|team=Weenie Thunder
+|p1=ShallotWater|pos1=|p1flag=
+|p2=HintToad|pos2=|p2flag=
+|p3=RadicalGrandad|pos3=|p3flag=
+|p4=Yungbastian|pos4=|p4flag=
+|p5=Chompers7676|pos5=|p5flag=
+}}
+{{TeamCard
+|team=RCG High Rollers
+|p1=|pos1=|p1flag=
+|p2=|pos2=|p2flag=
+|p3=|pos3=|p3flag=
+|p4=|pos4=|p4flag=
+|p5=|pos5=|p5flag=
+}}
+{{TeamCard
+|team=Bottom Feeders
+|p1=|pos1=|p1flag=
+|p2=|pos2=|p2flag=
+|p3=|pos3=|p3flag=
+|p4=|pos4=|p4flag=
+|p5=|pos5=|p5flag=
+}}
+{{TeamCard
+|team=Overlooked Esports
+|p1=nicholas|pos1=dps|p1flag=us
+|p2=Typhoon|pos2=dps|p2flag=us
+|p3=Tom|pos3=tank|p3flag=us
+|p4=Jammm|pos4=sup|p4flag=us
+|p5=Chaff|pos5=sup|p5flag=us
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2L1DH2L|id=5THxh9O03B
+
+<!-- Round 1 -->
+|R1M1={{Match
+    |bestof=3
+    |opponent1={{TeamOpponent|bottom feeders|score=2}}
+    |opponent2={{TeamOpponent|overlooked esports|score=1}}
+}}
+
+<!-- Quarterfinals -->
+|R2M1={{Match
+    |opponent1={{TeamOpponent|kronos odyssey gaming|score=0}}
+    |opponent2={{TeamOpponent|bottom feeders|score=2}}
+}}
+|R2M2={{Match
+    |opponent1={{TeamOpponent|weenie thunder|score=0}}
+    |opponent2={{TeamOpponent|rcg high rollers|score=2}}
+}}
+
+<!-- Semifinals -->
+|R3M1={{Match
+    |opponent1={{TeamOpponent|bottom feeders|score=3}}
+    |opponent2={{TeamOpponent|rcg high rollers|score=0}}
+}}
+}}

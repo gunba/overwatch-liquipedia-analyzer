@@ -1,0 +1,283 @@
+{
+    "tournament_info": [
+        {
+            "name": "COW Open Weekly: Season 1 Finals",
+            "image": "cow-logo.png",
+            "series": "COW League Season 1",
+            "shortname": "Finals",
+            "organizer": "COW",
+            "format": "Double Elimination",
+            "game": "overwatch",
+            "type": "Online",
+            "country": "United States",
+            "sdate": "2017-03-04",
+            "edate": "2017-03-05",
+            "prizepoolusd": "348",
+            "web": "https://softlocke.com/cowleague/",
+            "sponsors": "COW <br> Matcherino <br> Random CS <br> CyberGamer <br> MasterOverwatch",
+            "twitch": "Softlocke",
+            "twitter": "COWLeague",
+            "bracket": "https://smash.gg/tournament/cow-open-league-beta-season-playoffs/events/overwatch/brackets?filter=%7B%22phaseId%22%3A118861%7D",
+            "liquipediatier": "{{TierText/5}}",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Nameless",
+            "p1": "Duckeyy",
+            "p1flag": "ca",
+            "p2": "Noobicabra",
+            "p2flag": "us",
+            "p3": "LordTachyon",
+            "p3flag": "us",
+            "p4": "Scratch",
+            "p4flag": "ca",
+            "p5": "PrimoDulce",
+            "p5flag": "us",
+            "p6": "Gbunny",
+            "p6flag": "us"
+        },
+        {
+            "team": "Retrograde xD",
+            "p1": "Obasil",
+            "p1flag": "ca",
+            "p2": "frog",
+            "p2flag": "us",
+            "p3": "Jinglebuns",
+            "p3flag": "us",
+            "p4": "SoaR",
+            "p4flag": "us",
+            "p5": "mink",
+            "p5flag": "us",
+            "p6": "Boredy",
+            "p6flag": "us"
+        },
+        {
+            "team": "doot doot",
+            "p1": "Trevorious",
+            "p1flag": "us",
+            "p2": "moth",
+            "p2flag": "us",
+            "p3": "Majesty",
+            "p3flag": "us",
+            "p4": "OtterInWater",
+            "p4flag": "us",
+            "p5": "Deadly",
+            "p5flag": "us",
+            "p6": "Cloneman16",
+            "p6flag": "us",
+            "p7": "Ajlittle",
+            "p7flag": "us"
+        },
+        {
+            "team": "Aurora",
+            "p1": "hamsword",
+            "p1flag": "us",
+            "p2": "Hiro",
+            "p2flag": "us",
+            "p2link": "Hiro (American player)",
+            "p3": "EvilToaster",
+            "p3flag": "us",
+            "p4": "IIIIIIIIII",
+            "p4flag": "us",
+            "p5": "pulsus",
+            "p5flag": "ca",
+            "p6": "Cosi",
+            "p6flag": "us"
+        },
+        {
+            "team": "Kangaroo Jacks",
+            "p1": "Pix",
+            "p1flag": "us",
+            "p2": "Soarex",
+            "p2flag": "us",
+            "p3": "Traumist",
+            "p3flag": "us",
+            "p4": "Chanse",
+            "p4flag": "us",
+            "p5": "Tehpwnzorr",
+            "p5flag": "us",
+            "p6": "Tylan",
+            "p6flag": "us",
+            "p7": "Corey",
+            "p7flag": "us"
+        },
+        {
+            "team": "RBG",
+            "p1": "Shereshoy",
+            "p1flag": "us",
+            "p2": "Splendadaddy",
+            "p2flag": "us",
+            "p3": "Tokki",
+            "p3flag": "us",
+            "p4": "Faustus",
+            "p4flag": "us",
+            "p5": "GuBear",
+            "p5flag": "us",
+            "p6": "Dantwist",
+            "p6flag": "us"
+        },
+        {
+            "team": "Eanix",
+            "p1": "PlasmaSnake",
+            "p1flag": "us",
+            "p2": "Jake",
+            "p2flag": "us",
+            "p3": "Octile",
+            "p3flag": "us",
+            "p4": "Forward",
+            "p4flag": "us ",
+            "p4link": "Forward (America player)",
+            "p5": "Zachary",
+            "p5flag": "us",
+            "p6": "MoonChop",
+            "p6flag": "us"
+        },
+        {
+            "team": "Rubicon",
+            "p1": "Sergeant",
+            "p1flag": "us",
+            "p2": "Motch",
+            "p2flag": "ca",
+            "p3": "Snizz",
+            "p3flag": "us",
+            "p4": "Chayne",
+            "p4flag": "ca",
+            "p5": "prismah",
+            "p5flag": "us",
+            "p6": "Grandeur",
+            "p6flag": "us"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "retrogade",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "rubicon",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "aurora",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D3",
+            "team1": "doot doot",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "rbg",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "kangaroo jacks",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "nameless",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D7",
+            "team1": "eanix",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "doot doot",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2W1",
+            "team1": "rubicon",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "nameless",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "kangaroo jacks",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "kangaroo jacks",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4W1",
+            "team1": "doot doot",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "aurora",
+            "score2": "1",
+            "win2": "",
+            "key": "R1D9",
+            "team1": "retrograde",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "eanix",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D11",
+            "team1": "rbg",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "retrograde",
+            "score2": "0",
+            "win2": "",
+            "key": "R2D1",
+            "team1": "nameless",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "rbg",
+            "score2": "2",
+            "win2": "1",
+            "key": "R2D2",
+            "team1": "rubicon",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "rbg",
+            "score2": "1",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "nameless",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "nameless",
+            "score2": "2",
+            "win2": "1",
+            "key": "R4D1",
+            "team1": "doot doot",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "score2": "3",
+            "team2": "nameless",
+            "score22": "3",
+            "win2": "1",
+            "key": "R5W1",
+            "team1": "kangaroo jacks",
+            "score1": "0",
+            "win1": ""
+        }
+    ],
+    "match_maps": []
+}

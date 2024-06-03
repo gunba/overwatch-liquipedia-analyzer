@@ -1,0 +1,127 @@
+{{DISPLAYTITLE:GameBattles 3v3 Elimination North America #6}}
+{{GameBattles navbox}}
+{{Tabs static
+|link1=GameBattles_3v3 Elimination/NA/6|name1=NA
+|link2=GameBattles_3v3 Elimination/EU/6|name2=EU
+}}
+{{Infobox league
+|liquipediatier=-1|liquipediatiertype=Weekly
+|name=GameBattles 3v3 Elimination North America #6
+|shortname=3v3 NA #6
+|tickername=GameBattles 3v3 NA #6
+|icon=GameBattles icon lightmode.png
+|icondark=GameBattles icon darkmode.png
+|image=GameBattles lightmode.png
+|imagedark=GameBattles darkmode.png
+|organizer=GameBattles
+|series=GameBattles
+|abbreviation=GB
+|sponsor=
+|type=Online
+|country=North America
+|game=overwatch2
+|prizepoolusd=250
+|date=2023-01-08
+|twitter=gamebattles
+|discord=gamebattles
+|facebook=gamebattles
+|rulebook=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3--250--europe-565/info
+|bracket=https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/3v3--250--na---entry--18/bracket
+|team_number=5
+}}
+
+==Information==
+===Format===
+*All matches are {{Abbr/Ft2}}
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=200}}
+|{{Slot|usdprize=50}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard|players=3
+|team=juicebox gaming
+|p1=silent|p1flag=us|pos1=tank
+|p2=Goose|p2flag=us|pos2=tank
+|p3=p0int|p3flag=us|pos3=sup
+}}
+{{TeamCard|players=3
+|team=Three
+|p1=Dynasty|p1flag=us|pos1=tank
+|p2=Scissors|p2flag=us|pos2=tank
+|p3=Momentum|p3flag=us|pos3=sup
+}}
+{{TeamCard|players=3
+|team=Top Glazers
+|p1=Silvoh|p1flag=|pos1=
+|p2=Kwakiutl|p2flag=|pos2=
+|p3=Roux|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=handsomeooze
+|p1=Wahdle|p1flag=|pos1=
+|p2=BattleOoze|p2flag=|pos2=
+|p3=Sunsetpug|p3flag=|pos3=
+}}
+{{TeamCard|players=3
+|team=Overlooked Ent
+|p1=Blur|p1flag=us|pos1=|p1link=Blur (American Player)
+|p2=nicholas|p2flag=us|pos2=
+|p3=Typhoon|p3flag=us|pos3=
+}}
+{{TeamCard columns end}}
+
+
+==Results==
+{{Bracket|Bracket/2L1DH2L|id=33Eel6rx6F
+
+<!-- Quarterfinals -->
+|R1M1={{Match
+    |winner=1
+    |date=2023-01-08
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|juicebox gaming|score=W}}
+    |opponent2={{TeamOpponent|Top Glazers|score=L}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+    |winner=2
+    |date=2023-01-08
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Three|score=L}}
+    |opponent2={{TeamOpponent|juicebox gaming|score=W}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+|R2M2={{Match
+    |winner=1
+    |date=2023-01-08
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|handsomeooze|score=L}}
+    |opponent2={{TeamOpponent|Overlooked Ent|score=W}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+    |winner=1
+    |date=2023-01-08
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|juicebox gaming|score=L}}
+    |opponent2={{TeamOpponent|Overlooked Ent|score=W}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

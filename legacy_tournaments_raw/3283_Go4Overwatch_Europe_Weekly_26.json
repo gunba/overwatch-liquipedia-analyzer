@@ -1,0 +1,114 @@
+{
+    "tournament_info": [
+        {
+            "name": "Go4Overwatch Europe Cup #26",
+            "image": "ESL Overwatch Community Cup.png",
+            "series": "Go4Overwatch EU",
+            "shortname": "26",
+            "organizer": "ESL",
+            "country": "Europe",
+            "format": "Single Elimination",
+            "type": "Online",
+            "date": "2016-11-27",
+            "prizepoolusd": "163",
+            "localcurrency": "eur",
+            "prizepool": "150",
+            "web": "http://play.eslgaming.com/overwatch/europe/",
+            "twitch": "esl_overwatch",
+            "twitch2": "",
+            "twitch3": "",
+            "bracket": "https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-26/rankings/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "68",
+            "map1": "",
+            "map2": "",
+            "map3": ""
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Fragsters",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Potato Team",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Team Exoplan Geekunit",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Oslo Lions",
+            "image": "",
+            "p1": "iPN |p1flag=no",
+            "p2": "Invision |p2flag=no",
+            "p3": "Iko |p3flag=no",
+            "p4": "Fresh |p4flag=no",
+            "p5": "Decod |p5flag=no",
+            "p6": "Aateigen |p6flag=no",
+            "c": "Art |cflag=no"
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "potato team",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "fragsters",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "key": "R1D3",
+            "team1": "team exoplan geekunit",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "key": "R1D4",
+            "team1": "oslo lions",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "key": "R2W1",
+            "team1": "fragsters"
+        },
+        {
+            "key": "R2W2",
+            "team1": "team exoplan geekunit",
+            "score1": "1",
+            "win1": ""
+        },
+        {
+            "key": "R2D1",
+            "team1": "potato team",
+            "score1": "1"
+        },
+        {
+            "key": "R2D2",
+            "team1": "oslo lions"
+        }
+    ],
+    "match_maps": []
+}

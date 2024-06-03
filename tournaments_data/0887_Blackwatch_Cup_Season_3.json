@@ -1,0 +1,438 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "",
+            "abbreviation": "Blackwatch Cup",
+            "name": "Blackwatch Cup Season 3",
+            "shortname": "bwc3",
+            "ticketname": "bwc3",
+            "icon": "Blackwatch Cup logo.png",
+            "image": "Blackwatch Cup logo.png",
+            "organizer": "Geneva Game Dream",
+            "organizer2": "Division1",
+            "organizer3": "Geneva E-sports",
+            "sponsor": "Holland & Young",
+            "type": "Offline",
+            "country": "Switzerland",
+            "city": "Geneva",
+            "venue": "[https://www.google.ch/maps/place/GameGard/@46.1989003,6.1406392,17z/data=!3m1!4b1!4m6!3m5!1s0x478c656c5c87edeb:0x9c1df90cb7055691!8m2!3d46.1988966!4d6.1432141!16s%2Fg%2F11h3cb3kyn?entry=ttu Division1]",
+            "format": "Double Elimination",
+            "prizepool": "1500",
+            "localcurrency": "chf",
+            "date": "2019-09-15",
+            "twitter": "GenevaGameDream",
+            "twitch": "genevagamedream",
+            "bracket": "https://www.toornament.com/fr/tournaments/2626195503004950528/stages/2749378779734745088/#structure",
+            "rules": "https://play.toornament.com/fr/tournaments/2626195503004950528/rules",
+            "team_number": "6",
+            "game": "overwatch"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Missclick",
+            "p1": "FatSquid",
+            "p1flag": "ch",
+            "p2": "Thread",
+            "p2flag": "ch",
+            "p3": "Magnum",
+            "p3link": "Magnum (Swiss player)",
+            "p3flag": "ch",
+            "p4": "ByCheck",
+            "p4flag": "ch",
+            "p5": "P\u01fa\u0186\u01fe",
+            "p5flag": "ch",
+            "p6": "\u010cr\u012fs",
+            "p6flag": "ch"
+        },
+        {
+            "team": "mYinsanity",
+            "p1": "Fall0x",
+            "p1flag": "ch",
+            "p2": "Ingested",
+            "p2flag": "ch",
+            "p3": "Bidibuzz",
+            "p3flag": "ch",
+            "p4": "Khirya",
+            "p4flag": "ch",
+            "p5": "Saney",
+            "p5flag": "ch",
+            "p6": "Karst",
+            "p6flag": "ch"
+        },
+        {
+            "team": "Neuch Esport",
+            "p1": "Nawexxx",
+            "p1flag": "ch",
+            "p2": "Kioz0m",
+            "p2flag": "ch",
+            "p3": "Wlag",
+            "p3flag": "ch",
+            "p4": "RockThibs",
+            "p4flag": "ch",
+            "p5": "Gojita",
+            "p5flag": "ch",
+            "p6": "Stadam",
+            "p6flag": "ch"
+        },
+        {
+            "team": "P\u00e9licans Audacieux",
+            "p1": "Songho",
+            "p1flag": "ch",
+            "p2": "Azhrod",
+            "p2flag": "ch",
+            "p3": "Dashan",
+            "p3flag": "ch",
+            "p4": "Bernzouz",
+            "p4flag": "ch",
+            "p5": "Blueton",
+            "p5flag": "ch",
+            "p6": "Chocosensey",
+            "p6flag": "ch"
+        },
+        {
+            "team": "Sans Vergogne",
+            "p1": "Tyb",
+            "p1flag": "ch",
+            "p2": "Lastic0t",
+            "p2flag": "ch",
+            "p3": "AceCrim ",
+            "p3flag": "ch",
+            "p4": "AruMai",
+            "p4flag": "ch",
+            "p5": "Lenadir",
+            "p5flag": "ch",
+            "p6": "Helfhelm ",
+            "p6flag": "ch"
+        },
+        {
+            "team": "Valais Gemini",
+            "p1": "Kiba",
+            "p1flag": "ch",
+            "p2": "Nekirox",
+            "p2flag": "ch",
+            "p3": "Torrix",
+            "p3flag": "ch",
+            "p4": "Keiko",
+            "p4flag": "ch",
+            "p5": "Flow",
+            "p5flag": "ch",
+            "p6": "Zelynk",
+            "p6flag": "ch"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "September 15, 2019",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Neuch Esport",
+            "opponent1_score": 0,
+            "opponent2": "Valais Gemini",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "September 15, 2019",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "P\u00e9licans Audacieux",
+            "opponent1_score": 0,
+            "opponent2": "Missclick",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "September 15, 2019",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "mYinsanity",
+            "opponent1_score": 1,
+            "opponent2": "Valais Gemini",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "September 15, 2019",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sans Vergogne",
+            "opponent1_score": 2,
+            "opponent2": "Missclick",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "September 15, 2019",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Valais Gemini",
+            "opponent1_score": 3,
+            "opponent2": "Sans Vergogne",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "September 15, 2019",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Missclick",
+            "opponent1_score": 0,
+            "opponent2": "Neuch Esport",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "September 15, 2019",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "mYinsanity",
+            "opponent1_score": 2,
+            "opponent2": "P\u00e9licans Audacieux",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "September 15, 2019",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Neuch Esport",
+            "opponent1_score": 0,
+            "opponent2": "mYinsanity",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "September 15, 2019",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Sans Vergogne",
+            "opponent1_score": 2,
+            "opponent2": "mYinsanity",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "September 15, 2019",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Valais Gemini",
+            "opponent1_score": 4,
+            "opponent2": "mYinsanity",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R5M1="
+        }
+    ]
+}

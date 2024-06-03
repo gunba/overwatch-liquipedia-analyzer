@@ -1,0 +1,150 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "liquipediatiertype": "Weekly",
+            "name": "Duck Squad Blitz #15",
+            "shortname": "League Trolli Duck Squad Blitz 15",
+            "tickername": "League Trolli Duck Squad Blitz #15",
+            "icon": "LeagueTrolli.png",
+            "image": "LeagueTrolli.png",
+            "series": "League Trolli",
+            "organizer": "Duck Squad",
+            "organizer2": "League Trolli",
+            "sponsor": "[https://www.trolli.com/ Trolli]",
+            "type": "Online",
+            "country": "North America",
+            "game": "overwatch2",
+            "format": "Single Elimination",
+            "prizepoolusd": "100",
+            "date": "2023-11-12",
+            "twitter": "DuckSquadNA",
+            "web": "https://leaguetrolli.challonge.com/",
+            "discord": "5dTxtYJaT8",
+            "rulebook": "https://docs.google.com/document/d/1GWPwg70BONoSKSjSRn_huvZ2OgBzjMcPfoMb_46GPDw/edit",
+            "bracket": "https://leaguetrolli.challonge.com/vdc7zrlx#/signup/l94r0ffxm3",
+            "team_number": "17"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Arashi Esports",
+            "p1": "Akaza|p1flag=|pos1=dps",
+            "p2": "NRG|p2flag=|pos2=dps|p2link=NRG (North American player)",
+            "p3": "Necrize|p3flag=|pos3=tank",
+            "p4": "Vobendo|p4flag=|pos4=sup",
+            "p5": "Reinguy|p5flag=|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Raine|t2c1flag=us|t2c1pos=manager"
+        },
+        {
+            "team": "Penn State White",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Bowsed",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "WifeLeavers",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Broke Boys",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Dino Cave",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "Slate Academy",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        },
+        {
+            "team": "UNG Esports",
+            "p1": "|p1flag=|pos1=",
+            "p2": "|p2flag=|pos2=",
+            "p3": "|p3flag=|pos3=",
+            "p4": "|p4flag=|pos4=",
+            "p5": "|p5flag=|pos5="
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "2023-11-12",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bowsed|score=2}}",
+            "opponent2": "{{TeamOpponent|UNG Esports|score=0}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "2023-11-12",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Arashi Esports|score=2}}",
+            "opponent2": "{{TeamOpponent|Broke Boys|score=0}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "2023-11-12",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Penn State White|score=2}}",
+            "opponent2": "{{TeamOpponent|Dino Cave|score=0}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "2023-11-12",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Slate Academy|score=0}}",
+            "opponent2": "{{TeamOpponent|WifeLeavers|score=2}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "2023-11-12",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Bowsed|score=0}}",
+            "opponent2": "{{TeamOpponent|Arashi Esports|score=2}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "2023-11-12",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Penn State White|score=2}}",
+            "opponent2": "{{TeamOpponent|WifeLeavers|score=0}}",
+            "optional": "R2M2="
+        },
+        {
+            "bestof": "5",
+            "date": "2023-11-12",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|Arashi Esports|score=3}}",
+            "opponent2": "{{TeamOpponent|Penn State White|score=0}}",
+            "optional": "R3M1="
+        }
+    ]
+}

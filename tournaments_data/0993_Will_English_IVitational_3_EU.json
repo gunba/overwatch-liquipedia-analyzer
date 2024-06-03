@@ -1,0 +1,2273 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "4",
+            "series": "Will English IVitational",
+            "abbreviation": "IV",
+            "name": "Will English IVitational 3 - EU",
+            "shortname": "Will English IVitational 3 - EU",
+            "tickername": "Will English IVitational 3 - EU",
+            "icon": "Will English IVitational icon.png",
+            "image": "Will English IVitational 3 allmode.png",
+            "organizer": "Will English IV",
+            "organizer-link": "https://twitter.com/WillEnglishIV",
+            "sponsor": "[https://www.opera.com/gx?utm_source=gx_tournament&utm_medium=gx_tournament&utm_campaign=cm_willenglish Opera GX]",
+            "type": "Online",
+            "country": "Europe",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "prizepoolusd": "2000",
+            "sdate": "2021-10-09",
+            "edate": "2021-10-17",
+            "twitter": "willenglishiv",
+            "web": "",
+            "twitch": "willenglishiv",
+            "twitch2": "",
+            "discord": "",
+            "youtube": "",
+            "rulebook": "https://docs.google.com/document/d/1ZfJNXILuL3UEXmOPOm3b_nWSKgHey0_O3_YkGDUAq5Y/edit",
+            "bracket": "https://www.challengermode.com/tournaments/ec7b9fd3-fb8f-404a-ca23-08d96c78f91d",
+            "team_number": "22"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Sheer Cold",
+            "image": "",
+            "p1": "Phi",
+            "p1flag": "de",
+            "pos1": "dps",
+            "p2": "Dynasty",
+            "p2flag": "us",
+            "pos2": "dps",
+            "p3": "kraandop",
+            "p3flag": "nl",
+            "pos3": "tank",
+            "p4": "Chaos",
+            "p4flag": "uk",
+            "pos4": "tank",
+            "p5": "Levitate",
+            "p5flag": "at",
+            "pos5": "sup",
+            "p6": "lucer",
+            "p6flag": "nl",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2p1": "Thor",
+            "t2pos1": "coach",
+            "t2p2": "Aero",
+            "t2pos2": "manager",
+            "t2p2link": "Aero (Manager)",
+            "t2p3": "BuckyBear",
+            "t2pos3": "manager"
+        },
+        {
+            "team": "AWW YEAH",
+            "image": "",
+            "p1": "Ken",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Necros",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Lightbringer ",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "kaya",
+            "p4flag": "",
+            "pos4": "dps",
+            "p5": "Ball",
+            "p5flag": "",
+            "pos5": "tank",
+            "p6": "Minimi",
+            "p6flag": "",
+            "pos6": "tank",
+            "p7": "h9mpe",
+            "p7flag": "",
+            "pos7": "sup",
+            "p8": "Abbs",
+            "p8flag": "",
+            "pos8": "sup",
+            "p9": "Isak",
+            "p9flag": "",
+            "pos9": "flex",
+            "t2title": "Staff",
+            "t2c1": "Jaydasch",
+            "t2c1pos": "manager"
+        },
+        {
+            "team": "African Typhoon",
+            "image": "African Typhoon allmode.png",
+            "p1": "Sauna",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "TheHolyPig",
+            "p2flag": "uk",
+            "pos2": "dps",
+            "p3": "Jarew",
+            "p3flag": "uk",
+            "pos3": "tank",
+            "p4": "NKZ",
+            "p4flag": "",
+            "pos4": "tank",
+            "p5": "Sobek",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "Ardeont",
+            "p6flag": "uk",
+            "pos6": "sup",
+            "p6link": "Ardeont.",
+            "p7": "watery",
+            "p7flag": "fi",
+            "pos7": "sup"
+        },
+        {
+            "team": "Mind Goblin",
+            "image": "Mind Goblin Logo Allmode.png",
+            "p1": "Condi",
+            "p1flag": "za",
+            "pos1": "dps",
+            "p2": "sxj",
+            "p2flag": "mt",
+            "pos2": "dps",
+            "p3": "Theomatic",
+            "p3flag": "za",
+            "pos3": "tank",
+            "p4": "juuzo",
+            "p4flag": "uk",
+            "pos4": "tank",
+            "p5": "Strebor",
+            "p5flag": "uk",
+            "pos5": "sup",
+            "p6": "yoham",
+            "p6flag": "dk",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2p1": "PnR",
+            "t2p1flag": "gb",
+            "t2pos1": "coach",
+            "t2p2": "VisionPB",
+            "t2p2flag": "gb",
+            "t2pos2": "coach",
+            "t2p3": "S\u00f8eny",
+            "t2p3flag": "fr",
+            "t2pos3": "Manager"
+        },
+        {
+            "team": "Granit Gaming",
+            "image": "Granit Gaming allmode.png",
+            "p1": "Braven",
+            "p1flag": "ir",
+            "pos1": "dps",
+            "p2": "Lukstar",
+            "p2flag": "dk",
+            "pos2": "dps",
+            "p3": "Kroxz",
+            "p3flag": "fr",
+            "pos3": "tank",
+            "p4": "Tred",
+            "p4flag": "uk",
+            "pos4": "tank",
+            "p5": "D0nghun",
+            "p5flag": "kr",
+            "pos5": "sup",
+            "p6": "reviewz",
+            "p6flag": "fr",
+            "pos6": "sup",
+            "t2title": "Staff",
+            "t2c1": "YounaCha",
+            "t2c1flag": "fr",
+            "t2c1pos": "Manager",
+            "t2c2": "Tarteg",
+            "t2c2flag": "fr",
+            "t2c2pos": "",
+            "t2c3": "Oni",
+            "t2c3flag": "eg",
+            "t2c3pos": ""
+        },
+        {
+            "team": "New 5D",
+            "image": "5th Dimension logo.png",
+            "p1": "MrDragonlol",
+            "p1flag": "at",
+            "pos1": "dps",
+            "p2": "M3WS",
+            "p2flag": "es",
+            "pos2": "dps",
+            "p3": "Mellun",
+            "p3flag": "se",
+            "pos3": "tank",
+            "p4": "LONE",
+            "p4flag": "sa",
+            "pos4": "tank",
+            "p5": "Natlocks",
+            "p5flag": "fr",
+            "pos5": "sup",
+            "p6": "ilppi13",
+            "p6flag": "fi",
+            "pos6": "sup"
+        },
+        {
+            "team": "Kiseki no Sedai",
+            "image": "",
+            "p1": "Tai",
+            "p1flag": "sa",
+            "pos1": "dps",
+            "p2": "Himanithcy",
+            "p2flag": "sa",
+            "pos2": "dps",
+            "p3": "RiGGZ",
+            "p3flag": "sa",
+            "pos3": "tank",
+            "p4": "iRx",
+            "p4flag": "sa",
+            "pos4": "tank",
+            "p5": "Nutella",
+            "p5flag": "sa",
+            "pos5": "sup",
+            "p6": "Aziz",
+            "p6flag": "sa",
+            "pos6": "sup"
+        },
+        {
+            "team": "AddFriend",
+            "p1": "MaDetho",
+            "p1flag": "de",
+            "pos1": "dps",
+            "p2": "W1ll",
+            "p2flag": "dk",
+            "pos2": "dps",
+            "p3": "Reflection",
+            "p3flag": "de",
+            "pos3": "dps",
+            "p4": "Seagu",
+            "p4flag": "de",
+            "pos4": "tank",
+            "p5": "Shyraa",
+            "p5flag": "be",
+            "pos5": "tank",
+            "p6": "Tim ",
+            "p6link": "Tim (German player)",
+            "p6flag": "de",
+            "pos6": "tank",
+            "p7": "GhosT",
+            "p7flag": "dk",
+            "pos7": "sup",
+            "p8": "Soax",
+            "p8flag": "de",
+            "pos8": "sup",
+            "p9": "oworidt",
+            "p9flag": "de",
+            "pos9": "sup"
+        },
+        {
+            "team": "Munich eSports",
+            "image": "munich_esports_2021.png",
+            "p1": "TrqstMe",
+            "p1flag": "de",
+            "pos1": "dps",
+            "p2": "Meli\u00f8",
+            "p2flag": "dk",
+            "pos2": "dps",
+            "p3": "Choose",
+            "p3flag": "de",
+            "pos3": "tank",
+            "p4": "Alex2704",
+            "p4flag": "de",
+            "pos4": "tank",
+            "p5": "Lv1Crook",
+            "p5flag": "at",
+            "pos5": "sup",
+            "p6": "Awzey",
+            "p6flag": "de",
+            "pos6": "sup",
+            "p7": "EgZo",
+            "p7flag": "de",
+            "pos7": "tank",
+            "t2title": "Staff",
+            "t2p1": "Txzla",
+            "t2p1flag": "de",
+            "t2pos1": "coach",
+            "t2p2": "Cuffy",
+            "t2p2flag": "uk",
+            "t2pos2": "coach"
+        },
+        {
+            "team": "We Like Koalas",
+            "image": "",
+            "p1": "Athe",
+            "p1flag": "",
+            "pos1": "dps",
+            "p2": "Snoopy",
+            "p2flag": "nl",
+            "pos2": "dps",
+            "p3": "Lutu",
+            "pos3": "dps",
+            "p4": "Deme",
+            "p4flag": "cy",
+            "pos4": "tank",
+            "p5": "Booga",
+            "p5flag": "uk",
+            "pos5": "tank",
+            "p6": "Julo",
+            "p6flag": "fr",
+            "pos6": "tank",
+            "p7": "yeezus",
+            "p7flag": "si",
+            "pos7": "sup",
+            "p8": "Dualism",
+            "p8flag": "uk",
+            "pos8": "sup",
+            "p9": "Marked",
+            "p9flag": "fi",
+            "pos9": "sup",
+            "p10": "Disclosure",
+            "p10flag": "uk",
+            "pos10": "sup"
+        },
+        {
+            "team": "Beau Monde Cohort",
+            "image": "",
+            "p1": "Sindri",
+            "p1flag": "is",
+            "pos1": "dps",
+            "p2": "Krizzi",
+            "p2flag": "is",
+            "pos2": "dps",
+            "p3": "SnorrLaxZ",
+            "p3flag": "is",
+            "pos3": "dps",
+            "p4": "Mundi",
+            "p4flag": "is",
+            "pos4": "dps",
+            "p5": "ST33L",
+            "p5flag": "is",
+            "pos5": "tank",
+            "p6": "Hafficool",
+            "p6flag": "is",
+            "pos6": "flex",
+            "p7": "Oklokar",
+            "p7flag": "is",
+            "pos7": "tank",
+            "p8": "Futhark",
+            "p8flag": "is",
+            "pos8": "sup",
+            "p9": "Numling",
+            "p9flag": "is",
+            "pos9": "sup",
+            "p10": "EgillAri",
+            "p10flag": "is",
+            "pos10": "sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "5",
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "OTPog",
+            "opponent1_score": 0,
+            "opponent2": "granit gaming",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bye|score=",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bye|score=",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bye|score=",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "October 9, 2021 - 14:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Useless",
+            "opponent1_score": 2,
+            "opponent2": "granit gaming",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "October 9, 2021 - 14:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Lootbox",
+            "opponent1_score": 0,
+            "opponent2": "Crimson Ruby",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "October 9, 2021 - 14:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "New 5D",
+            "opponent1_score": 3,
+            "opponent2": "Meteor Gaming|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "October 9, 2021 - 14:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Kiseki no Sedai -",
+            "opponent1_score": 0,
+            "opponent2": "Mind Goblin",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "October 9, 2021 - 15:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "granit gaming",
+            "opponent1_score": 3,
+            "opponent2": "Crimson Ruby",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "October 9, 2021 - 15:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "New 5D",
+            "opponent1_score": 0,
+            "opponent2": "Mind Goblin",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "October 9, 2021 - 15:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Kiseki no Sedai -",
+            "opponent1_score": 3,
+            "opponent2": "OTPog",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "October 9, 2021 - 15:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Meteor Gaming|score=W",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M6="
+        },
+        {
+            "date": "October 9, 2021 - 15:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Lootbox|score=W",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M7="
+        },
+        {
+            "date": "October 9, 2021 - 15:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Useless|score=",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M8="
+        },
+        {
+            "date": "October 9, 2021 - 17:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Kiseki no Sedai -",
+            "opponent1_score": 3,
+            "opponent2": "Meteor Gaming",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "October 9, 2021 - 17:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Lootbox",
+            "opponent1_score": 0,
+            "opponent2": "Useless",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "October 9, 2021 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Crimson Ruby",
+            "opponent1_score": 0,
+            "opponent2": "Kiseki no Sedai -",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M3="
+        },
+        {
+            "date": "October 9, 2021 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "New 5D",
+            "opponent1_score": 3,
+            "opponent2": "Useless",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M4="
+        },
+        {
+            "bestof": "5",
+            "date": "October 10, 2021 - 12:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "2ez CritFarmers|score=",
+            "opponent2": "Altera Azerbajancar|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bye|score=",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bye|score=",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "bye|score=",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "date": "October 10, 2021 - 14:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Prisma Midnight|score=FF",
+            "opponent2": "Altera Azerbajancar|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "date": "October 10, 2021 - 14:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "AddFriend",
+            "opponent1_score": 3,
+            "opponent2": "Beau Monde Cohort",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "date": "October 10, 2021 - 14:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Apes with keyboards",
+            "opponent1_score": 3,
+            "opponent2": "frog.",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "October 10, 2021 - 14:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Munich Esports",
+            "opponent1_score": 3,
+            "opponent2": "We Like Koalas",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "October 10, 2021 - 15:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Altera Azerbajancar",
+            "opponent1_score": 0,
+            "opponent2": "AddFriend",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        },
+        {
+            "date": "October 10, 2021 - 15:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Apes with keyboards",
+            "opponent1_score": 0,
+            "opponent2": "Munich eSports",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M2="
+        },
+        {
+            "date": "October 10, 2021 - 15:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "We Like Koalas",
+            "opponent1_score": 3,
+            "opponent2": "2ez CritFarmers",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "frog.|score=W",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M6="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Beau Monde Cohort|score=W",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M7="
+        },
+        {
+            "date": "",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Prisma Midnight|score=W",
+            "opponent2": "bye|score=",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M8="
+        },
+        {
+            "date": "October 10, 2021 - 17:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "We Like Koalas",
+            "opponent1_score": 3,
+            "opponent2": "frog.",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "October 10, 2021 - 17:00",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Beau Monde Cohort",
+            "opponent1_score": 3,
+            "opponent2": "Prisma Midnight",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "October 10, 2021 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Altera Azerbajancar",
+            "opponent1_score": 0,
+            "opponent2": "We Like Koalas",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M3="
+        },
+        {
+            "date": "October 10, 2021 - 18:30",
+            "date_timezone": "CEST",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Apes with keyboards",
+            "opponent1_score": 1,
+            "opponent2": "Beau Monde Cohort",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map5": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M4="
+        },
+        {
+            "bestof": "3",
+            "date": "October 16, 2021",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Kiseki no Sedai -",
+            "opponent1_score": 0,
+            "opponent2": "AddFriend",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "date": "October 16, 2021",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Granit Gaming",
+            "opponent1_score": 3,
+            "opponent2": "Beau Monde Cohort",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "date": "October 16, 2021",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Mind Goblin",
+            "opponent1_score": 3,
+            "opponent2": "We Like Koalas",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "date": "October 16, 2021",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "African Typhoon",
+            "opponent1_score": 3,
+            "opponent2": "Granit Gaming",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map4": {
+                "map": "Temple of Anubis",
+                "mode": "Assault",
+                "score1": "1",
+                "score2": "2",
+                "winner": "2"
+            },
+            "R2M2": "{{Match",
+            "optional": "R2M1="
+        },
+        {
+            "date": "October 16, 2021",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "AWW YEAH",
+            "opponent1_score": 2,
+            "opponent2": "Mind Goblin",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "date": "October 16, 2021",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "New 5D",
+            "opponent1_score": 0,
+            "opponent2": "Munich Esports",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "date": "October 17, 2021",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "AddFriend",
+            "opponent1_score": 1,
+            "opponent2": "African Typhoon",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "date": "October 17, 2021",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "Mind Goblin",
+            "opponent1_score": 1,
+            "opponent2": "Munich Esports",
+            "opponent2_score": 3,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "date": "October 17, 2021",
+            "youtube": "",
+            "twitch": "",
+            "opponent1": "African Typhoon",
+            "opponent1_score": 4,
+            "opponent2": "Munich Esports",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R4M1="
+        }
+    ]
+}

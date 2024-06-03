@@ -1,0 +1,177 @@
+{{DISPLAYTITLE:SteelSeries Invitational}}
+{{Infobox league
+|name=SteelSeries Invitational
+|image=SteelSeries Invitational.png
+|tickername=SteelSeries Invitational
+|icon=SteelSeries lightmode.png
+|icondark=SteelSeries darkmode.png
+|organizer=SteelSeries
+|sponsor=SteelSeries
+|type=Online
+|country=North America
+|sdate=2021-02-28
+|edate=2021-02-28
+|prizepoolusd=10000
+|liquipediatier=1|liquipediatiertype=Showmatch
+|website=https://twitch.tv/steelseries
+|website2=https://steelseries.com/
+|twitter=SteelSeries
+|twitch=steelseries
+|youtube=SteelSeries
+|game=overwatch
+|team_number=4
+}}
+
+==Information==
+
+===Format===
+* The event will consist of a showmatch tournament between the [[Boston Uprising]], [[Los Angeles Gladiators]], [[London Spitfire]], and [[Paris Eternal]].
+* Matches are played first-to-three with preselected maps.
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=English
+|position=Commentator
+|b1=LemonKiwi
+|b2=Hexagrams
+|b3=Jaws
+}}
+{{BroadcasterCard|lang=English
+|position=Producer
+|b1=Tiki|b1flag=us
+}}
+{{BroadcasterCard|lang=English
+|position=Observer
+|b1=Juke
+|b2=Tiie|b2flag=us
+}}
+{{box|end|padding=2em}}
+
+===Prize Pool===
+{{prize pool start}}
+{{prize pool slot|place=1|usdprize=7,000|gla |lastvs1=bos |lastscore1=3 |lastvsscore1=0 }}
+{{prize pool slot|place=2|usdprize=3,000|bos |lastvs1=gla |lastscore1=0 |lastvsscore1=3 }}
+{{prize pool slot|place=3-4|usdprize=0
+|par |lastvs1=bos |lastscore1=2 |lastvsscore1=3
+|ldn |lastvs2=gla |lastscore2=2 |lastvsscore2=3
+}}
+{{Prize pool end}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|height=300}}
+{{TeamCard
+|team=Boston Uprising
+|p1=im37|pos1=dps
+|p2=Colourhex|pos2=dps
+|p3=SoOn|pos3=dps
+|p4=Valentine|pos4=dps
+|p5=Fusions|pos5=tank
+|p6=Stand1|pos6=tank
+|p7=Punk|pos7=tank
+|p8=Faith|pos8=sup
+|p9=Myunb0ng|pos9=sup
+|t2title=Staff
+|t2c1=Lori|t2c1pos=head coach
+|t2c2=Ascoft|t2c2pos=assistant coach
+|t2c3=Barroi|t2c3pos=assistant coach
+|t2c4=Seowulf|t2c4pos=team manager
+|qualifier=Invited
+}}
+{{TeamCard
+|team=London Spitfire
+|p1=Hybrid|pos1=dps|p1link=Hybrid_(British_player)
+|p2=SparkR|pos2=dps
+|p3=blasé|pos3=dps
+|p4=Shax|pos4=dps
+|p5=Hadi|pos5=tank
+|p6=Molf1g|pos6=tank
+|p7=Kellex|pos7=sup
+|p8=Ripa|pos8=sup
+|t2title=Staff
+|t2c1=reprize|t2c1pos=head coach
+|t2c2=CommanderX|t2c2pos=assistant coach
+|t2c3=fischer|t2c3pos=assistant coach
+|t2c4=Noukky|t2c4pos=general manager
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Los Angeles Gladiators
+|p1=birdring|pos1=dps
+|p2=kevster|pos2=dps
+|p3=MirroR|pos3=dps
+|p4=MuZe|pos4=tank
+|p5=SPACE|pos5=tank
+|p6=moth|pos6=sup
+|p7=Shu|pos7=sup
+|p8=skewed|pos8=sup
+|t2title=Staff
+|t2c1=dpei|t2c1pos=head coach
+|t2c2=TyDolla|t2c2pos=assistant coach
+|t2c3=face|t2c3pos=assistant coach
+|t2c4=bsuh|t2c4pos=general manager
+|t2c5=Andrew|t2c5pos=team manager
+|qualifier=Invited
+}}
+{{TeamCard
+|team=Paris Eternal
+|p1=Onigod|pos1=dps
+|p2=Naga|pos2=dps
+|p3=Tsuna|pos3=dps
+|p4=Daan|pos4=tank
+|p5=ELLIVOTE|pos5=tank
+|p6=neptuNo|pos6=sup
+|p7=Kaan|pos7=sup
+|t2title=Staff
+|t2c1=GetAmazed|t2c1pos=head coach
+|t2c2=JMAC|t2c2pos=assistant coach
+|t2c3=AVALLA|t2c3pos=general manager
+|t2c4=mureumpyo|t2c4flag=us|t2c4pos=translator
+|qualifier=Invited
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/4|id=pZ9iGO6Ch0
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=February 28, 2021  - 19:00 {{Abbr/CET}}
+    |youtube=SteelSeries|twitch=SteelSeries
+    |opponent1={{TeamOpponent|bos}}
+    |opponent2={{TeamOpponent|par}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Havana|mode=Escort|score1=3|score2=1|winner=1}}
+	|map4={{Map|map=Hanamura|mode=Assault|score1=1|score2=2|winner=2}}
+	|map5={{Map|map=Ilios|mode=Control|score1=2|score2=1|winner=1}}
+}}
+|R1M2={{Match
+    |date=February 28, 2021 - 20:15 {{Abbr/GMT}}
+    |youtube=SteelSeries|twitch=SteelSeries
+    |opponent1={{TeamOpponent|gla}}
+    |opponent2={{TeamOpponent|ldn}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=1|score2=2|winner=2}}
+	|map4={{Map|map=Temple of Anubis|mode=Assault|score1=3|score2=2|winner=1}}
+	|map5={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |date=February 28, 2021 - 22:30 {{Abbr/UTC}}
+    |youtube=SteelSeries|twitch=SteelSeries
+    |opponent1={{TeamOpponent|bos}}
+    |opponent2={{TeamOpponent|gla}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=0|score2=1|winner=2}}
+}}
+}}
+
+==Additional Content==
+===Country Representation===
+<section begin="Country Representation"/>
+{{Country representation}}
+<section/>

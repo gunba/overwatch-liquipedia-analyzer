@@ -1,0 +1,248 @@
+{{DISPLAYTITLE:HammerClash #6}}
+
+{{Want_to_Help
+|issue=missing roster, flags and positions on teamcards
+|fix=add roster, flags and positions
+|date=20240102
+}}
+
+{{HammerClash_Navbox}}
+{{Infobox league
+|name=HammerClash #6
+|shortname=HC #6
+|series=HammerClash
+|image=
+|icon=
+|tickername=HammerClash #6
+|organizer=HammerKick
+|country=Europe
+|type=Online
+|game=overwatch2
+|prizepool=200
+|localcurrency=eur
+|date=2022-12-03
+|liquipediatier=5
+|twitter=HammerKick_OW
+|twitch=hammerkick
+|bracket=https://play.toornament.com/en_US/tournaments/6235561105900797952/stages/6243694871631192064/
+|rulebook=https://play.toornament.com/en_US/tournaments/6235561105900797952/stages/6243694871631192064/rules
+|team_number=10
+|previous=HammerClash/5{{!}}#5
+|next=HammerClash/7{{!}}#7
+}}
+
+==Information==
+===Format===
+*Double Elimination Bracket
+** All matches are {{Abbr/Ft2}}
+*All maps in the competitive map pool available. First pick per coin toss, after that maps are chosen by the loser of the previous map.
+
+
+==Prize Pool==
+{{TeamPrizePool|import=true|localcurrency=eur
+|{{Slot|localprize=150}}
+|{{Slot|localprize=50}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Les Nounours Cosmiques
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Watermelon Juice
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Neko Spirit
+|p1=EASTPACKMAN|p1flag=fr|pos1=dps
+|p2=Ternato|p2flag=fr|pos2=dps
+|p3=TsuSHI|p3flag=fr|pos3=dps
+|p4=Friome|p4flag=fr|pos4=dps
+|p5=LaCocote|p5flag=fr|pos5=tank
+|p6=LeLouch|p6flag=fr|pos6=tank
+|p7=SilanceX|p7flag=fr|pos7=sup
+|p8=Belesprit|p8flag=be|pos8=sup
+}}
+{{TeamCard
+|team=Les Nounours Affamés
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=MME
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Tourtons Frites Couscous
+|p1=Kuraki|p1flag=fi|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Not Clavier Club
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard
+|team=Chaos
+|p1=Asaru|p1flag=fr|pos1=dps
+|p2=TurboSmooth|p2flag=fr|pos2=dps
+|p3=NevsH200|p3flag=de|pos3=tank
+|p4=AzBlue|p4flag=fr|pos4=sup
+|p5=Darrow|p5flag=fr|pos5=sup
+}}
+{{TeamCard
+|team=Sanglier
+|p1=Stellios|pos1=dps
+|p2=Mickalow|pos2=dps
+|p3=Kwyseur|p3flag=fr|pos3=tank
+|p4=Nagi|p4flag=fr|pos4=sup
+|p5=Gogo|p5flag=fr|pos5=sup
+}}
+{{TeamCard
+|team=Les Nounours Pailletés
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/4L2DH4LSU4L4DSL1D|id=fxOKkNBYAA
+
+<!-- Upper Bracket Round 1 -->
+|R1M1={{Match
+    |bestof=3
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|les nounours cosmiques|score=0}}
+    |opponent2={{TeamOpponent|watermelon juice|score=2}}
+}}
+|R1M2={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|les nounours affamés|score=W}}
+    |opponent2={{TeamOpponent|mme|score=FF}}
+}}
+
+<!-- Upper Bracket Quarterfinals -->
+|R2M1={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|tourtons frites couscous|score=2}}
+    |opponent2={{TeamOpponent|watermelon juice|score=0}}
+}}
+|R2M2={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|not clavier club|score=0}}
+    |opponent2={{TeamOpponent|neko spirit|score=2}}
+}}
+|R2M3={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|chaos|score=2}}
+    |opponent2={{TeamOpponent|les nounours affamés|score=0}}
+}}
+|R2M4={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|sanglier|score=2}}
+    |opponent2={{TeamOpponent|les nounours pailletés|score=0}}
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R3M1={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|tourtons frites couscous|score=2}}
+    |opponent2={{TeamOpponent|neko spirit|score=0}}
+}}
+|R3M2={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|chaos|score=1}}
+    |opponent2={{TeamOpponent|sanglier|score=2}}
+}}
+
+<!-- Upper Bracket Final -->
+|R5M1={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|tourtons frites couscous|score=2}}
+    |opponent2={{TeamOpponent|sanglier|score=1}}
+}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M3={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|watermelon juice|score=W}}
+    |opponent2={{TeamOpponent|mme|score=FF}}
+}}
+|R1M4={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|les nounours affamés|score=2}}
+    |opponent2={{TeamOpponent|les nounours cosmiques|score=0}}
+}}
+
+<!-- Lower Bracket Round 2 -->
+|R2M5={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|not clavier club|score=2}}
+    |opponent2={{TeamOpponent|watermelon juice|score=1}}
+}}
+|R2M6={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|les nounours pailletés|score=0}}
+    |opponent2={{TeamOpponent|les nounours affamés|score=2}}
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R3M3={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|chaos|score=2}}
+    |opponent2={{TeamOpponent|not clavier club|score=0}}
+}}
+|R3M4={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|neko spirit|score=0}}
+    |opponent2={{TeamOpponent|les nounours affamés|score=2}}
+}}
+
+<!-- Lower Bracket Semifinal -->
+|R4M1={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|chaos|score=2}}
+    |opponent2={{TeamOpponent|les nounours affamés|score=0}}
+}}
+
+<!-- Lower Bracket Final -->
+|R5M2={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|sanglier|score=1}}
+    |opponent2={{TeamOpponent|chaos|score=2}}
+}}
+
+<!-- Grand Final -->
+|R6M1={{Match
+	|date=2022-12-03
+    |opponent1={{TeamOpponent|tourtons frites couscous|score=2}}
+    |opponent2={{TeamOpponent|chaos|score=0}}
+}}
+}}

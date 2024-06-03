@@ -1,0 +1,112 @@
+{{Liquipedia links|valorant=TEN_FPS_SPECIAL/2022|rainbowsix=TEN_2022_FPS_SPECIAL}}
+{{DISPLAYTITLE:TEN 2022 FPS SPECIAL}}
+{{Infobox league
+|liquipediatier=4
+|name=TEN 2022 FPS SPECIAL
+|shortname=TEN FPS SPECIAL
+|tickername=TEN FPS SPECIAL
+|series=The Esports Night
+|icon=The Esports Night logo small.png
+|image=TEN 2022 FPS SPECIAL.png
+|organizer=Government of Busan
+|organizer-link=http://www.busanit.or.kr/
+|organizer2=LOUD COMMUNICATIONS
+|organizer2-link=http://www.loudcomms.com/
+|type=Offline
+|country=South Korea
+|city=Busan
+|venue=[https://brena.or.kr/brena BRENA]
+|format=Single Elimination
+|prizepool=7000000
+|localcurrency=KRW
+|date=2022-12-23
+|twitter=Brena_esports
+|web=https://brena.or.kr/brena/index.do
+|streams=https://play.afreecatv.com/afoverwatch/null
+|twitch=overwatchkr
+|douyu=7967958
+|twitter2=owesports_kr
+|youtube=TEN_kr
+|rulebook=
+|bracket=
+|team_number=2
+}}
+
+'''The Esports Night(TEN)''' is a tournament organized by [http://www.busanit.or.kr/ Government of Busan] and [http://www.loudcomms.com/ LOUD COMMUNICATIONS].
+
+==About==
+===Broadcast talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Park Han-eol
+|b2=AKaros
+}}
+
+===Prize Pool===
+{{TeamPrizePool|localcurrency=KRW
+|{{Slot|localprize=4000000|{{Opponent|sin prisa gaming|lastvs=panthera|lastvsscore=4-3}}}}
+|{{Slot|localprize=3000000|{{Opponent|panthera|lastvs=sin prisa gaming|lastvsscore=3-4}}}}
+}}
+
+==Participants==
+{{TeamCard columns start|cols=2}}
+{{TeamCard|players=5
+|team=Sin Prisa Gaming
+|p1=Ade|pos1=dps
+|p2=TOPDRAGON|pos2=dps
+|p3=Toyou|pos3=tank
+|p4=SanGuiNar|pos4=sup
+|p5=LeeSooMin|pos5=sup
+|t2title=Staff
+|t2c1=SKY|t2c1pos=head coach
+|t2c2=Wonsoomin|t2c2pos=coach
+|t2c3=Candle|t2c3flag=kr|t2c3pos=manager
+|t3title=Substitute
+|t3p1=WoochaN|t3pos1=dps
+|t3p2=Mealgaru|t3pos2=tank 
+|t3p3=LeeYoonSeo|t3p3flag=kr|t3pos3=sup 
+}}
+{{TeamCard|players=5
+|team=PANTHERA
+|p1=Hidden|pos1=dps
+|p2=Na1st|pos2=dps
+|p3=Belosrea|pos3=tank
+|p4=prot3ct|pos4=tank
+|p5=LeGo|pos5=sup
+|p6=OFF|pos6=sup
+|t2title=Staff
+|t2p1=XyuN|t2p1link=Choi_Hyun-jin|t2pos1=Head Coach
+|t2p2=Trysome|t2pos2=coach
+|t2p3=prot3ct|t2pos3=coach
+|t2p4=AKA|t2pos4=manager
+|t2p5=XiNE|t2pos5=manager
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{SingleMatch|id=mGszFfWfT1|width=600
+|{{Match
+    |opponent1={{TeamOpponent|sin prisa gaming}}|opponent2={{TeamOpponent|panthera}}
+    |date=December 24, 2022 - 18:00 {{Abbr/KST}}|finished=true
+    |twitch=owesports_kr|youtube=TEN_kr|vod=https://youtu.be/2_nIUZ4f53w
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=5|score2=4|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=Esperança|mode=Push|score1=89.27|score2=93.52|winner=2}}
+    |map5={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+	|map6={{Map|map=Route 66|mode=Escort|score1=1|score2=0|winner=1}}
+	|map7={{Map|map=Colosseo|mode=Control|score1=115.08|score2=42.49|winner=1}}
+    }}
+}}
+
+==Additional Content==
+===Statistics===
+{{TournamentStats|MapsGraphs=hide|MapsBannedTable=hide}}
+
+===Streams===
+{{Streams
+|lang1=kr |twitch1=owesports_kr |youtube1=watch?v=2_nIUZ4f53w
+}}
+
+==References==
+{{Reflist}}

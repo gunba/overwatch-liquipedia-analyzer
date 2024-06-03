@@ -1,0 +1,100 @@
+{{DISPLAYTITLE:ESL Community Cup #4 North America}}
+{{ESL CC Navbox}}
+{{Infobox league
+|name=ESL Community Cup #4 North America
+|image=ESL Overwatch Community Cup.png
+|series=ESL Community Cup North America
+|shortname=4
+|organizer=ESL
+|country=North America
+|format=Single Elimination
+|type=Online
+|date=2016-03-26
+|web=https://play.eslgaming.com/overwatch/
+|bracket=https://play.eslgaming.com/overwatch/north-america/overwatch/open/community-cup-4-north-america/rankings/
+|liquipediatier=5|liquipediatiertype=Weekly
+|team_number=3
+}}
+
+==Overview==
+'''ESL Community Cup #4 North America''' is the fourth North American installment of ESL community cups.
+
+===Prize Pool===
+{{TeamPrizePool|import=true
+|{{Slot}}
+|{{Slot}}
+|{{Slot}}
+}}
+
+===Format===
+*Single Elimination Bracket
+**Game Mode
+***Quarterfinals: {{Abbr/Bo1}}
+***Semifinals: {{Abbr/Bo3}}
+***Finals: {{Abbr/Bo5}}
+**Heroes Limitation
+***One per team
+***All heroes are currently allowed
+
+===Casters===
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=onTILT
+|p1=BreadExpert |p1flag=us
+|p2=Exeon |p2flag=us
+|p3=Krawnnic |p3flag=us
+|p4=Mangachu |p4flag=ca
+|p5=Teknikk |p5flag=ca
+|p6=rastsy |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Code7
+|p1=FireStorm |p1flag=us
+|p2=NicolasTJO |p2flag=ca
+|p3=torkTJO |p3flag=us
+|p4=Trudel |p4flag=ca
+|p5=Custa |p5flag=ca
+|p6=Jkw |p6flag=us
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Blues Boyz
+|p1=BluPajamaz |p1flag=us
+|p2=ChaoticG8R |p2flag=us
+|p3=Draven |p3flag=us
+|p4=Tomtom |p4flag=us
+|p5=sergesx |p5flag=us
+|p6=ssk |p6flag=us
+}}
+{{box|end|padding=2em}}
+
+==Results==
+{{Bracket|Bracket/2L1D|id=aiIklRLNwQ
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=March 26, 2016
+    |opponent1={{TeamOpponent|blues boyz}}
+    |opponent2={{TeamOpponent|ontilt}}
+    |map1={{Map|map=Dorado|mode=Escort|score1=|score2=|winner=2}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=|score2=|winner=2}}
+
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+	|bestof=5
+    |date=March 26, 2016
+    |opponent1={{TeamOpponent|code7}}
+    |opponent2={{TeamOpponent|ontilt}}
+    |map1={{Map|map=Numbani|mode=Hybrid|score1=|score2=|winner=1}}
+    |map2={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=|score2=|winner=1}}
+}}
+}}

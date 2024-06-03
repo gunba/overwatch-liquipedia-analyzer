@@ -1,0 +1,159 @@
+{{DISPLAYTITLE:Val Verde Unified Esports Tournament 2022}}
+{{Infobox league
+|liquipediatier=4
+|name=Val Verde Unified Esports Tournament 2022
+|shortname=Val Verde Unified Esports Tournament
+|tickername=Val Verde Unified Esports Tournament
+|image=Val Verde Unified School District Esports High School Tournament lightmode.png
+|imagedark=Val Verde Unified School District Esports High School Tournament darkmode.png
+|icon=
+|series=
+|abbreviation=
+|organizer=Val Verde Unified
+|organizer2=Highschool.gg
+|organizer-link=
+|sponsor=Lenovo
+|type=Offline
+|country=United States
+|city=Perris, California
+|venue=Rancho Verde High School
+|game=overwatch
+|format=Single Elimination
+|prizepoolusd=700
+|localcurrency=<!--ISO 4217 code of prize currency-->
+|prizepool=<!--Prize in local currency, do not use if prize is in USD-->
+|sdate=
+|edate=
+|date=2022-04-07
+|twitter=
+|web=
+|twitch=
+|discord=
+|youtube=
+|rulebook=
+|bracket=
+|team_number=4
+|next=Val_Verde_Unified_Esports_Tournament/2023{{!}}2023
+}}
+
+==Information==
+*All matches are {{Abbr/Bo3}}
+
+===Broadcast Talent===
+{{BroadcasterCard|lang=
+|position=Commentator
+|b1=FBI_Tugboat
+|b2=Will English IV
+
+}}
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=7|'''Map Pool'''
+|-
+![[Control]]
+![[Assault]]
+![[Hybrid]]
+![[Escort]]
+|-
+|width="130" rowspan=5|
+*[[Busan]]
+*[[Ilios]]
+*[[Lijiang Tower]]
+|width="130" rowspan=5|
+*[[Hanamura]]
+*[[Volskaya Industries]]
+|width="130" rowspan=5|
+*[[Blizzard World]]
+*[[Hollywood]]
+*[[King's Row]]
+|width="130" rowspan=5|
+*[[Havana]]
+*[[Rialto]]
+*[[Dorado]]
+|}
+
+
+===Prize Pool===
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=700}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Orange Vista High School
+|p1=ilytwo|p1flag=United States|pos1=Tank
+|p2=Uta Haru|p2flag=Mexico|pos2=Tank
+|p3=dannysghosts|p3flag=United States|pos3=DPS
+|p4=shinigamiern|p4flag=United States|pos4=DPS
+|p5=Meowth|p5flag=United States|pos5=Support
+|p6=imaphenom0|p6flag=United States|pos6=Support
+|t2title=Staff
+|t2c1=Fathertime|t2c1flag=USA|t2c1pos=Coach
+|qualifier=OVHS Open Qualifer
+
+}}
+{{TeamCard
+|team=Rancho Verde High School
+|p1=LasangaLad|p1flag=United States|pos1=Tank
+|p2=IcyMelon521|p2flag=United States|pos2=Tank
+|p3=PabloEscobat|p3flag=United States|pos3=DPS
+|p4=Acevolvex|p4flag=United States|pos4=DPS
+|p5=mochii|p5flag=United States|pos5=Support
+|p6=SioMairice|p6flag=United States|pos6=Support
+|qualifier=RVHS Open Qualifer
+}}
+{{TeamCard
+|team=Citrus Hill High School
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|qualifier=CHHS Open Qualifer
+}}
+{{TeamCard
+|team=Val Verde High School
+|p1=|p1flag=|pos1=
+|p2=|p2flag=|pos2=
+|p3=|p3flag=|pos3=
+|p4=|p4flag=|pos4=
+|p5=|p5flag=|pos5=
+|qualifier=VVHS Open Qualifer
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/4|id=XZH8E09ArL
+
+<!-- Semifinals -->
+|R1M1={{Match
+    |bestof=3
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Rancho Verde high school|score=2}}
+    |opponent2={{TeamOpponent|Val Verde high school|score=0}}
+}}
+|R1M2={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Citrus Hill high school|score=0}}
+    |opponent2={{TeamOpponent|Orange Vista high school|score=2}}
+}}
+
+<!-- Grand Final -->
+|R2M1={{Match
+    |date=
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Orange Vista high school}}
+    |opponent2={{TeamOpponent|Rancho Verde high school}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=4|score2=3|winner=1}}
+	|map3={{Map|map=Rialto|mode=Escort|score1=0|score2=3|winner=2}}
+	|map4={{Map|map=Hanamura|mode=Assault|score1=0|score2=2|winner=2}}
+	|map5={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+	|vod=https://www.youtube.com/watch?v=OjSDyhLGnmo
+}}
+}}

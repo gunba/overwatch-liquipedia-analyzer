@@ -1,0 +1,1332 @@
+{{DISPLAYTITLE:HammerDown Cup #2}}
+{{HammerDown Cup Navbox}}<br>
+{{Infobox league
+|name=HammerDown Cup #2
+|shortname=HD Cup #2
+|image=HammerDown Cup.png
+|series=HammerDown Cup
+|abbreviation=HammerDown Cup
+|tickername=HD Cup #2
+|organizer=Liga Profesional de Esports
+|organizer-link=https://twitter.com/ligaproesports
+|sponsor=
+|type=Online
+|country=South America
+|format='''Playoffs''':<br>Single Elimination<br>
+|prizepool=
+|localcurrency=
+|prizepoolusd=300
+|date=2017-11-18
+|liquipediatier=5
+|web=http://ligaproesports.com/
+|bracket=https://www.toornament.com/tournaments/840115103150374912/stages/840117407274213376/
+|twitch=ligaproesports
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=32
+|previous=HammerDown_Cup/1{{!}}HammerDown Cup #1
+|next=HammerDown_Cup/3{{!}}HammerDown Cup #3
+}}
+
+==Information==
+The '''HammerDown Cup''' is an [[:Category:South America|South American]] tournament.
+
+====Portuguese Broadcast====
+{{BroadcasterCard|lang=Portuguese
+|position=Commentator
+|b1=Diney Revenge |b1name=Diney Paiva |b1flag=br
+|b2=Vecet |b2name=Arthur Nogueira |b2flag=br
+|b3=Tonello |b3name=Felipe Souza |b3flag=br
+|b4=Ana Xisde |b4name=Ana Paula Cardoso |b4flag=br
+}}
+
+
+====Spanish Broadcast====
+{{BroadcasterCard|lang=Spanish
+|position=Commentator
+|b1=Kerykeion |b1name=Juan Marcó Quiroga |b1flag=ar
+|b2=RkT |b2name=Lautaro Massara |b2flag=ar
+|b3=Onarr|b3name=Juan Martín Tognazzolo |b3flag=uy
+}}
+
+===Format===
+*'''General Rules''': Competitive Mode.
+* '''Playoffs''': Single elimination.
+** All matches are {{Abbr/Bo3}}.
+** Semifinals and Grand Finals are {{Abbr/Bo5}}.
+
+===Prize Pool===
+The prizepool is wholly created by donations from the viewers, if it gets bigger than $300 ({{Abbr/USD}}) it will be split between the 1st,2nd and 3rd place.<br>
+{{prize pool start|cutafter=4}}
+{{prize pool slot |place=1  |usdprize=150  |karma|lastvs1=bgh|lastscore1=3 |lastvsscore1=1 }}
+{{prize pool slot |place=2   |bgh |usdprize=100|lastvs1=karma|lastscore1=1 |lastvsscore1=3}}
+{{prize pool slot |place=3  |usdprize=50 |centaurus gaming |lastvs1=bgh|lastscore1=0 |lastvsscore1=1}}
+{{prize pool slot |place=4  |usdprize=0 |ivyaert e-sports|lastvs1=centaurus gaming|lastscore1=0 |lastvsscore1=1 }}
+{{prize pool slot|place=5-8 |usdprize=0
+|tech titans|lastvs1=ivyaert e-sports|lastscore1=0 |lastvsscore1=1
+|terminals|lastvs2=centaurus gaming|lastscore2=0 |lastvsscore2=1
+|kazek gaming|lastvs3=tech titans|lastscore3=0 |lastvsscore3=1
+|Cimarrón e-sports|lastvs4=terminals|lastscore4=0 |lastvsscore4=1}}
+{{prize pool slot|place=9-16 |usdprize=0
+|ws esports|lastvs1=kazek gaming|lastscore1=0 |lastvsscore1=1
+|dogma|lastvs2=tech titans|lastscore2=0 |lastvsscore2=1
+|crossbones e-sports red|lastvs3=terminals|lastscore3=0 |lastvsscore3=1
+|avonts e-sports|lastvs4=Cimarrón e-sports|lastscore4=0 |lastvsscore4=1
+|blitzkrieg e-sports|lastvs5=avonts e-sports|lastscore5=0 |lastvsscore5=1
+|blue light gaming|lastvs6=crossbones e-sports red|lastscore6=0 |lastvsscore6=1
+|mada mada (paraguayan team)|lastvs7=tech titans|lastscore7=0 |lastvsscore7=1
+|improdivision|lastvs8=ws esports|lastscore8=0 |lastvsscore8=1
+}}
+{{prize pool end}}
+
+==Top 16==
+{{TeamCardToggleButton}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=Brasil Gaming House
+|image=
+|p1=Dudu|p1flag=br|pos1=dps
+|p2=Liko|p2flag=br|pos2=dps
+|p3=Neil|p3flag=br|pos3=tank
+|p4=Honorato|p4flag=br|pos4=flex
+|p5=Alemao|p5flag=br|pos5=sup
+|p6=Dehzinho|p6flag=br|pos6=sup
+|c=TMATTEI|cflag=br
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Centaurus Gaming
+|image=Centaurus Gaming logo v3.png
+|p1=Jhein|p1flag=ar|pos1=dps
+|p2=Cougar|p2flag=cl|pos2=dps
+|p3=Helvoro|p3flag=ar|pos3=flex
+|p4=izAvenge|p4flag=ar|pos4=tank
+|p5=Clank|p5flag=ar|pos5=sup
+|p6=Kaizak|p6flag=ar|pos6=sup
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Dogma e-Sports
+|image=
+|p1=Edigas|p1flag=br|pos1=dps
+|p2=Exquisite|p2flag=br|pos2=dps
+|p3=Xikon|p3flag=br|pos3=tank
+|p4=ShadowSong|p4flag=br||pos4=tank
+|p5=Trickk|p5flag=br|pos5=flex
+|p6=Saulzera|p6flag=br|pos6=sup
+|p7=storm|p7flag=br |pos7=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Karma
+|image=KARMA black.png
+|p1=LeviataN|p1flag=ar|pos1=dps
+|p2=Klaus |p2flag=ar|pos2=dps
+|p3=Nekta|p3flag=ar|pos3=tank
+|p4=Beast|p4flag=ar|pos4=flex
+|p5=Ddx|p5flag=ar|pos5=sup
+|p6=Battletoad|p6flag=ar|pos6=sup
+|c=Bassoid|cflag=ar
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=TERM1N@L$
+|image=Terminals_logo.png
+|p1=Zealot62|p1flag=ar
+|p2=JonatanKing |p2flag=ar
+|p3=Matiash4k'm'|p3flag=ar
+|p4=Vegaclaw|p4flag=ar
+|p5=Monito|p5flag=ar
+|p6=Chiefkeef|p6flag=
+|p7=Okuno|p7flag=ar
+|p8=Lopsddd
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=WS Esports
+|image=
+|p1=Macca|p1flag=br|pos1=dps
+|p2=DreamyEasy |p2flag=br|pos2=dps
+|p3=Xoazu|p3flag=br|pos3=tank
+|p4=Domiinguera|p4flag=br|pos4=sup
+|p5=Phabujamra|p5flag=br|pos5=sup
+|p6=Dogo|p6flag=br|pos6=sup
+|c=Sirknow|cflag=br
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Avonts e-Sports
+|image=Avonts e-Sports logo.png 
+|p1=Óbis|p1flag=br|pos1=dps
+|p2=Svenko |p2flag=br|pos2=dps
+|p3=Jota1|p3flag=br|pos3=tank
+|p4=Calenhil|p4flag=br|pos4=flex
+|p5=Biramon|p5flag=br|pos5=sup
+|p6=Rodolpho25|p6flag=br|pos6=sup
+|p7=Synke|p7flag=br|pos7=sup
+|c=RabbitHeart|cflag=br
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Tech Titans
+|image=Tech Titans logo.png
+|p1=Epox|p1flag=ar|pos1=dps
+|p2=Drusker |p2flag=ar|pos2=flex
+|p3=Searchy|p3flag=ar|pos3=sup
+|p4=Natychan|p4flag=ar|pos4=sup
+|p5=Harryd4bs|p5flag=cl
+|p6=Shiina|p6flag=ar
+|p7=Zyphril|p7flag=ar
+|p8=Thelfaz
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Crossbones E-Sports Red
+|p1=Nemesis|p1flag=br|pos1=dps
+|p2=Meliodas |p2flag=br|pos2=dps
+|p3=Leo|p3flag=br|p3link=Leo2|pos3=dps
+|p4=Doutora|p4flag=br|pos4=tank
+|p5=Alicia|p5flag=br|pos5=flex
+|p6=Doctor|p6flag=br|pos6=sup |p6link=doctor (braziliam player)
+|p7=Highwind|p7flag=br|pos7=sup
+|c=Tedbrown|cflag=br
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Cimarrón Esports
+|image=Cimarron_e-Sports_logo.png
+|p1=Daktei|p1flag=uy|pos1=
+|p2=Lulu |p2flag=uy|pos2=
+|p3=Niko|p3flag=uy|pos3=
+|p4=Azrael|p4flag=uy|pos4=
+|p5=Sevko|p5flag=uy|pos5=
+|p6=Frix|p6flag=uy|pos6=
+|p7=Sorafin|p7flag=uy|pos7=
+|p8=Kasav|p8flag=uy
+|c=Fennix|cflag=uy
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Ivyaert E-Sports
+|image=Ivyaert_E-sports_logo.png
+|p1=Okku|p1flag=ar
+|p2=Kalo |p2flag=ar
+|p3=Xown|p3flag=ar
+|p4=Romerxz|p4flag=ar
+|p5=Fawin|p5flag=ar
+|p6=Leon|p6flag=ar
+|p7=Luni|p7flag=ar
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Blitzkrieg e-Sports
+|image=Blitzkrieg_e-Sports_logo.png
+|p1=Shinigami|p1flag=br|pos1=dps
+|p2=Yuk1 |p2flag=br
+|p3=Arawns|p3flag=br
+|p4=Mvks|p4flag=br
+|p5=Caplag|p5flag=br
+|p6=Estima|p6flag=br
+|p7=Shiroe
+|p8=Pandinha
+|p9=Fearless|p9link=Fearless(SA player)
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Blue Light Gaming
+|image=Blue_Light_Gaming_logo.png
+|p1=Caiko|p1flag=ar
+|p2=Taz |p2flag=ar
+|p3=Nearotar|p3flag=ar
+|p4=NiqqoSavage|p4flag=ar
+|p5=Starfall|p5flag=ar
+|p6=Shamsiel|p6flag=ar
+|p7=Leitzs|p7flag=ar
+|p8=Wichimeca|p8flag=ar
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ImproDivision
+|image=ImproDivision_logo.png
+|p1=TedyZ|p1flag=br|pos1=dps
+|p2=Ludwig |p2flag=br|pos2=dps
+|p3=Momo|p3flag=br|pos3=tank|p3link=Momo (Brazilian player)
+|p4=HyperKilll|p4flag=br
+|p5=Karen|p5flag=br
+|p6=Poetic|p6flag=br
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Mada Mada
+|link=Mada Mada (Paraguayan team)
+|image=Mada_Mada_logo.png
+|p1=Mrlewakex|p1flag=
+|p2=demuxq |p2flag=
+|p3=Kitty|p3flag=|p3link=Kitty (brazilian player)
+|p4=Lykke|p4flag=
+|p5=Sneps|p5flag=
+|p6=Gene5is|p6flag=ar
+|p7=Spike|p7link=Spike (South American Player)
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Kazek Gaming
+|image=Kazek_Gaming_logo.png
+|p1=Wismec|p1flag=ar|pos1=dps
+|p2=TrueShoot |p2flag=ar|pos2=dps
+|p3=xRavaged|p3flag=uy|pos3=tank
+|p4=Aygm|p4flag=br|pos4=flex
+|p5=Newly|p5flag=ar|pos5=sup
+|p6=Trysha|p6flag=ar|sup
+|p7=Bulu|p7flag=ar|tank
+}}
+{{box|end|padding=2em}}
+
+==Results==
+{{LegacyBracket|Bracket/32U16L8DSL4DSL2DSL1D|32DETeamBracket|type=team|id=7AiugMqF5j
+<!-- WINNERS BRACKET -->
+<!-- WINNERS ROUND 1 -->
+|R1D1team=karma |R1D1score=2 |R1D1win= 1
+|R1D2team=bye |R1D2score=0 |R1D2win=
+|R1G1details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D3team=zony gaming |R1D3score=2 |R1D3win= 1
+|R1D4team=crossbones e-sports red |R1D4score=0 |R1D4win=
+|R1G2details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D5team=ws esports |R1D5score=2 |R1D5win=1
+|R1D6team=forsaken greedy |R1D6score=0 |R1D6win=
+|R1G3details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D7team=terminals |R1D7score=2 |R1D7win=1
+|R1D8team=phantom gaming |R1D8score=0 |R1D8win=
+|R1G4details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D9team=tech titans |R1D9score=2 |R1D9win=1
+|R1D10team=cmp e-sports  |R1D10score=0 |R1D10win=
+|R1G5details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D11team=Cimarrón e-sports |R1D11score=2 |R1D11win=1
+|R1D12team=toxic overwatch team |R1D12score=0 |R1D12win=
+|R1G6details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D13team=ivyaert e-sports |R1D13score=2 |R1D13win=1
+|R1D14team=blitzkrieg e-sports |R1D14score=0 |R1D14win=
+|R1G7details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D15team=crossbones e-sports blue |R1D15score=1 |R1D15win=
+|R1D16team=fábrica de lendas |R1D16score=2 |R1D16win=1
+|R1G8details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D17team=bgh |R1D17score=2 |R1D17win=1
+|R1D18team=improdivision |R1D18score=0 |R1D18win=
+|R1G9details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D19team=bye |R1D19score=0 |R1D19win=
+|R1D20team=galactic monkeys |R1D20score=2 |R1D20win=1
+|R1G10details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D21team=kazek gaming |R1D21score=2  |R1D21win=1
+|R1D22team=guardians imperium |R1D22score=0 |R1D22win=
+|R1G11details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D23team=blue light gaming |R1D23score=2 |R1D23win=1
+|R1D24team=nuke'em gaming |R1D24score=0 |R1D24win=
+|R1G12details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D25team=centaurus gaming |R1D25score=2 |R1D25win=1
+|R1D26team=watchmen |R1D26score=0 |R1D26win=
+|R1G13details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D27team=avonts e-sports |R1D27score=2 |R1D27win=1
+|R1D28team=red light gaming |R1D28score=0 |R1D28win=
+|R1G14details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D29team=dogma |R1D29score=2 |R1D29win=1
+|R1D30team=mada mada (paraguayan team) |R1D30score=0 |R1D30win=
+|R1G15details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D31team=cooldown esports |R1D31score=0 |R1D31win=
+|R1D32team=cnrg gaming |R1D32score=2 |R1D32win=1
+|R1G16details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- WINNERS ROUND 2 -->
+|R2W1team=karma |R2W1score=2 |R2W1win=1
+|R2W2team=zony gaming |R2W2score=0 |R2W2win=
+|R2G1details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W3team=ws esports |R2W3score=1 |R2W3win=
+|R2W4team=terminals |R2W4score=2 |R2W4win=1
+|R2G2details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W5team=tech titans |R2W5score=1 |R2W5win=
+|R2W6team=Cimarrón e-sports |R2W6score=2 |R2W6win=1
+|R2G3details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W7team=ivyaert e-sports |R2W7score=2 |R2W7win=1
+|R2W8team=fábrica de lendas |R2W8score=0 |R2W8win=
+|R2G4details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W9team=bgh |R2W9score=2 |R2W9win=1
+|R2W10team=galactic monkeys |R2W10score=0 |R2W10win=
+|R2G5details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W11team=kazek gaming |R2W11score=2 |R2W11win=1
+|R2W12team=blue light gaming |R2W12score=0 |R2W12win=
+|R2G6details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W13team=centaurus gaming |R2W13score=2 |R2W13win=1
+|R2W14team=avonts e-sports |R2W14score=0 |R2W14win=
+|R2G7details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2W15team=dogma |R2W15score=2 |R2W15win=1
+|R2W16team=cnrg gaming |R2W16score=0 |R2W16win=
+|R2G8details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- WINNERS ROUND 3 -->
+|R3W1team=karma |R3W1score=2 |R3W1win=1
+|R3W2team=terminals |R3W2score=0 |R3W2win=
+|R3G1details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R3W3team=Cimarrón e-sports |R3W3score=1 |R3W3win=
+|R3W4team=ivyaert e-sports |R3W4score=2 |R3W4win=1
+|R3G2details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R3W5team=bgh |R3W5score=2 |R3W5win=1
+|R3W6team=kazek gaming |R3W6score=0 |R3W6win=
+|R3G3details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R3W7team=centaurus gaming |R3W7score=2 |R3W7win=1
+|R3W8team=dogma |R3W8score=0 |R3W8win=
+|R3G4details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- WINNERS SEMIFINALS -->
+|R4W1team=karma |R4W1score=2 |R4W1win= 1
+|R4W2team=ivyaert e-sports |R4W2score=0 |R4W2win=
+|R4G1details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R4W3team=bgh |R4W3score=2 |R4W3win=1
+|R4W4team=centaurus gaming |R4W4score=0 |R4W4win=
+|R4G2details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- LOSERS BRACKET -->
+<!-- LOSERS ROUND 1 -->
+|R1D33team=crossbones e-sports blue |R1D33score=0 |R1D33win=
+|R1D34team=blitzkrieg e-sports |R1D34score=1 |R1D34win=1
+|R1G17details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D35team=toxic overwatch team |R1D35score=0 |R1D35win=
+|R1D36team=cmp e-sports |R1D36score=1 |R1D36win=1
+|R1G18details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D37team=phantom gaming |R1D37score=1 |R1D37win=1
+|R1D38team=forsaken greedy |R1D38score=0 |R1D38win=
+|R1G19details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D39team=crossbones e-sports red |R1D39score=1 |R1D39win=1
+|R1D40team=bye |R1D40score=0 |R1D40win=
+|R1G20details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D41team=cooldown esports |R1D41score=0 |R1D41win=
+|R1D42team=mada mada (paraguayan team) |R1D42score=1 |R1D42win=1
+|R1G21details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D43team=red light gaming |R1D43score=1 |R1D43win=1
+|R1D44team=watchmen |R1D44score=0 |R1D44win=
+|R1G22details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D45team=nuke'em gaming |R1D45score=0 |R1D45win=
+|R1D46team=guardians imperium |R1D46score=1 |R1D46win=1
+|R1G23details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R1D47team=bye |R1D47score=0 |R1D47win=
+|R1D48team=improdivision |R1D48score=1 |R1D48win=1
+|R1G24details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- LOSERS ROUND 2 -->
+|R2D1team=cnrg gaming |R2D1score=0 |R2D1win=
+|R2W17team=blitzkrieg e-sports |R2W17score=1 |R2W17win=1
+|R2G9details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D2team=avonts e-sports |R2D2score=1 |R2D2win=1
+|R2W18team=cmp e-sports |R2W18score=0 |R2W18win=
+|R2G10details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D3team=blue light gaming |R2D3score=1 |R2D3win=1
+|R2W19team=phantom gaming |R2W19score=0 |R2W19win= 
+|R2G11details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D4team=galactic monkeys |R2D4score=0 |R2D4win=
+|R2W20team=crossbones e-sports red |R2W20score=1 |R2W20win=1
+|R2G12details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D5team=fábrica de lendas |R2D5score=0 |R2D5win=
+|R2W21team=mada mada (paraguayan team) |R2W21score=1 |R2W21win=1
+|R2G13details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D6team=tech titans |R2D6score=1 |R2D6win=1
+|R2W22team=red light gaming |R2W22score=0 |R2W22win=
+|R2G14details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D7team=ws esports |R2D7score=1 |R2D7win=1
+|R2W23team=guardians imperium |R2W23score=0 |R2W23win=
+|R2G15details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R2D8team=zony gaming |R2D8score=0 |R2D8win=
+|R2W24team=improdivision |R2W24score=1 |R2W24win=1
+|R2G16details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- LOSERS ROUND 3 -->
+|R3W9team=blitzkrieg e-sports |R3W9score=0 |R3W9win=
+|R3W10team=avonts e-sports |R3W10score=1 |R3W10win=1
+|R3G5details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R3W11team=blue light gaming |R3W11score=0 |R3W11win=
+|R3W12team=crossbones e-sports red |R3W12score=1 |R3W12win=1
+|R3G6details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R3W13team=mada mada (paraguayan team) |R3W13score=0 |R3W13win=
+|R3W14team=tech titans |R3W14score=1 |R3W14win=1
+|R3G7details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R3W15team=ws esports |R3W15score=1 |R3W15win=1
+|R3W16team=improdivision |R3W16score=0 |R3W16win=
+|R3G8details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- LOSERS ROUND 4 -->
+|R4D1team=Cimarrón e-sports |R4D1score=1 |R4D1win=1
+|R4W5team=avonts e-sports |R4W5score=0 |R4W5win=
+|R4G3details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R4D2team=terminals |R4D2score=1 |R4D2win=1
+|R4W6team=crossbones e-sports red |R4W6score=0 |R4W6win=
+|R4G4details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R4D3team=dogma |R4D3score=0 |R4D3win=
+|R4W7team=tech titans |R4W7score=1 |R4W7win=1
+|R4G5details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R4D4team=kazek gaming |R4D4score=1 |R4D4win=1
+|R4W8team=ws esports |R4W8score=0 |R4W8win=
+|R4G6details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- LOSERS ROUND 5 -->
+|R5W3team=Cimarrón e-sports |R5W3score=0 |R5W3win=
+|R5W4team=terminals |R5W4score=1 |R5W4win=1
+|R5G2details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R5W5team=tech titans |R5W5score=1 |R5W5win=1
+|R5W6team=kazek gaming |R5W6score=0 |R5W6win=
+|R5G3details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- LOSERS ROUND 6 -->
+|R6D1team=centaurus gaming |R6D1score=1 |R6D1win=1
+|R6W1team=terminals |R6W1score=0 |R6W1win=
+|R6G1details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+|R6D2team=ivyaert e-sports |R6D2score=1 |R6D2win=1
+|R6W2team=tech titans |R6W2score=0 |R6W2win=
+|R6G2details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- FINAL BRACKET -->
+<!-- WINNERS FINAL -->
+|R5W1team=karma |R5W1score=2 |R5W1win=1
+|R5W2team=bgh |R5W2score=0 |R5W2win=
+|R5G1details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- LOSERS ROUND 7 -->
+|R7W1team=centaurus gaming |R7W1score=1 |R7W1win=1
+|R7W2team=ivyaert e-sports |R7W2score=0 |R7W2win=
+|R7G1details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- LOSERS FINAL -->
+|R8D1team=bgh |R8D1score=1 |R8D1win=1
+|R8W1team=centaurus gaming |R8W1score=0 |R8W1win=
+|R8G1details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- GRAND FINAL -->
+|R9W1team=karma |R9W1score=3 |R9W1win=1
+|R9W2team=bgh |R9W2score=1 |R9W2win=  
+|R9G1details={{BracketMatchSummary
+|date=
+|stream=
+|finished=true
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+
+<!-- EXTENDED FINAL (optional) -->
+|R9W1score2=
+|R9W2score2=
+|R9G1details2={{BracketMatchSummary
+|date=
+|stream=
+|finished=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|map1=|map1score=|map1win=
+|map2=|map2score=|map2win=
+|map3=|map3score=|map3win=
+|overgg=
+|pf=
+|wl=
+}}
+}}
+
+==References==
+{{Reflist}}

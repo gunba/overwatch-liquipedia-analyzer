@@ -1,0 +1,133 @@
+{{Infobox league
+|name=ESTG eSports Carnival 2016
+|shortname=
+|image=
+|series=
+|organizer=ESTG
+|organizer2=
+|sponsor=
+|type=Offline
+|country=China
+|city=Shanghai
+|format=Single Elimination
+|prizepool=60,000
+|localcurrency=CNY
+|prizepoolusd=8,700
+|date=
+|sdate=2016-12-09
+|edate=2016-12-11
+|liquipediatier={{TierText/3}}
+|web=
+|stream=
+|bracket=
+|challonge=
+|teamfirst=wnv.kr
+|teamsecond=we.red
+|teamthird=ftd
+|teamfourth=nga.s
+|team_number=4
+|team1=
+|team2=
+|team3=
+|team4=
+|team5=
+|team6=
+|team7=
+|team8=
+|previous=
+|next=
+}}
+{{TOClimit|3}}
+==Information==
+===Prize Pool===
+60,000 {{Abbr/CNY}} (~8,700 {{Abbr/USD}}) is spread among the players as seen below:
+{{prize pool start|localcurrency=cny}}
+{{prize pool slot|place=1|usdprize=4,350|localprize=30,000|wnv.kr |lastvs1=we.red |lastscore1=2 |lastvsscore1=0 }}
+{{prize pool slot|place=2|usdprize=2,175|localprize=15,000|we.red |lastvs1=wnv |lastscore1=0 |lastvsscore1=2 }}
+{{prize pool slot|place=3|usdprize=1,450|localprize=10,000|ftd |lastvs1=nga.s |lastscore1=2 |lastvsscore1=0 }}
+{{prize pool slot|place=4|usdprize=725|localprize=5000|nga.s |lastvs1=ftd |lastscore1=0 |lastvsscore1=2 }}
+{{Prize pool end}}
+''Conversion values taken from [http://www.xe.com xe.com] at 2016-12-07. 1 {{Abbr/CNY}} ≈ 0.145 {{Abbr/USD}}''
+
+===Format===
+*Single Elimination
+**Matches are Bo3.
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=TBD|b1flag=cn
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+
+{{box|start|padding=2em}}
+{{TeamCard
+|team=NGA.Scythe
+|p1=Easy|p1flag=cn|p1link=Easy (Chinese player)
+|p2=Canon|p2flag=cn
+|p3=Sinon|p3flag=cn
+|p4=Tuiz1|p4flag=cn
+|p5=kangyi |p5flag=cn
+|p6=Dragon|p6flag=cn
+|qualifier='''Qualified'''
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=WE.Red
+|link=World Elite/WE.Red
+|p1=aAa|p1flag=cn|p1link=aAa (Chinese player)
+|p2=Kata|p2flag=cn
+|p3=YJYG|p3flag=cn
+|p4=Song|p4flag=cn
+|p5=Fenette|p5flag=cn
+|p6=Janna|p6flag=cn
+|qualifier='''Qualified'''
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=wNv.KR
+|link=wNv Teamwork/wNv.KR
+|p1=JIN|p1flag=kr|p1link=JIN_(Jin_Yong_Jin)
+|p2=Kalios|p2flag=kr
+|p3=DDing|p3flag=kr
+|p4=BlueHaS|p4flag=kr
+|p5=Hyeonu|p5flag=kr
+|p6=Bdosin|p6flag=kr
+|c=Crusty
+|qualifier='''Qualified'''
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=FTD Club
+|p1=Roshan|p1flag=cn
+|p2=sssssss|p2flag=cn
+|p3=b612|p3flag=cn
+|p4=Max|p4flag=cn
+|p5=Muggle|p5flag=cn
+|p6=lxppp|p6flag=cn
+|qualifier='''Qualified'''
+}}
+{{box|end}}
+
+==Results==
+===Offline Finals===
+{{LegacyBracket|Bracket/4|4SETeamBracket|type=team|id=E6z8nACzqm
+<!-- SEMIFINALS -->
+|R1D1team=wnv.kr |R1D1score=2 |R1D1win=1
+|R1D2team=ftd |R1D2score=0 |R1D2win=
+|R1D3team=we.red |R1D3score=2 |R1D3win=1
+|R1D4team=nga.scythe |R1D4score=0 |R1D4win=
+<!-- FINALS -->
+|R2W1team=wnv.kr |R2W1score=2 |R2W1win=1
+|R2W2team=we.red |R2W2score=0 |R2W2win=
+<!-- 3RD PLACE (optional) -->
+|R2D1team=ftd |R2D1score=2 |R2D1win=1
+|R2D2team=nga.scythe |R2D2score=0 |R2D2win=
+}}
+
+==External links==
+*{{flag/cn}} [http://news.17173.com/z/ow/content/12132016/173600172.shtml Coverage by 17173]
+
+==References==
+{{Reflist}}

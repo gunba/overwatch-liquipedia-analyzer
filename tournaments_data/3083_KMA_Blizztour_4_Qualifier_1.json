@@ -1,0 +1,1013 @@
+{
+    "tournament_info": [
+        {
+            "liquipediatier": "5",
+            "liquipediatiertype": "Qualifier",
+            "abbreviation": "KMA Blizztour 4",
+            "name": "KMA Blizztour 4",
+            "shortname": "Blizztour 4",
+            "tickername": "KMA Blizztour 4",
+            "icon": "",
+            "image": "Blizztour_4.jpg",
+            "series": "KMA Blizztour",
+            "organizer": "KMA",
+            "game": "overwatch2",
+            "prizepool": "13000",
+            "localcurrency": "rub",
+            "type": "Online",
+            "country": "Russia",
+            "format": "Double Elimination",
+            "sdate": "2023-09-30",
+            "edate": "2023-09-30",
+            "twitter": "",
+            "web": "",
+            "twitch": "ema_live2",
+            "twitch2": "ema_main",
+            "discord": "RyRbZfZCMJ",
+            "youtube": "",
+            "vk": "esportsmedicine",
+            "rulebook": "https://docs.google.com/document/d/1IZtcNbtxYcjxzjYQESFblC3TGx5M2RBN5jG-78tK52M/edit",
+            "bracket": "https://play.toornament.com/en_GB/tournaments/7139555576616263680/",
+            "teamfirst": "",
+            "team_number": "21"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Reserve squad Fallen paradise",
+            "image": "",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "Losing Sanity",
+            "image": "",
+            "p1": "Sanro",
+            "p1flag": "ua",
+            "pos1": "tank",
+            "p2": "kai41",
+            "p2flag": "ru",
+            "pos2": "dps",
+            "p3": "Intergral",
+            "p3flag": "ru",
+            "pos3": "dps",
+            "p4": "SilentAshley",
+            "p4flag": "ru",
+            "pos4": "sup",
+            "p5": "Discordance",
+            "p5flag": "",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc",
+            "t2pos1": "Manager",
+            "t2p1flag": "ru"
+        },
+        {
+            "team": "MSU Esports",
+            "image": "",
+            "p1": "Mark",
+            "p1flag": "",
+            "pos1": "tank",
+            "p2": "fr0l",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "Iceiceice",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "Kingprawn",
+            "p4flag": "",
+            "pos4": "sup",
+            "p5": "Naita",
+            "p5flag": "ru",
+            "pos5": "sup",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "RGGU Gryphis",
+            "image": "",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "Laziers of Oz",
+            "image": "",
+            "p1": "Woodsfrank",
+            "p1flag": "ru",
+            "pos1": "tank",
+            "p2": "Bagel",
+            "p2flag": "ru",
+            "pos2": "dps",
+            "p2link": "Bagel (Russian player)",
+            "p3": "Kisara",
+            "p3flag": "ru",
+            "pos3": "dps",
+            "p4": "Yato",
+            "p4flag": "ru",
+            "pos4": "sup",
+            "p5": "\u041c\u044f\u0442\u043d\u044b\u0439\u0427\u0430\u0439",
+            "p5flag": "ru",
+            "pos5": "sup",
+            "t2title": "Staff",
+            "t2p1": "DarthMurloc",
+            "t2pos1": "Coach",
+            "t2p1flag": "ru"
+        },
+        {
+            "team": "MosPolytech",
+            "image": "",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "Mercy One Love",
+            "image": "",
+            "p1": "",
+            "p1flag": "",
+            "pos1": "",
+            "p2": "",
+            "p2flag": "",
+            "pos2": "",
+            "p3": "",
+            "p3flag": "",
+            "pos3": "",
+            "p4": "",
+            "p4flag": "",
+            "pos4": "",
+            "p5": "",
+            "p5flag": "",
+            "pos5": "",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        },
+        {
+            "team": "\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445",
+            "image": "",
+            "p1": "Executed",
+            "p1flag": "",
+            "pos1": "tank",
+            "p2": "Demibot",
+            "p2flag": "",
+            "pos2": "dps",
+            "p3": "L4b13",
+            "p3flag": "",
+            "pos3": "dps",
+            "p4": "Gastervoice",
+            "p4flag": "",
+            "pos4": "sup",
+            "p5": "Lilim",
+            "p5flag": "",
+            "pos5": "sup",
+            "p6": "",
+            "p6flag": "",
+            "pos6": ""
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "opponent1": "\u041c\u0421 \u041a\u0430\u043b\u044c\u043c\u0430\u0440",
+            "opponent1_score": 2,
+            "opponent2": "Maze Runner",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M1="
+        },
+        {
+            "opponent1": "Laziers of Oz",
+            "opponent1_score": 2,
+            "opponent2": "ReactorMEPHI",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M2="
+        },
+        {
+            "opponent1": "\u041a\u041e\u0427\u042b\u0420\u042b\u0416\u041a\u0418",
+            "opponent1_score": 0,
+            "opponent2": "Losing Sanity",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M3="
+        },
+        {
+            "opponent1": "Horny Party",
+            "opponent1_score": 0,
+            "opponent2": "MSU Esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M4="
+        },
+        {
+            "opponent1": "Nerv|score=L",
+            "opponent2": "\u041f\u0438\u043c\u0443\u0437\u0430\u0432\u0440\u044b|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M5="
+        },
+        {
+            "opponent1": "\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445",
+            "opponent1_score": 1,
+            "opponent2": "\u041c\u0421 \u041a\u0430\u043b\u044c\u043c\u0430\u0440",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M1="
+        },
+        {
+            "opponent1": "\u0420\u043e\u0437\u044b\u0433\u0440\u044b\u0448 \u043f\u043d\u044f",
+            "opponent1_score": 0,
+            "opponent2": "Reserve squad Fallen paradise",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M2="
+        },
+        {
+            "opponent1": "Forbidden Land|score=L",
+            "opponent2": "Laziers of Oz|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M3="
+        },
+        {
+            "opponent1": "Mercy One Love",
+            "opponent1_score": 0,
+            "opponent2": "Losing Sanity",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M4="
+        },
+        {
+            "opponent1": "MosPolytech",
+            "opponent1_score": 0,
+            "opponent2": "MSU Esports",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M5="
+        },
+        {
+            "opponent1": "RGGU Wyverns",
+            "opponent1_score": 0,
+            "opponent2": "desperado",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M6="
+        },
+        {
+            "opponent1": "Syndicate|score=W",
+            "opponent2": "\u041f\u0438\u043c\u0443\u0437\u0430\u0432\u0440\u044b|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M7="
+        },
+        {
+            "opponent1": "Polytech Black Bears|score=L",
+            "opponent2": "RGGU Gryphis|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M8="
+        },
+        {
+            "opponent1": "\u041c\u0421 \u041a\u0430\u043b\u044c\u043c\u0430\u0440",
+            "opponent1_score": 0,
+            "opponent2": "Reserve squad Fallen paradise",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M1="
+        },
+        {
+            "opponent1": "Laziers of Oz",
+            "opponent1_score": 1,
+            "opponent2": "Losing Sanity",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M2="
+        },
+        {
+            "opponent1": "MSU Esports",
+            "opponent1_score": 2,
+            "opponent2": "desperado",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M3="
+        },
+        {
+            "opponent1": "Syndicate|score=L",
+            "opponent2": "RGGU Gryphis|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M4="
+        },
+        {
+            "opponent1": "Polytech Black Bears|score=L",
+            "opponent2": "\u041a\u041e\u0427\u042b\u0420\u042b\u0416\u041a\u0418|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M6="
+        },
+        {
+            "opponent1": "\u041f\u0438\u043c\u0443\u0437\u0430\u0432\u0440\u044b|score=L",
+            "opponent2": "ReactorMEPHI|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M7="
+        },
+        {
+            "opponent1": "MosPolytech",
+            "opponent1_score": 2,
+            "opponent2": "Maze Runners",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M8="
+        },
+        {
+            "opponent1": "\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445",
+            "opponent1_score": 2,
+            "opponent2": "Horny Party",
+            "opponent2_score": 1,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R1M9="
+        },
+        {
+            "opponent1": "\u041a\u041e\u0427\u042b\u0420\u042b\u0416\u041a\u0418",
+            "opponent1_score": 0,
+            "opponent2": "ReactorMEPHI",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M9="
+        },
+        {
+            "opponent1": "RGGU Wyverns",
+            "opponent1_score": 0,
+            "opponent2": "Mospolytech",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M10="
+        },
+        {
+            "opponent1": "Mercy One Love|score=W",
+            "opponent2": "Nerv|score=L",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M11="
+        },
+        {
+            "opponent1": "\u0420\u043e\u0437\u044b\u0433\u0440\u044b\u0448 \u043f\u043d\u044f",
+            "opponent1_score": 0,
+            "opponent2": "\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R2M12="
+        },
+        {
+            "opponent1": "Laziers of Oz",
+            "opponent1_score": 2,
+            "opponent2": "ReactorMEPHI",
+            "opponent2_score": 0,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M5="
+        },
+        {
+            "opponent1": "\u041c\u0421 \u041a\u0430\u043b\u044c\u043c\u0430\u0440",
+            "opponent1_score": 0,
+            "opponent2": "Mospolytech",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M6="
+        },
+        {
+            "opponent1": "Syndicate|score=L",
+            "opponent2": "Mercy One Love|score=W",
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M7="
+        },
+        {
+            "opponent1": "desperado",
+            "opponent1_score": 0,
+            "opponent2": "\u041a\u0430\u043c\u043d\u0438 \u0432 \u043f\u043e\u0447\u043a\u0430\u0445",
+            "opponent2_score": 2,
+            "map1": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map2": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "map3": {
+                "map": "",
+                "mode": "",
+                "score1": "",
+                "score2": "",
+                "winner": ""
+            },
+            "optional": "R3M8="
+        }
+    ]
+}

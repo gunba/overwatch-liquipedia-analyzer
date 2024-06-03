@@ -1,0 +1,414 @@
+{
+    "tournament_info": [
+        {
+            "name": "Overwatch World Cup 2023 France Open Trials",
+            "image": "Overwatch World Cup 2023 allmode.png",
+            "series": "Overwatch World Cup",
+            "shortname": "World Cup 2023",
+            "tickername": "OWWC FRA Open Trials",
+            "icon": "Overwatch World Cup logo.png",
+            "organizer": "Blizzard Entertainment",
+            "organizer2": "GameBattles",
+            "sponsor": "",
+            "type": "Online",
+            "country": "France",
+            "country2": "",
+            "city": "",
+            "venue": "",
+            "format": "",
+            "game": "overwatch2",
+            "prizepoolusd": "2000",
+            "sdate": "2023-02-17",
+            "edate": "2023-02-19",
+            "liquipediatier": "4",
+            "blizzardtier": "owwc",
+            "web": "https://overwatchworldcup.com",
+            "twitter": "playoverwatch",
+            "twitch": "fefegg",
+            "bracket": "https://gamebattles.majorleaguegaming.com/x-play/overwatch/tournament/WC-Trials-FR/info",
+            "rulebook": "https://s3.amazonaws.com/mlg-gamebattles-production/assets/arenacp/files/1675265987/2023-OWWC-Trials-Rules-GB-Feb-1-EN.pdf",
+            "team_number": "35"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Proxima",
+            "p1": "WiifitG0D|p1flag=fr|p1team=|pos1=",
+            "p2": "Karospik|p2flag=fr|p2team=|pos2=",
+            "p3": "Izko|p3flag=fr|p3team=|pos3=",
+            "p4": "Mipha|p4flag=fr|p4team=|pos4=",
+            "p5": "OmegaLya|p5flag=fr|p5team=|pos5=",
+            "p6": "Zao|p6flag=fr|p6team=|pos6="
+        },
+        {
+            "team": "la coupe du monde ouais",
+            "p1": "Hippy|p1flag=fr|p1team=|pos1=dps|p1link=Hippy (French player)",
+            "p2": "Sygfrid|p2flag=fr|p2team=|pos2=dps",
+            "p3": "Justin374|p3flag=fr|p3team=|pos3=tank",
+            "p4": "Lulutrim|p4flag=fr|p4team=|pos4=sup",
+            "p5": "Core|p5flag=fr|p5team=|pos5=sup"
+        },
+        {
+            "team": "On carry Morty",
+            "p1": "HIB06|p1flag=fr|p1team=|pos1=",
+            "p2": "Alicia|p2flag=fr|p2team=|pos2=|p2link= Alicia (French Player)",
+            "p3": "PTSD|p3flag=fr|p3team=|pos3=",
+            "p4": "ProToZ|p4flag=fr|p4team=|pos4=",
+            "p5": "Tsu|p5flag=fr|p5team=|pos5=",
+            "p6": "Xoltan|p6flag=fr|p6team=|pos6="
+        },
+        {
+            "team": "les gars si",
+            "p1": "NiCOgdh|p1flag=|p1team=|pos1=dps",
+            "p2": "Avo|p2flag=|p2team=NightShades|pos2=dps",
+            "p3": "KroxZ|p3flag=|p3team=NightShades|pos3=tank",
+            "p4": "Poko|p4flag=|p4team=|pos4=tank",
+            "p5": "Natlocks|p5flag=|p5team=Raspberry Racers|pos5=sup",
+            "p6": "Xerion|p6flag=|p6team=Raspberry Racers|pos6=sup",
+            "t2title": "Staff",
+            "t2c1": "LeRenegat|t2c1pos=coach",
+            "t2c2": "Bulle|t2c2pos=coach",
+            "t2c3": "Zorfen|t2c3pos=manager"
+        },
+        {
+            "team": "Dragon's Yokai",
+            "p1": "Niel|p1flag=fr|p1team=|pos1=dps",
+            "p2": "Terratiger|p2flag=fr|p2team=|pos2=dps",
+            "p3": "Actimel|p3flag=fr|p3team=|pos3=tank",
+            "p4": "Lenkwyn|p4flag=fr|p4team=|pos4=sup",
+            "p5": "Hell|p5flag=fr|p5team=|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Kyo|t2c1flag=fr|t2c1pos=manager|t2c1link=Kyo (French manager)",
+            "t3title": "Substitutes",
+            "t3p1": "Kyo|t3p1flag=fr|t3pos1=tank|t3p1link=Kyo (French manager)"
+        },
+        {
+            "team": "Team Biscotte",
+            "p1": "Shoto|p1flag=fr|p1team=|pos1=",
+            "p2": "GaMMaGab|p2flag=fr|p2team=|pos2=",
+            "p3": "Skylag|p3flag=fr|p3team=|pos3=",
+            "p4": "TurboSmooth|p4flag=fr|p4team=|pos4=",
+            "p5": "darrow|p5flag=fr|p5team=|pos5="
+        },
+        {
+            "team": "Le Cyclone Fran\u00e7ais",
+            "p1": "Stellios|p1flag=fr|p1team=|pos1=",
+            "p2": "ENDER|p2flag=fr|p2team=|pos2=",
+            "p3": "KwySeuR|p3flag=fr|p3team=|pos3=",
+            "p4": "SoSucre|p4flag=fr|p4team=|pos4=",
+            "p5": "Zaouri|p5flag=fr|p5team=|pos5=",
+            "p6": "Nagi|p6flag=fr|p6team=|pos6="
+        },
+        {
+            "team": "France Opinel",
+            "link": "France Opinel (Trials team)",
+            "p1": "Teemo|p1flag=fr|pos1=tank|p1team=anghells",
+            "p2": "Kilaa|p2flag=fr|pos2=dps",
+            "p3": "Pak|p3flag=fr|pos3=dps",
+            "p4": "GOGO|p4flag=fr|pos4=sup",
+            "p5": "reviewz|p5flag=fr|pos5=sup",
+            "t2title": "Staff",
+            "t2c1": "Ceadus|t2c1pos=coach|t2c1flag=fr|t2c1team=frost tails esport",
+            "t2c2": "SweepzFr|t2c2pos=coach|t2c2flag=fr|t2c2team=shu's money crew eu",
+            "t2c3": "Tarteg|t2c3pos=coach|t2c3team=frost tails esport",
+            "t2c4": "S\u00f8eny|t2c4pos=manager|t2c4flag=fr|t2c4team=team peps",
+            "t2c5": "Pathfinder|t2c5pos=manager|t2c5flag=fr"
+        },
+        {
+            "team": "2BOO",
+            "p1": "Chako|p1flag=fr|p1team=|pos1=",
+            "p2": "KLN|p2flag=fr|p2team=|pos2=",
+            "p3": "Maj\u012bn|p3flag=fr|p3team=|pos3=",
+            "p4": "Miniframboiz|p4flag=fr|p4team=|pos4=",
+            "p5": "Koookye|p5flag=fr|p5team=|pos5=",
+            "p6": "P\u00e5\u00fe\u00ff\u0161\u00f9\u0161h\u00ef|p6flag=fr|p6team=|pos6="
+        },
+        {
+            "team": "Apple Juice",
+            "p1": "Gratuit|p1flag=fr|p1team=|pos1=",
+            "p2": "Astrali|p2flag=fr|p2team=|pos2=",
+            "p3": "Fl\u00e3zz\u0119r|p3flag=fr|p3team=|pos3=",
+            "p4": "KingKB9|p4flag=fr|p4team=|pos4=",
+            "p5": "MIG|p5flag=fr|p5team=|pos5=",
+            "p6": "SsandiEe|p6flag=fr|p6team=|pos6="
+        },
+        {
+            "team": "Dragon's Homies",
+            "p1": "Warglabidoo|p1flag=fr|p1team=|pos1=dps",
+            "p2": "potinounou|p2flag=fr|p2team=|pos2=dps",
+            "p3": "Terozz|p3flag=fr|p3team=|pos3=tank",
+            "p4": "Bak4ra|p4flag=fr|p4team=|pos4=sup",
+            "p5": "Timinyhappy|p5flag=fr|p5team=|pos5=sup"
+        },
+        {
+            "team": "Merlin's Minions",
+            "p1": "RooThoRn|p1flag=fr|p1team=|pos1=",
+            "p2": "FrozenPeon|p2flag=fr|p2team=|pos2=",
+            "p3": "GeeGeek|p3flag=fr|p3team=|pos3=",
+            "p4": "Lvcky|p4flag=fr|p4team=|pos4=",
+            "p5": "Rozo|p5flag=fr|p5team=|pos5=",
+            "p6": "Tyleah|p6flag=fr|p6team=|pos6="
+        },
+        {
+            "team": "IMPERIAL ABS0LUT",
+            "p1": "Tomblue|p1flag=fr|p1team=|pos1=",
+            "p2": "Scari|p2flag=fr|p2team=|pos2=",
+            "p3": "ArcEstBow|p3flag=fr|p3team=|pos3=",
+            "p4": "LordDemon|p4flag=fr|p4team=|pos4=",
+            "p5": "Seagreen|p5flag=fr|p5team=|pos5=",
+            "p6": "\u017b\u0114\u0158\u01fe\u0166\u0174\u01fe|p6flag=fr|p6team=|pos6="
+        },
+        {
+            "team": "FC ZeRock",
+            "p1": "HelBak|p1flag=fr|p1team=|pos1=",
+            "p2": "Kyamou|p2flag=fr|p2team=|pos2=",
+            "p3": "Nazako|p3flag=fr|p3team=|pos3=",
+            "p4": "Hiban|p4flag=fr|p4team=|pos4=",
+            "p5": "molitere|p5flag=fr|p5team=|pos5="
+        },
+        {
+            "team": "FT - Imperial Breath",
+            "p1": "Neil\u00e9rua|p1flag=fr|p1team=|pos1=dps",
+            "p2": "AllanS|p2flag=fr|p2team=|pos2=dps",
+            "p3": "Sun|p3flag=fr|p3team=|pos3=tank|p3link=Sun (French Player)",
+            "p4": "AstroFlox|p4flag=fr|p4team=|pos4=sup",
+            "p5": "Drovix|p5flag=fr|p5team=|pos5=sup",
+            "p6": "Arcane|p6flag=fr|pos6=sup|p6link=Arcane (French Player)",
+            "t2title": "Staff",
+            "t2c1": "Loaw|t2c1flag=fr|t2c1pos=coach",
+            "t2c2": "Maliki|t2c2flag=fr|t2c2pos=manager"
+        },
+        {
+            "team": "EZW",
+            "p1": "sur\u01f7rise|p1flag=fr|p1team=|pos1=dps",
+            "p2": "Starwinks|p2flag=fr|p2team=|pos2=dps",
+            "p3": "Tchoupi|p3flag=fr|p3team=|pos3=tank",
+            "p4": "SuiramScott|p4flag=fr|p4team=|pos4=tank",
+            "p5": "MineRabbit|p5flag=fr|p5team=|pos5=sup",
+            "p6": "Xord|p6flag=fr|p6team=|pos6=sup"
+        }
+    ],
+    "match_cards": [
+        {
+            "bestof": "3",
+            "date": "February 18, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|proxima|score=L}}",
+            "opponent2": "{{TeamOpponent|la coupe du monde ouais|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M1="
+        },
+        {
+            "date": "February 18, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|on carry morty|score=L}}",
+            "opponent2": "{{TeamOpponent|les gars si|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M2="
+        },
+        {
+            "date": "February 18, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|dragon's yokai|score=W}}",
+            "opponent2": "{{TeamOpponent|team biscotte|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M3="
+        },
+        {
+            "date": "February 18, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|le cyclone fran\u00e7ais|score=L}}",
+            "opponent2": "{{TeamOpponent|france opinel (trials team)|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M4="
+        },
+        {
+            "date": "February 18, 2023 - 16:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|la coupe du monde ouais|score=L}}",
+            "opponent2": "{{TeamOpponent|les gars si|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M1="
+        },
+        {
+            "date": "February 18, 2023 - 16:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|dragon's yokai|score=L}}",
+            "opponent2": "{{TeamOpponent|france opinel (trials team)|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M2="
+        },
+        {
+            "date": "February 19, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|les gars si}}",
+            "opponent2": "{{TeamOpponent|france opinel (trials team)}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Circuit Royal|mode=Escort|score1=3|score2=1|winner=1}}",
+            "optional": "R6M1="
+        },
+        {
+            "bestof": "3",
+            "date": "February 18, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|2boo|score=W}}",
+            "opponent2": "{{TeamOpponent|apple juice|scoreL=}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M1="
+        },
+        {
+            "date": "February 18, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|dragon's homies|score=W}}",
+            "opponent2": "{{TeamOpponent|merlin's minions|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M2="
+        },
+        {
+            "date": "February 18, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|IMPERIAL ABS0LUT|score=W}}",
+            "opponent2": "{{TeamOpponent|FC ZeRock|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M3="
+        },
+        {
+            "date": "February 18, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|ft - imperial breath|score=L}}",
+            "opponent2": "{{TeamOpponent|ezw|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R1M4="
+        },
+        {
+            "date": "February 18, 2023 - 16:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|le cyclone fran\u00e7ais|score=L}}",
+            "opponent2": "{{TeamOpponent|2boo|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M5="
+        },
+        {
+            "date": "February 18, 2023 - 16:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|team biscotte|score=W}}",
+            "opponent2": "{{TeamOpponent|dragon's homies|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M6="
+        },
+        {
+            "date": "February 18, 2023 - 16:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|on carry morty|score=W}}",
+            "opponent2": "{{TeamOpponent|IMPERIAL ABS0LUT|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M7="
+        },
+        {
+            "date": "February 18, 2023 - 16:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|proxima|score=L}}",
+            "opponent2": "{{TeamOpponent|ezw|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R2M8="
+        },
+        {
+            "date": "February 18, 2023 - 17:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|2boo|score=W}}",
+            "opponent2": "{{TeamOpponent|team biscotte|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M1="
+        },
+        {
+            "date": "February 18, 2023 - 17:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|on carry morty|score=W}}",
+            "opponent2": "{{TeamOpponent|ezw|score=L}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R3M2="
+        },
+        {
+            "date": "February 19, 2023 - 14:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|la coupe du monde ouais|score=L}}",
+            "opponent2": "{{TeamOpponent|2boo|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M3="
+        },
+        {
+            "date": "February 19, 2023 - 14:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|dragon's yokai}}",
+            "opponent2": "{{TeamOpponent|on carry morty}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}",
+            "map2": "{{Map|map=Route 66|mode=Escort|score1=0|score2=1|winner=2}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R4M4="
+        },
+        {
+            "date": "February 19, 2023 - 15:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|2boo|score=L}}",
+            "opponent2": "{{TeamOpponent|on carry morty|score=W}}",
+            "map1": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map2": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "map3": "{{Map|map=|mode=|score1=|score2=|winner=}}",
+            "optional": "R5M1="
+        },
+        {
+            "date": "February 19, 2023 - 16:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|france opinel (trials team)}}",
+            "opponent2": "{{TeamOpponent|on carry morty}}",
+            "map1": "{{Map|map=Antarctic Peninsula|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Shambali Monastery|mode=Escort|score1=4|score2=3|winner=1}}",
+            "optional": "R6M2="
+        },
+        {
+            "bestof": "5",
+            "date": "February 19, 2023 - 17:00 {{Abbr/CET}}",
+            "youtube": "|twitch=",
+            "opponent1": "{{TeamOpponent|les gars si|score=}}",
+            "opponent2": "{{TeamOpponent|france opinel (trials team)|score=}}",
+            "map1": "{{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}",
+            "map2": "{{Map|map=Circuit Royal|mode=Escort|score1=3|score2=0|winner=1}}",
+            "map3": "{{Map|map=New Queen Street|mode=Push|score1=113.93m|score2=65.38m|winner=1}}",
+            "optional": "R7M1="
+        }
+    ]
+}

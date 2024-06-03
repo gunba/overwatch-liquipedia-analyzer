@@ -1,0 +1,85 @@
+{{DISPLAYTITLE:HyperX Esports Arena Overwatch 2 #3}}
+{{HyperX Esports Arena navbox}}
+{{Infobox league
+|liquipediatier=4|liquipediatiertype=Monthly
+|name=HyperX Esports Arena Overwatch 2 #3
+|shortname=Overwatch 2 3
+|tickername=HyperX Esports Arena Overwatch 2 #3
+|icon=HyperX Esports Arena lightmode.png
+|image=HyperX Esports Arena lightmode.png
+|imagedark=HyperX Esports Arena darkmode.png
+|organizer=Allied Esports
+|organizer-link=https://www.alliedesports.gg/
+|organizer2=Rebel Gaming
+|organizer2-link=https://twitter.com/unlvrebelgaming
+|series=HyperX Esports Arena
+|abbreviation=HyperX
+|sponsor=
+|type=Offline
+|country=United States
+|city=Las Vegas
+|venue=[https://www.hyperxesportsarenalasvegas.com/ HyperX Esports Arena Las Vegas]
+|game=overwatch2
+|prizepoolusd=300
+|date=2022-12-15
+|twitter=
+|web=https://www.alliedesports.gg/
+|twitch=
+|twitch2=
+|discord=
+|youtube=
+|rulebook=https://www.start.gg/tournament/hyperx-arena-overwatch-2-3-1/event/overwatch-2/overview/rules
+|bracket=https://www.start.gg/tournament/hyperx-arena-overwatch-2-3-1/details
+|team_number=2
+|previous=HyperX Esports Arena/College Night: Recall/2{{!}}College Night: Recall #2
+|next=HyperX Esports Arena/Overwatch 2/4{{!}}OW2 #4
+}}
+
+==Information==
+===Format===
+*All matches are {{Abbr/Bo3}}
+
+==Prize Pool==
+{{TeamPrizePool|import=true
+|{{Slot|usdprize=200}}
+|{{Slot|usdprize=100}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=Team Hutch
+|image=
+|p1=syde|p1flag=us|pos1=dps
+|p2=Sky5niper|p2flag=us|pos2=dps
+|p3=TGISai|p3flag=us|pos3=tank
+|p4=Hutch|p4flag=us|pos4=sup
+|p5=DTG|p5flag=us|pos5=sup
+}}
+{{TeamCard
+|team=Team Hyun-Yi
+|image=
+|p1=Toe|p1flag=|pos1=dps
+|p2=Sung|p2flag=|pos2=dps
+|p3=SHANKS|p3flag=us|pos3=tank
+|p4=HyunYi|p4flag=us|pos4=sup
+|p5=Schmitty|p5flag=|pos5=sup
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2|id=ZyWhVytoKq
+
+<!-- Upper Bracket Quarterfinals -->
+|R1M1={{Match
+    |bestof=5
+    |date=December 15, 2022 - 18:15 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|team hutch|score=3}}
+    |opponent2={{TeamOpponent|team hyun-yi|score=0}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+}}
+}}

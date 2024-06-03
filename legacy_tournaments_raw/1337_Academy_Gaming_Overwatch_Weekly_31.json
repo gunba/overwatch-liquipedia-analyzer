@@ -1,0 +1,172 @@
+{
+    "tournament_info": [
+        {
+            "name": "Academy Gaming Overwatch Weekly #31",
+            "shortname": "31",
+            "image": "AGFull.png",
+            "series": "Academy Gaming",
+            "organizer": "Academy Gaming",
+            "organizer-link": "http://www.battlefy.com/academy-gaming/",
+            "sponsor": "[http://www.matcherino.com/ Matcherino], [http://haste.net/ Haste]",
+            "type": "Online",
+            "country": "USA",
+            "format": "Single Elimination {{Abbr/Bo3}}",
+            "date": "2016-12-26",
+            "prizepoolusd": "7",
+            "web": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-31/5858970eab63243a03f03a87/info?infoTab=details",
+            "twitch": "gamewithstorm",
+            "bracket": "https://battlefy.com/academy-gaming/na-ag-overwatch-weekly-31/5858970eab63243a03f03a87/stage/5858970eab63243a03f03a88/bracket/",
+            "liquipediatier": "5|liquipediatiertype=Weekly",
+            "team_number": "8"
+        }
+    ],
+    "team_cards": [
+        {
+            "team": "Momentary",
+            "image": "",
+            "p1": "Jake|p1flag=us",
+            "p2": "Danteh|p2flag=us",
+            "p3": "Smevz|p3flag=us",
+            "p4": "Icylight|p4flag=",
+            "p5": "Bloxi|p5flag=",
+            "p6": "PlasmaSnake|p6flag=us"
+        },
+        {
+            "team": "Nameless",
+            "image": "",
+            "p1": "LordTachyon|p1flag=us",
+            "p2": "Gbunny|p2flag=us",
+            "p3": "Duckeyy|p3flag=ca",
+            "p4": "Obasill|p4flag=us",
+            "p5": "Scratch|p5flag=ca",
+            "p6": "waterboardin|p6flag=us"
+        },
+        {
+            "team": "Digital Sportsmen Coalition",
+            "image": "",
+            "p1": "koreabuu|p1flag=",
+            "p2": "ShooK|p2flag=",
+            "p3": "EvilToaster|p3flag=",
+            "p4": "justin|p4flag=",
+            "p5": "DusK|p5flag=",
+            "p6": "hypno|p6flag="
+        },
+        {
+            "team": "White Panthers",
+            "image": "",
+            "p1": "Evan|p1flag=cl",
+            "p2": "Total|p2flag=cl",
+            "p3": "lowlife|p3flag=cl",
+            "p4": "ra\u00fal|p4flag=cl",
+            "p5": "YapaTeh|p5flag=cl",
+            "p6": "Templarete|p6flag=cl",
+            "p7": "Sirpetternow|p7flag=cl"
+        },
+        {
+            "team": "Harambe Fans Club",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Predators Esports",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Emergency Meme Skills",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        },
+        {
+            "team": "Straton",
+            "image": "",
+            "p1": "|p1flag=",
+            "p2": "|p2flag=",
+            "p3": "|p3flag=",
+            "p4": "|p4flag=",
+            "p5": "|p5flag=",
+            "p6": "|p6flag="
+        }
+    ],
+    "legacy_match_cards": [
+        {
+            "team2": "straton",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D1",
+            "team1": "momentary",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "digital sportsmen coalition",
+            "score2": "2",
+            "win2": "1",
+            "key": "R1D3",
+            "team1": "emergency meme skills",
+            "score1": "0",
+            "win1": ""
+        },
+        {
+            "team2": "predators esports",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D5",
+            "team1": "nameless",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "harambe fans club",
+            "score2": "0",
+            "win2": "",
+            "key": "R1D7",
+            "team1": "white panthers",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "digital sportsmen coalition",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W1",
+            "team1": "momentary",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "white panthers",
+            "score2": "0",
+            "win2": "",
+            "key": "R2W3",
+            "team1": "nameless",
+            "score1": "2",
+            "win1": "1"
+        },
+        {
+            "team2": "nameless",
+            "score2": "0",
+            "win2": "",
+            "key": "R3W1",
+            "team1": "momentary",
+            "score1": "2",
+            "win1": "1"
+        }
+    ],
+    "match_maps": []
+}

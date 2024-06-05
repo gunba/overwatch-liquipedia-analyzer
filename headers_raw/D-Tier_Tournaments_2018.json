@@ -1,101 +1,392 @@
 {
-    "links": [
-        "/overwatch/Oserv_OW_Tour/3",
-        "/overwatch/CIS_winter_community_cup",
-        "/overwatch/ZOTAC_Cup/12",
-        "/overwatch/ZOTAC_Cup/11",
-        "/overwatch/ZOTAC_Cup/10",
-        "/overwatch/Oserv_OW_Tour/2",
-        "/overwatch/ZOTAC_Cup/9",
-        "/overwatch/ZOTAC_Cup/8",
-        "/overwatch/ZOTAC_Cup/7",
-        "/overwatch/Andur%C3%A1_Tournament/Inaugural_Season",
-        "/overwatch/Academy_Gaming_Overwatch_Weekly/129",
-        "/overwatch/Academy_Gaming_Overwatch_Weekly/128",
-        "/overwatch/ZOTAC_Cup/6",
-        "/overwatch/Warming_Cup/Season_3/Playoffs",
-        "/overwatch/Overwatch_BBU_League/Preseason",
-        "/overwatch/ZOTAC_Cup/5",
-        "/overwatch/ZOTAC_Cup/4",
-        "/overwatch/Warming_Cup/Season_3/2",
-        "/overwatch/Oserv_OW_Tour/1",
-        "/overwatch/EGE_Cup/1",
-        "/overwatch/ZOTAC_Cup/3",
-        "/overwatch/RAID.gg/Skirmish/3",
-        "/overwatch/ZOTAC_Cup/2",
-        "/overwatch/Warming_Cup/Season_3/1",
-        "/overwatch/Rise_Up_Invitational",
-        "/overwatch/Russian_Overwatch_Cup/Season_1/Semi-Pro",
-        "/overwatch/RAID.gg/Skirmish/2",
-        "/overwatch/Wildfire:_OverRush_PH_6v6_Off-Role_Community_Tournament",
-        "/overwatch/Russian_Overwatch_Cup/Season_1/Pro",
-        "/overwatch/Russian_Overwatch_Cup/Season_1/Non-Pro",
-        "/overwatch/Go4Overwatch/Europe/Weekly/116",
-        "/overwatch/OW2TU_Overwatch_Ladies_Competition/Season_3",
-        "/overwatch/RAID.gg/Skirmish/1",
-        "/overwatch/Go4Overwatch/Europe/Weekly/114",
-        "/overwatch/Go4Overwatch/Europe/Weekly/113",
-        "/overwatch/Go4Overwatch/Europe/Weekly/112",
-        "/overwatch/DaksPedida:_An_OverRush_PH_Community_Tournament",
-        "/overwatch/Heroes_of_Ananas/11",
-        "/overwatch/CKJ_OW_Community/2",
-        "/overwatch/Go4Overwatch/Europe/Weekly/111",
-        "/overwatch/Go4Overwatch/Europe/Weekly/110",
-        "/overwatch/Warming_Cup/Season_2/Playoffs",
-        "/overwatch/Go4Overwatch/Europe/Weekly/109",
-        "/overwatch/Warming_Cup/Season_2/4",
-        "/overwatch/Go4Overwatch/Europe/Weekly/108",
-        "/overwatch/Warming_Cup/Season_2/3",
-        "/overwatch/Go4Overwatch/Europe/Weekly/107",
-        "/overwatch/HammerDown_Cup/3",
-        "/overwatch/Heroes_of_Ananas/10",
-        "/overwatch/Warming_Cup/Season_2/2",
-        "/overwatch/Go4Overwatch/Europe/Weekly/106",
-        "/overwatch/Respawn_Community_Cup/2",
-        "/overwatch/Warming_Cup/Season_2/1",
-        "/overwatch/Go4Overwatch/Europe/Weekly/105",
-        "/overwatch/Go4Overwatch/Europe/Weekly/104",
-        "/overwatch/CKJ_OW_Community/1",
-        "/overwatch/Go4Overwatch/Europe/Weekly/103",
-        "/overwatch/Heroes_of_Ananas/9",
-        "/overwatch/Warming_Cup/Season_1/4",
-        "/overwatch/Go4Overwatch/Europe/Weekly/102",
-        "/overwatch/Warming_Cup/Season_1/3",
-        "/overwatch/Go4Overwatch/Europe/Weekly/101",
-        "/overwatch/Go4Overwatch/Europe/Weekly/100",
-        "/overwatch/Warming_Cup/Season_1/2",
-        "/overwatch/Go4Overwatch/Europe/Weekly/99",
-        "/overwatch/Heroes_of_Ananas/8",
-        "/overwatch/Warming_Cup/Season_1/1",
-        "/overwatch/Go4Overwatch/Europe/Weekly/98",
-        "/overwatch/Go4Overwatch/Europe/Weekly/97",
-        "/overwatch/Go4Overwatch/Europe/Weekly/96",
-        "/overwatch/Overwatch_Challenge_Cup/2018/Winter/Offline_Finals",
-        "/overwatch/Go4Overwatch/Europe/Weekly/95",
-        "/overwatch/Go4Overwatch/Europe/Weekly/94",
-        "/overwatch/Button_Festival",
-        "/overwatch/Heroes_of_Ananas/7",
-        "/overwatch/Go4Overwatch/Europe/Weekly/93",
-        "/overwatch/Academy_Gaming_Overwatch_Weekly/102",
-        "/overwatch/ANDROMEDA_Community_Cup",
-        "/overwatch/Go4Overwatch/Europe/Weekly/92",
-        "/overwatch/Russian_Overwatch_Cup/Season_2/Non-Pro",
-        "/overwatch/Go4Overwatch/Europe/Weekly/91",
-        "/overwatch/Challenger_Overwatch_Cup/2018",
-        "/overwatch/Go4Overwatch/Europe/Weekly/90",
-        "/overwatch/Heroes_of_Ananas/6",
-        "/overwatch/Go4Overwatch/Europe/Weekly/89",
-        "/overwatch/Go4Overwatch/Europe/Weekly/88",
-        "/overwatch/OW2TU_Overwatch_Ladies_Competition/Season_2",
-        "/overwatch/Go4Overwatch/Europe/Weekly/87",
-        "/overwatch/Go4Overwatch/Europe/Weekly/86",
-        "/overwatch/Comunidad_SnasONLINE/1",
-        "/overwatch/Respawn_Community_Cup/1",
-        "/overwatch/Go4Overwatch/Europe/Weekly/85",
-        "/overwatch/Heroes_of_Ananas/5",
-        "/overwatch/Academy_Gaming_Overwatch_Weekly/85",
-        "/overwatch/Go4Overwatch/Europe/Weekly/84",
-        "/overwatch/Go4Overwatch/Europe/Weekly/83",
-        "/overwatch/Academy_Gaming_Overwatch_Weekly/84"
+    "tournaments": [
+        {
+            "link": "/overwatch/Oserv_OW_Tour/3",
+            "end_date": "2018-12-23"
+        },
+        {
+            "link": "/overwatch/CIS_winter_community_cup",
+            "end_date": "2018-12-19"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/12",
+            "end_date": "2018-12-15"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/11",
+            "end_date": "2018-12-09"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/10",
+            "end_date": "2018-12-08"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/2",
+            "end_date": "2018-11-25"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/9",
+            "end_date": "2018-11-24"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/8",
+            "end_date": "2018-11-18"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/7",
+            "end_date": "2018-11-17"
+        },
+        {
+            "link": "/overwatch/Andur%C3%A1_Tournament/Inaugural_Season",
+            "end_date": "2018-11-16"
+        },
+        {
+            "link": "/overwatch/Academy_Gaming_Overwatch_Weekly/129",
+            "end_date": "2018-11-12"
+        },
+        {
+            "link": "/overwatch/Academy_Gaming_Overwatch_Weekly/128",
+            "end_date": "2018-11-05"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/6",
+            "end_date": "2018-11-03"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_3/Playoffs",
+            "end_date": "2018-11-01"
+        },
+        {
+            "link": "/overwatch/Overwatch_BBU_League/Preseason",
+            "end_date": "2018-10-28"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/5",
+            "end_date": "2018-10-28"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/4",
+            "end_date": "2018-10-27"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_3/2",
+            "end_date": "2018-10-26"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/1",
+            "end_date": "2018-10-21"
+        },
+        {
+            "link": "/overwatch/EGE_Cup/1",
+            "end_date": "2018-10-21"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/3",
+            "end_date": "2018-10-13"
+        },
+        {
+            "link": "/overwatch/RAID.gg/Skirmish/3",
+            "end_date": "2018-10-08"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2",
+            "end_date": "2018-10-07"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_3/1",
+            "end_date": "2018-10-05"
+        },
+        {
+            "link": "/overwatch/Rise_Up_Invitational",
+            "end_date": "2018-09-17"
+        },
+        {
+            "link": "/overwatch/Russian_Overwatch_Cup/Season_1/Semi-Pro",
+            "end_date": "2018-09-07"
+        },
+        {
+            "link": "/overwatch/RAID.gg/Skirmish/2",
+            "end_date": "2018-09-02"
+        },
+        {
+            "link": "/overwatch/Wildfire:_OverRush_PH_6v6_Off-Role_Community_Tournament",
+            "end_date": "2018-09-02"
+        },
+        {
+            "link": "/overwatch/Russian_Overwatch_Cup/Season_1/Pro",
+            "end_date": "2018-08-29"
+        },
+        {
+            "link": "/overwatch/Russian_Overwatch_Cup/Season_1/Non-Pro",
+            "end_date": "2018-08-28"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/116",
+            "end_date": "2018-08-19"
+        },
+        {
+            "link": "/overwatch/OW2TU_Overwatch_Ladies_Competition/Season_3",
+            "end_date": "2018-08-18"
+        },
+        {
+            "link": "/overwatch/RAID.gg/Skirmish/1",
+            "end_date": "2018-08-05"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/114",
+            "end_date": "2018-08-05"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/113",
+            "end_date": "2018-07-29"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/112",
+            "end_date": "2018-07-22"
+        },
+        {
+            "link": "/overwatch/DaksPedida:_An_OverRush_PH_Community_Tournament",
+            "end_date": "2018-07-22"
+        },
+        {
+            "link": "/overwatch/Heroes_of_Ananas/11",
+            "end_date": "2018-07-21"
+        },
+        {
+            "link": "/overwatch/CKJ_OW_Community/2",
+            "end_date": "2018-07-21"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/111",
+            "end_date": "2018-07-15"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/110",
+            "end_date": "2018-07-08"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_2/Playoffs",
+            "end_date": "2018-07-08"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/109",
+            "end_date": "2018-07-01"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_2/4",
+            "end_date": "2018-06-30"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/108",
+            "end_date": "2018-06-24"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_2/3",
+            "end_date": "2018-06-24"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/107",
+            "end_date": "2018-06-17"
+        },
+        {
+            "link": "/overwatch/HammerDown_Cup/3",
+            "end_date": "2018-06-16"
+        },
+        {
+            "link": "/overwatch/Heroes_of_Ananas/10",
+            "end_date": "2018-06-15"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_2/2",
+            "end_date": "2018-06-15"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/106",
+            "end_date": "2018-06-10"
+        },
+        {
+            "link": "/overwatch/Respawn_Community_Cup/2",
+            "end_date": "2018-06-09"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_2/1",
+            "end_date": "2018-06-08"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/105",
+            "end_date": "2018-06-03"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/104",
+            "end_date": "2018-05-27"
+        },
+        {
+            "link": "/overwatch/CKJ_OW_Community/1",
+            "end_date": "2018-05-27"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/103",
+            "end_date": "2018-05-20"
+        },
+        {
+            "link": "/overwatch/Heroes_of_Ananas/9",
+            "end_date": "2018-05-18"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_1/4",
+            "end_date": "2018-05-18"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/102",
+            "end_date": "2018-05-13"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_1/3",
+            "end_date": "2018-05-11"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/101",
+            "end_date": "2018-05-06"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/100",
+            "end_date": "2018-04-29"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_1/2",
+            "end_date": "2018-04-27"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/99",
+            "end_date": "2018-04-22"
+        },
+        {
+            "link": "/overwatch/Heroes_of_Ananas/8",
+            "end_date": "2018-04-20"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_1/1",
+            "end_date": "2018-04-20"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/98",
+            "end_date": "2018-04-15"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/97",
+            "end_date": "2018-04-08"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/96",
+            "end_date": "2018-04-01"
+        },
+        {
+            "link": "/overwatch/Overwatch_Challenge_Cup/2018/Winter/Offline_Finals",
+            "end_date": "2018-04-01"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/95",
+            "end_date": "2018-03-25"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/94",
+            "end_date": "2018-03-18"
+        },
+        {
+            "link": "/overwatch/Button_Festival",
+            "end_date": "2018-03-17"
+        },
+        {
+            "link": "/overwatch/Heroes_of_Ananas/7",
+            "end_date": "2018-03-16"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/93",
+            "end_date": "2018-03-11"
+        },
+        {
+            "link": "/overwatch/Academy_Gaming_Overwatch_Weekly/102",
+            "end_date": "2018-03-07"
+        },
+        {
+            "link": "/overwatch/ANDROMEDA_Community_Cup",
+            "end_date": "2018-03-04"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/92",
+            "end_date": "2018-03-04"
+        },
+        {
+            "link": "/overwatch/Russian_Overwatch_Cup/Season_2/Non-Pro",
+            "end_date": "2018-02-28"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/91",
+            "end_date": "2018-02-25"
+        },
+        {
+            "link": "/overwatch/Challenger_Overwatch_Cup/2018",
+            "end_date": "2018-02-18"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/90",
+            "end_date": "2018-02-18"
+        },
+        {
+            "link": "/overwatch/Heroes_of_Ananas/6",
+            "end_date": "2018-02-16"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/89",
+            "end_date": "2018-02-11"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/88",
+            "end_date": "2018-02-04"
+        },
+        {
+            "link": "/overwatch/OW2TU_Overwatch_Ladies_Competition/Season_2",
+            "end_date": "2018-02-04"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/87",
+            "end_date": "2018-01-28"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/86",
+            "end_date": "2018-01-21"
+        },
+        {
+            "link": "/overwatch/Comunidad_SnasONLINE/1",
+            "end_date": "2018-01-20"
+        },
+        {
+            "link": "/overwatch/Respawn_Community_Cup/1",
+            "end_date": "2018-01-20"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/85",
+            "end_date": "2018-01-14"
+        },
+        {
+            "link": "/overwatch/Heroes_of_Ananas/5",
+            "end_date": "2018-01-12"
+        },
+        {
+            "link": "/overwatch/Academy_Gaming_Overwatch_Weekly/85",
+            "end_date": "2018-01-08"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/84",
+            "end_date": "2018-01-07"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/83",
+            "end_date": "2018-01-02"
+        },
+        {
+            "link": "/overwatch/Academy_Gaming_Overwatch_Weekly/84",
+            "end_date": "2018-01-02"
+        }
     ]
 }

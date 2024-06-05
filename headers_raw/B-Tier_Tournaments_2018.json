@@ -1,66 +1,252 @@
 {
-    "links": [
-        "/overwatch/Overwatch_Arena_Clash/2018/Winter",
-        "/overwatch/Fusion_Showcase/2",
-        "/overwatch/GameCon_Challenge/2018",
-        "/overwatch/Overwatch_Contenders/2018/Season_3/Korea/Trials",
-        "/overwatch/Argentina_Game_Show/2018",
-        "/overwatch/Overwatch_Contenders/2018/Season_3/Europe/Trials",
-        "/overwatch/Overwatch_Contenders/2018/Season_3/Australia/Trials",
-        "/overwatch/BEAT_Invitational/Season_5",
-        "/overwatch/Overwatch_Thailand_Amateur_Community/Exhibition_Match",
-        "/overwatch/Overwatch_Contenders/2018/Season_3/North_America/Trials",
-        "/overwatch/Grail_Quest/2018",
-        "/overwatch/California_Cup/2018/Santa_Ana/Collegiate_Clash",
-        "/overwatch/Overwatch_Contenders/2018/Season_3/South_America/Trials",
-        "/overwatch/Overwatch_Contenders/2018/Season_3/China/Trials",
-        "/overwatch/SwitzerLAN/2018",
-        "/overwatch/Overwatch_Contenders/2018/Season_3/Pacific/Trials",
-        "/overwatch/DreamHack/2018/Montreal",
-        "/overwatch/GameXP/LAN/2018",
-        "/overwatch/Harvey_Norman_Gamers_Cup/2018",
-        "/overwatch/LanStory_Cup/2018/Guangzhou",
-        "/overwatch/Overwatch_Arena_Clash/2018/Summer",
-        "/overwatch/Overwatch_10K_Community_Tournament",
-        "/overwatch/Assembly/2018/Summer",
-        "/overwatch/Overwatch_Campeonato_de_Portugal",
-        "/overwatch/Overwatch_Contenders/2018/Season_2/Korea/Trials",
-        "/overwatch/Fusion_Showcase/TooManyGames/2018",
-        "/overwatch/ESWC/Overwatch_OMEN_by_HP_Trophy",
-        "/overwatch/Overwatch_Contenders/2018/Season_2/Europe/Trials",
-        "/overwatch/Overwatch_Contenders/2018/Season_2/Australia/Trials",
-        "/overwatch/Overwatch_Contenders/2018/Season_2/North_America/Trials",
-        "/overwatch/Overwatch_Contenders/2018/Season_2/South_America/Trials",
-        "/overwatch/Overwatch_Contenders/2018/Season_2/China/Trials",
-        "/overwatch/Overwatch_PIT_Championship/North_America/Season_3",
-        "/overwatch/LanStory_Cup/2018/Chengdu",
-        "/overwatch/Overwatch_PIT_Championship/Europe/Season_3",
-        "/overwatch/DreamHack/Austin/Texas_Takedown",
-        "/overwatch/BEAT_Invitational/Season_4",
-        "/overwatch/Overwatch_Contenders/2018/Season_2/Pacific/Trials",
-        "/overwatch/Nordsken_Community_Overwatch_Championship/2018",
-        "/overwatch/Arctic_Regionals/2018",
-        "/overwatch/Swiss_Esports_League/2018/Winter/Premier_Division",
-        "/overwatch/WatchCup/Season_2",
-        "/overwatch/Pixel_Challenge_Overwatch_2018",
-        "/overwatch/Overwatch_Arena_Clash/2018/Spring",
-        "/overwatch/Gamers_Assembly/2018",
-        "/overwatch/Insomnia/62",
-        "/overwatch/LANime_Matsuri:_Overwatch",
-        "/overwatch/Electronic_Sports_Festival/2018",
-        "/overwatch/Orl%C3%A9ans_Game_Show",
-        "/overwatch/Overwatch_Contenders/2018/Season_1/Europe/Trials",
-        "/overwatch/Overwatch_Contenders/2018/Season_1/Australia/Trials",
-        "/overwatch/Overwatch_Contenders/2018/Season_1/North_America/Trials",
-        "/overwatch/Lantrek/2018",
-        "/overwatch/Overwatch_Contenders/2018/Season_1/South_America/Trials",
-        "/overwatch/Overwatch_Contenders/2018/Season_1/Korea/Trials",
-        "/overwatch/Overwatch_PIT_Championship/North_America/Season_2",
-        "/overwatch/Overwatch_Contenders/2018/Season_1/Pacific/Trials",
-        "/overwatch/Overwatch_PIT_Championship/Europe/Season_2",
-        "/overwatch/BEAT_Invitational/Season_3",
-        "/overwatch/Assembly/2018/Winter",
-        "/overwatch/Overwatch_Thailand_University_Tournament/2017",
-        "/overwatch/Overwatch_Contenders/2018/Season_1/China/Trials"
+    "tournaments": [
+        {
+            "link": "/overwatch/Overwatch_Arena_Clash/2018/Winter",
+            "end_date": "2018-12-09"
+        },
+        {
+            "link": "/overwatch/Fusion_Showcase/2",
+            "end_date": "2018-11-11"
+        },
+        {
+            "link": "/overwatch/GameCon_Challenge/2018",
+            "end_date": "2018-11-11"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_3/Korea/Trials",
+            "end_date": "2018-11-09"
+        },
+        {
+            "link": "/overwatch/Argentina_Game_Show/2018",
+            "end_date": "2018-10-28"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_3/Europe/Trials",
+            "end_date": "2018-10-28"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_3/Australia/Trials",
+            "end_date": "2018-10-28"
+        },
+        {
+            "link": "/overwatch/BEAT_Invitational/Season_5",
+            "end_date": "2018-10-21"
+        },
+        {
+            "link": "/overwatch/Overwatch_Thailand_Amateur_Community/Exhibition_Match",
+            "end_date": "2018-10-21"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_3/North_America/Trials",
+            "end_date": "2018-10-21"
+        },
+        {
+            "link": "/overwatch/Grail_Quest/2018",
+            "end_date": "2018-10-20"
+        },
+        {
+            "link": "/overwatch/California_Cup/2018/Santa_Ana/Collegiate_Clash",
+            "end_date": "2018-10-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_3/South_America/Trials",
+            "end_date": "2018-10-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_3/China/Trials",
+            "end_date": "2018-10-18"
+        },
+        {
+            "link": "/overwatch/SwitzerLAN/2018",
+            "end_date": "2018-10-13"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_3/Pacific/Trials",
+            "end_date": "2018-10-07"
+        },
+        {
+            "link": "/overwatch/DreamHack/2018/Montreal",
+            "end_date": "2018-09-09"
+        },
+        {
+            "link": "/overwatch/GameXP/LAN/2018",
+            "end_date": "2018-09-06"
+        },
+        {
+            "link": "/overwatch/Harvey_Norman_Gamers_Cup/2018",
+            "end_date": "2018-09-03"
+        },
+        {
+            "link": "/overwatch/LanStory_Cup/2018/Guangzhou",
+            "end_date": "2018-09-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena_Clash/2018/Summer",
+            "end_date": "2018-08-25"
+        },
+        {
+            "link": "/overwatch/Overwatch_10K_Community_Tournament",
+            "end_date": "2018-08-20"
+        },
+        {
+            "link": "/overwatch/Assembly/2018/Summer",
+            "end_date": "2018-08-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_Campeonato_de_Portugal",
+            "end_date": "2018-07-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_2/Korea/Trials",
+            "end_date": "2018-06-25"
+        },
+        {
+            "link": "/overwatch/Fusion_Showcase/TooManyGames/2018",
+            "end_date": "2018-06-24"
+        },
+        {
+            "link": "/overwatch/ESWC/Overwatch_OMEN_by_HP_Trophy",
+            "end_date": "2018-06-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_2/Europe/Trials",
+            "end_date": "2018-06-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_2/Australia/Trials",
+            "end_date": "2018-06-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_2/North_America/Trials",
+            "end_date": "2018-06-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_2/South_America/Trials",
+            "end_date": "2018-06-23"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_2/China/Trials",
+            "end_date": "2018-06-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_PIT_Championship/North_America/Season_3",
+            "end_date": "2018-06-12"
+        },
+        {
+            "link": "/overwatch/LanStory_Cup/2018/Chengdu",
+            "end_date": "2018-06-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_PIT_Championship/Europe/Season_3",
+            "end_date": "2018-06-09"
+        },
+        {
+            "link": "/overwatch/DreamHack/Austin/Texas_Takedown",
+            "end_date": "2018-06-03"
+        },
+        {
+            "link": "/overwatch/BEAT_Invitational/Season_4",
+            "end_date": "2018-05-29"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_2/Pacific/Trials",
+            "end_date": "2018-05-27"
+        },
+        {
+            "link": "/overwatch/Nordsken_Community_Overwatch_Championship/2018",
+            "end_date": "2018-05-11"
+        },
+        {
+            "link": "/overwatch/Arctic_Regionals/2018",
+            "end_date": "2018-05-10"
+        },
+        {
+            "link": "/overwatch/Swiss_Esports_League/2018/Winter/Premier_Division",
+            "end_date": "2018-04-21"
+        },
+        {
+            "link": "/overwatch/WatchCup/Season_2",
+            "end_date": "2018-04-08"
+        },
+        {
+            "link": "/overwatch/Pixel_Challenge_Overwatch_2018",
+            "end_date": "2018-04-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena_Clash/2018/Spring",
+            "end_date": "2018-04-03"
+        },
+        {
+            "link": "/overwatch/Gamers_Assembly/2018",
+            "end_date": "2018-04-02"
+        },
+        {
+            "link": "/overwatch/Insomnia/62",
+            "end_date": "2018-04-02"
+        },
+        {
+            "link": "/overwatch/LANime_Matsuri:_Overwatch",
+            "end_date": "2018-04-01"
+        },
+        {
+            "link": "/overwatch/Electronic_Sports_Festival/2018",
+            "end_date": "2018-03-25"
+        },
+        {
+            "link": "/overwatch/Orl%C3%A9ans_Game_Show",
+            "end_date": "2018-03-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_1/Europe/Trials",
+            "end_date": "2018-03-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_1/Australia/Trials",
+            "end_date": "2018-03-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_1/North_America/Trials",
+            "end_date": "2018-03-04"
+        },
+        {
+            "link": "/overwatch/Lantrek/2018",
+            "end_date": "2018-03-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_1/South_America/Trials",
+            "end_date": "2018-03-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_1/Korea/Trials",
+            "end_date": "2018-02-28"
+        },
+        {
+            "link": "/overwatch/Overwatch_PIT_Championship/North_America/Season_2",
+            "end_date": "2018-02-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_1/Pacific/Trials",
+            "end_date": "2018-02-23"
+        },
+        {
+            "link": "/overwatch/Overwatch_PIT_Championship/Europe/Season_2",
+            "end_date": "2018-02-07"
+        },
+        {
+            "link": "/overwatch/BEAT_Invitational/Season_3",
+            "end_date": "2018-02-06"
+        },
+        {
+            "link": "/overwatch/Assembly/2018/Winter",
+            "end_date": "2018-02-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_Thailand_University_Tournament/2017",
+            "end_date": "2018-01-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2018/Season_1/China/Trials",
+            "end_date": "2018-01-05"
+        }
     ]
 }

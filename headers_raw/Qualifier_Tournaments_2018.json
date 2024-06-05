@@ -1,33 +1,120 @@
 {
-    "links": [
-        "/overwatch/NetEase_Esports_X_Tournament/2018/Winter/Qualifier",
-        "/overwatch/LanStory_Cup/2018/Hangzhou/Online_Qualifier",
-        "/overwatch/Jayne%27s_Tournament_of_Future_Champions/2/Qualifier",
-        "/overwatch/Oserv_OW_Tour/2/Qualifier/3",
-        "/overwatch/Oserv_OW_Tour/2/Qualifier/2",
-        "/overwatch/Oserv_OW_Tour/2/Qualifier/1",
-        "/overwatch/Oserv_OW_Tour/1/Qualifier/3",
-        "/overwatch/Oserv_OW_Tour/1/Qualifier/2",
-        "/overwatch/Oserv_OW_Tour/1/Qualifier/1",
-        "/overwatch/Overwatch_World_Cup/2018/Paris_Qualifier",
-        "/overwatch/NetEase_Esports_X_Tournament/2018/Summer/Qualifier",
-        "/overwatch/Overwatch_World_Cup/2018/Bangkok_Qualifier",
-        "/overwatch/Overwatch_World_Cup/2018/Los_Angeles_Qualifier",
-        "/overwatch/Argentina_Game_Show/2018/Qualifier_4",
-        "/overwatch/Argentina_Game_Show/2018/Qualifier_3",
-        "/overwatch/Overwatch_World_Cup/2018/Incheon_Qualifier",
-        "/overwatch/Overwatch_Saudi_Regional_Tournament/Qualifier",
-        "/overwatch/LanStory_Cup/2018/Guangzhou/Online_Qualifier",
-        "/overwatch/Argentina_Game_Show/2018/Qualifier_2",
-        "/overwatch/Argentina_Game_Show/2018/Qualifier_1",
-        "/overwatch/Assembly/2018/Summer/Qualifier_2",
-        "/overwatch/Assembly/2018/Summer/Qualifier_1",
-        "/overwatch/ESWC/Overwatch_OMEN_by_HP_Trophy/Qualifier_4",
-        "/overwatch/ESWC/Overwatch_OMEN_by_HP_Trophy/Qualifier_3",
-        "/overwatch/ESWC/Overwatch_OMEN_by_HP_Trophy/Qualifier_2",
-        "/overwatch/ESWC/Overwatch_OMEN_by_HP_Trophy/Qualifier_1",
-        "/overwatch/LanStory_Cup/2018/Chengdu/Online_Qualifier",
-        "/overwatch/Assembly/2018/Winter/Qualifier_2",
-        "/overwatch/Assembly/2018/Winter/Qualifier_1"
+    "tournaments": [
+        {
+            "link": "/overwatch/NetEase_Esports_X_Tournament/2018/Winter/Qualifier",
+            "end_date": "2018-12-26"
+        },
+        {
+            "link": "/overwatch/LanStory_Cup/2018/Hangzhou/Online_Qualifier",
+            "end_date": "2018-11-27"
+        },
+        {
+            "link": "/overwatch/Jayne%27s_Tournament_of_Future_Champions/2/Qualifier",
+            "end_date": "2018-11-26"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/2/Qualifier/3",
+            "end_date": "2018-11-22"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/2/Qualifier/2",
+            "end_date": "2018-11-15"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/2/Qualifier/1",
+            "end_date": "2018-11-08"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/1/Qualifier/3",
+            "end_date": "2018-10-18"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/1/Qualifier/2",
+            "end_date": "2018-10-11"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/1/Qualifier/1",
+            "end_date": "2018-10-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2018/Paris_Qualifier",
+            "end_date": "2018-09-23"
+        },
+        {
+            "link": "/overwatch/NetEase_Esports_X_Tournament/2018/Summer/Qualifier",
+            "end_date": "2018-09-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2018/Bangkok_Qualifier",
+            "end_date": "2018-09-16"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2018/Los_Angeles_Qualifier",
+            "end_date": "2018-09-09"
+        },
+        {
+            "link": "/overwatch/Argentina_Game_Show/2018/Qualifier_4",
+            "end_date": "2018-08-28"
+        },
+        {
+            "link": "/overwatch/Argentina_Game_Show/2018/Qualifier_3",
+            "end_date": "2018-08-21"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2018/Incheon_Qualifier",
+            "end_date": "2018-08-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_Saudi_Regional_Tournament/Qualifier",
+            "end_date": "2018-08-17"
+        },
+        {
+            "link": "/overwatch/LanStory_Cup/2018/Guangzhou/Online_Qualifier",
+            "end_date": "2018-08-16"
+        },
+        {
+            "link": "/overwatch/Argentina_Game_Show/2018/Qualifier_2",
+            "end_date": "2018-08-14"
+        },
+        {
+            "link": "/overwatch/Argentina_Game_Show/2018/Qualifier_1",
+            "end_date": "2018-08-07"
+        },
+        {
+            "link": "/overwatch/Assembly/2018/Summer/Qualifier_2",
+            "end_date": "2018-07-05"
+        },
+        {
+            "link": "/overwatch/Assembly/2018/Summer/Qualifier_1",
+            "end_date": "2018-07-04"
+        },
+        {
+            "link": "/overwatch/ESWC/Overwatch_OMEN_by_HP_Trophy/Qualifier_4",
+            "end_date": "2018-06-17"
+        },
+        {
+            "link": "/overwatch/ESWC/Overwatch_OMEN_by_HP_Trophy/Qualifier_3",
+            "end_date": "2018-06-10"
+        },
+        {
+            "link": "/overwatch/ESWC/Overwatch_OMEN_by_HP_Trophy/Qualifier_2",
+            "end_date": "2018-06-07"
+        },
+        {
+            "link": "/overwatch/ESWC/Overwatch_OMEN_by_HP_Trophy/Qualifier_1",
+            "end_date": "2018-06-03"
+        },
+        {
+            "link": "/overwatch/LanStory_Cup/2018/Chengdu/Online_Qualifier",
+            "end_date": "2018-05-31"
+        },
+        {
+            "link": "/overwatch/Assembly/2018/Winter/Qualifier_2",
+            "end_date": "2018-01-14"
+        },
+        {
+            "link": "/overwatch/Assembly/2018/Winter/Qualifier_1",
+            "end_date": "2018-01-13"
+        }
     ]
 }

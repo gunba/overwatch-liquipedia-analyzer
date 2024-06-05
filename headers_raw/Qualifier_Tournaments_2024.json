@@ -1,48 +1,180 @@
 {
-    "links": [
-        "/overwatch/FACEIT_League/Season_1/NA/Relegation",
-        "/overwatch/FACEIT_League/Season_1/EMEA/Relegation",
-        "/overwatch/Saudi_Womens_eLeague/2024/Major_2",
-        "/overwatch/AOEsports/Ascent/Season_6",
-        "/overwatch/Dragons_Esport/Dragons_Rising_Series/Play-Ins",
-        "/overwatch/Dragons_Esport/Dragons_Rising_Series/Stage_2",
-        "/overwatch/Calling_All_Heroes/2024-25/Rising_Series/Major_1",
-        "/overwatch/Trials_of_the_Void",
-        "/overwatch/Dragons_Esport/Dragons_Rising_Series/Stage_1",
-        "/overwatch/Overwatch_Collegiate_Championship/2024/Group_Stage",
-        "/overwatch/Saudi_Womens_eLeague/2024/Major_1",
-        "/overwatch/Overwatch_Collegiate_Championship/2024/Swiss",
-        "/overwatch/FACEIT_League/Season_1/NA/Master/Qualifier_3",
-        "/overwatch/FACEIT_League/Season_1/EMEA/Master/Qualifier_3",
-        "/overwatch/FACEIT_League/Season_1/SA/Master/Qualifier_2",
-        "/overwatch/FACEIT_League/Season_1/OCE/Master/Qualifier_2",
-        "/overwatch/Big_Esports_Conference/2024",
-        "/overwatch/FACEIT_League/Season_1/NA/Master/Qualifier_2",
-        "/overwatch/FACEIT_League/Season_1/EMEA/Master/Qualifier_2",
-        "/overwatch/Overwatch_Champions_Series/2024/Asia/Stage_1/Wild_Card",
-        "/overwatch/CECC/2024/Texas_Qualifier",
-        "/overwatch/FACEIT_League/Season_1/SA/Master/Qualifier_1",
-        "/overwatch/FACEIT_League/Season_1/OCE/Master/Qualifier_1",
-        "/overwatch/Overwatch_All_For_One/2024/Play-Ins",
-        "/overwatch/FACEIT_League/Season_1/NA/Master/Qualifier_1",
-        "/overwatch/FACEIT_League/Season_1/EMEA/Master/Qualifier_1",
-        "/overwatch/CECC/2024/Last_Chance_Qualifier",
-        "/overwatch/Saudi_Womens_eLeague/2024/Major_1/Open_Qualifier",
-        "/overwatch/Overwatch_All_For_One/2024/French_Championship/Stage_2",
-        "/overwatch/CECC/2024/West",
-        "/overwatch/CECC/2024/South",
-        "/overwatch/CECC/2024/Service_Academy_Qualifier",
-        "/overwatch/Nittany_Invitational/2024/Qualifier",
-        "/overwatch/Queen_City_Clash/Qualifier",
-        "/overwatch/Jay3%27s_Community_Clash/Qualifier",
-        "/overwatch/Overwatch_All_For_One/2024/French_Championship/Stage_1",
-        "/overwatch/CECC/2024/West/Qualifier",
-        "/overwatch/CECC/2024/South/Qualifier",
-        "/overwatch/North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Regional",
-        "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Last_Chance_Qualifier",
-        "/overwatch/Riviera_Showdown/Qualifier_2",
-        "/overwatch/Riviera_Showdown/Qualifier_1",
-        "/overwatch/Super_Girl_Gamer_Pro/Qualifier_2",
-        "/overwatch/Super_Girl_Gamer_Pro/Qualifier_1"
+    "tournaments": [
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/NA/Relegation",
+            "end_date": "2024-07-07"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/EMEA/Relegation",
+            "end_date": "2024-07-07"
+        },
+        {
+            "link": "/overwatch/Saudi_Womens_eLeague/2024/Major_2",
+            "end_date": "2024-07-02"
+        },
+        {
+            "link": "/overwatch/AOEsports/Ascent/Season_6",
+            "end_date": "2024-06-30"
+        },
+        {
+            "link": "/overwatch/Dragons_Esport/Dragons_Rising_Series/Play-Ins",
+            "end_date": "2024-06-29"
+        },
+        {
+            "link": "/overwatch/Dragons_Esport/Dragons_Rising_Series/Stage_2",
+            "end_date": "2024-06-16"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2024-25/Rising_Series/Major_1",
+            "end_date": "2024-06-09"
+        },
+        {
+            "link": "/overwatch/Trials_of_the_Void",
+            "end_date": "2024-06-07"
+        },
+        {
+            "link": "/overwatch/Dragons_Esport/Dragons_Rising_Series/Stage_1",
+            "end_date": "2024-05-12"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Championship/2024/Group_Stage",
+            "end_date": "2024-05-06"
+        },
+        {
+            "link": "/overwatch/Saudi_Womens_eLeague/2024/Major_1",
+            "end_date": "2024-04-30"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Championship/2024/Swiss",
+            "end_date": "2024-04-20"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/NA/Master/Qualifier_3",
+            "end_date": "2024-04-19"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/EMEA/Master/Qualifier_3",
+            "end_date": "2024-04-19"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/SA/Master/Qualifier_2",
+            "end_date": "2024-04-14"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/OCE/Master/Qualifier_2",
+            "end_date": "2024-04-14"
+        },
+        {
+            "link": "/overwatch/Big_Esports_Conference/2024",
+            "end_date": "2024-04-13"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/NA/Master/Qualifier_2",
+            "end_date": "2024-04-11"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/EMEA/Master/Qualifier_2",
+            "end_date": "2024-04-11"
+        },
+        {
+            "link": "/overwatch/Overwatch_Champions_Series/2024/Asia/Stage_1/Wild_Card",
+            "end_date": "2024-04-08"
+        },
+        {
+            "link": "/overwatch/CECC/2024/Texas_Qualifier",
+            "end_date": "2024-04-07"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/SA/Master/Qualifier_1",
+            "end_date": "2024-04-07"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/OCE/Master/Qualifier_1",
+            "end_date": "2024-04-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_All_For_One/2024/Play-Ins",
+            "end_date": "2024-04-04"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/NA/Master/Qualifier_1",
+            "end_date": "2024-03-31"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/EMEA/Master/Qualifier_1",
+            "end_date": "2024-03-31"
+        },
+        {
+            "link": "/overwatch/CECC/2024/Last_Chance_Qualifier",
+            "end_date": "2024-03-29"
+        },
+        {
+            "link": "/overwatch/Saudi_Womens_eLeague/2024/Major_1/Open_Qualifier",
+            "end_date": "2024-03-29"
+        },
+        {
+            "link": "/overwatch/Overwatch_All_For_One/2024/French_Championship/Stage_2",
+            "end_date": "2024-03-22"
+        },
+        {
+            "link": "/overwatch/CECC/2024/West",
+            "end_date": "2024-03-03"
+        },
+        {
+            "link": "/overwatch/CECC/2024/South",
+            "end_date": "2024-02-25"
+        },
+        {
+            "link": "/overwatch/CECC/2024/Service_Academy_Qualifier",
+            "end_date": "2024-02-25"
+        },
+        {
+            "link": "/overwatch/Nittany_Invitational/2024/Qualifier",
+            "end_date": "2024-02-25"
+        },
+        {
+            "link": "/overwatch/Queen_City_Clash/Qualifier",
+            "end_date": "2024-02-19"
+        },
+        {
+            "link": "/overwatch/Jay3%27s_Community_Clash/Qualifier",
+            "end_date": "2024-02-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_All_For_One/2024/French_Championship/Stage_1",
+            "end_date": "2024-02-09"
+        },
+        {
+            "link": "/overwatch/CECC/2024/West/Qualifier",
+            "end_date": "2024-02-04"
+        },
+        {
+            "link": "/overwatch/CECC/2024/South/Qualifier",
+            "end_date": "2024-01-28"
+        },
+        {
+            "link": "/overwatch/North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Regional",
+            "end_date": "2024-01-21"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Last_Chance_Qualifier",
+            "end_date": "2024-01-21"
+        },
+        {
+            "link": "/overwatch/Riviera_Showdown/Qualifier_2",
+            "end_date": "2024-01-20"
+        },
+        {
+            "link": "/overwatch/Riviera_Showdown/Qualifier_1",
+            "end_date": "2024-01-13"
+        },
+        {
+            "link": "/overwatch/Super_Girl_Gamer_Pro/Qualifier_2",
+            "end_date": "2024-01-13"
+        },
+        {
+            "link": "/overwatch/Super_Girl_Gamer_Pro/Qualifier_1",
+            "end_date": "2024-01-12"
+        }
     ]
 }

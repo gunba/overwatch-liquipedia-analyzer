@@ -1,0 +1,133 @@
+{{DISPLAYTITLE:Overwatch Champions Series 2024 - North America Major Circuit Points}}
+{{Overwatch Champions Series navbox}}
+{{Tabs static
+|name1=Full Ranking |link1=Overwatch Champions Series/2024/North America/Circuit Points
+|name2=Major Ranking|link2=Overwatch Champions Series/2024/North America/Circuit Points/Major
+}}
+__NOTOC__
+{{box|start|padding=2em}}
+==Standings==
+<onlyinclude>{{RankingsTable
+|ranking-name=OWCS 2024 NA Major Standings
+<!--SETUP-->
+|started=true
+|unique=
+|cutafter={{{cutafter|6}}}
+|autoqual=true
+|historical=true
+|stage1name=Stage 1
+|stage1cutoff=1
+|stage2name=Stage 2
+|stage2cutoff=3
+|current-stage=2
+
+<!--END OF SETUP-->
+|tournament1=Overwatch Champions Series/2024/North America/Stage_1
+|tournament1name=[[Overwatch Champions Series/2024/North America/Stage_1|Stage 1]]
+|tournament1finished=true
+|deductions1=Point Changes
+|tournament2=Overwatch Champions Series/2024/North America/Stage_2
+|tournament2name=[[Overwatch Champions Series/2024/North America/Stage_2|Stage 2]]
+|tournament2finished=
+
+|team1={{RankingsTableRow|LFO|bg=down|deduction1=75
+	|deduction1note={{team|LFO}} does not participate in Stage 2.}}
+|team2={{RankingsTableRow|Beluga's Platoon|bg=down|deduction1=25
+	|deduction1note={{team|Beluga's Platoon}} does not participate in Stage 2.}}
+|team3={{RankingsTableRow|Citrus Nation|bg=down|deduction1=5
+	|deduction1note={{Player|Manually|flag=us|pos=dps}} (-10 points) and {{Player|zman|flag=us|pos=sup}} (-10 points) leave the team. {{Player|Astronexz|flag=ca|pos=tank}} (+10 points) and {{Player|Neutral|flag=us|pos=sup}} (+5 points) join the team.}}
+|team4={{RankingsTableRow|Daybreak (team)|bg=down|deduction1=20
+	|deduction1note={{Player|Abyss|flag=us|pos=sup}} (-10 points) and {{Player|m5ri|flag=us|pos=tank}} (-10 points) leave the team.}}
+|team5={{RankingsTableRow|Dreamland|bg=down|deduction1=50
+	|deduction1note={{team|Dreamland}} does not participate in Stage 2.}}
+|team6={{RankingsTableRow|M80|bg=up
+	|deduction1=45
+	|deduction1note={{Player|Hydron|flag=us|pos=dps}} (-30 points) and {{Player|Lep|flag=us|pos=sup}} (-30 points) leave the team. {{Player|Lyar|flag=us|pos=dps}} (+15 points) joins the team.}}
+|team7={{RankingsTableRow|Luminosity Gaming|bg=down}}
+|team8={{RankingsTableRow|BangBangPow Galaxy|bg=down|deduction1=25
+	|deduction1note={{team|BangBangPow Galaxy}} does not participate in Stage 2.}}
+|team9={{RankingsTableRow|Pirates in Pyjamas|bg=down}}
+|team10={{RankingsTableRow|Shikigami|bg=down}}
+|team11={{RankingsTableRow|Students of the Game|bg=up}}
+|team12={{RankingsTableRow|nah id win|bg=down|deduction1=25
+	|deduction1note={{team|nah id win}} does not participate in Stage 2.}}
+|team13={{RankingsTableRow|Timeless|bg=down}}
+|team14={{RankingsTableRow|Timeless Obsidian|bg=down|deduction1=50
+	|deduction1note={{team|Timeless Obsidian}} does not participate in Stage 2.}}
+|team15={{RankingsTableRow|Toronto Defiant|bg=byeup|q2=true}}
+|team16={{RankingsTableRow|Final Gambit|bg=down}}
+|team17={{RankingsTableRow|Vice (North American team)|bg=down}}
+|team18={{RankingsTableRow|FMCL|bg=down|deduction1=-60
+	|deduction1note={{Player|Lep|flag=us|pos=sup}} (+30 points), {{Player|Seeker|flag=ca|pos=dps}} (+15 points) and {{Player|zeruhh|flag=us|pos=dps}} (+15 points) join the team.}}
+|team19={{RankingsTableRow|DhillDucks|bg=down}}
+|team20={{RankingsTableRow|Visored|bg=down}}
+|team21={{RankingsTableRow|Nightmare Rotation|bg=down}}
+|team22={{RankingsTableRow|UNC INC|bg=down|deduction1=-30
+	|deduction1note={{Player|cowman711|flag=us|pos=tank}} (+10 points), {{Player|Ryan|link=Ryan (Swedish player)|flag=se|pos=dps}} (+10 points), {{Player|Haven|flag=us|pos=dps}} (+5 points) and {{Player|Paintbrush|flag=us|pos=sup}} (+5 points) join the team.}}
+|team23={{RankingsTableRow|Who Is Goldfish|bg=down}}
+	
+|pbg1=byeup
+|pbg2=up
+|pbg3=up
+|pbg4=down
+|pbg5=down
+|pbg6=down
+|pbg7=down
+|pbg8=down
+|pbg9=down
+|pbg10=down
+|pbg11=down
+|pbg12=down
+|pbg13=down
+|pbg14=down
+|pbg15=down
+|pbg16=down
+|pbg17=down
+|pbg18=down
+|pbg19=down
+|pbg20=down
+|pbg21=down
+|pbg22=down
+|pbg23=down
+|pbg24=down
+|pbg25=down
+|pbg26=down
+|pbg27=down
+|pbg28=down
+|pbg29=down
+|pbg30=down
+|pbg31=down
+|pbg32=down
+|pbg33=down
+|pbg34=down
+|pbg35=down
+|pbg36=down
+|pbg37=down
+|pbg38=down
+|pbg39=down
+|pbg40=down
+|pbg41=down
+|pbg42=down
+|pbg43=down
+|pbg44=down
+|pbg45=down
+|pbg46=down
+|pbg47=down
+|pbg48=down
+|pbg49=down
+
+<!-- DO NOT TOUCH THIS SECTION -->
+|header-height=120
+|limit={{{limit|}}}
+|minified={{{minified|}}}
+|custom-header={{{custom-header|}}}
+|width={{{width|}}}
+|extra={{{extra|}}}
+}}
+<!--END OF DO NOT TOUCH -->
+
+</onlyinclude>
+{{box|break|padding=2em}}
+
+{{OWCS_2024_Points|region=na|stage=major}}
+{{box|end}}

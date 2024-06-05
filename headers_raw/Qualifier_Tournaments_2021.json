@@ -1,33 +1,120 @@
 {
-    "links": [
-        "/overwatch/UGC_Collegiate_Fall_Season/Regular_Season",
-        "/overwatch/NACE_Starleague/2021/East",
-        "/overwatch/NACE_Starleague/2021/West",
-        "/overwatch/NACE_Starleague/2021/South",
-        "/overwatch/NACE_Starleague/2021/Midwest/1",
-        "/overwatch/NACE_Starleague/2021/Midwest/2",
-        "/overwatch/NACE_Starleague/2021/Midwest/3",
-        "/overwatch/NACE_Starleague/2021/Northeast/1",
-        "/overwatch/NACE_Starleague/2021/Northeast/2",
-        "/overwatch/NACE_Starleague/2021/Southeast/1",
-        "/overwatch/NACE_Starleague/2021/Southeast/2",
-        "/overwatch/Overwatch_Collegiate_Homecoming/2021/Group_Stage",
-        "/overwatch/CECC/2022/Southeast",
-        "/overwatch/Overwatch_Collegiate_Homecoming/2021/National_Swiss",
-        "/overwatch/CECC/2022/Midwest",
-        "/overwatch/Will_English_IVitational/3/NA/Avidity_Qualifier",
-        "/overwatch/Will_English_IVitational/3/NA/DePaul_Qualifier",
-        "/overwatch/Overwatch_League/Season_4/Play-in",
-        "/overwatch/Uniliga/Summer_2021/2nd_League",
-        "/overwatch/WDG/OVERWATCH_UNLIMITED/Qualifier",
-        "/overwatch/Uniliga/Summer_2021/Wildcard",
-        "/overwatch/Overwatch_Collegiate_Championship/2021/Varsity_Wildcard",
-        "/overwatch/Overwatch_Collegiate_Championship/2021/National_Swiss",
-        "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.4/Group_C",
-        "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.4/Group_D",
-        "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.4/Group_A",
-        "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.4/Group_B",
-        "/overwatch/Uniliga/Winter_2020/Relegation",
-        "/overwatch/Will_English_IVitational/1/Play-Ins"
+    "tournaments": [
+        {
+            "link": "/overwatch/UGC_Collegiate_Fall_Season/Regular_Season",
+            "end_date": "2021-11-18"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2021/East",
+            "end_date": "2021-11-14"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2021/West",
+            "end_date": "2021-11-14"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2021/South",
+            "end_date": "2021-11-14"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2021/Midwest/1",
+            "end_date": "2021-11-14"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2021/Midwest/2",
+            "end_date": "2021-11-14"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2021/Midwest/3",
+            "end_date": "2021-11-14"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2021/Northeast/1",
+            "end_date": "2021-11-14"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2021/Northeast/2",
+            "end_date": "2021-11-14"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2021/Southeast/1",
+            "end_date": "2021-11-14"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2021/Southeast/2",
+            "end_date": "2021-11-14"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Homecoming/2021/Group_Stage",
+            "end_date": "2021-11-13"
+        },
+        {
+            "link": "/overwatch/CECC/2022/Southeast",
+            "end_date": "2021-11-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Homecoming/2021/National_Swiss",
+            "end_date": "2021-11-06"
+        },
+        {
+            "link": "/overwatch/CECC/2022/Midwest",
+            "end_date": "2021-10-10"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/3/NA/Avidity_Qualifier",
+            "end_date": "2021-09-25"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/3/NA/DePaul_Qualifier",
+            "end_date": "2021-09-23"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_4/Play-in",
+            "end_date": "2021-09-05"
+        },
+        {
+            "link": "/overwatch/Uniliga/Summer_2021/2nd_League",
+            "end_date": "2021-06-23"
+        },
+        {
+            "link": "/overwatch/WDG/OVERWATCH_UNLIMITED/Qualifier",
+            "end_date": "2021-06-01"
+        },
+        {
+            "link": "/overwatch/Uniliga/Summer_2021/Wildcard",
+            "end_date": "2021-04-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Championship/2021/Varsity_Wildcard",
+            "end_date": "2021-04-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Championship/2021/National_Swiss",
+            "end_date": "2021-03-20"
+        },
+        {
+            "link": "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.4/Group_C",
+            "end_date": "2021-02-02"
+        },
+        {
+            "link": "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.4/Group_D",
+            "end_date": "2021-02-02"
+        },
+        {
+            "link": "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.4/Group_A",
+            "end_date": "2021-02-01"
+        },
+        {
+            "link": "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.4/Group_B",
+            "end_date": "2021-02-01"
+        },
+        {
+            "link": "/overwatch/Uniliga/Winter_2020/Relegation",
+            "end_date": "2021-01-31"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/1/Play-Ins",
+            "end_date": "2021-01-15"
+        }
     ]
 }

@@ -1,73 +1,284 @@
 {
-    "links": [
-        "/overwatch/Overwatch_Champions_Series/2024/Finals",
-        "/overwatch/Esports_World_Cup/2024",
-        "/overwatch/Overwatch_Champions_Series/2024/Major",
-        "/overwatch/Overwatch_World_Cup/2023",
-        "/overwatch/Overwatch_League/Season_6/Playoffs",
-        "/overwatch/Overwatch_League/Season_6/Regular_Season",
-        "/overwatch/Overwatch_League/Season_6/Midseason_Madness",
-        "/overwatch/Overwatch_League/Season_6/Pro-Am",
-        "/overwatch/ESET_Runback_Series",
-        "/overwatch/Overwatch_Legends_Battle",
-        "/overwatch/Overwatch_League/Season_5",
-        "/overwatch/Overwatch_League/Season_5/Playoffs",
-        "/overwatch/Overwatch_League/Season_5/Regular_Season/Countdown_Cup/Tournament",
-        "/overwatch/Overwatch_League/Season_5/Regular_Season",
-        "/overwatch/Overwatch_League/Season_5/Regular_Season/Summer_Showdown/Tournament",
-        "/overwatch/Overwatch_League/Season_5/Regular_Season/Midseason_Madness/Tournament",
-        "/overwatch/Overwatch_League/Season_5/Regular_Season/Kickoff_Clash/Tournament",
-        "/overwatch/Overwatch_League/Season_4/Playoffs",
-        "/overwatch/Overwatch_League/Season_4/Playoffs/Showmatch",
-        "/overwatch/Overwatch_League/Season_4/Regular_Season/Countdown_Cup/Tournament",
-        "/overwatch/Overwatch_League/Season_4/Regular_Season",
-        "/overwatch/Overwatch_League/Season_4/Regular_Season/Summer_Showdown/Tournament",
-        "/overwatch/Overwatch_League/Season_4/Regular_Season/June_Joust/Tournament",
-        "/overwatch/Overwatch_League/Season_4/Chinese_All-Star_Showmatch",
-        "/overwatch/Overwatch_League/Season_4/Regular_Season/May_Melee/Tournament",
-        "/overwatch/SteelSeries_Invitational",
-        "/overwatch/Overwatch_Shanghai_Masters_Invitational/2020",
-        "/overwatch/Overwatch_League/Season_3",
-        "/overwatch/Overwatch_League/Season_3/Playoffs",
-        "/overwatch/Overwatch_League/Season_3/All-Star",
-        "/overwatch/Overwatch_League/Season_3/Playoffs/Asia",
-        "/overwatch/Overwatch_League/Season_3/Playoffs/North_America",
-        "/overwatch/Overwatch_League/Season_3/Regular_Season",
-        "/overwatch/Overwatch_League/Season_3/Regular_Season/July/Tournament",
-        "/overwatch/Overwatch_League/Season_3/Regular_Season/June/Tournament",
-        "/overwatch/Overwatch_League/Season_3/Regular_Season/May/Tournament",
-        "/overwatch/Overwatch_Shanghai_Masters_Invitational/2019",
-        "/overwatch/Overwatch_World_Cup/2019",
-        "/overwatch/Metarama_Festival",
-        "/overwatch/Overwatch_League/Season_2/Playoffs",
-        "/overwatch/Overwatch_League/Season_2/Regular_Season",
-        "/overwatch/Overwatch_League/Season_2/All-Star",
-        "/overwatch/Overwatch_League/Season_2/Community_Countdown",
-        "/overwatch/Pacific_Challenge/2018",
-        "/overwatch/California_Cup/2018/Oakland",
-        "/overwatch/Overwatch_World_Cup/2018",
-        "/overwatch/California_Cup/2018/Santa_Ana",
-        "/overwatch/Overwatch_League/Season_1/All-Star",
-        "/overwatch/Overwatch_League/Season_1",
-        "/overwatch/Overwatch_League/Season_1/Playoffs",
-        "/overwatch/Overwatch_League/Season_1/Regular_Season",
-        "/overwatch/Overwatch_League/Season_1/Preseason",
-        "/overwatch/Overwatch_Premier_Series/2017/All-Star",
-        "/overwatch/Overwatch_World_Cup/2017",
-        "/overwatch/APAC_Premier/2017",
-        "/overwatch/Overwatch_APEX/Season_4",
-        "/overwatch/Overwatch_Pacific_Championship/2017/Season_2",
-        "/overwatch/Overwatch_Premier_Series/2017/Grand_Finals",
-        "/overwatch/Overwatch_Premier_Series/2017/Summer",
-        "/overwatch/Overwatch_APEX/Season_3",
-        "/overwatch/Overwatch_Pacific_Championship/2017/Season_1",
-        "/overwatch/Overwatch_Premier_Series/2017/Spring",
-        "/overwatch/Twitch_Esports_Arena/2017",
-        "/overwatch/Overwatch_APEX/Season_2",
-        "/overwatch/Overwatch_APEX/Season_1",
-        "/overwatch/Overwatch_World_Cup/2016",
-        "/overwatch/APAC_Premier/2016",
-        "/overwatch/Overwatch_Open",
-        "/overwatch/2016_ESL_Overwatch_Atlantic_Showdown_-_Gamescom"
+    "tournaments": [
+        {
+            "link": "/overwatch/Overwatch_Champions_Series/2024/Finals",
+            "end_date": "2024-11-24"
+        },
+        {
+            "link": "/overwatch/Esports_World_Cup/2024",
+            "end_date": "2024-07-28"
+        },
+        {
+            "link": "/overwatch/Overwatch_Champions_Series/2024/Major",
+            "end_date": "2024-06-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023",
+            "end_date": "2023-11-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6",
+            "end_date": "2023-10-01"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Playoffs",
+            "end_date": "2023-10-01"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Regular_Season",
+            "end_date": "2023-09-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Midseason_Madness",
+            "end_date": "2023-06-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Pro-Am",
+            "end_date": "2023-04-09"
+        },
+        {
+            "link": "/overwatch/ESET_Runback_Series",
+            "end_date": "2022-12-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_Legends_Battle",
+            "end_date": "2022-12-17"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_5",
+            "end_date": "2022-11-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_5/Playoffs",
+            "end_date": "2022-11-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_5/Regular_Season/Countdown_Cup/Tournament",
+            "end_date": "2022-10-22"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_5/Regular_Season",
+            "end_date": "2022-10-16"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_5/Regular_Season/Summer_Showdown/Tournament",
+            "end_date": "2022-09-11"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_5/Regular_Season/Midseason_Madness/Tournament",
+            "end_date": "2022-07-23"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_5/Regular_Season/Kickoff_Clash/Tournament",
+            "end_date": "2022-06-05"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_4/Playoffs",
+            "end_date": "2021-09-25"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_4/Playoffs/Showmatch",
+            "end_date": "2021-09-25"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_4/Regular_Season/Countdown_Cup/Tournament",
+            "end_date": "2021-08-22"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_4/Regular_Season",
+            "end_date": "2021-08-22"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_4/Regular_Season/Summer_Showdown/Tournament",
+            "end_date": "2021-07-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_4/Regular_Season/June_Joust/Tournament",
+            "end_date": "2021-06-13"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_4/Chinese_All-Star_Showmatch",
+            "end_date": "2021-06-06"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_4/Regular_Season/May_Melee/Tournament",
+            "end_date": "2021-05-09"
+        },
+        {
+            "link": "/overwatch/SteelSeries_Invitational",
+            "end_date": "2021-02-28"
+        },
+        {
+            "link": "/overwatch/Overwatch_Shanghai_Masters_Invitational/2020",
+            "end_date": "2020-12-06"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_3",
+            "end_date": "2020-10-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_3/Playoffs",
+            "end_date": "2020-10-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_3/All-Star",
+            "end_date": "2020-10-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_3/Playoffs/Asia",
+            "end_date": "2020-09-13"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_3/Playoffs/North_America",
+            "end_date": "2020-09-13"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_3/Regular_Season",
+            "end_date": "2020-08-23"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_3/Regular_Season/July/Tournament",
+            "end_date": "2020-08-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_3/Regular_Season/June/Tournament",
+            "end_date": "2020-07-05"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_3/Regular_Season/May/Tournament",
+            "end_date": "2020-05-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_Shanghai_Masters_Invitational/2019",
+            "end_date": "2019-12-01"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2019",
+            "end_date": "2019-11-02"
+        },
+        {
+            "link": "/overwatch/Metarama_Festival",
+            "end_date": "2019-10-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_2/Playoffs",
+            "end_date": "2019-09-29"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_2/Regular_Season",
+            "end_date": "2019-08-25"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_2/All-Star",
+            "end_date": "2019-05-16"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_2/Community_Countdown",
+            "end_date": "2019-02-13"
+        },
+        {
+            "link": "/overwatch/Pacific_Challenge/2018",
+            "end_date": "2018-12-28"
+        },
+        {
+            "link": "/overwatch/California_Cup/2018/Oakland",
+            "end_date": "2018-11-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2018",
+            "end_date": "2018-11-03"
+        },
+        {
+            "link": "/overwatch/California_Cup/2018/Santa_Ana",
+            "end_date": "2018-10-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_1/All-Star",
+            "end_date": "2018-08-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_1",
+            "end_date": "2018-07-28"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_1/Playoffs",
+            "end_date": "2018-07-28"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_1/Regular_Season",
+            "end_date": "2018-06-17"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_1/Preseason",
+            "end_date": "2017-12-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_Premier_Series/2017/All-Star",
+            "end_date": "2017-11-16"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2017",
+            "end_date": "2017-11-04"
+        },
+        {
+            "link": "/overwatch/APAC_Premier/2017",
+            "end_date": "2017-10-29"
+        },
+        {
+            "link": "/overwatch/Overwatch_APEX/Season_4",
+            "end_date": "2017-10-21"
+        },
+        {
+            "link": "/overwatch/Overwatch_Pacific_Championship/2017/Season_2",
+            "end_date": "2017-10-08"
+        },
+        {
+            "link": "/overwatch/Overwatch_Premier_Series/2017/Grand_Finals",
+            "end_date": "2017-10-01"
+        },
+        {
+            "link": "/overwatch/Overwatch_Premier_Series/2017/Summer",
+            "end_date": "2017-09-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_APEX/Season_3",
+            "end_date": "2017-07-29"
+        },
+        {
+            "link": "/overwatch/Overwatch_Pacific_Championship/2017/Season_1",
+            "end_date": "2017-07-01"
+        },
+        {
+            "link": "/overwatch/Overwatch_Premier_Series/2017/Spring",
+            "end_date": "2017-06-24"
+        },
+        {
+            "link": "/overwatch/Twitch_Esports_Arena/2017",
+            "end_date": "2017-06-15"
+        },
+        {
+            "link": "/overwatch/Overwatch_APEX/Season_2",
+            "end_date": "2017-04-08"
+        },
+        {
+            "link": "/overwatch/Overwatch_APEX/Season_1",
+            "end_date": "2016-12-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2016",
+            "end_date": "2016-11-05"
+        },
+        {
+            "link": "/overwatch/APAC_Premier/2016",
+            "end_date": "2016-10-16"
+        },
+        {
+            "link": "/overwatch/Overwatch_Open",
+            "end_date": "2016-09-30"
+        },
+        {
+            "link": "/overwatch/2016_ESL_Overwatch_Atlantic_Showdown_-_Gamescom",
+            "end_date": "2016-08-21"
+        }
     ]
 }

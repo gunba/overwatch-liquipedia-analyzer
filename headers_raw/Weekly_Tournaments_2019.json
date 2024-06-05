@@ -1,37 +1,136 @@
 {
-    "links": [
-        "/overwatch/OVERWATCH_Korea_Cup_December_Online_Qualifier/4",
-        "/overwatch/OVERWATCH_Korea_Cup_December_Online_Qualifier/3",
-        "/overwatch/OVERWATCH_Korea_Cup_December_Online_Qualifier/2",
-        "/overwatch/OVERWATCH_Korea_Cup_December_Online_Qualifier/1",
-        "/overwatch/OVERWATCH_Korea_Cup_November_Online_Qualifier/4",
-        "/overwatch/OVERWATCH_Korea_Cup_November_Online_Qualifier/3",
-        "/overwatch/OVERWATCH_Korea_Cup_November_Online_Qualifier/2",
-        "/overwatch/OVERWATCH_Korea_Cup_November_Online_Qualifier/1",
-        "/overwatch/OVERWATCH_Korea_Cup_October_Online_Qualifier/4",
-        "/overwatch/OVERWATCH_Korea_Cup_October_Online_Qualifier/3",
-        "/overwatch/OVERWATCH_Korea_Cup_October_Online_Qualifier/2",
-        "/overwatch/OVERWATCH_Korea_Cup_October_Online_Qualifier/1",
-        "/overwatch/OVERWATCH_Korea_Cup_September_Online_Qualifier/4",
-        "/overwatch/OVERWATCH_Korea_Cup_September_Online_Qualifier/3",
-        "/overwatch/OVERWATCH_Korea_Cup_September_Online_Qualifier/2",
-        "/overwatch/Mythical_Cup/9",
-        "/overwatch/OVERWATCH_Korea_Cup_September_Online_Qualifier/1",
-        "/overwatch/OVERWATCH_Korea_Cup_August_Online_Qualifier/4",
-        "/overwatch/OVERWATCH_Korea_Cup_August_Online_Qualifier/3",
-        "/overwatch/OVERWATCH_Korea_Cup_August_Online_Qualifier/2",
-        "/overwatch/OVERWATCH_Korea_Cup_August_Online_Qualifier/1",
-        "/overwatch/OVERWATCH_Korea_Cup_July_Online_Qualifier/4",
-        "/overwatch/OVERWATCH_Korea_Cup_July_Online_Qualifier/3",
-        "/overwatch/OVERWATCH_Korea_Cup_July_Online_Qualifier/2",
-        "/overwatch/OVERWATCH_Korea_Cup_July_Online_Qualifier/1",
-        "/overwatch/Mythical_Cup/3",
-        "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/6",
-        "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/5",
-        "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/4",
-        "/overwatch/Mythical_Cup/2",
-        "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/3",
-        "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/2",
-        "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/1"
+    "tournaments": [
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_December_Online_Qualifier/4",
+            "end_date": "2019-12-13"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_December_Online_Qualifier/3",
+            "end_date": "2019-12-12"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_December_Online_Qualifier/2",
+            "end_date": "2019-12-06"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_December_Online_Qualifier/1",
+            "end_date": "2019-12-05"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_November_Online_Qualifier/4",
+            "end_date": "2019-11-08"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_November_Online_Qualifier/3",
+            "end_date": "2019-11-07"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_November_Online_Qualifier/2",
+            "end_date": "2019-11-01"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_November_Online_Qualifier/1",
+            "end_date": "2019-10-31"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_October_Online_Qualifier/4",
+            "end_date": "2019-10-11"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_October_Online_Qualifier/3",
+            "end_date": "2019-10-10"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_October_Online_Qualifier/2",
+            "end_date": "2019-10-04"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_October_Online_Qualifier/1",
+            "end_date": "2019-10-03"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_September_Online_Qualifier/4",
+            "end_date": "2019-09-20"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_September_Online_Qualifier/3",
+            "end_date": "2019-09-19"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_September_Online_Qualifier/2",
+            "end_date": "2019-09-06"
+        },
+        {
+            "link": "/overwatch/Mythical_Cup/9",
+            "end_date": "2019-09-05"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_September_Online_Qualifier/1",
+            "end_date": "2019-09-05"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_August_Online_Qualifier/4",
+            "end_date": "2019-08-09"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_August_Online_Qualifier/3",
+            "end_date": "2019-08-08"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_August_Online_Qualifier/2",
+            "end_date": "2019-08-02"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_August_Online_Qualifier/1",
+            "end_date": "2019-08-01"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_July_Online_Qualifier/4",
+            "end_date": "2019-07-12"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_July_Online_Qualifier/3",
+            "end_date": "2019-07-11"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_July_Online_Qualifier/2",
+            "end_date": "2019-07-05"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_July_Online_Qualifier/1",
+            "end_date": "2019-07-04"
+        },
+        {
+            "link": "/overwatch/Mythical_Cup/3",
+            "end_date": "2019-06-27"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/6",
+            "end_date": "2019-06-14"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/5",
+            "end_date": "2019-06-13"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/4",
+            "end_date": "2019-06-07"
+        },
+        {
+            "link": "/overwatch/Mythical_Cup/2",
+            "end_date": "2019-06-06"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/3",
+            "end_date": "2019-06-06"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/2",
+            "end_date": "2019-05-31"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_June_Online_Qualifier/1",
+            "end_date": "2019-05-30"
+        }
     ]
 }

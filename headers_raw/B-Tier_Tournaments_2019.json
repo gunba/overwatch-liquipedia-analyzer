@@ -1,46 +1,172 @@
 {
-    "links": [
-        "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/December",
-        "/overwatch/Overwatch_Arena_Clash/2019/Winter",
-        "/overwatch/National_Championship_Series/2019/Grand_Finals/Huntington",
-        "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/November",
-        "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/October",
-        "/overwatch/NCS/Major/Denver",
-        "/overwatch/Huya_Dragonblade_Cup_Invitational_Tournament/2019",
-        "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/September",
-        "/overwatch/Battle4Texas",
-        "/overwatch/Rivalcade_Overwatch_Rumble/2019",
-        "/overwatch/DreamHack/2019/Montreal",
-        "/overwatch/Overwatch_MB_Eurocup_Fundraiser/2019",
-        "/overwatch/Overwatch_Arena_Clash/2019/Summer",
-        "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/August",
-        "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/July",
-        "/overwatch/Overwatch_Proving_Grounds:_Community_Tournament",
-        "/overwatch/FEL_Overwatch_Cup",
-        "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/June",
-        "/overwatch/Overwatch_Contenders/2019/Season_2/Korea/Trials",
-        "/overwatch/Overwatch_Contenders/2019/Season_2/China/Trials",
-        "/overwatch/Overwatch_Contenders/2019/Season_2/North_America/Trials",
-        "/overwatch/Overwatch_Contenders/2019/Season_2/South_America/Trials",
-        "/overwatch/Overwatch_Contenders/2019/Season_2/Australia/Trials",
-        "/overwatch/DreamHack/2019/Tours",
-        "/overwatch/Gaming_Tent_2019",
-        "/overwatch/Overwatch_Contenders/2019/Season_2/Europe/Trials",
-        "/overwatch/Overwatch_Contenders/2019/Season_2/Pacific/Trials",
-        "/overwatch/Gamers_Assembly/2019",
-        "/overwatch/Overwatch_Arena_Clash/2019/Spring",
-        "/overwatch/PolyLAN/33",
-        "/overwatch/Spring_Rally/2019",
-        "/overwatch/Lantrek/2019",
-        "/overwatch/Overwatch_Contenders/2019/Season_1/Europe/Trials",
-        "/overwatch/Overwatch_Contenders/2019/Season_1/Australia/Trials",
-        "/overwatch/Overwatch_Contenders/2019/Season_1/South_America/Trials",
-        "/overwatch/Overwatch_Contenders/2019/Season_1/North_America/Trials",
-        "/overwatch/Lan_ETS/2019",
-        "/overwatch/Overwatch_Contenders/2019/Season_1/Korea/Trials",
-        "/overwatch/Overwatch_Contenders/2019/Season_1/Pacific/Trials",
-        "/overwatch/Overwatch_OMEN_by_HP_Assembly_Winter_2019",
-        "/overwatch/Overwatch_Contenders/2019/Season_1/China/Trials",
-        "/overwatch/Challenge_Arena_Arab_Tournament"
+    "tournaments": [
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/December",
+            "end_date": "2019-12-21"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena_Clash/2019/Winter",
+            "end_date": "2019-12-15"
+        },
+        {
+            "link": "/overwatch/National_Championship_Series/2019/Grand_Finals/Huntington",
+            "end_date": "2019-12-15"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/November",
+            "end_date": "2019-11-23"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/October",
+            "end_date": "2019-10-19"
+        },
+        {
+            "link": "/overwatch/NCS/Major/Denver",
+            "end_date": "2019-10-06"
+        },
+        {
+            "link": "/overwatch/Huya_Dragonblade_Cup_Invitational_Tournament/2019",
+            "end_date": "2019-09-28"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/September",
+            "end_date": "2019-09-28"
+        },
+        {
+            "link": "/overwatch/Battle4Texas",
+            "end_date": "2019-09-22"
+        },
+        {
+            "link": "/overwatch/Rivalcade_Overwatch_Rumble/2019",
+            "end_date": "2019-09-22"
+        },
+        {
+            "link": "/overwatch/DreamHack/2019/Montreal",
+            "end_date": "2019-09-08"
+        },
+        {
+            "link": "/overwatch/Overwatch_MB_Eurocup_Fundraiser/2019",
+            "end_date": "2019-09-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena_Clash/2019/Summer",
+            "end_date": "2019-08-26"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/August",
+            "end_date": "2019-08-17"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/July",
+            "end_date": "2019-07-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_Proving_Grounds:_Community_Tournament",
+            "end_date": "2019-07-14"
+        },
+        {
+            "link": "/overwatch/FEL_Overwatch_Cup",
+            "end_date": "2019-06-25"
+        },
+        {
+            "link": "/overwatch/OVERWATCH_Korea_Cup_Monthly_Finals/June",
+            "end_date": "2019-06-22"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_2/Korea/Trials",
+            "end_date": "2019-06-13"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_2/China/Trials",
+            "end_date": "2019-06-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_2/North_America/Trials",
+            "end_date": "2019-06-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_2/South_America/Trials",
+            "end_date": "2019-06-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_2/Australia/Trials",
+            "end_date": "2019-05-22"
+        },
+        {
+            "link": "/overwatch/DreamHack/2019/Tours",
+            "end_date": "2019-05-19"
+        },
+        {
+            "link": "/overwatch/Gaming_Tent_2019",
+            "end_date": "2019-05-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_2/Europe/Trials",
+            "end_date": "2019-05-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_2/Pacific/Trials",
+            "end_date": "2019-05-12"
+        },
+        {
+            "link": "/overwatch/Gamers_Assembly/2019",
+            "end_date": "2019-04-22"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena_Clash/2019/Spring",
+            "end_date": "2019-04-20"
+        },
+        {
+            "link": "/overwatch/PolyLAN/33",
+            "end_date": "2019-04-18"
+        },
+        {
+            "link": "/overwatch/Spring_Rally/2019",
+            "end_date": "2019-04-14"
+        },
+        {
+            "link": "/overwatch/Lantrek/2019",
+            "end_date": "2019-03-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_1/Europe/Trials",
+            "end_date": "2019-02-17"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_1/Australia/Trials",
+            "end_date": "2019-02-17"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_1/South_America/Trials",
+            "end_date": "2019-02-17"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_1/North_America/Trials",
+            "end_date": "2019-02-17"
+        },
+        {
+            "link": "/overwatch/Lan_ETS/2019",
+            "end_date": "2019-02-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_1/Korea/Trials",
+            "end_date": "2019-02-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_1/Pacific/Trials",
+            "end_date": "2019-02-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_OMEN_by_HP_Assembly_Winter_2019",
+            "end_date": "2019-02-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2019/Season_1/China/Trials",
+            "end_date": "2019-01-31"
+        },
+        {
+            "link": "/overwatch/Challenge_Arena_Arab_Tournament",
+            "end_date": "2019-01-14"
+        }
     ]
 }

@@ -1,28 +1,100 @@
 {
-    "links": [
-        "/overwatch/We_Are_So_Back_Cup/NA/17",
-        "/overwatch/We_Are_So_Back_Cup/NA/16",
-        "/overwatch/We_Are_So_Back_Cup/NA/15",
-        "/overwatch/We_Are_So_Back_Cup/NA/14",
-        "/overwatch/We_Are_So_Back_Cup/NA/13",
-        "/overwatch/We_Are_So_Back_Cup/NA/12",
-        "/overwatch/We_Are_So_Back_Cup/NA/11",
-        "/overwatch/We_Are_So_Back_Cup/NA/10",
-        "/overwatch/We_Are_So_Back_Cup/NA/9",
-        "/overwatch/We_Are_So_Back_Cup/NA/8",
-        "/overwatch/We_Are_So_Back_Cup/NA/7",
-        "/overwatch/We_Are_So_Back_Cup/NA/6",
-        "/overwatch/We_Are_So_Back_Cup/NA/5",
-        "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/7",
-        "/overwatch/We_Are_So_Back_Cup/NA/4",
-        "/overwatch/We_Are_So_Back_Cup/NA/3",
-        "/overwatch/We_Are_So_Back_Cup/NA/2",
-        "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/6",
-        "/overwatch/We_Are_So_Back_Cup/NA/1",
-        "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/5",
-        "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/4",
-        "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/3",
-        "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/2",
-        "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/1"
+    "tournaments": [
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/17",
+            "end_date": "2024-06-30"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/16",
+            "end_date": "2024-06-23"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/15",
+            "end_date": "2024-06-16"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/14",
+            "end_date": "2024-06-09"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/13",
+            "end_date": "2024-06-02"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/12",
+            "end_date": "2024-05-26"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/11",
+            "end_date": "2024-05-19"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/10",
+            "end_date": "2024-05-12"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/9",
+            "end_date": "2024-05-05"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/8",
+            "end_date": "2024-04-28"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/7",
+            "end_date": "2024-04-21"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/6",
+            "end_date": "2024-04-14"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/5",
+            "end_date": "2024-03-24"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/7",
+            "end_date": "2024-03-24"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/4",
+            "end_date": "2024-03-17"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/3",
+            "end_date": "2024-03-10"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/2",
+            "end_date": "2024-02-25"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/6",
+            "end_date": "2024-02-25"
+        },
+        {
+            "link": "/overwatch/We_Are_So_Back_Cup/NA/1",
+            "end_date": "2024-02-18"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/5",
+            "end_date": "2024-02-11"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/4",
+            "end_date": "2024-02-04"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/3",
+            "end_date": "2024-01-28"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/2",
+            "end_date": "2024-01-21"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Glacial_Showdown/1",
+            "end_date": "2024-01-07"
+        }
     ]
 }

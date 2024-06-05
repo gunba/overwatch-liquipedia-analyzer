@@ -1,53 +1,200 @@
 {
-    "links": [
-        "/overwatch/Saudi_Arabia_vs._Kuwait_Showmatch",
-        "/overwatch/LetsPlay.Live_ANZ_Community_Cup",
-        "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Major_3",
-        "/overwatch/Aurora_Cup/2023",
-        "/overwatch/NACE_Starleague/2023/Fall/Varsity",
-        "/overwatch/NACE_Starleague/2023/Fall/Open",
-        "/overwatch/Ireland_Vs._Colombia_Showmatch",
-        "/overwatch/Ireland_Vs._Iceland_Showmatch",
-        "/overwatch/WDG/Overwatch_Open_Tournament/Korea/2023/Fall",
-        "/overwatch/WDG/Overwatch_Open_Tournament/East_Asia/2023/Fall",
-        "/overwatch/WDG/Overwatch_Open_Tournament/Southeast_Asia/2023/Fall",
-        "/overwatch/Ireland_vs._Peru_Showmatch",
-        "/overwatch/Titans_Showdown/2023",
-        "/overwatch/Incheon_Esports_Challenge/2023",
-        "/overwatch/Overwatch_Operation:_Dive_Party/NA",
-        "/overwatch/Overwatch_Operation:_Dive_Party/EMEA",
-        "/overwatch/Open_Division/2023/Season_3/Australia_%26_New_Zealand",
-        "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Major_2",
-        "/overwatch/Lidoma_Esport/2023/Revolution_Community_CUP",
-        "/overwatch/WDG/Overwatch_Open_Tournament/Korea/2023/Summer",
-        "/overwatch/Into_The_SEA/2023/Summer",
-        "/overwatch/WDG/Overwatch_Open_Tournament/East_Asia/2023/Summer",
-        "/overwatch/Ireland_vs._Switzerland_Showmatch",
-        "/overwatch/LAN_ETS/2023",
-        "/overwatch/Open_Division/2023/Summer_Qualifier/Europe",
-        "/overwatch/Open_Division/2023/Summer_Qualifier/North_America",
-        "/overwatch/Starwatch_Open_Community_Tournament",
-        "/overwatch/CECC/2023",
-        "/overwatch/Open_Division/2023/Season_2/Australia_%26_New_Zealand",
-        "/overwatch/Intel_Inspires/Collegiate",
-        "/overwatch/Intel_Inspires/High_School",
-        "/overwatch/NACE_Starleague/2023/Spring/Varsity",
-        "/overwatch/NACE_Starleague/2023/Spring/Open",
-        "/overwatch/Ireland_vs._Turkey_Showmatch",
-        "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Major_1",
-        "/overwatch/Denmark_vs._Sweden_Showmatch",
-        "/overwatch/Pizza_Hut_Gaming_Ramadan_Cup",
-        "/overwatch/Insomnia/70",
-        "/overwatch/DreamHack/2023/San_Diego",
-        "/overwatch/Open_Division/2023/Spring_Qualifier/Europe",
-        "/overwatch/Open_Division/2023/Spring_Qualifier/North_America",
-        "/overwatch/Pachi-Marchi_Open_Community_Clash",
-        "/overwatch/Lulu%27s_Throwdown",
-        "/overwatch/Into_The_SEA/2023",
-        "/overwatch/WDG/Overwatch_Open_Tournament/East_Asia",
-        "/overwatch/Open_Division/2023/Season_1/Australia_%26_New_Zealand",
-        "/overwatch/WDG/Overwatch_Open_Tournament/Korea/2023",
-        "/overwatch/European_Invitational",
-        "/overwatch/Console_vs._Contenders"
+    "tournaments": [
+        {
+            "link": "/overwatch/Saudi_Arabia_vs._Kuwait_Showmatch",
+            "end_date": "2023-12-28"
+        },
+        {
+            "link": "/overwatch/LetsPlay.Live_ANZ_Community_Cup",
+            "end_date": "2023-12-16"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Major_3",
+            "end_date": "2023-12-10"
+        },
+        {
+            "link": "/overwatch/Aurora_Cup/2023",
+            "end_date": "2023-12-07"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Fall/Varsity",
+            "end_date": "2023-12-02"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Fall/Open",
+            "end_date": "2023-11-28"
+        },
+        {
+            "link": "/overwatch/Ireland_Vs._Colombia_Showmatch",
+            "end_date": "2023-10-08"
+        },
+        {
+            "link": "/overwatch/Ireland_Vs._Iceland_Showmatch",
+            "end_date": "2023-09-24"
+        },
+        {
+            "link": "/overwatch/WDG/Overwatch_Open_Tournament/Korea/2023/Fall",
+            "end_date": "2023-09-08"
+        },
+        {
+            "link": "/overwatch/WDG/Overwatch_Open_Tournament/East_Asia/2023/Fall",
+            "end_date": "2023-09-05"
+        },
+        {
+            "link": "/overwatch/WDG/Overwatch_Open_Tournament/Southeast_Asia/2023/Fall",
+            "end_date": "2023-09-05"
+        },
+        {
+            "link": "/overwatch/Ireland_vs._Peru_Showmatch",
+            "end_date": "2023-08-27"
+        },
+        {
+            "link": "/overwatch/Titans_Showdown/2023",
+            "end_date": "2023-08-19"
+        },
+        {
+            "link": "/overwatch/Incheon_Esports_Challenge/2023",
+            "end_date": "2023-08-12"
+        },
+        {
+            "link": "/overwatch/Overwatch_Operation:_Dive_Party/NA",
+            "end_date": "2023-08-12"
+        },
+        {
+            "link": "/overwatch/Overwatch_Operation:_Dive_Party/EMEA",
+            "end_date": "2023-08-12"
+        },
+        {
+            "link": "/overwatch/Open_Division/2023/Season_3/Australia_%26_New_Zealand",
+            "end_date": "2023-07-23"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Major_2",
+            "end_date": "2023-07-09"
+        },
+        {
+            "link": "/overwatch/Lidoma_Esport/2023/Revolution_Community_CUP",
+            "end_date": "2023-05-27"
+        },
+        {
+            "link": "/overwatch/WDG/Overwatch_Open_Tournament/Korea/2023/Summer",
+            "end_date": "2023-05-18"
+        },
+        {
+            "link": "/overwatch/Into_The_SEA/2023/Summer",
+            "end_date": "2023-05-16"
+        },
+        {
+            "link": "/overwatch/WDG/Overwatch_Open_Tournament/East_Asia/2023/Summer",
+            "end_date": "2023-05-16"
+        },
+        {
+            "link": "/overwatch/Ireland_vs._Switzerland_Showmatch",
+            "end_date": "2023-05-15"
+        },
+        {
+            "link": "/overwatch/LAN_ETS/2023",
+            "end_date": "2023-05-14"
+        },
+        {
+            "link": "/overwatch/Open_Division/2023/Summer_Qualifier/Europe",
+            "end_date": "2023-05-14"
+        },
+        {
+            "link": "/overwatch/Open_Division/2023/Summer_Qualifier/North_America",
+            "end_date": "2023-05-14"
+        },
+        {
+            "link": "/overwatch/Starwatch_Open_Community_Tournament",
+            "end_date": "2023-05-11"
+        },
+        {
+            "link": "/overwatch/CECC/2023",
+            "end_date": "2023-05-07"
+        },
+        {
+            "link": "/overwatch/Open_Division/2023/Season_2/Australia_%26_New_Zealand",
+            "end_date": "2023-05-07"
+        },
+        {
+            "link": "/overwatch/Intel_Inspires/Collegiate",
+            "end_date": "2023-04-29"
+        },
+        {
+            "link": "/overwatch/Intel_Inspires/High_School",
+            "end_date": "2023-04-29"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Spring/Varsity",
+            "end_date": "2023-04-29"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Spring/Open",
+            "end_date": "2023-04-25"
+        },
+        {
+            "link": "/overwatch/Ireland_vs._Turkey_Showmatch",
+            "end_date": "2023-04-23"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Major_1",
+            "end_date": "2023-04-23"
+        },
+        {
+            "link": "/overwatch/Denmark_vs._Sweden_Showmatch",
+            "end_date": "2023-04-16"
+        },
+        {
+            "link": "/overwatch/Pizza_Hut_Gaming_Ramadan_Cup",
+            "end_date": "2023-04-13"
+        },
+        {
+            "link": "/overwatch/Insomnia/70",
+            "end_date": "2023-04-09"
+        },
+        {
+            "link": "/overwatch/DreamHack/2023/San_Diego",
+            "end_date": "2023-04-09"
+        },
+        {
+            "link": "/overwatch/Open_Division/2023/Spring_Qualifier/Europe",
+            "end_date": "2023-04-09"
+        },
+        {
+            "link": "/overwatch/Open_Division/2023/Spring_Qualifier/North_America",
+            "end_date": "2023-04-09"
+        },
+        {
+            "link": "/overwatch/Pachi-Marchi_Open_Community_Clash",
+            "end_date": "2023-03-22"
+        },
+        {
+            "link": "/overwatch/Lulu%27s_Throwdown",
+            "end_date": "2023-03-18"
+        },
+        {
+            "link": "/overwatch/Into_The_SEA/2023",
+            "end_date": "2023-03-12"
+        },
+        {
+            "link": "/overwatch/WDG/Overwatch_Open_Tournament/East_Asia",
+            "end_date": "2023-03-12"
+        },
+        {
+            "link": "/overwatch/Open_Division/2023/Season_1/Australia_%26_New_Zealand",
+            "end_date": "2023-03-12"
+        },
+        {
+            "link": "/overwatch/WDG/Overwatch_Open_Tournament/Korea/2023",
+            "end_date": "2023-03-11"
+        },
+        {
+            "link": "/overwatch/European_Invitational",
+            "end_date": "2023-03-05"
+        },
+        {
+            "link": "/overwatch/Console_vs._Contenders",
+            "end_date": "2023-01-12"
+        }
     ]
 }

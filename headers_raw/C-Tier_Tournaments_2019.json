@@ -1,73 +1,280 @@
 {
-    "links": [
-        "/overwatch/Open_Division:_Breakable_Barriers/NA/2",
-        "/overwatch/Open_Division:_Breakable_Barriers/EMEA/2",
-        "/overwatch/Open_Division:_Breakable_Barriers/NA/1",
-        "/overwatch/Open_Division:_Breakable_Barriers/EMEA/1",
-        "/overwatch/Open_Division/2019/Practice_Season/Korea",
-        "/overwatch/Trial_of_Champions/2019",
-        "/overwatch/Overwatch_Arena_Clash/2019/Winter/Challenger",
-        "/overwatch/Open_Division/2019/Practice_Season/China",
-        "/overwatch/Open_Division/2019/Practice_Season/Australia",
-        "/overwatch/DreamHack/2019/Winter",
-        "/overwatch/SwitzerLAN/2019",
-        "/overwatch/Open_Division/2019/Practice_Season/Europe",
-        "/overwatch/Open_Division/2019/Practice_Season/Pacific",
-        "/overwatch/Open_Division/2019/Practice_Season/North_America",
-        "/overwatch/Open_Division/2019/Practice_Season/South_America",
-        "/overwatch/Insomnia/Dublin_Masters",
-        "/overwatch/NorthSpawn/2019",
-        "/overwatch/Tidal_Esports_T3_Community_Invitational/2019",
-        "/overwatch/Overwatch_Thailand_Major/2019/Season_2",
-        "/overwatch/European_Games_Week/2019",
-        "/overwatch/MB_Invitational/Europe/2",
-        "/overwatch/Blackwatch_Cup/Season_3",
-        "/overwatch/Overwatch_Sigma_Southeast_Asia_Tournament",
-        "/overwatch/Overwatch_Arena_Clash/2019/Summer/Challenger",
-        "/overwatch/Insomnia/65",
-        "/overwatch/Horizon_Community_Cup/4",
-        "/overwatch/NFN_Invitational/4",
-        "/overwatch/Overwatch_Thailand_Major/2019/Season_1",
-        "/overwatch/Uniliga/Summer_2019/1st_League",
-        "/overwatch/DreamHack/2019/Summer",
-        "/overwatch/DreamHack/2019/Dallas",
-        "/overwatch/Overwatch_AllForOne/Season_1",
-        "/overwatch/Nordsken_Community_Overwatch_Championship/2019",
-        "/overwatch/Russian_Overwatch_Cup/Season_3/Pro",
-        "/overwatch/NCS/Minor/Philadelphia",
-        "/overwatch/Liga_Akademicka_Season_4",
-        "/overwatch/North_Taiwan_Esports_League/5",
-        "/overwatch/Mrsool_Overwatch_MENA_Community_Cup",
-        "/overwatch/Open_Division/2019/Season_2/China",
-        "/overwatch/Open_Division/2019/Season_2/Korea",
-        "/overwatch/Open_Division/2019/Season_2/Europe",
-        "/overwatch/Open_Division/2019/Season_2/Pacific",
-        "/overwatch/Open_Division/2019/Season_2/Australia",
-        "/overwatch/Open_Division/2019/Season_2/South_America",
-        "/overwatch/Open_Division/2019/Season_2/North_America",
-        "/overwatch/Spring_Rally/2020/National",
-        "/overwatch/Insomnia/64",
-        "/overwatch/Tournament_of_Future_Champions/4/EU",
-        "/overwatch/Electronic_Sports_Festival/2019",
-        "/overwatch/Tournament_of_Future_Champions/4/NA",
-        "/overwatch/NFN_Invitational/3",
-        "/overwatch/EGE_Cup/2",
-        "/overwatch/Asia_Community_Cup",
-        "/overwatch/Blackwatch_Cup/Season_2",
-        "/overwatch/CastersNest_Community_Cup/2",
-        "/overwatch/UEG/Winter",
-        "/overwatch/Open_Division/2019/Season_1/Australia",
-        "/overwatch/Overwatch_Thailand_University_Tournament/2018",
-        "/overwatch/Academy_Gaming_Overwatch/2019/January",
-        "/overwatch/Open_Division/2019/Season_1/Korea",
-        "/overwatch/Open_Division/2019/Season_1/Europe",
-        "/overwatch/Open_Division/2019/Season_1/Pacific",
-        "/overwatch/Open_Division/2019/Season_1/South_America",
-        "/overwatch/Open_Division/2019/Season_1/North_America",
-        "/overwatch/Overwatch_Andromeda/Season_1",
-        "/overwatch/Jayne%27s_Tournament_of_Future_Champions/3/EU",
-        "/overwatch/Jayne%27s_Tournament_of_Future_Champions/3/NA",
-        "/overwatch/Open_Division/2019/Season_1/China",
-        "/overwatch/Liga_Akademicka_Season_3"
+    "tournaments": [
+        {
+            "link": "/overwatch/Open_Division:_Breakable_Barriers/NA/2",
+            "end_date": "2019-12-22"
+        },
+        {
+            "link": "/overwatch/Open_Division:_Breakable_Barriers/EMEA/2",
+            "end_date": "2019-12-22"
+        },
+        {
+            "link": "/overwatch/Open_Division:_Breakable_Barriers/NA/1",
+            "end_date": "2019-12-15"
+        },
+        {
+            "link": "/overwatch/Open_Division:_Breakable_Barriers/EMEA/1",
+            "end_date": "2019-12-15"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Practice_Season/Korea",
+            "end_date": "2019-12-08"
+        },
+        {
+            "link": "/overwatch/Trial_of_Champions/2019",
+            "end_date": "2019-12-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena_Clash/2019/Winter/Challenger",
+            "end_date": "2019-12-04"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Practice_Season/China",
+            "end_date": "2019-12-01"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Practice_Season/Australia",
+            "end_date": "2019-12-01"
+        },
+        {
+            "link": "/overwatch/DreamHack/2019/Winter",
+            "end_date": "2019-11-30"
+        },
+        {
+            "link": "/overwatch/SwitzerLAN/2019",
+            "end_date": "2019-11-24"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Practice_Season/Europe",
+            "end_date": "2019-11-24"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Practice_Season/Pacific",
+            "end_date": "2019-11-24"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Practice_Season/North_America",
+            "end_date": "2019-11-24"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Practice_Season/South_America",
+            "end_date": "2019-11-24"
+        },
+        {
+            "link": "/overwatch/Insomnia/Dublin_Masters",
+            "end_date": "2019-11-10"
+        },
+        {
+            "link": "/overwatch/NorthSpawn/2019",
+            "end_date": "2019-10-27"
+        },
+        {
+            "link": "/overwatch/Tidal_Esports_T3_Community_Invitational/2019",
+            "end_date": "2019-10-06"
+        },
+        {
+            "link": "/overwatch/Overwatch_Thailand_Major/2019/Season_2",
+            "end_date": "2019-10-05"
+        },
+        {
+            "link": "/overwatch/European_Games_Week/2019",
+            "end_date": "2019-09-22"
+        },
+        {
+            "link": "/overwatch/MB_Invitational/Europe/2",
+            "end_date": "2019-09-22"
+        },
+        {
+            "link": "/overwatch/Blackwatch_Cup/Season_3",
+            "end_date": "2019-09-15"
+        },
+        {
+            "link": "/overwatch/Overwatch_Sigma_Southeast_Asia_Tournament",
+            "end_date": "2019-08-28"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena_Clash/2019/Summer/Challenger",
+            "end_date": "2019-08-26"
+        },
+        {
+            "link": "/overwatch/Insomnia/65",
+            "end_date": "2019-08-25"
+        },
+        {
+            "link": "/overwatch/Horizon_Community_Cup/4",
+            "end_date": "2019-07-21"
+        },
+        {
+            "link": "/overwatch/NFN_Invitational/4",
+            "end_date": "2019-07-16"
+        },
+        {
+            "link": "/overwatch/Overwatch_Thailand_Major/2019/Season_1",
+            "end_date": "2019-07-14"
+        },
+        {
+            "link": "/overwatch/Uniliga/Summer_2019/1st_League",
+            "end_date": "2019-07-09"
+        },
+        {
+            "link": "/overwatch/DreamHack/2019/Summer",
+            "end_date": "2019-06-16"
+        },
+        {
+            "link": "/overwatch/DreamHack/2019/Dallas",
+            "end_date": "2019-06-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_AllForOne/Season_1",
+            "end_date": "2019-06-01"
+        },
+        {
+            "link": "/overwatch/Nordsken_Community_Overwatch_Championship/2019",
+            "end_date": "2019-05-31"
+        },
+        {
+            "link": "/overwatch/Russian_Overwatch_Cup/Season_3/Pro",
+            "end_date": "2019-05-27"
+        },
+        {
+            "link": "/overwatch/NCS/Minor/Philadelphia",
+            "end_date": "2019-05-25"
+        },
+        {
+            "link": "/overwatch/Liga_Akademicka_Season_4",
+            "end_date": "2019-05-24"
+        },
+        {
+            "link": "/overwatch/North_Taiwan_Esports_League/5",
+            "end_date": "2019-05-19"
+        },
+        {
+            "link": "/overwatch/Mrsool_Overwatch_MENA_Community_Cup",
+            "end_date": "2019-05-15"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_2/China",
+            "end_date": "2019-05-12"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_2/Korea",
+            "end_date": "2019-05-05"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_2/Europe",
+            "end_date": "2019-04-28"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_2/Pacific",
+            "end_date": "2019-04-28"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_2/Australia",
+            "end_date": "2019-04-28"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_2/South_America",
+            "end_date": "2019-04-28"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_2/North_America",
+            "end_date": "2019-04-28"
+        },
+        {
+            "link": "/overwatch/Spring_Rally/2020/National",
+            "end_date": "2019-04-25"
+        },
+        {
+            "link": "/overwatch/Insomnia/64",
+            "end_date": "2019-04-21"
+        },
+        {
+            "link": "/overwatch/Tournament_of_Future_Champions/4/EU",
+            "end_date": "2019-03-31"
+        },
+        {
+            "link": "/overwatch/Electronic_Sports_Festival/2019",
+            "end_date": "2019-03-30"
+        },
+        {
+            "link": "/overwatch/Tournament_of_Future_Champions/4/NA",
+            "end_date": "2019-03-30"
+        },
+        {
+            "link": "/overwatch/NFN_Invitational/3",
+            "end_date": "2019-03-19"
+        },
+        {
+            "link": "/overwatch/EGE_Cup/2",
+            "end_date": "2019-03-17"
+        },
+        {
+            "link": "/overwatch/Asia_Community_Cup",
+            "end_date": "2019-03-10"
+        },
+        {
+            "link": "/overwatch/Blackwatch_Cup/Season_2",
+            "end_date": "2019-03-02"
+        },
+        {
+            "link": "/overwatch/CastersNest_Community_Cup/2",
+            "end_date": "2019-03-02"
+        },
+        {
+            "link": "/overwatch/UEG/Winter",
+            "end_date": "2019-02-14"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_1/Australia",
+            "end_date": "2019-02-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_Thailand_University_Tournament/2018",
+            "end_date": "2019-02-02"
+        },
+        {
+            "link": "/overwatch/Academy_Gaming_Overwatch/2019/January",
+            "end_date": "2019-01-28"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_1/Korea",
+            "end_date": "2019-01-27"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_1/Europe",
+            "end_date": "2019-01-27"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_1/Pacific",
+            "end_date": "2019-01-27"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_1/South_America",
+            "end_date": "2019-01-27"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_1/North_America",
+            "end_date": "2019-01-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_Andromeda/Season_1",
+            "end_date": "2019-01-26"
+        },
+        {
+            "link": "/overwatch/Jayne%27s_Tournament_of_Future_Champions/3/EU",
+            "end_date": "2019-01-20"
+        },
+        {
+            "link": "/overwatch/Jayne%27s_Tournament_of_Future_Champions/3/NA",
+            "end_date": "2019-01-19"
+        },
+        {
+            "link": "/overwatch/Open_Division/2019/Season_1/China",
+            "end_date": "2019-01-13"
+        },
+        {
+            "link": "/overwatch/Liga_Akademicka_Season_3",
+            "end_date": "2019-01-11"
+        }
     ]
 }

@@ -1,47 +1,176 @@
 {
-    "links": [
-        "/overwatch/DreamHack/2018/Winter",
-        "/overwatch/DreamHack/2018/Winter/Female",
-        "/overwatch/Jayne%27s_Tournament_of_Future_Champions/2",
-        "/overwatch/Dublin_Games_Festival/2018",
-        "/overwatch/CastersNest_Community_Cup/1",
-        "/overwatch/Angry_Cup/2018",
-        "/overwatch/GA%27lloween/2018",
-        "/overwatch/STAR_GAMERS_COMMUNITY_FESTIVAL/2",
-        "/overwatch/Overwatch_Thailand_Amateur_Community/Preseason_2019",
-        "/overwatch/Jayne%27s_Tournament_of_Future_Champions/1",
-        "/overwatch/Open_Division/2018/Season_3/Europe",
-        "/overwatch/Open_Division/2018/Season_2/China",
-        "/overwatch/Open_Division/2018/Season_3/Pacific",
-        "/overwatch/Open_Division/2018/Season_3/Australia",
-        "/overwatch/Open_Division/2018/Season_3/North_America",
-        "/overwatch/Open_Division/2018/Season_3/South_America",
-        "/overwatch/Open_Division/2018/Season_3/Korea",
-        "/overwatch/Insomnia/63",
-        "/overwatch/STAR_GAMERS_COMMUNITY_FESTIVAL/1",
-        "/overwatch/DreamHack/2018/Summer",
-        "/overwatch/DreamHack/2018/Summer/Female",
-        "/overwatch/Open_Division/2018/Season_2/Korea",
-        "/overwatch/Open_Division/2018/Season_1/China",
-        "/overwatch/Open_Division/2018/Season_2/Europe",
-        "/overwatch/Open_Division/2018/Season_2/Australia",
-        "/overwatch/Open_Division/2018/Season_2/North_America",
-        "/overwatch/Open_Division/2018/Season_2/South_America",
-        "/overwatch/Open_Division/2018/Season_2/Pacific",
-        "/overwatch/Go4Overwatch/Europe/Monthly/April_2018",
-        "/overwatch/Horizon_Community_Cup/1",
-        "/overwatch/XP_Overwatch_Cup",
-        "/overwatch/Go4Overwatch/Europe/Monthly/March_2018",
-        "/overwatch/Go4Overwatch/Europe/Monthly/February_2018",
-        "/overwatch/Go4Overwatch/Europe/Monthly/January_2018",
-        "/overwatch/Open_Division/2018/Season_1/Europe",
-        "/overwatch/Open_Division/2018/Season_1/Pacific",
-        "/overwatch/Open_Division/2018/Season_1/Australia",
-        "/overwatch/Open_Division/2018/Season_1/North_America",
-        "/overwatch/Open_Division/2018/Season_1/South_America",
-        "/overwatch/Open_Division/2018/Season_1/Korea",
-        "/overwatch/University_eSports_Germany_Overwatch/Season_1",
-        "/overwatch/Open_Division/2017/Season_3/China",
-        "/overwatch/Go4Overwatch/Europe/Monthly/December_2017"
+    "tournaments": [
+        {
+            "link": "/overwatch/DreamHack/2018/Winter",
+            "end_date": "2018-12-03"
+        },
+        {
+            "link": "/overwatch/DreamHack/2018/Winter/Female",
+            "end_date": "2018-12-02"
+        },
+        {
+            "link": "/overwatch/Jayne%27s_Tournament_of_Future_Champions/2",
+            "end_date": "2018-12-01"
+        },
+        {
+            "link": "/overwatch/Dublin_Games_Festival/2018",
+            "end_date": "2018-11-24"
+        },
+        {
+            "link": "/overwatch/CastersNest_Community_Cup/1",
+            "end_date": "2018-11-24"
+        },
+        {
+            "link": "/overwatch/Angry_Cup/2018",
+            "end_date": "2018-11-14"
+        },
+        {
+            "link": "/overwatch/GA%27lloween/2018",
+            "end_date": "2018-11-11"
+        },
+        {
+            "link": "/overwatch/STAR_GAMERS_COMMUNITY_FESTIVAL/2",
+            "end_date": "2018-10-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_Thailand_Amateur_Community/Preseason_2019",
+            "end_date": "2018-10-07"
+        },
+        {
+            "link": "/overwatch/Jayne%27s_Tournament_of_Future_Champions/1",
+            "end_date": "2018-10-01"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_3/Europe",
+            "end_date": "2018-09-30"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_2/China",
+            "end_date": "2018-09-23"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_3/Pacific",
+            "end_date": "2018-09-23"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_3/Australia",
+            "end_date": "2018-09-23"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_3/North_America",
+            "end_date": "2018-09-23"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_3/South_America",
+            "end_date": "2018-09-23"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_3/Korea",
+            "end_date": "2018-09-17"
+        },
+        {
+            "link": "/overwatch/Insomnia/63",
+            "end_date": "2018-08-24"
+        },
+        {
+            "link": "/overwatch/STAR_GAMERS_COMMUNITY_FESTIVAL/1",
+            "end_date": "2018-07-08"
+        },
+        {
+            "link": "/overwatch/DreamHack/2018/Summer",
+            "end_date": "2018-06-18"
+        },
+        {
+            "link": "/overwatch/DreamHack/2018/Summer/Female",
+            "end_date": "2018-06-18"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_2/Korea",
+            "end_date": "2018-05-27"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_1/China",
+            "end_date": "2018-05-27"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_2/Europe",
+            "end_date": "2018-05-27"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_2/Australia",
+            "end_date": "2018-05-27"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_2/North_America",
+            "end_date": "2018-05-27"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_2/South_America",
+            "end_date": "2018-05-27"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_2/Pacific",
+            "end_date": "2018-05-20"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Monthly/April_2018",
+            "end_date": "2018-05-13"
+        },
+        {
+            "link": "/overwatch/Horizon_Community_Cup/1",
+            "end_date": "2018-05-12"
+        },
+        {
+            "link": "/overwatch/XP_Overwatch_Cup",
+            "end_date": "2018-04-29"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Monthly/March_2018",
+            "end_date": "2018-04-09"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Monthly/February_2018",
+            "end_date": "2018-03-12"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Monthly/January_2018",
+            "end_date": "2018-02-12"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_1/Europe",
+            "end_date": "2018-02-11"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_1/Pacific",
+            "end_date": "2018-02-11"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_1/Australia",
+            "end_date": "2018-02-11"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_1/North_America",
+            "end_date": "2018-02-11"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_1/South_America",
+            "end_date": "2018-02-09"
+        },
+        {
+            "link": "/overwatch/Open_Division/2018/Season_1/Korea",
+            "end_date": "2018-02-04"
+        },
+        {
+            "link": "/overwatch/University_eSports_Germany_Overwatch/Season_1",
+            "end_date": "2018-01-17"
+        },
+        {
+            "link": "/overwatch/Open_Division/2017/Season_3/China",
+            "end_date": "2018-01-13"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Monthly/December_2017",
+            "end_date": "2018-01-08"
+        }
     ]
 }

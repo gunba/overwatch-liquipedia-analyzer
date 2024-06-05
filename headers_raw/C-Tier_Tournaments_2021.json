@@ -1,55 +1,208 @@
 {
-    "links": [
-        "/overwatch/Open_Division/2021/Season_3/China",
-        "/overwatch/Battle_Academy/Collegiate",
-        "/overwatch/Battle_Academy/High_School",
-        "/overwatch/Toronto_Defiant_Holiday_Bash",
-        "/overwatch/Retour_des_Heros_2",
-        "/overwatch/UGC_Collegiate_Fall_Season/Playoffs",
-        "/overwatch/Lakeside_Showdown/3",
-        "/overwatch/PantherLAN/2021/Fall",
-        "/overwatch/Will_English_IVitational/3/NA",
-        "/overwatch/Will_English_IVitational/3/EU",
-        "/overwatch/Retour_des_Heros",
-        "/overwatch/SwitzerLAN/2021",
-        "/overwatch/AFK_Overwatch_Community_/2_Playoffs",
-        "/overwatch/UGC_Collegiate_Fall_Season/Kickoff",
-        "/overwatch/Open_Division/2021/Season_3/Europe",
-        "/overwatch/Open_Division/2021/Season_3/North_America",
-        "/overwatch/DACH_DoKomi_Showdown_2021",
-        "/overwatch/Huya_Shining_Star_Cup",
-        "/overwatch/DreamHack_Beyond_Community_Clash_EU",
-        "/overwatch/WDG/OVERWATCH_School_Tournament/2021/Season_3",
-        "/overwatch/Uniliga/Summer_2021",
-        "/overwatch/Will_English_IVitational/Friends_and_Family",
-        "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.5",
-        "/overwatch/Open_Division/2021/Season_2/Asia_Pacific",
-        "/overwatch/Tranquility_Community_Open/2021",
-        "/overwatch/Open_Division/2021/Season_2/China",
-        "/overwatch/AFK_Overwatch_Community_Playoffs",
-        "/overwatch/Aurora_Cup/2021",
-        "/overwatch/WDG/OVERWATCH_School_Tournament/2021/Season_2",
-        "/overwatch/Open_Division/2021/Season_2/Europe",
-        "/overwatch/Open_Division/2021/Season_1/Asia_Pacific",
-        "/overwatch/Open_Division/2021/Season_2/North_America",
-        "/overwatch/Borbon_Open_Season_Zero",
-        "/overwatch/PantherLAN/2021/Spring",
-        "/overwatch/Will_English_IVitational/2/NA",
-        "/overwatch/Will_English_IVitational/2/EU",
-        "/overwatch/OPSE/2020-21",
-        "/overwatch/ASUES_Overwatch_Open_Tournament",
-        "/overwatch/Open_Division/2021/Season_1/China",
-        "/overwatch/Yi-Esport_Cup/Season_2",
-        "/overwatch/Open_Division/2021/Season_1/Europe",
-        "/overwatch/Open_Division/2021/Season_1/North_America",
-        "/overwatch/PA_Cup/2021",
-        "/overwatch/GAEOVA_2021/Season_1",
-        "/overwatch/WDG/OVERWATCH_School_Tournament/2021/Season_1",
-        "/overwatch/WDG/Overwatch_Japan_OPENTEST/2021/Season_1",
-        "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.4",
-        "/overwatch/Overwatch_Community_Winter_Cup",
-        "/overwatch/Uniliga/Winter_2020",
-        "/overwatch/Uniliga/Winter_2020/1st_League",
-        "/overwatch/Will_English_IVitational/1"
+    "tournaments": [
+        {
+            "link": "/overwatch/Open_Division/2021/Season_3/China",
+            "end_date": "2021-12-19"
+        },
+        {
+            "link": "/overwatch/Battle_Academy/Collegiate",
+            "end_date": "2021-12-16"
+        },
+        {
+            "link": "/overwatch/Battle_Academy/High_School",
+            "end_date": "2021-12-16"
+        },
+        {
+            "link": "/overwatch/Toronto_Defiant_Holiday_Bash",
+            "end_date": "2021-12-12"
+        },
+        {
+            "link": "/overwatch/Retour_des_Heros_2",
+            "end_date": "2021-12-04"
+        },
+        {
+            "link": "/overwatch/UGC_Collegiate_Fall_Season/Playoffs",
+            "end_date": "2021-11-30"
+        },
+        {
+            "link": "/overwatch/Lakeside_Showdown/3",
+            "end_date": "2021-11-14"
+        },
+        {
+            "link": "/overwatch/PantherLAN/2021/Fall",
+            "end_date": "2021-11-07"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/3/NA",
+            "end_date": "2021-10-17"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/3/EU",
+            "end_date": "2021-10-17"
+        },
+        {
+            "link": "/overwatch/Retour_des_Heros",
+            "end_date": "2021-10-16"
+        },
+        {
+            "link": "/overwatch/SwitzerLAN/2021",
+            "end_date": "2021-10-03"
+        },
+        {
+            "link": "/overwatch/AFK_Overwatch_Community_/2_Playoffs",
+            "end_date": "2021-09-16"
+        },
+        {
+            "link": "/overwatch/UGC_Collegiate_Fall_Season/Kickoff",
+            "end_date": "2021-09-09"
+        },
+        {
+            "link": "/overwatch/Open_Division/2021/Season_3/Europe",
+            "end_date": "2021-08-08"
+        },
+        {
+            "link": "/overwatch/Open_Division/2021/Season_3/North_America",
+            "end_date": "2021-08-08"
+        },
+        {
+            "link": "/overwatch/DACH_DoKomi_Showdown_2021",
+            "end_date": "2021-08-08"
+        },
+        {
+            "link": "/overwatch/Huya_Shining_Star_Cup",
+            "end_date": "2021-07-30"
+        },
+        {
+            "link": "/overwatch/DreamHack_Beyond_Community_Clash_EU",
+            "end_date": "2021-07-29"
+        },
+        {
+            "link": "/overwatch/WDG/OVERWATCH_School_Tournament/2021/Season_3",
+            "end_date": "2021-07-25"
+        },
+        {
+            "link": "/overwatch/Uniliga/Summer_2021",
+            "end_date": "2021-07-21"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/Friends_and_Family",
+            "end_date": "2021-07-18"
+        },
+        {
+            "link": "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.5",
+            "end_date": "2021-07-16"
+        },
+        {
+            "link": "/overwatch/Open_Division/2021/Season_2/Asia_Pacific",
+            "end_date": "2021-07-04"
+        },
+        {
+            "link": "/overwatch/Tranquility_Community_Open/2021",
+            "end_date": "2021-06-26"
+        },
+        {
+            "link": "/overwatch/Open_Division/2021/Season_2/China",
+            "end_date": "2021-06-20"
+        },
+        {
+            "link": "/overwatch/AFK_Overwatch_Community_Playoffs",
+            "end_date": "2021-06-19"
+        },
+        {
+            "link": "/overwatch/Aurora_Cup/2021",
+            "end_date": "2021-06-11"
+        },
+        {
+            "link": "/overwatch/WDG/OVERWATCH_School_Tournament/2021/Season_2",
+            "end_date": "2021-05-31"
+        },
+        {
+            "link": "/overwatch/Open_Division/2021/Season_2/Europe",
+            "end_date": "2021-05-16"
+        },
+        {
+            "link": "/overwatch/Open_Division/2021/Season_1/Asia_Pacific",
+            "end_date": "2021-05-16"
+        },
+        {
+            "link": "/overwatch/Open_Division/2021/Season_2/North_America",
+            "end_date": "2021-05-16"
+        },
+        {
+            "link": "/overwatch/Borbon_Open_Season_Zero",
+            "end_date": "2021-04-16"
+        },
+        {
+            "link": "/overwatch/PantherLAN/2021/Spring",
+            "end_date": "2021-04-11"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/2/NA",
+            "end_date": "2021-04-11"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/2/EU",
+            "end_date": "2021-04-11"
+        },
+        {
+            "link": "/overwatch/OPSE/2020-21",
+            "end_date": "2021-03-23"
+        },
+        {
+            "link": "/overwatch/ASUES_Overwatch_Open_Tournament",
+            "end_date": "2021-03-14"
+        },
+        {
+            "link": "/overwatch/Open_Division/2021/Season_1/China",
+            "end_date": "2021-03-14"
+        },
+        {
+            "link": "/overwatch/Yi-Esport_Cup/Season_2",
+            "end_date": "2021-03-12"
+        },
+        {
+            "link": "/overwatch/Open_Division/2021/Season_1/Europe",
+            "end_date": "2021-02-28"
+        },
+        {
+            "link": "/overwatch/Open_Division/2021/Season_1/North_America",
+            "end_date": "2021-02-28"
+        },
+        {
+            "link": "/overwatch/PA_Cup/2021",
+            "end_date": "2021-02-27"
+        },
+        {
+            "link": "/overwatch/GAEOVA_2021/Season_1",
+            "end_date": "2021-02-27"
+        },
+        {
+            "link": "/overwatch/WDG/OVERWATCH_School_Tournament/2021/Season_1",
+            "end_date": "2021-02-21"
+        },
+        {
+            "link": "/overwatch/WDG/Overwatch_Japan_OPENTEST/2021/Season_1",
+            "end_date": "2021-02-19"
+        },
+        {
+            "link": "/overwatch/WDG/OVERWATCH_OPENTEST/2021/ep.4",
+            "end_date": "2021-02-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_Community_Winter_Cup",
+            "end_date": "2021-01-31"
+        },
+        {
+            "link": "/overwatch/Uniliga/Winter_2020",
+            "end_date": "2021-01-30"
+        },
+        {
+            "link": "/overwatch/Uniliga/Winter_2020/1st_League",
+            "end_date": "2021-01-27"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/1",
+            "end_date": "2021-01-17"
+        }
     ]
 }

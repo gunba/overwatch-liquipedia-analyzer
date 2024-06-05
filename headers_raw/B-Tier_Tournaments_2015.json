@@ -1,7 +1,16 @@
 {
-    "links": [
-        "/overwatch/GD_Overwatch_EU_Laststand",
-        "/overwatch/ESL_Overwatch_Atlantic_Invitational",
-        "/overwatch/The_a-MEi-zing_Tournament"
+    "tournaments": [
+        {
+            "link": "/overwatch/GD_Overwatch_EU_Laststand",
+            "end_date": "2015-12-09"
+        },
+        {
+            "link": "/overwatch/ESL_Overwatch_Atlantic_Invitational",
+            "end_date": "2015-12-07"
+        },
+        {
+            "link": "/overwatch/The_a-MEi-zing_Tournament",
+            "end_date": "2015-11-22"
+        }
     ]
 }

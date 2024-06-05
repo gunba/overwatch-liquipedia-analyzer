@@ -1,81 +1,312 @@
 {
-    "links": [
-        "/overwatch/CUOL/2023/Qualifier",
-        "/overwatch/EGoG_community_open_cup_2/Qualifiers",
-        "/overwatch/Overwatch_2_Pacific_Youth_Qualifier",
-        "/overwatch/NECC/2023/Fall/Regular_Season_Playoffs/Legends",
-        "/overwatch/NECC/2023/Fall/Regular_Season_Playoffs/Champions_Central",
-        "/overwatch/Flash_Ops/Holiday_Showdown/APAC/Korea",
-        "/overwatch/Battle_for_Canada/Toronto_Defiant_Division",
-        "/overwatch/Battle_for_Canada/Vancouver_Titans_Division",
-        "/overwatch/Overwatch_Swiss_Elite_Series/Swiss",
-        "/overwatch/Flash_Ops/Holiday_Showdown/APAC/Southeast_Asia",
-        "/overwatch/Flash_Ops/Holiday_Showdown/APAC/Japan",
-        "/overwatch/Flash_Ops/Holiday_Showdown/NA/Swiss",
-        "/overwatch/Flash_Ops/Holiday_Showdown/EMEA/Swiss",
-        "/overwatch/CECC/2024/Midwest",
-        "/overwatch/Saudi_eLeague/2023/Season_2_Open_Qualifier",
-        "/overwatch/Neko_Fall_Series",
-        "/overwatch/CECC/2024/East",
-        "/overwatch/North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier",
-        "/overwatch/University_of_Kentucky_Overwatch_Fall_Invitational/2023/Qualifier",
-        "/overwatch/Overwatch_Collegiate_Homecoming/2023/Swiss",
-        "/overwatch/CECC/2024/East/Qualifier",
-        "/overwatch/KMA_Blizztour_4/Qualifier_1",
-        "/overwatch/KMA_Blizztour_4/Qualifier_2",
-        "/overwatch/CECC/2024/Midwest/Qualifier",
-        "/overwatch/Overwatch_League/Season_6/Play-Ins",
-        "/overwatch/Overwatch_League/Season_6/Summer_Stage/Knockouts",
-        "/overwatch/Overwatch_League/Season_6/Summer_Stage/Qualifiers",
-        "/overwatch/AIS_5G_eSports_OPEN_Series",
-        "/overwatch/Overwatch_League/Season_6/Summer_Stage/Opens",
-        "/overwatch/KMA_Esports_Summer_Fest/Qualifier_2",
-        "/overwatch/Overwatch_World_Cup/2023/Americas_Conference",
-        "/overwatch/Overwatch_World_Cup/2023/Asia-Pacific_Conference",
-        "/overwatch/Overwatch_World_Cup/2023/Europe_and_Middle_East_Conference",
-        "/overwatch/KMA_Esports_Summer_Fest/Qualifier_1",
-        "/overwatch/Neko_League/Season_2/Division_2/Play-in",
-        "/overwatch/Overwatch_League/Season_6/Spring_Stage/Knockouts",
-        "/overwatch/Overwatch_League/Season_6/Spring_Stage/Qualifiers",
-        "/overwatch/Lidoma_Esport/2023/Revolution_Community_CUP_Open_Qualifier",
-        "/overwatch/Overwatch_World_Cup/2023/Wild_Card_Qualifier",
-        "/overwatch/NECC/2023/Spring/Regular_Season_Playoffs/Legends_West",
-        "/overwatch/NECC/2023/Spring/Regular_Season_Playoffs/Champions_Pacific_Frontier",
-        "/overwatch/NECC/2023/Spring/Regular_Season_Playoffs/Emergents_Southeast",
-        "/overwatch/Overwatch_League/Season_6/Spring_Stage/Opens",
-        "/overwatch/NECC/2023/Spring/Regular_Season_Playoffs/Legends_East",
-        "/overwatch/ESC/2023/Playoffs",
-        "/overwatch/Saudi_eLeague/2023/Season_1_Open_Qualifier",
-        "/overwatch/Generation_Esports/Summit/Last_Chance_Qualifier",
-        "/overwatch/ESC/2023/Qualifier",
-        "/overwatch/Overwatch_Collegiate_Championship/2023/Group_Stage",
-        "/overwatch/CECC/2023/Last_Chance_Qualifier",
-        "/overwatch/NACE_Starleague/2023/Spring/Varsity/Last_Chance_Qualifier",
-        "/overwatch/CECC/2023/Midwest",
-        "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_1",
-        "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_2",
-        "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_3",
-        "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_4",
-        "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_5",
-        "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_6",
-        "/overwatch/NACE_Starleague/2023/Spring/Varsity/West-Central",
-        "/overwatch/NACE_Starleague/2023/Spring/Open/Last_Chance_Qualifier",
-        "/overwatch/CECC/2023/Canada",
-        "/overwatch/Generation_Esports/Summit/Qualifier_2",
-        "/overwatch/Overwatch_Collegiate_Championship/2023/Swiss",
-        "/overwatch/University_of_Kentucky_Overwatch_Spring_Invitational/2023/Qualifier",
-        "/overwatch/Overwatch_League/Season_6/Pro-Am/Qualifier/EMEA",
-        "/overwatch/Overwatch_League/Season_6/Pro-Am/Qualifier/North_America",
-        "/overwatch/CECC/2023/West",
-        "/overwatch/CECC/2023/Midwest/Qualifier",
-        "/overwatch/Generation_Esports/Summit/Qualifier_1",
-        "/overwatch/Intel_Inspires/Collegiate/Wildcard",
-        "/overwatch/CECC/2023/West/Qualifier",
-        "/overwatch/Battle_for_the_Midwest/5/Qualifier",
-        "/overwatch/European_Invitational/Last_Chance_Qualifier",
-        "/overwatch/Intel_Inspires/High_School/Wildcard",
-        "/overwatch/European_Invitational/Closed_Qualifier",
-        "/overwatch/European_Invitational/Open_Qualifier",
-        "/overwatch/Intel_Inspires/High_School/Qualifier"
+    "tournaments": [
+        {
+            "link": "/overwatch/CUOL/2023/Qualifier",
+            "end_date": "2023-12-28"
+        },
+        {
+            "link": "/overwatch/EGoG_community_open_cup_2/Qualifiers",
+            "end_date": "2023-12-17"
+        },
+        {
+            "link": "/overwatch/Overwatch_2_Pacific_Youth_Qualifier",
+            "end_date": "2023-12-13"
+        },
+        {
+            "link": "/overwatch/NECC/2023/Fall/Regular_Season_Playoffs/Legends",
+            "end_date": "2023-12-07"
+        },
+        {
+            "link": "/overwatch/NECC/2023/Fall/Regular_Season_Playoffs/Champions_Central",
+            "end_date": "2023-12-07"
+        },
+        {
+            "link": "/overwatch/Flash_Ops/Holiday_Showdown/APAC/Korea",
+            "end_date": "2023-12-03"
+        },
+        {
+            "link": "/overwatch/Battle_for_Canada/Toronto_Defiant_Division",
+            "end_date": "2023-12-02"
+        },
+        {
+            "link": "/overwatch/Battle_for_Canada/Vancouver_Titans_Division",
+            "end_date": "2023-12-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_Swiss_Elite_Series/Swiss",
+            "end_date": "2023-11-26"
+        },
+        {
+            "link": "/overwatch/Flash_Ops/Holiday_Showdown/APAC/Southeast_Asia",
+            "end_date": "2023-11-25"
+        },
+        {
+            "link": "/overwatch/Flash_Ops/Holiday_Showdown/APAC/Japan",
+            "end_date": "2023-11-25"
+        },
+        {
+            "link": "/overwatch/Flash_Ops/Holiday_Showdown/NA/Swiss",
+            "end_date": "2023-11-19"
+        },
+        {
+            "link": "/overwatch/Flash_Ops/Holiday_Showdown/EMEA/Swiss",
+            "end_date": "2023-11-19"
+        },
+        {
+            "link": "/overwatch/CECC/2024/Midwest",
+            "end_date": "2023-11-18"
+        },
+        {
+            "link": "/overwatch/Saudi_eLeague/2023/Season_2_Open_Qualifier",
+            "end_date": "2023-11-14"
+        },
+        {
+            "link": "/overwatch/Neko_Fall_Series",
+            "end_date": "2023-11-05"
+        },
+        {
+            "link": "/overwatch/CECC/2024/East",
+            "end_date": "2023-10-29"
+        },
+        {
+            "link": "/overwatch/North_Carolina_Varsity_Esports_and_STEM_League/Season_2/Qualifier",
+            "end_date": "2023-10-26"
+        },
+        {
+            "link": "/overwatch/University_of_Kentucky_Overwatch_Fall_Invitational/2023/Qualifier",
+            "end_date": "2023-10-25"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Homecoming/2023/Swiss",
+            "end_date": "2023-10-07"
+        },
+        {
+            "link": "/overwatch/CECC/2024/East/Qualifier",
+            "end_date": "2023-10-01"
+        },
+        {
+            "link": "/overwatch/KMA_Blizztour_4/Qualifier_1",
+            "end_date": "2023-09-30"
+        },
+        {
+            "link": "/overwatch/KMA_Blizztour_4/Qualifier_2",
+            "end_date": "2023-09-30"
+        },
+        {
+            "link": "/overwatch/CECC/2024/Midwest/Qualifier",
+            "end_date": "2023-09-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Play-Ins",
+            "end_date": "2023-09-17"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Summer_Stage/Knockouts",
+            "end_date": "2023-09-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Summer_Stage/Qualifiers",
+            "end_date": "2023-09-03"
+        },
+        {
+            "link": "/overwatch/AIS_5G_eSports_OPEN_Series",
+            "end_date": "2023-07-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Summer_Stage/Opens",
+            "end_date": "2023-07-13"
+        },
+        {
+            "link": "/overwatch/KMA_Esports_Summer_Fest/Qualifier_2",
+            "end_date": "2023-07-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Americas_Conference",
+            "end_date": "2023-07-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Asia-Pacific_Conference",
+            "end_date": "2023-07-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Europe_and_Middle_East_Conference",
+            "end_date": "2023-07-02"
+        },
+        {
+            "link": "/overwatch/KMA_Esports_Summer_Fest/Qualifier_1",
+            "end_date": "2023-07-01"
+        },
+        {
+            "link": "/overwatch/Neko_League/Season_2/Division_2/Play-in",
+            "end_date": "2023-06-30"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Spring_Stage/Knockouts",
+            "end_date": "2023-06-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Spring_Stage/Qualifiers",
+            "end_date": "2023-05-28"
+        },
+        {
+            "link": "/overwatch/Lidoma_Esport/2023/Revolution_Community_CUP_Open_Qualifier",
+            "end_date": "2023-05-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Wild_Card_Qualifier",
+            "end_date": "2023-05-18"
+        },
+        {
+            "link": "/overwatch/NECC/2023/Spring/Regular_Season_Playoffs/Legends_West",
+            "end_date": "2023-05-04"
+        },
+        {
+            "link": "/overwatch/NECC/2023/Spring/Regular_Season_Playoffs/Champions_Pacific_Frontier",
+            "end_date": "2023-05-04"
+        },
+        {
+            "link": "/overwatch/NECC/2023/Spring/Regular_Season_Playoffs/Emergents_Southeast",
+            "end_date": "2023-05-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Spring_Stage/Opens",
+            "end_date": "2023-05-02"
+        },
+        {
+            "link": "/overwatch/NECC/2023/Spring/Regular_Season_Playoffs/Legends_East",
+            "end_date": "2023-05-01"
+        },
+        {
+            "link": "/overwatch/ESC/2023/Playoffs",
+            "end_date": "2023-04-29"
+        },
+        {
+            "link": "/overwatch/Saudi_eLeague/2023/Season_1_Open_Qualifier",
+            "end_date": "2023-04-19"
+        },
+        {
+            "link": "/overwatch/Generation_Esports/Summit/Last_Chance_Qualifier",
+            "end_date": "2023-04-15"
+        },
+        {
+            "link": "/overwatch/ESC/2023/Qualifier",
+            "end_date": "2023-04-11"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Championship/2023/Group_Stage",
+            "end_date": "2023-04-09"
+        },
+        {
+            "link": "/overwatch/CECC/2023/Last_Chance_Qualifier",
+            "end_date": "2023-04-04"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Spring/Varsity/Last_Chance_Qualifier",
+            "end_date": "2023-04-02"
+        },
+        {
+            "link": "/overwatch/CECC/2023/Midwest",
+            "end_date": "2023-03-26"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_1",
+            "end_date": "2023-03-25"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_2",
+            "end_date": "2023-03-25"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_3",
+            "end_date": "2023-03-25"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_4",
+            "end_date": "2023-03-25"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_5",
+            "end_date": "2023-03-25"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Spring/Varsity/East_6",
+            "end_date": "2023-03-25"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Spring/Varsity/West-Central",
+            "end_date": "2023-03-25"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2023/Spring/Open/Last_Chance_Qualifier",
+            "end_date": "2023-03-21"
+        },
+        {
+            "link": "/overwatch/CECC/2023/Canada",
+            "end_date": "2023-03-19"
+        },
+        {
+            "link": "/overwatch/Generation_Esports/Summit/Qualifier_2",
+            "end_date": "2023-03-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Championship/2023/Swiss",
+            "end_date": "2023-03-18"
+        },
+        {
+            "link": "/overwatch/University_of_Kentucky_Overwatch_Spring_Invitational/2023/Qualifier",
+            "end_date": "2023-03-15"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Pro-Am/Qualifier/EMEA",
+            "end_date": "2023-03-12"
+        },
+        {
+            "link": "/overwatch/Overwatch_League/Season_6/Pro-Am/Qualifier/North_America",
+            "end_date": "2023-03-12"
+        },
+        {
+            "link": "/overwatch/CECC/2023/West",
+            "end_date": "2023-03-05"
+        },
+        {
+            "link": "/overwatch/CECC/2023/Midwest/Qualifier",
+            "end_date": "2023-02-19"
+        },
+        {
+            "link": "/overwatch/Generation_Esports/Summit/Qualifier_1",
+            "end_date": "2023-02-19"
+        },
+        {
+            "link": "/overwatch/Intel_Inspires/Collegiate/Wildcard",
+            "end_date": "2023-02-18"
+        },
+        {
+            "link": "/overwatch/CECC/2023/West/Qualifier",
+            "end_date": "2023-02-05"
+        },
+        {
+            "link": "/overwatch/Battle_for_the_Midwest/5/Qualifier",
+            "end_date": "2023-02-05"
+        },
+        {
+            "link": "/overwatch/European_Invitational/Last_Chance_Qualifier",
+            "end_date": "2023-02-05"
+        },
+        {
+            "link": "/overwatch/Intel_Inspires/High_School/Wildcard",
+            "end_date": "2023-02-04"
+        },
+        {
+            "link": "/overwatch/European_Invitational/Closed_Qualifier",
+            "end_date": "2023-02-02"
+        },
+        {
+            "link": "/overwatch/European_Invitational/Open_Qualifier",
+            "end_date": "2023-01-22"
+        },
+        {
+            "link": "/overwatch/Intel_Inspires/High_School/Qualifier",
+            "end_date": "2023-01-14"
+        }
     ]
 }

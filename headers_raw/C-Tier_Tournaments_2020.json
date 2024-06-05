@@ -1,53 +1,200 @@
 {
-    "links": [
-        "/overwatch/Yi-Esport_Cup/Season_1",
-        "/overwatch/Goatsmas_Community_Cup_2020",
-        "/overwatch/Tranquility_Community_Open/2020",
-        "/overwatch/Open_Division/2020/Season_3/Australia",
-        "/overwatch/Open_Division/2020/Season_5/South_America",
-        "/overwatch/AFK_Opening_Cup",
-        "/overwatch/Overwatch_Community_Cup",
-        "/overwatch/PantherLAN/2020/Fall",
-        "/overwatch/MB_Banana_Brawl",
-        "/overwatch/Trial_of_Champions/2020/October",
-        "/overwatch/Open_Division/2020/Season_5/Europe",
-        "/overwatch/Open_Division/2020/Season_5/North_America",
-        "/overwatch/SwitzerLAN/2020",
-        "/overwatch/EBC/2020/EMEA/Regionals/Eastern",
-        "/overwatch/EBC/2020/EMEA/Regionals/Nordic",
-        "/overwatch/EBC/2020/EMEA/Regionals/Mediterranean",
-        "/overwatch/Open_Division/2020/Season_4/China",
-        "/overwatch/Open_Division/2020/Season_4/South_America",
-        "/overwatch/EBC/2020/EMEA/Regionals/Atlantic",
-        "/overwatch/EBC/2020/EMEA/Regionals/Middle_East_%26_Africa",
-        "/overwatch/Open_Division/2020/Season_4/Europe",
-        "/overwatch/Open_Division/2020/Season_4/North_America",
-        "/overwatch/EBC/2020/EMEA/Regionals/Central",
-        "/overwatch/Open_Division/2020/Season_3/Europe",
-        "/overwatch/Open_Division/2020/Season_3/North_America",
-        "/overwatch/Trial_of_Champions/2020/July",
-        "/overwatch/Open_Division/2020/Season_3/Korea",
-        "/overwatch/Huya_Recalling_Cup_Overwatch_Streamers_Bounty_Competition",
-        "/overwatch/Uniliga/Summer_2020/1st_League",
-        "/overwatch/Open_Division/2020/Season_3/South_America",
-        "/overwatch/Open_Division/2020/Season_3/China",
-        "/overwatch/Virtuaalirama_Overwatch",
-        "/overwatch/PantherLAN/2020_/Spring",
-        "/overwatch/Open_Division/2020/Season_2/Europe",
-        "/overwatch/Open_Division/2020/Season_2/North_America",
-        "/overwatch/Overwatch_Community_-_Rally_for_Representation",
-        "/overwatch/Open_Division/2020/Season_2/South_America",
-        "/overwatch/Open_Division/2020/Season_2/Korea",
-        "/overwatch/Open_Division/2020/Season_2/Pacific",
-        "/overwatch/Open_Division/2020/Season_2/Australia",
-        "/overwatch/Open_Division/2020/Season_2/China",
-        "/overwatch/Open_Division/2020/Season_1/Korea",
-        "/overwatch/Open_Division/2020/Season_1/Europe",
-        "/overwatch/Open_Division/2020/Season_1/North_America",
-        "/overwatch/Open_Division/2020/Season_1/South_America",
-        "/overwatch/Open_Division/2020/Season_1/Pacific",
-        "/overwatch/Open_Division/2020/Season_1/Australia",
-        "/overwatch/Uniliga/Winter_2019/1st_League",
-        "/overwatch/Open_Division/2020/Season_1/China"
+    "tournaments": [
+        {
+            "link": "/overwatch/Yi-Esport_Cup/Season_1",
+            "end_date": "2020-12-27"
+        },
+        {
+            "link": "/overwatch/Goatsmas_Community_Cup_2020",
+            "end_date": "2020-12-20"
+        },
+        {
+            "link": "/overwatch/Tranquility_Community_Open/2020",
+            "end_date": "2020-12-19"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_3/Australia",
+            "end_date": "2020-12-13"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_5/South_America",
+            "end_date": "2020-11-29"
+        },
+        {
+            "link": "/overwatch/AFK_Opening_Cup",
+            "end_date": "2020-11-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_Community_Cup",
+            "end_date": "2020-11-08"
+        },
+        {
+            "link": "/overwatch/PantherLAN/2020/Fall",
+            "end_date": "2020-11-01"
+        },
+        {
+            "link": "/overwatch/MB_Banana_Brawl",
+            "end_date": "2020-10-25"
+        },
+        {
+            "link": "/overwatch/Trial_of_Champions/2020/October",
+            "end_date": "2020-10-25"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_5/Europe",
+            "end_date": "2020-10-11"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_5/North_America",
+            "end_date": "2020-10-11"
+        },
+        {
+            "link": "/overwatch/SwitzerLAN/2020",
+            "end_date": "2020-10-10"
+        },
+        {
+            "link": "/overwatch/EBC/2020/EMEA/Regionals/Eastern",
+            "end_date": "2020-09-20"
+        },
+        {
+            "link": "/overwatch/EBC/2020/EMEA/Regionals/Nordic",
+            "end_date": "2020-09-13"
+        },
+        {
+            "link": "/overwatch/EBC/2020/EMEA/Regionals/Mediterranean",
+            "end_date": "2020-09-13"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_4/China",
+            "end_date": "2020-09-07"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_4/South_America",
+            "end_date": "2020-09-06"
+        },
+        {
+            "link": "/overwatch/EBC/2020/EMEA/Regionals/Atlantic",
+            "end_date": "2020-08-30"
+        },
+        {
+            "link": "/overwatch/EBC/2020/EMEA/Regionals/Middle_East_%26_Africa",
+            "end_date": "2020-08-30"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_4/Europe",
+            "end_date": "2020-08-23"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_4/North_America",
+            "end_date": "2020-08-23"
+        },
+        {
+            "link": "/overwatch/EBC/2020/EMEA/Regionals/Central",
+            "end_date": "2020-08-14"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_3/Europe",
+            "end_date": "2020-07-26"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_3/North_America",
+            "end_date": "2020-07-26"
+        },
+        {
+            "link": "/overwatch/Trial_of_Champions/2020/July",
+            "end_date": "2020-07-23"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_3/Korea",
+            "end_date": "2020-07-18"
+        },
+        {
+            "link": "/overwatch/Huya_Recalling_Cup_Overwatch_Streamers_Bounty_Competition",
+            "end_date": "2020-07-18"
+        },
+        {
+            "link": "/overwatch/Uniliga/Summer_2020/1st_League",
+            "end_date": "2020-07-15"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_3/South_America",
+            "end_date": "2020-07-12"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_3/China",
+            "end_date": "2020-06-28"
+        },
+        {
+            "link": "/overwatch/Virtuaalirama_Overwatch",
+            "end_date": "2020-06-05"
+        },
+        {
+            "link": "/overwatch/PantherLAN/2020_/Spring",
+            "end_date": "2020-04-29"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_2/Europe",
+            "end_date": "2020-04-26"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_2/North_America",
+            "end_date": "2020-04-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_Community_-_Rally_for_Representation",
+            "end_date": "2020-04-26"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_2/South_America",
+            "end_date": "2020-04-19"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_2/Korea",
+            "end_date": "2020-04-12"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_2/Pacific",
+            "end_date": "2020-04-12"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_2/Australia",
+            "end_date": "2020-04-12"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_2/China",
+            "end_date": "2020-04-06"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_1/Korea",
+            "end_date": "2020-02-23"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_1/Europe",
+            "end_date": "2020-02-23"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_1/North_America",
+            "end_date": "2020-02-23"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_1/South_America",
+            "end_date": "2020-02-23"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_1/Pacific",
+            "end_date": "2020-02-16"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_1/Australia",
+            "end_date": "2020-02-16"
+        },
+        {
+            "link": "/overwatch/Uniliga/Winter_2019/1st_League",
+            "end_date": "2020-02-05"
+        },
+        {
+            "link": "/overwatch/Open_Division/2020/Season_1/China",
+            "end_date": "2020-01-19"
+        }
     ]
 }

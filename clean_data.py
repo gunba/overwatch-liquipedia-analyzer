@@ -22,29 +22,54 @@ def split_key_value(key, value):
         return {key: value}
 
 
+def convert_score(score):
+    """Converts special score strings to numerical values."""
+    valid_scores = ["W", "FF", "DQ", "L"]
+    if score in valid_scores:
+        return 1 if score == "W" else 0
+    if score.isdigit():
+        return int(score)
+    return 0  # Invalid or missing score
+
+
 def process_special_elements(key, value):
     """Processes special elements in double curly brackets."""
-    if "{{Abbr/" in value:
-        abbr_match = re.match(r"(.+?)\s\{\{Abbr\/(.*?)\}\}", value)
+    if "{{abbr/" in value.lower():
+        abbr_match = re.match(
+            r"(.+?)\s*\{\{abbr\/(.*?)\}\}\s*", value, re.IGNORECASE
+        )
         if abbr_match:
             return {
                 key: abbr_match.group(1).strip(),
                 f"{key}_timezone": abbr_match.group(2).strip(),
             }
-    elif re.match(r"\{\{TeamOpponent\|", value):
+    elif re.match(r"\{\{(?:TeamOpponent|LiteralOpponent)\|", value):
         opponent_match = re.match(
-            r"\{\{TeamOpponent\|(.*?)(?:\|score=(\d+))?\}\}", value
+            r"\{\{(?:TeamOpponent|LiteralOpponent)\|(.*?)(?:\|score=([^|]*))?\}\}",
+            value,
         )
         if opponent_match:
             result = {key: opponent_match.group(1).strip()}
-            if opponent_match.group(2):
-                result[f"{key}_score"] = int(opponent_match.group(2))
+            if opponent_match.group(2) is not None:
+                score = opponent_match.group(2).split("|")[0].strip()
+                result[f"{key}_score"] = convert_score(score)
             return result
-    elif re.match(r"\{\{map\|", value, re.IGNORECASE):
-        map_details = re.findall(r"(\w+)=(.*?)(?:\||\}\})", value)
-        map_dict = {k: v for k, v in map_details}
+    elif re.match(r".*\{\{map\|", value, re.IGNORECASE):
+        # Extract the map part only
+        map_part = re.search(r"\{\{map\|.*", value, re.IGNORECASE).group()
+        map_details = re.findall(r"(\w+)=(.*?)(?:\||\}\})", map_part)
+        map_dict = {normalize_score_key(k): v for k, v in map_details}
         return {key: map_dict}
     return {key: value}
+
+
+def normalize_score_key(key):
+    """Normalizes score keys to a standard format."""
+    if key == "score":
+        return "score1"
+    elif key == "score2":
+        return "score2"
+    return key
 
 
 def process_dict(d):
@@ -94,17 +119,22 @@ if __name__ == "__main__":
         "qualifier": "[[Overwatch_Champions_Series/2024/North_America/Stage_2/Main_Event|NA Stage 2]]",
         "placement": "1",
         "bestof": "5",
-        "date": "May 31, 2024 - 13:45 {{Abbr/PDT}}",
+        "date": "May 31, 2024 - 13:45  {{Abbr/PDT}}",
         "youtube": "|twitch=ow_esports2",
         "mvp": "",
         "opponent1": "{{TeamOpponent|Spacestation Gaming}}",
         "opponent2": "{{TeamOpponent|NRG Shock|score=3}}",
         "map1": "{{Map|map=Antarctic Peninsula|mode=Control|score1=2|score2=0|winner=1}}",
         "map2": "{{Map|map=Midtown|mode=Hybrid|score1=3|score2=0|winner=1}}",
-        "map3": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=1|winner=1}}",
+        "map3": "{{Map|map=Watchpoint: Gibraltar|mode=Escort|score=0|score2=3|winner=2}}",
         "comment": "Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}",
         "optional": "R1M1=",
         "map4": "{{map|map=Dorado|mode=Escort|score1=2|score2=1|winner=1}}",
+        "opponent3": "{{TeamOpponent|Strawberry Stranglers|score=FF}}",
+        "opponent4": "Project Flying|score=W|walkover=1",
+        "opponent5": "{{LiteralOpponent|Test Opponent|score=}}",
+        "opponent6": "{{TeamOpponent|ngred|score=-}}",
+        "extra": "MerryGo{{Map|map=|mode=|score1=|score2=|winner=}}",
     }
 
     processed_data = clean_json(data)

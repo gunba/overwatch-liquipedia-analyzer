@@ -1,97 +1,376 @@
 {
-    "links": [
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/12",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/12",
-        "/overwatch/Cloud_Charity_Cup",
-        "/overwatch/TEN_FPS_SPECIAL/2022",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/11",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/11",
-        "/overwatch/HyperX_Esports_Arena/Overwatch_2/3",
-        "/overwatch/EGL_Community_Recall/1",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/10",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/10",
-        "/overwatch/Mid-Atlantic_Esports_Conference",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/9",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/9",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/8",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/8",
-        "/overwatch/KFUPM_Tournament",
-        "/overwatch/An4rcup",
-        "/overwatch/Jack_Link%27s_Wild_Side_Rumble",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/7",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/7",
-        "/overwatch/Zhaoyun_Cup",
-        "/overwatch/Esports_Arena_Chicago_Tuesday",
-        "/overwatch/Boston_Uprising_Collegiate_Cup/2022/Fall",
-        "/overwatch/Esports_Players_Club_Overwatch_2_Tournament",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/6",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/6",
-        "/overwatch/Brhm_Tournament",
-        "/overwatch/HyperX_Esports_Arena/College_Night:_Recall/2",
-        "/overwatch/Overwatch_Damashi_Community_Event",
-        "/overwatch/Lorcer_Cup",
-        "/overwatch/Battle_for_the_Midwest/4",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/5",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/5",
-        "/overwatch/AVGL_x_DreamHack_Overwatch_2_Invitational",
-        "/overwatch/Natter_x_Community:_The_First_Chapter",
-        "/overwatch/SwitzerLAN/2022",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/4",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/4",
-        "/overwatch/HyperX_Esports_Arena/College_Night:_Recall/1",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/3",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/3",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/2",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/2",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/1",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/1",
-        "/overwatch/NACE_Starleague/Final_Showdown",
-        "/overwatch/Will_English_IVitational/Last_Ride/NA",
-        "/overwatch/Will_English_IVitational/Last_Ride/EMEA",
-        "/overwatch/Insomnia/69/Intermediate",
-        "/overwatch/Will_English_IVitational/4/EMEA",
-        "/overwatch/Youth_Winner%27s_Circle/2022/Summer",
-        "/overwatch/Will_English_IVitational/4/NA",
-        "/overwatch/Uniliga/Summer_2022",
-        "/overwatch/Generation_Esports_Collegiate_Summer_Series",
-        "/overwatch/Open_Division/2022/Season_1/China",
-        "/overwatch/Overwatch_Watchpoint:_RCADIA",
-        "/overwatch/Open_Division/2022/Season_1/North_America",
-        "/overwatch/Open_Division/2022/Season_1/Australia_%26_New_Zealand",
-        "/overwatch/Overwatch_All_For_One/2022",
-        "/overwatch/NECC/2022/Spring/Nationals/Legends",
-        "/overwatch/NECC/2022/Spring/Nationals/Champions",
-        "/overwatch/OW2_Community_Team_Battle",
-        "/overwatch/CastersNest_Community_Cup/3",
-        "/overwatch/Brain_Glitch_Tourney",
-        "/overwatch/Aurora_Cup/2022",
-        "/overwatch/NACE_Starleague/2022/Spring",
-        "/overwatch/Rush_Community_Cup",
-        "/overwatch/Boston_Uprising_Collegiate_Cup/2022/Spring",
-        "/overwatch/East_Coast_Spring_Showdown",
-        "/overwatch/Insomnia/68/Intermediate",
-        "/overwatch/University_of_Kentucky_Overwatch_Spring_Invitational/2022",
-        "/overwatch/European_Community_Cup",
-        "/overwatch/Youscrim_Community_Launch_Tournament",
-        "/overwatch/PantherLAN/2022/Spring",
-        "/overwatch/Val_Verde_Unified_Esports_Tournament/2022",
-        "/overwatch/HyperX_Esports_Arena/4",
-        "/overwatch/OPSE/2021-22",
-        "/overwatch/Stay_Plugged_In/Carry_2_College/1",
-        "/overwatch/PA_Cup/2022/Collegiate",
-        "/overwatch/PA_Cup/2022/High_School",
-        "/overwatch/Overwatch_Hive_Open/Division_1",
-        "/overwatch/Overwatch_Hive_Open/Division_2",
-        "/overwatch/HyperX_Esports_Arena/3",
-        "/overwatch/Natter_x_Community_Bash/Champions",
-        "/overwatch/Overwatch_Empowerment_Cup",
-        "/overwatch/Elite_Big_Black_D_Cup_Tournament",
-        "/overwatch/GCON_Tournament",
-        "/overwatch/Altera_Anniversary_Tournament",
-        "/overwatch/HyperX_Esports_Arena/2",
-        "/overwatch/Berry_Community_Blast/Weekend_1",
-        "/overwatch/Overwatch_European_Expanse",
-        "/overwatch/UCEI_Invitational/2022",
-        "/overwatch/HyperX_Esports_Arena/1"
+    "tournaments": [
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/12",
+            "end_date": "2022-12-31"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/12",
+            "end_date": "2022-12-31"
+        },
+        {
+            "link": "/overwatch/Cloud_Charity_Cup",
+            "end_date": "2022-12-30"
+        },
+        {
+            "link": "/overwatch/TEN_FPS_SPECIAL/2022",
+            "end_date": "2022-12-23"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/11",
+            "end_date": "2022-12-17"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/11",
+            "end_date": "2022-12-17"
+        },
+        {
+            "link": "/overwatch/HyperX_Esports_Arena/Overwatch_2/3",
+            "end_date": "2022-12-15"
+        },
+        {
+            "link": "/overwatch/EGL_Community_Recall/1",
+            "end_date": "2022-12-10"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/10",
+            "end_date": "2022-12-10"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/10",
+            "end_date": "2022-12-10"
+        },
+        {
+            "link": "/overwatch/Mid-Atlantic_Esports_Conference",
+            "end_date": "2022-12-03"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/9",
+            "end_date": "2022-12-03"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/9",
+            "end_date": "2022-12-03"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/8",
+            "end_date": "2022-11-26"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/8",
+            "end_date": "2022-11-26"
+        },
+        {
+            "link": "/overwatch/KFUPM_Tournament",
+            "end_date": "2022-11-22"
+        },
+        {
+            "link": "/overwatch/An4rcup",
+            "end_date": "2022-11-19"
+        },
+        {
+            "link": "/overwatch/Jack_Link%27s_Wild_Side_Rumble",
+            "end_date": "2022-11-19"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/7",
+            "end_date": "2022-11-19"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/7",
+            "end_date": "2022-11-19"
+        },
+        {
+            "link": "/overwatch/Zhaoyun_Cup",
+            "end_date": "2022-11-18"
+        },
+        {
+            "link": "/overwatch/Esports_Arena_Chicago_Tuesday",
+            "end_date": "2022-11-15"
+        },
+        {
+            "link": "/overwatch/Boston_Uprising_Collegiate_Cup/2022/Fall",
+            "end_date": "2022-11-12"
+        },
+        {
+            "link": "/overwatch/Esports_Players_Club_Overwatch_2_Tournament",
+            "end_date": "2022-11-12"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/6",
+            "end_date": "2022-11-12"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/6",
+            "end_date": "2022-11-12"
+        },
+        {
+            "link": "/overwatch/Brhm_Tournament",
+            "end_date": "2022-11-10"
+        },
+        {
+            "link": "/overwatch/HyperX_Esports_Arena/College_Night:_Recall/2",
+            "end_date": "2022-11-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_Damashi_Community_Event",
+            "end_date": "2022-11-03"
+        },
+        {
+            "link": "/overwatch/Lorcer_Cup",
+            "end_date": "2022-10-23"
+        },
+        {
+            "link": "/overwatch/Battle_for_the_Midwest/4",
+            "end_date": "2022-10-22"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/5",
+            "end_date": "2022-10-22"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/5",
+            "end_date": "2022-10-22"
+        },
+        {
+            "link": "/overwatch/AVGL_x_DreamHack_Overwatch_2_Invitational",
+            "end_date": "2022-10-21"
+        },
+        {
+            "link": "/overwatch/Natter_x_Community:_The_First_Chapter",
+            "end_date": "2022-10-17"
+        },
+        {
+            "link": "/overwatch/SwitzerLAN/2022",
+            "end_date": "2022-10-16"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/4",
+            "end_date": "2022-10-15"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/4",
+            "end_date": "2022-10-15"
+        },
+        {
+            "link": "/overwatch/HyperX_Esports_Arena/College_Night:_Recall/1",
+            "end_date": "2022-10-10"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/3",
+            "end_date": "2022-10-09"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/3",
+            "end_date": "2022-10-09"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/2",
+            "end_date": "2022-10-08"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/2",
+            "end_date": "2022-10-08"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/1",
+            "end_date": "2022-10-07"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/1",
+            "end_date": "2022-10-07"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/Final_Showdown",
+            "end_date": "2022-10-02"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/Last_Ride/NA",
+            "end_date": "2022-09-18"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/Last_Ride/EMEA",
+            "end_date": "2022-09-17"
+        },
+        {
+            "link": "/overwatch/Insomnia/69/Intermediate",
+            "end_date": "2022-08-27"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/4/EMEA",
+            "end_date": "2022-08-14"
+        },
+        {
+            "link": "/overwatch/Youth_Winner%27s_Circle/2022/Summer",
+            "end_date": "2022-08-05"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/4/NA",
+            "end_date": "2022-07-31"
+        },
+        {
+            "link": "/overwatch/Uniliga/Summer_2022",
+            "end_date": "2022-07-27"
+        },
+        {
+            "link": "/overwatch/Generation_Esports_Collegiate_Summer_Series",
+            "end_date": "2022-07-15"
+        },
+        {
+            "link": "/overwatch/Open_Division/2022/Season_1/China",
+            "end_date": "2022-06-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_Watchpoint:_RCADIA",
+            "end_date": "2022-06-12"
+        },
+        {
+            "link": "/overwatch/Open_Division/2022/Season_1/North_America",
+            "end_date": "2022-06-12"
+        },
+        {
+            "link": "/overwatch/Open_Division/2022/Season_1/Australia_%26_New_Zealand",
+            "end_date": "2022-06-05"
+        },
+        {
+            "link": "/overwatch/Overwatch_All_For_One/2022",
+            "end_date": "2022-05-29"
+        },
+        {
+            "link": "/overwatch/NECC/2022/Spring/Nationals/Legends",
+            "end_date": "2022-05-26"
+        },
+        {
+            "link": "/overwatch/NECC/2022/Spring/Nationals/Champions",
+            "end_date": "2022-05-26"
+        },
+        {
+            "link": "/overwatch/OW2_Community_Team_Battle",
+            "end_date": "2022-05-16"
+        },
+        {
+            "link": "/overwatch/CastersNest_Community_Cup/3",
+            "end_date": "2022-05-15"
+        },
+        {
+            "link": "/overwatch/Brain_Glitch_Tourney",
+            "end_date": "2022-05-13"
+        },
+        {
+            "link": "/overwatch/Aurora_Cup/2022",
+            "end_date": "2022-05-02"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2022/Spring",
+            "end_date": "2022-05-01"
+        },
+        {
+            "link": "/overwatch/Rush_Community_Cup",
+            "end_date": "2022-04-30"
+        },
+        {
+            "link": "/overwatch/Boston_Uprising_Collegiate_Cup/2022/Spring",
+            "end_date": "2022-04-30"
+        },
+        {
+            "link": "/overwatch/East_Coast_Spring_Showdown",
+            "end_date": "2022-04-24"
+        },
+        {
+            "link": "/overwatch/Insomnia/68/Intermediate",
+            "end_date": "2022-04-17"
+        },
+        {
+            "link": "/overwatch/University_of_Kentucky_Overwatch_Spring_Invitational/2022",
+            "end_date": "2022-04-16"
+        },
+        {
+            "link": "/overwatch/European_Community_Cup",
+            "end_date": "2022-04-10"
+        },
+        {
+            "link": "/overwatch/Youscrim_Community_Launch_Tournament",
+            "end_date": "2022-04-10"
+        },
+        {
+            "link": "/overwatch/PantherLAN/2022/Spring",
+            "end_date": "2022-04-09"
+        },
+        {
+            "link": "/overwatch/Val_Verde_Unified_Esports_Tournament/2022",
+            "end_date": "2022-04-07"
+        },
+        {
+            "link": "/overwatch/HyperX_Esports_Arena/4",
+            "end_date": "2022-04-03"
+        },
+        {
+            "link": "/overwatch/OPSE/2021-22",
+            "end_date": "2022-03-29"
+        },
+        {
+            "link": "/overwatch/Stay_Plugged_In/Carry_2_College/1",
+            "end_date": "2022-03-27"
+        },
+        {
+            "link": "/overwatch/PA_Cup/2022/Collegiate",
+            "end_date": "2022-03-26"
+        },
+        {
+            "link": "/overwatch/PA_Cup/2022/High_School",
+            "end_date": "2022-03-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_Hive_Open/Division_1",
+            "end_date": "2022-03-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_Hive_Open/Division_2",
+            "end_date": "2022-03-26"
+        },
+        {
+            "link": "/overwatch/HyperX_Esports_Arena/3",
+            "end_date": "2022-03-06"
+        },
+        {
+            "link": "/overwatch/Natter_x_Community_Bash/Champions",
+            "end_date": "2022-03-06"
+        },
+        {
+            "link": "/overwatch/Overwatch_Empowerment_Cup",
+            "end_date": "2022-02-27"
+        },
+        {
+            "link": "/overwatch/Elite_Big_Black_D_Cup_Tournament",
+            "end_date": "2022-02-27"
+        },
+        {
+            "link": "/overwatch/GCON_Tournament",
+            "end_date": "2022-02-25"
+        },
+        {
+            "link": "/overwatch/Altera_Anniversary_Tournament",
+            "end_date": "2022-02-19"
+        },
+        {
+            "link": "/overwatch/HyperX_Esports_Arena/2",
+            "end_date": "2022-02-06"
+        },
+        {
+            "link": "/overwatch/Berry_Community_Blast/Weekend_1",
+            "end_date": "2022-01-30"
+        },
+        {
+            "link": "/overwatch/Overwatch_European_Expanse",
+            "end_date": "2022-01-30"
+        },
+        {
+            "link": "/overwatch/UCEI_Invitational/2022",
+            "end_date": "2022-01-16"
+        },
+        {
+            "link": "/overwatch/HyperX_Esports_Arena/1",
+            "end_date": "2022-01-02"
+        }
     ]
 }

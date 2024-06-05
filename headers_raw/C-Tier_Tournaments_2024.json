@@ -1,49 +1,184 @@
 {
-    "links": [
-        "/overwatch/Click_Gaming/End_of_Summer/College/Elites",
-        "/overwatch/Click_Gaming/End_of_Summer/College/Challengers",
-        "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Minor_3",
-        "/overwatch/SwitzerLAN/2024",
-        "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Minor_2",
-        "/overwatch/Overwatch2_Asian_Girl%27s_Community_Championship",
-        "/overwatch/BlueLAN",
-        "/overwatch/EPIC.LAN/42",
-        "/overwatch/FACEIT_Community_Showdown/NA",
-        "/overwatch/FACEIT_Community_Showdown/EMEA",
-        "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Minor_1",
-        "/overwatch/Dragons_Esport/Dragons_Rising_Series/Finals",
-        "/overwatch/FACEIT_League/Season_1/EMEA/Open",
-        "/overwatch/FACEIT_League/Season_1/NA/Open",
-        "/overwatch/FACEIT_League/Season_1/SA/Open",
-        "/overwatch/FACEIT_League/Season_1/OCE/Open",
-        "/overwatch/DreamHack/2024/Summer",
-        "/overwatch/CBOW/Torneio_de_Acesso_1",
-        "/overwatch/Rhythm_Overwatch_Circuit_Venture_Forth",
-        "/overwatch/NyanSox_Winton_Overwatch_Cup",
-        "/overwatch/DreamHack/2024/Dallas",
-        "/overwatch/Console_Gaming_League/Season_13/PC/NA",
-        "/overwatch/2024_Overwatch_Poker_Face_Championship",
-        "/overwatch/Console_Gaming_League/Season_13/PC/EU",
-        "/overwatch/Console_Gaming_League/Season_13/Console/EU",
-        "/overwatch/PolyLAN/39",
-        "/overwatch/BlitzTourney/2024/May_Madness",
-        "/overwatch/Console_Gaming_League/Season_13/Console/NA",
-        "/overwatch/CECC/2024/Open",
-        "/overwatch/Overwatch_All_For_One/2024/Grand_Finals",
-        "/overwatch/Good_Game-ligaen/2024/Spring",
-        "/overwatch/Val_Verde_Unified_Esports_Tournament/2024",
-        "/overwatch/Gamers_Assembly/2024",
-        "/overwatch/Heartland_Showdown",
-        "/overwatch/Nittany_Invitational/2024/Playoffs",
-        "/overwatch/University_of_Kentucky_Overwatch_Bluegrass_Showdown/4",
-        "/overwatch/Western_Cactus_League/2024",
-        "/overwatch/Queen_City_Clash",
-        "/overwatch/Midwest_Esports_Invitational",
-        "/overwatch/EPIC.LAN/41",
-        "/overwatch/FEL_Overwatch_Cup/3",
-        "/overwatch/North_Carolina_Varsity_Esports_and_STEM_League/Season_2",
-        "/overwatch/Welsh_Esports_League/2024/Season_4",
-        "/overwatch/ILIAD_INVITATIONAL/2",
-        "/overwatch/Riviera_Showdown"
+    "tournaments": [
+        {
+            "link": "/overwatch/Click_Gaming/End_of_Summer/College/Elites",
+            "end_date": "2024-12-01"
+        },
+        {
+            "link": "/overwatch/Click_Gaming/End_of_Summer/College/Challengers",
+            "end_date": "2024-12-01"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Minor_3",
+            "end_date": "2024-11-03"
+        },
+        {
+            "link": "/overwatch/SwitzerLAN/2024",
+            "end_date": "2024-10-13"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Minor_2",
+            "end_date": "2024-09-15"
+        },
+        {
+            "link": "/overwatch/Overwatch2_Asian_Girl%27s_Community_Championship",
+            "end_date": "2024-08-04"
+        },
+        {
+            "link": "/overwatch/BlueLAN",
+            "end_date": "2024-07-20"
+        },
+        {
+            "link": "/overwatch/EPIC.LAN/42",
+            "end_date": "2024-07-20"
+        },
+        {
+            "link": "/overwatch/FACEIT_Community_Showdown/NA",
+            "end_date": "2024-07-07"
+        },
+        {
+            "link": "/overwatch/FACEIT_Community_Showdown/EMEA",
+            "end_date": "2024-07-07"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Minor_1",
+            "end_date": "2024-07-07"
+        },
+        {
+            "link": "/overwatch/Dragons_Esport/Dragons_Rising_Series/Finals",
+            "end_date": "2024-06-30"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/EMEA/Open",
+            "end_date": "2024-06-30"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/NA/Open",
+            "end_date": "2024-06-25"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/SA/Open",
+            "end_date": "2024-06-23"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/OCE/Open",
+            "end_date": "2024-06-23"
+        },
+        {
+            "link": "/overwatch/DreamHack/2024/Summer",
+            "end_date": "2024-06-16"
+        },
+        {
+            "link": "/overwatch/CBOW/Torneio_de_Acesso_1",
+            "end_date": "2024-06-16"
+        },
+        {
+            "link": "/overwatch/Rhythm_Overwatch_Circuit_Venture_Forth",
+            "end_date": "2024-06-16"
+        },
+        {
+            "link": "/overwatch/NyanSox_Winton_Overwatch_Cup",
+            "end_date": "2024-06-09"
+        },
+        {
+            "link": "/overwatch/DreamHack/2024/Dallas",
+            "end_date": "2024-06-02"
+        },
+        {
+            "link": "/overwatch/Console_Gaming_League/Season_13/PC/NA",
+            "end_date": "2024-05-22"
+        },
+        {
+            "link": "/overwatch/2024_Overwatch_Poker_Face_Championship",
+            "end_date": "2024-05-19"
+        },
+        {
+            "link": "/overwatch/Console_Gaming_League/Season_13/PC/EU",
+            "end_date": "2024-05-17"
+        },
+        {
+            "link": "/overwatch/Console_Gaming_League/Season_13/Console/EU",
+            "end_date": "2024-05-13"
+        },
+        {
+            "link": "/overwatch/PolyLAN/39",
+            "end_date": "2024-05-11"
+        },
+        {
+            "link": "/overwatch/BlitzTourney/2024/May_Madness",
+            "end_date": "2024-05-11"
+        },
+        {
+            "link": "/overwatch/Console_Gaming_League/Season_13/Console/NA",
+            "end_date": "2024-05-11"
+        },
+        {
+            "link": "/overwatch/CECC/2024/Open",
+            "end_date": "2024-05-05"
+        },
+        {
+            "link": "/overwatch/Overwatch_All_For_One/2024/Grand_Finals",
+            "end_date": "2024-05-05"
+        },
+        {
+            "link": "/overwatch/Good_Game-ligaen/2024/Spring",
+            "end_date": "2024-05-05"
+        },
+        {
+            "link": "/overwatch/Val_Verde_Unified_Esports_Tournament/2024",
+            "end_date": "2024-04-27"
+        },
+        {
+            "link": "/overwatch/Gamers_Assembly/2024",
+            "end_date": "2024-03-31"
+        },
+        {
+            "link": "/overwatch/Heartland_Showdown",
+            "end_date": "2024-03-30"
+        },
+        {
+            "link": "/overwatch/Nittany_Invitational/2024/Playoffs",
+            "end_date": "2024-03-24"
+        },
+        {
+            "link": "/overwatch/University_of_Kentucky_Overwatch_Bluegrass_Showdown/4",
+            "end_date": "2024-03-24"
+        },
+        {
+            "link": "/overwatch/Western_Cactus_League/2024",
+            "end_date": "2024-03-17"
+        },
+        {
+            "link": "/overwatch/Queen_City_Clash",
+            "end_date": "2024-03-03"
+        },
+        {
+            "link": "/overwatch/Midwest_Esports_Invitational",
+            "end_date": "2024-02-25"
+        },
+        {
+            "link": "/overwatch/EPIC.LAN/41",
+            "end_date": "2024-02-24"
+        },
+        {
+            "link": "/overwatch/FEL_Overwatch_Cup/3",
+            "end_date": "2024-02-23"
+        },
+        {
+            "link": "/overwatch/North_Carolina_Varsity_Esports_and_STEM_League/Season_2",
+            "end_date": "2024-02-18"
+        },
+        {
+            "link": "/overwatch/Welsh_Esports_League/2024/Season_4",
+            "end_date": "2024-02-09"
+        },
+        {
+            "link": "/overwatch/ILIAD_INVITATIONAL/2",
+            "end_date": "2024-02-04"
+        },
+        {
+            "link": "/overwatch/Riviera_Showdown",
+            "end_date": "2024-01-27"
+        }
     ]
 }

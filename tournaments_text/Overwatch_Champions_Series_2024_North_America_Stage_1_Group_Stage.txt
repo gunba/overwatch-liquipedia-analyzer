@@ -1,0 +1,377 @@
+{{DISPLAYTITLE:Overwatch Champions Series 2024 - North America Stage 1 Group Stage}}
+{{Overwatch Champions Series navbox}}
+{{Tabs static
+|name1=Overview|link1=Overwatch_Champions_Series/2024/North America/Stage_1
+|name2=Group Stage|link2=Overwatch_Champions_Series/2024/North America/Stage_1/Group_Stage
+}}
+{{HiddenDataBox
+|name=Overwatch Champions Series 2024 - NA Stage 1 Group Stage
+|tickername=OWCS NA Stage 1 Group Stage
+|type=Online
+|liquipediatier=2
+|sdate=2024-03-08
+|edate=2024-03-17
+}}
+
+==Information==
+===Format===
+*'''Swiss:''' ''March 1<sup>st</sup> - 3<sup>rd</sup>''
+**Nine swiss rounds
+**All matches are {{Ft|2}}
+**{{Bgcolortext|up|Top 16 teams}} advance to Group Stage
+*'''Group Stage:''' ''March 8<sup>th</sup> - 17<sup>th</sup>''
+**Four GSL groups
+**All matches are {{Ft|3}}
+**{{Bgcolortext|up|Top 2 teams}} from each group advance to [[Overwatch Champions Series/2024/North America/Stage 1/Main Event|Main Event]]
+
+===Map Pool===
+{| class="wikitable" style="text-align:center;"
+|width="480" class="wiki-backgroundcolor-light" colspan=5|'''Map Pool'''
+|-
+![[Control]]
+![[Hybrid]]
+![[Escort]]
+![[Flashpoint]]
+![[Push]]
+|-
+|width="130" rowspan=5|
+*[[Ilios]]
+*[[Lijiang Tower]]
+*[[Nepal]]
+*[[Samoa]]
+|width="130" rowspan=5|
+*[[Blizzard World]]
+*[[King's Row]]
+*[[Hollywood]]
+*[[Midtown]]
+|width="130" rowspan=5|
+*[[Circuit Royal]]
+*[[Dorado]]
+*[[Rialto]]
+*[[Shambali Monastery]]
+|width="130" rowspan=5|
+*[[New Junk City]]
+*[[Suravasa]]
+|width="130" rowspan=5|
+*[[Colosseo]]
+*[[Esperança]]
+*[[New Queen Street]]
+|}
+
+==Results==
+{{box|start|padding=2em}}
+===Group A===
+<section begin="GroupA"/>
+{{GroupTableLeague|width=480px
+|title=Group A|tournament=Overwatch Champions Series/2024/North America/Stage 1/Group Stage
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=up|team1=toronto defiant
+|bg2=down|team2=daybreak
+|bg3=up|team3=shikigami|team3alias=shikigami hikari
+|bg4=down|team4=final gambit
+|edate=March 18, 2024
+}}
+<section end="GroupA" />
+{{Matchlist|id=gjJg75kDzg|width=480
+|M1header=Opening Matches
+|M1={{Match
+    |bestof=5
+    |date=March 8, 2024 - 13:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|toronto defiant}}
+    |opponent2={{TeamOpponent|final gambit}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Colosseo|mode=Push|score1=139.40m|score2=0.00m|winner=1}}
+    |map4={{Map|map=Suravasa|mode=Flashpoint|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Dorado|mode=Escort|score1=|score2=|winner=skip}}
+	|faceit=1-a8e40368-8133-4125-a5d1-e6d6ea014569
+}}
+|M2header=
+|M2={{Match
+    |date=March 8, 2024 - 14:30 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|daybreak}}
+    |opponent2={{TeamOpponent|shikigami hikari}}
+    |map1={{Map|map=Nepal|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Esperança|mode=Push|score1=32.42m|score2=105.72m|winner=2}}
+    |map4={{Map|map=New Junk City|mode=Flashpoint|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Dorado|mode=Escort|score1=|score2=|winner=skip}}
+	|faceit=1-b4655990-d89b-466c-90e5-5a7d282e8caf
+}}
+|M3header=Winners' Match
+|M3={{Match
+    |date=March 9, 2024 - 13:30 {{Abbr/PST}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|toronto defiant}}
+    |opponent2={{TeamOpponent|shikigami hikari}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Esperança|mode=Push|score1=131.95m|score2=42.82m|winner=1}}
+    |map4={{Map|map=New Junk City|mode=Flashpoint|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Dorado|mode=Escort|score1=|score2=|winner=skip}}
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|faceit=1-94c4bf90-2fb5-4bce-a920-109cf703bfec
+	|vod=https://www.youtube.com/watch?v=gJtgaruWfF8
+}}
+|M4header=Elimination Match
+|M4={{Match
+    |date=March 10, 2024 - 14:30 {{Abbr/PDT}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|final gambit}}
+    |opponent2={{TeamOpponent|daybreak}}
+    |map1={{Map|map=Nepal|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=Colosseo|mode=Push|score1=64.75m|score2=139.40m|winner=2}}
+    |map4={{Map|map=Suravasa|mode=Flashpoint|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Shambali Monastery|mode=Escort|score1=|score2=|winner=skip}}
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|faceit=1-377594e0-5a59-4034-af08-b148541403e9
+	|vod=https://www.youtube.com/watch?v=oDqQ5QAlIqQ
+}}
+|M5header=Decider Match
+|M5={{Match
+    |date=March 16, 2024 - 15:40 {{Abbr/PDT}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|shikigami hikari}}
+    |opponent2={{TeamOpponent|daybreak}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=Colosseo|mode=Push|score1=105.26m|score2=52.95m|winner=1}}
+    |map4={{Map|map=New Junk City|mode=Flashpoint|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Dorado|mode=Escort|score1=|score2=|winner=skip}}
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|faceit=1-e10cfd95-fdce-4130-b8d3-8713aaa9af3c
+	|vod=https://www.youtube.com/watch?v=dDSZ9nnTF5U
+}}
+}}
+{{box|break|padding=2em}}
+
+===Group B===
+<section begin="GroupB" />
+{{GroupTableLeague|width=480px
+|title=Group B|tournament=Overwatch Champions Series/2024/North America/Stage 1/Group Stage
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=up|team1=LFO
+|bg2=up|team2=Luminosity Gaming
+|bg3=down|team3=BangBangPow Galaxy
+|bg4=down|team4=Citrus Nation
+|edate=March 18, 2024
+}}
+<section end="GroupB" />
+{{Matchlist|id=WAHIMoKf9o|width=480
+|M1header=Opening Matches
+|M1={{Match
+    |bestof=5
+    |date=March 8, 2024 - 13:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|LFO}}
+    |opponent2={{TeamOpponent|Citrus Nation}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Esperança|mode=Push|score1=108.44m|score2=108.45m|winner=2}}
+    |map4={{Map|map=Suravasa|mode=Flashpoint|score1=3|score2=1|winner=1}}
+    |map5={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+}}
+|M2header=
+|M2={{Match
+    |date=March 8, 2024 - 14:30 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|Luminosity Gaming}}
+    |opponent2={{TeamOpponent|BangBangPow Galaxy}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Esperança|mode=Push|score1=142.41m|score2=2.59m|winner=1}}
+}}
+|M3header=Winners' Match
+|M3={{Match
+    |date=March 9, 2024 - 14:35 {{Abbr/PST}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|Citrus Nation}}
+    |opponent2={{TeamOpponent|Luminosity Gaming}}
+    |map1={{Map|map=Samoa|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Colosseo|mode=Push|score1=48.13m|score2=90.84m|winner=2}}
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|vod=https://www.youtube.com/watch?v=Pqum7anKXQ4
+}}
+|M4header=Elimination Match
+|M4={{Match
+    |date=March 10, 2024 - 15:25 {{Abbr/PDT}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|LFO}}
+    |opponent2={{TeamOpponent|BangBangPow Galaxy}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=Esperança|mode=Push|score1=71.76m|score2=62.58m|winner=1}}
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|vod=https://www.youtube.com/watch?v=hb4S6K8an48
+}}
+|M5header=Decider Match
+|M5={{Match
+    |date=March 17, 2024 - 13:30 {{Abbr/PDT}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|Citrus Nation}}
+    |opponent2={{TeamOpponent|LFO}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Esperança|mode=Push|score1=44.57m|score2=140.02m|winner=2}}
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|vod=https://www.youtube.com/watch?v=iljme9aP-Hg
+}}
+}}
+{{box|break|padding=2em}}
+
+===Group C===
+<section begin="GroupC" />
+{{GroupTableLeague|width=480px
+|title=Group C|tournament=Overwatch Champions Series/2024/North America/Stage 1/Group Stage
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=up|team1=timeless
+|bg2=up|team2=M80
+|bg3=down|team3=nah id win
+|bg4=down|team4=Timeless Obsidian
+|edate=March 18, 2024
+}}
+<section end="GroupC" />
+{{Matchlist|id=ek5nqfR1pW|width=480
+|M1header=Opening Matches
+|M1={{Match
+    |bestof=5
+    |date=March 8, 2024 - 13:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|timeless}}
+    |opponent2={{TeamOpponent|Timeless Obsidian}}
+    |map1={{Map|map=Samoa|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Colosseo|mode=Push|score1=129.55m|score2=52.88m|winner=1}}
+}}
+|M2header=
+|M2={{Match
+    |date=March 8, 2024 - 14:30 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|M80}}
+    |opponent2={{TeamOpponent|nah id win}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Colosseo|mode=Push|score1=139.40m|score2=35.22m|winner=1}}
+}}
+|M3header=Winners' Match
+|M3={{Match
+    |date=March 9, 2024 - 15:55 {{Abbr/PST}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|timeless}}
+    |opponent2={{TeamOpponent|M80}}
+    |map1={{Map|map=Samoa|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Colosseo|mode=Push|score1=59.78m|score2=66.42m|winner=2}}
+    |map4={{Map|map=New Junk City|mode=Flashpoint|score1=3|score2=0|winner=1}}
+    |map5={{Map|map=Shambali Monastery|mode=Escort|score1=1|score2=0|winner=1}}
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|vod=https://www.youtube.com/watch?v=lvtgdQ1N4KU
+}}
+|M4header=Elimination Match
+|M4={{Match
+    |date=March 16, 2024 - 14:00 {{Abbr/PDT}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|Timeless Obsidian}}
+    |opponent2={{TeamOpponent|nah id win}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Colosseo|mode=Push|score1=123.39m|score2=72.06m|winner=1}}
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|vod=https://www.youtube.com/watch?v=YE8fqElqsaw
+}}
+|M5header=Decider Match
+|M5={{Match
+    |date=March 17, 2024 - 14:40 {{Abbr/PDT}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|M80}}
+    |opponent2={{TeamOpponent|Timeless Obsidian}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Esperança|mode=Push|score1=142.41m|score2=0.00m|winner=1}}
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|vod=https://www.youtube.com/watch?v=6d42kX5abSs
+}}
+}}
+{{box|break|padding=2em}}
+
+===Group D===
+<section begin="GroupD" />
+{{GroupTableLeague|width=480px
+|title=Group D|tournament=Overwatch Champions Series/2024/North America/Stage 1/Group Stage
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|bg1=down|team1=beluga's platoon
+|bg2=up|team2=students of the game
+|bg3=up|team3=Pirates in Pyjamas
+|bg4=down|team4=Dreamland
+|edate=March 18, 2024
+}}
+<section end="GroupD" />
+{{Matchlist|id=pnBEj3H7jf|width=480
+|M1header=Opening Matches
+|M1={{Match
+    |bestof=5
+    |date=March 8, 2024 - 13:00 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|beluga's platoon}}
+    |opponent2={{TeamOpponent|Dreamland}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=New Queen Street|mode=Push|score1=56.14m|score2=89.52m|winner=2}}
+    |map4={{Map|map=Suravasa|mode=Flashpoint|score1=0|score2=3|winner=2}}
+}}
+|M2header=
+|M2={{Match
+    |date=March 8, 2024 - 14:30 {{Abbr/PST}}
+    |youtube=|twitch=
+    |opponent1={{TeamOpponent|students of the game}}
+    |opponent2={{TeamOpponent|Pirates in Pyjamas}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Esperança|mode=Push|score1=84.22m|score2=67.16m|winner=1}}
+}}
+|M3header=Winners' Match
+|M3={{Match
+    |date=March 10, 2024 - 13:10 {{Abbr/PDT}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|Dreamland}}
+    |opponent2={{TeamOpponent|students of the game}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Blizzard World|mode=Hybrid|score1=4|score2=6|winner=2}}
+    |map3={{Map|map=Esperança|mode=Push|score1=68.11m|score2=106.22m|winner=2}}
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|vod=https://www.youtube.com/watch?v=9oYXeo4_xqs
+}}
+|M4header=Elimination Match
+|M4={{Match
+    |date=March 16, 2024 - 14:30 {{Abbr/PDT}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|beluga's platoon}}
+    |opponent2={{TeamOpponent|Pirates in Pyjamas}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=New Queen Street|mode=Push|score1=101.46m|score2=96.68m|winner=1}}
+    |map4={{Map|map=Suravasa|mode=Flashpoint|score1=1|score2=3|winner=2}}
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|vod=https://www.youtube.com/watch?v=f6VgkcrnhJs
+}}
+|M5header=Decider Match
+|M5={{Match
+    |date=March 17, 2024 - 15:50 {{Abbr/PDT}}
+    |youtube=Overwatch Esports|twitch=Overwatch Esports
+    |opponent1={{TeamOpponent|Dreamland}}
+    |opponent2={{TeamOpponent|Pirates in Pyjamas}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=New Queen Street|mode=Push|score1=54.38m|score2=82.42m|winner=2}}
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|vod=https://www.youtube.com/watch?v=I4V_DQqIEkA
+}}
+}}
+{{box|end|padding=2em}}
+
+==References==
+{{reflist}}

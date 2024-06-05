@@ -1,52 +1,196 @@
 {
-    "links": [
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/12",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/12",
-        "/overwatch/League_Trolli/Duck_Squad_Brawl/3",
-        "/overwatch/League_Trolli/Duck_Squad_Brawl/2",
-        "/overwatch/EGL_LATAM_Overwatch_2_Community_Calls/4",
-        "/overwatch/League_Trolli/Duck_Squad_Brawl/1",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/11",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/11",
-        "/overwatch/GameBattles_3v3_Elimination/EU/5",
-        "/overwatch/EGL_NA_Overwatch_2_Community_Calls/4",
-        "/overwatch/EGL_LATAM_Overwatch_2_Community_Calls/3",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/10",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/10",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/9",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/9",
-        "/overwatch/EGL_NA_Overwatch_2_Community_Calls/3",
-        "/overwatch/EGL_EMEA_Overwatch_2_Community_Calls/3",
-        "/overwatch/EGL_LATAM_Overwatch_2_Community_Calls/2",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/8",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/8",
-        "/overwatch/GameBattles_3v3_Elimination/EU/4",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/7",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/7",
-        "/overwatch/Zhaoyun_Cup",
-        "/overwatch/GameBattles_3v3_Elimination/EU/3",
-        "/overwatch/EGL_NA_Overwatch_2_Community_Calls/2",
-        "/overwatch/EGL_EMEA_Overwatch_2_Community_Calls/2",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/6",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/6",
-        "/overwatch/EGL_NA_Overwatch_2_Community_Calls/1",
-        "/overwatch/EGL_EMEA_Overwatch_2_Community_Calls/1",
-        "/overwatch/GameBattles_3v3_Elimination/EU/2",
-        "/overwatch/GameBattles_3v3_Elimination/NA/2",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/5",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/5",
-        "/overwatch/GameBattles_3v3_Elimination/EU/1",
-        "/overwatch/GameBattles_3v3_Elimination/NA/1",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/4",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/4",
-        "/overwatch/GameBattles_1v1_Duel/EU/1",
-        "/overwatch/GameBattles_1v1_Duel/NA/1",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/3",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/3",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/2",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/2",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/1",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/1",
-        "/overwatch/Stay_Plugged_In/WatchPoint_Weekly/Summer_Series/Week_1"
+    "tournaments": [
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/12",
+            "end_date": "2022-12-31"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/12",
+            "end_date": "2022-12-31"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Brawl/3",
+            "end_date": "2022-12-30"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Brawl/2",
+            "end_date": "2022-12-23"
+        },
+        {
+            "link": "/overwatch/EGL_LATAM_Overwatch_2_Community_Calls/4",
+            "end_date": "2022-12-23"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Brawl/1",
+            "end_date": "2022-12-18"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/11",
+            "end_date": "2022-12-17"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/11",
+            "end_date": "2022-12-17"
+        },
+        {
+            "link": "/overwatch/GameBattles_3v3_Elimination/EU/5",
+            "end_date": "2022-12-11"
+        },
+        {
+            "link": "/overwatch/EGL_NA_Overwatch_2_Community_Calls/4",
+            "end_date": "2022-12-10"
+        },
+        {
+            "link": "/overwatch/EGL_LATAM_Overwatch_2_Community_Calls/3",
+            "end_date": "2022-12-10"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/10",
+            "end_date": "2022-12-10"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/10",
+            "end_date": "2022-12-10"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/9",
+            "end_date": "2022-12-03"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/9",
+            "end_date": "2022-12-03"
+        },
+        {
+            "link": "/overwatch/EGL_NA_Overwatch_2_Community_Calls/3",
+            "end_date": "2022-11-26"
+        },
+        {
+            "link": "/overwatch/EGL_EMEA_Overwatch_2_Community_Calls/3",
+            "end_date": "2022-11-26"
+        },
+        {
+            "link": "/overwatch/EGL_LATAM_Overwatch_2_Community_Calls/2",
+            "end_date": "2022-11-26"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/8",
+            "end_date": "2022-11-26"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/8",
+            "end_date": "2022-11-26"
+        },
+        {
+            "link": "/overwatch/GameBattles_3v3_Elimination/EU/4",
+            "end_date": "2022-11-20"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/7",
+            "end_date": "2022-11-19"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/7",
+            "end_date": "2022-11-19"
+        },
+        {
+            "link": "/overwatch/Zhaoyun_Cup",
+            "end_date": "2022-11-18"
+        },
+        {
+            "link": "/overwatch/GameBattles_3v3_Elimination/EU/3",
+            "end_date": "2022-11-13"
+        },
+        {
+            "link": "/overwatch/EGL_NA_Overwatch_2_Community_Calls/2",
+            "end_date": "2022-11-12"
+        },
+        {
+            "link": "/overwatch/EGL_EMEA_Overwatch_2_Community_Calls/2",
+            "end_date": "2022-11-12"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/6",
+            "end_date": "2022-11-12"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/6",
+            "end_date": "2022-11-12"
+        },
+        {
+            "link": "/overwatch/EGL_NA_Overwatch_2_Community_Calls/1",
+            "end_date": "2022-10-28"
+        },
+        {
+            "link": "/overwatch/EGL_EMEA_Overwatch_2_Community_Calls/1",
+            "end_date": "2022-10-28"
+        },
+        {
+            "link": "/overwatch/GameBattles_3v3_Elimination/EU/2",
+            "end_date": "2022-10-23"
+        },
+        {
+            "link": "/overwatch/GameBattles_3v3_Elimination/NA/2",
+            "end_date": "2022-10-23"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/5",
+            "end_date": "2022-10-22"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/5",
+            "end_date": "2022-10-22"
+        },
+        {
+            "link": "/overwatch/GameBattles_3v3_Elimination/EU/1",
+            "end_date": "2022-10-16"
+        },
+        {
+            "link": "/overwatch/GameBattles_3v3_Elimination/NA/1",
+            "end_date": "2022-10-16"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/4",
+            "end_date": "2022-10-15"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/4",
+            "end_date": "2022-10-15"
+        },
+        {
+            "link": "/overwatch/GameBattles_1v1_Duel/EU/1",
+            "end_date": "2022-10-14"
+        },
+        {
+            "link": "/overwatch/GameBattles_1v1_Duel/NA/1",
+            "end_date": "2022-10-14"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/3",
+            "end_date": "2022-10-09"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/3",
+            "end_date": "2022-10-09"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/2",
+            "end_date": "2022-10-08"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/2",
+            "end_date": "2022-10-08"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/1",
+            "end_date": "2022-10-07"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/1",
+            "end_date": "2022-10-07"
+        },
+        {
+            "link": "/overwatch/Stay_Plugged_In/WatchPoint_Weekly/Summer_Series/Week_1",
+            "end_date": "2022-06-16"
+        }
     ]
 }

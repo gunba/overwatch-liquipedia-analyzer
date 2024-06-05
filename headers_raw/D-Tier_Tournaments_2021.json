@@ -1,80 +1,308 @@
 {
-    "links": [
-        "/overwatch/HammerClash/2",
-        "/overwatch/Semper_Community_X-Mas_Cup",
-        "/overwatch/LSUS_Culture_Gaming_Winter_Invitational",
-        "/overwatch/ZOTAC_Cup/2021/NA/18",
-        "/overwatch/Overwatch_All-Star_Brawl/7",
-        "/overwatch/Tournoi_des_P%C3%A9pites/7",
-        "/overwatch/Lambton_College_Overwatch_Tourney",
-        "/overwatch/Crushing_Challengers",
-        "/overwatch/Noserinos_Overwatch_Classic_Tournament",
-        "/overwatch/RPG_Overwatch_Community_Cup/3",
-        "/overwatch/MGA_Community_Overwatch_Series/20",
-        "/overwatch/ZOTAC_Cup/2021/Asia/17",
-        "/overwatch/Overwatch_All-Star_Brawl/6",
-        "/overwatch/Damage_Inc_Overwatch_EU_September_Tournament",
-        "/overwatch/Semper_Community_Champions/Season_1",
-        "/overwatch/MGA_Community_Overwatch_Series/19",
-        "/overwatch/ZOTAC_Cup/2021/NA/17",
-        "/overwatch/Muttnik%27s_Community_Space_Race",
-        "/overwatch/4HK_Community_Cup",
-        "/overwatch/Overwatch_Player/2021/Season_1",
-        "/overwatch/ZOTAC_Cup/2021/NA/16",
-        "/overwatch/Damage_Inc_Overwatch_EU_July_Tournament",
-        "/overwatch/Phodon_Community_Master_Class",
-        "/overwatch/Uniliga/Summer_2021/1st_League",
-        "/overwatch/Nerd_Street_Gamers/6v6_Tournament/9",
-        "/overwatch/Crystal_Drip_Gaming_Overwatch_Tournament",
-        "/overwatch/Crystal_Drip_Gaming_Overwatch_Tournament/Advanced",
-        "/overwatch/Crystal_Drip_Gaming_Overwatch_Tournament/Intermediate",
-        "/overwatch/Altera_Overwatch_Invitational",
-        "/overwatch/ZOTAC_Cup/2021/Asia/16",
-        "/overwatch/Nerd_Street_Gamers/6v6_Tournament/8",
-        "/overwatch/Tournoi_des_P%C3%A9pites/6",
-        "/overwatch/MGA_Community_Overwatch_Series/18",
-        "/overwatch/Nerd_Street_Gamers/6v6_Tournament/7",
-        "/overwatch/RPG_Overwatch_Community_Cup/1",
-        "/overwatch/ZOTAC_Cup/2021/NA/15",
-        "/overwatch/Nerd_Street_Gamers/6v6_Tournament/6",
-        "/overwatch/Phodon_Overwatch_Community_Cup",
-        "/overwatch/Pachimari_Esports_Brawl_For_All_Season_2_-_Upper_Bracket",
-        "/overwatch/Pachimari_Esports_Brawl_For_All_Season_2_-_Lower_Bracket",
-        "/overwatch/MGA_Community_Overwatch_Series/17",
-        "/overwatch/Nerd_Street_Gamers/6v6_Tournament/5",
-        "/overwatch/Starlight_Cup",
-        "/overwatch/Nerd_Street_Gamers/6v6_Tournament/4",
-        "/overwatch/ZOTAC_Cup/2021/NA/14",
-        "/overwatch/ZOTAC_Cup/2021/Asia/15",
-        "/overwatch/Lions_Community_Cup_V",
-        "/overwatch/MGA_Community_Overwatch_Series/16",
-        "/overwatch/Nerd_Street_Gamers/6v6_Tournament/3",
-        "/overwatch/Nerd_Street_Gamers/6v6_Tournament/2",
-        "/overwatch/PACommunity_Rivals/1",
-        "/overwatch/Pachimari_Esports_Brawl_For_All",
-        "/overwatch/MGA_Community_Overwatch_Series/15",
-        "/overwatch/Nerd_Street_Gamers/Escort_Tournament/7",
-        "/overwatch/FrostWatch",
-        "/overwatch/Belong_Online_Cup",
-        "/overwatch/Rec_Readiness_Gaming_Community_Tournament",
-        "/overwatch/Tournoi_des_P%C3%A9pites/5",
-        "/overwatch/DaeChamSa/2021/1",
-        "/overwatch/Nerd_Street_Gamers/Escort_Tournament/6",
-        "/overwatch/LVUP_CUP/2021/2",
-        "/overwatch/MGA_Community_Overwatch_Series/14",
-        "/overwatch/Nerd_Street_Gamers/Escort_Tournament/5",
-        "/overwatch/LVUP_CUP/2021/1",
-        "/overwatch/ZOTAC_Cup/2021/Asia/14",
-        "/overwatch/Tournoi_des_P%C3%A9pites/4",
-        "/overwatch/ZOTAC_Cup/2021/NA/12",
-        "/overwatch/ZOTAC_Cup/2021/Europe/12",
-        "/overwatch/MGA_Community_Overwatch_Series/13",
-        "/overwatch/Nerd_Street_Gamers/Escort_Tournament/4",
-        "/overwatch/ZOTAC_Cup/2021/Europe/11",
-        "/overwatch/Tournoi_des_P%C3%A9pites/3",
-        "/overwatch/ZOTAC_Cup/2021/Asia/12",
-        "/overwatch/Nerd_Street_Gamers/Escort_Tournament/3",
-        "/overwatch/ZOTAC_Cup/2021/NA/11",
-        "/overwatch/MGA_Community_Overwatch_Series/12"
+    "tournaments": [
+        {
+            "link": "/overwatch/HammerClash/2",
+            "end_date": "2021-12-19"
+        },
+        {
+            "link": "/overwatch/Semper_Community_X-Mas_Cup",
+            "end_date": "2021-12-12"
+        },
+        {
+            "link": "/overwatch/LSUS_Culture_Gaming_Winter_Invitational",
+            "end_date": "2021-12-05"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/NA/18",
+            "end_date": "2021-11-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_All-Star_Brawl/7",
+            "end_date": "2021-11-26"
+        },
+        {
+            "link": "/overwatch/Tournoi_des_P%C3%A9pites/7",
+            "end_date": "2021-11-06"
+        },
+        {
+            "link": "/overwatch/Lambton_College_Overwatch_Tourney",
+            "end_date": "2021-10-26"
+        },
+        {
+            "link": "/overwatch/Crushing_Challengers",
+            "end_date": "2021-10-24"
+        },
+        {
+            "link": "/overwatch/Noserinos_Overwatch_Classic_Tournament",
+            "end_date": "2021-10-24"
+        },
+        {
+            "link": "/overwatch/RPG_Overwatch_Community_Cup/3",
+            "end_date": "2021-10-23"
+        },
+        {
+            "link": "/overwatch/MGA_Community_Overwatch_Series/20",
+            "end_date": "2021-10-16"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/Asia/17",
+            "end_date": "2021-10-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_All-Star_Brawl/6",
+            "end_date": "2021-09-30"
+        },
+        {
+            "link": "/overwatch/Damage_Inc_Overwatch_EU_September_Tournament",
+            "end_date": "2021-09-25"
+        },
+        {
+            "link": "/overwatch/Semper_Community_Champions/Season_1",
+            "end_date": "2021-09-19"
+        },
+        {
+            "link": "/overwatch/MGA_Community_Overwatch_Series/19",
+            "end_date": "2021-09-18"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/NA/17",
+            "end_date": "2021-09-04"
+        },
+        {
+            "link": "/overwatch/Muttnik%27s_Community_Space_Race",
+            "end_date": "2021-08-29"
+        },
+        {
+            "link": "/overwatch/4HK_Community_Cup",
+            "end_date": "2021-08-22"
+        },
+        {
+            "link": "/overwatch/Overwatch_Player/2021/Season_1",
+            "end_date": "2021-08-21"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/NA/16",
+            "end_date": "2021-08-08"
+        },
+        {
+            "link": "/overwatch/Damage_Inc_Overwatch_EU_July_Tournament",
+            "end_date": "2021-07-31"
+        },
+        {
+            "link": "/overwatch/Phodon_Community_Master_Class",
+            "end_date": "2021-07-25"
+        },
+        {
+            "link": "/overwatch/Uniliga/Summer_2021/1st_League",
+            "end_date": "2021-07-21"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/6v6_Tournament/9",
+            "end_date": "2021-07-15"
+        },
+        {
+            "link": "/overwatch/Crystal_Drip_Gaming_Overwatch_Tournament",
+            "end_date": "2021-07-11"
+        },
+        {
+            "link": "/overwatch/Crystal_Drip_Gaming_Overwatch_Tournament/Advanced",
+            "end_date": "2021-07-11"
+        },
+        {
+            "link": "/overwatch/Crystal_Drip_Gaming_Overwatch_Tournament/Intermediate",
+            "end_date": "2021-07-11"
+        },
+        {
+            "link": "/overwatch/Altera_Overwatch_Invitational",
+            "end_date": "2021-07-10"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/Asia/16",
+            "end_date": "2021-07-03"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/6v6_Tournament/8",
+            "end_date": "2021-07-01"
+        },
+        {
+            "link": "/overwatch/Tournoi_des_P%C3%A9pites/6",
+            "end_date": "2021-06-19"
+        },
+        {
+            "link": "/overwatch/MGA_Community_Overwatch_Series/18",
+            "end_date": "2021-06-19"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/6v6_Tournament/7",
+            "end_date": "2021-06-17"
+        },
+        {
+            "link": "/overwatch/RPG_Overwatch_Community_Cup/1",
+            "end_date": "2021-06-12"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/NA/15",
+            "end_date": "2021-06-05"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/6v6_Tournament/6",
+            "end_date": "2021-06-03"
+        },
+        {
+            "link": "/overwatch/Phodon_Overwatch_Community_Cup",
+            "end_date": "2021-05-30"
+        },
+        {
+            "link": "/overwatch/Pachimari_Esports_Brawl_For_All_Season_2_-_Upper_Bracket",
+            "end_date": "2021-05-30"
+        },
+        {
+            "link": "/overwatch/Pachimari_Esports_Brawl_For_All_Season_2_-_Lower_Bracket",
+            "end_date": "2021-05-30"
+        },
+        {
+            "link": "/overwatch/MGA_Community_Overwatch_Series/17",
+            "end_date": "2021-05-22"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/6v6_Tournament/5",
+            "end_date": "2021-05-20"
+        },
+        {
+            "link": "/overwatch/Starlight_Cup",
+            "end_date": "2021-05-17"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/6v6_Tournament/4",
+            "end_date": "2021-05-06"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/NA/14",
+            "end_date": "2021-05-01"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/Asia/15",
+            "end_date": "2021-04-30"
+        },
+        {
+            "link": "/overwatch/Lions_Community_Cup_V",
+            "end_date": "2021-04-25"
+        },
+        {
+            "link": "/overwatch/MGA_Community_Overwatch_Series/16",
+            "end_date": "2021-04-24"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/6v6_Tournament/3",
+            "end_date": "2021-04-22"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/6v6_Tournament/2",
+            "end_date": "2021-04-08"
+        },
+        {
+            "link": "/overwatch/PACommunity_Rivals/1",
+            "end_date": "2021-04-03"
+        },
+        {
+            "link": "/overwatch/Pachimari_Esports_Brawl_For_All",
+            "end_date": "2021-04-03"
+        },
+        {
+            "link": "/overwatch/MGA_Community_Overwatch_Series/15",
+            "end_date": "2021-03-27"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/Escort_Tournament/7",
+            "end_date": "2021-03-25"
+        },
+        {
+            "link": "/overwatch/FrostWatch",
+            "end_date": "2021-03-21"
+        },
+        {
+            "link": "/overwatch/Belong_Online_Cup",
+            "end_date": "2021-03-17"
+        },
+        {
+            "link": "/overwatch/Rec_Readiness_Gaming_Community_Tournament",
+            "end_date": "2021-03-14"
+        },
+        {
+            "link": "/overwatch/Tournoi_des_P%C3%A9pites/5",
+            "end_date": "2021-03-13"
+        },
+        {
+            "link": "/overwatch/DaeChamSa/2021/1",
+            "end_date": "2021-03-13"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/Escort_Tournament/6",
+            "end_date": "2021-03-11"
+        },
+        {
+            "link": "/overwatch/LVUP_CUP/2021/2",
+            "end_date": "2021-02-27"
+        },
+        {
+            "link": "/overwatch/MGA_Community_Overwatch_Series/14",
+            "end_date": "2021-02-27"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/Escort_Tournament/5",
+            "end_date": "2021-02-25"
+        },
+        {
+            "link": "/overwatch/LVUP_CUP/2021/1",
+            "end_date": "2021-02-20"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/Asia/14",
+            "end_date": "2021-02-19"
+        },
+        {
+            "link": "/overwatch/Tournoi_des_P%C3%A9pites/4",
+            "end_date": "2021-02-13"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/NA/12",
+            "end_date": "2021-02-13"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/Europe/12",
+            "end_date": "2021-01-31"
+        },
+        {
+            "link": "/overwatch/MGA_Community_Overwatch_Series/13",
+            "end_date": "2021-01-30"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/Escort_Tournament/4",
+            "end_date": "2021-01-28"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/Europe/11",
+            "end_date": "2021-01-17"
+        },
+        {
+            "link": "/overwatch/Tournoi_des_P%C3%A9pites/3",
+            "end_date": "2021-01-16"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/Asia/12",
+            "end_date": "2021-01-16"
+        },
+        {
+            "link": "/overwatch/Nerd_Street_Gamers/Escort_Tournament/3",
+            "end_date": "2021-01-14"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/2021/NA/11",
+            "end_date": "2021-01-09"
+        },
+        {
+            "link": "/overwatch/MGA_Community_Overwatch_Series/12",
+            "end_date": "2021-01-02"
+        }
     ]
 }

@@ -1,52 +1,196 @@
 {
-    "links": [
-        "/overwatch/Academy_Gaming_Overwatch_Weekly/129",
-        "/overwatch/Academy_Gaming_Overwatch_Weekly/128",
-        "/overwatch/Warming_Cup/Season_3/2",
-        "/overwatch/Warming_Cup/Season_3/1",
-        "/overwatch/Go4Overwatch/Europe/Weekly/116",
-        "/overwatch/Go4Overwatch/Europe/Weekly/114",
-        "/overwatch/Go4Overwatch/Europe/Weekly/113",
-        "/overwatch/Go4Overwatch/Europe/Weekly/112",
-        "/overwatch/Go4Overwatch/Europe/Weekly/111",
-        "/overwatch/Go4Overwatch/Europe/Weekly/110",
-        "/overwatch/Go4Overwatch/Europe/Weekly/109",
-        "/overwatch/Warming_Cup/Season_2/4",
-        "/overwatch/Go4Overwatch/Europe/Weekly/108",
-        "/overwatch/Warming_Cup/Season_2/3",
-        "/overwatch/Go4Overwatch/Europe/Weekly/107",
-        "/overwatch/Warming_Cup/Season_2/2",
-        "/overwatch/Go4Overwatch/Europe/Weekly/106",
-        "/overwatch/Warming_Cup/Season_2/1",
-        "/overwatch/Go4Overwatch/Europe/Weekly/105",
-        "/overwatch/Go4Overwatch/Europe/Weekly/104",
-        "/overwatch/Go4Overwatch/Europe/Weekly/103",
-        "/overwatch/Warming_Cup/Season_1/4",
-        "/overwatch/Go4Overwatch/Europe/Weekly/102",
-        "/overwatch/Warming_Cup/Season_1/3",
-        "/overwatch/Go4Overwatch/Europe/Weekly/101",
-        "/overwatch/Go4Overwatch/Europe/Weekly/100",
-        "/overwatch/Warming_Cup/Season_1/2",
-        "/overwatch/Go4Overwatch/Europe/Weekly/99",
-        "/overwatch/Warming_Cup/Season_1/1",
-        "/overwatch/Go4Overwatch/Europe/Weekly/98",
-        "/overwatch/Go4Overwatch/Europe/Weekly/97",
-        "/overwatch/Go4Overwatch/Europe/Weekly/96",
-        "/overwatch/Go4Overwatch/Europe/Weekly/95",
-        "/overwatch/Go4Overwatch/Europe/Weekly/94",
-        "/overwatch/Go4Overwatch/Europe/Weekly/93",
-        "/overwatch/Academy_Gaming_Overwatch_Weekly/102",
-        "/overwatch/Go4Overwatch/Europe/Weekly/92",
-        "/overwatch/Go4Overwatch/Europe/Weekly/91",
-        "/overwatch/Go4Overwatch/Europe/Weekly/90",
-        "/overwatch/Go4Overwatch/Europe/Weekly/89",
-        "/overwatch/Go4Overwatch/Europe/Weekly/88",
-        "/overwatch/Go4Overwatch/Europe/Weekly/87",
-        "/overwatch/Go4Overwatch/Europe/Weekly/86",
-        "/overwatch/Go4Overwatch/Europe/Weekly/85",
-        "/overwatch/Academy_Gaming_Overwatch_Weekly/85",
-        "/overwatch/Go4Overwatch/Europe/Weekly/84",
-        "/overwatch/Go4Overwatch/Europe/Weekly/83",
-        "/overwatch/Academy_Gaming_Overwatch_Weekly/84"
+    "tournaments": [
+        {
+            "link": "/overwatch/Academy_Gaming_Overwatch_Weekly/129",
+            "end_date": "2018-11-12"
+        },
+        {
+            "link": "/overwatch/Academy_Gaming_Overwatch_Weekly/128",
+            "end_date": "2018-11-05"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_3/2",
+            "end_date": "2018-10-26"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_3/1",
+            "end_date": "2018-10-05"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/116",
+            "end_date": "2018-08-19"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/114",
+            "end_date": "2018-08-05"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/113",
+            "end_date": "2018-07-29"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/112",
+            "end_date": "2018-07-22"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/111",
+            "end_date": "2018-07-15"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/110",
+            "end_date": "2018-07-08"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/109",
+            "end_date": "2018-07-01"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_2/4",
+            "end_date": "2018-06-30"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/108",
+            "end_date": "2018-06-24"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_2/3",
+            "end_date": "2018-06-24"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/107",
+            "end_date": "2018-06-17"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_2/2",
+            "end_date": "2018-06-15"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/106",
+            "end_date": "2018-06-10"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_2/1",
+            "end_date": "2018-06-08"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/105",
+            "end_date": "2018-06-03"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/104",
+            "end_date": "2018-05-27"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/103",
+            "end_date": "2018-05-20"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_1/4",
+            "end_date": "2018-05-18"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/102",
+            "end_date": "2018-05-13"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_1/3",
+            "end_date": "2018-05-11"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/101",
+            "end_date": "2018-05-06"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/100",
+            "end_date": "2018-04-29"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_1/2",
+            "end_date": "2018-04-27"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/99",
+            "end_date": "2018-04-22"
+        },
+        {
+            "link": "/overwatch/Warming_Cup/Season_1/1",
+            "end_date": "2018-04-20"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/98",
+            "end_date": "2018-04-15"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/97",
+            "end_date": "2018-04-08"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/96",
+            "end_date": "2018-04-01"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/95",
+            "end_date": "2018-03-25"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/94",
+            "end_date": "2018-03-18"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/93",
+            "end_date": "2018-03-11"
+        },
+        {
+            "link": "/overwatch/Academy_Gaming_Overwatch_Weekly/102",
+            "end_date": "2018-03-07"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/92",
+            "end_date": "2018-03-04"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/91",
+            "end_date": "2018-02-25"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/90",
+            "end_date": "2018-02-18"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/89",
+            "end_date": "2018-02-11"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/88",
+            "end_date": "2018-02-04"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/87",
+            "end_date": "2018-01-28"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/86",
+            "end_date": "2018-01-21"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/85",
+            "end_date": "2018-01-14"
+        },
+        {
+            "link": "/overwatch/Academy_Gaming_Overwatch_Weekly/85",
+            "end_date": "2018-01-08"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/84",
+            "end_date": "2018-01-07"
+        },
+        {
+            "link": "/overwatch/Go4Overwatch/Europe/Weekly/83",
+            "end_date": "2018-01-02"
+        },
+        {
+            "link": "/overwatch/Academy_Gaming_Overwatch_Weekly/84",
+            "end_date": "2018-01-02"
+        }
     ]
 }

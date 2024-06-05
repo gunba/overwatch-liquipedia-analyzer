@@ -1,159 +1,624 @@
 {
-    "links": [
-        "/overwatch/CUOL/2023",
-        "/overwatch/MaxTech_Tournament",
-        "/overwatch/DreamHack/2023/Atlanta",
-        "/overwatch/BlitzTourney/2023/Mistletoe_Madness",
-        "/overwatch/Calling_All_Heroes/Rising_Series/Major_3",
-        "/overwatch/Battle_for_Canada",
-        "/overwatch/Overwatch_Swiss_Elite_Series",
-        "/overwatch/Neo_Gen_Portugal_Cup",
-        "/overwatch/TernoisCom_Games_Cup",
-        "/overwatch/Console_Gaming_League/Season_12/Console/NA",
-        "/overwatch/Console_Gaming_League/Season_12/PC/NA",
-        "/overwatch/Console_Gaming_League/Season_12/PC/EU",
-        "/overwatch/Console_Gaming_League/Season_12/Console/EU",
-        "/overwatch/Fareeha%27s_Mindful_Gaming_Community_Tournament",
-        "/overwatch/Good_Game-ligaen/2023/Fall",
-        "/overwatch/University_of_Kentucky_Overwatch_Fall_Invitational/2023",
-        "/overwatch/Midwest_Esports_Conference_Fall_Finals",
-        "/overwatch/Battle_for_the_Midwest/6",
-        "/overwatch/EPIC.LAN/40",
-        "/overwatch/MB_Reflash_Overwatch_Refresh",
-        "/overwatch/WDG_After_School_PC_Room_Tornament/2023",
-        "/overwatch/NVIDIA_Reflex_Showdown",
-        "/overwatch/Welsh_Esports_League/2023/Season_3",
-        "/overwatch/Rhythm_Overwatch_Circuit_Halloweens_Havoc",
-        "/overwatch/SwitzerLAN/2023",
-        "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Minor_3",
-        "/overwatch/BlitzTourney/2023/Halloween_Havoc",
-        "/overwatch/Overwatch_2_Gamers_Gathering",
-        "/overwatch/Atlas_Fighters_Standoff",
-        "/overwatch/All_In_Expo",
-        "/overwatch/Overwatch_Rivals",
-        "/overwatch/BlitzTourney/2023/September_Smash",
-        "/overwatch/Midwest_Esports_Conference_Fall_Clash",
-        "/overwatch/Mid-America_Gamers_Expo/2023",
-        "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Minor_2",
-        "/overwatch/ILIAD_INVITATIONAL/1",
-        "/overwatch/Dragons_Esport/Community_LAN/1",
-        "/overwatch/Rhythm_Overwatch_Circuit_Invasion_Brawl",
-        "/overwatch/BlitzTourney/2023/August_Offensive",
-        "/overwatch/Defenders_Godfather_Cup",
-        "/overwatch/Stay_Plugged_In/SPIN_Showcase/2",
-        "/overwatch/Tuwaiq_Challenge/July/2023",
-        "/overwatch/Tuwaiq_Challenge/June/2023",
-        "/overwatch/Kunoichi/Kickoff",
-        "/overwatch/Calling_All_Heroes/Rising_Series/Major_2",
-        "/overwatch/BlitzTourney/2023/July_Bash",
-        "/overwatch/Fiber_Gaming_Network_Overwatch_Tournament",
-        "/overwatch/Welsh_Esports_League/2023/Season_2",
-        "/overwatch/Stay_Plugged_In/SPIN_Showcase/1",
-        "/overwatch/Belong_Throwdown/7",
-        "/overwatch/NECC/2023/Spring/Nationals/Legends",
-        "/overwatch/NECC/2023/Spring/Nationals/Champions",
-        "/overwatch/NECC/2023/Spring/Nationals/Challengers",
-        "/overwatch/DreamHack/2023/Dallas",
-        "/overwatch/Rezcup",
-        "/overwatch/ESG/North_America",
-        "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Minor_1",
-        "/overwatch/AIS_5G_eSports_U_Series:_Overwatch_2",
-        "/overwatch/EGL_Community_Recall/8",
-        "/overwatch/Belong_Throwdown/6",
-        "/overwatch/Lakeside_Showdown/4",
-        "/overwatch/Generation_Esports/Summit",
-        "/overwatch/EGL_Community_Recall/7",
-        "/overwatch/Console_Gaming_League/Season_11/PC/NA",
-        "/overwatch/Guardian_Angel_Fundraiser",
-        "/overwatch/Console_Gaming_League/Season_11/Console",
-        "/overwatch/Boston_Uprising_Collegiate_Cup/2023/Spring",
-        "/overwatch/Console_Gaming_League/Season_11/PC/EU",
-        "/overwatch/ICA_Series_LAN",
-        "/overwatch/EGL_Community_Recall/6",
-        "/overwatch/Val_Verde_Unified_Esports_Tournament/2023",
-        "/overwatch/Belong_Throwdown/5",
-        "/overwatch/Zain_Esports_Tournament",
-        "/overwatch/Gamers_Assembly/2023",
-        "/overwatch/Nittany_Invitational/2023",
-        "/overwatch/EGL_Community_Recall/5",
-        "/overwatch/The_Gathering/2023",
-        "/overwatch/LA3EB_X_NR/Community_Heroes/PC",
-        "/overwatch/LA3EB_X_NR/Community_Heroes/Console",
-        "/overwatch/University_of_Kentucky_Overwatch_Spring_Invitational/2023",
-        "/overwatch/Console_vs_PC",
-        "/overwatch/Atlas_Nemesis_Showdown",
-        "/overwatch/HyperX_Esports_Arena/College_Night:_Recall/3",
-        "/overwatch/Belong_Throwdown/4",
-        "/overwatch/EGC_2023_Midwest_Madness",
-        "/overwatch/EGL_Community_Recall/4",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Brazil",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Colombia",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Argentina",
-        "/overwatch/Game_Mason_2023",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Taiwan",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Indonesia",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Hong_Kong",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Australia",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Singapore",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Philippines",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/New_Zealand",
-        "/overwatch/Battle_for_the_Midwest/5",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Japan",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Chile",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Italy",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Spain",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Norway",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Turkey",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Malaysia",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Thailand",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Guatemala",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Costa_Rica",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Netherlands",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/United_States",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Mexico",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Ecuador",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Puerto_Rico",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/South_Korea",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/India",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Canada",
-        "/overwatch/Welsh_Esports_League/2023/Season_1",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Peru",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/France",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Poland",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Sweden",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Belgium",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Germany",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Saudi_Arabia",
-        "/overwatch/Overwatch_World_Cup/2023/Open_Trials/United_Kingdom",
-        "/overwatch/LVL_UP_EXPO",
-        "/overwatch/Insomnia/Egypt",
-        "/overwatch/Belong_Throwdown/3",
-        "/overwatch/ESET_Tournament",
-        "/overwatch/Back2TheGame_Community_Cup_4",
-        "/overwatch/Winter_Clash_2023",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/18",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/18",
-        "/overwatch/SkyEsports_India/WD_Black_Cup",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/17",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/17",
-        "/overwatch/Youscrim_Community_Tournament",
-        "/overwatch/EGL_Community_Recall/3",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/16",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/16",
-        "/overwatch/Contenders_eSports_Irvine_Overwatch_2",
-        "/overwatch/HyperX_Esports_Arena/Overwatch_2/4",
-        "/overwatch/Belong_Throwdown/2",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/15",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/15",
-        "/overwatch/EZK/Nadiya_Cup/2023/Winter",
-        "/overwatch/UCEI_Invitational/2023",
-        "/overwatch/Will_English_IVitational/5",
-        "/overwatch/Overwatch_2_Rangsit_University_2023",
-        "/overwatch/EGL_Community_Recall/2",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/14",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/14",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/13",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/13",
-        "/overwatch/NR_Champions"
+    "tournaments": [
+        {
+            "link": "/overwatch/CUOL/2023",
+            "end_date": "2023-12-31"
+        },
+        {
+            "link": "/overwatch/MaxTech_Tournament",
+            "end_date": "2023-12-23"
+        },
+        {
+            "link": "/overwatch/DreamHack/2023/Atlanta",
+            "end_date": "2023-12-17"
+        },
+        {
+            "link": "/overwatch/BlitzTourney/2023/Mistletoe_Madness",
+            "end_date": "2023-12-10"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/Rising_Series/Major_3",
+            "end_date": "2023-12-10"
+        },
+        {
+            "link": "/overwatch/Battle_for_Canada",
+            "end_date": "2023-12-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_Swiss_Elite_Series",
+            "end_date": "2023-12-03"
+        },
+        {
+            "link": "/overwatch/Neo_Gen_Portugal_Cup",
+            "end_date": "2023-12-02"
+        },
+        {
+            "link": "/overwatch/TernoisCom_Games_Cup",
+            "end_date": "2023-11-25"
+        },
+        {
+            "link": "/overwatch/Console_Gaming_League/Season_12/Console/NA",
+            "end_date": "2023-11-21"
+        },
+        {
+            "link": "/overwatch/Console_Gaming_League/Season_12/PC/NA",
+            "end_date": "2023-11-20"
+        },
+        {
+            "link": "/overwatch/Console_Gaming_League/Season_12/PC/EU",
+            "end_date": "2023-11-20"
+        },
+        {
+            "link": "/overwatch/Console_Gaming_League/Season_12/Console/EU",
+            "end_date": "2023-11-18"
+        },
+        {
+            "link": "/overwatch/Fareeha%27s_Mindful_Gaming_Community_Tournament",
+            "end_date": "2023-11-17"
+        },
+        {
+            "link": "/overwatch/Good_Game-ligaen/2023/Fall",
+            "end_date": "2023-11-12"
+        },
+        {
+            "link": "/overwatch/University_of_Kentucky_Overwatch_Fall_Invitational/2023",
+            "end_date": "2023-11-12"
+        },
+        {
+            "link": "/overwatch/Midwest_Esports_Conference_Fall_Finals",
+            "end_date": "2023-11-11"
+        },
+        {
+            "link": "/overwatch/Battle_for_the_Midwest/6",
+            "end_date": "2023-11-04"
+        },
+        {
+            "link": "/overwatch/EPIC.LAN/40",
+            "end_date": "2023-10-29"
+        },
+        {
+            "link": "/overwatch/MB_Reflash_Overwatch_Refresh",
+            "end_date": "2023-10-29"
+        },
+        {
+            "link": "/overwatch/WDG_After_School_PC_Room_Tornament/2023",
+            "end_date": "2023-10-28"
+        },
+        {
+            "link": "/overwatch/NVIDIA_Reflex_Showdown",
+            "end_date": "2023-10-26"
+        },
+        {
+            "link": "/overwatch/Welsh_Esports_League/2023/Season_3",
+            "end_date": "2023-10-26"
+        },
+        {
+            "link": "/overwatch/Rhythm_Overwatch_Circuit_Halloweens_Havoc",
+            "end_date": "2023-10-22"
+        },
+        {
+            "link": "/overwatch/SwitzerLAN/2023",
+            "end_date": "2023-10-15"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Minor_3",
+            "end_date": "2023-10-15"
+        },
+        {
+            "link": "/overwatch/BlitzTourney/2023/Halloween_Havoc",
+            "end_date": "2023-10-14"
+        },
+        {
+            "link": "/overwatch/Overwatch_2_Gamers_Gathering",
+            "end_date": "2023-10-14"
+        },
+        {
+            "link": "/overwatch/Atlas_Fighters_Standoff",
+            "end_date": "2023-10-08"
+        },
+        {
+            "link": "/overwatch/All_In_Expo",
+            "end_date": "2023-09-22"
+        },
+        {
+            "link": "/overwatch/Overwatch_Rivals",
+            "end_date": "2023-09-17"
+        },
+        {
+            "link": "/overwatch/BlitzTourney/2023/September_Smash",
+            "end_date": "2023-09-16"
+        },
+        {
+            "link": "/overwatch/Midwest_Esports_Conference_Fall_Clash",
+            "end_date": "2023-09-16"
+        },
+        {
+            "link": "/overwatch/Mid-America_Gamers_Expo/2023",
+            "end_date": "2023-09-10"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Minor_2",
+            "end_date": "2023-09-10"
+        },
+        {
+            "link": "/overwatch/ILIAD_INVITATIONAL/1",
+            "end_date": "2023-08-27"
+        },
+        {
+            "link": "/overwatch/Dragons_Esport/Community_LAN/1",
+            "end_date": "2023-08-27"
+        },
+        {
+            "link": "/overwatch/Rhythm_Overwatch_Circuit_Invasion_Brawl",
+            "end_date": "2023-08-20"
+        },
+        {
+            "link": "/overwatch/BlitzTourney/2023/August_Offensive",
+            "end_date": "2023-08-19"
+        },
+        {
+            "link": "/overwatch/Defenders_Godfather_Cup",
+            "end_date": "2023-08-13"
+        },
+        {
+            "link": "/overwatch/Stay_Plugged_In/SPIN_Showcase/2",
+            "end_date": "2023-08-05"
+        },
+        {
+            "link": "/overwatch/Tuwaiq_Challenge/July/2023",
+            "end_date": "2023-08-02"
+        },
+        {
+            "link": "/overwatch/Tuwaiq_Challenge/June/2023",
+            "end_date": "2023-07-26"
+        },
+        {
+            "link": "/overwatch/Kunoichi/Kickoff",
+            "end_date": "2023-07-23"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/Rising_Series/Major_2",
+            "end_date": "2023-07-09"
+        },
+        {
+            "link": "/overwatch/BlitzTourney/2023/July_Bash",
+            "end_date": "2023-07-08"
+        },
+        {
+            "link": "/overwatch/Fiber_Gaming_Network_Overwatch_Tournament",
+            "end_date": "2023-07-01"
+        },
+        {
+            "link": "/overwatch/Welsh_Esports_League/2023/Season_2",
+            "end_date": "2023-06-29"
+        },
+        {
+            "link": "/overwatch/Stay_Plugged_In/SPIN_Showcase/1",
+            "end_date": "2023-06-24"
+        },
+        {
+            "link": "/overwatch/Belong_Throwdown/7",
+            "end_date": "2023-06-17"
+        },
+        {
+            "link": "/overwatch/NECC/2023/Spring/Nationals/Legends",
+            "end_date": "2023-06-16"
+        },
+        {
+            "link": "/overwatch/NECC/2023/Spring/Nationals/Champions",
+            "end_date": "2023-06-16"
+        },
+        {
+            "link": "/overwatch/NECC/2023/Spring/Nationals/Challengers",
+            "end_date": "2023-06-16"
+        },
+        {
+            "link": "/overwatch/DreamHack/2023/Dallas",
+            "end_date": "2023-06-04"
+        },
+        {
+            "link": "/overwatch/Rezcup",
+            "end_date": "2023-06-03"
+        },
+        {
+            "link": "/overwatch/ESG/North_America",
+            "end_date": "2023-05-28"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Minor_1",
+            "end_date": "2023-05-28"
+        },
+        {
+            "link": "/overwatch/AIS_5G_eSports_U_Series:_Overwatch_2",
+            "end_date": "2023-05-27"
+        },
+        {
+            "link": "/overwatch/EGL_Community_Recall/8",
+            "end_date": "2023-05-20"
+        },
+        {
+            "link": "/overwatch/Belong_Throwdown/6",
+            "end_date": "2023-05-13"
+        },
+        {
+            "link": "/overwatch/Lakeside_Showdown/4",
+            "end_date": "2023-05-07"
+        },
+        {
+            "link": "/overwatch/Generation_Esports/Summit",
+            "end_date": "2023-05-07"
+        },
+        {
+            "link": "/overwatch/EGL_Community_Recall/7",
+            "end_date": "2023-05-06"
+        },
+        {
+            "link": "/overwatch/Console_Gaming_League/Season_11/PC/NA",
+            "end_date": "2023-05-06"
+        },
+        {
+            "link": "/overwatch/Guardian_Angel_Fundraiser",
+            "end_date": "2023-04-29"
+        },
+        {
+            "link": "/overwatch/Console_Gaming_League/Season_11/Console",
+            "end_date": "2023-04-29"
+        },
+        {
+            "link": "/overwatch/Boston_Uprising_Collegiate_Cup/2023/Spring",
+            "end_date": "2023-04-29"
+        },
+        {
+            "link": "/overwatch/Console_Gaming_League/Season_11/PC/EU",
+            "end_date": "2023-04-27"
+        },
+        {
+            "link": "/overwatch/ICA_Series_LAN",
+            "end_date": "2023-04-22"
+        },
+        {
+            "link": "/overwatch/EGL_Community_Recall/6",
+            "end_date": "2023-04-22"
+        },
+        {
+            "link": "/overwatch/Val_Verde_Unified_Esports_Tournament/2023",
+            "end_date": "2023-04-22"
+        },
+        {
+            "link": "/overwatch/Belong_Throwdown/5",
+            "end_date": "2023-04-15"
+        },
+        {
+            "link": "/overwatch/Zain_Esports_Tournament",
+            "end_date": "2023-04-14"
+        },
+        {
+            "link": "/overwatch/Gamers_Assembly/2023",
+            "end_date": "2023-04-09"
+        },
+        {
+            "link": "/overwatch/Nittany_Invitational/2023",
+            "end_date": "2023-04-09"
+        },
+        {
+            "link": "/overwatch/EGL_Community_Recall/5",
+            "end_date": "2023-04-08"
+        },
+        {
+            "link": "/overwatch/The_Gathering/2023",
+            "end_date": "2023-04-07"
+        },
+        {
+            "link": "/overwatch/LA3EB_X_NR/Community_Heroes/PC",
+            "end_date": "2023-04-06"
+        },
+        {
+            "link": "/overwatch/LA3EB_X_NR/Community_Heroes/Console",
+            "end_date": "2023-04-06"
+        },
+        {
+            "link": "/overwatch/University_of_Kentucky_Overwatch_Spring_Invitational/2023",
+            "end_date": "2023-04-02"
+        },
+        {
+            "link": "/overwatch/Console_vs_PC",
+            "end_date": "2023-03-25"
+        },
+        {
+            "link": "/overwatch/Atlas_Nemesis_Showdown",
+            "end_date": "2023-03-19"
+        },
+        {
+            "link": "/overwatch/HyperX_Esports_Arena/College_Night:_Recall/3",
+            "end_date": "2023-03-19"
+        },
+        {
+            "link": "/overwatch/Belong_Throwdown/4",
+            "end_date": "2023-03-18"
+        },
+        {
+            "link": "/overwatch/EGC_2023_Midwest_Madness",
+            "end_date": "2023-03-18"
+        },
+        {
+            "link": "/overwatch/EGL_Community_Recall/4",
+            "end_date": "2023-03-11"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Brazil",
+            "end_date": "2023-03-05"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Colombia",
+            "end_date": "2023-03-05"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Argentina",
+            "end_date": "2023-03-05"
+        },
+        {
+            "link": "/overwatch/Game_Mason_2023",
+            "end_date": "2023-03-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Taiwan",
+            "end_date": "2023-02-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Indonesia",
+            "end_date": "2023-02-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Hong_Kong",
+            "end_date": "2023-02-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Australia",
+            "end_date": "2023-02-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Singapore",
+            "end_date": "2023-02-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Philippines",
+            "end_date": "2023-02-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/New_Zealand",
+            "end_date": "2023-02-27"
+        },
+        {
+            "link": "/overwatch/Battle_for_the_Midwest/5",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Japan",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Chile",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Italy",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Spain",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Norway",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Turkey",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Malaysia",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Thailand",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Guatemala",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Costa_Rica",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Netherlands",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/United_States",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Mexico",
+            "end_date": "2023-02-25"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Ecuador",
+            "end_date": "2023-02-25"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Puerto_Rico",
+            "end_date": "2023-02-25"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/South_Korea",
+            "end_date": "2023-02-25"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/India",
+            "end_date": "2023-02-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Canada",
+            "end_date": "2023-02-24"
+        },
+        {
+            "link": "/overwatch/Welsh_Esports_League/2023/Season_1",
+            "end_date": "2023-02-23"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Peru",
+            "end_date": "2023-02-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/France",
+            "end_date": "2023-02-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Poland",
+            "end_date": "2023-02-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Sweden",
+            "end_date": "2023-02-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Belgium",
+            "end_date": "2023-02-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Germany",
+            "end_date": "2023-02-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/Saudi_Arabia",
+            "end_date": "2023-02-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2023/Open_Trials/United_Kingdom",
+            "end_date": "2023-02-19"
+        },
+        {
+            "link": "/overwatch/LVL_UP_EXPO",
+            "end_date": "2023-02-18"
+        },
+        {
+            "link": "/overwatch/Insomnia/Egypt",
+            "end_date": "2023-02-18"
+        },
+        {
+            "link": "/overwatch/Belong_Throwdown/3",
+            "end_date": "2023-02-18"
+        },
+        {
+            "link": "/overwatch/ESET_Tournament",
+            "end_date": "2023-02-17"
+        },
+        {
+            "link": "/overwatch/Back2TheGame_Community_Cup_4",
+            "end_date": "2023-02-12"
+        },
+        {
+            "link": "/overwatch/Winter_Clash_2023",
+            "end_date": "2023-02-12"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/18",
+            "end_date": "2023-02-11"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/18",
+            "end_date": "2023-02-11"
+        },
+        {
+            "link": "/overwatch/SkyEsports_India/WD_Black_Cup",
+            "end_date": "2023-02-05"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/17",
+            "end_date": "2023-02-04"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/17",
+            "end_date": "2023-02-04"
+        },
+        {
+            "link": "/overwatch/Youscrim_Community_Tournament",
+            "end_date": "2023-01-29"
+        },
+        {
+            "link": "/overwatch/EGL_Community_Recall/3",
+            "end_date": "2023-01-28"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/16",
+            "end_date": "2023-01-28"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/16",
+            "end_date": "2023-01-28"
+        },
+        {
+            "link": "/overwatch/Contenders_eSports_Irvine_Overwatch_2",
+            "end_date": "2023-01-26"
+        },
+        {
+            "link": "/overwatch/HyperX_Esports_Arena/Overwatch_2/4",
+            "end_date": "2023-01-22"
+        },
+        {
+            "link": "/overwatch/Belong_Throwdown/2",
+            "end_date": "2023-01-21"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/15",
+            "end_date": "2023-01-21"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/15",
+            "end_date": "2023-01-21"
+        },
+        {
+            "link": "/overwatch/EZK/Nadiya_Cup/2023/Winter",
+            "end_date": "2023-01-15"
+        },
+        {
+            "link": "/overwatch/UCEI_Invitational/2023",
+            "end_date": "2023-01-15"
+        },
+        {
+            "link": "/overwatch/Will_English_IVitational/5",
+            "end_date": "2023-01-15"
+        },
+        {
+            "link": "/overwatch/Overwatch_2_Rangsit_University_2023",
+            "end_date": "2023-01-15"
+        },
+        {
+            "link": "/overwatch/EGL_Community_Recall/2",
+            "end_date": "2023-01-14"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/14",
+            "end_date": "2023-01-14"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/14",
+            "end_date": "2023-01-14"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/13",
+            "end_date": "2023-01-07"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/13",
+            "end_date": "2023-01-07"
+        },
+        {
+            "link": "/overwatch/NR_Champions",
+            "end_date": "2023-01-06"
+        }
     ]
 }

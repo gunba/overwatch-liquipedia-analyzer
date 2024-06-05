@@ -1,6 +1,8 @@
+import argparse
 import json
 import os
 import time
+from datetime import datetime
 from urllib.parse import quote, urlencode
 
 import requests
@@ -18,13 +20,13 @@ api_endpoint = "https://liquipedia.net/overwatch/api.php"
 output_dir = "headers_text"
 os.makedirs(output_dir, exist_ok=True)
 
-# Define the tournament categories and their year ranges
+# Define the tournament categories
 categories_with_years = [
-    ("B-Tier_Tournaments", 2015),
-    ("C-Tier_Tournaments", 2015),
-    ("D-Tier_Tournaments", 2015),
-    ("Qualifier_Tournaments", 2015),
-    ("Weekly_Tournaments", 2015),
+    "B-Tier_Tournaments",
+    "C-Tier_Tournaments",
+    "D-Tier_Tournaments",
+    "Qualifier_Tournaments",
+    "Weekly_Tournaments",
 ]
 
 categories_without_years = [
@@ -32,19 +34,6 @@ categories_without_years = [
     "A-Tier_Tournaments",
     "Monthly_Tournaments",
 ]
-
-# Get the current year
-current_year = 2024
-
-# Generate the list of pages to fetch
-pages_to_fetch = []
-
-for category, start_year in categories_with_years:
-    for year in range(start_year, current_year + 1):
-        pages_to_fetch.append(f"{category}/{year}")
-
-for category in categories_without_years:
-    pages_to_fetch.append(category)
 
 
 def fetch_wikitext(page):
@@ -58,23 +47,55 @@ def fetch_wikitext(page):
     return response_json  # Return the JSON response as a dictionary
 
 
-# Fetch and save the data
-for page in tqdm(pages_to_fetch, desc="Fetching tournament data"):
-    try:
-        wikitext = fetch_wikitext(page)
+def main(start_date):
+    # Convert start_date to a year
+    start_year = datetime.strptime(start_date, "%Y-%m-%d").year
+    end_year = datetime.now().year  # Always current year
 
-        # Sanitize the filename
-        filename = page.replace("/", "_") + ".json"
+    # Generate the list of pages to fetch
+    pages_to_fetch = []
 
-        filepath = os.path.join(output_dir, filename)
-        with open(filepath, "w", encoding="utf-8") as file:
-            json.dump(
-                wikitext, file, ensure_ascii=False, indent=4
-            )  # Write JSON data
+    # Add data for categories with specified year range
+    for category in categories_with_years:
+        for year in range(start_year, end_year + 1):
+            pages_to_fetch.append(f"{category}/{year}")
 
-        # Respect rate limiting
-        time.sleep(30)  # Add a 30-second delay
-    except Exception as e:
-        print(f"Error fetching data for {page}: {e}")
+    # Add data for categories without years
+    for category in categories_without_years:
+        pages_to_fetch.append(category)
 
-print("Data fetching complete.")
+    # Fetch and save the data
+    for page in tqdm(pages_to_fetch, desc="Fetching tournament data"):
+        try:
+            wikitext = fetch_wikitext(page)
+
+            # Sanitize the filename
+            filename = page.replace("/", "_") + ".json"
+
+            filepath = os.path.join(output_dir, filename)
+            with open(filepath, "w", encoding="utf-8") as file:
+                json.dump(
+                    wikitext, file, ensure_ascii=False, indent=4
+                )  # Write JSON data
+
+            # Respect rate limiting
+            time.sleep(30)  # Add a 30-second delay
+        except Exception as e:
+            print(f"Error fetching data for {page}: {e}")
+
+    print("Data fetching complete.")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Fetch Overwatch tournament data."
+    )
+    parser.add_argument(
+        "--start-date",
+        type=str,
+        required=True,
+        help="The start date for fetching data in YYYY-MM-DD format.",
+    )
+    args = parser.parse_args()
+
+    main(args.start_date)

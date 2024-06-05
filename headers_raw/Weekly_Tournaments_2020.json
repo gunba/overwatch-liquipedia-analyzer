@@ -1,20 +1,68 @@
 {
-    "links": [
-        "/overwatch/Overwatch_Contenders/2020/Season_1/Europe/Week_4",
-        "/overwatch/Overwatch_Contenders/2020/Season_1/North_America/Week_4",
-        "/overwatch/Overwatch_Contenders/2020/Season_1/Europe/Week_3",
-        "/overwatch/Overwatch_Contenders/2020/Season_1/North_America/Week_3",
-        "/overwatch/Overwatch_Collegiate_Clash/Week_7",
-        "/overwatch/Overwatch_Collegiate_Clash/Week_6",
-        "/overwatch/Overwatch_Collegiate_Clash/Week_5",
-        "/overwatch/Overwatch_Collegiate_Clash/Week_4",
-        "/overwatch/Overwatch_Collegiate_Clash/Week_3",
-        "/overwatch/Allied_Esports_Overwatch_Online_-_3/28",
-        "/overwatch/Overwatch_Collegiate_Clash/Week_2",
-        "/overwatch/Overwatch_Contenders/2020/Season_1/Europe/Week_2",
-        "/overwatch/Overwatch_Contenders/2020/Season_1/North_America/Week_2",
-        "/overwatch/Overwatch_Collegiate_Clash/Week_1",
-        "/overwatch/Overwatch_Contenders/2020/Season_1/Europe/Week_1",
-        "/overwatch/Overwatch_Contenders/2020/Season_1/North_America/Week_1"
+    "tournaments": [
+        {
+            "link": "/overwatch/Overwatch_Contenders/2020/Season_1/Europe/Week_4",
+            "end_date": "2020-05-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2020/Season_1/North_America/Week_4",
+            "end_date": "2020-05-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2020/Season_1/Europe/Week_3",
+            "end_date": "2020-05-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2020/Season_1/North_America/Week_3",
+            "end_date": "2020-05-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Clash/Week_7",
+            "end_date": "2020-05-01"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Clash/Week_6",
+            "end_date": "2020-04-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Clash/Week_5",
+            "end_date": "2020-04-17"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Clash/Week_4",
+            "end_date": "2020-04-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Clash/Week_3",
+            "end_date": "2020-04-03"
+        },
+        {
+            "link": "/overwatch/Allied_Esports_Overwatch_Online_-_3/28",
+            "end_date": "2020-03-29"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Clash/Week_2",
+            "end_date": "2020-03-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2020/Season_1/Europe/Week_2",
+            "end_date": "2020-03-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2020/Season_1/North_America/Week_2",
+            "end_date": "2020-03-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Clash/Week_1",
+            "end_date": "2020-03-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2020/Season_1/Europe/Week_1",
+            "end_date": "2020-03-13"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2020/Season_1/North_America/Week_1",
+            "end_date": "2020-03-13"
+        }
     ]
 }

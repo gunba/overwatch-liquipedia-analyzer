@@ -1,101 +1,392 @@
 {
-    "links": [
-        "/overwatch/Overwatch_Campeonato_Brasileiro/2017",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_5",
-        "/overwatch/Sancta_Domenica_Reboot_Infogamer/2017",
-        "/overwatch/RUR_Overwatch_Reboot_Infogamer/2017",
-        "/overwatch/TelenorLIGAEN/Autumn_2017/Division_1",
-        "/overwatch/Lenovo_Legion/2017/Budapest",
-        "/overwatch/Fnac_Overwatch_Challenge/3",
-        "/overwatch/ASUS_ROG_Tournament/2017/GameXpo",
-        "/overwatch/SURGE/2017",
-        "/overwatch/Red_Bull_Coliseum_Overwatch",
-        "/overwatch/DreamHack/2017/Denver/BYOC",
-        "/overwatch/Sancta_Domenica_Gaming_Day",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_4",
-        "/overwatch/Grail_Quest/2017",
-        "/overwatch/SwitzerLAN/2017",
-        "/overwatch/All_for_Ladies",
-        "/overwatch/Legend_Series_Overwatch/Season_1",
-        "/overwatch/JCG/Master/2017/Summer_Finals",
-        "/overwatch/Milan_Games_Week/2017",
-        "/overwatch/Geneva_Gaming_Convention/2017",
-        "/overwatch/Harvey_Norman_Gamers_Cup/2017",
-        "/overwatch/Kuwait_National_Overwatch_Tournament",
-        "/overwatch/DreamHack/2017/Montreal",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_3",
-        "/overwatch/Bigfile_Overwatch_Battleroyal",
-        "/overwatch/Assembly/2017/Summer/BYOC",
-        "/overwatch/ASUS_ROG_Tournament/2017/Summer",
-        "/overwatch/Nexus_Cup/2017/Summer",
-        "/overwatch/Turkey_Overwatch_Championship/2017",
-        "/overwatch/DreamHack/2017/Valencia",
-        "/overwatch/Davich_Overwatch_Amateur_League",
-        "/overwatch/GAME_Stadium",
-        "/overwatch/BEAT_Invitational/Season_2",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_2",
-        "/overwatch/AOC_OPEN",
-        "/overwatch/Lion_City_Esports_Cup",
-        "/overwatch/Overwatch_GeForce_Cup/Bahrain",
-        "/overwatch/DreamHack/2017/Summer/BYOC",
-        "/overwatch/Summer_Meltdown",
-        "/overwatch/Athena_Cup_Open_League/Finals",
-        "/overwatch/Overwatch_Cybergamer_OCE_Circuit/Professional",
-        "/overwatch/%C3%9Altima_Arena",
-        "/overwatch/Vectorama/2017",
-        "/overwatch/SnasGOLD/2",
-        "/overwatch/GeForce_CUP/Japan",
-        "/overwatch/ESL/Italia_Championship/Summer/2017",
-        "/overwatch/ESL/ANZ_Championship/Season_1/Finals",
-        "/overwatch/BirdieLAN/27",
-        "/overwatch/Alienware_Monthly_Melee/2017/May",
-        "/overwatch/HTC_Vive_Community_Nights/NA/1",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series",
-        "/overwatch/Middle_East_Gaming/1",
-        "/overwatch/TelenorLIGAEN/Spring_2017/Division_1",
-        "/overwatch/CyberPowerPC_2017_Extreme_Gaming_Series/Spring_Invitational",
-        "/overwatch/Overwatch_SEA_Tournament",
-        "/overwatch/DreamHack/2017/Austin",
-        "/overwatch/Swiss_Gaming_Challenge_2017/1",
-        "/overwatch/Fantasy_Expo_Challenge_Season_4/FEC_Games_4",
-        "/overwatch/Overwatch_GeForce_Cup/Middle_East",
-        "/overwatch/Overwatch_Arena/Season_2",
-        "/overwatch/PolyLAN/29",
-        "/overwatch/Gamers_Assembly/2017",
-        "/overwatch/Alienware_Monthly_Melee/2017/April",
-        "/overwatch/Copenhagen_Games/2017",
-        "/overwatch/Overwatch_PIT_Championship/Europe/Season_1",
-        "/overwatch/Overwatch_PIT_Championship/North_America/Season_1",
-        "/overwatch/Road_to_APEX",
-        "/overwatch/Overwatch_OMEN_CUP",
-        "/overwatch/Brasil_Game_Cup/2017/Rio_de_Janeiro",
-        "/overwatch/Game_In_Pro/2017",
-        "/overwatch/Overwatch_Singapore_Tournament_2017",
-        "/overwatch/The_MRO_Overwatch:_Open",
-        "/overwatch/Alienware_Monthly_Melee/2017/March",
-        "/overwatch/Nexus_Cup/2017/Spring",
-        "/overwatch/DouyuTV_NGA_Cup/Season_3",
-        "/overwatch/ASUS_ROG/Trials_of_Champions",
-        "/overwatch/Oceanic_Summer_Series",
-        "/overwatch/Alienware_Monthly_Melee/2017/February",
-        "/overwatch/Japan_e-Sports_Championships/2017",
-        "/overwatch/Montpellier_eSport_Show/2017",
-        "/overwatch/Agents_Fireteam",
-        "/overwatch/Enter_The_Arena:_Overwatch",
-        "/overwatch/Gaming_WinterFest/2017",
-        "/overwatch/JCG/Master/2017/Winter_Finals",
-        "/overwatch/Overwatch_GeForce_Cup/Middle_East_%26_North_Africa/1",
-        "/overwatch/Haste_Overwatch/2017",
-        "/overwatch/Assembly/2017/Winter",
-        "/overwatch/Assembly/2017/Winter/BYOC/2",
-        "/overwatch/Assembly/2017/Winter/BYOC/1",
-        "/overwatch/Overwatch_XTRA_Cup",
-        "/overwatch/Haste_NA_Overwatch_Tournament",
-        "/overwatch/Alienware_Monthly_Melee/2017/January",
-        "/overwatch/DouyuTV_NGA_Cup/Season_2",
-        "/overwatch/King_of_Challengers/Season_1",
-        "/overwatch/RuneMedia_Overwatch_Grand_Prix/Season_3",
-        "/overwatch/Zagreb_Gaming_Arena",
-        "/overwatch/CEGM_Overwatch_Tournament_2016/Winter"
+    "tournaments": [
+        {
+            "link": "/overwatch/Overwatch_Campeonato_Brasileiro/2017",
+            "end_date": "2017-12-09"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_5",
+            "end_date": "2017-12-09"
+        },
+        {
+            "link": "/overwatch/Sancta_Domenica_Reboot_Infogamer/2017",
+            "end_date": "2017-11-25"
+        },
+        {
+            "link": "/overwatch/RUR_Overwatch_Reboot_Infogamer/2017",
+            "end_date": "2017-11-23"
+        },
+        {
+            "link": "/overwatch/TelenorLIGAEN/Autumn_2017/Division_1",
+            "end_date": "2017-11-19"
+        },
+        {
+            "link": "/overwatch/Lenovo_Legion/2017/Budapest",
+            "end_date": "2017-11-18"
+        },
+        {
+            "link": "/overwatch/Fnac_Overwatch_Challenge/3",
+            "end_date": "2017-11-11"
+        },
+        {
+            "link": "/overwatch/ASUS_ROG_Tournament/2017/GameXpo",
+            "end_date": "2017-11-05"
+        },
+        {
+            "link": "/overwatch/SURGE/2017",
+            "end_date": "2017-10-29"
+        },
+        {
+            "link": "/overwatch/Red_Bull_Coliseum_Overwatch",
+            "end_date": "2017-10-29"
+        },
+        {
+            "link": "/overwatch/DreamHack/2017/Denver/BYOC",
+            "end_date": "2017-10-22"
+        },
+        {
+            "link": "/overwatch/Sancta_Domenica_Gaming_Day",
+            "end_date": "2017-10-21"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_4",
+            "end_date": "2017-10-21"
+        },
+        {
+            "link": "/overwatch/Grail_Quest/2017",
+            "end_date": "2017-10-20"
+        },
+        {
+            "link": "/overwatch/SwitzerLAN/2017",
+            "end_date": "2017-10-16"
+        },
+        {
+            "link": "/overwatch/All_for_Ladies",
+            "end_date": "2017-10-14"
+        },
+        {
+            "link": "/overwatch/Legend_Series_Overwatch/Season_1",
+            "end_date": "2017-10-07"
+        },
+        {
+            "link": "/overwatch/JCG/Master/2017/Summer_Finals",
+            "end_date": "2017-10-01"
+        },
+        {
+            "link": "/overwatch/Milan_Games_Week/2017",
+            "end_date": "2017-09-30"
+        },
+        {
+            "link": "/overwatch/Geneva_Gaming_Convention/2017",
+            "end_date": "2017-09-24"
+        },
+        {
+            "link": "/overwatch/Harvey_Norman_Gamers_Cup/2017",
+            "end_date": "2017-09-24"
+        },
+        {
+            "link": "/overwatch/Kuwait_National_Overwatch_Tournament",
+            "end_date": "2017-09-23"
+        },
+        {
+            "link": "/overwatch/DreamHack/2017/Montreal",
+            "end_date": "2017-09-10"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_3",
+            "end_date": "2017-09-02"
+        },
+        {
+            "link": "/overwatch/Bigfile_Overwatch_Battleroyal",
+            "end_date": "2017-08-11"
+        },
+        {
+            "link": "/overwatch/Assembly/2017/Summer/BYOC",
+            "end_date": "2017-08-05"
+        },
+        {
+            "link": "/overwatch/ASUS_ROG_Tournament/2017/Summer",
+            "end_date": "2017-08-04"
+        },
+        {
+            "link": "/overwatch/Nexus_Cup/2017/Summer",
+            "end_date": "2017-07-26"
+        },
+        {
+            "link": "/overwatch/Turkey_Overwatch_Championship/2017",
+            "end_date": "2017-07-24"
+        },
+        {
+            "link": "/overwatch/DreamHack/2017/Valencia",
+            "end_date": "2017-07-16"
+        },
+        {
+            "link": "/overwatch/Davich_Overwatch_Amateur_League",
+            "end_date": "2017-07-15"
+        },
+        {
+            "link": "/overwatch/GAME_Stadium",
+            "end_date": "2017-07-09"
+        },
+        {
+            "link": "/overwatch/BEAT_Invitational/Season_2",
+            "end_date": "2017-07-09"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_2",
+            "end_date": "2017-07-08"
+        },
+        {
+            "link": "/overwatch/AOC_OPEN",
+            "end_date": "2017-07-01"
+        },
+        {
+            "link": "/overwatch/Lion_City_Esports_Cup",
+            "end_date": "2017-07-01"
+        },
+        {
+            "link": "/overwatch/Overwatch_GeForce_Cup/Bahrain",
+            "end_date": "2017-06-30"
+        },
+        {
+            "link": "/overwatch/DreamHack/2017/Summer/BYOC",
+            "end_date": "2017-06-19"
+        },
+        {
+            "link": "/overwatch/Summer_Meltdown",
+            "end_date": "2017-06-18"
+        },
+        {
+            "link": "/overwatch/Athena_Cup_Open_League/Finals",
+            "end_date": "2017-06-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_Cybergamer_OCE_Circuit/Professional",
+            "end_date": "2017-06-11"
+        },
+        {
+            "link": "/overwatch/%C3%9Altima_Arena",
+            "end_date": "2017-06-10"
+        },
+        {
+            "link": "/overwatch/Vectorama/2017",
+            "end_date": "2017-06-10"
+        },
+        {
+            "link": "/overwatch/SnasGOLD/2",
+            "end_date": "2017-06-04"
+        },
+        {
+            "link": "/overwatch/GeForce_CUP/Japan",
+            "end_date": "2017-06-03"
+        },
+        {
+            "link": "/overwatch/ESL/Italia_Championship/Summer/2017",
+            "end_date": "2017-06-03"
+        },
+        {
+            "link": "/overwatch/ESL/ANZ_Championship/Season_1/Finals",
+            "end_date": "2017-05-28"
+        },
+        {
+            "link": "/overwatch/BirdieLAN/27",
+            "end_date": "2017-05-26"
+        },
+        {
+            "link": "/overwatch/Alienware_Monthly_Melee/2017/May",
+            "end_date": "2017-05-25"
+        },
+        {
+            "link": "/overwatch/HTC_Vive_Community_Nights/NA/1",
+            "end_date": "2017-05-21"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series",
+            "end_date": "2017-05-20"
+        },
+        {
+            "link": "/overwatch/Middle_East_Gaming/1",
+            "end_date": "2017-05-19"
+        },
+        {
+            "link": "/overwatch/TelenorLIGAEN/Spring_2017/Division_1",
+            "end_date": "2017-05-14"
+        },
+        {
+            "link": "/overwatch/CyberPowerPC_2017_Extreme_Gaming_Series/Spring_Invitational",
+            "end_date": "2017-05-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_SEA_Tournament",
+            "end_date": "2017-05-06"
+        },
+        {
+            "link": "/overwatch/DreamHack/2017/Austin",
+            "end_date": "2017-04-30"
+        },
+        {
+            "link": "/overwatch/Swiss_Gaming_Challenge_2017/1",
+            "end_date": "2017-04-30"
+        },
+        {
+            "link": "/overwatch/Fantasy_Expo_Challenge_Season_4/FEC_Games_4",
+            "end_date": "2017-04-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_GeForce_Cup/Middle_East",
+            "end_date": "2017-04-22"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena/Season_2",
+            "end_date": "2017-04-20"
+        },
+        {
+            "link": "/overwatch/PolyLAN/29",
+            "end_date": "2017-04-18"
+        },
+        {
+            "link": "/overwatch/Gamers_Assembly/2017",
+            "end_date": "2017-04-17"
+        },
+        {
+            "link": "/overwatch/Alienware_Monthly_Melee/2017/April",
+            "end_date": "2017-04-16"
+        },
+        {
+            "link": "/overwatch/Copenhagen_Games/2017",
+            "end_date": "2017-04-15"
+        },
+        {
+            "link": "/overwatch/Overwatch_PIT_Championship/Europe/Season_1",
+            "end_date": "2017-04-14"
+        },
+        {
+            "link": "/overwatch/Overwatch_PIT_Championship/North_America/Season_1",
+            "end_date": "2017-04-14"
+        },
+        {
+            "link": "/overwatch/Road_to_APEX",
+            "end_date": "2017-04-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_OMEN_CUP",
+            "end_date": "2017-04-09"
+        },
+        {
+            "link": "/overwatch/Brasil_Game_Cup/2017/Rio_de_Janeiro",
+            "end_date": "2017-04-07"
+        },
+        {
+            "link": "/overwatch/Game_In_Pro/2017",
+            "end_date": "2017-04-06"
+        },
+        {
+            "link": "/overwatch/Overwatch_Singapore_Tournament_2017",
+            "end_date": "2017-04-01"
+        },
+        {
+            "link": "/overwatch/The_MRO_Overwatch:_Open",
+            "end_date": "2017-03-25"
+        },
+        {
+            "link": "/overwatch/Alienware_Monthly_Melee/2017/March",
+            "end_date": "2017-03-19"
+        },
+        {
+            "link": "/overwatch/Nexus_Cup/2017/Spring",
+            "end_date": "2017-03-16"
+        },
+        {
+            "link": "/overwatch/DouyuTV_NGA_Cup/Season_3",
+            "end_date": "2017-03-15"
+        },
+        {
+            "link": "/overwatch/ASUS_ROG/Trials_of_Champions",
+            "end_date": "2017-03-10"
+        },
+        {
+            "link": "/overwatch/Oceanic_Summer_Series",
+            "end_date": "2017-02-26"
+        },
+        {
+            "link": "/overwatch/Alienware_Monthly_Melee/2017/February",
+            "end_date": "2017-02-26"
+        },
+        {
+            "link": "/overwatch/Japan_e-Sports_Championships/2017",
+            "end_date": "2017-02-26"
+        },
+        {
+            "link": "/overwatch/Montpellier_eSport_Show/2017",
+            "end_date": "2017-02-25"
+        },
+        {
+            "link": "/overwatch/Agents_Fireteam",
+            "end_date": "2017-02-23"
+        },
+        {
+            "link": "/overwatch/Enter_The_Arena:_Overwatch",
+            "end_date": "2017-02-20"
+        },
+        {
+            "link": "/overwatch/Gaming_WinterFest/2017",
+            "end_date": "2017-02-19"
+        },
+        {
+            "link": "/overwatch/JCG/Master/2017/Winter_Finals",
+            "end_date": "2017-02-05"
+        },
+        {
+            "link": "/overwatch/Overwatch_GeForce_Cup/Middle_East_%26_North_Africa/1",
+            "end_date": "2017-02-05"
+        },
+        {
+            "link": "/overwatch/Haste_Overwatch/2017",
+            "end_date": "2017-02-04"
+        },
+        {
+            "link": "/overwatch/Assembly/2017/Winter",
+            "end_date": "2017-02-04"
+        },
+        {
+            "link": "/overwatch/Assembly/2017/Winter/BYOC/2",
+            "end_date": "2017-02-04"
+        },
+        {
+            "link": "/overwatch/Assembly/2017/Winter/BYOC/1",
+            "end_date": "2017-02-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_XTRA_Cup",
+            "end_date": "2017-01-28"
+        },
+        {
+            "link": "/overwatch/Haste_NA_Overwatch_Tournament",
+            "end_date": "2017-01-22"
+        },
+        {
+            "link": "/overwatch/Alienware_Monthly_Melee/2017/January",
+            "end_date": "2017-01-22"
+        },
+        {
+            "link": "/overwatch/DouyuTV_NGA_Cup/Season_2",
+            "end_date": "2017-01-19"
+        },
+        {
+            "link": "/overwatch/King_of_Challengers/Season_1",
+            "end_date": "2017-01-06"
+        },
+        {
+            "link": "/overwatch/RuneMedia_Overwatch_Grand_Prix/Season_3",
+            "end_date": "2017-01-05"
+        },
+        {
+            "link": "/overwatch/Zagreb_Gaming_Arena",
+            "end_date": "2017-01-03"
+        },
+        {
+            "link": "/overwatch/CEGM_Overwatch_Tournament_2016/Winter",
+            "end_date": "2017-01-01"
+        }
     ]
 }

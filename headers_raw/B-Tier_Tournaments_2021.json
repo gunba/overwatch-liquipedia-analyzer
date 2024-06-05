@@ -1,28 +1,100 @@
 {
-    "links": [
-        "/overwatch/NACE_Starleague/2021",
-        "/overwatch/RUSH_Gaming_Festival_2021",
-        "/overwatch/Mayhem_Classic_Series/2021/Fall",
-        "/overwatch/HUE_Invitational/2021",
-        "/overwatch/Mobily_Blitz_Community_Cup",
-        "/overwatch/Overwatch_Contenders/2021/Season_3/Europe/Trials",
-        "/overwatch/Overwatch_Contenders/2021/Season_3/North_America/Trials",
-        "/overwatch/Overwatch_Contenders/2021/Season_2/Australia/Trials",
-        "/overwatch/Overwatch_Contenders/2021/Season_2/Korea/Trials",
-        "/overwatch/Overwatch_Contenders/2021/Season_2/China/Trials",
-        "/overwatch/WDG/OVERWATCH_UNLIMITED",
-        "/overwatch/Cheez-It_Grooves_College_Esports_Invitational",
-        "/overwatch/Overwatch_Contenders/2021/Season_2/Europe/Trials",
-        "/overwatch/Overwatch_Contenders/2021/Season_2/North_America/Trials",
-        "/overwatch/FWG_Overwatch_Tournament",
-        "/overwatch/EFuse_Collegiate_Showmatch/2",
-        "/overwatch/Mayhem_Classic_Series/2021/Spring",
-        "/overwatch/Overwatch_Contenders/2021/Season_1/China/Trials",
-        "/overwatch/Overwatch_Contenders/2021/Season_1/Europe/Trials",
-        "/overwatch/Overwatch_Contenders/2021/Season_1/North_America/Trials",
-        "/overwatch/Overwatch_Contenders/2021/Season_1/Australia/Trials",
-        "/overwatch/Overwatch_Contenders/2021/Season_1/Korea/Trials",
-        "/overwatch/EFuse_Collegiate_Showmatch/1",
-        "/overwatch/Power_Series_League/2020/Winter"
+    "tournaments": [
+        {
+            "link": "/overwatch/NACE_Starleague/2021",
+            "end_date": "2021-12-05"
+        },
+        {
+            "link": "/overwatch/RUSH_Gaming_Festival_2021",
+            "end_date": "2021-10-26"
+        },
+        {
+            "link": "/overwatch/Mayhem_Classic_Series/2021/Fall",
+            "end_date": "2021-10-23"
+        },
+        {
+            "link": "/overwatch/HUE_Invitational/2021",
+            "end_date": "2021-09-19"
+        },
+        {
+            "link": "/overwatch/Mobily_Blitz_Community_Cup",
+            "end_date": "2021-09-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_3/Europe/Trials",
+            "end_date": "2021-08-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_3/North_America/Trials",
+            "end_date": "2021-08-24"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_2/Australia/Trials",
+            "end_date": "2021-07-25"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_2/Korea/Trials",
+            "end_date": "2021-07-21"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_2/China/Trials",
+            "end_date": "2021-06-30"
+        },
+        {
+            "link": "/overwatch/WDG/OVERWATCH_UNLIMITED",
+            "end_date": "2021-06-29"
+        },
+        {
+            "link": "/overwatch/Cheez-It_Grooves_College_Esports_Invitational",
+            "end_date": "2021-06-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_2/Europe/Trials",
+            "end_date": "2021-06-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_2/North_America/Trials",
+            "end_date": "2021-06-02"
+        },
+        {
+            "link": "/overwatch/FWG_Overwatch_Tournament",
+            "end_date": "2021-05-22"
+        },
+        {
+            "link": "/overwatch/EFuse_Collegiate_Showmatch/2",
+            "end_date": "2021-03-30"
+        },
+        {
+            "link": "/overwatch/Mayhem_Classic_Series/2021/Spring",
+            "end_date": "2021-03-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_1/China/Trials",
+            "end_date": "2021-03-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_1/Europe/Trials",
+            "end_date": "2021-03-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_1/North_America/Trials",
+            "end_date": "2021-03-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_1/Australia/Trials",
+            "end_date": "2021-03-06"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2021/Season_1/Korea/Trials",
+            "end_date": "2021-03-04"
+        },
+        {
+            "link": "/overwatch/EFuse_Collegiate_Showmatch/1",
+            "end_date": "2021-02-09"
+        },
+        {
+            "link": "/overwatch/Power_Series_League/2020/Winter",
+            "end_date": "2021-01-24"
+        }
     ]
 }

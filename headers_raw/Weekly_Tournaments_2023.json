@@ -1,53 +1,200 @@
 {
-    "links": [
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/20",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/19",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/17",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/18",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/16",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/15",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/14",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/13",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/12",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/11",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/10",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/9",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/8",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/7",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/6",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/5",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/4",
-        "/overwatch/League_Trolli/Duck_Squad_Blitz/3",
-        "/overwatch/Tuwaiq_Challenge/6",
-        "/overwatch/Tuwaiq_Challenge/5",
-        "/overwatch/Tuwaiq_Challenge/4",
-        "/overwatch/Tuwaiq_Challenge/3",
-        "/overwatch/Tuwaiq_Challenge/2",
-        "/overwatch/Tuwaiq_Challenge_/1",
-        "/overwatch/EGL_Global_Overwatch_2_Community_Calls",
-        "/overwatch/GLG_Hall_of_Heroes/10",
-        "/overwatch/EGL_NA_Overwatch_2_Community_Calls/7",
-        "/overwatch/GLG_Hall_of_Heroes/9",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/18",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/18",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/17",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/17",
-        "/overwatch/NGU-CUP/1",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/16",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/16",
-        "/overwatch/GLG_Hall_of_Heroes/8",
-        "/overwatch/EGL_NA_Overwatch_2_Community_Calls/6",
-        "/overwatch/EGL_LATAM_Overwatch_2_Community_Calls/6",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/15",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/15",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/14",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/14",
-        "/overwatch/GameBattles_3v3_Elimination/EU/6",
-        "/overwatch/League_Trolli/Duck_Squad_Brawl/4",
-        "/overwatch/GameBattles_3v3_Elimination/NA/6",
-        "/overwatch/EGL_NA_Overwatch_2_Community_Calls/5",
-        "/overwatch/EGL_LATAM_Overwatch_2_Community_Calls/5",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/13",
-        "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/13"
+    "tournaments": [
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/20",
+            "end_date": "2023-12-02"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/19",
+            "end_date": "2023-11-26"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/17",
+            "end_date": "2023-11-24"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/18",
+            "end_date": "2023-11-24"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/16",
+            "end_date": "2023-11-19"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/15",
+            "end_date": "2023-11-12"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/14",
+            "end_date": "2023-11-05"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/13",
+            "end_date": "2023-10-29"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/12",
+            "end_date": "2023-10-22"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/11",
+            "end_date": "2023-10-15"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/10",
+            "end_date": "2023-10-08"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/9",
+            "end_date": "2023-10-01"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/8",
+            "end_date": "2023-09-24"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/7",
+            "end_date": "2023-09-17"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/6",
+            "end_date": "2023-09-03"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/5",
+            "end_date": "2023-08-27"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/4",
+            "end_date": "2023-08-20"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Blitz/3",
+            "end_date": "2023-08-06"
+        },
+        {
+            "link": "/overwatch/Tuwaiq_Challenge/6",
+            "end_date": "2023-07-19"
+        },
+        {
+            "link": "/overwatch/Tuwaiq_Challenge/5",
+            "end_date": "2023-07-12"
+        },
+        {
+            "link": "/overwatch/Tuwaiq_Challenge/4",
+            "end_date": "2023-07-05"
+        },
+        {
+            "link": "/overwatch/Tuwaiq_Challenge/3",
+            "end_date": "2023-06-21"
+        },
+        {
+            "link": "/overwatch/Tuwaiq_Challenge/2",
+            "end_date": "2023-06-14"
+        },
+        {
+            "link": "/overwatch/Tuwaiq_Challenge_/1",
+            "end_date": "2023-06-07"
+        },
+        {
+            "link": "/overwatch/EGL_Global_Overwatch_2_Community_Calls",
+            "end_date": "2023-04-23"
+        },
+        {
+            "link": "/overwatch/GLG_Hall_of_Heroes/10",
+            "end_date": "2023-03-06"
+        },
+        {
+            "link": "/overwatch/EGL_NA_Overwatch_2_Community_Calls/7",
+            "end_date": "2023-02-26"
+        },
+        {
+            "link": "/overwatch/GLG_Hall_of_Heroes/9",
+            "end_date": "2023-02-13"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/18",
+            "end_date": "2023-02-11"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/18",
+            "end_date": "2023-02-11"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/17",
+            "end_date": "2023-02-04"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/17",
+            "end_date": "2023-02-04"
+        },
+        {
+            "link": "/overwatch/NGU-CUP/1",
+            "end_date": "2023-01-29"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/16",
+            "end_date": "2023-01-28"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/16",
+            "end_date": "2023-01-28"
+        },
+        {
+            "link": "/overwatch/GLG_Hall_of_Heroes/8",
+            "end_date": "2023-01-23"
+        },
+        {
+            "link": "/overwatch/EGL_NA_Overwatch_2_Community_Calls/6",
+            "end_date": "2023-01-22"
+        },
+        {
+            "link": "/overwatch/EGL_LATAM_Overwatch_2_Community_Calls/6",
+            "end_date": "2023-01-21"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/15",
+            "end_date": "2023-01-21"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/15",
+            "end_date": "2023-01-21"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/14",
+            "end_date": "2023-01-14"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/14",
+            "end_date": "2023-01-14"
+        },
+        {
+            "link": "/overwatch/GameBattles_3v3_Elimination/EU/6",
+            "end_date": "2023-01-11"
+        },
+        {
+            "link": "/overwatch/League_Trolli/Duck_Squad_Brawl/4",
+            "end_date": "2023-01-08"
+        },
+        {
+            "link": "/overwatch/GameBattles_3v3_Elimination/NA/6",
+            "end_date": "2023-01-08"
+        },
+        {
+            "link": "/overwatch/EGL_NA_Overwatch_2_Community_Calls/5",
+            "end_date": "2023-01-07"
+        },
+        {
+            "link": "/overwatch/EGL_LATAM_Overwatch_2_Community_Calls/5",
+            "end_date": "2023-01-07"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/EU/13",
+            "end_date": "2023-01-07"
+        },
+        {
+            "link": "/overwatch/GameBattles_Overwatch_2_Online_Tournament/NA/13",
+            "end_date": "2023-01-07"
+        }
     ]
 }

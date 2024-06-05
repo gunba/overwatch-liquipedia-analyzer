@@ -1,50 +1,188 @@
 {
-    "links": [
-        "/overwatch/Overwatch_Collegiate_Varsity_Series/2019/Main_Season",
-        "/overwatch/Overwatch_World_Cup/2019/Preliminaries",
-        "/overwatch/Overwatch_Collegiate_Varsity_Series/2019/Invitational",
-        "/overwatch/NetEase_Esports_X_Tournament/2019/Autumn/Qualifier",
-        "/overwatch/Overwatch_Collegiate_Varsity_Series/2019/Qualifier_2",
-        "/overwatch/Overwatch_Collegiate_Varsity_Series/2019/Qualifier_1",
-        "/overwatch/Rivalcade_Overwatch_Rumble/2019/Qualifier",
-        "/overwatch/Russian_Weekend_Community_Cup/4/Qualifiers",
-        "/overwatch/Unknown_Cup/2/Qualifier",
-        "/overwatch/Overwatch_Thailand_Minor/2019/Season_2",
-        "/overwatch/Overwatch_Russian_Comrades_Cup/Season_1/Non-Pro",
-        "/overwatch/The_Widowmaker_Showdown/2019/Qualifier_2",
-        "/overwatch/The_Widowmaker_Showdown/2019/Qualifier_1",
-        "/overwatch/Unknown_Cup/1/Qualifier",
-        "/overwatch/Courage_Cup/2019/18/Qualifier",
-        "/overwatch/LCES_League/Season_1/Qualifiers_Stage_1",
-        "/overwatch/LCES_League/Season_1/Qualifiers_Stage_2",
-        "/overwatch/FEL_Overwatch_Cup/Qualifier",
-        "/overwatch/NetEase_Esports_X_Tournament/2019/Spring/Qualifier",
-        "/overwatch/Russian_Overwatch_Cup/Season_3/Non-Pro",
-        "/overwatch/Russian_Overwatch_Cup/Season_3/Qualifier",
-        "/overwatch/Overwatch_Thailand_Minor/2019/Season_1",
-        "/overwatch/Tournament_of_Future_Champions/4/NA/Qualifier/B",
-        "/overwatch/Tournament_of_Future_Champions/4/NA/Qualifier/A",
-        "/overwatch/Tournament_of_Future_Champions/4/EU/Qualifier/A",
-        "/overwatch/Tournament_of_Future_Champions/4/EU/Qualifier/B",
-        "/overwatch/Oserv_OW_Tour/6/Qualifier/2",
-        "/overwatch/Oserv_OW_Tour/6/Qualifier/1",
-        "/overwatch/Asia_Community_Cup/Last_Chance_Qualifier",
-        "/overwatch/Asia_Community_Cup/KR_Qualifier_2",
-        "/overwatch/Asia_Community_Cup/All-Asia_Qualifier",
-        "/overwatch/Oserv_OW_Tour/5/Qualifier/3",
-        "/overwatch/Asia_Community_Cup/KR_Qualifier_1",
-        "/overwatch/Asia_Community_Cup/TH_Qualifier_2",
-        "/overwatch/Asia_Community_Cup/MY_ID_HK_Qualifier",
-        "/overwatch/Asia_Community_Cup/SG_Qualifier",
-        "/overwatch/Asia_Community_Cup/TH_Qualifier_1",
-        "/overwatch/Oserv_OW_Tour/5/Qualifier/1",
-        "/overwatch/Oserv_OW_Tour/5/Qualifier/2",
-        "/overwatch/Asia_Community_Cup/JP_Qualifier",
-        "/overwatch/Asia_Community_Cup/TW_VN_PH_Qualifier",
-        "/overwatch/Oserv_OW_Tour/4/Qualifier/3",
-        "/overwatch/Oserv_OW_Tour/4/Qualifier/2",
-        "/overwatch/Jayne%27s_Tournament_of_Future_Champions/3/NA/Qualifier",
-        "/overwatch/Jayne%27s_Tournament_of_Future_Champions/3/EU/Qualifier",
-        "/overwatch/Oserv_OW_Tour/4/Qualifier/1"
+    "tournaments": [
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Varsity_Series/2019/Main_Season",
+            "end_date": "2019-11-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2019/Preliminaries",
+            "end_date": "2019-10-31"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Varsity_Series/2019/Invitational",
+            "end_date": "2019-10-29"
+        },
+        {
+            "link": "/overwatch/NetEase_Esports_X_Tournament/2019/Autumn/Qualifier",
+            "end_date": "2019-10-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Varsity_Series/2019/Qualifier_2",
+            "end_date": "2019-09-28"
+        },
+        {
+            "link": "/overwatch/Overwatch_Collegiate_Varsity_Series/2019/Qualifier_1",
+            "end_date": "2019-09-23"
+        },
+        {
+            "link": "/overwatch/Rivalcade_Overwatch_Rumble/2019/Qualifier",
+            "end_date": "2019-09-21"
+        },
+        {
+            "link": "/overwatch/Russian_Weekend_Community_Cup/4/Qualifiers",
+            "end_date": "2019-09-08"
+        },
+        {
+            "link": "/overwatch/Unknown_Cup/2/Qualifier",
+            "end_date": "2019-09-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_Thailand_Minor/2019/Season_2",
+            "end_date": "2019-08-29"
+        },
+        {
+            "link": "/overwatch/Overwatch_Russian_Comrades_Cup/Season_1/Non-Pro",
+            "end_date": "2019-08-22"
+        },
+        {
+            "link": "/overwatch/The_Widowmaker_Showdown/2019/Qualifier_2",
+            "end_date": "2019-08-06"
+        },
+        {
+            "link": "/overwatch/The_Widowmaker_Showdown/2019/Qualifier_1",
+            "end_date": "2019-08-05"
+        },
+        {
+            "link": "/overwatch/Unknown_Cup/1/Qualifier",
+            "end_date": "2019-08-04"
+        },
+        {
+            "link": "/overwatch/Courage_Cup/2019/18/Qualifier",
+            "end_date": "2019-06-11"
+        },
+        {
+            "link": "/overwatch/LCES_League/Season_1/Qualifiers_Stage_1",
+            "end_date": "2019-06-09"
+        },
+        {
+            "link": "/overwatch/LCES_League/Season_1/Qualifiers_Stage_2",
+            "end_date": "2019-06-09"
+        },
+        {
+            "link": "/overwatch/FEL_Overwatch_Cup/Qualifier",
+            "end_date": "2019-05-25"
+        },
+        {
+            "link": "/overwatch/NetEase_Esports_X_Tournament/2019/Spring/Qualifier",
+            "end_date": "2019-04-21"
+        },
+        {
+            "link": "/overwatch/Russian_Overwatch_Cup/Season_3/Non-Pro",
+            "end_date": "2019-04-19"
+        },
+        {
+            "link": "/overwatch/Russian_Overwatch_Cup/Season_3/Qualifier",
+            "end_date": "2019-04-15"
+        },
+        {
+            "link": "/overwatch/Overwatch_Thailand_Minor/2019/Season_1",
+            "end_date": "2019-03-30"
+        },
+        {
+            "link": "/overwatch/Tournament_of_Future_Champions/4/NA/Qualifier/B",
+            "end_date": "2019-03-26"
+        },
+        {
+            "link": "/overwatch/Tournament_of_Future_Champions/4/NA/Qualifier/A",
+            "end_date": "2019-03-19"
+        },
+        {
+            "link": "/overwatch/Tournament_of_Future_Champions/4/EU/Qualifier/A",
+            "end_date": "2019-03-19"
+        },
+        {
+            "link": "/overwatch/Tournament_of_Future_Champions/4/EU/Qualifier/B",
+            "end_date": "2019-03-19"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/6/Qualifier/2",
+            "end_date": "2019-03-14"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/6/Qualifier/1",
+            "end_date": "2019-03-07"
+        },
+        {
+            "link": "/overwatch/Asia_Community_Cup/Last_Chance_Qualifier",
+            "end_date": "2019-02-24"
+        },
+        {
+            "link": "/overwatch/Asia_Community_Cup/KR_Qualifier_2",
+            "end_date": "2019-02-23"
+        },
+        {
+            "link": "/overwatch/Asia_Community_Cup/All-Asia_Qualifier",
+            "end_date": "2019-02-22"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/5/Qualifier/3",
+            "end_date": "2019-02-21"
+        },
+        {
+            "link": "/overwatch/Asia_Community_Cup/KR_Qualifier_1",
+            "end_date": "2019-02-17"
+        },
+        {
+            "link": "/overwatch/Asia_Community_Cup/TH_Qualifier_2",
+            "end_date": "2019-02-16"
+        },
+        {
+            "link": "/overwatch/Asia_Community_Cup/MY_ID_HK_Qualifier",
+            "end_date": "2019-02-10"
+        },
+        {
+            "link": "/overwatch/Asia_Community_Cup/SG_Qualifier",
+            "end_date": "2019-02-09"
+        },
+        {
+            "link": "/overwatch/Asia_Community_Cup/TH_Qualifier_1",
+            "end_date": "2019-02-08"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/5/Qualifier/1",
+            "end_date": "2019-02-07"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/5/Qualifier/2",
+            "end_date": "2019-02-07"
+        },
+        {
+            "link": "/overwatch/Asia_Community_Cup/JP_Qualifier",
+            "end_date": "2019-02-03"
+        },
+        {
+            "link": "/overwatch/Asia_Community_Cup/TW_VN_PH_Qualifier",
+            "end_date": "2019-02-02"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/4/Qualifier/3",
+            "end_date": "2019-01-24"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/4/Qualifier/2",
+            "end_date": "2019-01-17"
+        },
+        {
+            "link": "/overwatch/Jayne%27s_Tournament_of_Future_Champions/3/NA/Qualifier",
+            "end_date": "2019-01-15"
+        },
+        {
+            "link": "/overwatch/Jayne%27s_Tournament_of_Future_Champions/3/EU/Qualifier",
+            "end_date": "2019-01-15"
+        },
+        {
+            "link": "/overwatch/Oserv_OW_Tour/4/Qualifier/1",
+            "end_date": "2019-01-10"
+        }
     ]
 }

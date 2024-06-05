@@ -1,123 +1,480 @@
 {
-    "links": [
-        "/overwatch/OMEN_Christmas_Experience/2017/Qualifier_2",
-        "/overwatch/OMEN_Christmas_Experience/2017/Qualifier_1",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_5/Qualifier_2",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_5/Qualifier_1",
-        "/overwatch/Logitech_G_Tournament/Taiwan/2017/November",
-        "/overwatch/Lenovo_Legion/2017/Budapest/Qualifier_2",
-        "/overwatch/Lenovo_Legion/2017/Budapest/Qualifier_1",
-        "/overwatch/SURGE/2017/Online_Qualifier",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_4/Qualifier_2",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_4/Qualifier_1",
-        "/overwatch/Overwatch_Razer_Series_Germany/Season_1/Qualifier",
-        "/overwatch/Bi-Monthly_Brawl/Season_1/Pre-Season",
-        "/overwatch/JCG/Master/2017/05",
-        "/overwatch/JCG/Master/2017/04",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_3/Qualifier_2",
-        "/overwatch/JCG/Master/2017/03",
-        "/overwatch/Overwatch_APEX/Season_4/Offline_Qualifier",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_3/Qualifier_1",
-        "/overwatch/Overwatch_APEX/Season_4/Online_Qualifier",
-        "/overwatch/Overwatch_World_Cup/2017/Santa_Monica_Qualifier",
-        "/overwatch/JCG/Master/2017/02",
-        "/overwatch/Overwatch_World_Cup/2017/Katowice_Qualifier",
-        "/overwatch/Overwatch_Premier_Series/2017/Summer/Preseason",
-        "/overwatch/Overwatch_World_Cup/2017/Sydney_Qualifier",
-        "/overwatch/Nexus_Cup/2017/Summer/Chinese_Qualifier",
-        "/overwatch/Overwatch_World_Cup/2017/Shanghai_Qualifier",
-        "/overwatch/Open_Division/2017/Season_1/Korea/Ro32_qualifier",
-        "/overwatch/JCG/Master/2017/01",
-        "/overwatch/ZOTAC_Cup/Europe/1/Qualifier_2",
-        "/overwatch/ZOTAC_Cup/Europe/1/Qualifier_1",
-        "/overwatch/Overwatch_Pacific_Championship/2017/Season_2/Promotion",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_2/Qualifier_3",
-        "/overwatch/ZOTAC_Cup/1/Qualifier_4",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_2/Qualifier_2",
-        "/overwatch/ZOTAC_Cup/1/Qualifier_3",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_2/Qualifier_1",
-        "/overwatch/ZOTAC_Cup/1/Qualifier_2",
-        "/overwatch/Overwatch_Contenders/2017/Season_Zero/Europe/Open_Qualifier_2",
-        "/overwatch/Overwatch_Contenders/2017/Season_Zero/Europe/Open_Qualifier_1",
-        "/overwatch/Overwatch_Contenders/2017/Season_Zero/North_America/Open_Qualifier_2",
-        "/overwatch/ZOTAC_Cup/1/Qualifier_1",
-        "/overwatch/Overwatch_Contenders/2017/Season_Zero/North_America/Open_Qualifier_1",
-        "/overwatch/SnasGOLD/2/Qualifier_4",
-        "/overwatch/SnasGOLD/2/Qualifier_3",
-        "/overwatch/Overwatch_Rumble/May/Open_Qualifier",
-        "/overwatch/South_American_Overwatch_Circuit/Season_1/Division_1/Qualifier_2",
-        "/overwatch/SnasGOLD/2/Qualifier_2",
-        "/overwatch/SnasGOLD/2/Qualifier_1",
-        "/overwatch/Overwatch_Premier_Circuit",
-        "/overwatch/Alienware_Monthly_Melee/2017/May/Qualifier",
-        "/overwatch/South_American_Overwatch_Circuit/Season_1/Division_1/Qualifier_1",
-        "/overwatch/Overwatch_TaKeOver/2/Qualifier_2",
-        "/overwatch/Overwatch_APEX/Season_3/Offline_Qualifier",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series/Qualifier_3",
-        "/overwatch/Overwatch_APEX/Season_3/Online_Qualifier",
-        "/overwatch/Overwatch_TaKeOver/2/Qualifier_1",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series/Qualifier_2",
-        "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series/Qualifier_1",
-        "/overwatch/Overwatch_Team_Story/Chapter_2/Qualifier",
-        "/overwatch/Overwatch_SEA_Tournament/Group_Stage",
-        "/overwatch/PLG_Nationals/Season_1/Egypt_Qualifier",
-        "/overwatch/Overwatch_Rumble/April/Open_Qualifier",
-        "/overwatch/Overwatch_GeForce_Cup/Middle_East/Qualifier_4",
-        "/overwatch/PLG_Nationals/Season_1/Saudi_Arabia_Qualifier",
-        "/overwatch/Overwatch_APEX/Season_3/Promotion",
-        "/overwatch/Alienware_Monthly_Melee/2017/April/Qualifier",
-        "/overwatch/ESL/ANZ_Championship/Season_1/Overwatch_Cup/4",
-        "/overwatch/Overwatch_Premier_Series/2017/Spring/Preseason",
-        "/overwatch/Overwatch_GeForce_Cup/Middle_East/Qualifier_3",
-        "/overwatch/Overwatch_OMEN_CUP/Group_Stage",
-        "/overwatch/M%C3%A4ngude%C3%96%C3%96_%2717_Overwatch/Qualifiers",
-        "/overwatch/PLG_Nationals/Season_1/United_Arab_Emirates_Qualifier",
-        "/overwatch/Overwatch_Arena/Season_2/Qualifier_5",
-        "/overwatch/GAME_Stadium/Qualifier_3",
-        "/overwatch/ESL/ANZ_Championship/Season_1/Overwatch_Cup/3",
-        "/overwatch/HND_Overwatch_Invitational/I/Qualifier",
-        "/overwatch/Overwatch_GeForce_Cup/Middle_East/Qualifier_2",
-        "/overwatch/Overwatch_Arena/Season_2/Qualifier_4",
-        "/overwatch/Road_to_APEX/Qualifiers/Ro32",
-        "/overwatch/Overwatch_SEA_Tournament/Open_Qualifiers",
-        "/overwatch/Overwatch_GeForce_Cup/Middle_East/Qualifier_1",
-        "/overwatch/Overwatch_Hyped_Series/Preseason/Qualifier",
-        "/overwatch/Overwatch_Arena/Season_2/Qualifier_3",
-        "/overwatch/Overwatch_PIT_Championship/North_America/Season_1/Open_Qualifier",
-        "/overwatch/ESL/ANZ_Championship/Season_1/Overwatch_Cup/2",
-        "/overwatch/Overwatch_Arena/Season_2/Qualifier_2",
-        "/overwatch/Overwatch_PIT_Championship/Europe/Season_1/Open_Qualifier",
-        "/overwatch/ESL/ANZ_Championship/Season_1/Overwatch_Cup/1",
-        "/overwatch/Fnac_Overwatch_Challenge/2/Qualifier_2",
-        "/overwatch/Overwatch_Premier_Series/2017/Spring/Online_Qualifier",
-        "/overwatch/Overwatch_Arena/Season_2/Qualifier_1",
-        "/overwatch/Fnac_Overwatch_Challenge/2/Qualifier_1",
-        "/overwatch/ROWAL/Season_1/Qualifier_2",
-        "/overwatch/Nexus_Cup/2017/Spring/Korean_Qualifier",
-        "/overwatch/Nexus_Cup/2017/Spring/Chinese_Qualifier",
-        "/overwatch/SnasGOLD/1/Qualifier_4",
-        "/overwatch/GAME_Stadium/Qualifier_2",
-        "/overwatch/Oceanic_Summer_Series/Group_Stage",
-        "/overwatch/ROWAL/Season_1/Qualifier_1",
-        "/overwatch/SnasGOLD/1/Qualifier_3",
-        "/overwatch/Overwatch_Arena/Season_1/Qualifier_5",
-        "/overwatch/Oceanic_Summer_Series/SEA_Qualifier",
-        "/overwatch/SnasGOLD/1/Qualifier_2",
-        "/overwatch/Oceanic_Summer_Series/Wildcard_Qualifier",
-        "/overwatch/SnasGOLD/1/Qualifier_1",
-        "/overwatch/Oceanic_Summer_Series/ANZ_Qualifier_3",
-        "/overwatch/Overwatch_Arena/Season_1/Qualifier_4",
-        "/overwatch/Overwatch_APEX/Season_2/Offline_Qualifier",
-        "/overwatch/Oceanic_Summer_Series/ANZ_Qualifier_2",
-        "/overwatch/Oceanic_Summer_Series/ANZ_Qualifier_1",
-        "/overwatch/Overwatch_Arena/Season_1/Qualifier_3",
-        "/overwatch/Haste_Overwatch/2017/Qualifier_4",
-        "/overwatch/Overwatch_Arena/Season_1/Qualifier_2",
-        "/overwatch/Haste_Overwatch/2017/Qualifier_3",
-        "/overwatch/Overwatch_Arena/Season_1/Qualifier_1",
-        "/overwatch/Overwatch_XTRA_Cup/Online_Qualifier",
-        "/overwatch/Haste_Overwatch/2017/Qualifier_2",
-        "/overwatch/GAME_Stadium/Qualifier_1",
-        "/overwatch/Haste_Overwatch/2017/Qualifier_1"
+    "tournaments": [
+        {
+            "link": "/overwatch/OMEN_Christmas_Experience/2017/Qualifier_2",
+            "end_date": "2017-12-23"
+        },
+        {
+            "link": "/overwatch/OMEN_Christmas_Experience/2017/Qualifier_1",
+            "end_date": "2017-12-22"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_5/Qualifier_2",
+            "end_date": "2017-12-02"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_5/Qualifier_1",
+            "end_date": "2017-11-25"
+        },
+        {
+            "link": "/overwatch/Logitech_G_Tournament/Taiwan/2017/November",
+            "end_date": "2017-11-11"
+        },
+        {
+            "link": "/overwatch/Lenovo_Legion/2017/Budapest/Qualifier_2",
+            "end_date": "2017-11-04"
+        },
+        {
+            "link": "/overwatch/Lenovo_Legion/2017/Budapest/Qualifier_1",
+            "end_date": "2017-10-28"
+        },
+        {
+            "link": "/overwatch/SURGE/2017/Online_Qualifier",
+            "end_date": "2017-10-15"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_4/Qualifier_2",
+            "end_date": "2017-10-14"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_4/Qualifier_1",
+            "end_date": "2017-10-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_Razer_Series_Germany/Season_1/Qualifier",
+            "end_date": "2017-09-30"
+        },
+        {
+            "link": "/overwatch/Bi-Monthly_Brawl/Season_1/Pre-Season",
+            "end_date": "2017-09-24"
+        },
+        {
+            "link": "/overwatch/JCG/Master/2017/05",
+            "end_date": "2017-09-09"
+        },
+        {
+            "link": "/overwatch/JCG/Master/2017/04",
+            "end_date": "2017-09-03"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_3/Qualifier_2",
+            "end_date": "2017-08-26"
+        },
+        {
+            "link": "/overwatch/JCG/Master/2017/03",
+            "end_date": "2017-08-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_APEX/Season_4/Offline_Qualifier",
+            "end_date": "2017-08-19"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_3/Qualifier_1",
+            "end_date": "2017-08-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_APEX/Season_4/Online_Qualifier",
+            "end_date": "2017-08-13"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2017/Santa_Monica_Qualifier",
+            "end_date": "2017-08-13"
+        },
+        {
+            "link": "/overwatch/JCG/Master/2017/02",
+            "end_date": "2017-08-06"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2017/Katowice_Qualifier",
+            "end_date": "2017-08-06"
+        },
+        {
+            "link": "/overwatch/Overwatch_Premier_Series/2017/Summer/Preseason",
+            "end_date": "2017-07-30"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2017/Sydney_Qualifier",
+            "end_date": "2017-07-23"
+        },
+        {
+            "link": "/overwatch/Nexus_Cup/2017/Summer/Chinese_Qualifier",
+            "end_date": "2017-07-17"
+        },
+        {
+            "link": "/overwatch/Overwatch_World_Cup/2017/Shanghai_Qualifier",
+            "end_date": "2017-07-16"
+        },
+        {
+            "link": "/overwatch/Open_Division/2017/Season_1/Korea/Ro32_qualifier",
+            "end_date": "2017-07-16"
+        },
+        {
+            "link": "/overwatch/JCG/Master/2017/01",
+            "end_date": "2017-07-15"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/Europe/1/Qualifier_2",
+            "end_date": "2017-07-15"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/Europe/1/Qualifier_1",
+            "end_date": "2017-07-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_Pacific_Championship/2017/Season_2/Promotion",
+            "end_date": "2017-07-06"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_2/Qualifier_3",
+            "end_date": "2017-07-01"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/1/Qualifier_4",
+            "end_date": "2017-06-24"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_2/Qualifier_2",
+            "end_date": "2017-06-24"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/1/Qualifier_3",
+            "end_date": "2017-06-18"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series_2/Qualifier_1",
+            "end_date": "2017-06-17"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/1/Qualifier_2",
+            "end_date": "2017-06-11"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2017/Season_Zero/Europe/Open_Qualifier_2",
+            "end_date": "2017-06-11"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2017/Season_Zero/Europe/Open_Qualifier_1",
+            "end_date": "2017-06-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2017/Season_Zero/North_America/Open_Qualifier_2",
+            "end_date": "2017-06-04"
+        },
+        {
+            "link": "/overwatch/ZOTAC_Cup/1/Qualifier_1",
+            "end_date": "2017-06-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_Contenders/2017/Season_Zero/North_America/Open_Qualifier_1",
+            "end_date": "2017-06-03"
+        },
+        {
+            "link": "/overwatch/SnasGOLD/2/Qualifier_4",
+            "end_date": "2017-05-28"
+        },
+        {
+            "link": "/overwatch/SnasGOLD/2/Qualifier_3",
+            "end_date": "2017-05-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_Rumble/May/Open_Qualifier",
+            "end_date": "2017-05-26"
+        },
+        {
+            "link": "/overwatch/South_American_Overwatch_Circuit/Season_1/Division_1/Qualifier_2",
+            "end_date": "2017-05-23"
+        },
+        {
+            "link": "/overwatch/SnasGOLD/2/Qualifier_2",
+            "end_date": "2017-05-21"
+        },
+        {
+            "link": "/overwatch/SnasGOLD/2/Qualifier_1",
+            "end_date": "2017-05-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_Premier_Circuit",
+            "end_date": "2017-05-19"
+        },
+        {
+            "link": "/overwatch/Alienware_Monthly_Melee/2017/May/Qualifier",
+            "end_date": "2017-05-19"
+        },
+        {
+            "link": "/overwatch/South_American_Overwatch_Circuit/Season_1/Division_1/Qualifier_1",
+            "end_date": "2017-05-16"
+        },
+        {
+            "link": "/overwatch/Overwatch_TaKeOver/2/Qualifier_2",
+            "end_date": "2017-05-13"
+        },
+        {
+            "link": "/overwatch/Overwatch_APEX/Season_3/Offline_Qualifier",
+            "end_date": "2017-05-13"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series/Qualifier_3",
+            "end_date": "2017-05-13"
+        },
+        {
+            "link": "/overwatch/Overwatch_APEX/Season_3/Online_Qualifier",
+            "end_date": "2017-05-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_TaKeOver/2/Qualifier_1",
+            "end_date": "2017-05-06"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series/Qualifier_2",
+            "end_date": "2017-05-06"
+        },
+        {
+            "link": "/overwatch/The_Overguard:_Haste_Overwatch_$1k_Series/Qualifier_1",
+            "end_date": "2017-04-29"
+        },
+        {
+            "link": "/overwatch/Overwatch_Team_Story/Chapter_2/Qualifier",
+            "end_date": "2017-04-27"
+        },
+        {
+            "link": "/overwatch/Overwatch_SEA_Tournament/Group_Stage",
+            "end_date": "2017-04-23"
+        },
+        {
+            "link": "/overwatch/PLG_Nationals/Season_1/Egypt_Qualifier",
+            "end_date": "2017-04-20"
+        },
+        {
+            "link": "/overwatch/Overwatch_Rumble/April/Open_Qualifier",
+            "end_date": "2017-04-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_GeForce_Cup/Middle_East/Qualifier_4",
+            "end_date": "2017-04-15"
+        },
+        {
+            "link": "/overwatch/PLG_Nationals/Season_1/Saudi_Arabia_Qualifier",
+            "end_date": "2017-04-15"
+        },
+        {
+            "link": "/overwatch/Overwatch_APEX/Season_3/Promotion",
+            "end_date": "2017-04-14"
+        },
+        {
+            "link": "/overwatch/Alienware_Monthly_Melee/2017/April/Qualifier",
+            "end_date": "2017-04-14"
+        },
+        {
+            "link": "/overwatch/ESL/ANZ_Championship/Season_1/Overwatch_Cup/4",
+            "end_date": "2017-04-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_Premier_Series/2017/Spring/Preseason",
+            "end_date": "2017-04-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_GeForce_Cup/Middle_East/Qualifier_3",
+            "end_date": "2017-04-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_OMEN_CUP/Group_Stage",
+            "end_date": "2017-04-08"
+        },
+        {
+            "link": "/overwatch/M%C3%A4ngude%C3%96%C3%96_%2717_Overwatch/Qualifiers",
+            "end_date": "2017-04-07"
+        },
+        {
+            "link": "/overwatch/PLG_Nationals/Season_1/United_Arab_Emirates_Qualifier",
+            "end_date": "2017-04-07"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena/Season_2/Qualifier_5",
+            "end_date": "2017-04-06"
+        },
+        {
+            "link": "/overwatch/GAME_Stadium/Qualifier_3",
+            "end_date": "2017-04-02"
+        },
+        {
+            "link": "/overwatch/ESL/ANZ_Championship/Season_1/Overwatch_Cup/3",
+            "end_date": "2017-04-02"
+        },
+        {
+            "link": "/overwatch/HND_Overwatch_Invitational/I/Qualifier",
+            "end_date": "2017-04-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_GeForce_Cup/Middle_East/Qualifier_2",
+            "end_date": "2017-04-02"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena/Season_2/Qualifier_4",
+            "end_date": "2017-03-30"
+        },
+        {
+            "link": "/overwatch/Road_to_APEX/Qualifiers/Ro32",
+            "end_date": "2017-03-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_SEA_Tournament/Open_Qualifiers",
+            "end_date": "2017-03-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_GeForce_Cup/Middle_East/Qualifier_1",
+            "end_date": "2017-03-26"
+        },
+        {
+            "link": "/overwatch/Overwatch_Hyped_Series/Preseason/Qualifier",
+            "end_date": "2017-03-25"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena/Season_2/Qualifier_3",
+            "end_date": "2017-03-23"
+        },
+        {
+            "link": "/overwatch/Overwatch_PIT_Championship/North_America/Season_1/Open_Qualifier",
+            "end_date": "2017-03-19"
+        },
+        {
+            "link": "/overwatch/ESL/ANZ_Championship/Season_1/Overwatch_Cup/2",
+            "end_date": "2017-03-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena/Season_2/Qualifier_2",
+            "end_date": "2017-03-16"
+        },
+        {
+            "link": "/overwatch/Overwatch_PIT_Championship/Europe/Season_1/Open_Qualifier",
+            "end_date": "2017-03-16"
+        },
+        {
+            "link": "/overwatch/ESL/ANZ_Championship/Season_1/Overwatch_Cup/1",
+            "end_date": "2017-03-12"
+        },
+        {
+            "link": "/overwatch/Fnac_Overwatch_Challenge/2/Qualifier_2",
+            "end_date": "2017-03-11"
+        },
+        {
+            "link": "/overwatch/Overwatch_Premier_Series/2017/Spring/Online_Qualifier",
+            "end_date": "2017-03-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena/Season_2/Qualifier_1",
+            "end_date": "2017-03-09"
+        },
+        {
+            "link": "/overwatch/Fnac_Overwatch_Challenge/2/Qualifier_1",
+            "end_date": "2017-03-04"
+        },
+        {
+            "link": "/overwatch/ROWAL/Season_1/Qualifier_2",
+            "end_date": "2017-02-25"
+        },
+        {
+            "link": "/overwatch/Nexus_Cup/2017/Spring/Korean_Qualifier",
+            "end_date": "2017-02-23"
+        },
+        {
+            "link": "/overwatch/Nexus_Cup/2017/Spring/Chinese_Qualifier",
+            "end_date": "2017-02-22"
+        },
+        {
+            "link": "/overwatch/SnasGOLD/1/Qualifier_4",
+            "end_date": "2017-02-19"
+        },
+        {
+            "link": "/overwatch/GAME_Stadium/Qualifier_2",
+            "end_date": "2017-02-19"
+        },
+        {
+            "link": "/overwatch/Oceanic_Summer_Series/Group_Stage",
+            "end_date": "2017-02-19"
+        },
+        {
+            "link": "/overwatch/ROWAL/Season_1/Qualifier_1",
+            "end_date": "2017-02-19"
+        },
+        {
+            "link": "/overwatch/SnasGOLD/1/Qualifier_3",
+            "end_date": "2017-02-18"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena/Season_1/Qualifier_5",
+            "end_date": "2017-02-16"
+        },
+        {
+            "link": "/overwatch/Oceanic_Summer_Series/SEA_Qualifier",
+            "end_date": "2017-02-16"
+        },
+        {
+            "link": "/overwatch/SnasGOLD/1/Qualifier_2",
+            "end_date": "2017-02-12"
+        },
+        {
+            "link": "/overwatch/Oceanic_Summer_Series/Wildcard_Qualifier",
+            "end_date": "2017-02-12"
+        },
+        {
+            "link": "/overwatch/SnasGOLD/1/Qualifier_1",
+            "end_date": "2017-02-11"
+        },
+        {
+            "link": "/overwatch/Oceanic_Summer_Series/ANZ_Qualifier_3",
+            "end_date": "2017-02-11"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena/Season_1/Qualifier_4",
+            "end_date": "2017-02-09"
+        },
+        {
+            "link": "/overwatch/Overwatch_APEX/Season_2/Offline_Qualifier",
+            "end_date": "2017-02-05"
+        },
+        {
+            "link": "/overwatch/Oceanic_Summer_Series/ANZ_Qualifier_2",
+            "end_date": "2017-02-05"
+        },
+        {
+            "link": "/overwatch/Oceanic_Summer_Series/ANZ_Qualifier_1",
+            "end_date": "2017-02-04"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena/Season_1/Qualifier_3",
+            "end_date": "2017-02-02"
+        },
+        {
+            "link": "/overwatch/Haste_Overwatch/2017/Qualifier_4",
+            "end_date": "2017-01-28"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena/Season_1/Qualifier_2",
+            "end_date": "2017-01-26"
+        },
+        {
+            "link": "/overwatch/Haste_Overwatch/2017/Qualifier_3",
+            "end_date": "2017-01-21"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena/Season_1/Qualifier_1",
+            "end_date": "2017-01-19"
+        },
+        {
+            "link": "/overwatch/Overwatch_XTRA_Cup/Online_Qualifier",
+            "end_date": "2017-01-18"
+        },
+        {
+            "link": "/overwatch/Haste_Overwatch/2017/Qualifier_2",
+            "end_date": "2017-01-14"
+        },
+        {
+            "link": "/overwatch/GAME_Stadium/Qualifier_1",
+            "end_date": "2017-01-13"
+        },
+        {
+            "link": "/overwatch/Haste_Overwatch/2017/Qualifier_1",
+            "end_date": "2017-01-07"
+        }
     ]
 }

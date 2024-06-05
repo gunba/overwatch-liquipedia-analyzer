@@ -1,45 +1,168 @@
 {
-    "links": [
-        "/overwatch/People_Premier_League",
-        "/overwatch/AverageJonas_%26_LuluLuvely_Community_Tournament",
-        "/overwatch/Calling_All_Heroes/Challengers_Cup",
-        "/overwatch/Belong_Throwdown/1",
-        "/overwatch/Overwatch_Arena_Clash/2022/Autumn",
-        "/overwatch/UTAGE_OVERWATCH",
-        "/overwatch/Overwatch_2_AIS_Esports_Open_Thailand",
-        "/overwatch/NACE_Starleague/2022/Fall/Varsity",
-        "/overwatch/NACE_Starleague/2022/Fall/Open",
-        "/overwatch/Into_The_SEA_Community_Qualifier",
-        "/overwatch/WDG/Overwatch_Open_Tournament/Japan/2022",
-        "/overwatch/COMFEST_Tournament",
-        "/overwatch/Belong_Cup",
-        "/overwatch/Taiwan,_Hong_Kong_and_Macau_Community_Challenge_2022",
-        "/overwatch/Open_Division/2022/Season_2/Europe",
-        "/overwatch/Open_Division/2022/Season_2/North_America",
-        "/overwatch/Open_Division/2022/Season_2/China",
-        "/overwatch/Open_Division/2022/Season_3/Australia_%26_New_Zealand",
-        "/overwatch/Titans_Showdown/2022",
-        "/overwatch/Heroes_Recall_EMEA_Tournament",
-        "/overwatch/WDG/Overwatch_Open_Tournament/Korea/2022/Season_2",
-        "/overwatch/Les_Nouveaux_Heros",
-        "/overwatch/Open_Division/2022/Season_2/Australia_%26_New_Zealand",
-        "/overwatch/HUE_Invitational/2022",
-        "/overwatch/Insomnia/69",
-        "/overwatch/Mayhem_Classic_Series/2022/Summer",
-        "/overwatch/Open_Division/2022/Season_1/Europe",
-        "/overwatch/Natter_x_Community_Beta_Clash",
-        "/overwatch/CECC/2022",
-        "/overwatch/G4_Overwatch_2_Showmatch",
-        "/overwatch/Overwatch_2_Beta_Bash",
-        "/overwatch/Last_Ride_Invitational",
-        "/overwatch/TEN/2022/Overwatch_Special_Match/2",
-        "/overwatch/Insomnia/68",
-        "/overwatch/Overwatch_Arena_Clash/2022/Spring",
-        "/overwatch/Overwatch_Questline_Open",
-        "/overwatch/TEN/2022/Overwatch_Special_Match/1",
-        "/overwatch/Project_Sunflower",
-        "/overwatch/Mayhem_Classic_Series/2022/Winter",
-        "/overwatch/Spring_Cup",
-        "/overwatch/Berry_Community_Blast/Weekend_2"
+    "tournaments": [
+        {
+            "link": "/overwatch/People_Premier_League",
+            "end_date": "2022-12-25"
+        },
+        {
+            "link": "/overwatch/AverageJonas_%26_LuluLuvely_Community_Tournament",
+            "end_date": "2022-12-20"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/Challengers_Cup",
+            "end_date": "2022-12-18"
+        },
+        {
+            "link": "/overwatch/Belong_Throwdown/1",
+            "end_date": "2022-12-11"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena_Clash/2022/Autumn",
+            "end_date": "2022-12-11"
+        },
+        {
+            "link": "/overwatch/UTAGE_OVERWATCH",
+            "end_date": "2022-12-10"
+        },
+        {
+            "link": "/overwatch/Overwatch_2_AIS_Esports_Open_Thailand",
+            "end_date": "2022-12-10"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2022/Fall/Varsity",
+            "end_date": "2022-12-03"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2022/Fall/Open",
+            "end_date": "2022-11-29"
+        },
+        {
+            "link": "/overwatch/Into_The_SEA_Community_Qualifier",
+            "end_date": "2022-11-27"
+        },
+        {
+            "link": "/overwatch/WDG/Overwatch_Open_Tournament/Japan/2022",
+            "end_date": "2022-11-27"
+        },
+        {
+            "link": "/overwatch/COMFEST_Tournament",
+            "end_date": "2022-11-26"
+        },
+        {
+            "link": "/overwatch/Belong_Cup",
+            "end_date": "2022-11-20"
+        },
+        {
+            "link": "/overwatch/Taiwan,_Hong_Kong_and_Macau_Community_Challenge_2022",
+            "end_date": "2022-11-20"
+        },
+        {
+            "link": "/overwatch/Open_Division/2022/Season_2/Europe",
+            "end_date": "2022-11-13"
+        },
+        {
+            "link": "/overwatch/Open_Division/2022/Season_2/North_America",
+            "end_date": "2022-11-13"
+        },
+        {
+            "link": "/overwatch/Open_Division/2022/Season_2/China",
+            "end_date": "2022-11-10"
+        },
+        {
+            "link": "/overwatch/Open_Division/2022/Season_3/Australia_%26_New_Zealand",
+            "end_date": "2022-11-04"
+        },
+        {
+            "link": "/overwatch/Titans_Showdown/2022",
+            "end_date": "2022-10-29"
+        },
+        {
+            "link": "/overwatch/Heroes_Recall_EMEA_Tournament",
+            "end_date": "2022-10-23"
+        },
+        {
+            "link": "/overwatch/WDG/Overwatch_Open_Tournament/Korea/2022/Season_2",
+            "end_date": "2022-10-23"
+        },
+        {
+            "link": "/overwatch/Les_Nouveaux_Heros",
+            "end_date": "2022-10-15"
+        },
+        {
+            "link": "/overwatch/Open_Division/2022/Season_2/Australia_%26_New_Zealand",
+            "end_date": "2022-10-11"
+        },
+        {
+            "link": "/overwatch/HUE_Invitational/2022",
+            "end_date": "2022-09-25"
+        },
+        {
+            "link": "/overwatch/Insomnia/69",
+            "end_date": "2022-08-28"
+        },
+        {
+            "link": "/overwatch/Mayhem_Classic_Series/2022/Summer",
+            "end_date": "2022-08-06"
+        },
+        {
+            "link": "/overwatch/Open_Division/2022/Season_1/Europe",
+            "end_date": "2022-06-12"
+        },
+        {
+            "link": "/overwatch/Natter_x_Community_Beta_Clash",
+            "end_date": "2022-05-16"
+        },
+        {
+            "link": "/overwatch/CECC/2022",
+            "end_date": "2022-05-08"
+        },
+        {
+            "link": "/overwatch/G4_Overwatch_2_Showmatch",
+            "end_date": "2022-05-03"
+        },
+        {
+            "link": "/overwatch/Overwatch_2_Beta_Bash",
+            "end_date": "2022-04-27"
+        },
+        {
+            "link": "/overwatch/Last_Ride_Invitational",
+            "end_date": "2022-04-24"
+        },
+        {
+            "link": "/overwatch/TEN/2022/Overwatch_Special_Match/2",
+            "end_date": "2022-04-22"
+        },
+        {
+            "link": "/overwatch/Insomnia/68",
+            "end_date": "2022-04-17"
+        },
+        {
+            "link": "/overwatch/Overwatch_Arena_Clash/2022/Spring",
+            "end_date": "2022-04-15"
+        },
+        {
+            "link": "/overwatch/Overwatch_Questline_Open",
+            "end_date": "2022-04-03"
+        },
+        {
+            "link": "/overwatch/TEN/2022/Overwatch_Special_Match/1",
+            "end_date": "2022-03-18"
+        },
+        {
+            "link": "/overwatch/Project_Sunflower",
+            "end_date": "2022-03-12"
+        },
+        {
+            "link": "/overwatch/Mayhem_Classic_Series/2022/Winter",
+            "end_date": "2022-03-05"
+        },
+        {
+            "link": "/overwatch/Spring_Cup",
+            "end_date": "2022-02-07"
+        },
+        {
+            "link": "/overwatch/Berry_Community_Blast/Weekend_2",
+            "end_date": "2022-02-06"
+        }
     ]
 }

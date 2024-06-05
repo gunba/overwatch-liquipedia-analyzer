@@ -1,6 +1,12 @@
 {
-    "links": [
-        "/overwatch/LVUP_CUP/2021/2",
-        "/overwatch/LVUP_CUP/2021/1"
+    "tournaments": [
+        {
+            "link": "/overwatch/LVUP_CUP/2021/2",
+            "end_date": "2021-02-27"
+        },
+        {
+            "link": "/overwatch/LVUP_CUP/2021/1",
+            "end_date": "2021-02-20"
+        }
     ]
 }

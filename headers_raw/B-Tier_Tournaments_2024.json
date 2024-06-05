@@ -1,20 +1,68 @@
 {
-    "links": [
-        "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Major_3",
-        "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Major_2",
-        "/overwatch/FACEIT_League/Season_1/NA/Expert",
-        "/overwatch/FACEIT_League/Season_1/EMEA/Expert",
-        "/overwatch/FACEIT_League/Season_1/SA/Master",
-        "/overwatch/FACEIT_League/Season_1/OCE/Master",
-        "/overwatch/Saudi_eLeague/2024/Major_2",
-        "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Major_1",
-        "/overwatch/CECC/2024",
-        "/overwatch/NACE_Starleague/2024/Spring/Varsity",
-        "/overwatch/Insomnia/72",
-        "/overwatch/Saudi_eLeague/2024/Major_1",
-        "/overwatch/Jay3%27s_Community_Clash",
-        "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Championship",
-        "/overwatch/Berry_Community_Blast/2",
-        "/overwatch/Super_Girl_Gamer_Pro/Championship"
+    "tournaments": [
+        {
+            "link": "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Major_3",
+            "end_date": "2024-12-15"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Major_2",
+            "end_date": "2024-08-04"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/NA/Expert",
+            "end_date": "2024-06-30"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/EMEA/Expert",
+            "end_date": "2024-06-30"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/SA/Master",
+            "end_date": "2024-06-23"
+        },
+        {
+            "link": "/overwatch/FACEIT_League/Season_1/OCE/Master",
+            "end_date": "2024-06-16"
+        },
+        {
+            "link": "/overwatch/Saudi_eLeague/2024/Major_2",
+            "end_date": "2024-06-10"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2024-25/Challengers_Series/Major_1",
+            "end_date": "2024-06-09"
+        },
+        {
+            "link": "/overwatch/CECC/2024",
+            "end_date": "2024-05-05"
+        },
+        {
+            "link": "/overwatch/NACE_Starleague/2024/Spring/Varsity",
+            "end_date": "2024-04-27"
+        },
+        {
+            "link": "/overwatch/Insomnia/72",
+            "end_date": "2024-03-31"
+        },
+        {
+            "link": "/overwatch/Saudi_eLeague/2024/Major_1",
+            "end_date": "2024-03-28"
+        },
+        {
+            "link": "/overwatch/Jay3%27s_Community_Clash",
+            "end_date": "2024-02-25"
+        },
+        {
+            "link": "/overwatch/Calling_All_Heroes/2023-24/Challengers_Series/Championship",
+            "end_date": "2024-02-04"
+        },
+        {
+            "link": "/overwatch/Berry_Community_Blast/2",
+            "end_date": "2024-01-28"
+        },
+        {
+            "link": "/overwatch/Super_Girl_Gamer_Pro/Championship",
+            "end_date": "2024-01-14"
+        }
     ]
 }

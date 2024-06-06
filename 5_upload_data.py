@@ -1,8 +1,10 @@
 import json
+import logging
 import os
 import re
 import sqlite3
-from datetime import datetime
+
+from dateutil import parser
 
 # List of allowed keys with their types
 allowed_tournament_keys = [
@@ -54,6 +56,9 @@ def process_json_files(folder_path):
                     data = json.load(f)
                     if "tournament_info" in data:
                         for tournament in data["tournament_info"]:
+                            tournament["file_name"] = (
+                                file  # Track the file name
+                            )
                             tournament_data.append((
                                 tournament,
                                 data.get("team_cards", []),
@@ -139,28 +144,25 @@ def filter_tournament_keys(tournament):
     }
 
 
-def normalize_date(date_str, timezone):
+def normalize_date(date_str):
     try:
-        parsed_date = datetime.strptime(date_str, "%B %d, %Y - %H:%M")
+        parsed_date = parser.parse(date_str)
+        timezone = (
+            parsed_date.tzinfo.tzname(parsed_date)
+            if parsed_date.tzinfo
+            else None
+        )
         date = parsed_date.strftime("%Y-%m-%d")
         time = parsed_date.strftime("%H:%M:%S")
+        # We are not changing the timezone value in the process, returning it as is
         return date, time, timezone
     except ValueError:
-        try:
-            parsed_date = datetime.strptime(date_str, "%B %d, %Y")
-            date = parsed_date.strftime("%Y-%m-%d")
-            return date, "00:00:00", timezone
-        except ValueError:
-            try:
-                parsed_date = datetime.strptime(date_str, "%Y-%m-%d")
-                date = parsed_date.strftime("%Y-%m-%d")
-                return date, "00:00:00", timezone
-            except ValueError:
-                return (
-                    date_str,
-                    "00:00:00",
-                    None,
-                )  # Default to 00:00:00 if parsing fails
+        logging.warning(f"Failed to parse date: {date_str}")
+        return (
+            "9999-12-31",
+            "00:00:00",
+            None,
+        )  # Placeholder for unparsed dates
 
 
 def parse_team_info(team):
@@ -171,12 +173,58 @@ def parse_team_info(team):
     return team, None
 
 
+# Configure logging
+logging.basicConfig(
+    filename="excluded_tournaments.log",
+    filemode="w",  # Overwrite the log file on each run
+    level=logging.INFO,
+    format="%(message)s",
+)
+
+
 def insert_tournament_data(conn, tournament_data):
     cursor = conn.cursor()
     tournament_ids = {}
+    excluded_tournaments = []
+
     for tournament, teams, match_cards in tournament_data:
-        if not match_cards or not teams:
+        if not match_cards:
+            json_file_name = tournament["file_name"]
+            txt_file_name = json_file_name.replace(".json", ".txt")
+            txt_file_path = os.path.join(
+                "C:\\Users\\jorda\\PycharmProjects\\liquipedia_data_miner\\tournaments_text",
+                txt_file_name,
+            )
+            txt_file_size = (
+                os.path.getsize(txt_file_path)
+                if os.path.exists(txt_file_path)
+                else "File not found"
+            )
+            excluded_tournaments.append((json_file_name, txt_file_size))
             continue
+
+        # Check for date fields
+        date = (
+            tournament.get("date")
+            or tournament.get("sdate")
+            or tournament.get("edate")
+            or "9999-12-31"
+        )
+
+        # if not date:
+        #     json_file_name = tournament["file_name"]
+        #     txt_file_name = json_file_name.replace(".json", ".txt")
+        #     txt_file_path = os.path.join(
+        #         "C:\\Users\\jorda\\PycharmProjects\\liquipedia_data_miner\\tournaments_text",
+        #         txt_file_name,
+        #     )
+        #     txt_file_size = (
+        #         os.path.getsize(txt_file_path)
+        #         if os.path.exists(txt_file_path)
+        #         else "File not found"
+        #     )
+        #     excluded_tournaments.append((json_file_name, txt_file_size))
+        #     continue
 
         sanitized_tournament = sanitize_keys(tournament)
         filtered_tournament = filter_tournament_keys(sanitized_tournament)
@@ -188,9 +236,18 @@ def insert_tournament_data(conn, tournament_data):
         tournament_ids[tournament_id] = (
             teams,
             match_cards,
-            tournament.get("date") or tournament.get("sdate"),
+            date,
         )
+
     conn.commit()
+
+    # Log excluded tournaments sorted by file size
+    excluded_tournaments.sort(key=lambda x: x[1], reverse=True)
+    for json_file_name, txt_file_size in excluded_tournaments:
+        logging.info(
+            f"Excluded Tournament: {json_file_name}, Text File Size: {txt_file_size}"
+        )
+
     return tournament_ids
 
 
@@ -251,17 +308,19 @@ def insert_team_and_member_data(conn, tournament_ids):
 def parse_match_data(match_data, tournament_date):
     matches = []
     for match in match_data:
-        date, date_time, date_timezone = normalize_date(
-            match.get("date") or tournament_date, match.get("date_timezone")
+        date, date_time, timezone = normalize_date(
+            match.get("date") or tournament_date
         )
 
         team1 = match.get("opponent1")
         team2 = match.get("opponent2")
 
+        timezone = match.get("date_timezone", timezone)
+
         match_record = {
             "date": date,
             "date_time": date_time,
-            "date_timezone": date_timezone,
+            "date_timezone": match.get("date_timezone"),
             "team1": team1,
             "team2": team2,
             "score1": match.get("opponent1_score", 0),
@@ -301,6 +360,8 @@ def insert_match_data(conn, tournament_ids):
         match_cards,
         tournament_date,
     ) in tournament_ids.items():
+        if not match_cards:
+            continue  # Skip if there are no match cards
         parsed_matches = parse_match_data(match_cards, tournament_date)
         for match_record, maps in parsed_matches:
             cursor.execute(

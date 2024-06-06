@@ -22,14 +22,14 @@ def split_key_value(key, value):
         return {key: value}
 
 
-def convert_score(score):
-    """Converts special score strings to numerical values."""
-    valid_scores = ["W", "FF", "DQ", "L"]
-    if score in valid_scores:
-        return 1 if score == "W" else 0
-    if score.isdigit():
-        return int(score)
-    return 0  # Invalid or missing score
+# def convert_score(score):
+#     """Converts special score strings to numerical values."""
+#     valid_scores = ["W", "FF", "DQ", "L"]
+#     if score in valid_scores:
+#         return 1 if score == "W" else 0
+#     if score.isdigit():
+#         return int(score)
+#     return 0  # Invalid or missing score
 
 
 def process_special_elements(key, value):
@@ -52,7 +52,7 @@ def process_special_elements(key, value):
             result = {key: opponent_match.group(1).strip()}
             if opponent_match.group(2) is not None:
                 score = opponent_match.group(2).split("|")[0].strip()
-                result[f"{key}_score"] = convert_score(score)
+                result[f"{key}_score"] = score
             return result
     elif re.match(r".*\{\{map\|", value, re.IGNORECASE):
         # Extract the map part only
@@ -135,6 +135,7 @@ if __name__ == "__main__":
         "opponent5": "{{LiteralOpponent|Test Opponent|score=}}",
         "opponent6": "{{TeamOpponent|ngred|score=-}}",
         "extra": "MerryGo{{Map|map=|mode=|score1=|score2=|winner=}}",
+        "team2": "seoul dynasty |games2=0",
     }
 
     processed_data = clean_json(data)

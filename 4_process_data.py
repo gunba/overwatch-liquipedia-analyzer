@@ -15,7 +15,7 @@ def extract_elements(wikitext, element_name):
     return pattern.findall(wikitext)
 
 
-def parse_wikitext_element(element):
+def parse_wikitext_element(element, optional=None):
     lines = element.split("\n")
     element_dict = {}
     current_key = None
@@ -39,6 +39,9 @@ def parse_wikitext_element(element):
 
     if current_key is not None:
         element_dict[current_key.strip().lstrip("|")] = current_value.strip()
+
+    if optional:
+        element_dict["optional"] = optional.strip().lstrip("|")
 
     return element_dict
 
@@ -122,30 +125,25 @@ def process_match_maps_elements(wikitext):
     lines = wikitext.split("\n")
     match_records = []
     current_record = {}
-    current_key = None
     is_match_started = False
 
     for line in lines:
         if "{{MatchMaps" in line:
-            match = re.search(r"\|(\S+?)\s*=\s*\{\{MatchMaps", line)
-            if match:
-                current_key = match.group(1).strip()
-                is_match_started = True
-                current_record = {"key": current_key}
+            match = re.search(r"(\S+?)?\s*=\s*\{\{MatchMaps", line)
+            current_record = {}
+            if match and match.group(1):
+                current_record["optional"] = match.group(1).strip()
+            is_match_started = True
         elif is_match_started:
             if not line.startswith("|"):
                 match_records.append(current_record)
                 is_match_started = False
-                current_key = None
             else:
                 key_value_pairs = line.split("|")[1:]
                 for kv in key_value_pairs:
                     if "=" in kv:
                         key, value = kv.split("=", 1)
                         current_record[key.strip()] = value.strip()
-
-    if current_record and current_key:
-        match_records.append(current_record)
 
     return match_records
 
@@ -160,10 +158,16 @@ def rename_legacy_match_keys(legacy_match_cards):
 
 
 def convert_score(value):
-    if value in ["W", "L", "DQ", "FF"]:
-        return 1 if value == "W" else 0
+    if isinstance(value, int):
+        return value
+
+    cleaned_value = re.sub(r"\W+", "", value).upper()
+
+    if cleaned_value == "W":
+        return 1
+
     try:
-        return int(value)
+        return int(cleaned_value)
     except ValueError:
         return 0
 
@@ -173,12 +177,8 @@ def unify_match_format(data):
 
     def process_match_card(match):
         match["format"] = "match_cards"
-        opponent1_score = (
-            int(match["opponent1_score"]) if "opponent1_score" in match else 0
-        )
-        opponent2_score = (
-            int(match["opponent2_score"]) if "opponent2_score" in match else 0
-        )
+        opponent1_score = convert_score(match.get("opponent1_score", 0))
+        opponent2_score = convert_score(match.get("opponent2_score", 0))
 
         for key, value in match.items():
             if re.match(r"map\d+", key) and isinstance(value, dict):
@@ -198,13 +198,35 @@ def unify_match_format(data):
 
         return match
 
-    def process_match_map(match):
-        # Check if 'winner' exists and handle 'draw'
-        if "winner" in match and match["winner"] == "draw":
-            match["winner"] = 0
-        elif "winner" not in match or match["winner"] == "":
-            match["winner"] = 0
+    def process_legacy_match(match, format_type):
+        unified_match = {
+            "date": match.get("date"),
+            "date_timezone": match.get("date_timezone", "UTC"),
+            "opponent1": match.get("team1"),
+            "opponent2": match.get("team2"),
+            "opponent1_score": convert_score(match.get("score1", 0)),
+            "opponent2_score": convert_score(match.get("score2", 0)),
+            "winner": 1
+            if match.get("win1", "0") == "1"
+            else (2 if match.get("win2", "0") == "1" else 0),
+            "format": format_type,
+        }
 
+        if unified_match["opponent1_score"] > unified_match["opponent2_score"]:
+            unified_match["winner"] = 1
+        elif (
+            unified_match["opponent1_score"] < unified_match["opponent2_score"]
+        ):
+            unified_match["winner"] = 2
+
+        # Retain all other original values
+        for key, value in match.items():
+            if key not in unified_match:
+                unified_match[key] = value
+
+        return unified_match
+
+    def process_match_map(match):
         unified_match = {
             "date": match.get("date"),
             "date_timezone": "UTC",
@@ -213,7 +235,7 @@ def unify_match_format(data):
             "opponent2": match.get("team2"),
             "opponent1_score": convert_score(match.get("games1", 0)),
             "opponent2_score": convert_score(match.get("games2", 0)),
-            "winner": int(match.get("winner", 0)),
+            "winner": convert_score(match.get("winner", 0)),
             "format": "match_maps",
         }
 
@@ -229,7 +251,7 @@ def unify_match_format(data):
 
             unified_match[f"map{map_index}"] = {
                 "map": match.get(f"map{map_index}"),
-                "mode": "",  # Mode information is not available
+                "mode": "",
                 "score1": score1,
                 "score2": score2,
                 "winner": winner,
@@ -237,31 +259,10 @@ def unify_match_format(data):
 
             map_index += 1
 
-        return unified_match
-
-    def process_legacy_match_card(match):
-        unified_match = {
-            "date": match.get("date"),
-            "date_timezone": match.get("date_timezone", "UTC"),
-            "opponent1": match.get("team1"),
-            "opponent2": match.get("team2"),
-            "opponent1_score": convert_score(match.get("score1", 0)),
-            "opponent2_score": convert_score(match.get("score2", 0)),
-            "winner": 1
-            if match.get("win1", "0") == "1"
-            else 2
-            if match.get("win2", "0") == "1"
-            else 0,
-            "format": "legacy_match_cards",
-        }
-
-        # If we have valid scores, overwrite winner.
-        if unified_match["opponent1_score"] > unified_match["opponent2_score"]:
-            unified_match["winner"] = 1
-        elif (
-            unified_match["opponent1_score"] < unified_match["opponent2_score"]
-        ):
-            unified_match["winner"] = 2
+        # Retain all other original values
+        for key, value in match.items():
+            if key not in unified_match:
+                unified_match[key] = value
 
         return unified_match
 
@@ -279,9 +280,23 @@ def unify_match_format(data):
 
     if "legacy_match_cards" in data:
         unified_matches.extend(
-            process_legacy_match_card(match)
+            process_legacy_match(match, "legacy_match_cards")
             for match in data["legacy_match_cards"]
         )
+
+    # Clean up map data
+    for match in unified_matches:
+        for key in list(match.keys()):
+            if re.match(r"map\d+", key):
+                map_data = match[key]
+                if isinstance(map_data, str) or not map_data.get("winner"):
+                    del match[key]
+                else:
+                    if "score1" in map_data:
+                        match[key]["score1"] = convert_score(map_data["score1"])
+                    if "score2" in map_data:
+                        match[key]["score2"] = convert_score(map_data["score2"])
+                    match[key]["winner"] = convert_score(map_data["winner"])
 
     return unified_matches
 
@@ -312,27 +327,30 @@ def process_and_save_wikitext_data():
             ]
         )
 
-        tournament_info_raw = extract_elements(wikitext, "Infobox league")
+        if (
+            text_filename
+            == "Overwatch_League_Season_2_Regular_Season_Stage_1.txt"
+        ):
+            print("debug catch!")
+
+        tournament_info_raw = extract_elements(
+            wikitext, "Infobox league"
+        ) or extract_elements(wikitext, "HiddenDataBox")
         team_cards_raw = extract_elements(wikitext, "TeamCard")
 
-        tournament_info = []
-        team_cards = []
-
-        for optional, content in tournament_info_raw:
-            element_data = parse_wikitext_element(content)
-            if optional:
-                element_data["optional"] = optional.strip().lstrip("|")
-            tournament_info.append(element_data)
-
-        for optional, content in team_cards_raw:
-            element_data = parse_wikitext_element(content)
-            if optional:
-                element_data["optional"] = optional.strip().lstrip("|")
-            team_cards.append(element_data)
+        tournament_info = [
+            parse_wikitext_element(content, optional)
+            for optional, content in tournament_info_raw
+        ]
+        team_cards = [
+            parse_wikitext_element(content, optional)
+            for optional, content in team_cards_raw
+        ]
 
         if is_legacy:
-            legacy_match_cards = process_legacy_match_elements(wikitext)
-            legacy_match_cards = rename_legacy_match_keys(legacy_match_cards)
+            legacy_match_cards = rename_legacy_match_keys(
+                process_legacy_match_elements(wikitext)
+            )
             match_maps = process_match_maps_elements(wikitext)
 
             data = {
@@ -344,12 +362,10 @@ def process_and_save_wikitext_data():
 
         else:
             match_cards_raw = extract_elements(wikitext, "Match")
-            match_cards = []
-            for optional, content in match_cards_raw:
-                match_data = parse_wikitext_element(content)
-                if optional:
-                    match_data["optional"] = optional.strip().lstrip("|")
-                match_cards.append(match_data)
+            match_cards = [
+                parse_wikitext_element(content, optional)
+                for optional, content in match_cards_raw
+            ]
 
             data = {
                 "tournament_info": tournament_info,

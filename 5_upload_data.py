@@ -182,6 +182,13 @@ logging.basicConfig(
 )
 
 
+def clean_text(value):
+    if isinstance(value, str):
+        value = value.strip().upper()
+        return value if value else None
+    return value
+
+
 def insert_tournament_data(conn, tournament_data):
     cursor = conn.cursor()
     tournament_ids = {}
@@ -203,40 +210,25 @@ def insert_tournament_data(conn, tournament_data):
             excluded_tournaments.append((json_file_name, txt_file_size))
             continue
 
-        # Check for date fields
-        date = (
-            tournament.get("date")
-            or tournament.get("sdate")
-            or tournament.get("edate")
-            or "9999-12-31"
-        )
-
-        # if not date:
-        #     json_file_name = tournament["file_name"]
-        #     txt_file_name = json_file_name.replace(".json", ".txt")
-        #     txt_file_path = os.path.join(
-        #         "C:\\Users\\jorda\\PycharmProjects\\liquipedia_data_miner\\tournaments_text",
-        #         txt_file_name,
-        #     )
-        #     txt_file_size = (
-        #         os.path.getsize(txt_file_path)
-        #         if os.path.exists(txt_file_path)
-        #         else "File not found"
-        #     )
-        #     excluded_tournaments.append((json_file_name, txt_file_size))
-        #     continue
-
         sanitized_tournament = sanitize_keys(tournament)
         filtered_tournament = filter_tournament_keys(sanitized_tournament)
         columns = ", ".join(filtered_tournament.keys())
         placeholders = ", ".join("?" for _ in filtered_tournament)
+
+        # Clean text fields
+        for key, value in filtered_tournament.items():
+            filtered_tournament[key] = clean_text(value)
+
         sql = f"INSERT INTO Tournaments ({columns}) VALUES ({placeholders})"
         cursor.execute(sql, tuple(filtered_tournament.values()))
         tournament_id = cursor.lastrowid
         tournament_ids[tournament_id] = (
             teams,
             match_cards,
-            date,
+            tournament.get("date")
+            or tournament.get("sdate")
+            or tournament.get("edate")
+            or "9999-12-31",
         )
 
     conn.commit()
@@ -257,10 +249,12 @@ def insert_team_and_member_data(conn, tournament_ids):
         for team in teams:
             if not team.get("team"):
                 continue  # Skip teams with no name
+
+            team_name = clean_text(team.get("team"))
             cursor.execute(
                 """INSERT INTO Teams (tournament_id, team)
                               VALUES (?, ?)""",
-                (tournament_id, team.get("team")),
+                (tournament_id, team_name),
             )
             team_id = cursor.lastrowid
 
@@ -272,14 +266,17 @@ def insert_team_and_member_data(conn, tournament_ids):
                     index = key[1:]
                     pos_key = f"pos{index}"
                     flag_key = f"{key}flag"
+                    member_name = clean_text(value)
+                    member_role = clean_text(team.get(pos_key))
+                    member_flag = clean_text(team.get(flag_key))
                     cursor.execute(
                         """INSERT INTO Members (team_id, name, role, flag, section)
                                       VALUES (?, ?, ?, ?, ?)""",
                         (
                             team_id,
-                            value,
-                            team.get(pos_key, None),
-                            team.get(flag_key, None),
+                            member_name,
+                            member_role,
+                            member_flag,
                             key,
                         ),
                     )
@@ -290,14 +287,17 @@ def insert_team_and_member_data(conn, tournament_ids):
                     else:
                         pos_key = f"{key}pos"
                     flag_key = f"{key}flag"
+                    member_name = clean_text(value)
+                    member_role = clean_text(team.get(pos_key))
+                    member_flag = clean_text(team.get(flag_key))
                     cursor.execute(
                         """INSERT INTO Members (team_id, name, role, flag, section)
                                       VALUES (?, ?, ?, ?, ?)""",
                         (
                             team_id,
-                            value,
-                            team.get(pos_key, None),
-                            team.get(flag_key, None),
+                            member_name,
+                            member_role,
+                            member_flag,
                             key,
                         ),
                     )
@@ -364,6 +364,9 @@ def insert_match_data(conn, tournament_ids):
             continue  # Skip if there are no match cards
         parsed_matches = parse_match_data(match_cards, tournament_date)
         for match_record, maps in parsed_matches:
+            for key, value in match_record.items():
+                match_record[key] = clean_text(value)
+
             cursor.execute(
                 """INSERT INTO Matches (tournament_id, date, date_time, date_timezone, team1, team2, score1, score2, winner, mvp, comment, owl, vod, format)
                               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
@@ -386,6 +389,9 @@ def insert_match_data(conn, tournament_ids):
             )
             match_id = cursor.lastrowid
             for map_data in maps:
+                for key, value in map_data.items():
+                    map_data[key] = clean_text(value)
+
                 cursor.execute(
                     """INSERT INTO Maps (match_id, map, mode, score1, score2, winner)
                                   VALUES (?, ?, ?, ?, ?, ?)""",

@@ -5,7 +5,7 @@ from tqdm import tqdm
 
 # Configuration parameters
 config = {
-    "base_k": 150,  # Base K-factor for ELO calculations
+    "base_k": 200,  # Base K-factor for ELO calculations
     "initial_elo": 1500.0,  # Initial ELO rating for all players and coaches
     "tier_multiplier_factor_pre_2024": 12,  # Pre-2024 tier multiplier factor
     "tier_exponent_pre_2024": 2,  # Pre-2024 tier exponent

@@ -22,16 +22,6 @@ def split_key_value(key, value):
         return {key: value}
 
 
-# def convert_score(score):
-#     """Converts special score strings to numerical values."""
-#     valid_scores = ["W", "FF", "DQ", "L"]
-#     if score in valid_scores:
-#         return 1 if score == "W" else 0
-#     if score.isdigit():
-#         return int(score)
-#     return 0  # Invalid or missing score
-
-
 def process_special_elements(key, value):
     """Processes special elements in double curly brackets."""
     if "{{abbr/" in value.lower():
@@ -60,6 +50,11 @@ def process_special_elements(key, value):
         map_details = re.findall(r"(\w+)=(.*?)(?:\||\}\})", map_part)
         map_dict = {normalize_score_key(k): v for k, v in map_details}
         return {key: map_dict}
+    elif re.match(r"\{\{TIERTEXT/\d+\}\}", value):
+        # Extract the number from TIERTEXT
+        tiertext_match = re.match(r"\{\{TIERTEXT/(\d+)\}\}", value)
+        if tiertext_match:
+            return {key: tiertext_match.group(1).strip()}
     return {key: value}
 
 
@@ -136,6 +131,7 @@ if __name__ == "__main__":
         "opponent6": "{{TeamOpponent|ngred|score=-}}",
         "extra": "MerryGo{{Map|map=|mode=|score1=|score2=|winner=}}",
         "team2": "seoul dynasty |games2=0",
+        "tier": "{{TIERTEXT/5}}",
     }
 
     processed_data = clean_json(data)

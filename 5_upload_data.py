@@ -8,7 +8,7 @@ from dateutil import parser
 
 # List of allowed keys with their types
 allowed_tournament_keys = [
-    ("liquipediatier", "TEXT"),
+    ("liquipediatier", "INTEGER"),
     ("name", "TEXT"),
     ("image", "TEXT"),
     ("type", "TEXT"),
@@ -189,29 +189,46 @@ def clean_text(value):
     return value
 
 
+def convert_liquipediatier(value):
+    try:
+        value = int(value)
+        if value > 0:
+            return value
+    except (ValueError, TypeError):
+        pass
+    return 5
+
+
 def insert_tournament_data(conn, tournament_data):
     cursor = conn.cursor()
     tournament_ids = {}
     excluded_tournaments = []
 
     for tournament, teams, match_cards in tournament_data:
-        if not match_cards:
-            json_file_name = tournament["file_name"]
-            txt_file_name = json_file_name.replace(".json", ".txt")
-            txt_file_path = os.path.join(
-                "C:\\Users\\jorda\\PycharmProjects\\liquipedia_data_miner\\tournaments_text",
-                txt_file_name,
-            )
-            txt_file_size = (
-                os.path.getsize(txt_file_path)
-                if os.path.exists(txt_file_path)
-                else "File not found"
-            )
-            excluded_tournaments.append((json_file_name, txt_file_size))
-            continue
+        # if not match_cards:
+        #     json_file_name = tournament["file_name"]
+        #     txt_file_name = json_file_name.replace(".json", ".txt")
+        #     txt_file_path = os.path.join(
+        #         "C:\\Users\\jorda\\PycharmProjects\\liquipedia_data_miner\\tournaments_text",
+        #         txt_file_name,
+        #     )
+        #     txt_file_size = (
+        #         os.path.getsize(txt_file_path)
+        #         if os.path.exists(txt_file_path)
+        #         else "File not found"
+        #     )
+        #     excluded_tournaments.append((json_file_name, txt_file_size))
+        #     continue
 
         sanitized_tournament = sanitize_keys(tournament)
         filtered_tournament = filter_tournament_keys(sanitized_tournament)
+
+        # Convert liquipediatier to integer and handle conversion failures
+        if "liquipediatier" in filtered_tournament:
+            filtered_tournament["liquipediatier"] = convert_liquipediatier(
+                filtered_tournament["liquipediatier"]
+            )
+
         columns = ", ".join(filtered_tournament.keys())
         placeholders = ", ".join("?" for _ in filtered_tournament)
 

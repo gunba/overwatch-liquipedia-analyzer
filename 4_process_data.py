@@ -327,12 +327,6 @@ def process_and_save_wikitext_data():
             ]
         )
 
-        if (
-            text_filename
-            == "Overwatch_League_Season_2_Regular_Season_Stage_1.txt"
-        ):
-            print("debug catch!")
-
         tournament_info_raw = extract_elements(
             wikitext, "Infobox league"
         ) or extract_elements(wikitext, "HiddenDataBox")

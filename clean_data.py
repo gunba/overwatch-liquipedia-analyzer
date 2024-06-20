@@ -76,6 +76,9 @@ def normalize_date(date_str):
 
 def convert_liquipediatier(value):
     """Converts liquipediatier value to an integer, defaulting to 5 if invalid."""
+    if '|' in value:
+        value = value.split('|')[0]  # Take only the part before the pipe
+    
     try:
         value = int(value)
         if value > 0:
@@ -83,6 +86,7 @@ def convert_liquipediatier(value):
     except (ValueError, TypeError):
         pass
     return 5
+
 
 def process_dict(d):
     """Processes a dictionary, handling nested dictionaries and lists."""
@@ -260,7 +264,7 @@ if __name__ == "__main__":
         "extra": "MerryGo{{Map|map=|mode=|score1=|score2=|winner=}}",
         "team2": "seoul dynasty |games2=0",
         "tier": "{{TIERTEXT/5}}",
-        "liquipediatier": "3",
+        "liquipediatier": "3|liquitestvalue=xx",
     }
 
     processed_data = clean_json(data)
